@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1993-07-04
+Version Consolidée au 1993-07-30
 
 # Partie législative
 
@@ -30166,93 +30166,6 @@ cautionnements, qui leur avaient été imposées en vertu de la réglementation 
 	  - Code des assurances R310-10-1, R321-1
 
 
-##### Paragraphe 1 : Dispositions transitoires relatives à la marge de solvabilité des entreprises d'assurance de dommages.
-
-###### Article R334-30
-
-Les entreprises françaises agréées à la date du 23 juillet 1976 pour pratiquer une ou plusieurs des branches mentionnées aux
-1 à 17 de l'article R. 321-1, et dont au 31 juillet 1978 le montant annuel des primes ou cotisations émises, accessoires
-compris et annulations déduites, n'atteint pas le sextuple du montant minimal du fonds de garantie, peuvent être dispensées
-par le ministre de l'économie, des finances et du budget de toute obligation concernant le montant du fonds de garantie,
-jusqu'à la clôture de l'exercice au cours duquel le total annuel des primes ou cotisations définies comme il est dit ci-
-dessus dépasse le sextuple du montant minimal du fonds de garantie.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-
-###### Article R334-31
-
-Nonobstant les dispositions de la présente section, les entreprises agréées ne peuvent obtenir une extension d'agrément pour
-pratiquer d'autres branches mentionnées aux 1 à 17 de l'article R. 321-1 que si elles justifient que leur marge de
-solvabilité est au moins égale au montant réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-
-##### Paragraphe 2 : Dispositions transitoires relatives à la marge de solvabilité des entreprises d'assurance sur la vie.
-
-###### Article R334-38
-
-I. - Lorsqu'une entreprise, filiale d'une entreprise étrangère qui cumule dans un Etat membre de la Communauté économique
-européenne où elle a son siège social, les activités mentionnées aux 1° à 4° de l'article L. 310-1 avec les activités
-mentionnées au 5° du même article, sollicite l'agrément pour les opérations comprises dans une ou plusieurs des branches
-mentionnées aux 20 à 26 de l'article R. 321-1, le montant minimal du fonds de garantie peut, par décision du ministre de
-l'économie, des finances et du budget et par dérogation aux dispositions de l'article R. 334-15, être représenté à
-concurrence de 50 % par une garantie financière irrévocable accordée par l'entreprise étrangère lorsque sont remplies les
-conditions suivantes :
-
-a) 95 % au moins du capital de l'entreprise filiale doivent être détenus par l'entreprise étrangère ;
-
-b) la fraction non versée du capital social ne peut être utilisée pour constituer la moitié du montant minimal du fonds de
-garantie non couverte par la garantie financière irrévocable ;
-
-c) l'entreprise étrangère doit justifier qu'elle remplit les conditions financières imposées par la législation du pays de
-son siège social pour le cumul des activités mentionnées aux 1° à 4° de l'article L. 310-1 et au 5° du même article, les
-fonds correspondant au montant de la garantie financière mentionnée au présent article n'étant pas considérés comme faisant
-partie du patrimoine libre de cette entreprise.
-
-II. - Le bénéfice des mesures mentionnées au présent article ne peut être accordé que pour une période de sept années à
-compter de la date de son octroi par le ministre de l'économie, des finances et du budget. L'entreprise bénéficiaire desdites
-mesures doit, au cours de cette période et au plus tard à partir de la troisième année suivant la date d'octroi du bénéfice
-de ces mesures, remplacer progressivement la garantie financière par des éléments constitutifs du fonds de garantie. Un plan
-établi à cet effet doit être soumis à l'accord du ministre de l'économie, des finances et du budget à l'appui de la demande
-d'agrément présentée par l'entreprise.
-
-III. - Le bénéfice des dispositions du présent article ne peut être octroyé après le 15 mars 1989.
-
-IV. - Le présent article n'est pas applicable aux filiales d'entreprises qui, à la date du 15 septembre 1979, disposaient sur
-le territoire de la République française d'une succursale agréée pour pratiquer une ou plusieurs des branches mentionnées aux
-1 à 17 de l'article R. 321-1.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. R*334-15 (M)
-	  - Code des assurances L310-1, R321-1, R334-15
-
-
 ### Titre IV : Dispositions comptables et statistiques
 
 #### Chapitre Ier : Principes généraux.
@@ -44132,28 +44045,15 @@ provisions mathématiques.
 
 ###### Article A331-1-2
 
-les provisions mathématiques des contrats d'assurance sur la vie souscrits postérieurement au 8 novembre 1974 doivent être
-calculées d'après les tables de mortalité mentionnées à l'article A. 335-1 et des taux d'intérêt au plus égaux à ceux retenus
-pour l'établissement des tarifs.
+Les provisions mathématiques de tous les contrats individuels et collectifs de rentes viagères en cours de service au 1er
+juillet 1993 ou liquidées à compter de cette même date, doivent être calculées en appliquant auxdits contrats, lors de tous
+leurs inventaires annuels, à partir de cette date, les bases techniques définies au 1° de l'article A. 331-1-1.
 
-Lorsque la durée de paiement des primes est inférieure à la durée du contrat, les provisions mathématiques doivent
-comprendre, en outre, une provision de gestion permettant de couvrir les frais de gestion pendant la période au cours de
-laquelle les primes ne sont plus payées. Ces frais doivent être estimés à un montant justifiable et raisonnable, sans pouvoir
-être inférieurs, chaque année, à :
+Les entreprises peuvent répartir sur une période de quinze ans au plus les effets sur le provisionnement résultant de
+l'utilisation des tables de génération homologuées par arrêté du ministre de l'économie.
 
-a) Assurances en cas de décès : 0,30 p. 1.000 du capital assuré pour les assurances temporaires et 1,50 p. 1.000 du capital
-assuré pour les autres assurances ;
-
-b) Assurances en cas de vie : 1,50 p. 1.000 du capital assuré. Pour les rentes immédiates, 3 p. 100 du montant de chaque
-arrérage.
-
-Pour l'application du présent article, les rentes différées sont considérées comme la combinaison d'un capital différé et
-d'une rente immédiate ;
-
-c) Assurances comportant simultanément une garantie en cas de décès et une garantie en cas de vie :
-
-Le taux prévu au b ci-dessus s'applique à la garantie en cas de vie et le taux prévu au a pour les assurances temporaires en
-cas de décès s'applique à l'excédent de la garantie en cas de décès sur la garantie en cas de vie.
+Les entreprises devront néanmoins avoir, dans un délai d'au plus huit ans, un niveau de provisionnement des rentes viagères
+supérieur ou égal à celui obtenu avec la table TV 88-90 homologuée par arrêté du 27 avril 1993.
 
 **Liens relatifs à cet article**
 
@@ -44161,9 +44061,15 @@ cas de décès s'applique à l'excédent de la garantie en cas de décès sur la
 
 	  - Arrêté 1976-07-16
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Arrêté 1983-02-17 art. 1 JORF 3 mars 1983
+	  - Arrêté 1984-12-21 art. 6 JORF 26 décembre 1984
+	  - Arrêté 1993-03-19 art. 7 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+	  - Arrêté 1993-07-28 art. 2 JORF 30 juillet 1993
+
+	**Cite**:
+
+	  - Arrêté 1993-04-27
 
 	**Cité par**:
 
@@ -44174,14 +44080,6 @@ cas de décès s'applique à l'excédent de la garantie en cas de décès sur la
 	**Anciens textes**:
 
 	  - Code des assurances - art. A331-1 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. A331-1-1 (T)
-
-	**Cite**:
-
-	  - Code des assurances - art. A335-1 (M)
 
 	**Liens**:
 
