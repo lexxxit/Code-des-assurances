@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-10-15
+Version Consolidée au 1991-10-30
 
 # Partie législative
 
@@ -21844,45 +21844,6 @@ prévoyant la participation des assurés aux bénéfices.
 	  - Décret n°93-234 du 22 février 1993 - art. 1 (V) JORF 24 février 1993
 
 
-##### Section IV : Sociétés d'assurance à forme mutuelle
-
-##### Paragraphe 1 : Constitution.
-
-###### Article R*322-44
-
-Les sociétés d'assurance à forme mutuelle doivent avoir un fonds d'établissement au moins égal à :
-
-- 2.500.000 F pour pratiquer les opérations mentionnées aux 10 à 15, 20, 21, 22, 24, 25, 27 et 28 de l'article R. 321-1 ;
-
-- 1.500.000 F pour pratiquer les opérations entrant dans d'autres branches que celles énumérées ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1206 1962-10-15 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 2 (V) JORF 12 mai 1984
-
-	**Cité par**:
-
-	  - Code des assurances - art. R322-80 (V)
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R322-42
-
-
 ##### Section IV : Sociétés d'assurance mutuelles
 
 ##### Paragraphe 1 : Constitution.
@@ -33868,15 +33829,41 @@ l'entreprise dans le cadre des opérations effectuées par ses établissements �
 
 ###### Article R345-1
 
-Les comptes des entreprises d'assurance et de capitalisation qui ont le statut de société commerciale sont consolidés suivant
-les règles fixées aux articles 248 à 248-13 du décret n° 67-236 du 23 mars 1967 modifié sous réserve des dispositions du
-présent chapitre.
+Les comptes consolidés mentionnés à l'article L. 345-1 sont établis suivant les règles fixées par les articles 357-1 à 357-11
+de la loi n° 66-537 du 24 juillet 1966 et par les articles 248 à 248-12 et 248-14 du décret n° 67-236 du 23 mars 1967, sous
+réserve des dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°67-236 1967-03-23 art. 248 à 248-13
+	  - Loi n°66-537 1966-07-24 art. 357-1 à 357-11
+	  - Décret n°67-236 1967-03-23 art. 248 à 248-12, art. 248-14
+	  - Décret n°67-236 du 23 mars 1967 - art. 248-14 (M)
+	  - Code des assurances - art. L345-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°91-1123 du 28 octobre 1991 - art. 1 () JORF 30 octobre 1991
+
+	**Cité par**:
+
+	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
+	  - Code des assurances - art. R334-42 (M)
+
+
+###### Article R345-1-1
+
+Pour l'application du 3° de l'article L. 345-1, sont considérées comme ayant entre elles des liens de réassurance importants
+et durables les entreprises dont l'une a cédé en moyenne, au cours des trois derniers exercices, la moitié au moins de ses
+primes à une autre entreprise ou à plusieurs entreprises qui forment elles-mêmes un ensemble d'entreprises d'assurance au
+sens de l'article L. 345-1.
+
+**Liens relatifs à cet article**
 
 	**Anciens textes**:
 
@@ -33888,12 +33875,117 @@ présent chapitre.
 
 	**Créé par**:
 
-	  - Décret n°86-221 du 17 février 1986 - art. 9 () JORF 19 février 1986
+	  - Décret n°91-1123 du 28 octobre 1991 - art. 2 () JORF 30 octobre 1991
 
 	**Cité par**:
 
 	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
-	  - Code des assurances - art. R334-42 (M)
+	  - Code des assurances - art. R345-1-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L345-1 (M)
+
+
+###### Article R345-1-2
+
+L'entreprise tenue d'établir les comptes consolidés est :
+
+a) Dans le cas mentionné au 2° de l'article L. 345-1, l'entreprise ayant encaissé en moyenne, au cours des cinq derniers
+exercices, le montant de primes le plus élevé ;
+
+b) Dans le cas mentionné au 3° du même article, l'entreprise qui réassure dans les conditions fixées à l'article R. 345-1-1
+et, si plusieurs réassureurs interviennent, celle à laquelle la société réassurée a cédé en moyenne, au cours des trois
+derniers exercices, le montant de primes le plus élevé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-836 1969-08-29
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°91-1123 du 28 octobre 1991 - art. 2 () JORF 30 octobre 1991
+
+	**Cité par**:
+
+	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
+	  - Code des assurances - art. R322-55-1 (Ab)
+	  - Code des assurances - art. R345-1-3 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L345-1 (M)
+	  - Code des assurances - art. R345-1-1 (M)
+
+
+###### Article R345-1-3
+
+L'entreprise sur laquelle pèse l'obligation de consolidation est exemptée de cette obligation lorsque ses comptes sont eux-
+mêmes consolidés, autrement que par mise en équivalence, dans un ensemble plus grand d'entreprises, dont la société
+consolidante est une entreprise mentionnée à l'article L. 310-1 ou à l'article 15 du décret n° 86-221 du 17 février 1986.
+
+Cette exemption de consolidation est soumise à la condition fixée au 1° de l'article 357-2 de la loi du 24 juillet 1966 ou,
+s'il s'agit d'une société d'assurance mutuelle, à la condition que le dixième des sociétaires ne s'y oppose pas.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 357-2
+	  - Décret n°86-221 du 17 février 1986 - art. 15 (V)
+	  - Code des assurances - art. L310-1 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°69-836 1969-08-29
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°91-1123 du 28 octobre 1991 - art. 2 () JORF 30 octobre 1991
+
+	**Abrogé par**:
+
+	  - Décret n°95-883 du 31 juillet 1995 - art. 4 () JORF 5 août 1995
+
+
+###### Article R345-1-4
+
+Lorsqu'un ensemble d'entreprises se trouve dans au moins deux des cas mentionnés au deuxième alinéa de l'article L. 345-1,
+l'entreprise tenue d'établir les comptes consolidés est celle qui exerce un contrôle exclusif ou conjoint, ou une influence
+notable, lorsque ce cas s'applique ; lorsque ce cas ne s'applique pas, l'entreprise tenue d'établir les comptes consolidés
+est l'entreprise ayant encaissé en moyenne, au cours des cinq derniers exercices, le montant des primes le plus élevé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-836 1969-08-29
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°91-1123 du 28 octobre 1991 - art. 2 () JORF 30 octobre 1991
+
+	**Abrogé par**:
+
+	  - Décret n°95-883 du 31 juillet 1995 - art. 4 () JORF 5 août 1995
+
+	**Cite**:
+
+	  - Code des assurances - art. L345-1 (M)
 
 
 ##### Section I : Méthodes de consolidation.
@@ -33928,11 +34020,40 @@ rétrocessions.
 	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
 
 
+###### Article R345-2-1
+
+Dans les cas mentionnés au 2° et au 3° de l'article L. 345-1, la consolidation s'effectue par agrégation des éléments de
+patrimoine et de résultats des entreprises consolidées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-836 1969-08-29
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°91-1123 du 28 octobre 1991 - art. 3 () JORF 30 octobre 1991
+
+	**Cité par**:
+
+	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
+	  - Code des assurances - art. R345-1-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L345-1 (M)
+
+
 ###### Article R345-3
 
-Dans la consolidation par intégration globale ou proportionnelle, le retraitement qui résulte de l'élimination générale des
-créances et des dettes réciproques peut n'être que partiel en ce qui concerne les recours sur sinistres entre sociétés
-consolidées.
+Dans la consolidation par intégration globale ou proportionnelle, ou par agrégation, le retraitement qui résulte de
+l'élimination générale des créances et des dettes réciproques peut n'être que partiel en ce qui concerne les recours sur
+sinistres entre sociétés consolidées.
 
 En outre, les suppléments de valeur dégagés à l'occasion de transactions portant sur des placements représentatifs de
 provisions techniques sont maintenus dans les comptes consolidés.
@@ -33947,14 +34068,14 @@ provisions techniques sont maintenus dans les comptes consolidés.
 
 	  - SPEC_APPLI: Décret n°86-221 du 17 février 1986 - art. 10 (V)
 
-	**Créé par**:
-
-	  - Décret n°86-221 du 17 février 1986 - art. 9 () JORF 19 février 1986
-
 	**Cité par**:
 
 	  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
 	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Décret n°91-1123 du 28 octobre 1991 - art. 5 () JORF 30 octobre 1991
 
 
 ###### Article R345-4
@@ -34097,6 +34218,42 @@ du décret n° 67-236 du 23 mars 1967 modifié les renseignements mentionnés au
 	**Cité par**:
 
 	  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+
+###### Article R345-10
+
+Les comptes consolidés font apparaître distinctement le total des capitaux propres et les résultats des sociétés d'assurance
+mutuelles consolidées par une société anonyme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°91-1123 du 28 octobre 1991 - art. 4 () JORF 30 octobre 1991
+
+
+###### Article R345-11
+
+Les capitaux propres et les résultats des entreprises consolidées en application des 2° et 3° de l'article L. 345-1 font
+l'objet d'une information dans l'annexe des comptes consolidés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°91-1123 du 28 octobre 1991 - art. 4 () JORF 30 octobre 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. L345-1 (M)
 
 
 ### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire en assurances de dommages
