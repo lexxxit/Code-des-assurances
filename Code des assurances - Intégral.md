@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-10-09
+Version Consolidée au 1985-11-20
 
 # Partie législative
 
@@ -47632,7 +47632,184 @@ de tout autre service public ou d'intérêt public.
 
 #### Chapitre III : La caisse nationale de prévoyance
 
+##### Section I : Dispositions générales.
+
+###### Article A433-1
+
+Sont applicables à la caisse nationale de prévoyance les dispositions suivantes de la troisième partie "arrêtés" du présent
+code :
+
+a) Titres Ier et III du livre Ier ;
+
+b) Section II du titre VI du livre Ier ;
+
+c) Titre III du livre III à l'exception du chapitre V, ainsi que des articles A. 331-1-1 à A. 331-2 et A. 331-10 à A.
+331-12 ;
+
+d) Titre IV du livre III ;
+
+Toutefois, les pouvoirs du ministre de l'économie et des finances et du conseil national des assurances sont exercés par la
+commission supérieure de la caisse nationale de prévoyance, pour l'application des dispositions du titre III du livre III.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1985-11-07 art. 6 JORF 20 novembre 1985
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
+
+	**Cite**:
+
+	  - Code des assurances A331-1-1 à A331-2, A331-10 à A331-12
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R432-4, R432-47
+
+
 ##### Section V : Tarifs.
+
+###### Article A433-2
+
+A compter du 1er janvier 1986, les tarifs des nouvelles formules d'assurance sur la vie présentées au public par la Caisse
+nationale de prévoyance doivent, sous réserve des dispositions de l'article A. 433-4, être établis d'après les éléments
+suivants :
+
+1° Tables de mortalité TD 73-77 pour les assurances en cas de décès et TV 73-77 pour les assurances en cas de vie, annexées à
+l'article A. 335-1 ;
+
+2° Taux d'intérêt au plus égaux à 5 p. 100 pour les contrats de rente immédiate, à 4,50 p. 100 pour toutes les autres
+catégories de contrats.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1975-05-28 art. 1
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1979-03-29 art. 1 JORF 18 avril 1979
+	  - Arrêté 1985-11-07 art. 1 JORF 20 novembre 1985
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. A335-1 (M)
+	  - Code des assurances - art. A433-4 (Ab)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A433-2-1 (Ab)
+	  - Code des assurances - art. A433-3 (Ab)
+	  - Code des assurances - art. A433-7 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R433-2
+
+
+###### Article A433-2-1
+
+Les tarifs appliqués par la caisse nationale de prévoyance aux formules d'assurance sur la vie présentées au public avant le
+1er janvier 1986 devront, sous réserve des dispositions de l'article A. 433-4, être établis d'après les éléments visés aux 1°
+et 2° de l'article A. 433-2 :
+
+- à compter du 1er janvier 1986 au plus tard, pour les contrats d'assurances temporaires en cas de décès, de rentes de
+survie, d'assurance vie entière et de rentes viagères immédiates et différées ;
+
+- à compter du 1er janvier 1990 au plus tard, pour les tarifs autres que ceux mentionnés au 1° ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1985-11-07 art. 2 JORF 20 novembre 1985
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. A433-2 (Ab)
+	  - Code des assurances - art. A433-4 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R433-2
+
+
+###### Article A433-3
+
+Les provisions mathématiques des contrats d'assurance sur la vie dont les tarifs prennent effet à compter du 1er janvier 1986
+doivent être calculées d'après les tables de mortalité mentionnées à l'article A. 433-2 et d'après des taux d'intérêt au plus
+égaux à ceux retenus pour l'établissement des tarifs.
+
+Lorsque la durée de paiement des primes est inférieure à la durée du contrat, les provisions mathématiques doivent comprendre
+en outre une provision de gestion permettant de couvrir les frais de gestion pendant la période au cours de laquelle les
+primes ne sont plus payées.
+
+La commission supérieure de la caisse nationale de prévoyance peut, sur justification, autoriser la caisse à calculer les
+provisions mathématiques de tous ses contrats en cours, à l'exception de ceux qui sont mentionnés à l'article A. 433-4, en
+leur appliquant lors de tous les inventaires annuels ultérieurs les bases techniques définies au présent article. S'il y a
+lieu, la commission supérieure peut autoriser l'établissement à répartir sur une période de cinq ans au plus les effets de la
+modification des bases de calcul des provisiions mathématiques.
+
+Les provisions mathématiques de tous les contrats individuels et collectifs de rentes viagères en cours de service au 1er
+janvier 1986 ou liquidées à compter de cette date doivent être calculées en appliquant auxdits contrats, lors de tous leurs
+inventaires annuels à partir de cette date, les bases techniques définies au premier alinéa du présent article et,
+éventuellement, à l'article A. 433-4.
+
+Toutefois, la commission supérieure de la caisse nationale de prévoyance peut autoriser cet établissement à répartir sur une
+période de cinq ans au plus les effets résultant des dispositions prévues à l'alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Anciens textes**:
+
+	  - Arrêté 1979-03-29 art. 2
+
+	**Modifié par**:
+
+	  - Arrêté 1979-03-29 art. 2 JORF 18 avril 1979
+	  - Arrêté 1985-11-07 art. 3, art. 4 JORF 20 novembre 1985
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. A433-2 (Ab)
+	  - Code des assurances - art. A433-4 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R433-2
+
 
 ###### Article A433-4
 
