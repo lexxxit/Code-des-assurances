@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1993-02-24
+Version Consolidée au 1993-03-20
 
 # Partie législative
 
@@ -38894,34 +38894,6 @@ chapitre du budget du ministère de l'Economie et des Finances afférent aux maj
 
 ##### Section I : Dispositions générales.
 
-###### Article R*441-1
-
-La caisse nationale de prévoyance et les entreprises d'assurance qui sont habilitées à réaliser des opérations comportant des
-engagements dont l'exécution dépend de la durée de la vie humaine, ne peuvent réaliser les opérations prévues aux articles L.
-441-1 et L. 441-3 qu'en se conformant aux dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-537 1964-06-04 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. L441-1 (M)
-	  - Code des assurances - art. L441-3 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*441-31 (Ab)
-	  - Code des assurances - art. R*441-33 (Ab)
-	  - Code des assurances - art. R*441-34 (Ab)
-
-
 ###### Article R*441-2
 
 Le présent chapitre n'est pas applicable aux organismes relevant du code de la mutualité ou de l'article 1052 du code rural.
@@ -38958,6 +38930,34 @@ En cas de récidive, la peine d'emprisonnement pourra être portée de un mois �
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+
+###### Article R441-1
+
+Les entreprises d'assurance qui sont habilitées à réaliser des opérations comportant des engagements dont l'exécution dépend
+de la durée de la vie humaine, ne peuvent réaliser les opérations prévues aux articles L. 441-1 et L. 441-3 qu'en se
+conformant aux dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 5 () JORF 20 mars 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L441-1 (M)
+	  - Code des assurances - art. L441-3 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*441-31 (Ab)
+	  - Code des assurances - art. R*441-33 (Ab)
+	  - Code des assurances - art. R*441-34 (Ab)
 
 
 ##### Section II : Règles techniques et comptables.
@@ -43584,132 +43584,7 @@ crédit lui-même tenu à l'obligation d'identification.
 
 ### Titre II : Régime administratif
 
-#### Chapitre Ier : Les agréments.
-
-##### Section VI : Dispositions spéciales concernant la coassurance communautaire.
-
-###### Article A321-1
-
-Le montant de la garantie à partir duquel un contrat d'assurance communautaire peut être souscrit est fixé à 30 millions
-d'unités de compte de la Communauté économique européenne pour les risques appartenant aux branches mentionnées aux 4, 5, 6,
-7, 11 et 12 de l'article R. 321-1.
-
-Ce montant est fixé à 50 millions d'unités de compte de la Communauté économique européenne pour les risques appartenant aux
-branches mentionnées aux 8, 9 et 16 de l'article R. 321-1.
-
-Pour les risques appartenant à la branche mentionnée au 13 de l'article R. 321-1, sont admis à la coassurance communautaire
-les assurés dont le chiffre d'affaires est supérieur ou égal à 200 millions d'unités de compte de la Communauté économique
-européenne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1988-01-22 art. 1 JORF 24 février 1988
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cité par**:
-
-	  - Code des assurances - art. A310-3 (Ab)
-	  - Code des assurances - art. A321-2 (V)
-	  - Code des assurances - art. A321-3 (Ab)
-	  - Code des assurances - art. A321-7 (V)
-	  - Code des assurances - art. A321-8 (V)
-	  - Code des assurances - art. A362-1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R321-23 (M)
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-
 #### Chapitre II : Règles de constitution et de fonctionnement
-
-##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance
-
-##### Paragraphe 2 : Administration.
-
-###### Article A322-1
-
-Le collège exerçant les pouvoirs de l'assemblée générale des actionnaires des sociétés centrales d'assurance ne siège
-valablement que si la moitié au moins de ses membres sont présents ou représentés.
-
-Les résolutions sont adoptées à la majorité des voix des membres présents. En cas de partage égal des voix, celle du
-président est prépondérante.
-
-Le collège peut charger l'un de ses membres de lui faire un rapport sur les questions soumises à examen. Le rapporteur ainsi
-désigné reçoit toute la documentation nécessaire de la société intéressée.
-
-Les dispositions du présent article sont applicables à la commission exerçant les pouvoirs de l'assemblée générale des
-sociétés du groupe Mutuelle générale française.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1974-04-17 art. 1, art. 2, art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-	  - Code des assurances - art. A321-1 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*322-25 (T)
-	  - TXT_SOURCE: Code des assurances R322-25
-
-
-##### Paragraphe 3 : Distribution et cession des actions des sociétés centrales d'assurance.
-
-###### Article A322-3
-
-Sont agréés, en application de l'article R. 322-33, les organismes de retraite et de prévoyance relevant de l'article L. 4 du
-code de la sécurité sociale, ou du décret n° 68-300 du 29 mars 1968.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1973-07-26 art. 8
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cite**:
-
-	  - Décret n°68-300 1968-03-29
-	  - Code de la sécurité sociale L4
-	  - Code des assurances R322-33
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*322-33 (Ab)
-	  - TXT_SOURCE: Code des assurances R322-33
-
 
 ##### Section IV : Sociétés d'assurance à forme mutuelle.
 
@@ -43789,223 +43664,6 @@ ne peut être supérieur à 10 % de la cotisation annuelle.
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
-
-
-#### Chapitre III : Procédures de redressement et de sauvegarde
-
-##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.
-
-###### Article A323-1
-
-La commission instituée par l'article L. 323-3 est placée sous la présidence du conseiller d'Etat, vice-président du conseil
-national des assurances, ou, en cas d'empêchement de celui-ci, de son suppléant.
-
-Outre son président, la commission comprend au titre de représentants de l'administration :
-
-- le directeur des assurances au ministère de l'économie et des finances, ou son représentant ;
-
-- le sous-directeur de la direction des assurances au ministère de l'économie et des finances ayant dans ses attributions
-l'exercice du contrôle comptable et financier de l'Etat sur l'entreprise dont la situation fait l'objet d'un examen, ou son
-représentant ;
-
-- le chef du service du contrôle des assurances, ou son représentant.
-
-La commission comprend au titre des représentants de la profession :
-
-- le président de la fédération française des sociétés d'assurances, ou son représentant ;
-
-- le président du conseil d'administration du fonds de garantie institué par l'article L. 421-1, ou son représentant ;
-
-- le président de l'organisation professionnelle la plus représentative de la catégorie à laquelle appartient l'entreprise
-dont la situation doit faire l'objet d'un examen, ou son représentant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Modifié par**:
-
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-
-	**Cite**:
-
-	  - Code des assurances - art. L323-3 (Ab)
-	  - Code des assurances - art. L421-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R323-11
-
-
-###### Article A323-2
-
-La commission se réunit sur la convocation de son président ou du directeur des assurances au ministère de l'économie et des
-finances.
-
-Les affaires à examiner figurent sur un ordre du jour annexé à la convocation.
-
-Chaque membre de la commission peut demander l'inscription à l'ordre du jour d'une affaire entrant dans la compétence de la
-commission.
-
-La convocation est adressée aux membres de la commission huit jours au moins avant la date de la réunion.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1966-12-03 art. 2
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R323-11
-
-
-###### Article A323-3
-
-Chaque dossier soumis à l'examen de la commission fait l'objet d'un rapport présenté par le commissaire-contrôleur accrédité
-auprès de l'entreprise concernée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1966-12-03 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R323-11
-
-
-###### Article A323-4
-
-La commission peut, si elle le juge utile, autoriser un représentant de l'entreprise intéressée à présenter oralement ses
-observations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1966-12-03 art. 4
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R323-11
-
-
-###### Article A323-5
-
-La décision de demande de notification des conclusions motivées de la commission à l'entreprise, conformément aux
-dispositions de l'article R. 323-11, ne peut être prise que si cinq au moins des membres de la commission, y compris le
-président, sont présents.
-
-Dans ce cas, le représentant légal de l'entreprise doit avoir été convoqué devant la commission par lettre recommandée
-adressée dix jours au moins avant la date fixée pour la réunion de la commission.
-
-Lorsque le représentant légal ne défère pas à la convocation, la commission apprécie souverainement s'il y a lieu soit de
-procéder à une nouvelle convocation, soit de passer outre et de statuer en l'absence du représentant de l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1966-12-03 art. 4 bis
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cite**:
-
-	  - Code des assurances R323-11
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R323-11
-
-
-###### Article A323-6
-
-Les avis de la commission sont émis à la majorité des voix des membres présents ; en cas de partage égal des voix, la voix du
-président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1966-12-03 art. 5
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R323-11
-
-
-###### Article A323-7
-
-Le secrétariat de chaque séance de la commission est assuré par un administrateur civil du ministère de l'économie et des
-finances, désigné par le directeur des assurances.
-
-Le secrétaire établit un procès-verbal de la séance ; ce procès-verbal est soumis à l'approbation des membres de la
-commission et conservé dans les archives de la direction des assurances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1966-12-03 art. 6
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R323-11
 
 
 ### Titre III : Régime financier.
@@ -44459,310 +44117,10 @@ En outre, en ce qui concerne les femmes, l'âge retenu pour le calcul des provis
 
 ##### Paragraphe 1 : Provision mathématique des rentes.
 
-##### A. - Rentes d'accidents du travail.
-
-###### Article A331-12
-
-Pour le calcul de la provision mathématique, la date de naissance du rentier est reportée au 31 décembre le plus voisin.
-
-Afin de tenir compte de la non-coïncidence de l'entrée en jouissance de la rente avec l'origine des trimestres civils, on
-ajoute au chiffre résultant de l'application des barèmes une correction égale au huitième de la rente.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-07-07 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
-
-
-##### Paragraphe 3 : Provision pour sinistres restant à payer
-
-###### Article A331-20
-
-En cas d'amortissement des titres consignés, la Caisse des dépôts et consignations procède d'office au remploi en titres de
-même type. Si ce remploi produit une rente inférieure à celle des titres amortis, l'entreprise d'assurance doit combler
-immédiatement la différence par un dépôt complémentaire.
-
-Les titres consignés ne peuvent être retirés qu'après autorisation du ministre de l'économie et des finances, sur
-justification de la constitution régulière de la rente ou de la libération complète de l'entreprise débitrice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1942-11-26 art. 2
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cité par**:
-
-	  - Code des assurances - art. A331-19 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R331-19
-
-
-###### Article A331-21
-
-La provision pour appareils de prothèse alloués par décision judiciaire mentionnée à l'article R. 331-22 est fixée
-globalement à dix-sept fois le montant des dépenses totales échues au titre de l'appareillage pendant l'exercice inventorié.
-
-En outre, et sauf application des dispositions de l'article A. 331-22, la provision ne peut en aucun cas être inférieure à
-celle qui a été obtenue par la même méthode lors de l'inventaire précédent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1942-11-27 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cité par**:
-
-	  - Arrêté du 19 avril 1995 - art. 4 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. A331-22 (Ab)
-	  - Code des assurances R331-22, A331-22
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R331-22
-
-
-###### Article A331-22
-
-Les entreprises d'assurance qui estiment que leurs charges en matière d'appareillage sont moins élevées ne peuvent en tenir
-compte que par l'adoption de provisions déterminées dans les conditions suivantes.
-
-La provision est fixée pour chaque mutilé au montant du capital représentatif d'une annuité viagère supposée payable dans les
-mêmes conditions que la rente. Ce capital représentatif est calculé au moyen des barèmes et suivant les règles applicables en
-matière de rentes.
-
-L'annuité comprend :
-
-1° La valeur de la fourniture, des réparations et du renouvellement de l'appareil principal, estimée à 50 p. 100 du prix de
-ce dernier.
-
-Cette proportion de 50 p. 100 est portée à :
-
-- 75 p. 100 pour les corsets de cuir et de celluloïd ;
-
-- 100 p. 100 pour les yeux artificiels ;
-
-- 200 p. 100 pour les chaussures orthopédiques.
-
-Elle est réduite à 15 p. 100 pour les appareils dentaires ;
-
-2° La valeur des fournitures accessoires, des frais de déplacement du mutilé, des frais d'expédition d'appareils et des frais
-administratifs remboursables au centre d'appareillage, estimée à 50 p. 100 de la valeur déterminée comme ci-dessus pour la
-fourniture, les réparations et le renouvellement de l'appareil principal.
-
-Le prix de l'appareil principal qui sert de base pour le calcul du montant de l'annuité doit être corrigé en vue de suivre,
-le cas échéant, les variations de prix survenues jusqu'à la date de l'inventaire.
-
-Si le mutilé a droit, en raison d'infirmités multiples, à plusieurs appareils principaux, leurs prix sont additionnés pour la
-détermination du montant de l'annuité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1942-11-27 art. 2
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cité par**:
-
-	  - Arrêté du 24 décembre 2010 (V)
-	  - Arrêté du 24 décembre 2010 - art. 1 (V)
-	  - Code des assurances - art. A331-21 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R331-22
-
-
-##### A. - Dispositions particulières relatives aux assurances contre les accidents du travail.
-
-###### Article A331-16
-
-La provision pour sinistres graves non réglés judiciairement définie au 1° de l'article R. 331-17 doit être calculée exercice
-par exercice et dossier par dossier et être suffisante pour permettre d'assurer le règlement intégral de tous les sinistres
-graves non réglés judiciairement, y compris ceux qui, au moment de l'inventaire, ne seraient pas encore inscrits au registre
-des sinistres graves institué par l'article R. 331-17.
-
-Elle ne doit pas être inférieure à 150 p. 100 du total des salaires réduits devant servir de base à la fixation des rentes
-tant pour les accidents inscrits au registre des sinistres graves que pour ceux qui n'y sont pas encore inscrits.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1942-11-25 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cité par**:
-
-	  - Code des assurances - art. A331-18 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*331-17 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
-
-
-###### Article A331-17
-
-Le montant minimal des salaires de base correspondant aux accidents non encore inscrits au registre des sinistres graves est
-évalué d'après la cadence numérique des inscriptions faites audit registre en ce qui concerne les sinistres survenus au cours
-de la première des deux années qui précèdent l'exercice inventorié. Le registre donne le nombre de ceux de ces sinistres qui
-ont été inscrits respectivement au cours de l'année de survenance et au cours de chacune des deux années suivantes. On
-établit successivement le rapport de la somme des deux derniers nombres au premier et le rapport du dernier nombre à la somme
-des deux premiers. Les totaux des salaires de base afférents, d'une part, aux accidents survenus au cours de l'exercice
-inventorié inscrits au registre des sinistres graves, réglés et non réglés et, d'autre part, aux accidents survenus au cours
-de l'exercice précédant l'exercice inventorié inscrits au registre des sinistres graves, réglés et non réglés, sont
-multipliés respectivement par le premier et par le second de ces deux rapports. Les résultats obtenus donnent l'évaluation
-minimale des salaires de base correspondant aux accidents non encore inscrits au registre des sinistres graves.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1942-11-25 art. 2
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
-
-
-###### Article A331-18
-
-Le pourcentage fixé à l'article A. 331-16 peut être réduit pour une entreprise si celle-ci justifie qu'il est trop élevé pour
-les risques qu'elle assure par la production d'une statistique portant sur ses propres opérations pendant les trois dernières
-années, à la condition que la nature des risques couverts n'ait pas sensiblement varié pendant ce laps de temps. La demande,
-accompagnée des justifications de l'entreprise, doit être formée trois mois au moins avant la date de l'inventaire.
-
-Ce même pourcentage peut être augmenté par décisions individuelles, si le ministre de l'économie et des finances constate,
-d'après les données statistiques indiquées à l'alinéa précédent, qu'il est insuffisant eu égard aux risques couverts par des
-entreprises déterminées.
-
-Pour les entreprises qui liquident leurs opérations d'assurance contre les accidents du travail, un pourcentage est fixé sur
-espèces dans les limites d'un montant maximal de 200 p. 100, à moins que cette provision ne puisse être fixée intégralement
-d'après les décisions judiciaires ou ordonnances de conciliation intervenues.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1942-11-25 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cite**:
-
-	  - Code des assurances - art. A331-16 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
-
-
-###### Article A331-19
-
-Le dépôt que les entreprises d'assurance contre les accidents du travail doivent faire par application de l'article R. 331-19
-doit comprendre exclusivement des titres de rente française au porteur représentant un montant de rente égal à celui de la
-rente mise à la charge de l'entreprise d'assurance et non encore constituée.
-
-Il est effectué dans les conditions déterminées par les lois et règlements en vigueur sur la consignation des valeurs
-mobilières ; l'entreprise d'assurance reste d'ailleurs tenue d'opérer elle-même, à leur échéance, le paiement des arrérages
-de la rente mise à sa charge.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1942-11-26 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R331-19
-
-	**Cite**:
-
-	  - Code des assurances R331-19
-
-
-##### Section III : Provisions techniques des autres opérations d'assurance
-
-##### Paragraphe 1 : Provision mathématique des rentes.
-
 ###### Article A331-11
 
-Les dispositions de l'article A. 331-10 s'appliquent aux rentes constituées à partir du 1er janvier 1954.
-
-Le montant minimal des provisions de rentes constituées antérieurement doit être évalué ;
+Par dérogation aux dispositions du premier alinéa de l'article A 331-10, le montant minimal des provisions de rentes
+d'accidents du travail constituées antérieurement au 1er janvier 1954 doit être évalué :
 
 1° D'après le barème annexé à l'arrêté du 29 décembre 1920 si la constitution a été effectuée avant le 1er janvier 1920 ;
 
@@ -44791,81 +44149,8 @@ décembre 1949 ;
 8° D'après le barème annexé à l'arrêté du 8 juin 1950 si la constitution a été effectuée du 1er janvier 1950 au 31 décembre
 1953.
 
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1919-12-29
-	  - Arrêté 1920-12-29
-	  - Arrêté 1922-02-27
-	  - Arrêté 1932-12-27
-	  - Arrêté 1942-11-23
-	  - Arrêté 1944-12-29
-	  - Arrêté 1948-01-21
-	  - Arrêté 1950-06-08
-	  - Code des assurances - art. A331-10 (M)
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-07-07 art. 2
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Cité par**:
-
-	  - Arrêté du 20 décembre 1996 - art. 3 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
-
-
-###### Article A331-13
-
-Le montant minimal de la provision mathématique des rentes mentionnées à l'article R. 331-8 doit être calculé sur les bases
-ci-après :
-
-1° Le taux d'intérêt de 4,75 p. 100 ;
-
-2° La table de mortalité CR.
-
-Le barème résultant de ces éléments est annexé à l'article A. 331-10.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-07-07 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 2, art. 6 JORF 20 mars 1993
-
-	**Cite**:
-
-	  - Code des assurances - art. A331-10 (M)
-	  - Code des assurances R331-8, A331-10
-
-	**Cité par**:
-
-	  - Code des assurances - art. A331-14 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R331-8
-
-
-###### Article A331-14
-
-Les dispositions de l'article A. 331-13 s'appliquent lorsque l'accident est survenu depuis le 1er janvier 1954.
-
-Le montant minimal des provisions afférentes aux accidents survenus antérieurement doit être évalué :
+Par dérogation aux dispositions du premier alinéa de l'article A 331-10, le montant minimal des provisions de rentes autres
+que des rentes d'accidents du travail doit, lorsque l'accident est survenu antérieurement au 1er janvier 1954, être évalué :
 
 1° D'après la table de mortalité AF ;
 
@@ -44877,97 +44162,72 @@ Le montant minimal des provisions afférentes aux accidents survenus antérieure
 
 3 p. 100 si l'accident est survenu entre le 1er janvier 1945 et le 31 décembre 1947 ;
 
-3,50 p. 100 si l'accident est survenu entre le 1er janvier 1948 et le 31 décembre 1949 ;
+3,50 p. 100 si l'accident est survenu entre le 1er janvier 1948 et le 31 décembre 1949.
 
 3° D'après la table de mortalité CR et le taux de 4,25 p. 100 si l'accident est survenu entre le 1er janvier 1950 et le 31
 décembre 1953.
 
-Toutefois, pour le calcul des provisions mathématiques des rentes servies en vertu de contrats assurant l'invalidité par
-suite de maladie, les entreprises d'assurance pourront proposer au ministre de l'économie et des finances l'emploi de tables
-de mortalité spéciales.
-
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Arrêté 1954-07-07 art. 2
+	  - Arrêté 1919-12-29 annexe
+	  - Arrêté 1920-12-29 annexe
+	  - Arrêté 1922-02-27 annexe
+	  - Arrêté 1932-12-27 annexe
+	  - Arrêté 1942-11-23 annexe
+	  - Arrêté 1944-12-29 annexe
+	  - Arrêté 1948-01-21 annexe
+	  - Arrêté 1950-06-08 annexe
+	  - Code des assurances - art. A331-10 (M)
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
+	**Modifié par**:
+
+	  - Arrêté 1993-03-19 art. 2, art. 4 JORF 20 mars 1993
+
 	**Abrogé par**:
 
-	  - Arrêté 1993-03-19 art. 2, art. 6 JORF 20 mars 1993
+	  - Arrêté 1996-12-20 art. 3 JORF 26 décembre 1996
 
-	**Cite**:
+	**Cité par**:
 
-	  - Code des assurances - art. A331-13 (Ab)
+	  - Arrêté du 20 décembre 1996 - art. 3 (V)
 
 	**Liens**:
 
-	  - TXT_SOURCE: Code des assurances R331-8
+	  - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
 
 
-###### Article A331-15
+###### Article A331-12
 
 Pour le calcul de la provision mathématique, la date de naissance du rentier est reportée au 31 décembre le plus voisin.
 
 Il est tenu compte du fractionnement des rentes et de la non-coïncidence de leur entrée en jouissance avec la date de
 l'inventaire.
 
-La provision ainsi obtenue est chargée de 5 p. 100 de son montant pour frais de gestion et frais de paiement en ce qui
-concerne les accidents survenus entre le 1er janvier 1942 et le 31 décembre 1949.
+La provision ainsi obtenue est chargée de 5 % de son montant pour frais de gestion et frais de paiement en ce qui concerne
+les accidents survenus entre le 1er janvier 1942 et le 31 décembre 1949, autres que les accidents du travail.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-07-07 art. 3
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Arrêté 1993-03-19 art. 2, art. 6 JORF 20 mars 1993
+	  - Arrêté 1993-03-19 art. 2, art. 5 JORF 20 mars 1993
 
 	**Liens**:
 
-	  - TXT_SOURCE: Code des assurances R331-8
+	  - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
 
 
 ##### Paragraphe 3 : Provision pour sinistres restant à payer.
-
-###### Article A331-23
-
-La provision pour indemnités représentatives d'acquisition et de renouvellement des appareils de prothèse mentionnée à
-l'article R. 331-22 est fixée au total des sommes restant à la charge des assureurs, au 31 décembre de l'exercice inventorié,
-sur les indemnités allouées par les tribunaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1942-11-27 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cite**:
-
-	  - Code des assurances R331-22
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R331-22
-
 
 ###### Article A331-24
 
@@ -44988,56 +44248,6 @@ définies au 4 de l'article A. 344-4.
 
 	  - Code des assurances - art. A344-4 (V)
 	  - Code des assurances - art. R331-26 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*331-26 (M)
-
-
-###### Article A331-25
-
-Pour l'application de l'article R. 331-26, les sinistres corporels sont réputés graves lorsqu'ils ont entraîné ou sont
-présumés devoir entraîner, pout toutes personnes autre que celles énumérées respectivement au premier alinéa de l'article R.
-211-2 et au premier alinéa de l'article R. 211-3 :
-
-- le décès ;
-
-- une incapacité permanente de 25 p. 100 au moins ;
-
-- un mois d'hospitalisation au moins ;
-
-- une incapacité dont les conséquences ne sont pas consolidées dans un délai de six mois à dater de la survenance du sinistre
-ou, lorsque fait défaut le certificat médical, une atteinte à l'intégrité physique n'ayant pas permis la reprise d'activité
-dans le même délai.
-
-Sont également réputés graves les sinistres corporels qui ont entraîné, pour deux ou plusieurs personnes autres que celles
-énumérées respectivement au premier alinéa de l'article R. 211-2 et au premier alinéa de l'article R. 211-3, des taux
-d'incapacité permanente dont la somme atteint 40 p. 100 au moins.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1985-09-10 art. 4 JORF 9 octobre 1985
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cité par**:
-
-	  - Code des assurances - art. A342-1 (Ab)
-	  - Code des assurances - art. A342-2 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*211-2 (M)
-	  - Code des assurances - art. R*211-3 (M)
-	  - Code des assurances - art. R*331-26 (M)
 
 	**Liens**:
 
@@ -46316,116 +45526,6 @@ effectivement réalisés pour l'instruction ou le règlement de chaque dossier d
 
 
 ### Titre IV : Dispositions comptables et statistiques
-
-#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation
-
-##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.
-
-###### Article A342-1
-
-Les sinistres corporels graves définis à l'article A. 331-25 sont, indépendamment de l'enregistrement prévu à l'article R.
-342-10, inscrits sur un registre, dit registre des sinistres corporels graves, dès que l'entreprise en a connaissance. Ce
-registre est tenu sans blanc ni interligne, sur feuillets numérotés fixes ou mobiles. Il donne, par colonnes, les
-renseignements suivants : numéro du sinistre, numéro d'enregistrement du sinistre, date de l'accident, date d'inscription au
-registre des sinistres corporels graves, évaluations successives, au moins au 30 juin et au 31 décembre de chaque année et
-lors du règlement définitif, du coût total du sinistre et de la part de responsabilité de l'assuré.
-
-Une méthode de tenue du registre des sinistres corporels graves autre que celle ci-dessus définie peut être adoptée avec
-l'accord du commissaire-contrôleur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1971-01-11 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cite**:
-
-	  - Code des assurances - art. A331-25 (M)
-	  - Code des assurances - art. R342-10 (Ab)
-
-
-###### Article A342-2
-
-Sans préjudice de l'application des dispositions du deuxième alinéa de l'article R. 342-10, les informations suivantes
-doivent, pour chaque sinistre corporel grave défini à l'article A. 331-25, figurer au dossier et pouvoir être facilement
-consultées :
-
-Nature du sinistre et description sommaire des circonstances de l'accident ;
-
-Age, profession, revenus tirés de l'activité professionnelle, situation de famille de la ou des victimes ;
-
-Nature et étendue des lésions corporelles et leur répercussion sur l'activité professionnelle de la ou des victimes ;
-
-En cas de décès, liste des ayants droit de la ou des victimes ;
-
-Eventuellement, recours à l'assistance d'une tierce personne.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1971-01-11 art. 4
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cite**:
-
-	  - Code des assurances - art. A331-25 (M)
-	  - Code des assurances - art. R342-10 (Ab)
-
-	**Cité par**:
-
-	  - Code des assurances - art. A343-1 (M)
-
-
-###### Article A342-3
-
-Le registre des sinistres graves défini à l'article R. 331-17 doit être tenu sans blanc ni interligne, sur feuillets
-numérotés fixes ou mobiles. Il donne, par colonnes, les renseignements suivants : numéro du sinistre grave, numéro du
-registre général des sinistres, date de l'accident, date de l'inscription au registre des sinistres graves, nom, prénoms et
-nationalité de la victime, date de naissance de la victime, nom du chef d'entreprise et numéro du contrat, salaire réduit
-probable, taux d'invalidité probable ou décès, provisions à la fin de l'exercice 19.. (cinq colonnes), date de l'ordonnance
-de conciliation ou du jugement, date du règlement financier, taux d'invalidité fixé ou décès, numéro de la rente, date de
-l'entrée en jouissance, capital constitutif, arrérages courus avant constitution, montant de la provision pour appareils de
-prothèse.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1971-01-11 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
-
-	**Cite**:
-
-	  - Code des assurances - art. R*331-17 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*331-17 (Ab)
-
 
 #### Chapitre IV : Catégories d'assurance et états à produire
 
@@ -47876,184 +46976,7 @@ du change, des droits, taxes ou autres charges payables en euros.
 
 #### Chapitre III : La caisse nationale de prévoyance
 
-##### Section I : Dispositions générales.
-
-###### Article A433-1
-
-Sont applicables à la caisse nationale de prévoyance les dispositions suivantes de la troisième partie "arrêtés" du présent
-code :
-
-a) Titres Ier et III du livre Ier ;
-
-b) Section II du titre VI du livre Ier ;
-
-c) Titre III du livre III à l'exception du chapitre V, ainsi que des articles A. 331-1-1 à A. 331-2 et A. 331-10 à A.
-331-12 ;
-
-d) Titre IV du livre III ;
-
-Toutefois, les pouvoirs du ministre de l'économie et des finances et du conseil national des assurances sont exercés par la
-commission supérieure de la caisse nationale de prévoyance, pour l'application des dispositions du titre III du livre III.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1985-11-07 art. 6 JORF 20 novembre 1985
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
-
-	**Cite**:
-
-	  - Code des assurances A331-1-1 à A331-2, A331-10 à A331-12
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R432-4, R432-47
-
-
 ##### Section V : Tarifs.
-
-###### Article A433-2
-
-A compter du 1er janvier 1986, les tarifs des nouvelles formules d'assurance sur la vie présentées au public par la Caisse
-nationale de prévoyance doivent, sous réserve des dispositions de l'article A. 433-4, être établis d'après les éléments
-suivants :
-
-1° Tables de mortalité TD 73-77 pour les assurances en cas de décès et TV 73-77 pour les assurances en cas de vie, annexées à
-l'article A. 335-1 ;
-
-2° Taux d'intérêt au plus égaux à 5 p. 100 pour les contrats de rente immédiate, à 4,50 p. 100 pour toutes les autres
-catégories de contrats.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1975-05-28 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1979-03-29 art. 1 JORF 18 avril 1979
-	  - Arrêté 1985-11-07 art. 1 JORF 20 novembre 1985
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
-
-	**Cite**:
-
-	  - Code des assurances - art. A335-1 (M)
-	  - Code des assurances - art. A433-4 (Ab)
-
-	**Cité par**:
-
-	  - Code des assurances - art. A433-2-1 (Ab)
-	  - Code des assurances - art. A433-3 (Ab)
-	  - Code des assurances - art. A433-7 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R433-2
-
-
-###### Article A433-2-1
-
-Les tarifs appliqués par la caisse nationale de prévoyance aux formules d'assurance sur la vie présentées au public avant le
-1er janvier 1986 devront, sous réserve des dispositions de l'article A. 433-4, être établis d'après les éléments visés aux 1°
-et 2° de l'article A. 433-2 :
-
-- à compter du 1er janvier 1986 au plus tard, pour les contrats d'assurances temporaires en cas de décès, de rentes de
-survie, d'assurance vie entière et de rentes viagères immédiates et différées ;
-
-- à compter du 1er janvier 1990 au plus tard, pour les tarifs autres que ceux mentionnés au 1° ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1985-11-07 art. 2 JORF 20 novembre 1985
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
-
-	**Cite**:
-
-	  - Code des assurances - art. A433-2 (Ab)
-	  - Code des assurances - art. A433-4 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R433-2
-
-
-###### Article A433-3
-
-Les provisions mathématiques des contrats d'assurance sur la vie dont les tarifs prennent effet à compter du 1er janvier 1986
-doivent être calculées d'après les tables de mortalité mentionnées à l'article A. 433-2 et d'après des taux d'intérêt au plus
-égaux à ceux retenus pour l'établissement des tarifs.
-
-Lorsque la durée de paiement des primes est inférieure à la durée du contrat, les provisions mathématiques doivent comprendre
-en outre une provision de gestion permettant de couvrir les frais de gestion pendant la période au cours de laquelle les
-primes ne sont plus payées.
-
-La commission supérieure de la caisse nationale de prévoyance peut, sur justification, autoriser la caisse à calculer les
-provisions mathématiques de tous ses contrats en cours, à l'exception de ceux qui sont mentionnés à l'article A. 433-4, en
-leur appliquant lors de tous les inventaires annuels ultérieurs les bases techniques définies au présent article. S'il y a
-lieu, la commission supérieure peut autoriser l'établissement à répartir sur une période de cinq ans au plus les effets de la
-modification des bases de calcul des provisiions mathématiques.
-
-Les provisions mathématiques de tous les contrats individuels et collectifs de rentes viagères en cours de service au 1er
-janvier 1986 ou liquidées à compter de cette date doivent être calculées en appliquant auxdits contrats, lors de tous leurs
-inventaires annuels à partir de cette date, les bases techniques définies au premier alinéa du présent article et,
-éventuellement, à l'article A. 433-4.
-
-Toutefois, la commission supérieure de la caisse nationale de prévoyance peut autoriser cet établissement à répartir sur une
-période de cinq ans au plus les effets résultant des dispositions prévues à l'alinéa ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Anciens textes**:
-
-	  - Arrêté 1979-03-29 art. 2
-
-	**Modifié par**:
-
-	  - Arrêté 1979-03-29 art. 2 JORF 18 avril 1979
-	  - Arrêté 1985-11-07 art. 3, art. 4 JORF 20 novembre 1985
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
-
-	**Cite**:
-
-	  - Code des assurances - art. A433-2 (Ab)
-	  - Code des assurances - art. A433-4 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R433-2
-
 
 ###### Article A433-4
 
