@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1979-06-09
+Version Consolidée au 1979-06-23
 
 # Partie législative
 
@@ -35742,27 +35742,6 @@ jusqu'à la résiliation et il doit restituer le surplus éventuellement perçu.
 	  - Décret n°1938-06-14 art. 32
 
 
-###### Article R*511-5
-
-En ce qui concerne les opérations d'assurance maritime, les dispositions des articles R. 511-1 à R. 511-4 ne sont pas
-applicables aux courtiers d'assurances mentionnés par les articles 77 et suivants du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°79-484 1979-06-20 art. 3 JORF 23 juin 1979
-
-	**Cite**:
-
-	  - Code de commerce 77
-	  - Code des assurances R511-1 à R511-4
-
-
 ###### Article R*511-7
 
 Toute personne qui présente des opérations définies à l'article R. 511-1 en méconnaissance des règles prévues aux articles R.
@@ -36011,39 +35990,6 @@ rassemblant que des membres de sociétés coopératives de consommation.
 	  - Code des assurances R140-1
 
 
-###### Article R*512-5
-
-Les adhésions, pour un seul voyage, à des assurances collectives ouvertes de transports de marchandises ou de facultés
-souscrites par des personnes ou entreprises effectuant le transport de ces biens ou mandatées pour faire effectuer ce
-transport peuvent être présentées par ces personnes, par les dirigeants de ces entreprises ou par les préposés de ces
-personnes et entreprises, sans qu'il soit permis de déroger à la réglementation concernant les courtiers d'assurances
-mentionnées aux articles 77 et suivants du code du commerce.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-117 1966-02-23 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Arrêté du 20 décembre 2012 - art. (V)
-	  - Arrêté du 24 septembre 2014 - art. (Ab)
-	  - Arrêté du 27 février 2017 - art. (V)
-
-	**Cite**:
-
-	  - Code de commerce 77
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*511-2 (M)
-
-
 ###### Article R*512-6
 
 Les adhésions de titulaires de contrats d'abonnement émis par un organisme de défense ou recours, à des assurances
@@ -36081,6 +36027,34 @@ au 3° ou au 4° de l'article R. 511-2 et les organismes précités sont assimil
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. R*511-2 (M)
 	  - Code des assurances R511-4, R511-2, L310-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*511-2 (M)
+
+
+###### Article R512-5
+
+Les adhésions, pour un seul voyage, à des assurances collectives ouvertes de transports de marchandises ou de facultés
+souscrites par des personnes ou entreprises effectuant le transport de ces biens ou mandatées pour faire effectuer ce
+transport peuvent être présentées par ces personnes, par les dirigeants de ces entreprises ou par les préposés de ces
+personnes et entreprises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°79-484 1979-06-20 art. 3 JORF 23 juin 1979
+
+	**Cité par**:
+
+	  - Arrêté du 20 décembre 2012 - art. (V)
+	  - Arrêté du 24 septembre 2014 - art. (Ab)
+	  - Arrêté du 27 février 2017 - art. (V)
 
 	**Liens**:
 
@@ -36997,6 +36971,414 @@ Toute infraction aux prescriptions des articles R. 514-1 à R. 514-4, R. 514-6 (
 	**Cite**:
 
 	  - Code des assurances R514-1 à R514-4, R514-6, R514-8 à R514-10, R514-12, R514-14 à R514-16
+
+
+#### Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France
+
+##### Section I : Conditions de capacité professionnelle.
+
+###### Article R515-1
+
+Par dérogation aux dispositions de l'article R. 513-1, les ressortissants d'un Etat membre de la Communauté économique
+européenne autre que la France peuvent présenter, en qualité de courtier ou d'agent général, les opérations pratiquées par
+les entreprises mentionnées aux 1°, 2°, 4° et 5° de l'article L. 310-1, sous réserve qu'ils justifient avoir exercé
+effectivement l'une de ces fonctions dans un Etat membre de la Communauté autre que la France :
+
+Soit pendant quatre années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise ;
+
+Soit pendant deux années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise, lorsqu'ils ont exercé des
+fonctions comportant des responsabilités en matière de démarchage, de gestion ou d'exécution de contrats d'assurance pendant
+trois ans au moins dans un cabinet de courtage, une agence ou une entreprise d'assurance ;
+
+Soit pendant une année à titre indépendant ou en qualité de dirigeant d'entreprise, lorsque, pour l'exercice de ces
+fonctions, ils ont reçu, préalablement, une formation sanctionnée par un diplôme ou certificat reconnu par l'Etat où ils ont
+exercé leurs fonctions, ou jugée pleinement valable par un organisme professionnel compétent de cet Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-483 1979-06-20 art. 1 JORF 23 juin 1979
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R513-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*516-1 (Ab)
+	  - Code des assurances - art. R515-5 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des assurances - art. R513-1 (V)
+
+
+###### Article R515-2
+
+Est considérée comme ayant exercé des fonctions de dirigeant d'entreprise toute personne ayant eu la qualité de chef
+d'entreprise ou de chef de succursale ou d'adjoint au chef d'entreprise ou de fondé de pouvoir, si cette fonction a impliqué
+une responsabilité correspondant à celle du chef d'entreprise représenté.
+
+Est également considérée comme ayant exercé les mêmes fonctions toute personne ayant assumé dans une entreprise d'assurance
+une activité d'encadrement ou de surveillance liée à la production des contrats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-483 1979-06-20 art. 1 JORF 23 juin 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+
+###### Article R515-3
+
+Par dérogation aux dispositions de l'article R. 513-2, les ressortissants d'un Etat membre de la Communauté économique
+européenne autre que la France peuvent présenter, pour le compte d'un courtier ou d'un agent d'assurance, les opérations
+pratiquées par les entreprises mentionnées aux 1°, 2°, 4° et 5° de l'article L. 310-1, sans que cette présentation puisse
+comporter la prise d'engagement envers le public ou de sa part, sous réserve qu'ils justifient avoir exercé effectivement des
+fonctions de présentation dans un Etat membre de la Communauté autre que la France :
+
+Soit pendant deux années consécutives à titre indépendant ou au titre de l'exercice de fonctions dans un cabinet de courtage,
+une agence ou une entreprise d'assurance ;
+
+Soit pendant une année, dans les conditions qui précèdent, s'ils ont reçu préalablement pour l'exercice de ces fonctions, une
+formation sanctionnée par un diplôme ou certificat reconnu par l'Etat où ils ont exercé leur activité, ou jugée pleinement
+valable par un organisme professionnel compétent de cet Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-483 1979-06-20 art. 1 JORF 23 juin 1979
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R513-2 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*515-7 (Ab)
+	  - Code des assurances - art. R*515-9 (Ab)
+	  - Code des assurances - art. R*516-1 (Ab)
+	  - Code des assurances - art. R515-4 (Ab)
+	  - Code des assurances - art. R515-5 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R515-4 (Ab)
+
+
+###### Article R515-4
+
+L'exercice effectif des fonctions de courtier ou d'agent d'assurance pendant un an au moins et la formation reçue pour l'une
+de ces fonctions sont considérés comme équivalents aux conditions prévues à l'article R. 515-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-483 1979-06-20 art. 1 JORF 23 juin 1979 rectificatif JORF 1er juillet 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R515-3 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. R515-3 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R515-5 (Ab)
+
+
+###### Article R515-5
+
+Les fonctions mentionnées aux articles R. 515-1, R. 515-3 et R. 515-4 doivent ne pas avoir pris fin depuis plus de dix ans à
+la date du dépôt du document justificatif prévue par l'article R. 515-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-483 1979-06-20 art. 1 JORF 23 juin 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R515-1 (M)
+	  - Code des assurances - art. R515-3 (M)
+	  - Code des assurances - art. R515-4 (Ab)
+	  - Code des assurances R515-1, R515-3, R515-4, R515-6
+
+
+##### Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité.
+
+###### Article R*515-6
+
+Les ressortissants d'un Etat membre de la communauté économique européenne autre que la France qui ont à justifier de leur
+capacité professionnelle peuvent, par dérogation aux dispositions de l'article R. 514-5, le faire au moyen d'un document
+délivré par l'autorité ou l'organisme compétent de l'Etat d'origine ou de provenance, membre de la Communauté, dans lequel
+ils ont exercé leurs fonctions.
+
+Ce document, qui atteste que les conditions de capacité requises sont remplies, doit être accompagné, si besoin est, d'une
+traduction en langue française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
+
+	**Cite**:
+
+	  - Code des assurances - art. R*514-5 (M)
+
+
+###### Article R*515-7
+
+Les personnes mentionnées à l'article R. 515-6 apportent la preuve qu'elles n'ont pas fait l'objet, dans leur Etat d'origine
+ou de provenance, de condamnations encourues pour des infractions mentionnées à l'article L. 511-2 ou pour des infractions de
+même nature, par la production d'un extrait du casier judiciaire ou, à défaut, d'un document équivalent délivré par une
+autorité judiciaire ou administrative compétente de l'Etat d'origine ou de provenance, membre de la Communauté économique
+européenne.
+
+Dans le cas où la législation de cet Etat ne prévoit pas la délivrance de l'un de ces documents, l'intéressé doit produire
+une attestation de déclaration sous la foi du serment ou, dans un Etat où une telle formalité ne peut être remplie, une
+déclaration solennelle fait devant une autorité judiciaire ou administrative compétente ou, le cas échéant, devant notaire,
+et délivrée par l'autorité ou le notaire qui a reçu la déclaration. La déclaration d'absence de faillite ou de réhabilitation
+après faillite peut se faire également devant un organisme professionnel qualifié de ce même Etat.
+
+Les documents mentionnés ci-dessus ne doivent pas avoir, lors de leur production, plus de trois mois de date. Ils sont
+accompagnés, si besoin est, d'une traduction en langue française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
+
+	**Cite**:
+
+	  - Code des assurances - art. L511-2 (M)
+	  - Code des assurances L511-2, R515-6
+
+
+###### Article R*515-8
+
+Les personnes mentionnées à l'article R. 515-6 présentent les documents mentionnés aux articles R. 515-6 et R. 515-7, au
+ministre de l'économie, qui leur en délivre un récépissé établissant que ces documents lui ont été présentés.
+
+Les courtiers de réassurance présentent une demande analogue accompagnée du document mentionné à l'article R. 515-7.
+
+Les justifications qui précèdent ne dispensent pas, selon le cas, les intéressés, les employeurs ou les mandants, de faire
+les déclarations prévues aux articles R. 514-8 à R. 514-12.
+
+Un double du récépissé est transmis par le ministre de l'économie au parquet du procureur du Tribunal de grande instance de
+Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979 rectificatif JORF 1er juillet 1979
+
+	**Abrogé par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
+
+	**Cite**:
+
+	  - Code des assurances R514-8 à R514-12, R515-6, R515-7
+
+
+##### Section III : Dispositions relatives à la libre prestation de services.
+
+###### Article R*515-9
+
+Lorsqu'un ressortissant d'un Etat membre de la Communauté économique européenne autre que la France veut présenter en libre
+prestation de services des opérations pratiquées par les entreprises mentionnées aux 1°, 2°, 4° et 5° de l'article L. 310-1,
+il doit, par dérogation aux dispositions de l'article R. 514-1 :
+
+a) S'il s'agit d'un courtier ou agent d'assurance, être en mesure de produire le récépissé prévu à l'article R. 515-8 ; 
+
+b) S'il s'agit d'une personne mentionnée à l'article R. 515-3 dont l'employeur ou le mandant, courtier ou agent, n'est pas
+établi en France, être en mesure de produire le récépissé prévu à l'article R. 515-8, ainsi qu'un document indiquant le nom,
+l'adresse et la qualité de l'employeur ou du mandataire, et les opérations qu'elle est habilitée à présenter. Ce document
+doit être, si besoin est, accompagné d'une traduction en langue française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
+
+	**Abrogé par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R*514-1 (M)
+	  - Code des assurances - art. R515-3 (M)
+	  - Code des assurances L310-1, R514-1, R515-3, R515-8
+
+
+###### Article R*515-10
+
+Par dérogation aux dispositions de l'article R. 514-10, la déclaration prévue par l'article R. 514-8 est souscrite par le
+ministre de l'économie auprès du parquet du procureur du Tribunal de grande instance de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
+
+	**Abrogé par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
+
+	**Cite**:
+
+	  - Code des assurances R514-8, R514-10
+
+
+###### Article R*515-11
+
+Par dérogation aux dispositions de l'article R. 514-13, les notifications prévues à cet article sont faites, dans les cas
+mentionnés à l'article R. 515-10, à l'autorité judiciaire compétente de l'Etat d'origine ou de provenance. Copie de cette
+notification est transmise au ministre de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
+
+	**Abrogé par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
+
+	**Cite**:
+
+	  - Code des assurances R514-13, R514-10
+
+
+###### Article R*515-12
+
+Toute personne qui, soumise aux dispositions des articles R. 515-1 à R. 515-11, présente une opération d'assurance avant
+d'avoir obtenu le récépissé prévu à l'article R. 515-8 et souscrit la déclaration prévue à l'article R. 514-8 dans les
+conditions fixées par l'article R. 515-10, sera punie d'une amende de 3.000 F à 6.000 F [*sanctions*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
+
+	**Abrogé par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
+
+	**Cite**:
+
+	  - Code des assurances R514-8, R515-1 à R515-8, R515-9, R514-10
+
+
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.
+
+###### Article R*516-1
+
+Un arrêté du ministre de l'économie désigne les organismes professionnels habilités à délivrer l'attestation de capacité
+exigée par l'autorité ou l'organisme compétent de l'Etat membre de la Communauté économique européenne autre que la France,
+dans lequel un courtier, un agent général ou une personne agissant pour le compte d'un agent général ou d'un courtier,
+demande à exercer son activité.
+
+Il appartient à l'organisme habilité de vérifier, préalablement à la délivrance de l'attestation, qu'il ressort des pièces
+qui lui sont communiquées par l'intéressé que celui-ci remplit les conditions de capacité prévues, selon le cas, pour
+l'article R. 515-1 ou R. 515-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R515-1 (M)
+	  - Code des assurances - art. R515-3 (M)
 
 
 # Partie réglementaire - Arrêtés
