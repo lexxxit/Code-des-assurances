@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1997-03-26
+Version Consolidée au 1997-05-31
 
 # Partie législative
 
@@ -43403,42 +43403,6 @@ estimez responsables.
 
 #### Chapitre III : Contribution au profit de la sécurité sociale.
 
-###### Article A213-1
-
-A l'appui des versements trimestriels forfaitaires de la cotisation d'assurance maladie instituée par l'article L. 213-1, les
-entreprises d'assurance produisent à l'agence centrale des organismes de sécurité sociale un état indiquant : la somme à
-laquelle a été liquidé le produit net des cotisations afférentes au dernier exercice réglé ; le montant exigible de l'acompte
-calculé conformément aux dispositions de l'article R. 213-3 ; éventuellement l'excédent à imputer résultant des versements
-antérieurs ; le solde à payer ou le nouveau montant de l'excédent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1968-04-09 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
-
-	**Cité par**:
-
-	  - Code des assurances - art. A213-3 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L213-1 (M)
-	  - Code des assurances L213-1, R213-3
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R213-3
-
-
 ###### Article A213-2
 
 Au plus tard le 15 juin de chaque année, les entreprises d'assurance déposent à l'agence centrale des organismes de sécurité
@@ -43495,39 +43459,6 @@ d'assurance.
 
 	  - Code des assurances - art. A213-1 (Ab)
 	  - Code des assurances - art. A213-2 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R213-3
-
-
-###### Article A213-4
-
-A titre justificatif, les entreprises d'assurance doivent :
-
-1° Conserver jusqu'au 31 décembre de la quatrième année suivant l'exercice considéré les déclarations de non-assujettissement
-prévues au quatrième alinéa de l'article L. 213-1 ;
-
-2° Etablir un état récapitulatif annuel des assurés non-assujettis indiquant les noms et adresses de ces assurés, les numéros
-des contrats souscrits par eux, les dates d'échéance et les montants des primes correspondantes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1968-04-09 art. 4
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
-
-	**Cite**:
-
-	  - Code des assurances - art. L213-1 (M)
 
 	**Liens**:
 
