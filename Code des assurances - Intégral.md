@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1989-02-23
+Version Consolidée au 1989-06-04
 
 # Partie législative
 
@@ -20649,35 +20649,6 @@ temps que son mandat de membre du collège.
 	  - Décret n°84-302 1984-04-24 art. 3 JORF 26 avril 1984
 
 
-###### Article R*322-20
-
-Dans les conseils d'administration des sociétés centrales d'assurances et des entreprises du groupe Mutuelle générale
-française, les personnalités, mentionnées au 2° du deuxième alinéa de l'article 5 de la loi du 26 juillet 1983 susvisée, sont
-nommées par décret sur proposition du ministre de l'économie, des finances et du budget.
-
-Ces personnalités, au nombre de six, comprennent :
-
-a) Deux représentants des assurés choisis après consultation des organisations les plus représentatives au niveau national de
-producteurs ou de consommateurs ou d'organismes regroupant de telles organisations ;
-
-b) Quatre personnalités choisies en raison de leur compétence dont l'une désignée après consultation des organisations
-syndicales les plus représentatives, parmi les agents généraux d'assurance du groupe concerné.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°83-675 1983-07-26 art. 5
-
-	**Modifié par**:
-
-	  - Décret n°84-302 1984-04-24 art. 4 JORF 26 avril 1984
-
-
 ###### Article R*322-21
 
 La durée des fonctions des membres du collège exerçant les pouvoirs de l'assemblée générale des actionnaires est fixée à cinq
@@ -20882,6 +20853,30 @@ spéciale du ministre de l'économie, des finances et du budget et du ministre q
 	**Cité par**:
 
 	  - Code des assurances - art. R*431-6-2 (V)
+
+
+###### Article R322-20
+
+Dans le conseil d'administration des sociétés centrales d'assurances, les personnalités mentionnées au 2° du deuxième alinéa
+de l'article 5 de la loi n° 83-675 du 26 juillet 1983 sont nommées par décret sur proposition du ministre de l'économie et
+des finances. 
+
+Ces personnalités sont au nombre de six, dont une désignée, après consultation des organisations syndicales représentatives
+parmi les agents généraux d'assurance du groupe concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°83-675 du 26 juillet 1983 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°89-351 du 2 juin 1989 - art. 3 () JORF 4 juin 1989
 
 
 ##### Paragraphe 3 : Distribution et cession des actions des sociétés centrales d'assurance.
@@ -27774,6 +27769,9 @@ les prêts aux établissements de crédit sont autorisés cas par cas par le min
 
 19° Prêts aux constructeurs de navires ou aux armateurs dans les conditions fixées à l'article R. 332-14 ;
 
+19° bis. - Créances représentatives des prêts de titres définis par la loi n° 87-416 du 17 juin 1987 sur l'épargne dans les
+conditions fixées à l'article R. 332-14-1..
+
 20° Prêts immobiliers aux personnes physiques, dans les conditions fixées à l'article R. 332-15 ;
 
 21° Billets négociables sur le marché hypothécaire, billets de trésorerie, certificats de dépôt ;
@@ -27884,9 +27882,11 @@ Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdi
 	  - Code rural - art. R*361-3 (T)
 	  - Code rural et de la pêche maritime - art. D361-5 (V)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°86-618 1986-03-13 art. 1 JORF 20 mars 1986
+	  - Loi n°87-416 1987-06-17
+	  - Code des assurances - art. R*331-1 (M)
+	  - Code des assurances R322-14-1, R331-1, R332-1, R332-3-3 à R332-10,  R332-12, R332-13, R332-14, R332-15, R332-74
 
 	**Liens**:
 
@@ -27897,10 +27897,9 @@ Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdi
 	  - TXT_ASSOCIE: Code des assurances - art. A332-4 (M)
 	  - TXT_SOURCE: Code des assurances - art. R332-16 (M)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des assurances - art. R*331-1 (M)
-	  - Code des assurances R332-1, R332-3-3 à R332-10, R331-1, R332-12, R332-74, R332-13, R332-14, R332-15
+	  - Décret n°89-351 1989-06-04 art. 4 JORF 4 juin 1989
 
 
 ###### Article R332-3
@@ -28553,6 +28552,37 @@ l'économie et des finances, couvrir des provisions techniques afférentes à de
 	**Nouveaux textes**:
 
 	  - Code des assurances - art. R332-11 (V)
+
+
+###### Article R332-14-1
+
+Les créances mentionnées au 19° bis de l'article R. 332-2 sont admises en représentation des engagements réglementés si elles
+ont fait l'objet d'un cautionnement en espèces ou d'une caution donnée par un établissement de crédit ou d'un nantissement de
+valeurs répondant aux conditions fixées par l'article R. 332-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°89-351 du 2 juin 1989 - art. 4 () JORF 4 juin 1989
+
+	**Abrogé par**:
+
+	  - Décret n°90-981 du 5 novembre 1990 - art. 9 (V) JORF 6 novembre 1990
+
+	**Cité par**:
+
+	  - Décret n°2000-142 du 18 février 2000 - art. 11 (V)
+	  - Décret n°2007-243 du 23 février 2007 - art. 4 (V)
+	  - Code des assurances - art. R332-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R332-17 (M)
 
 
 ###### Article R332-15
@@ -36851,31 +36881,17 @@ finances.
 
 ###### Article R*431-6
 
-La caisse centrale de réassurance est gérée par un conseil d'administration comprenant :
+La Caisse centrale de réassurance est gérée par un conseil d'administration de quinze membres comprenant :
 
-a) Cinq représentants de l'Etat nommés par décret sur proposition du ministre chargé de l'économie et des finances ;
+a) Cinq représentants de l'Etat, nommés par décret, sur le rapport du ministre chargé de l'économie et des finances ;
 
-b) Cinq personnalités nommées par décret sur proposition du ministre, dont :
+b) Sept personnalités choisies en raison de leur compétence et nommées par décret, sur le rapport du ministre chargé de
+l'économie et des finances, dont trois au titre des entreprises d'assurance, une au titre des assurés et une au titre des
+courtiers ou des agents généraux d'assurance ;
 
-- deux, représentant les entreprises d'assurance ;
-
-- une, représentant les assurés, choisie après consultation des organisations les plus représentatives au niveau national de
-producteurs et de consommateurs ou d'organismes regroupant de telles organisations ;
-
-- deux personnalités choisies en raison de leur compétence, dont l'une désignée après consultation des organisations
-syndicales les plus représentatives parmi les agents généraux d'assurance ou les courtiers d'assurance et de réassurance ;
-
-c) Cinq représentants des salariés élus dans les conditions prévues au chapitre II du titre II de la loi n° 83-675 du 26
-juillet 1983.
-
-Pour l'application de l'article 26 de ladite loi, chacun de ces représentants bénéficie d'un crédit d'heures fixé à quinze
-heures par mois.
-
-Les dispositions de l'article R. 322-26 sont applicables aux représentants de l'Etat dans le conseil d'administration de la
-caisse centrale de réassurance.
-
-Le président du conseil d'administration, désigné dans les conditions prévues à l'article 10 de la loi n° 83-675 du 26
-juillet 1983 assure la direction générale de l'établissement.
+c) Trois représentants des salariés élus dans les conditions prévues au chapitre II du titre II de la loi n° 83-675 du 26
+juillet 1983. Pour l'application de l'article 26 de ladite loi, chacun de ces représentants bénéficie d'un crédit d'heures
+fixé à quinze heures par mois.
 
 **Liens relatifs à cet article**
 
@@ -36885,35 +36901,58 @@ juillet 1983 assure la direction générale de l'établissement.
 
 	**Cite**:
 
-	  - Loi n°83-675 1983-07-26 art. 10, art. 26
 	  - Loi n°83-675 du 26 juillet 1983 - art. 26 (V)
-	  - Code des assurances R322-26
 
 	**Modifié par**:
 
-	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+	  - Décret n°89-351 du 2 juin 1989 - art. 1 (V) JORF 4 juin 1989
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
 
 
+###### Article R*431-6-1
+
+La durée du mandat des membres du conseil d'administration est de trois ans. En cas de vacance pour quelque cause que ce soit
+du siège d'un membre du conseil d'administration, son remplaçant n'exerce ses fonctions que pour la durée restant à courir
+jusqu'au renouvellement de la totalité dudit conseil.
+
+Il peut être mis fin à tout moment au mandat des membres du conseil d'administration autres que les représentants des
+salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°89-351 du 2 juin 1989 - art. 1 (V) JORF 4 juin 1989
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+
 ###### Article R*431-7
 
-Le conseil d'administration se réunit au siège de la caisse centrale de réassurance sur convocation du ministre chargé de
-l'économie et des finances ou de son président, aussi souvent que l'intérêt de la caisse centrale de réassurance l'exige et
-au moins une fois par mois. Il ne peut délibérer valablement que lorsque la moitié au moins de ses membres est présente.
+Le conseil d'administration se réunit au siège de la Caisse centrale de réassurance sur convocation de son président, aussi
+souvent que l'intérêt de la Caisse centrale de réassurance l'exige et au moins une fois par trimestre. Il peut également être
+convoqué par le ministre chargé de l'économie et des finances. Il ne peut délibérer valablement que lorsque la moitié au
+moins de ses membres sont présents.
 
 En cas d'absence du président, le conseil désigne un président de séance.
 
-Dans tous les cas, les délibérations sont prises à la majorité des suffrages exprimés. En cas d'égalité des voix, celle du
-président est prépondérante.
+Dans tous les cas, les délibérations sont prises à la majorité des suffrages exprimés des membres présents ou représentés. En
+cas d'égalité des voix, celle du président est prépondérante.
 
 Le conseil désigne son secrétaire, qui peut être choisi, en dehors des administrateurs, parmi les membres du personnel de la
-caisse centrale de réassurance.
+Caisse centrale de réassurance.
 
 Les délibérations du conseil d'administration sont constatées dans des procès-verbaux inscrits sur un registre tenu au siège
-de la caisse centrale de réassurance, signés par le président du conseil d'administration, directeur général, ou par le
+de la Caisse centrale de réassurance, signés par le président du conseil d'administration, directeur général ou par le
 président de séance et par le secrétaire.
 
 **Liens relatifs à cet article**
@@ -36924,7 +36963,11 @@ président de séance et par le secrétaire.
 
 	**Modifié par**:
 
-	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+	  - Décret n°89-351 du 2 juin 1989 - art. 1 (V) JORF 4 juin 1989
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
 
 	**Liens**:
 
@@ -36933,40 +36976,11 @@ président de séance et par le secrétaire.
 
 ###### Article R*431-8
 
-Le conseil d'administration, sous réserve de l'application des lois et règlements en vigueur en matière d'assurance et de
-réassurance :
+Sur proposition de son président, le conseil d'administration :
 
-1° Détermine la politique générale de souscription et de conservation de la caisse ;
+1. Définit la politique commerciale et la politique d'investissement de l'établissement ;
 
-2° Arrête chaque année la liste des biens mobiliers et immobiliers en lesquels peuvent être investis les fonds de la caisse ;
-
-3° Autorise le paiement des dépenses et des sommes dues par la caisse centrale de réassurance ;
-
-4° Arrête les comptes annuels.
-
-Le président du conseil d'administration, directeur général, exécute les décisions du conseil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-7 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
-
-
-###### Article R*431-9
-
-Les opérations non mentionnées à l'article R. 431-8 sont engagées et conduites, sous l'autorité du ministre chargé de
-l'économie et des finances, par le président du conseil d'administration, directeur général. Ce dernier signe notamment les
-traités de réassurance et de rétrocession ; il nomme et licencie les membres du personnel.
+2. Arrête le budget de fonctionnement et les comptes annuels.
 
 **Liens relatifs à cet article**
 
@@ -36976,7 +36990,41 @@ traités de réassurance et de rétrocession ; il nomme et licencie les membres 
 
 	**Modifié par**:
 
-	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+	  - Décret n°89-351 du 2 juin 1989 - art. 1 (V) JORF 4 juin 1989
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L431-7 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+
+###### Article R*431-9
+
+Le président du conseil d'administration assure la direction générale de l'établissement.
+
+Il exécute les décisions du conseil d'administration.
+
+Sous l'autorité du ministre chargé de l'économie et des finances, le président du conseil d'administration, directeur
+général, exerce les attributions qui ne sont pas réservées au conseil d'administration en vertu des dispositions de l'article
+R. 431-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°89-351 du 2 juin 1989 - art. 1 (V) JORF 4 juin 1989
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
 
 	**Liens**:
 
@@ -37142,6 +37190,32 @@ Le personnel de la caisse centrale de réassurance a le même statut que le pers
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+
+###### Article R431-6-2
+
+Les dispositions de l'article R. 322-26 sont applicables aux représentants de l'Etat dans le conseil d'administration de la
+Caisse centrale de réassurance. Le mandat de membre du conseil d'administration représentant l'Etat, ainsi que celui des
+représentants des salariés, est gratuit, sans préjudice du remboursement par l'établissement des frais exposés pour
+l'exercice dudit mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°89-351 du 2 juin 1989 - art. 1 (V) JORF 4 juin 1989
+
+	**Cité par**:
+
+	  - Décret n°94-582 du 12 juillet 1994 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code des assurances R322-26
 
 
 ##### Section II : Opérations effectuées avec la garantie de l'Etat
