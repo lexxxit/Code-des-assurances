@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1984-11-23
+Version Consolidée au 1984-12-26
 
 # Partie législative
 
@@ -12809,9 +12809,115 @@ participation aux excédents.
 	  - Code des assurances - art. R*331-3 (M)
 
 
-##### Section V : Participation des porteurs de titres aux bénéfices.
-
 ###### Article R150-21
+
+Les entreprises pratiquant les opérations de capitalisation peuvent garantir dans leurs contrats un montant total annuel
+d'intérêts techniques et de participations bénéficiaires qui, rapporté aux provisions mathématiques, ne sera pas inférieur à
+un taux minimum garanti.
+
+Cette faculté n'est ouverte que pour les contrats libellés en francs et dans les conditions fixées aux articles R. 150-22 et
+R. 150-23 qui peuvent être appliqués séparément ou conjointement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-1169 1984-12-21 art. 2 JORF 26 décembre 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-382 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. R150-20 (MMN)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R150-22 (Ab)
+	  - Code des assurances - art. R150-23 (Ab)
+
+
+###### Article R150-22
+
+Le taux minimum visé à l'article R. 150-21 peut varier annuellement en fonction d'un taux de référence lié à ceux qui sont
+pratiqués sur les marchés financier et monétaire et qui sont en rapport avec les types de placements autorisés pour les
+entreprises d'assurances, ou du taux des premiers livrets de caisse d'épargne.    La garantie de ce minimum ne peut être
+donnée que pour une période maximale de dix ans.
+
+L'autorisation de présenter cette garantie est subordonnée aux conditions suivantes :
+
+1° Au moment de la demande, l'entreprise de capitalisation doit justifier que le taux de rendement global de ses effectifs
+déterminé dans les conditions prévues à l'article A. 150-3 est au moins égal aux quatre tiers du taux minimum qu'elle propose
+de garantir la première année ;
+
+2° Les écritures relatives aux contrats assortis de cette garantie font l'objet d'une comptabilité distincte.
+
+L'entreprise doit constituer, dans le cadre de la participation aux bénéfices, une provision spéciale pour aléas financiers
+alimentée chaque année par un vingtième des sommes affectées aux intérêts techniques et participations bénéficiaires sans que
+le montant de cette provision puisse excéder 3 p. 100 de l'ensemble des provisions mathématiques de ces contrats.
+
+3° Les contrats assortis de cette garantie cessent d'être présentés au public si le taux de rendement global des actifs visé
+à l'article A. 150-3 est inférieur pour un exercice à 110 p. 100 du taux minimum garanti mentionné à l'article R. 150-21,
+pour ledit exercice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°84-1169 1984-12-21 art. 2 JORF 26 décembre 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-382 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. A150-3 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R150-21 (Ab)
+
+
+###### Article R150-23
+
+Le taux minimum visé à l'article R. 150-21 peut être fixé annuellement pour l'année suivante. Il ne peut alors excéder 95 p.
+100 du dernier taux de rendement global connu des actifs, déterminé dans les conditions prévues à l'article A. 150-3 du code
+des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°84-1169 1984-12-21 art. 2 JORF 26 décembre 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-382 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. A150-3 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R150-21 (Ab)
+
+
+###### Article R150-24
 
 Les dispositions du présent titre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française,
 des Terres australes et antarctiques françaises et de Wallis et Futuna, et dans la collectivité territoriale de Mayotte.
@@ -12822,23 +12928,19 @@ des Terres australes et antarctiques françaises et de Wallis et Futuna, et dans
 
 	  - Décret n°76-667 1976-07-16
 
-	**Transféré par**:
+	**Créé par**:
 
-	  - Décret n°83-328 1983-04-21 art. 2 JORF 22 avril 1983
+	  - Décret n°84-1169 1984-12-21 art. 1 JORF 26 décembre 1984
+
+	**Abrogé par**:
+
+	  - Décret n°93-382 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+	  - Décret n°93-385 du 19 mars 1993 - art. 3 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Anciens textes**:
 
-	  - Code des assurances - art. R150-20 (MMN)
-	  - Code des assurances R150-20 (1ère version)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R150-22 (Ab)
-	  - Code des assurances - art. R150-23 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. R150-24 (Ab)
+	  - Code des assurances - art. R150-21 (T)
+	  - Code des assurances R150-21 (1ère version)
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
@@ -37786,33 +37888,6 @@ l'article R. 441-6.
 	  - Code des assurances - art. R*441-6 (M)
 
 
-###### Article R*441-21
-
-Chaque année, l'assureur calcule le montant de la provision mathématique théorique qui serait nécessaire, au taux d'intérêt
-de 3 %, pour assurer le service des rentes viagères immédiates et différées, correspondant au produit de la dernière valeur
-de service arrêtée par le nombre total des unités de rentes inscrites aux comptes des adhérents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-537 1964-06-04 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. A441-4 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C6 (V)
-	  - Code des assurances - art. D441-22 (V)
-	  - Code des assurances - art. R334-13 (V)
-	  - Code des assurances - art. R343-1 (VD)
-	  - Code des assurances - art. R441-6 (Ab)
-	  - Code des assurances - art. R441-7 (V)
-
-
 ###### Article R*441-22
 
 Pour une convention donnée, le rapport de la provision technique spéciale à la provision mathématique théorique doit être
@@ -37886,6 +37961,31 @@ dessus sur autorisation du ministre de l'économie et des finances.    Des déro
 	**Cite**:
 
 	  - Code des assurances - art. R*441-7 (M)
+
+
+###### Article R441-21
+
+Chaque année, l'assureur calcule le montant de la provision mathématique théorique qui serait nécessaire pour assurer le
+service des rentes viagères immédiates et différées. Ce montant est égal au produit de la dernière valeur de service arrêtée
+par l'assureur par le nombre total des unités de rentes inscrites aux comptes des adhérents. Ce calcul est effectué d'après
+des taux d'intérêts au plus égaux à 5 % pour les rentes viagères immédiates et à 4,5 % pour les rentes viagères différées
+souscrites en prime unique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cité par**:
+
+	  - Code des assurances - art. A441-4 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C6 (V)
+	  - Code des assurances - art. D441-22 (V)
+	  - Code des assurances - art. R334-13 (V)
+	  - Code des assurances - art. R343-1 (VD)
+	  - Code des assurances - art. R441-6 (Ab)
+	  - Code des assurances - art. R441-7 (V)
 
 
 ##### Section III : Règles relatives au retrait de l'agrément.
@@ -38408,14 +38508,9 @@ jusqu'à la résiliation et il doit restituer le surplus éventuellement perçu.
 
 ###### Article R*511-7
 
-Toute personne qui présente des opérations définies à l'article R. 511-1 en méconnaissance des règles prévues aux articles R.
-511-2 et R. 511-4 est passible d'un emprisonnement de huit à quinze jours et d'une amende de 600 à 1.000 F ou de l'une de ces
-deux peines seulement.
-
-En cas de récidive, la peine d'emprisonnement peut être portée à un mois et celle d'amende à 2.000 F.
-
-Est passible des mêmes sanctions toute personne qui rétrocède des commissions en méconnaissance des règles prévues à
-l'article R. 511-3.
+Toute personne qui, dans une entreprise mentionnée à l'article L. 310-1 ou une entreprise de courtage ou une agence générale,
+a sous son autorité des personnes chargées de présenter des opérations d'assurance ou de capitalisation, est tenue de veiller
+à ce que celles-ci remplissent les conditions prévues aux articles R. 511-2 et R. 511-4.
 
 **Liens relatifs à cet article**
 
@@ -38423,12 +38518,55 @@ l'article R. 511-3.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°84-1167 1984-12-21 art. 1 JORF 26 décembre 1984
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R*511-2 (M)
+	  - Code des assurances L310-1, R511-2, R511-4
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des assurances R511-8
+
+
+###### Article R*511-8
+
+Toute personne qui présente des opérations définies à l'article R. 511-1 en méconnaissance des règles prévues aux articles R.
+511-2 et R. 511-4 est passible de l'amende prévue pour les contraventions de la 5e classe.
+
+Lorsqu'il y a récidive, l'amende applicable est celle prévue dans ce cas pour les contraventions de la 5e classe.
+
+Est passible des mêmes sanctions toute personne qui rétrocède des commissions en méconnaissance des règles prévues à
+l'article R. 511-3.
+
+Est également passible des sanctions prévues aux premier et deuxième alinéas du présent article la personne visée à l'article
+R. 511-7 qui a fait appel ou, par suite d'un défaut de surveillance, a laissé faire appel, pour une personne placée sous son
+autorité, à des personnes ne remplissant pas les conditions définies aux articles R. 511-2 et R. 511-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°84-1167 1984-12-21 art. 2 JORF 26 décembre 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
 	**Cite**:
 
 	  - Code des assurances - art. R*511-1 (M)
 	  - Code des assurances - art. R*511-2 (M)
 	  - Code des assurances - art. R*511-3 (M)
-	  - Code des assurances R511-1, R511-2, R511-3, R511-4
+	  - Code des assurances R511-1, R511-2, R511-3, R511-4, R511-7
 
 
 ###### Article R511-6
@@ -40172,7 +40310,7 @@ chaque année à la date anniversaire de sa prise d'effet, moyennant préavis d'
 	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-### Titre III : Règles relatives aux assurances de personnes
+### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation
 
 #### Chapitre II : Les assurances sur la vie
 
@@ -40180,14 +40318,8 @@ chaque année à la date anniversaire de sa prise d'effet, moyennant préavis d'
 
 ###### Article A132-10
 
-Le montant des participations aux bénéfices des assurés peut être affecté directement aux provisions mathématiques ou porté,
-partiellement ou totalement, à la provision pour participation aux excédents mentionnée à l'article R. 331-3. Les sommes
-portées à cette dernière provision sont affectées à la provision mathématique ou versées aux assurés au cours des cinq
-exercices suivant celui au titre duquel elles ont été portées à la provision pour participation aux excédents.
-
-Les sommes figurant à la clôture des comptes de l'exercice 1981 à la provision pour participation aux excédents mentionnée à
-l'article R. 331-3 sont affectées à la provision mathématique ou versées aux assurés au plus tard le 31 décembre 1986, date à
-laquelle sont arrêtés les comptes relatifs à cet exercice.
+Le taux minimum visé à l'article A. 132-8 peut être fixé annuellement pour l'année suivante. Il ne peut alors excéder 95 % du
+dernier taux de rendement global connu des actifs, déterminé dans les conditions prévues au I de l'article A. 132-5.
 
 **Liens relatifs à cet article**
 
@@ -40195,13 +40327,19 @@ laquelle sont arrêtés les comptes relatifs à cet exercice.
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1983-04-21 art. 2 JORF 22 avril 1983
+	  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
+	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 15 JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Cite**:
 
-	  - Code des assurances - art. R*331-3 (M)
+	  - Code des assurances - art. A132-5 (T)
+	  - Code des assurances - art. A132-8 (T)
 
 
 ### Titre V : Le contrat de capitalisation
@@ -40279,9 +40417,13 @@ Le compte de participation aux résultats mentionné à l'article R. 150-19 comp
 figurent dans la colonne capitalisation 00 de l'état A1 prévu à l'article R. 342-17, à l'exclusion des sommes correspondant
 aux rubriques "Participation aux excédents liquidés" et "Produits financiers nets".
 
-Il est ajouté en recette du compte de résultats une part de produits financiers. Cette part est égale à 85 p. 100 du solde
-d'un compte financier établi en reprenant, à l'exception du dernier, les éléments prévus par l'article A. 132-4. Ces éléments
-sont déterminés suivant les règles fixées aux II, IV, V et VI de l'article A. 132-6.
+Il est ajouté à ce compte de résultats :
+
+- en recette, une part de produits financiers. Cette part est égale à 85 p. 100 du solde d'un compte financier établi en
+reprenant les éléments prévus par l'article A. 132-4. Ces éléments sont déterminés suivant les règles fixées à l'article A.
+132-5.
+
+- en dépense, s'il y a lieu, le solde débiteur du compte de participation aux résultats de l'exercice précédent.
 
 Le montant minimal de la participation aux résultats est le solde du compte de résultats défini ci-dessus.
 
@@ -40294,14 +40436,22 @@ montant des intérêts crédités aux provisions mathématiques.
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté 1982-07-23 art. 1 JORF 7 septembre 1982
+	  - SPEC_APPLI: Arrêté 1984-12-21 art. 10
+
+	**Modifié par**:
+
+	  - Arrêté 1984-12-21 art. 4 JORF 26 décembre 1984
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 3 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Cite**:
 
 	  - Code des assurances - art. A132-4 (M)
-	  - Code des assurances - art. A132-6 (T)
+	  - Code des assurances - art. A132-5 (T)
 	  - Code des assurances - art. R*150-19 (M)
 	  - Code des assurances - art. R342-17 (M)
 
@@ -42396,39 +42546,38 @@ commission et conservé dans les archives de la direction des assurances.
 
 ###### Article A331-1
 
-Les provisions mathématiques des contrats d'assurance sur la vie souscrits postérieurement au 8 novembre 1974 doivent être
-calculées d'après les tables de mortalité mentionnées à l'article A. 335-1 et des taux d'intérêt au plus égaux à ceux retenus
-pour l'établissement des tarifs.
+Les provisions mathématiques de tous les contrats d'assurance vie dont les garanties sont exprimées en francs ou en unités de
+compte et de tous les contrats nuptialité-natalité dont les tarifs ont été établis selon les dispositions de l'arrêté du 20
+mai 1957 ou de textes postérieurs doivent être calculés, à compter du 31 décembre 1982, en prenant en compte les chargements
+destinés aux frais d'acquisition dans l'engagement du payeur de primes.
 
-Lorsque la durée de paiement des primes est inférieure à la durée du contrat, les provisions mathématiques doivent
-comprendre, en outre, une provision de gestion permettant de couvrir les frais de gestion pendant la période au cours de
-laquelle les primes ne sont plus payées. Ces frais doivent être estimés à un montant justifiable et raisonnable, sans pouvoir
-être inférieurs, chaque année, à :
+Lorsque ces chargements ne sont pas connus, ceux-ci sont évalués au niveau retenu pour le calcul des valeurs de rachat tel
+qu'il a pu être exposé dans la note technique déposée pour le visa du tarif. Dans l'éventualité où, pour un contrat, ce
+niveau n'est pas déterminé, la valeur provisionnée devra être égale au plus à 110 p. 100 de la valeur de rachat.
 
-a) Assurances en cas de décès : 0,30 p. 1.000 du capital assuré pour les assurances temporaires et 1,50 p. 1.000 du capital
-assuré pour les autres assurances ;
+La provision résultant du calcul précédent ne peut être négative, ni inférieure à la valeur de rachat du contrat, ni
+inférieure à la provision correspondant au capital réduit.
 
-b) Assurances en cas de vie : 1,50 p. 1.000 du capital assuré. Pour les rentes immédiates, 3 p. 100 du montant de chaque
-arrérage.
-
-Pour l'application du présent article, les rentes différées sont considérées comme la combinaison d'un capital différé et
-d'une rente immédiate ;
-
-c) Assurance comportant simultanément une garantie en cas de décès et une garantie en cas de vie :
-
-Le taux prévu au b ci-dessus s'applique à la garantie en cas de vie et le taux prévu au a pour les assurances temporaires en
-cas de décès s'applique à l'excédent de la garantie en cas de décès sur la garantie en cas de vie.
+Les provisions mathématiques des contrats d'assurance vie souscrits selon des dispositions antérieures à l'arrêté du 20 mai
+1957 peuvent être calculées suivant les modalités indiquées au présent article.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Arrêté 1974-10-31 art. 2
-	  - Code des assurances - art. A331-1-1 (T)
+	  - Arrêté 1957-05-20
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Transféré par**:
+
+	  - Arrêté 1984-12-21 art. 5 JORF 26 décembre 1984
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A331-1-1 (T)
 
 	**Nouveaux textes**:
 
@@ -42439,13 +42588,10 @@ cas de décès s'applique à l'excédent de la garantie en cas de décès sur la
 	  - Code des assurances - art. A332-1 (V)
 	  - Code des assurances - art. A335-2 (Ab)
 
-	**Cite**:
-
-	  - Code des assurances - art. A335-1 (M)
-
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
+	  - SPEC_APPLI: Code des assurances A331-3 *champ d'application*
 
 
 ###### Article A331-1-1
@@ -42667,6 +42813,44 @@ tarif.
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
+
+
+###### Article A331-5
+
+Les provisions mathématiques des contrats d'assurances nuptialité et natalité dont les tarifs prennent effet à compter du 1er
+janvier 1985 doivent être calculées notamment d'après les tables de mortalité, les taux d'intérêt et les chargements
+mentionnées à l'article A. 331-1-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Anciens textes**:
+
+	  - Arrêté 1978-06-09 art. 4
+
+	**Modifié par**:
+
+	  - Arrêté 1978-06-09 art. 4 JORF 24 juin 1978
+	  - Arrêté 1984-12-21 art. 8 JORF 26 décembre 1984
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 15 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. A331-1-1 (T)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A335-6 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R331-14
 
 
 ###### Article A331-7
@@ -44005,6 +44189,35 @@ le dernier cas, s'il est responsable d'un ou plusieurs sinistres.
 ##### Section I : Tarifs
 
 ##### Paragraphe 1 : Assurances sur la vie.
+
+###### Article A335-1-1
+
+Les visas des tarifs accordés antérieurement au 1er juillet 1984 sont révoqués :
+
+1° A compter du 1er janvier 1986, pour les tarifs d'assurances temporaires en cas de décès, de rentes de survie, d'assurance
+vie entière et de rentes viagères immédiates et différées.
+
+2° A compter du 1er janvier 1990 pour les tarifs autres que ceux mentionnés au 1° ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1984-12-21 art. 2 JORF 26 décembre 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1984-12-21 art. 4
+	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 28 mars 1995 - art. 6 (V)
+
 
 ###### Article A335-2
 
@@ -45625,7 +45838,7 @@ Les provisions à constituer annuellement par le fonds de revalorisation de cert
 préjudice causé par un véhicule terrestre à moteur, en garantie des majorations qu'il rembourse aux entreprises d'assurance,
 sont calculées sur les bases ci-après :
 
-Table de mortalité P.F. 1960-1964 MKH annexée à l'article A. 335-1 ;
+Table de mortalité P.F. 1960-1964 MKH annexée au présent article ;
 
 Taux d'intérêt de 4,50 %.
 
@@ -45636,19 +45849,17 @@ du total des provisions mentionnées à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté 1975-07-03 art. 1
-	  - Arrêté 1976-04-20 art. 1, art. 2, art. 3
-
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
+	**Modifié par**:
+
+	  - Arrêté 1984-12-21 art. 12 JORF 26 décembre 1984
+
 	**Cite**:
 
 	  - Loi n°74-1118 du 27 décembre 1974 - art. 2 (M)
-	  - Code des assurances - art. A335-1 (M)
 
 	**Cité par**:
 
