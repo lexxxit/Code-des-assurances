@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1981-05-19
+Version Consolidée au 1981-05-21
 
 # Partie législative
 
@@ -15505,17 +15505,14 @@ suspension de la garantie, soit après l'expiration de la durée de validation d
 
 ### Titre IV : L'assurance des travaux de bâtiment.
 
-###### Article R241-1
+###### Article R*241-1
 
-Les dérogations prévues à l'article L. 243-1 sont accordées par arrêté du ministre  de l'économie après avis du ministre
-chargé de la construction. S'il s'agit de collectivités locales ou d'établissements publics, ces dérogations sont accordées,
-après avis du ministre chargé de la construction, par arrêté conjoint du ministre de l'économie et du ministre de tutelle de
-ces collectivités ou établissements.
+Une décision conjointe du ministre de l'économie et du ministre de tutelle peut accorder, après avis du ministre chargé de la
+construction, une dérogation à l'obligation d'assurance de dommages obligatoire, aux collectivités locales et aux
+établissements publics répondant à la condition fixée à l'article L. 243-1.
 
-Les dérogations prévues à l'article L. 243-1 sont accordées par arrêté du ministre  de l'économie après avis du ministre
-chargé de la construction. S'il s'agit de collectivités locales ou d'établissements publics, ces dérogations sont accordées,
-après avis du ministre chargé de la construction, par arrêté conjoint du ministre de l'économie et du ministre de tutelle de
-ces collectivités ou établissements.
+Les préfets reçoivent délégation pour accorder aux communes et aux groupements de communes remplissant la même condition, des
+dérogations limitées à des ouvrages déterminés.
 
 **Liens relatifs à cet article**
 
@@ -15523,13 +15520,17 @@ ces collectivités ou établissements.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°81-617 1981-05-18 art. 1 JORF 21 mai 1981
 
 	**Cite**:
 
 	  - Code des assurances - art. L243-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R243-1
 
 
 ###### Article R241-2
