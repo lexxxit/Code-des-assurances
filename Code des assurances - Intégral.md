@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-11-29
+Version Consolidée au 1992-01-01
 
 # Partie législative
 
@@ -43166,6 +43166,57 @@ chaque année à la date anniversaire de sa prise d'effet, moyennant préavis d'
 
 ### Titre II : Règles relatives aux assurances de dommages non maritimes
 
+#### Chapitre Ier : Dispositions générales.
+
+###### Article A121-1
+
+Les contrats d'assurance relevant des branches mentionnées au 3 et au 10 de l'article R. 321-1 du code des assurances et
+concernant des véhicules terrestres à moteur doivent comporter la clause de réduction ou de majoration des primes ou
+cotisations annexée au présent article.
+
+Sauf convention contraire, la clause visée à l'alinéa 1er n'est pas applicable aux contrats garantissant soit des cycles,
+tricycles ou quadricycles à moteur dont la cylindrée est inférieure ou égale à 80 centimètres cubes, soit des véhicules,
+appareils ou matériels mentionnés aux articles R. 138 et R. 231 du code de la route.
+
+(Annexe non reproduite - consulter le fac-similé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1979-05-23 art. 1 JORF 30 mai 1979
+
+	**Modifié par**:
+
+	  - Arrêté 1983-07-22 art. 1 JORF 2 septembre 1983
+	  - Arrêté 1991-06-28 art. 2 JORF 30 juin 1991
+	  - Arrêté 1991-11-22 art. 1, art. 2, art. 5 JORF 29 novembre 1991 en vigueur le 1er janvier 1992
+
+	**Cité par**:
+
+	  - Arrêté du 17 décembre 2010 - art. 8 (V)
+	  - Arrêté du 17 décembre 2010 - art. 9 (V)
+	  - Code des assurances - art. A121-2 (V)
+	  - Code des assurances - art. A335-9-1 (V)
+	  - Code des assurances - art. A335-9-2 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C4 (V)
+	  - Code des assurances - art. Annexe à l'article A121-1 (V)
+	  - Code des assurances - art. R113-12 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
+
+	**Cite**:
+
+	  - Code des assurances R321-1
+	  - Code de la route R138, R231
+
+
 #### Chapitre V : L'assurance des risques de catastrophes naturelles.
 
 ###### Article A125-1
@@ -47233,6 +47284,55 @@ compte de l'extinction des contrats avant leur terme.
 ##### Section I : Tarifs.
 
 ##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.
+
+###### Article A335-9-1
+
+En assurance de responsabilité civile automobile, la prime de référence visée à l'article 2 de l'annexe à l'article A. 121-1
+peut donner lieu, pour les assurés ayant un permis de moins de trois ans et pour les assurés ayant un permis de trois ans et
+plus mais qui ne peuvent justifier d'une assurance effective au cours des trois dernières années précédant la souscription du
+contrat, à l'application d'une surprime. 
+
+Cette surprime ne peut dépasser 100 % de la prime de référence. Ce plafond est réduit à 50 % pour les conducteurs novices
+ayant obtenu leur permis de conduire dans les conditions visées à l'article R. 123-3 du code de la route. 
+
+Elle est réduite de la moitié de son taux initial après chaque année consécutive ou non, sans sinistre engageant la
+responsabilité. 
+
+En cas de changement d'assureur, le nouvel assureur peut appliquer à l'assuré la même surprime que celle qu'aurait pu
+demander l'assureur antérieur en vertu des alinéas précédents. 
+
+La justification des années d'assurance est apportée, notamment, par le relevé d'informations prévu à l'article 12 de
+l'annexe à l'article A. 121-1 ou tout autre document équivalent, par exemple, si l'assurance est souscrite hors de France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1983-07-22 art. 1 JORF 2 septembre 1983 en vigueur le 1er janvier 1984
+
+	**Modifié par**:
+
+	  - Arrêté 1984-06-08 art. 1 JORF 20 juin 1984 en vigueur le 1er juillet 1984
+	  - Arrêté 1985-08-30 art. 1 JORF 3 septembre 1985
+	  - Arrêté 1991-06-28 art. 3 JORF 30 juin 1991
+	  - Arrêté 1991-11-22 art. 3 JORF 28 novembre 1991 en vigueur le 1er janvier 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1985-08-30 art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. A121-1 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A335-9-2 (V)
+
 
 ###### Article A335-9-2
 
