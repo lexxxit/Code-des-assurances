@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1981-01-18
+Version Consolidée au 1981-01-28
 
 # Partie législative
 
@@ -31235,127 +31235,6 @@ d'un accident qui a subi également des dommages corporels.
 	  - Code des assurances R420-18, R420-4 à R420-11
 
 
-##### Section I : Dispositions spéciales aux accidents d'automobile survenus en France métropolitaine et dans les départements d'outre-mer.
-
-###### Article R*420-6
-
-Les espèces, valeurs mobilières et objets considérés comme précieux ne donnent pas lieu à indemnisation.
-
-L'indemnisation des dommages occasionnés à des effets et objets personnels ne peut excéder 3.000 F par victime.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-1 (M)
-	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-
-###### Article R*420-7
-
-Pour bénéficier des dispositions de l'article R. 420-1, toute victime de dommages matériels mentionnés audit article doit,
-sous peine de déchéance de ses droits éventuels à l'encontre du fonds de garantie, adresser audit fonds une déclaration
-accompagnée d'un état descriptif des dommages dans un délai d'un mois à compter du jour de l'accident ou du jour où elle a eu
-connaissance de l'absence ou de l'insuffisance d'assurance ou de garantie de la personne présumée responsable des dommages.
-
-Toutefois, lorsque la victime de l'accident a subi à la fois des dommages corporels et des dommages matériels, l'absence de
-la déclaration mentionnée à l'alinéa précédent n'entraîne pas déchéance de ses droits à l'encontre du fonds de garantie, sous
-réserve que la demande d'indemnité, en ce qui concerne les dommages matériels, soit adressée au fonds dans le délai d'un an
-mentionné à l'article R. 420-19.
-
-Dans tous les cas, la demande d'indemnité doit être présentée au fonds de garantie dans les conditions fixées à l'article R.
-420-20.
-
-Les dispositions des articles R. 420-11 à R. 420-18 sont applicables à l'indemnisation des dommages matériels de la victime
-d'un accident qui a subi également des dommages corporels.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-1 (M)
-	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-	**Cite**:
-
-	  - Code des assurances R420-1, R420-19, R420-20, R420-11 à R420-18
-
-
-##### Section II : Dispositions spéciales aux accidents de chasse survenus en France métropolitaine.
-
-###### Article R*420-8
-
-Les indemnités dues en vertu des dispositions de l'article 366 ter du code rural aux victimes d'accidents corporels ou à
-leurs ayants droit sont prises en charge par le fonds de garantie conformément aux dispositions de la présente section et de
-la section III du présent chapitre et à la condition que ces accidents soient survenus sur le territoire de la France
-métropolitaine.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-170 1968-02-19 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-	**Cite**:
-
-	  - Code rural 366 ter
-
-
-###### Article R*420-10
-
-Tout auteur d'un accident corporel survenu au cours d'un acte de chasse ou de destruction des animaux nuisibles doit
-présenter, le cas échéant, son permis, et faire connaître à l'agent de la force publique qui dresse le procès-verbal ou
-établit le rapport de l'accident la ou les assurances autres que celles prévues par l'article 366 ter du code rural qui
-serait de nature à couvrir les dommages causés. Il doit également préciser le nom et l'adresse de la ou des entreprises
-d'assurances ainsi que le numéro de la ou des polices. Toute omission volontaire de déclaration ou fausse déclaration faite
-de mauvaise foi sera punie d'une amende de 40 à 160 F.
-
-Les renseignements résultant soit des mentions figurant sur le permis de chasser en vertu des dispositions du dernier alinéa
-de l'article 366 ter du code rural, soit de la déclaration prévue ci-dessus, doivent être obligatoirement indiqués sur le
-procès-verbal ou le rapport relatif à l'accident. Si un ou plusieurs des renseignements faisant l'objet de la déclaration
-prévue à l'alinéa précédent sont ignorés de l'auteur de l'accident au moment de l'établissement du procès-verbal ou du
-rapport, cette circonstance est mentionnée ainsi que l'engagement qui doit avoir été pris par ledit auteur de faire parvenir
-ces renseignements sous huitaine. Dans ce cas, il est dressé ultérieurement un procès-verbal ou un rapport complémentaire.
-
-Si l'auteur d'un accident corporel est inconnu, le procès-verbal ou le rapport relatif à cet accident doit mentionner
-expressément cette circonstance.
-
-Un exemplaire de tout procès-verbal ou rapport relatif à un accident corporel causé par un auteur inconnu ou non assuré est
-transmis au fonds de garantie dans les dix jours de sa date par les autorités de police ou de gendarmerie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 366 ter
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-
 ##### Section II : Dispositions applicables aux accidents de chasse.
 
 ###### Article R*420-21
@@ -31560,29 +31439,6 @@ le responsable, mettre en cause, suivant le cas, le responsable ou l'assureur.
 	**Cite**:
 
 	  - Code des assurances R420-13
-
-
-##### Section III : Dispositions communes aux accidents d'automobiles survenus en France métropolitaine et dans les départements d'outre-mer, et aux accidents de chasse survenus en France métropolitaine.
-
-###### Article R*420-17
-
-Le règlement intérieur mentionné à l'article R. 420-25 précise les obligations des entreprises d'assurance pour l'application
-des articles R. 420-11 à R. 420-16.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-	**Cite**:
-
-	  - Code des assurances R420-25, R420-11 à R420-16
 
 
 ##### Section III : Organisation, fonctionnement et contrôle du fonds de garantie.
@@ -39144,6 +39000,92 @@ dépenses majoré du tiers de l'excédent des dépenses réelles par rapport à 
 	  - Code des assurances - art. A132-1 (M)
 	  - Code des assurances - art. A132-11 (Ab)
 	  - Code des assurances - art. A132-3 (M)
+
+
+###### Article A132-11
+
+Le montant de la norme de dépenses d'un exercice est égal au total des éléments suivants :
+
+1. Au titre des contrats d'assurance grande branche.
+
+a) Frais d'acquisition.
+
+5,3 % des primes de base de la production de l'exercice dans les combinaisons autres que les assurances temporaires en cas de
+décès ;
+
+1,7 % des primes de base de la production de l'exercice précédent dans les mêmes combinaisons ;
+
+21 % des primes émises, nettes d'annulations, relatives aux assurances temporaires en cas de décès ;
+
+b) Frais généraux.
+
+5 % des primes émises dans l'exercice, nettes d'annulations ;
+
+174 F par contrat en cours dans l'exercice, à l'exclusion des contrats de rente viagère en cours de service.
+
+2. Au titre des contrats d'assurance populaire et d'assurance natalité-nuptialité.
+
+a) Frais d'acquisition.
+
+5,2 % des capitaux de la production de l'exercice ;
+
+1,3 % des capitaux de la production de l'exercice précédent ;
+
+b) Frais généraux
+
+10 % des primes émises dans l'exercice, nettes d'annulations ;
+
+40 F par contrat en cours dans l'exercice, à l'exclusion des contrats de rente viagère en cours de service.
+
+3. Au titre des rentes viagères en cours de service
+
+3 % des arrérages échus dans l'exercice ;
+
+63 F par contrat en cours dans l'exercice.
+
+4. Au titre des assurances complémentaires
+
+35 % des primes émises dans l'exercice, nettes d'annulations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Anciens textes**:
+
+	  - Arrêté 1976-12-22 art. 1
+
+	**Créé par**:
+
+	  - Arrêté 1976-12-22 art. 1 JORF 29 décembre 1976
+
+	**Modifié par**:
+
+	  - Arrêté 1978-06-09 art. 1 JORF 24 juin 1978
+	  - Arrêté 1980-04-02 art. 1 JORF 15 avril 1980
+	  - Arrêté 1981-01-13 art. 1 JORF 28 janvier 1981
+
+	**Abrogé par**:
+
+	  - Arrêté 1982-07-23 art. 7 JORF 7 septembre 1982
+
+	**Cité par**:
+
+	  - Décret n°2008-284 du 26 mars 2008 - art. 3 (V)
+	  - Arrêté du 17 février 2014 - art. 1 (V)
+	  - Arrêté du 13 juillet 2016 - art. 1 (V)
+	  - Code des assurances - art. A132-10 (V)
+	  - Code des assurances - art. A132-12 (V)
+	  - Code des assurances - art. A132-13 (V)
+	  - Code des assurances - art. A132-15 (V)
+	  - Code des assurances - art. A132-5-1 (V)
+	  - Code des assurances - art. A134-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A331-9-1 (T)
 
 
 ###### Article A132-12
