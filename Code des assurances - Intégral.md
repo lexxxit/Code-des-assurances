@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-03-10
+Version Consolidée au 2004-03-14
 
 # Partie législative
 
@@ -24136,8 +24136,8 @@ Le livre III du présent code est applicable dans la collectivité territoriale 
 
 ###### Article R*321-1
 
-L'agrément administratif prévu par l'article L. 321-1 est accordé par le ministre de l'économie et des finances. Pour
-l'octroi de cet agrément, les opérations d'assurance sont classées en branches et sous-branches de la manière suivante :
+L'agrément administratif prévu par l'article L. 321-1 est accordé par le comité des entreprises d'assurance. Pour l'octroi de
+cet agrément, les opérations d'assurance sont classées en branches et sous-branches de la manière suivante :
 
 1. Accidents (y compris les accidents de travail et les maladies professionnelles) :
 
@@ -24159,7 +24159,7 @@ c) Combinaisons.
 
 3. Corps de véhicules terrestres (autres que ferroviaires) :
 
-Toute dommage subi par :
+Tout dommage subi par :
 
 a) Véhicules terrestres à moteur ;
 
@@ -24314,18 +24314,6 @@ cessation ou de réduction d'activités.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
-	  - TXT_SOURCE: Code des assurances - art. L321-1 (M)
-	  - TXT_ASSOCIE: Code des assurances R322-3
-
-	**Modifié par**:
-
-	  - Décret n°94-635 1994-07-25 art. 4 I, II JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
-
 	**Cité par**:
 
 	  - Décret n°99-528 du 25 juin 1999 - art. 3 (V)
@@ -24396,10 +24384,19 @@ cessation ou de réduction d'activités.
 	  - Code monétaire et financier - art. D221-113-2 (V)
 	  - Code monétaire et financier - art. R561-16 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L321-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L321-1 (M)
+	  - TXT_ASSOCIE: Code des assurances R322-3
 
 
 ###### Article R*321-3
@@ -24445,22 +24442,14 @@ risques qui résultent de l'utilisation de navires de mer ou qui sont en rapport
 
 ###### Article R321-4
 
-Toute décision de refus d'agrément administratif doit être motivée et notifiée par le ministre de l'économie et des finances
-à l'entreprise intéressée.
-
-L'agrément ne peut être refusé, totalement ou partiellement, qu'après avis conforme de la commission des entreprises
-d'assurance mentionnée à l'article L. 411-4, l'entreprise ayant été préalablement mise en demeure par lettre recommandée de
-présenter ses observations par écrit dans un délai de quinzaine.
+Toute décision de refus d'agrément administratif, total ou partiel, doit être motivée et notifiée par le comité des
+entreprises d'assurance à l'entreprise concernée, après que cette dernière a été mise préalablement en demeure par lettre
+recommandée de présenter ses observations par écrit dans un délai de quinzaine.
 
 L'entreprise peut se pourvoir devant le Conseil d'Etat dans les deux mois de la notification du refus d'agrément, total ou
-partiel, ou, en l'absence de notification, à l'expiration d'un délai de six mois à compter du dépôt d'un dossier
-régulièrement constitué de demande d'agrément. Ce délai de six mois est prorogé lorsque le ministre sursoit à une décision
-d'agrément en application des dispositions de l'article L. 321-2.
-
-Le ministre de l'économie et des finances peut appeler à se prononcer à nouveau, dans le délai d'un mois, la commission des
-entreprises d'assurance, dans l'hypothèse où celle-ci n'aurait pas émis un avis conforme à la proposition de refus
-d'agrément. Si la commission des entreprises d'assurance maintient son avis, le ministre peut néanmoins, par dérogation aux
-dispositions du deuxième alinéa du présent article, décider de refuser l'agrément.
+partiel, ou de la décision implicite de rejet résultant de l'absence de notification à l'expiration d'un délai de six mois à
+compter du dépôt d'un dossier régulièrement constitué de demande d'agrément. Ce délai de six mois est prorogé lorsque le
+comité sursoit à une décision d'agrément en application des dispositions de l'article L. 321-2.
 
 **Liens relatifs à cet article**
 
@@ -24468,15 +24457,9 @@ dispositions du deuxième alinéa du présent article, décider de refuser l'agr
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 1994-07-25 art. 4 I, III JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cité par**:
 
@@ -24489,7 +24472,6 @@ dispositions du deuxième alinéa du présent article, décider de refuser l'agr
 	**Cite**:
 
 	  - Code des assurances - art. L321-2 (M)
-	  - Code des assurances - art. L411-4 (M)
 
 	**Anciens textes**:
 
@@ -24673,19 +24655,19 @@ Lorsque le mandataire général est un préposé salarié ou un mandataire rému
 de mandataire général ne lui font pas perdre cette qualité.
 
 Le mandataire général, s'il est une personne physique, ou son représentant, s'il est une personne morale, doit produire, en
-ce qui concerne sa qualification et son expérience professionnelle, les informations prévues par l'arrêté du ministre chargé
-de l'économie et des finances.
+ce qui concerne sa qualification et son expérience professionnelle, les informations prévues par l'arrêté du comité des
+entreprises d'assurance.
 
 Toute modification intervenue concernant les informations mentionnées au quatrième alinéa du présent article doit être
-communiquée au ministre chargé de l'économie et des finances qui, le cas échéant, peut récuser le mandataire.
+communiquée au comité des entreprises d'assurance qui, le cas échéant, peut récuser le mandataire.
 
 Le mandataire général doit être doté par l'entreprise intéressée de pouvoirs suffisants pour engager celle-ci à l'égard des
 tiers et pour la représenter vis-à-vis des autorités et juridictions françaises.
 
 L'entreprise ne peut retirer à son mandataire général les pouvoirs qu'elle lui a confiés avant d'avoir désigné son
 successeur. Le mandataire général demeure investi de cette fonction tant que son remplaçant n'a pas été désigné et, s'il y a
-lieu, accepté par le ministre de l'économie et des finances. En cas de décès du mandataire général, ou de la personne
-physique nommément désignée pour le représenter, l'entreprise doit désigner son successeur dans le délai le plus bref.
+lieu, accepté par le comité des entreprises d'assurance. En cas de décès du mandataire général, ou de la personne physique
+nommément désignée pour le représenter, l'entreprise doit désigner son successeur dans le délai le plus bref.
 
 **Liens relatifs à cet article**
 
@@ -24693,14 +24675,9 @@ physique nommément désignée pour le représenter, l'entreprise doit désigner
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -24720,8 +24697,8 @@ auquel ressortit l'entreprise étrangère intéressée.
 La restitution du cautionnement ne peut intervenir que s'il ne se trouve plus justifié par l'application du principe de
 réciprocité, ou lorsque l'entreprise étrangère, ayant mis fin à ses opérations sur le territoire de la République française,
 les a totalement liquidées. En outre, la restitution n'intervient qu'à l'expiration d'un délai de trois mois à compter de la
-date de publication au Journal officiel d'un avis permettant à tout créancier intéressé de présenter au ministre de
-l'économie et des finances ses observations sur la restitution envisagée.
+date de publication au Journal officiel d'un avis permettant à tout créancier intéressé de présenter au comité des
+entreprises d'assurance ses observations sur la restitution envisagée.
 
 **Liens relatifs à cet article**
 
@@ -24737,15 +24714,13 @@ l'économie et des finances ses observations sur la restitution envisagée.
 	  - Code des assurances - art. R334-21 (V)
 	  - Code des assurances - art. R334-23 (VT)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-	  - TXT_SOURCE: Code des assurances - art. L321-2 (M)
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L321-2 (M)
 
 	**Anciens textes**:
 
@@ -24844,8 +24819,8 @@ cessé d'être valable.
 ###### Article R*321-21
 
 A la demande d'une entreprise s'engageant à ne plus souscrire à l'avenir de nouveaux contrats entrant dans une ou plusieurs
-branches ou sous-branches, le ministre de l'économie et des finances peut, par arrêté publié au Journal officiel, constater
-la caducité de l'agrément administratif pour lesdites branches ou sous-branches.
+branches ou sous-branches, le comité des entreprises d'assurance peut, par décision publiée au Journal officiel, constater la
+caducité de l'agrément administratif pour lesdites branches ou sous-branches.
 
 **Liens relatifs à cet article**
 
@@ -24853,13 +24828,9 @@ la caducité de l'agrément administratif pour lesdites branches ou sous-branche
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cité par**:
 
@@ -24873,9 +24844,8 @@ L'agrément administratif est donné par branche aux entreprises mentionnées au
 Cet agrément couvre la branche entière, sauf si l'entreprise ne désire garantir que les opérations relevant d'une ou
 plusieurs sous-branches.
 
-Pour les entreprises mentionnées au 4° de l'article L. 310-2, le ministre de l'économie et des finances peut, après avis de
-la commission des entreprises d'assurance mentionnée à l'article L. 411-4, dans les conditions prévues à l'article R. 321-4,
-restreindre l'agrément à une ou plusieurs opérations.
+Pour les entreprises mentionnées au 4° de l'article L. 310-2, le comité des entreprises d'assurance peut, dans les conditions
+prévues à l'article R. 321-4, restreindre l'agrément à une ou plusieurs opérations.
 
 **Liens relatifs à cet article**
 
@@ -24883,20 +24853,15 @@ restreindre l'agrément à une ou plusieurs opérations.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
+	  - Décret n°2004-221 2004-03-12 art. 2 II, VI 1° JORF 14 mars 2004
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. L411-4 (M)
-	  - Code des assurances L310-2, L411-4, R321-4
+	  - Code des assurances L310-2, R321-4
 
 	**Cité par**:
 
@@ -24939,11 +24904,12 @@ Ce mandataire général est assimilé à un dirigeant pour l'application de l'ar
 ###### Article R321-16
 
 Pendant les cinq exercices suivant la délivrance des agréments mentionnés aux articles L. 321-1, L. 321-7 et L. 321-9,
-l'entreprise doit présenter à la commission de contrôle des assurances, pour chaque semestre, un compte rendu d'exécution du
-programme d'activités mentionné à l'article L. 321-10. Si l'activité de l'entreprise n'est pas conforme au programme
-d'activités, la commission prend les mesures utiles en vue de la protection des intérêts des assurés. Sans préjudice de la
-mise en oeuvre, le cas échéant, des mesures prévues aux articles L. 310-17, L. 310-18 et L. 323-1-1, la commission peut
-saisir le ministre chargé de l'économie et des finances en vue de l'application des dispositions de l'article L. 325-1.
+l'entreprise doit présenter à la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance pour
+chaque semestre, un compte rendu d'exécution du programme d'activités mentionné à l'article L. 321-10. Si l'activité de
+l'entreprise n'est pas conforme au programme d'activités, la commission prend les mesures utiles en vue de la protection des
+intérêts des assurés. Sans préjudice de la mise en oeuvre, le cas échéant, des mesures prévues aux articles L. 310-17, L.
+310-18 et L. 323-1-1, la commission peut saisir le comité des entreprises d'assurance en vue de l'application des
+dispositions de l'article L. 325-1.
 
 **Liens relatifs à cet article**
 
@@ -24951,14 +24917,10 @@ saisir le ministre chargé de l'économie et des finances en vue de l'applicatio
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -24982,13 +24944,13 @@ saisir le ministre chargé de l'économie et des finances en vue de l'applicatio
 
 ###### Article R321-17-1
 
-Toute entreprise mentionnée aux 1°, 3° et 4° de l'article L. 310-2 est tenue de déclarer au ministre chargé de l'économie et
-des finances tout changement de l'une des personnes chargées de la conduire au sens de l'article L. 321-10, au plus tard le
+Toute entreprise mentionnée aux 1°, 3° et 4° de l'article L. 310-2 est tenue de déclarer au comité des entreprises
+d'assurance tout changement de l'une des personnes chargées de la conduire au sens de l'article L. 321-10, au plus tard le
 jour de ce changement.
 
-Dans un délai de trois mois à compter de la réception de cette déclaration, le ministre chargé de l'économie et des finances
-fait savoir à l'entreprise si ce changement est de nature à entraîner la mise en oeuvre des compétences dont il dispose aux
-termes de l'article L. 325-1.
+Dans un délai de trois mois à compter de la réception de cette déclaration, le comité des entreprises d'assurance fait savoir
+à l'entreprise si ce changement est de nature à entraîner la mise en oeuvre des compétences dont il dispose aux termes de
+l'article L. 325-1.
 
 **Liens relatifs à cet article**
 
@@ -24996,15 +24958,9 @@ termes de l'article L. 325-1.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cité par**:
 
@@ -25192,7 +25148,7 @@ ces quatre articles, la modalité de gestion adoptée, parmi celles qui sont én
 
 Lorsque l'entreprise choisit de confier les sinistres de la branche de protection juridique à une entreprise juridiquement
 distincte, conformément aux dispositions du deuxième tiret du premier alinéa de l'article L. 322-2-3, elle doit adresser
-copie des statuts de cette entreprise au ministre chargé de l'économie et des finances.
+copie des statuts de cette entreprise au comité des entreprises d'assurance.
 
 Si cette entreprise juridiquement distincte a des liens de la nature de ceux qui sont définis à l'article L. 310-15 avec une
 autre entreprise qui pratique l'assurance d'une ou plusieurs autres branches mentionnées à l'article R. 321-1, l'entreprise
@@ -25214,14 +25170,9 @@ n'exercent pas la même activité pour le compte de l'autre entreprise ;
 	  - Décret n°93-866 du 25 juin 1993 - art. 2 (V)
 	  - Code des assurances - art. R322-1-1 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-	  - TXT_SOURCE: Code des assurances - art. L321-4 (Ab)
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 7 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -25233,6 +25184,10 @@ n'exercent pas la même activité pour le compte de l'autre entreprise ;
 	  - Code des assurances - art. L322-2-3 (V)
 	  - Code des assurances L310-25, L321-1, L321-7, L321-8, L321-9, L322-2-3, R321-1
 
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L321-4 (Ab)
+
 	**Anciens textes**:
 
 	  - Code des assurances R321-22 (2ème version)
@@ -25241,10 +25196,10 @@ n'exercent pas la même activité pour le compte de l'autre entreprise ;
 ###### Article R322-1-1
 
 Lorsqu'une entreprise agréée dans la branche de protection juridique désire opter pour une autre modalité de gestion que
-celle qu'elle a précédemment choisie, elle est tenue d'en informer le ministre chargé de l'économie et des finances.
+celle qu'elle a précédemment choisie, elle est tenue d'en informer le comité des entreprises d'assurance.
 
-La nouvelle modalité choisie prend effet un mois après sa notification au ministre, sauf opposition par ce dernier dans le
-même délai pour un motif de nature à remettre en cause la décision d'agrément.
+La nouvelle modalité choisie prend effet un mois après sa notification au comité, sauf opposition par ce dernier dans le même
+délai pour un motif de nature à remettre en cause la décision d'agrément.
 
 Les deuxième et troisième alinéas de l'article R. 322-1 sont applicables.
 
@@ -25260,7 +25215,7 @@ Les deuxième et troisième alinéas de l'article R. 322-1 sont applicables.
 
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 7 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -25464,23 +25419,23 @@ I. - Toute opération de prise, d'extension ou de cession de participation, dire
 mentionnées au 1° de l'article L. 310-2 du présent code ayant pour effet de permettre à une personne ou à plusieurs personnes
 agissant ensemble, soit d'acquérir ou de perdre le pouvoir de contrôle effectif sur la gestion d'une entreprise, soit de
 passer au-dessus ou au-dessous des seuils de la moitié, du tiers, du cinquième ou du dixième des droits de vote, doit faire
-l'objet d'une déclaration de cette ou ces personnes auprès du ministre chargé de l'économie et des finances préalablement à
-sa réalisation.
+l'objet d'une déclaration de cette ou ces personnes auprès du comité des entreprises d'assurance préalablement à sa
+réalisation.
 
-Cette déclaration est accompagnée d'un dossier dont la composition est fixée par arrêté dudit ministre. Dès réception du
-dossier complet, le ministre dispose d'un délai de trois mois pour s'opposer à l'opération, après avis de la commission des
-entreprises d'assurances mentionnée à l'article L. 411-4, par décision motivée à la ou les personnes intéressées par lettre
-recommandée avec accusé de réception. L'opération peut être réalisée dès réception d'une autorisation du ministre dans le
-délai défini au présent alinéa ou, en cas de silence du ministre, à l'expiration de ce même délai.
+Cette déclaration est accompagnée d'un dossier dont la composition est fixée par arrêté du ministre chargé de l'économie. Dès
+réception du dossier complet, le comité dispose d'un délai de trois mois pour s'opposer à l'opération, par décision motivée à
+la ou les personnes intéressées par lettre recommandée avec accusé de réception. L'opération peut être réalisée dès réception
+d'une autorisation du comité dans le délai défini au présent alinéa ou, en cas de silence du comité, à l'expiration de ce
+même délai.
 
 En outre, toute transaction ayant pour résultat de permettre à une personne ou à plusieurs personnes agissant ensemble de
-prendre, d'acquérir ou de céder le vingtième des droits de vote doit être déclarée par cette ou ces personnes au ministre
-chargé de l'économie et des finances préalablement à sa réalisation.
+prendre, d'acquérir ou de céder le vingtième des droits de vote doit être déclarée par cette ou ces personnes au comité des
+entreprises d'assurance préalablement à sa réalisation.
 
 Les opérations mentionnées au premier alinéa du présent paragraphe sont seulement portées immédiatement à la connaissance du
-ministre chargé de l'économie et des finances lorsqu'elles sont conclues entre des personnes relevant du droit d'un ou
-plusieurs Etats membres de l'Espace économique européen et appartenant au groupe de celles qui détiennent déjà un pouvoir de
-contrôle effectif sur l'entreprise assujettie.
+comité des entreprises d'assurance lorsqu'elles sont conclues entre des personnes relevant du droit d'un ou plusieurs Etats
+membres de l'Espace économique européen et appartenant au groupe de celles qui détiennent déjà un pouvoir de contrôle
+effectif sur l'entreprise assujettie.
 
 Lorsque, en vertu de dispositions législatives ou statutaires, le nombre ou la répartition des droits de vote est différent
 par rapport au nombre ou à la répartition des actions ou parts sociales auxquelles ils sont attachés, les pourcentages prévus
@@ -25501,14 +25456,10 @@ visées au 1° de l'article L. 310-2.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 8 () JORF 26 juillet 1994
+	  - Décret n°2004-221 2004-03-12 art. 2 III, VI 2° 3° JORF 14 mars 2004
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cité par**:
 
@@ -25524,7 +25475,6 @@ visées au 1° de l'article L. 310-2.
 
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. L411-4 (M)
 
 
 ##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance
@@ -27827,32 +27777,6 @@ Les actions en nullité ci-dessus mentionnées sont prescrites par cinq ans.
 	  - TXT_ASSOCIE: Code des assurances - art. R322-90 (M)
 
 
-###### Article R*322-92
-
-A partir du jour où a été notifiée à une société régie par la présente section l'arrêté du ministre de l'économie et des
-finances lui accordant l'agrément administratif mentionné à l'article L. 321-1, l'action en nullité prévue à l'article R.
-322-91 ne peut plus être intentée que par le ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. R*322-91 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R322-90 (M)
-
-
 ###### Article R322-90
 
 Sans préjudice des dispositions des articles R. 322-106-1, R. 322-117, R. 322-124 et R. 322-159, toute société mentionnée à
@@ -27888,6 +27812,32 @@ prévues.
 
 	  - TXT_ASSOCIE: Code des assurances - art. R*322-91 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. R*322-92 (M)
+
+
+###### Article R322-92
+
+A partir du jour où a été notifiée à une société régie par la présente section la décision du comité des entreprises
+d'assurance lui accordant l'agrément administratif mentionné à l'article L. 321-1, l'action en nullité prévue à l'article R.
+322-91 ne peut plus être intentée que par le comité des entreprises d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. R*322-91 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R322-90 (M)
 
 
 ##### Paragraphe 7 : Sociétés mutuelles d'assurance.
@@ -28195,8 +28145,8 @@ d'établissement des "unions" prévues à l'article L. 322-26-3.
 Les sociétés mutuelles d'assurance ne peuvent être valablement constituées que si elles réunissent au moins trois cents
 membres.
 
-Des dérogations à cette règle peuvent être accordées par le ministre de l'économie et des finances aux sociétés mutuelles
-ayant exclusivement pour objet l'assurance maritime.
+Des dérogations à cette règle peuvent être accordées par le comité des entreprises d'assurance aux sociétés mutuelles ayant
+exclusivement pour objet l'assurance maritime.
 
 **Liens relatifs à cet article**
 
@@ -28206,9 +28156,7 @@ ayant exclusivement pour objet l'assurance maritime.
 
 	**Modifié par**:
 
-	  - Décret n°91-1050 1991-09-30 art. 1, art. 25 I, V JORF 15 octobre 1991
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 25 () JORF 15 octobre 1991
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cité par**:
 
@@ -28217,7 +28165,7 @@ ayant exclusivement pour objet l'assurance maritime.
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances R322-117 *sanctions civiles*
+	  - TXT_ASSOCIE: Code des assurances - art. R*322-117 (M)
 
 
 ###### Article R322-104
@@ -28402,15 +28350,15 @@ définies à l'article R. 322-117-1.
 ###### Article R*322-117-3
 
 L'union de mutuelles qui est substituée aux sociétés réassurées dans les conditions définies à l'article R. 322-117-1 est
-tenue d'informer la commission de contrôle des assurances de la conclusion, de l'expiration, de la résiliation ou de la
-modification d'un tel traité au plus tard deux mois avant la prise d'effet de ce traité, de sa résiliation, de son expiration
-ou des modifications envisagées.
+tenue d'informer la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance de la conclusion,
+de l'expiration, de la résiliation ou de la modification d'un tel traité au plus tard deux mois avant la prise d'effet de ce
+traité, de sa résiliation, de son expiration ou des modifications envisagées.
 
 Les sociétés réassurées visées au premier alinéa de l'article R. 322-117-1 sont tenues, au plus tard deux mois avant la prise
 d'effet de la résiliation ou de l'expiration du traité :
 
 - soit de justifier qu'elles ont conclu un nouveau traité se substituant au traité résilié, et ayant obtenu l'accord de la
-commission de contrôle ;
+commission de contrôle des assurances, des mutuelles et des institutions de prévoyance ;
 
 - soit de justifier qu'elles ont obtenu l'agrément administratif, conformément aux dispositions des articles R. 321-1 et
 suivants ;
@@ -28420,9 +28368,9 @@ transfert de leur portefeuille de contrats à une ou plusieurs entreprises agré
 
 Si elles ne peuvent apporter l'une des justifications prévues ci-dessus, elles sont tenues de cesser toute souscription et
 tout renouvellement de contrat à compter de la date d'effet de la résiliation ou de l'expiration du traité ; à compter de
-cette date et sur demande de la commission de contrôle des assurances, il peut être mis fin à tout moment, par arrêté du
-ministre chargé de l'économie, aux opérations des sociétés concernées ; l'arrêté mettant fin aux opérations produit les mêmes
-effets qu'un arrêté de retrait d'agrément administratif.
+cette date et sur demande de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance il
+peut être mis fin à tout moment, par décision du comité des entreprises d'assurance, aux opérations des sociétés concernées ;
+la décision mettant fin aux opérations produit les mêmes effets qu'une décision de retrait d'agrément administratif.
 
 **Liens relatifs à cet article**
 
@@ -28430,13 +28378,10 @@ effets qu'un arrêté de retrait d'agrément administratif.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°94-799 du 9 septembre 1994 - art. 14 () JORF 15 septembre 1994
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -28505,9 +28450,9 @@ concernées par le transfert.
 ###### Article R*322-117-6
 
 Lorsqu'une société visée à la présente section, antérieurement agréée conformément aux dispositions de l'article R. 321-1,
-souscrit un traité de réassurance et obtient l'accord de la commission de contrôle des assurances dans les conditions prévues
-à l'article R. 322-117-1, le ministre de l'économie et des finances constate, par arrêté publié au Journal officiel, la
-caducité de l'ensemble des agréments.
+souscrit un traité de réassurance et obtient l'accord de la commission de contrôle des assurances, des mutuelles et des
+institutions de prévoyance dans les conditions prévues à l'article R. 322-117-1, le comité des entreprises d'assurance
+constate, par décision publiée au Journal officiel, la caducité de l'ensemble des agréments.
 
 **Liens relatifs à cet article**
 
@@ -28515,13 +28460,10 @@ caducité de l'ensemble des agréments.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°94-799 du 9 septembre 1994 - art. 14 () JORF 15 septembre 1994
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -28613,14 +28555,15 @@ réunion de l'assemblée générale, doivent être inscrites à l'ordre du jour.
 
 ###### Article R322-111
 
-L'union est chargée, pour le compte et à la place de la société d'assurance mutuelle réassurée, de faire, au ministre de
-l'économie et des finances, les différentes communications prescrites par l'article L. 310-8 et à la commission de contrôle
-des assurances celles qui sont prévues à l'article R. 310-6-1, de tenir à son siège les livres de comptabilité, registres ou
-fichiers prévus par le titre IV du présent livre, de mettre à la disposition des commissaires-contrôleurs tous les documents
-mentionnés à l'article R. 310-2 et de produire les comptes et les états dont la publication et le dépôt auprès de la
-commission de contrôle des assurances sont imposés par la réglementation en vigueur. L'union doit constituer et représenter
-dans les conditions fixées par le titre III du présent livre l'intégralité des dettes, réserves et provisions afférentes aux
-engagements souscrits par la société réassurée.
+L'union est chargée, pour le compte et à la place de la société d'assurance mutuelle réassurée, de faire, au comité des
+entreprises d'assurance, les différentes communications prescrites par l'article L. 310-8 et à la commission de contrôle des
+assurances, des mutuelles et des institutions de prévoyance celles qui sont prévues à l'article R. 310-6-1, de tenir à son
+siège les livres de comptabilité, registres ou fichiers prévus par le titre IV du présent livre, de mettre à la disposition
+des commissaires-contrôleurs tous les documents mentionnés à l'article R. 310-2 et de produire les comptes et les états dont
+la publication et le dépôt auprès de la commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance sont imposés par la réglementation en vigueur. L'union doit constituer et représenter dans les conditions fixées
+par le titre III du présent livre l'intégralité des dettes, réserves et provisions afférentes aux engagements souscrits par
+la société réassurée.
 
 Toutes les écritures comptables afférentes aux engagements pris par la société réassurée doivent apparaître dans la
 comptabilité de l'union.
@@ -28634,13 +28577,10 @@ conditions et suivant la forme fixées par arrêté du ministre de l'économie e
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-799 du 9 septembre 1994 - art. 12 () JORF 15 septembre 1994
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -28675,12 +28615,13 @@ prévues à l'article R. 322-116.
 
 Les polices d'assurance délivrées par les sociétés d'assurance mutuelles réassurées auprès d'une union doivent contenir en
 caractères très apparents la désignation et l'adresse de cette union et reproduire la clause du traité de réassurance par
-laquelle l'union déclare se porter dans tous les cas caution solidaire des engagements de la société d'assurance mutuelle.
+laquelle l'union déclare se porter dans tous les cas caution solidaire des engagements de la société d'assurance mutuelle. 
 
 Les conditions générales de ces polices doivent être soumises par l'union au ministre de l'économie et des finances dans les
 conditions prévues par l'article L. 310-8. Elles doivent préciser que si l'agrément accordé à l'union lui est retiré, la
-police sera résiliée le dixième jour à midi à compter de la date de la publication au Journal officiel de l'arrêté prononçant
-le retrait d'agrément, la portion de cotisation afférente à la période non garantie étant alors restituée à l'assuré.
+police sera résiliée le dixième jour à midi à compter de la date de la publication au Journal officiel de la décision
+prononçant le retrait d'agrément, la portion de cotisation afférente à la période non garantie étant alors restituée à
+l'assuré.
 
 **Liens relatifs à cet article**
 
@@ -28688,17 +28629,13 @@ le retrait d'agrément, la portion de cotisation afférente à la période non g
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-799 du 9 septembre 1994 - art. 13 () JORF 15 septembre 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-8 (M)
+	  - Code des assurances - art. L310-8 (V)
 
 
 ###### Article R322-114
@@ -29147,10 +29084,10 @@ soumis à toutes les mesures de contrôle instituées par la réglementation des
 	  - Code des assurances - art. R*322-125 (V)
 
 
-###### Article R*322-127
+###### Article R322-127
 
 Les statuts des organismes soumis à l'agrément administratif et les modifications qui y sont apportées ne peuvent entrer en
-vigueur qu'après approbation conjointe du ministre de l'économie et des finances et du ministre de l'agriculture.
+vigueur qu'après approbation conjointe du comité des entreprises d'assurance et du ministre de l'agriculture.
 
 **Liens relatifs à cet article**
 
@@ -29162,6 +29099,10 @@ vigueur qu'après approbation conjointe du ministre de l'économie et des financ
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
@@ -29170,7 +29111,7 @@ vigueur qu'après approbation conjointe du ministre de l'économie et des financ
 ###### Article R322-128
 
 En ce qui concerne ces organismes, les décisions prévues aux articles L. 321-1, L. 324-1 et L. 325-1 sont prises
-conjointement par le ministre de l'économie et des finances et le ministre de l'agriculture.
+conjointement par le comité des entreprises d'assurance et le ministre de l'agriculture.
 
 **Liens relatifs à cet article**
 
@@ -29180,7 +29121,7 @@ conjointement par le ministre de l'économie et des finances et le ministre de l
 
 	**Modifié par**:
 
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 38 () JORF 15 octobre 1991
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -29213,88 +29154,6 @@ conditions définies à l'article R. 322-132.
 
 
 ##### Paragraphe 3 : Organismes dispensés de l'agrément administratif.
-
-###### Article R*322-133
-
-Le réassureur est tenu d'informer le ministre de l'économie et des finances de la conclusion ou de la résiliation d'un tel
-traité ou de toute modification portant sur la clause qui prévoit la substitution du réassureur à l'organisme réassuré, deux
-mois avant la prise d'effet de ce traité, ou de sa résiliation, ou des modifications envisagées.
-
-L'organisme réassuré est tenu, dans les deux mois précédant la prise d'effet de la modification ou résiliation :
-
-- soit de justifier qu'il a conclu un nouveau traité se substituant au traité résilié ;
-
-- soit de demander l'agrément administratif et de justifier que sa situation financière présente des garanties suffisantes
-pour lui permettre de remplir ses engagements.
-
-Dans ce dernier cas, il peut être autorisé par le ministre de l'économie et des finances à poursuivre provisoirement ses
-opérations jusqu'à ce qu'il soit statué sur sa demande d'agrément.
-
-S'il ne peut apporter l'une des justifications prévues ci-dessus, il peut être procédé au transfert de son portefeuille de
-contrats à un autre organisme mentionné à la présente section dans les conditions prévues à l'article L. 324-1.
-
-A défaut, il peut être mis fin à ses opérations par arrêté conjoint du ministre de l'agriculture et du ministre de l'économie
-et des finances. Les règles applicables à cet effet sont celles qui sont fixées par la réglementation en vigueur pour le
-retrait de l'agrément administratif.
-
-L'arrêté mettant fin aux opérations produit les effets de l'arrêté portant retrait de l'agrément administratif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-446 1964-05-23 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L324-1 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R322-134 (V)
-
-
-###### Article R*322-134
-
-La souscription d'un traité de réassurance, dans les conditions prévues à l'article R. 322-132, par un organisme ayant obtenu
-l'agrément administratif, a pour effet de suspendre la validité de cet agrément.
-
-En cas de résiliation dudit traité ou de modification de la clause prévoyant la substitution du réassureur à l'organisme
-réassuré, l'agrément ne sera remis en vigueur et l'organisme intéressé ne pourra poursuivre ses opérations à ce titre qu'avec
-l'autorisation du ministre de l'économie et des finances, qui pourra notamment exiger qu'il présente des garanties
-suffisantes pour lui permettre de remplir ses engagements.
-
-S'il ne peut présenter ces garanties, et s'il n'a pas souscrit, dans les deux mois précédant la prise d'effet de la
-résiliation ou modification, un nouveau traité se substituant à l'ancien, il sera procédé au transfert de son portefeuille,
-ou mis fin à ses opérations, dans les conditions fixées aux trois derniers alinéas de l'article R. 322-133.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-446 1964-05-23 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*322-132 (M)
-	  - Code des assurances - art. R*322-133 (M)
-
 
 ###### Article R*322-135
 
@@ -29397,6 +29256,88 @@ Enfin, ces organismes ne sont pas soumis à l'obligation de désigner un commiss
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
+
+
+###### Article R322-133
+
+Le réassureur est tenu d'informer le comité des entreprises d'assurance de la conclusion ou de la résiliation d'un tel traité
+ou de toute modification portant sur la clause qui prévoit la substitution du réassureur à l'organisme réassuré, deux mois
+avant la prise d'effet de ce traité, ou de sa résiliation, ou des modifications envisagées.
+
+L'organisme réassuré est tenu, dans les deux mois précédant la prise d'effet de la modification ou résiliation :
+
+- soit de justifier qu'il a conclu un nouveau traité se substituant au traité résilié ;
+
+- soit de demander l'agrément administratif et de justifier que sa situation financière présente des garanties suffisantes
+pour lui permettre de remplir ses engagements.
+
+Dans ce dernier cas, il peut être autorisé par le comité des entreprises d'assurance à poursuivre provisoirement ses
+opérations jusqu'à ce qu'il soit statué sur sa demande d'agrément.
+
+S'il ne peut apporter l'une des justifications prévues ci-dessus, il peut être procédé au transfert de son portefeuille de
+contrats à un autre organisme mentionné à la présente section dans les conditions prévues à l'article L. 324-1.
+
+A défaut, il peut être mis fin à ses opérations par arrêté conjoint du ministre de l'agriculture et du comité des entreprises
+d'assurance. Les règles applicables à cet effet sont celles qui sont fixées par la réglementation en vigueur pour le retrait
+de l'agrément administratif.
+
+La décision mettant fin aux opérations produit les effets de la décision portant retrait de l'agrément administratif.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°64-446 1964-05-23 art. 16
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L324-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-134 (V)
+
+
+###### Article R322-134
+
+La souscription d'un traité de réassurance, dans les conditions prévues à l'article R. 322-132, par un organisme ayant obtenu
+l'agrément administratif, a pour effet de suspendre la validité de cet agrément.
+
+En cas de résiliation dudit traité ou de modification de la clause prévoyant la substitution du réassureur à l'organisme
+réassuré, l'agrément ne sera remis en vigueur et l'organisme intéressé ne pourra poursuivre ses opérations à ce titre qu'avec
+l'autorisation du comité des entreprises d'assurance, qui pourra notamment exiger qu'il présente des garanties suffisantes
+pour lui permettre de remplir ses engagements.
+
+S'il ne peut présenter ces garanties, et s'il n'a pas souscrit, dans les deux mois précédant la prise d'effet de la
+résiliation ou modification, un nouveau traité se substituant à l'ancien, il sera procédé au transfert de son portefeuille,
+ou mis fin à ses opérations, dans les conditions fixées aux trois derniers alinéas de l'article R. 322-133.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°64-446 1964-05-23 art. 17
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. R*322-132 (M)
+	  - Code des assurances - art. R*322-133 (M)
 
 
 ###### Article R322-137
@@ -29934,18 +29875,58 @@ nullités ci-dessus prévues.
 
 ##### Section VIII : Les sociétés de groupe d'assurance mutuelle et les conventions d'affiliation
 
-###### Article R*322-161
+###### Article R322-160
+
+I.-La constitution des sociétés de groupe d'assurance mutuelle mentionnées au troisième alinéa de l'article L. 322-1-3 est
+soumise aux dispositions des articles R. 322-46 et R. 322-52 du présent code. 
+
+II.-Les signataires de l'acte de constitution de la société mentionné à l'article R. 322-46 ou leurs fondés de pouvoirs
+constatent sa création par une déclaration devant notaire. A cette déclaration sont annexés : 
+
+a) La liste dûment certifiée des entreprises signataires mentionnant, pour chacune d'elles, leur dénomination, leur siège
+social, le montant de leurs engagements techniques et leurs chiffres d'affaires par branche ; 
+
+b) Un exemplaire des statuts ; 
+
+c) Les documents prévus aux 2,4 et 5 de l'article R. 322-51. 
+
+III.-Les dispositions des articles R. 322-85 à R. 322-89 relatives à la publicité sont applicables aux sociétés régies par la
+présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-1-3 (V)
+	  - Code des assurances - art. R*322-46 (V)
+	  - Code des assurances - art. R*322-51 (V)
+	  - Code des assurances - art. R322-52 (V)
+	  - Code des assurances - art. R322-85 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-164 (V)
+
+
+###### Article R322-161
 
 I. - 1° Les statuts des sociétés de groupe d'assurance mutuelle doivent fixer les conditions d'admission de retrait ou
 d'exclusion des entreprises affiliées par convention à la société de groupe d'assurance.
 
 Ils doivent prévoir que l'admission ou l'exclusion d'une entreprise affiliée par convention fait l'objet d'une déclaration
-préalable auprès du ministre chargé de l'économie, accompagnée d'un dossier dont la composition est fixée par arrêté de
-celui-ci. Le ministre peut, dans un délai de trois mois à compter de la réception du dossier, s'opposer à l'opération, si
-celle-ci apparaît contraire aux intérêts des assurés des entreprises affiliées par convention, par une décision motivée prise
-après avis de la commission des entreprises d'assurances mentionnée à l'article L. 411-4 et adressée à la ou aux personnes
-intéressées par lettre recommandée avec accusé de réception. A défaut d'opposition du ministre, l'opération peut être
-réalisée à l'expiration de ce délai.
+préalable auprès du comité des entreprises d'assurance, accompagnée d'un dossier dont la composition est fixée par arrêté du
+ministre chargé de l'économie. Le comité peut, dans un délai de trois mois à compter de la réception du dossier, s'opposer à
+l'opération, si celle-ci apparaît contraire aux intérêts des assurés des entreprises affiliées par convention, par une
+décision motivée prise et adressée à la ou aux personnes intéressées par lettre recommandée avec accusé de réception. A
+défaut d'opposition du comité, l'opération peut être réalisée à l'expiration de ce délai.
 
 2° Les statuts des sociétés de groupe d'assurance mutuelle doivent également :
 
@@ -29990,7 +29971,8 @@ groupe d'assurance mutuelle.
 
 	**Modifié par**:
 
-	  - Décret n°2003-311 du 31 mars 2003 - art. 2 () JORF 5 avril 2003
+	  - Décret n°2004-221 2004-03-12 art. 2 IV, VI 3° 4° JORF 14 mars 2004
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cité par**:
 
@@ -30002,50 +29984,8 @@ groupe d'assurance mutuelle.
 
 	**Cite**:
 
-	  - Code des assurances - art. L411-4 (M)
 	  - Code des assurances - art. R*322-47 (M)
-	  - Code des assurances L411-4, R322-47, R322-48
-
-
-###### Article R322-160
-
-I.-La constitution des sociétés de groupe d'assurance mutuelle mentionnées au troisième alinéa de l'article L. 322-1-3 est
-soumise aux dispositions des articles R. 322-46 et R. 322-52 du présent code. 
-
-II.-Les signataires de l'acte de constitution de la société mentionné à l'article R. 322-46 ou leurs fondés de pouvoirs
-constatent sa création par une déclaration devant notaire. A cette déclaration sont annexés : 
-
-a) La liste dûment certifiée des entreprises signataires mentionnant, pour chacune d'elles, leur dénomination, leur siège
-social, le montant de leurs engagements techniques et leurs chiffres d'affaires par branche ; 
-
-b) Un exemplaire des statuts ; 
-
-c) Les documents prévus aux 2,4 et 5 de l'article R. 322-51. 
-
-III.-Les dispositions des articles R. 322-85 à R. 322-89 relatives à la publicité sont applicables aux sociétés régies par la
-présente section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-1-3 (V)
-	  - Code des assurances - art. R*322-46 (V)
-	  - Code des assurances - art. R*322-51 (V)
-	  - Code des assurances - art. R322-52 (V)
-	  - Code des assurances - art. R322-85 (V)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R322-164 (V)
+	  - Code des assurances R322-47, R322-48
 
 
 ###### Article R322-162
@@ -30684,39 +30624,11 @@ conformément au cinquième alinéa de l'article L. 310-12.
 
 ##### Section I : Règles générales.
 
-###### Article R*325-9
-
-Si une entreprise visée au 4° de l'article L. 310-2, soumise à une vérification de solvabilité globale exercée par l'autorité
-de contrôle d'un Etat membre de l'Espace économique européen autre que la France, fait l'objet de la part de cette autorité
-d'un retrait d'agrément motivé par l'insuffisance de la solvabilité globale mentionnée à l'article R. 334-23, le ministre de
-l'économie et des finances procède au retrait de l'agrément administratif précédemment accordé à la succursale française de
-cette entreprise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
-
-	**Modifié par**:
-
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 7 () JORF 25 octobre 1995
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. R*334-23 (M)
-
-
 ###### Article R325-2
 
 Si le retrait d'agrément prévu à l'article L. 325-1 ou au 5° de l'article L. 310-18 concerne une entreprise française opérant
-également sur le territoire d'autres Etats membres de l'Espace économique européen, le ministre chargé de l'économie et des
-finances ou la commission de contrôle des assurances, selon le cas, informe les autorités de contrôle de ces Etats.
+également sur le territoire d'autres Etats membres de l'Espace économique européen, le comité des entreprises d'assurance ou
+la commission de contrôle des assurances, selon le cas, informe les autorités de contrôle de ces Etats.
 
 **Liens relatifs à cet article**
 
@@ -30724,13 +30636,9 @@ finances ou la commission de contrôle des assurances, selon le cas, informe les
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -30741,13 +30649,14 @@ finances ou la commission de contrôle des assurances, selon le cas, informe les
 ###### Article R325-4
 
 Avant de procéder au retrait d'agrément prévu à l'article L. 325-1 ou au 5° de l'article L. 310-18, dans le cas d'une
-entreprise agréée conformément aux dispositions de l'article L. 321-7, le ministre chargé de l'économie et des finances ou la
-commission de contrôle des assurances, selon le cas, consulte l'autorité de contrôle de l'Etat où est situé le siège social
-de cette entreprise.
+entreprise agréée conformément aux dispositions de l'article L. 321-7, le comité des entreprises d'assurance ou la commission
+de contrôle des assurances, des mutuelles et des institutions de prévoyance, selon le cas, consulte l'autorité de contrôle de
+l'Etat où est situé le siège social de cette entreprise.
 
-Toutefois, le ministre chargé de l'économie et des finances ou la commission de contrôle des assurances, selon le cas, peut
-suspendre l'activité de l'entreprise sur le territoire de la République française avant l'issue de cette consultation. Dans
-ce cas, elle en informe immédiatement l'autorité de contrôle étrangère intéressée.
+Toutefois, le comité des entreprises d'assurance ou la commission de contrôle des assurances, des mutuelles et des
+institutions de prévoyance, selon le cas, peut suspendre l'activité de l'entreprise sur le territoire de la République
+française avant l'issue de cette consultation. Dans ce cas, elle en informe immédiatement l'autorité de contrôle étrangère
+intéressée.
 
 **Liens relatifs à cet article**
 
@@ -30755,13 +30664,10 @@ ce cas, elle en informe immédiatement l'autorité de contrôle étrangère int�
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -30818,9 +30724,9 @@ autorités de contrôle des Etats membres de l'Espace économique européen sur 
 
 ###### Article R325-8
 
-En cas de retrait d'agrément d'une entreprise étrangère par l'autorité de contrôle de son siège social, le ministre de
-l'économie et des finances procède au retrait de l'agrément précédemment accordé à la succursale française de cette
-entreprise en application des articles L. 321-7 ou L. 321-9.
+En cas de retrait d'agrément d'une entreprise étrangère par l'autorité de contrôle de son siège social, le comité des
+entreprises d'assurance procède au retrait de l'agrément précédemment accordé à la succursale française de cette entreprise
+en application des articles L. 321-7 ou L. 321-9.
 
 **Liens relatifs à cet article**
 
@@ -30828,13 +30734,9 @@ entreprise en application des articles L. 321-7 ou L. 321-9.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -30846,13 +30748,13 @@ entreprise en application des articles L. 321-7 ou L. 321-9.
 	  - Code des assurances - art. R*325-12 (M)
 
 
-###### Article R325-10
+###### Article R325-9
 
-Lorsqu'une entreprise fait l'objet d'un retrait de l'agrément administratif par le ministre de l'économie et des finances,
-par la commission de contrôle des assurances ou par l'autorité de contrôle d'un Etat de l'Espace économique européen autre
-que la France, la commission de contrôle des assurances prend, le cas échéant, avec le concours des autorités de contrôle des
-Etats membres de la Communauté sur le territoire desquels l'entreprise opère, toutes mesures propres à sauvegarder les
-intérêts des assurés et bénéficiaires de contrats, notamment celles prévues à l'article L. 323-1-1.
+Si une entreprise visée au 4° de l'article L. 310-2, soumise à une vérification de solvabilité globale exercée par l'autorité
+de contrôle d'un Etat membre de l'Espace économique européen autre que la France, fait l'objet de la part de cette autorité
+d'un retrait d'agrément motivé par l'insuffisance de la solvabilité globale mentionnée à l'article R. 334-23, le comité des
+entreprises d'assurance procède au retrait de l'agrément administratif précédemment accordé à la succursale française de
+cette entreprise.
 
 **Liens relatifs à cet article**
 
@@ -30860,13 +30762,35 @@ intérêts des assurés et bénéficiaires de contrats, notamment celles prévue
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. R*334-23 (M)
+
+
+###### Article R325-10
+
+Lorsqu'une entreprise fait l'objet d'un retrait de l'agrément administratif par le comité des entreprises d'assurance, par la
+commission de contrôle des assurances, des mutuelles et des institutions de prévoyance ou par l'autorité de contrôle d'un
+Etat de l'Espace économique européen autre que la France, la commission de contrôle des assurances, des mutuelles et des
+institutions de prévoyance prend, le cas échéant, avec le concours des autorités de contrôle des Etats membres de la
+Communauté sur le territoire desquels l'entreprise opère, toutes mesures propres à sauvegarder les intérêts des assurés et
+bénéficiaires de contrats, notamment celles prévues à l'article L. 323-1-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
 
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -30898,17 +30822,13 @@ articles L. 321-1, L. 321-7 ou L. 321-9.
 
 ###### Article R325-12
 
-Préalablement au retrait de l'agrément administratif mentionné à l'article L. 325-1, le ministre chargé de l'économie et des
-finances notifie au président du conseil d'administration de l'entreprise concernée, par lettre recommandée avec demande
-d'avis de réception ou remise contre récépissé, les faits relevés à l'encontre de l'entreprise et l'invite à présenter ses
-observations écrites dans un délai de quinze jours.
+Préalablement au retrait de l'agrément administratif mentionné à l'article L. 325-1, le comité des entreprises d'assurance
+notifie au président du conseil d'administration de l'entreprise concernée, par lettre recommandée avec demande d'avis de
+réception ou remise contre récépissé, les faits relevés à l'encontre de l'entreprise et l'invite à présenter ses observations
+écrites dans un délai de quinze jours.
 
-S'il décide d'engager la procédure de retrait d'agrément, le ministre transmet à la commission des entreprises d'assurance
-mentionnée à l'article L. 411-4 une demande d'avis concluant au retrait d'agrément, accompagnée d'un rapport explicatif ainsi
-que des observations présentées par l'entreprise.
-
-Lorsque la commission a transmis son avis au ministre, ce dernier peut prononcer par arrêté le retrait d'agrément. Il notifie
-sa décision à l'entreprise concernée par lettre recommandée avec demande d'avis de réception ou remise contre récépissé.
+S'il décide d'engager la procédure de retrait d'agrément, il notifie sa décision à l'entreprise concernée par lettre
+recommandée avec demande d'avis de réception ou remise contre récépissé.
 
 **Liens relatifs à cet article**
 
@@ -30918,7 +30838,8 @@ sa décision à l'entreprise concernée par lettre recommandée avec demande d'a
 
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 24 () JORF 15 septembre 1990
+	  - Décret n°2004-221 2004-03-12 art. 2 V, VI 2° JORF 14 mars 2004
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cité par**:
 
@@ -31004,15 +30925,15 @@ chargé des transports.
 ###### Article R326-1
 
 En cas de retrait de l'agrément administratif accordé à une entreprise mentionnée aux 2° et 3° de l'article L. 310-1, dans le
-délai de trente jours à compter du lendemain du jour de la publication au Journal officiel de la décision du ministre chargé
-de l'économie et des finances ou de la commission de contrôle des assurances prononçant le retrait d'agrément, chaque
-souscripteur de contrat est avisé de ce retrait d'agrément par le liquidateur ou, en attendant la désignation du liquidateur,
-par la personne qui était investie dans l'entreprise des pouvoirs de direction générale ou par son représentant. Cet avis
-fait l'objet d'une lettre recommandée adressée au dernier domicile connu du souscripteur et doit, notamment reproduire le
-texte du premier alinéa de l'article L. 326-12 et préciser la date à laquelle le contrat souscrit cessera de produire effet.
-Les avis individuels doivent être préparés sous la responsabilité des administrateurs de l'entreprise ou, dans le cas d'une
-entreprise étrangère, sous la responsabilité du mandataire général, dès que l'injonction en est adressée par l'autorité qui
-retire l'agrément.
+délai de trente jours à compter du lendemain du jour de la publication au Journal officiel de la décision du comité des
+entreprises d'assurance ou de la commission de contrôle des assurances prononçant le retrait d'agrément, chaque souscripteur
+de contrat est avisé de ce retrait d'agrément par le liquidateur ou, en attendant la désignation du liquidateur, par la
+personne qui était investie dans l'entreprise des pouvoirs de direction générale ou par son représentant. Cet avis fait
+l'objet d'une lettre recommandée adressée au dernier domicile connu du souscripteur et doit, notamment reproduire le texte du
+premier alinéa de l'article L. 326-12 et préciser la date à laquelle le contrat souscrit cessera de produire effet. Les avis
+individuels doivent être préparés sous la responsabilité des administrateurs de l'entreprise ou, dans le cas d'une entreprise
+étrangère, sous la responsabilité du mandataire général, dès que l'injonction en est adressée par l'autorité qui retire
+l'agrément.
 
 **Liens relatifs à cet article**
 
@@ -31022,7 +30943,7 @@ retire l'agrément.
 
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -32134,14 +32055,17 @@ des Etats membres de l'O.C.D.E. ;
 5° bis Actions des entreprises d'assurance, de réassurance, de capitalisation autres que celles visées au 5° ;
 
 6° Actions, parts et droits émis par des sociétés commerciales et obligations, titres participatifs et titres subordonnés
-émis par les sociétés d'assurance mutuelles, ayant leur siège social sur le territoire de l'un des Etats membres de
-l'O.C.D.E., autres que les valeurs visées aux 2°, 2° bis, 2° ter 3°, 4°, 5°, 5° bis, 7° bis, 8° et 9° bis ;
+émis par les sociétés d'assurance mutuelles, les mutuelles, unions et fédérations régies par le code de la mutualité et les
+institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale ayant leur siège social sur le
+territoire de l'un des Etats membres de l'O.C.D.E., autres que les valeurs visées aux 2°, 2° bis, 2° ter 3°, 4°, 5°, 5° bis,
+7° bis, 8° et 9° bis ;
 
-7° Parts des fonds communs de placement à risques du chapitre IV de la loi n° 88-1201 du 23 décembre 1988 et parts de fonds
-communs de placement dans l'innovation mentionnés au chapitre IV bis de la même loi ;
+7° Parts des fonds communs de placement à risques de l'article L. 214-36 du code monétaire et financier, parts des fonds
+communs de placement dans l'innovation de l'article L. 214-41 du même code et parts des fonds d'investissement de proximité
+de l'article L. 214-41-1 du même code ;
 
-7° bis Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement bénéficiant d'une
-procédure allégée mentionnés aux chapitres IV ter et V ter de la loi n° 88-1201 du 23 décembre 1988 modifiée.
+7° bis Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement des articles L.
+214-35, L. 214-35-2, L. 214-37 et L. 214-38 du code monétaire et financier ;
 
 8° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement, autres que celles
 mentionnées aux 3°,7° et 7° bis , dans les conditions fixées par l'article R. 332-14.
@@ -32289,24 +32213,29 @@ l'article R. 332-19 auxquels ces instruments financiers à terme sont liés.
 
 	**Cite**:
 
-	  - Loi n°88-1201 1988-12-23
 	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
+	  - Code monétaire et financier - art. L214-35 (M)
+	  - Code monétaire et financier - art. L214-35-2 (M)
+	  - Code monétaire et financier - art. L214-36 (M)
+	  - Code monétaire et financier - art. L214-37 (M)
+	  - Code monétaire et financier - art. L214-38 (M)
+	  - Code monétaire et financier - art. L214-41 (M)
+	  - Code monétaire et financier - art. L214-41-1 (M)
 	  - Code des assurances - art. R*331-1 (M)
 	  - Code des assurances - art. R*332-45 (T)
 	  - Code des assurances - art. R332-1-1 (V)
 	  - Code des assurances R332-1, R332-1-1, R332-3-3 à R332-10, R331-1, R332-14-1, R332-14, R332-15, R332-12, R332-13, R332-16, R332-45, R332-56, R332-46, R332-19
 
+	**Modifié par**:
+
+	  - Décret n°2004-221 du 12 mars 2004 - art. 3 () JORF 14 mars 2004
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-142 2000-02-18 art. 11 *date d'effet*
 	  - TXT_SOURCE: Code des assurances - art. A332-2 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R332-16 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
 
 
 ###### Article R332-3
@@ -32911,13 +32840,13 @@ répondant aux conditions fixées par l'article R. 332-17.
 
 ###### Article R332-14
 
-En application des dispositions des 3° et 8° de l'article R. 332-2, les entreprises sont autorisées à détenir les actions des
-sociétés d'investissement à capital variable et les parts des fonds communs de placement de la loi n° 88-1201 du 23 décembre
-1988, à l'exclusion des organismes régis par les chapitres III, IV, IV bis, IV ter, V et V ter ; elles sont également
-autorisées à détenir les actions des sociétés d'investissement à capital variable et les parts des fonds communs de placement
-régis par les réglementations des autres Etats parties à l'accord sur l'Espace économique européen, pour autant que ces
-règles soient conformes à la directive communautaire du 20 décembre 1985 relative aux organismes de placement collectif en
-valeurs mobilières.
+En application des dispositions des 3° et 8° de l'article R. 332-2, sont admissibles en représentation des engagements
+réglementés les actions des sociétés d'investissement à capital variable et les parts des fonds communs de placement des
+sous-sections 1 à 5 de la section 1 du chapitre IV du titre Ier du livre II du code monétaire et financier ; sont également
+admissibles les actions des sociétés d'investissement à capital variable et les parts des fonds communs de placement régis
+par les réglementations des Etats membres de la Communauté européenne et des autres Etats parties de l'accord sur l'Espace
+économique européen, pour autant que ces règles soient conformes à la directive communautaire du 20 décembre 1985 modifiée
+relative aux organismes de placement collectif en valeurs mobilières.
 
 **Liens relatifs à cet article**
 
@@ -32925,13 +32854,9 @@ valeurs mobilières.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Cite**:
-
-	  - Loi n°88-1201 1988-12-23
-
 	**Modifié par**:
 
-	  - Décret n°2000-142 du 18 février 2000 - art. 5 () JORF 22 février 2000
+	  - Décret n°2004-221 du 12 mars 2004 - art. 3 () JORF 14 mars 2004
 
 	**Cité par**:
 
@@ -32945,6 +32870,10 @@ valeurs mobilières.
 	**Anciens textes**:
 
 	  - Code des assurances - art. R332-16 (M)
+
+	**Cite**:
+
+	  - Directive 85-611 CEE 1985-12-20 (Conseil)
 
 
 ###### Article R332-14-1
@@ -36468,6 +36397,56 @@ l'accomplissement des dispositions du présent article.
 	  - Code des assurances - art. R336-2 (V)
 
 
+###### Article R336-5
+
+Le conseil d'administration ou de surveillance approuve au moins annuellement les lignes directrices de la politique de
+réassurance.
+
+Un rapport relatif à la politique de réassurance lui est soumis annuellement.
+
+Ce rapport décrit :
+
+a) Les orientations prises par l'entreprise en matière de cessions en réassurance, en particulier en ce qui concerne la
+nature et le niveau de protection visé et le choix des entreprises cessionnaires ;
+
+b) Les critères qualitatifs et quantitatifs sur lesquels l'entreprise se fonde pour s'assurer de l'adéquation de ses cessions
+en réassurance avec les risques souscrits ;
+
+c) Les orientations de la politique de réassurance concernant les risques souscrits au cours de l'exercice suivant le dernier
+exercice clos ainsi que les principales cessions de réassurance ;
+
+d) L'organisation concernant la définition, la mise en oeuvre et le contrôle du programme de réassurance ;
+
+e) Les méthodes d'analyse et de suivi qu'utilise l'entreprise en ce qui concerne le risque de contrepartie lié à ses
+opérations de cessions en réassurance ainsi que les conclusions résultant de l'emploi de ces méthodes.
+
+Après son approbation, ce rapport peut être inclus dans le rapport de solvabilité mentionné à l'article L. 322-2-4.
+
+Les dispositions du présent article sont applicables aux entreprises mentionnées au 1° de l'article L. 310-2 ainsi qu'aux
+succursales des entreprises étrangères mentionnées aux 3° et 4° de l'article L. 310-2. Pour ces dernières, le mandataire
+général représentant la société est substitué au conseil d'administration ou de surveillance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2004-221 du 12 mars 2004 - art. 4 () JORF 14 mars 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. A344-6 (Ab)
+	  - Code des assurances - art. R336-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L322-2-4 (M)
+
+
 ### Titre IV : Dispositions comptables et statistiques
 
 #### Chapitre Ier : Principes généraux.
@@ -37186,8 +37165,8 @@ mentionnés aux 1°, 2° et 3° ci-dessus sont appliqués sur une base consolid�
 
 I. - En application de l'article L. 351-4, une entreprise d'assurance ayant son siège dans un Etat non communautaire membre
 de l'Espace économique européen ne peut couvrir, sur le territoire de la République française, des grands risques en libre
-prestation de services qu'à partir du moment où elle a reçu du ministre chargé de l'économie et des finances un document
-attestant qu'il est en possession des documents suivants, que l'entreprise doit lui adresser :
+prestation de services qu'à partir du moment où elle a reçu du comité des entreprises d'assurance un document attestant qu'il
+est en possession des documents suivants, que l'entreprise doit lui adresser :
 
 1° Un certificat de solvabilité délivré par l'autorité de contrôle de l'Etat du siège social énumérant les branches que
 l'entreprise est habilitée à pratiquer ainsi que les risques qu'elle garantit effectivement, attestant qu'elle dispose pour
@@ -37218,14 +37197,9 @@ soumise aux obligations susénoncées.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 17 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -37247,8 +37221,8 @@ soumise aux obligations susénoncées.
 ###### Article R351-3
 
 Toute demande d'agrément ou d'extension d'agrément de libre prestation de services prévue au deuxième alinéa de l'article L.
-351-5 et à l'article L. 321-8 doit être produite en double exemplaire auprès du ministre chargé de l'économie et des finances
-et comporter :
+351-5 et à l'article L. 321-8 doit être produite en double exemplaire auprès du comité des entreprises d'assurance et
+comporter :
 
 1° Les certificats mentionnés aux 1° et 2° du I de l'article R. 351-2 ;
 
@@ -37273,14 +37247,9 @@ véhicules terrestres à moteur autre que la responsabilité civile du transport
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 17 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -37390,8 +37359,8 @@ qu'un programme d'activités comprenant les pièces demandées au g du I de l'ar
 ###### Article R353-1
 
 I. - Une entreprise d'assurance ne peut prendre sur le territoire de la République française des engagements en libre
-prestation de services dans les conditions définies à l'article L. 353-4 qu'à partir du moment où elle a reçu du ministre de
-l'économie et des finances un document attestant qu'il est en possession des documents suivants, que l'entreprise doit lui
+prestation de services dans les conditions définies à l'article L. 353-4 qu'à partir du moment où elle a reçu du comité des
+entreprises d'assurance un document attestant qu'il est en possession des documents suivants, que l'entreprise doit lui
 adresser :
 
 1° Un certificat de solvabilité délivré par l'autorité de contrôle de l'Etat du siège social énumérant les branches que
@@ -37417,14 +37386,9 @@ branches qui n'avaient pas été mentionnées au 3° du I du présent article, e
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 18 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -37438,8 +37402,8 @@ branches qui n'avaient pas été mentionnées au 3° du I du présent article, e
 ###### Article R353-2
 
 Toute demande d'agrément ou d'extension d'agrément de libre prestation de services prévue au deuxième alinéa de l'article L.
-353-5 et à l'article L. 321-8 doit être produite en double exemplaire auprès du ministre chargé de l'économie et des finances
-et comporter :
+353-5 et à l'article L. 321-8 doit être produite en double exemplaire auprès du comité des entreprises d'assurance et
+comporter :
 
 1° Les certificats mentionnés aux 1° et 2° du I de l'article R. 353-1 ;
 
@@ -37459,14 +37423,9 @@ c) Les bases tarifaires que l'entreprise envisage d'appliquer pour chaque catég
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 18 () JORF 26 juillet 1994
+	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
 
 	**Cite**:
 
@@ -38188,6 +38147,117 @@ des finances et du ministre de l'éducation.
 	**Abrogé par**:
 
 	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+
+
+#### Chapitre III : Le comité des entreprises d'assurance.
+
+###### Article R413-1
+
+Le président du comité des entreprises d'assurance est nommé par le ministre chargé de l'économie pour une durée de trois
+ans.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2004-221 du 12 mars 2004 - art. 1 () JORF 14 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
+
+
+###### Article R413-2
+
+Le comité des entreprises d'assurance ne peut délibérer valablement que si la moitié au moins de ses membres sont présents.
+Les décisions du comité sont prises à la majorité des votes des membres présents.
+
+Lorsque le comité statue par voie de consultation écrite en application des dispositions du deuxième alinéa de l'article L.
+413-4, son président recueille, dans un délai qu'il fixe mais qui ne peut être inférieur à deux jours ouvrables, les votes
+des membres du comité sur une proposition de décision. Toutefois, si un membre en fait la demande écrite dans ce délai, le
+président réunit le comité dans les formes et conditions prévues par l'article L. 413-3.
+
+Pour que ses résultats puissent être pris en compte, la consultation écrite doit avoir permis de recueillir la moitié au
+moins des votes des membres du comité dans le délai fixé par le président.
+
+Le président informe, dans les meilleurs délais, les membres du comité de la décision résultant de cette consultation.
+
+Les décisions prises par voie de consultation écrite sont annexées au procès-verbal de la séance suivante. Mention y est
+faite du nom des membres ayant voté et des membres n'ayant pas pris part à la consultation.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2004-221 du 12 mars 2004 - art. 1 () JORF 14 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
+
+	**Cite**:
+
+	  - Code des assurances - art. L413-3
+	  - Code des assurances - art. L413-4
+
+
+###### Article R413-3
+
+Le président du comité des entreprises d'assurance et les membres nommés par le ministre chargé de l'économie disposent d'un
+suppléant.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2004-221 du 12 mars 2004 - art. 1 () JORF 14 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
+
+
+###### Article R413-4
+
+Un secrétaire général du comité des entreprises d'assurance est désigné par le ministre chargé de l'économie. Le secrétariat
+du comité est assuré par la direction du Trésor.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2004-221 du 12 mars 2004 - art. 1 () JORF 14 mars 2004
 
 
 ### Titre II : Les fonds de garantie
