@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1982-07-14
+Version Consolidée au 1982-07-20
 
 # Partie législative
 
@@ -12754,10 +12754,16 @@ l'article R. 150-17 doivent rappeler le sort de cette garantie en cas de dénonc
 
 ##### Section V : Participation des porteurs de titres aux bénéfices.
 
-###### Article R*150-19
+###### Article R150-19
 
-Les dispositions du présent titre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française,
-des Terres australes et antarctiques françaises et de Wallis et Futuna, et dans la collectivité territoriale de Mayotte.
+A compter de l'exercice comptable débutant le 1er janvier 1981, les entreprises pratiquant des opérations de capitalisation
+doivent faire participer les porteurs de contrats à leurs résultats techniques et financiers.
+
+Pour chaque entreprise le montant minimal des bénéfices à attribuer au titre d'un exercice est déterminé globalement à partir
+d'un compte de résultats établi dans les conditions fixées par arrêté du ministre de l'économie et des finances.
+
+Ce compte de résultats porte sur les opérations réalisées en France dans les territoires d'outre-mer et dans la collectivité
+territoriale de Mayotte, à l'exclusion des acceptations en réassurance.
 
 **Liens relatifs à cet article**
 
@@ -12765,9 +12771,9 @@ des Terres australes et antarctiques françaises et de Wallis et Futuna, et dans
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°79-792 1979-09-04 art. 2 JORF 16 septembre 1979
+	  - Décret n°82-617 du 16 juillet 1982 - art. 2 () JORF 20 juillet 1982
 
 	**Cité par**:
 
@@ -12775,9 +12781,9 @@ des Terres australes et antarctiques françaises et de Wallis et Futuna, et dans
 	  - Décret n°83-328 du 21 avril 1983 - art. 3 (V)
 	  - Code des assurances - art. A150-3 (Ab)
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code des assurances R150-20 (1ère version)
+	  - Décret n°93-382 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
@@ -28516,9 +28522,11 @@ B 22 Analyse du résultat technique de certaines combinaisons.
 B 23 Détail des provisions mathématiques pour risques en cours.    B 24 Détail par pays des provisions mathématiques pour
 risques en cours.
 
-A 25 Participation des assurés aux résultats techniques et aux produits financiers.
+A 25 Participation des assurés sur la vie ou des porteurs de contrats de capitalisation aux résultats techniques et
+financiers.
 
-B 26 Etat justificatif de la participation minimale des assurés aux bénéfices des entreprises d'assurance sur la vie.
+B 26 Etat justificatif de la participation des assurés sur la vie ou des porteurs de contrats de capitalisation aux résultats
+techniques et financiers.
 
 B 27 Etat concernant les opérations de coassurance communautaire.    Les entreprises doivent ajouter des rubriques à celles
 des tableaux modèles chaque fois qu'une telle addition est utile à la sincérité des comptes rendus ; elles ont la faculté de
@@ -28536,7 +28544,21 @@ Les lignes et les colonnes "néant" peuvent être supprimées.
 
 	**Modifié par**:
 
-	  - Décret n°81-443 du 7 mai 1981 - art. 5 () JORF 9 mai 1981
+	  - Décret n°82-617 du 16 juillet 1982 - art. 3 () JORF 20 juillet 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°82-617 du 16 juillet 1982 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°82-617 du 16 juillet 1982 - art. 5 (V)
+	  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
+	  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
+	  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
+	  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A344-6 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+	  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
 
 	**Cité par**:
 
@@ -28551,18 +28573,6 @@ Les lignes et les colonnes "néant" peuvent être supprimées.
 	  - Code des assurances - art. R342-24 (Ab)
 	  - Code des assurances - art. R342-7 (Ab)
 	  - Code des assurances - art. R344-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
-	  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
-	  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
-	  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A344-6 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-	  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
 
 
 ###### Article R342-18
