@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2002-03-17
+Version Consolidée au 2002-04-05
 
 # Partie législative
 
@@ -19468,6 +19468,25 @@ pour déterminer en cours d'année les valeurs de ces dernières.
 
 	  - Code des assurances - art. L112-4 (V)
 	  - Code des assurances - art. L132-5-1 (V)
+
+
+###### Article R132-5
+
+Le plafond mentionné au dernier alinéa de l'article L. 132-7 ne peut être inférieur à 120 000 Euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-452 du 28 mars 2002 - art. 1 () JORF 5 avril 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-7 (V)
 
 
 ### Titre V : Le contrat de capitalisation.
