@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1987-05-20
+Version Consolidée au 1987-10-13
 
 # Partie législative
 
@@ -39307,21 +39307,16 @@ droits au lieu et place de la compagnie.
 
 ###### Article R*433-1
 
-Sont applicables à la caisse nationale de prévoyance les dispositions suivantes de la deuxième partie "Réglementaire" du
-présent code :
+La Caisse nationale de prévoyance est un établissement public national à caractère industriel et commercial doté de la
+personnalité morale et de l'autonomie financière.
 
-a) Titre Ier et III du livre Ier ;
+Elle est placée sous la tutelle du ministre chargé de l'économie et des finances.
 
-b) Titre IV du livre Ier, à l'exception de l'article R. 140-6 ;    c) Sections I, II et III du titre VI du livre Ier ;
+Elle peut accomplir les missions qui lui sont confiées par la loi soit directement, soit par l'intermédiaire d'entreprises
+dans lesquelles elle détient la majorité au sein des organes délibérants.
 
-d) Articles R. 310-1 à R. 310-2 ;
-
-e) Titre III du livre III, à l'exception du chapitre V, ainsi que de l'article R. 331-7 ;
-
-f) Titre IV du livre III ;
-
-Toutefois, les pouvoirs du ministre de l'économie et des finances et du conseil national des assurances sont exercés par la
-commission supérieure de la caisse nationale de prévoyance pour l'application des dispositions du titre III du livre III.
+Elle peut également aux mêmes fins prendre des participations dans des entreprises se livrant à des activités complémentaires
+ou connexes et directement reliées à ses activités propres.
 
 **Liens relatifs à cet article**
 
@@ -39331,75 +39326,42 @@ commission supérieure de la caisse nationale de prévoyance pour l'application 
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 29 () JORF 12 mai 1984
+	  - Décret n°87-833 1987-10-12 art. 1 JORF 13 octobre 1987
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code des assurances - art. R*331-7 (M)
-	  - Code des assurances R140-6, R310-1 à R310-2, R331-7
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R441-1 à R441-34
-
-
-##### Section II : La commission supérieure.
 
 ###### Article R*433-2
 
-Le ministre de l'économie et des finances et le ministre chargé de la sécurité sociale fixent par arrêté, sur proposition de
-la commission supérieure de la caisse nationale de prévoyance, les taux d'intérêt et les tables de mortalité servant de base
-à l'établissement des tarifs des diverses catégories d'assurances.
+Une ou plusieurs conventions entre la caisse nationale de prévoyance et la caisse des dépôts et consignations définissent les
+conditions dans lesquelles la caisse des dépôts et consignations assure la gestion de la caisse nationale de prévoyance.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-16 1968-01-02 art. 2
-	  - Décret n°1936-02-11 art. 1er
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°87-833 1987-10-12 art. 1 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L433-4 (Ab)
-	  - TXT_ASSOCIE: Code des assurances A433-2 à A433-7
 
 
 ###### Article R*433-3
 
-La commission supérieure de la caisse nationale de prévoyance fixe :
-
-1° Les taux de chargement des primes afférentes aux diverses catégories d'assurances pratiquées par la caisse nationale de
-prévoyance ;
-
-2° Pour chaque catégorie de contrats d'assurances en cas de décès, le montant maximal de capitaux que la caisse nationale est
-autorisée à garantir sur une même tête, ainsi que le montant maximal des garanties qui peuvent être consenties sans contrôle
-médical ;
-
-3° Le montant minimal de garanties assurables par la caisse nationale, le montant minimal de versement susceptible d'être
-accepté par ladite caisse, ainsi que le montant minimal de rentes inscriptible au grand-livre de l'établissement ;
-
-4° Les modalités de substitution d'échéances annuelles ou semestrielles aux échéances trimestrielles des rentes ;
-
-5° Le barème de rachat des rentes inférieures au montant minimal inscriptible au grand-livre de la caisse nationale de
-prévoyance ;
-
-6° Les conditions de rachat des contrats.
-
-7° Les conditions de garantie de l'invalidité ;
-
-8° Les règles de la publicité à effectuer pour répandre et développer l'institution.
-
-La commission supérieure donne son avis sur les conditions générales des contrats présentés par la caisse nationale.
-
-Elle statue sur les demandes de bonifications de rentes liquidées par anticipation en cas de blessures graves ou d'infirmités
-prématurées régulièrement constatées et entraînant incapacité absolue de travail.
-
-Elle présente chaque année au Président de la République un rapport sur la situation morale et matérielle de la caisse. Ce
-rapport est distribué à l'Assemblée nationale et au Sénat.
+La caisse nationale de prévoyance est soumise en matière financière et comptable aux règles applicables aux entreprises
+commerciales, et notamment à celles des entreprises d'assurances. Elle tient sa comptabilité conformément au plan comptable
+applicable aux entreprises d'assurances.
 
 **Liens relatifs à cet article**
 
@@ -39409,68 +39371,84 @@ rapport est distribué à l'Assemblée nationale et au Sénat.
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 30 () JORF 12 mai 1984
+	  - Décret n°87-833 1987-10-12 art. 1 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L433-4 (Ab)
-	  - TXT_ASSOCIE: Code des assurances R433-10 *périodicité d'échéances des rentes*
 
 
 ###### Article R*433-4
 
-La commission supérieure de la caisse nationale de prévoyance est composée ainsi qu'il suit :
+Sont applicables à la caisse nationale de prévoyance les dispositions suivantes de la deuxième partie (réglementaire) du code
+des assurances :
 
-a) Un membre de l'Assemblée nationale et un membre du Sénat désignés par ces assemblées ;
+a) Le livre Ier à l'exception des titres II, V, VII et des sections IV, V, VI du titre VI ;
 
-b) Un membre de l'Assemblée nationale, un membre du Sénat et un conseiller d'Etat choisis par la commission de surveillance
-de la Caisse des dépôts et consignations parmi ses membres ;
+b) Les titres Ier, III, IV et le chapitre III du titre II du livre III ;
 
-c) Trois représentants des ministres ayant dans leurs attributions le Trésor, les assurances et la sécurité sociale ;
-
-d) Trois représentants d'institutions pratiquant des opérations de prévoyance collective avec le concours de la caisse
-nationale de prévoyance, désignés par le ministre chargé de la sécurité sociale ;
-
-e) Deux représentants des organisations syndicales patronales et deux représentants des organisations syndicales de salariés
-choisis par le conseil économique et social parmi ses membres ;
-
-f) Le directeur général de la Caisse des dépôts et consignations, ou son représentant ;
-
-g) Le président de la chambre de commerce et d'industrie de Paris ou son représentant.
+c) Le livre IV à l'exception du titre II.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°87-833 1987-10-12 art. 1 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L433-4 (Ab)
 
-	**Anciens textes**:
 
-	  - Décret n°59-663 1953-07-18 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
+##### Section II : La commission supérieure.
 
 ###### Article R*433-5
 
-La commission supérieure de la caisse nationale de prévoyance élit son président et son vice-président.
+La commission supérieure de la Caisse nationale de prévoyance est composée ainsi qu'il suit :
 
-Un administrateur civil affecté à la Caisse des dépôts et consignations remplit les fonctions de rapporteur avec voix
-consultative.
+- un député, un sénateur et un conseiller d'Etat, choisis par la commission de surveillance de la Caisse des dépôts et
+consignations parmi ses membres ;
 
-Un administrateur civil affecté au ministère chargé de la sécurité sociale remplit les fonctions de secrétaire.
+- deux représentants du ministre chargé de l'économie et des finances ;
+
+- un représentant du ministre chargé de la sécurité sociale, et un représentant du ministre chargé de la mutualité ;
+
+- le directeur général de la Caisse des dépôts et consignations ou son représentant ;
+
+- le président du conseil de surveillance du Centre national des caisses d'épargne et de prévoyance ou son représentant ;
+
+- le directeur général de la poste ou son représentant et le directeur de la comptabilité publique ou son représentant ;
+
+- quatre personnalités qualifiées choisies par les autres membres de la commission et nommées pour trois ans.
+
+La commission supérieure désigne en son sein un président et un vice-président choisis parmi les membres représentant la
+commission de surveillance de la Caisse des dépôts et consignations.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-663 1959-07-18 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°87-833 1987-10-12 art. 1 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Liens**:
 
@@ -39479,73 +39457,22 @@ Un administrateur civil affecté au ministère chargé de la sécurité sociale 
 
 ###### Article R*433-6
 
-La commission supérieure se réunit sur convocation de son président. Elle peut, en dehors de ses membres, s'adjoindre un ou
-plusieurs rapporteurs qui ont voix consultative.
+La commission supérieure se réunit, sur la convocation de son président, aussi souvent que la bonne marche de l'établissement
+l'exige et, au minimum, quatre fois par an. La convocation est de droit si elle est demandée par la moitié au moins des
+membres ou par le directeur général de la Caisse nationale de prévoyance.
 
-En cas de partage, la voix du président est prépondérante.
+Le directeur général de la Caisse nationale de prévoyance assiste à ces réunions avec voix consultative.
 
-**Liens relatifs à cet article**
+Les décisions sont prises à la majorité des voix des membres présents ; en cas de partage des voix, celle du président est
+prépondérante.
 
-	**Codifié par**:
+Il est établi un procès-verbal de chaque séance de la commission signé par le président de séance et par le secrétaire. Le
+procès-verbal est transcrit dans le registre spécial.
 
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L433-4 (Ab)
-
-
-##### Section III : Réseau de production.
-
-###### Article R*433-7
-
-Pour la présentation de ses contrats et l'exécution de ses opérations, la caisse nationale de prévoyance est habilitée à
-utiliser les services des administrations du Trésor et des postes.
+Copie du procès-verbal est transmise au ministre chargé de l'économie et des finances, qui dispose d'un délai de dix jours
+pour faire connaître ses observations et, éventuellement, demander une nouvelle délibération.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R433-1
-
-	**Anciens textes**:
-
-	  - Loi n°1868-07-11 art. 19
-	  - Loi n°1886-07-20 art. 26
-
-
-##### Section IV : Dispositions particulières.
-
-###### Article R*433-8
-
-La caisse nationale de prévoyance tient un grand-livre sur lequel les rentes viagères sont enregistrées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1886-07-20 art. 20
-
-
-###### Article R*433-10
-
-Pour les rentes constituées antérieurement au 8 février 1953, la substitution d'échéance prévue au 4° de l'article R. 433-3,
-1er alinéa, comporte le paiement d'avance d'un ou deux trimestres d'arrérages suivant que la nouvelle périodicité des termes
-d'arrérage est semestrielle ou annuelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°53-75 1953-02-06 art. 28
 
 	**Codifié par**:
 
@@ -39553,43 +39480,191 @@ d'arrérage est semestrielle ou annuelle.
 
 	**Modifié par**:
 
-	  - Décret n°87-833 1987-10-12 art. 3 JORF 13 octobre 1987
+	  - Décret n°87-833 1987-10-12 art. 1 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Liens**:
 
-	  - TXT_SOURCE: Code des assurances R433-3
-
-	**Cite**:
-
-	  - Code des assurances R433-3
+	  - TXT_SOURCE: Code des assurances - art. L433-4 (Ab)
 
 
-###### Article R*433-11
+###### Article R*433-7
 
-Les sommes nécessaires pour assurer le service des bonifications mentionnées à l'article L. 433-11 sont imputées sur le
-chapitre du budget du ministère de l'économie et des finances afférent aux majorations de rentes viagères.
+La commission supérieure autorise, préalablement à leur conclusion, les opérations suivantes :
+
+- emprunts assortis de sûretés réelles sous forme d'hypothèque, privilège ou nantissement sur des biens de l'établissement ;
+
+- création de sociétés et prise de participation sous toutes formes dans toutes sociétés ou entreprises, à l'exclusion des
+opérations de placements financiers.
+
+Elle approuve :
+
+- le règlement intérieur préparé par le directeur général ;
+
+- les conventions avec la Caisse des dépôts et consignations ;
+
+- le budget et les comptes prévisionnels ;
+
+- les comptes et le rapport annuels ;
+
+- les programmes généraux d'activités et d'investissements de l'établissement et de ses filiales présentés par le directeur
+général.
+
+En outre, la commission supérieure peut opérer, à toute époque de l'année, les vérifications et contrôles qu'elle juge
+opportuns et se faire communiquer les documents qu'elle estime utiles à l'accomplissement de sa mission.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-1367 1961-12-11 art. 3
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Code des assurances - art. L433-11 (Ab)
+	  - Décret n°87-833 1987-12-10 art. 1, art. 2 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+
+##### Section III : Le directeur général.
+
+###### Article R*433-8
+
+Le directeur général de la Caisse des dépôts et consignations peut nommer un directeur général de la Caisse nationale de
+prévoyance.
+
+Le directeur général de la Caisse nationale de prévoyance est nommé pour trois ans, sur proposition de la commission
+supérieure après agrément du ministre chargé de l'économie et des finances. Il peut être mis fin, à tout moment, à ses
+fonctions par le directeur général de la Caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°87-833 1987-10-12 art. 1 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+
+###### Article R433-9
+
+Sous l'autorité du directeur général de la Caisse des dépôts et consignations, le directeur général de la Caisse nationale de
+prévoyance assure la gestion de l'établissement. Il a notamment compétence en ce qui concerne :
+
+- l'élaboration des programmes généraux d'activités de l'établissement et des filiales ;
+
+- l'établissement du budget et des comptes prévisionnels ;
+
+- les prises, extensions ou cessions de participations financières ayant le caractère de placements financiers ;
+
+- les acquisitions ou aliénations des biens immobiliers ;
+
+- les actions judiciaires, compromis, transactions, désistements ainsi que les conventions d'arbitrage ;
+
+- les mesures relatives à l'organisation générale de l'établissement ;
+
+- la direction de l'ensemble des services.
+
+Il rend compte à la commission supérieure des décisions qu'il a prises dans l'accomplissement de ses fonctions. Il établit un
+rapport annuel sur la gestion de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°87-833 1987-10-12 art. 1, art. 2 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Cite**:
 
-	  - Code des assurances - art. L433-11 (Ab)
+	  - Code du travail - art. L145-1 (M)
+	  - Code des assurances - art. L433-7 (Ab)
 
-	**Nouveaux textes**:
+	**Liens**:
 
-	  - Code des assurances R433-1
+	  - TXT_ASSOCIE: Code des assurances - art. L433-7 (Ab)
+
+
+##### Section IV : Réseau de production.
+
+###### Article R*433-10
+
+Pour la présentation de ses contrats et l'execution de ses opérations, la Caisse Nationale de Prévoyance est habilitée à
+utiliser les services des administrations du Trésor et des Postes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Transféré par**:
+
+	  - Décret n°87-833 1987-10-12 art. 2, art. 3 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+	**Anciens textes**:
+
+	  - Code des assurances R433-7 (1ère version)
+
+
+##### Section V : Dispositions particulières.
+
+###### Article R*433-11
+
+Pour les rentes viagères mentionnées au second alinéa de l'article L. 433-7, le montant minimal incessible et insaisissable
+est fixé à 24 F.
+
+Pour le surplus, les mêmes rentes ne sont cessibles et saisissables que dans les limites prévues par l'article L. 145-1 du
+Code du travail pour les salaires et traitements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Transféré par**:
+
+	  - Décret n°87-833 1987-10-12 art. 2, art. 3 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+	**Cite**:
+
+	  - Code du travail - art. L145-1 (M)
+	  - Code des assurances - art. L433-7 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L433-7 (Ab)
+
+	**Anciens textes**:
+
+	  - Code des assurances R433-9 (1ère version)
 
 
 ###### Article R*433-15
@@ -39610,9 +39685,13 @@ des dispositions des articles R. 334-3 et R. 334-11.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 31 () JORF 12 mai 1984
+	  - Décret n°87-833 1987-10-12 art. 2 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Cite**:
 
@@ -39632,9 +39711,13 @@ concerne la caisse nationale de prévoyance, à 300.000 et à 800.000 unités de
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 31 () JORF 12 mai 1984
+	  - Décret n°87-833 1987-10-12 art. 2 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Cite**:
 
@@ -39642,13 +39725,10 @@ concerne la caisse nationale de prévoyance, à 300.000 et à 800.000 unités de
 	  - Code des assurances - art. R*334-7 (M)
 
 
-###### Article R433-9
+###### Article R433-12
 
-Pour les rentes viagères mentionnées au second alinéa de l'article L. 433-7, le montant minimal incessible et insaisissable
-est fixé à vingt-quatre francs.
-
-Pour le surplus, les mêmes rentes ne sont cessibles et saisissables que dans les limites prévues par l'article L. 145-1 du
-code du travail pour les salaires et traitements.
+Les sommes nécessaires pour assurer le service des bonifications mentionnées à l'article L. 433-11 sont imputées sur le
+chapitre du budget du ministère de l'Economie et des Finances afférent aux majorations de rentes viagères.
 
 **Liens relatifs à cet article**
 
@@ -39656,89 +39736,25 @@ code du travail pour les salaires et traitements.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Transféré par**:
+
+	  - Décret n°87-833 1987-10-12 art. 2, art. 3 JORF 13 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°93-385 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
 	**Cite**:
 
-	  - Code du travail - art. L145-1 (M)
-	  - Code des assurances - art. L433-7 (Ab)
+	  - Code des assurances - art. L433-11 (Ab)
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. L433-7 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R433-1
-
-
-###### Article R433-12
-
-Le montant maximal de capital susceptible d'être garanti en cas de décès sur une même tête par la caisse nationale de
-prévoyance, tel qu'il est fixé en conformité des dispositions du 2° de l'article R. 433-3, 1er alinéa, est applicable au
-capital de base garanti par les contrats prévoyant en cas d'accident le doublement ou le triplement de ce capital.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°87-833 1987-10-12 art. 3 JORF 13 octobre 1987
-
-	**Cite**:
-
-	  - Code des assurances R433-3
-
-
-##### Section V : Dispositions particulières.
-
-###### Article R*433-13
-
-Le montant maximal prévu au 2° de l'article R. 433-3, 1er alinéa, qui est applicable au capital garanti initialement par les
-contrats d'assurance admis à bénéficier d'une participation aux résultats, peut toutefois être dépassé par le jeu de la
-clause de participation.
-
-**Liens relatifs à cet article**
+	  - TXT_SOURCE: Code des assurances - art. L433-11 (Ab)
 
 	**Anciens textes**:
 
-	  - Décret n°60-712 1960-07-18 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°87-833 1987-10-12 art. 3 JORF 13 octobre 1987
-
-	**Cite**:
-
-	  - Code des assurances R433-3
-
-
-###### Article R433-14
-
-La prime globale d'une assurance collective en cas de décès résultant pour chaque groupe de l'application aux sommes assurées
-des taux de mortalité est majorée ou minorée dans la limite du double ou de la moitié de son montant suivant un coefficient
-déduit de la mortalité spéciale constatée au cours des précédentes années d'assurance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1890-11-28 art. 3
-	  - Décret n°1931-04-21 art. 3
-	  - Décret n°1936-02-11 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°87-833 1987-10-12 art. 3 JORF 13 octobre 1987
+	  - Code des assurances R433-11 (1ère version)
 
 
 ### Titre IV : Régimes particuliers d'assurance
@@ -40549,125 +40565,6 @@ Pour les années comprises dans la période du 1er janvier 1978 au 31 décembre 
 	**Cite**:
 
 	  - Code des assurances - art. D441-22 (V)
-
-
-##### Section V : Dispositions particulières à la caisse nationale de prévoyance.
-
-###### Article R*441-31
-
-La caisse nationale de prévoyance doit, pour pratiquer les opérations mentionnées à l'article R. 441-1, se conformer aux
-conditions définies par le présent chapitre. Toutefois, les dispositions des articles R. 441-10 à R. 441-12 ainsi que des
-articles R. 441-25 à R. 441-29 ne s'appliquent pas à la caisse nationale de prévoyance.
-
-En outre, les prérogatives du ministre de l'économie et des finances sont exercées, pour ces opérations, par la commission
-supérieure de la caisse nationale de prévoyance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-537 1964-06-04 art. 32
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°87-833 1987-10-12 art. 3 JORF 13 octobre 1987
-
-	**Cite**:
-
-	  - Code des assurances - art. R*441-1 (M)
-	  - Code des assurances R441-1, R441-10 à R441-12, R441-25 à R441-29
-
-
-###### Article R*441-32
-
-Les opérations afférentes à des conventions différentes peuvent faire l'objet d'une compensation. Les modalités de cette
-compensation sont fixées par la commission supérieure de la caisse nationale de prévoyance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-537 1964-06-04 art. 33
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°87-833 1987-10-12 art. 3 JORF 13 octobre 1987
-
-
-###### Article R*441-33
-
-La caisse nationale de prévoyance doit suivre les opérations mentionnées à l'article R. 441-1 dans une section spéciale selon
-les conditions fixées par la commission supérieure.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-537 1964-06-04 art. 34
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°87-833 1987-10-12 art. 3 JORF 13 octobre 1987
-
-	**Cite**:
-
-	  - Code des assurances - art. R*441-1 (M)
-
-
-###### Article R*441-34
-
-La commission supérieure de la caisse nationale de prévoyance peut faire procéder à la transformation des opérations
-mentionnées à l'article R. 441-1 en opérations d'assurance couvertes, intégralement et à tout moment, par des provisions
-mathématiques :
-
-- lorsqu'un ou plusieurs des intermédiaires mentionnés au b du second alinéa de l'article R. 441-13 enfreignent les règles
-posées par le présent chapitre ;
-
-- lorsque le nombre de participants à une convention n'atteint pas le chiffre fixé à l'article R. 441-15 dans le délai prévu,
-ou lui devient inférieur après l'expiration de ce délai ;
-
-- lorsque la modification de la valeur de service et de la valeur d'acquisition de l'unité de rente aurait pour effet
-d'amener le quotient mentionné à l'article R. 441-20 à un chiffre non compris dans les limites fixées audit article ;
-
-- lorsque le maintien de la valeur de service de l'unité de rente à son niveau de l'année précédente ou son augmentation
-aurait pour effet de ramener le rapport de la provision technique spéciale à la provision mathématique théorique à une valeur
-inférieure à 0,5.
-
-La répartition de l'actif correspondant à une convention entre les participants à ladite convention est proportionnelle aux
-provisions mathématiques fictives calculées sans intervention d'un taux d'intérêt correspondant à la totalité des unités de
-rente ayant donné lieu ou non au versement d'arrérages et figurant aux comptes individuels desdits participants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-537 1964-06-04 art. 35
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°87-833 1987-10-12 art. 3 JORF 13 octobre 1987
-
-	**Cite**:
-
-	  - Code des assurances - art. R*441-1 (M)
-	  - Code des assurances - art. R*441-15 (M)
-	  - Code des assurances R441-1, R441-13, R441-15, R441-20
 
 
 ## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation
