@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1993-05-20
+Version Consolidée au 1993-05-29
 
 # Partie législative
 
@@ -13297,59 +13297,6 @@ publication. Au cours de ce délai, les assurés ont la faculté de résilier le
 	**Cite**:
 
 	  - Code des assurances - art. L324-1 (M)
-
-
-### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire en assurances de dommages
-
-#### Chapitre I : Dispositions relatives à la libre prestation de services
-
-##### Section I : Dispositions générales.
-
-###### Article L351-2
-
-Sont exclues de l'application du présent titre les opérations d'assurance afférentes :
-
-- à l'assurance sur la vie et la capitalisation ;
-
-- aux accidents du travail et aux maladies professionnelles ;
-
-- à la responsabilité civile des véhicules terrestres à moteur, à l'exception de la responsabilité du transporteur ;
-
-- à la responsabilité civile des exploitants d'installations nucléaires ;
-
-- à la responsabilité civile du fait des produits pharmaceutiques.
-
-Sont en outre exclus de l'application du présent chapitre les risques des travaux de bâtiment faisant l'objet d'une
-obligation d'assurance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
-
-	**Cité par**:
-
-	  - Code des assurances - art. L329-1 (VD)
-	  - Code des assurances - art. L352-3 (VD)
-	  - Code des assurances - art. R351-10 (VD)
-	  - Code des assurances - art. R351-11 (VD)
-	  - Code des assurances - art. R351-12 (VD)
-	  - Code des assurances - art. R351-13 (VD)
-	  - Code des assurances - art. R351-15 (VD)
-	  - Code des assurances - art. R351-17 (VD)
-	  - Code des assurances - art. R351-2 (VD)
-	  - Code des assurances - art. R351-9 (VD)
-	  - Code des assurances - art. R352-29 (VD)
-	  - Code des assurances - art. R352-4 (VD)
-	  - Code des assurances - art. R352-8 (V)
-	  - Code des assurances - art. R352-9 (VD)
-	  - Code des assurances - art. R353-1 (V)
-	  - Code des assurances - art. R356-14 (VD)
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
@@ -46215,161 +46162,6 @@ En outre, elle ne peut être payée qu'à concurrence des quatre cinquièmes au 
 	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Paragraphe 3 : Assurances des véhicules terrestres à moteur.
-
-###### Article A335-15
-
-Le montant des commissions et rétributions de même nature allouées aux personnes habilitées à présenter des opérations
-d'assurance ne peut, en ce qui concerne les assurances de véhicules terrestres à moteur, excéder les limites fixées aux
-articles A. 335-16 à A. 335-18.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1964-12-14 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-05-07 art. 1 JORF 29 mai 1993
-
-	**Cite**:
-
-	  - Code des assurances - art. A335-16 (Ab)
-	  - Code des assurances - art. A335-18 (Ab)
-
-	**Cité par**:
-
-	  - Code des assurances - art. A335-17 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
-
-
-###### Article A335-16
-
-Pour l'application de cette limitation, les personnes mentionnées à l'article A. 335-15 sont classées, selon le rôle qui leur
-est imparti, dans les catégories suivantes :
-
-1° Apporteur simple, dont le rôle se borne à communiquer au client les différentes conditions de garantie et les
-tarifications correspondantes et à établir et déposer auprès de l'assureur la proposition questionnaire ;
-
-2° Apporteur complet, dont le rôle se borne, en sus des tâches prévues au 1°, à faire signer le contrat, à encaisser la
-première prime ou cotisation, à remettre l'attestation d'assurance, à conseiller le client en cours de contrat et à
-transmettre à l'assureur les demandes formulées par l'assuré en vue de faire modifier le contrat ;
-
-3° Apporteur gestionnaire partiel, dont le rôle consiste à communiquer au client les différentes conditions de garantie et
-les tarifications correspondantes, établir et déposer auprès de l'assureur la proposition-questionnaire, délivrer la note de
-couverture ou établir le contrat, faire signer celui-ci, encaisser la première prime ou cotisation et les primes ou
-cotisations suivantes, conseiller le client en cours de contrat, gérer les avenants et polices de remplacement, délivrer les
-documents justificatifs d'assurance et procéder à la transmission pure et simple (sans obligation de le faire) des
-déclarations de sinistre à l'assureur ;
-
-4° Apporteur gestionnaire complet, dont le rôle consiste à accomplir les tâches prévues pour l'apporteur-gestionnaire partiel
-et, en étant habilité d'une manière générale à le faire, à instruire les sinistres matériels, à instruire ou participer à
-l'instruction des sinistres corporels et à proposer le règlement des sinistres ou à y procéder avec ou sans paiement des
-indemnités.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1964-12-14 art. 2
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-05-07 art. 1 JORF 29 mai 1993
-
-	**Cité par**:
-
-	  - Code des assurances - art. A335-15 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
-
-
-###### Article A335-17
-
-Le montant des commissions d'apport, des commissions d'apport et de gestion et des rétributions mentionnées à l'article A.
-335-15 ne peut excéder les pourcentages suivants des primes ou cotisations afférentes aux assurances mentionnées audit
-article, accessoires compris, et nettes de tous impôts et taxes :
-
-1° Apporteurs simples : 3 p. 100 pour les assurances de transports publics de voyageurs ou de marchandises et 5 p. 100 pour
-les autres assurances des véhicules terrestres à moteur ;
-
-2° Apporteurs complets : 5 p. 100 pour les assurances de transports publics de voyageurs ou de marchandises et 8 p. 100 pour
-les autres assurances des véhicules terrestres à moteur ;
-
-3° Apporteurs gestionnaires partiels : 10 p. 100 pour les assurances de transports publics de voyageurs ou de marchandises et
-12,5 p. 100 pour les autres assurances des véhicules terrestres à moteur ;
-
-4° Apporteurs gestionnaires complets : 14 p. 100 pour les assurances de transports publics de voyageurs ou de marchandises et
-18 p. 100 pour les autres assurances des véhicules terrestres à moteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1964-12-14 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-05-07 art. 1 JORF 29 mai 1993
-
-	**Cite**:
-
-	  - Code des assurances - art. A335-15 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
-
-
-###### Article A335-18
-
-Le montant de toute rétribution des indicateurs, dont le rôle se borne à mettre en relations l'assuré et l'assureur ou à
-signaler l'un à l'autre ne peut, en ce qui concerne les primes ou cotisations afférentes à des assurances des véhicules
-terrestres à moteur, excéder les pourcentages suivants de ces primes ou cotisations nettes de tous accessoires de prime,
-impôts et taxes : 1 p. 100 pour les assurances de transports publics de voyageurs ou de marchandises et 2,5 p. 100 pour les
-autres assurances des véhicules terrestres à moteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1964-12-14 art. 4
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-05-07 art. 1 JORF 29 mai 1993
-
-	**Cité par**:
-
-	  - Code des assurances - art. A335-15 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
-
-
 ##### Section II : Frais d'acquisition et de gestion
 
 ##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.
@@ -46406,6 +46198,212 @@ effectivement réalisés pour l'instruction ou le règlement de chaque dossier d
 
 
 ### Titre IV : Dispositions comptables et statistiques
+
+#### Chapitre Ier : Principes généraux.
+
+###### Article A341-1
+
+Pour l'application de l'article R. 341-10, les branches mentionnées à l'article R. 321-1 sont regroupées de la manière
+suivante :
+
+- accidents et maladie (1 et 2) ;
+
+- incendie et autres dommages aux biens (8 et 9) ;
+
+- assurance automobile (3 et 10) ;
+
+- assurances aviation, maritimes et transports (4, 5, 6, 7, 11 et 12) ;
+
+- responsabilité civile générale (13) ;
+
+- crédit et caution (14 et 15) ;
+
+- autres branches (16, 17 et 18).
+
+Le compte d'exploitation technique mentionné à l'article R. 341-10 est établi conformément au modèle fourni en annexe I.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1993-05-07 art. 2 JORF 29 mai 1993
+
+	**Cité par**:
+
+	  - Code des assurances - art. R331-36 (VT)
+	  - Code des assurances - art. R331-6 (VT)
+
+
+###### Article Annexe I à l'article A341-1
+
+ANNEXE I : COMPTE D'EXPLOITATION TECHNIQUE DES OPÉRATIONS RÉALISÉES EN LIBRE PRESTATION DE SERVICES
+
+DANS L'ÉTAT MEMBRE SUIVANT DE LA CEE : PAYS DU RISQUE. 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="66">
+
+GROUPES
+
+de branches
+
+</td>
+      <td width="66">
+
+ACCIDENTS 
+
+maladie
+
+</td>
+      <td width="66">
+
+INCENDIE et autres dommages aux biens
+
+</td>
+      <td width="66">
+
+DOMMAGES automobile
+
+</td>
+      <td width="66">
+
+RESPONSABILITÉ civile automobile
+
+</td>
+      <td width="66">
+
+ENSEMBLE automobile
+
+</td>
+      <td width="66">
+
+AVIATION maritime et transports
+
+</td>
+      <td width="66">
+
+RESPONSABILITÉ civile générale
+
+</td>
+      <td width="66">
+
+CRÉDIT et caution
+
+</td>
+      <td width="66">
+
+AUTRES branches
+
+</td>
+      <td width="66">
+
+TOTAL
+
+</td>
+    </tr>
+    <tr>
+      <td width="66">
+
+Primes émises : 
+
+- variation des provisions de primes
+
+</td>
+      <td valign="top" width="66">.</td>
+      <td valign="top" width="66">.</td>
+      <td valign="top" width="66">.</td>
+      <td valign="top" width="66">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td valign="top" width="66">.</td>
+    </tr>
+    <tr>
+      <td width="66">
+
+Primes acquises :
+
+- prestations et frais accessoires payés :
+
++ provisions pour prestations et frais à payer au 31 décembre précédent
+
+- provisions pour prestations et frais à payer au 31 décembre
+
+</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td valign="top" width="66">.</td>
+      <td valign="top" width="66">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td valign="top" width="66">.</td>
+      <td valign="top" width="66">.</td>
+    </tr>
+    <tr>
+      <td width="66">
+
+commissions à la charge de l'exercice
+
+</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td valign="top" width="66">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td valign="top" width="66">.</td>
+    </tr>
+    <tr>
+      <td width="66">
+
+- autres charges
+
+</td>
+      <td width="66" valign="top">.</td>
+      <td valign="top" width="66">.</td>
+      <td valign="top" width="66">.</td>
+      <td valign="top" width="66">.</td>
+      <td width="66" valign="top">.</td>
+      <td valign="top" width="66">.</td>
+      <td width="66" valign="top">.</td>
+      <td valign="top" width="66">.</td>
+      <td width="66" valign="top">.</td>
+      <td valign="top" width="66">.</td>
+    </tr>
+    <tr>
+      <td width="66">
+
+Résultat technique brut de réassurance
+
+</td>
+      <td valign="top" width="66">.</td>
+      <td width="66" valign="top">.</td>
+      <td valign="top" width="66">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td valign="top" width="66">.</td>
+      <td valign="top" width="66">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+      <td width="66" valign="top">.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 #### Chapitre IV : Catégories d'assurance et états à produire
 
@@ -47015,6 +47013,46 @@ participation entre les assurés (quotité et délai), et le calcul des provisio
 	  - Code des assurances - art. L321-1 (V)
 	  - Code des assurances - art. L321-7 (V)
 	  - Code des assurances - art. L321-9 (V)
+
+
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire
+
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation
+
+##### Section II : Conditions d'exercice
+
+###### Article A353-1
+
+La déclaration, mentionnée au II de l'article L. 353-4, signée avant souscription par le souscripteur d'un contrat
+d'assurance sur la vie ou de capitalisation présenté en libre prestation de services sur le territoire de la République
+française, est ainsi rédigée : " Je reconnais savoir que la surveillance de... (nom de l'assureur), établi en... (Etat membre
+d'établissement de l'assureur), relève de la responsabilité des autorités de contrôle de... (Etat membre d'établissement de
+l'assureur) et non pas de celle des autorités de contrôle françaises ". 
+
+La déclaration, mentionnée au II de l'article L. 353-4, signée par le souscripteur potentiel avant de prendre connaissance
+des informations mentionnées au dernier alinéa (2°) du I de l'article L. 353-4, est ainsi rédigée : " Je déclare souhaiter
+que... (nom de l'intermédiaire) me fournisse des informations sur des contrats d'assurance offerts par des entreprises
+établies dans des Etats membres de la CEE autres que la France. Je note que la surveillance de ces entreprises relève de la
+responsabilité des autorités de contrôle de l'Etat dans lequel elles sont établies et non pas de celle des autorités de
+contrôle françaises ".
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 mai 2015 - art. 2
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1993-05-07 art. 4 JORF 29 mai 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L353-4
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
