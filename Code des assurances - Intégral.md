@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1995-02-14
 
 # Partie législative
 
@@ -28317,10 +28317,13 @@ et à la diminution de leur revenu ;
 
 6° Provision pour risque d'exigibilité des engagements techniques : provision destinée à faire face à une insuffisante
 liquidité des placements, notamment en cas de modification du rythme de règlement des sinistres, calculée dans les conditions
-définies au premier alinéa de l'article R. 331-5-1.
+définies au premier alinéa de l'article R. 331-5-1 ;
 
 7° Provision pour frais d'acquisition reportés : provision destinée à couvrir les charges résultant du report des frais
-d'acquisition constaté en application de l'article R. 332-35.
+d'acquisition constaté en application de l'article R. 332-35 ;
+
+8° Provision pour égalisation : provision destinée à faire face aux fluctuations de sinistralité afférentes aux opérations
+d'assurance de groupe contre le risque décès.
 
 Un engagement ne peut être provisionné qu'au titre d'une seule des catégories mentionnées au présent article.
 
@@ -28370,14 +28373,9 @@ Un engagement ne peut être provisionné qu'au titre d'une seule des catégories
 	  - Code des assurances - art. R334-13-2 (V)
 	  - Code des assurances - art. R441-7 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
-
 	**Modifié par**:
 
-	  - Décret n°94-481 du 8 juin 1994 - art. 6 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
-	  - Décret n°94-481 du 8 juin 1994 - art. 7 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+	  - Décret n°95-153 du 7 février 1995 - art. 1 () JORF 14 février 1995
 
 	**Cite**:
 
@@ -28539,9 +28537,16 @@ Les provisions techniques correspondant aux autres opérations d'assurance sont 
 1° Provision mathématique des rentes : valeur actuelle des engagements de l'entreprise en ce qui concerne les rentes et
 accessoires de rentes mis à sa charge ;
 
-2° Provision pour risques en cours : provision destinée à couvrir les risques et les frais généraux afférents, pour chacun
-des contrats à prime payable d'avance, à la période comprise entre la date de l'inventaire et la prochaine échéance de prime,
-ou à défaut le terme fixé par le contrat ;
+2° Provision pour primes non acquises : provision, calculée selon les méthodes fixées par arrêté du ministre de l'économie,
+destinée à constater, pour l'ensemble des contrats en cours, la part des primes émises et des primes restant à émettre se
+rapportant à la période comprise entre la date de l'inventaire et la date de la prochaine échéance de prime ou, à défaut, du
+terme du contrat ;
+
+2° bis Provision pour risques en cours : provision, calculée selon les méthodes fixées par arrêté du ministre de l'économie,
+destinée à couvrir, pour l'ensemble des contrats en cours, la charge des sinistres et des frais afférents aux contrats, pour
+la période s'écoulant entre la date de l'inventaire et la date de la première échéance de prime pouvant donner lieu à
+révision de la prime par l'assureur ou, à défaut, entre la date de l'inventaire et le terme du contrat, pour la part de ce
+coût qui n'est pas couverte par la provision pour primes non acquises ;
 
 3° Réserve de capitalisation : réserve destinée à parer à la dépréciation des valeurs comprises dans l'actif de l'entreprise
 et à la diminution de leur revenu ;
@@ -28562,7 +28567,10 @@ calculée dans les conditions fixées par l'article 2 de la loi n° 74-1114 du 2
 août 1975 et le décret n° 86-741 du 14 mai 1986 ;
 
 b) Provision destinée à compenser en assurance-crédit la perte technique éventuelle apparaissant à la fin de l'exercice, et
-calculée dans les conditions fixées à l'article R. 331-33.
+calculée dans les conditions fixées à l'article R. 331-33 ;
+
+c) Provision destinée à faire face aux fluctuations de sinistralité afférentes aux opérations d'assurance de groupe contre
+les risques de dommages corporels.
 
 7° Provision mathématique des réassurances : provision à constituer par les entreprises mentionnées aux 2° et 3° de l'article
 L. 310-1 qui acceptent en réassurance des risques cédés par des entreprises d'assurance sur la vie ou d'assurance nuptialité-
@@ -28582,6 +28590,7 @@ définies au premier alinéa de l'article R. 331-5-1.
 	  - Décret n°86-741 1986-05-14
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. R*331-1 (M)
+	  - Code des assurances - art. R331-33 (V)
 	  - Code des assurances - art. R331-5-1 (M)
 
 	**Codifié par**:
@@ -28596,19 +28605,15 @@ définies au premier alinéa de l'article R. 331-5-1.
 	  - Code des assurances - art. A331-17 (V)
 	  - Code des assurances - art. A332-7 (M)
 	  - Code des assurances - art. R*331-22 (Ab)
-	  - Code des assurances - art. R331-33 (VT)
 	  - Code des assurances - art. R332-2 (M)
 	  - Code des assurances - art. R332-20 (M)
 	  - Code des assurances - art. R332-39 (V)
 	  - Code des assurances - art. R333-1 (VT)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 12 () JORF 26 juillet 1994
+	  - Décret n°95-153 du 7 février 1995 - art. 1 () JORF 14 février 1995
+	  - Décret n°95-153 du 7 février 1995 - art. 2 () JORF 14 février 1995
 
 
 ##### Paragraphe 1 : Provision mathématique des rentes
@@ -28646,196 +28651,6 @@ des finances.
 	**Cité par**:
 
 	  - Code des assurances - art. R*433-1 (M)
-
-
-##### Paragraphe 2 : Provision pour risques en cours.
-
-###### Article R*331-9
-
-Le montant minimal de la provision pour risques en cours doit être calculée conformément aux dispositions des articles R.
-331-10 à R. 331-14. Cette provision doit être, en outre, suffisante pour couvrir les risques et les frais généraux afférents,
-pour chacun des contrats à prime ou cotisation payable d'avance, à la période comprise entre la date de l'inventaire et la
-prochaine échéance de prime ou cotisation ou, à défaut, le terme fixé par le contrat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°95-153 du 7 février 1995 - art. 2 () JORF 14 février 1995
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances R331-10 à R331-14
-
-
-###### Article R*331-10
-
-Le montant minimal de la provision pour risques en cours s'obtient en multipliant par le pourcentage de 36 % les primes ou
-cotisations de l'exercice inventorié, non annulées à la date de l'inventaire, et déterminées comme suit :
-
-1° Primes ou cotisations à échéance annuelle émises au cours de l'exercice ;
-
-2° Primes ou cotisations à échéance semestrielle émises au cours du deuxième semestre ;
-
-3° Primes ou cotisations à échéance trimestrielle émises au cours du dernier trimestre ;
-
-4° Primes ou cotisations à échéance mensuelle émises au cours du mois de décembre.
-
-Les primes ou cotisations à terme échu sont exclues du calcul. Les primes ou cotisations payables d'avance s'entendent y
-compris les accessoires et coûts des polices.
-
-En sus du montant minimal déterminé comme il est prévu ci-dessus, il doit être constitué une provision pour risques en cours
-spéciale, afférente aux contrats dont les primes ou cotisations sont payables d'avance pour plus d'une année ou pour une
-durée différente de celles indiquées aux 1°, 2°, 3° et 4° du premier alinéa du présent article. Pour l'année en cours, le
-taux de calcul est celui prévu ci-dessus ; pour les années suivantes, il est égal à 100 p. 100 des primes ou cotisations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°95-153 du 7 février 1995 - art. 2 () JORF 14 février 1995
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 13
-
-
-###### Article R*331-11
-
-En cas d'inégale répartition des échéances de primes ou fractions de primes au cours de l'exercice, la commission de contrôle
-des assurances peut, sur justifications fournies par une entreprise, l'autoriser à tenir compte de cette situation pour le
-calcul de la provision pour risques en cours.
-
-Dans la même hypothèse, la commission de contrôle des assurances peut, prescrire à une entreprise de prendre les dispositions
-appropriées pour le calcul de ladite provision.
-
-Dans le cas où la proportion des sinistres ou des frais généraux par rapport aux primes est supérieure à la proportion
-normale, la commission peut également prescrire à une entreprise d'appliquer un pourcentage plus élevé que celui fixé à
-l'article R. 331-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°91-603 1991-06-27 art. 17, art. 20 I, II JORF 28 juin 1991
-	  - Décret n°91-603 du 27 juin 1991 - art. 17 () JORF 28 juin 1991
-	  - Décret n°91-603 du 27 juin 1991 - art. 20 () JORF 28 juin 1991
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-
-	**Abrogé par**:
-
-	  - Décret n°95-153 du 7 février 1995 - art. 2 () JORF 14 février 1995
-
-	**Cite**:
-
-	  - Code des assurances R331-10
-
-
-###### Article R*331-12
-
-La provision pour risques en cours doit être calculée séparément dans chacune des branches mentionnées à l'article R. 321-1,
-d'abord cessions ou rétrocessions déduites, ensuite pour les cessions en réassurance et pour les rétrocessions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°95-153 du 7 février 1995 - art. 2 () JORF 14 février 1995
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-
-###### Article R*331-13
-
-La provision pour risques en cours relative aux cessions en réassurance ou rétrocessions ne doit en aucun cas être portée au
-passif du bilan, pour un montant inférieur à celui pour lequel la part du réassureur ou du rétrocessionnaire dans la
-provision pour risques en cours figure à l'actif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°95-153 du 7 février 1995 - art. 2 () JORF 14 février 1995
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-
-
-###### Article R*331-14
-
-Lorsque les traités de cessions en réassurance ou de rétrocessions prévoient, en cas de résiliation, l'abandon au cédant ou
-au rétrocédant d'une portion des primes payées d'avance, la provision pour risques en cours relative aux acceptations ne
-doit, en aucun cas, être inférieure au montant de ces abandons de primes calculés dans l'hypothèse où les traités seraient
-résiliés à la date de l'inventaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°95-153 du 7 février 1995 - art. 2 () JORF 14 février 1995
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
 
 
 ##### Paragraphe 3 : Provision pour sinistres restant à payer.
@@ -28904,6 +28719,87 @@ liquider tous les sinistres.
 	**Cité par**:
 
 	  - Code des assurances - art. R331-26 (VT)
+
+
+###### Article R331-17
+
+Lors de chaque inventaire, le montant total des provisions pour sinistres à payer afférentes aux garanties décennales
+d'assurance construction ne peut, pour chaque année d'ouverture de chantier, être inférieur à la somme des éléments
+suivants :
+
+1° Le coût total des sinistres qui se sont manifestés jusqu'à la date de l'inventaire, comprenant :
+
+- d'une part, le coût total, estimé dossier par dossier, des sinistres qui ont été déclarés jusqu'à la date de l'inventaire,
+diminué des règlements déjà effectués et des frais déjà payés ;
+
+- d'autre part, une estimation prudente des sinistres non encore déclarés, effectuée sur la base de méthodes statistiques ;
+
+2° Une estimation, calculée selon les méthodes fixées par arrêté du ministre de l'économie, du coût des sinistres non encore
+manifestés et qui devraient se manifester d'ici à l'expiration de la période de prescription décennale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°95-153 du 7 février 1995 - art. 3 () JORF 14 février 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cité par**:
+
+	  - Code des assurances - art. A331-16 (Ab)
+	  - Code des assurances - art. A331-21 (V)
+	  - Code des assurances - art. A342-3 (Ab)
+	  - Code des assurances - art. Annexe A344-10 ETAT C11 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C12 (V)
+	  - Code des assurances - art. R*331-20 (Ab)
+	  - Code des assurances - art. R331-18 (VT)
+
+
+###### Article R331-18
+
+Lorsque les éléments d'information disponibles conduisent à estimer un coût des sinistres non encore manifestés supérieur au
+montant résultant de l'application de la méthode réglementaire prévue à l'article R. 331-17 (2°), l'entreprise doit
+constituer des provisions à due concurrence du coût estimé.
+
+Lorsqu'une entreprise estime le coût des sinistres non encore manifestés à un niveau inférieur au montant résultant de
+l'application de la méthode réglementaire prévue au 2° de l'article R. 331-17, la commission de contrôle des assurances, si
+elle considère que cette estimation repose sur des éléments d'information suffisants et sur une méthode statistique fiable,
+peut, à la demande de l'entreprise, dispenser celle-ci de l'application de la méthode réglementaire prévue au 2° de l'article
+R. 331-17 et l'autoriser à retenir sa propre estimation du coût des sinistres non encore manifestés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°95-153 du 7 février 1995 - art. 3 () JORF 14 février 1995
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. A331-16 (V)
+	  - TXT_SOURCE: Code des assurances - art. A331-17 (M)
+	  - TXT_SOURCE: Code des assurances - art. A331-18 (V)
+	  - TXT_SOURCE: Code des assurances - art. A331-19 (V)
+	  - TXT_SOURCE: Code des assurances - art. A331-20 (V)
+	  - TXT_SOURCE: Code des assurances - art. A331-21 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*331-17 (Ab)
 
 
 ###### Article R331-26
@@ -28991,49 +28887,6 @@ montant calculé par l'apériteur, compte tenu des règles ou pratiques en usage
 
 	  - Code des assurances - art. L321-1
 	  - Code des assurances - art. L352-1
-
-
-##### Paragraphe 6 : Dispositions particulières relatives à l'assurance de la construction : responsabilité civile décennale.
-
-###### Article R*331-32
-
-Lors de chaque inventaire, le montant total des provisions techniques, nettes des sommes à encaisser à la suite de recours,
-relatives aux sinistres rattachés ou à rattacher aux trois derniers exercices écoulés ne peut être inférieur, pour chacun de
-ces exercices considérés séparément, à la différence entre, d'une part, le montant des primes de l'exercice, augmenté des
-produits financiers, et, d'autre part, la somme des éléments suivants ;
-
-1° le montant des commissions et frais généraux rattachés à l'exercice ;
-
-2° le montant des règlements intervenus au titre de ces sinistres, après déduction des sommes encaissées à la suite de
-recours.
-
-Toutefois, l'application des dispositions du présent article peut, par décision de la commission de contrôle des assurances,
-pour les entreprises qui adressent à cet effet une demande motivée, être limitée au dernier exercice écoulé à la date de
-l'inventaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-540 1982-06-28 art. 30 finances rectificative
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-
-	**Modifié par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 20 () JORF 28 juin 1991
-
-	**Abrogé par**:
-
-	  - Décret n°95-153 du 7 février 1995 - art. 3 () JORF 14 février 1995
-
-	**Cite**:
-
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L321-4 (Ab)
 
 
 ##### Paragraphe 7 : Dispositions particulières relatives à l'assurance-crédit.
@@ -29712,9 +29565,14 @@ inscrits au bilan pour leur valeur au jour de l'inventaire.
 
 ###### Article R332-6
 
-La provision pour risques en cours des entreprises pratiquant les opérations mentionnées aux 2° et 3° de l'article L. 310-1
-peut être représentée jusqu'à concurrence de 30 % de son montant, par des primes ou cotisations nettes d'impôts, de taxes et
-de commissions, et de trois mois de date au plus.
+La provision pour primes non acquises constituée au titre d'un contrat par une entreprise pratiquant les opérations
+mentionnées au 2° ou au 3° de l'article L. 310-1 peut être représentée, jusqu'à concurrence de 25 % de son montant, par les
+frais d'acquisition reportés au titre de ce contrat, nets des commissions des réassureurs reportées au titre de ce même
+contrat.
+
+La provision pour primes non acquises constituée par ces mêmes entreprises peut être représentée, jusqu'à 25 % de son
+montant, par des primes émises et non encore encaissées ou des primes restant à émettre, nettes d'impôt, de taxes et de
+commissions, et de trois mois de date au plus.
 
 **Liens relatifs à cet article**
 
@@ -29722,13 +29580,9 @@ de commissions, et de trois mois de date au plus.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
+	  - Décret n°95-153 du 7 février 1995 - art. 4 () JORF 14 février 1995
 
 	**Cité par**:
 
@@ -30730,29 +30584,35 @@ conformément aux dispositions du 2° de l'article R. 332-20.
 
 ###### Article R332-33
 
-Les entreprises qui versent des commissions à leurs représentants ou à leurs intermédiaires sans les amortir dans l'exercice
-peuvent inscrire ces avances à l'actif de leur bilan, dans un compte "Commissions à amortir". Ce compte doit être établi dans
-les conditions déterminées par décret. Le compte correspondant à chaque exercice doit être amorti en cinq ans au plus. Les
-dispositions du présent décret ne sont applicables qu'aux entreprises pratiquant les opérations des branches 1 à 17
-mentionnées à l'article R. 321-1.
+Les entreprises pratiquant les opérations mentionnées au 2° ou au 3° de l'article L. 310-1 inscrivent à l'actif du bilan la
+fraction non imputable à l'exercice des frais d'acquisition des contrats constatés en charge de l'exercice. La période
+d'imputation des frais d'acquisition ne peut s'étendre au-delà de la date à laquelle le souscripteur peut exercer son droit
+de résiliation ou de non-reconduction ni, lorsque les frais à reporter sont des commissions payables à chaque échéance de
+prime, au-delà de la prochaine échéance de prime.
+
+Le montant reporté est calculé contrat par contrat ou sur la base de méthodes statistiques, dans les mêmes conditions et
+selon les mêmes méthodes que la provision pour primes non acquises ; il ne peut faire l'objet d'une augmentation ultérieure ;
+il est amorti linéairement sur la durée restant à courir entre la date de l'inventaire et la fin de la période d'imputation
+des frais, et au maximum sur cinq exercices ; il est amorti en totalité en cas de résiliation anticipée, d'annulation ou de
+transfert du contrat.
+
+La fraction non imputable à l'exercice des commissions des réassureurs est également inscrite au bilan ; le montant reporté
+est calculé et repris en compte de résultat selon les mêmes méthodes que celles retenues pour les frais d'acquisition des
+affaires brutes correspondantes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-	  - TXT_SOURCE: Code des assurances - art. R332-34 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. R332-34 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R332-35 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R332-36 (Ab)
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Modifié par**:
 
-	  - Décret n°90-981 du 5 novembre 1990 - art. 17 () JORF 6 novembre 1990
+	  - Décret n°95-153 du 7 février 1995 - art. 4 () JORF 14 février 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Cité par**:
 
@@ -30763,63 +30623,13 @@ mentionnées à l'article R. 321-1.
 
 	**Cite**:
 
-	  - Code des assurances R321-1
-
-
-###### Article R332-34
-
-Les entreprises pratiquant une ou plusieurs des branches mentionnées aux 1 à 18 de l'article R. 321-1 ne peuvent inscrire au
-compte "Commissions à amortir" que les sommes résultant d'avances consenties sur les commissions dues pour une période
-d'assurance de dix ans au plus ou pour la durée du contrat, si cette durée est inférieure à dix années ; si cette durée est
-inférieure à cinq années, il ne peut être fait aucune inscription audit compte.
-
-Pour l'application des dispositions du précédent alinéa, la durée du contrat doit s'entendre de la durée de la période à la
-fin de laquelle peut s'exercer le droit de résiliation.
-
-Les contrats prorogés en vertu d'une clause de tacite reconduction ne peuvent pas faire l'objet d'inscription au compte des
-commissions à amortir.
-
-L'avance de commission susceptible d'être inscrite au compte "Commissions à amortir" ne peut être supérieure au total de la
-prime ou cotisation de première année afférente au contrat.
-
-Les commissions à amortir portées à l'actif du bilan doivent faire l'objet de comptes distincts pour chacun des exercices
-pendant lesquels ont été effectuées les avances ; les amortissements, pour chaque compte, doivent également faire l'objet de
-mentions distinctes au débit du compte d'exploitation générale.
-
-Aucune avance de commission portée au compte "Commissions à amortir" pour un exercice ne peut faire l'objet d'une
-augmentation ultérieure ; chaque avance doit être amortie annuellement, et dès l'exercice au cours duquel a été effectuée
-l'avance, d'un cinquième au moins de son montant.
-
-Toute commission afférente à un contrat annulé ou résilié doit être amortie immédiatement en totalité.
-
-Pour l'application du présent article, la prime ou cotisation de première année s'entend réassurances cédées déduites.
-
-Pour l'application des dispositions qui précèdent, il est ouvert, dans les écritures de l'entreprise, un compte spécial par
-exercice où sont inscrites les primes ou cotisations ayant donné lieu à l'avance de commissions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
+	  - Code des assurances - art. L310-1
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-	  - TXT_SOURCE: Code des assurances - art. R*332-33 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R332-33 (M)
-
-	**Modifié par**:
-
-	  - Décret n°88-456 du 27 avril 1988 - art. 2 () JORF 29 avril 1988
-
-	**Abrogé par**:
-
-	  - Décret n°95-153 du 7 février 1995 - art. 4 () JORF 14 février 1995
-
-	**Cite**:
-
-	  - Code des assurances R321-1
+	  - TXT_SOURCE: Code des assurances - art. R332-34 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R332-35 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R332-36 (Ab)
 
 
 ###### Article R332-35
