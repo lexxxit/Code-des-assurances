@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-07-05
+Version Consolidée au 2003-07-31
 
 # Partie législative
 
@@ -1974,8 +1974,8 @@ loi n° 57-1424 du 31 décembre 1957".
 
 Les contrats d'assurance, souscrits par toute personne physique ou morale autre que l'Etat et garantissant les dommages
 d'incendie ou tous autres dommages à des biens situés en France, ainsi que les dommages aux corps de véhicules terrestres à
-moteur, ouvrent droit à la garantie de l'assuré contre les effets des catastrophes naturelles et des affaissements de terrain
-dus à des cavités souterraines et à des marnières sur les biens faisant l'objet de tels contrats.
+moteur, ouvrent droit à la garantie de l'assuré contre les effets des catastrophes naturelles, dont ceux des affaissements de
+terrain dus à des cavités souterraines et à des marnières sur les biens faisant l'objet de tels contrats.
 
 En outre, si l'assuré est couvert contre les pertes d'exploitation, cette garantie est étendue aux effets des catastrophes
 naturelles, dans les conditions prévues au contrat correspondant.
@@ -2031,9 +2031,9 @@ l'application du présent chapitre les dommages résultant de l'exploitation pas
 	  - Code général des impôts, CGI. - art. 237 quater (V)
 	  - Code rural et de la pêche maritime - art. L151-37 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 159 (Ab) JORF 28 février 2002
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 71 () JORF 31 juillet 2003
 
 
 ###### Article L125-2
@@ -2053,15 +2053,15 @@ remise de l'état estimatif des biens endommagés ou des pertes subies, sans pr�
 favorables, ou de la date de publication, lorsque celle-ci est postérieure, de la décision administrative constatant l'état
 de catastrophe naturelle.
 
+En tout état de cause, une provision sur les indemnités dues au titre de cette garantie doit être versée à l'assuré dans les
+deux mois qui suivent la date de remise de l'état estimatif des biens endommagés ou des pertes subies, ou la date de
+publication, lorsque celle-ci est postérieure, de la décision administrative constatant l'état de catastrophe naturelle.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°85-863 1985-08-02 art. 1 JORF 15 août 1985
 
 	**Cité par**:
 
@@ -2081,6 +2081,10 @@ de catastrophe naturelle.
 	  - Code des assurances - art. R*125-7 (Ab)
 	  - Code des assurances - art. R250-2 (V)
 	  - Code des assurances - art. R250-3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 70 () JORF 31 juillet 2003
 
 	**Cite**:
 
@@ -2177,37 +2181,45 @@ prime ou cotisation additionnelle.
 ###### Article L125-6
 
 Dans les terrains classés inconstructibles par un plan de prévention des risques naturels prévisibles approuvé dans les
-conditions prévues par la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection
-de la forêt contre l'incendie et à la prévention des risques majeurs, l'obligation prévue au premier alinéa de l'article L.
-125-2 ne s'impose pas aux entreprises d'assurance à l'égard des biens et activités mentionnés à l'article L. 125-1, à
-l'exception, toutefois, des biens et des activités existant antérieurement à la publication de ce plan.
+conditions fixées par les dispositions du chapitre II du titre VI du livre V du code de l'environnement, l'obligation prévue
+au premier alinéa de l'article L. 125-2 ne s'impose pas aux entreprises d'assurance à l'égard des biens et activités
+mentionnés à l'article L. 125-1, à l'exception, toutefois, des biens et des activités existant antérieurement à la
+publication de ce plan. 
 
 Cette obligation ne s'impose pas non plus aux entreprises d'assurance à l'égard des biens immobiliers construits et des
 activités exercées en violation des règles administratives en vigueur lors de leur mise en place et tendant à prévenir les
-dommages causés par une catastrophe naturelle.
+dommages causés par une catastrophe naturelle. 
 
 Les entreprises d'assurance ne peuvent toutefois se soustraire à cette obligation que lors de la conclusion initiale ou du
-renouvellement du contrat.
+renouvellement du contrat. 
 
 A l'égard des biens et activités situés sur des terrains couverts par un plan de prévention des risques, les entreprises
 d'assurance peuvent exceptionnellement déroger aux dispositions du deuxième alinéa de l'article L. 125-2 sur décision d'un
 bureau central de tarification, dont les conditions de constitution et les règles de fonctionnement sont fixées par décret en
 Conseil d'Etat, lorsque le propriétaire ou l'exploitant ne se sera pas conformé dans un délai de cinq ans aux mesures visées
-au 4° de l'article 40-1 de la loi n° 87-565 du 22 juillet 1987 précitée.
+au 4° du II de l'article L. 562-1 du code de l'environnement. 
 
 Le bureau central de tarification fixe des abattements spéciaux dont les montants maxima sont déterminés par arrêté, par
-catégorie de contrat.
+catégorie de contrat. 
 
-Lorsqu'un assuré s'est vu refuser par deux entreprises d'assurance l'application des dispositions du présent chapitre, il
-peut saisir le bureau central de tarification, qui impose à l'une des entreprises d'assurance concernées, que choisit
-l'assuré, de le garantir contre les effets des catastrophes naturelles.
+Lorsqu'un assuré s'est vu refuser par une entreprise d'assurance l'application des dispositions du présent chapitre, il peut
+saisir le bureau central de tarification, qui impose à l'entreprise d'assurance concernée de le garantir contre les effets
+des catastrophes naturelles. Lorsque le risque présente une importance ou des caractéristiques particulières, le bureau
+central de tarification peut demander à l'assuré de lui présenter, dans les mêmes conditions, un ou plusieurs autres
+assureurs afin de répartir le risque entre eux. 
 
 Toute entreprise d'assurance ayant maintenu son refus de garantir un assuré dans les conditions fixées par le bureau central
 de tarification est considérée comme ne fonctionnant plus conformément à la réglementation en vigueur et encourt le retrait
-de l'agrément administratif prévu aux articles L. 321-1 ou L. 321-7 à L. 321-9.
+de l'agrément administratif prévu aux articles L. 321-1 ou L. 321-7 à L. 321-9. 
 
 Est nulle toute clause des traités de réassurance tendant à exclure le risque de catastrophe naturelle de la garantie de
-réassurance en raison des conditions d'assurance fixées par le bureau central de tarification.
+réassurance en raison des conditions d'assurance fixées par le bureau central de tarification. 
+
+Le préfet ou le président de la caisse centrale de réassurance peuvent saisir le bureau central de tarification lorsque les
+conditions dans lesquelles un bien ou une activité bénéficie de la garantie prévue de l'article L. 125-1 leur paraissent
+injustifiées eu égard au comportement de l'assuré ou à l'absence de toute mesure de précaution de nature à réduire la
+vulnérabilité de ce bien ou de cette activité. Le bureau central de tarification fixe des abattements spéciaux dans les
+conditions prévues au cinquième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -2215,17 +2227,11 @@ réassurance en raison des conditions d'assurance fixées par le bureau central 
 
 	  - Décret n°76-666 1976-07-16
 
-	**Cite**:
-
-	  - Loi n°87-565 du 22 juillet 1987 - art. 40-1 (Ab)
-	  - Code des assurances - art. L125-1 (M)
-	  - Code des assurances - art. L125-2 (M)
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances L125-2, L125-1, L321-1, L321-7 à L321-9
-
 	**Modifié par**:
 
-	  - Loi n°95-101 du 2 février 1995 - art. 19 () JORF 3 février 1995
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 69 () JORF 31 juillet 2003
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 72 () JORF 31 juillet 2003
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 73 () JORF 31 juillet 2003
 
 	**Cité par**:
 
@@ -2238,6 +2244,14 @@ réassurance en raison des conditions d'assurance fixées par le bureau central 
 	  - Code des assurances - art. R250-1 (V)
 	  - Code des assurances - art. R250-2 (V)
 	  - Code des assurances - art. R250-3 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L125-1 (V)
+	  - Code des assurances - art. L125-2 (V)
+	  - Code des assurances - art. L321-1 (V)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code de l'environnement - art. L562-1 (V)
 
 	**Liens**:
 
@@ -2521,6 +2535,163 @@ fixées par l'article 226-13 du code pénal.
 	**Cite**:
 
 	  - Code pénal - art. 226-13 (V)
+
+
+#### Chapitre VIII : L'assurance des risques de catastrophes technologiques
+
+###### Article L128-1
+
+En cas de survenance d'un accident dans une installation relevant du titre Ier du livre V du code de l'environnement et
+endommageant un grand nombre de biens immobiliers, l'état de catastrophe technologique est constaté par une décision de
+l'autorité administrative qui précise les zones et la période de survenance des dommages auxquels sont applicables les
+dispositions du présent chapitre.
+
+Les mêmes dispositions sont applicables aux accidents liés au transport de matières dangereuses ou causés par les
+installations mentionnées à l'article 3-1 du code minier.
+
+Le présent chapitre ne s'applique pas aux accidents nucléaires définis par la convention sur la responsabilité civile dans le
+domaine de l'énergie nucléaire signée à Paris le 29 juillet 1960.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Cité par**:
+
+	  - Arrêté du 21 mars 2003 - art. 1 (V)
+	  - Arrêté du 1er août 2014 - art. Annexe (V)
+	  - Code de la construction et de l'habitation. - art. R31-10-3 (VD)
+	  - Code de la construction et de l'habitation. - art. R318-1 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25-1 (V)
+	  - Code des assurances - art. L128-2 (V)
+	  - Code des assurances - art. L421-16 (V)
+	  - Code des assurances - art. R128-3 (V)
+	  - Code des assurances - art. R128-4 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 17 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code minier 3-1
+
+
+###### Article L128-2
+
+Les contrats d'assurance souscrits par toute personne physique en dehors de son activité professionnelle et garantissant les
+dommages d'incendie ou tous autres dommages à des biens à usage d'habitation ou placés dans des locaux à usage d'habitation
+situés en France, ainsi que les dommages aux corps de véhicules terrestres à moteur, ouvrent droit à la garantie de l'assuré
+pour les dommages résultant des catastrophes technologiques affectant les biens faisant l'objet de ces contrats. 
+
+Cette garantie s'applique également aux contrats souscrits par ou pour le compte des syndicats de copropriété, et
+garantissant les dommages aux parties communes des immeubles d'habitation en copropriété, ainsi qu'aux contrats souscrits par
+les organismes visés à l'article L. 411-2 du code de la construction et de l'habitation et garantissant les dommages aux
+immeubles d'habitation dont ils ont la propriété. 
+
+Cette garantie couvre la réparation intégrale des dommages, dans la limite, pour les biens mobiliers, des valeurs déclarées
+ou des capitaux assurés au contrat. 
+
+Sauf stipulations plus favorables, les indemnisations résultant de cette garantie doivent être attribuées aux assurés dans un
+délai de trois mois à compter de la date de remise de l'état estimatif des biens endommagés ou des pertes subies ou de la
+date de publication, lorsque celle-ci est postérieure, de la décision administrative prévue à l'article L. 128-1.
+
+**Nota:**
+
+Loi 2003-699 2003-07-30 art. 81 III : Ces dispositions sont applicables aux contrats en cours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 17 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 81 (V)
+	  - Code de l'environnement - art. L125-5 (VD)
+	  - Code des assurances - art. L128-3 (V)
+	  - Code des assurances - art. L128-4 (V)
+	  - Code des assurances - art. L421-16 (V)
+	  - Code des assurances - art. R128-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L128-1 (V)
+	  - Code de la construction et de l'habitation. - art. L411-2 (V)
+
+
+###### Article L128-3
+
+L'entreprise d'assurance intervenant au titre de l'article L. 128-2 est subrogée dans les droits des assurés indemnisés à
+concurrence des sommes versées à ce titre. 
+
+Toute personne victime de dommages mentionnés aux articles L. 128-2 ou L. 421-16 établit avec son entreprise d'assurance ou
+le fonds de garantie un descriptif des dommages qu'elle a subis. Le montant des indemnités versées en application des
+articles précités est mentionné au descriptif. Lorsque le montant des indemnités qui sont ainsi versées à la victime est
+inférieur à des montants précisés par décret en Conseil d'Etat, celle-ci est présumée avoir subi les dommages mentionnés au
+descriptif et les indemnités sont présumées réparer lesdits dommages dans les conditions des articles précités, même s'il n'a
+pas été procédé à une expertise ou si une expertise a été réalisée par un expert choisi par l'assureur ou le fonds de
+garantie. Ces présomptions sont simples. En tout état de cause, le montant des indemnités versées à la victime lui reste
+acquis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 17 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. L128-2 (V)
+	  - Code des assurances - art. L421-6 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L421-16 (M)
+
+
+###### Article L128-4
+
+Dans les zones, telles que définies au I de l'article L. 515-16 du code de l'environnement, délimitées par un plan de
+prévention des risques technologiques approuvé dans les conditions prévues à l'article L. 515-22 du même code, l'obligation
+prévue au premier alinéa de l'article L. 128-2 du présent code ne s'impose pas aux entreprises d'assurance à l'égard des
+biens mentionnés au même article, à l'exception, toutefois, des biens existant antérieurement à la publication de ce plan.
+
+Cette obligation ne s'impose pas non plus aux entreprises d'assurance à l'égard des biens immobiliers construits en violation
+des règles administratives en vigueur lors de leur mise en place et tendant à prévenir les dommages causés par une
+catastrophe technologique.
+
+Les entreprises d'assurance ne peuvent toutefois se soustraire à cette obligation que lors de la conclusion initiale ou du
+renouvellement du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 68 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. L128-2 (V)
+	  - Code de l'environnement - art. L515-16 (V)
+	  - Code de l'environnement - art. L515-22 (V)
 
 
 ### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation
@@ -16910,6 +17081,100 @@ la République française.
 	**Anciens textes**:
 
 	  - Code des assurances - art. L420-2 (T)
+
+
+##### Section X : Dispositions spéciales aux catastrophes technologiques.
+
+###### Article L421-16
+
+Le fonds de garantie institué par l'article L. 421-1 est également chargé d'indemniser les dommages causés par une
+catastrophe technologique au sens de l'article L. 128-1.
+
+Toute personne dont l'habitation principale, sans être couverte par un contrat mentionné à l'article L. 128-2, a subi des
+dommages immobiliers causés par une catastrophe technologique est indemnisée de ces dommages par le fonds de garantie dans
+les conditions indiquées aux articles L. 128-2 et L. 128-3, dans la limite d'un plafond.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 18 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. L128-1 (V)
+	  - Code des assurances - art. L128-2 (V)
+	  - Code des assurances - art. L128-3 (V)
+	  - Code des assurances - art. L421-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R421-78 (V)
+
+
+##### Section XI : Dispositions particulières applicables aux dommages immobiliers d'origine minière.
+
+###### Article L421-17
+
+I. - Toute personne propriétaire d'un immeuble ayant subi des dommages, survenus à compter du 1er septembre 1998, résultant
+d'une activité minière présente ou passée alors qu'il était occupé à titre d'habitation principale est indemnisée de ces
+dommages par le fonds de garantie. Toutefois, lorsque l'immeuble a été acquis par mutation et qu'une clause exonérant
+l'exploitant minier de sa responsabilité a été valablement insérée dans le contrat de mutation, seuls les dommages visés au
+deuxième alinéa du II de l'article 75-2 du code minier subis du fait d'un sinistre minier au sens dudit article, constaté par
+le représentant de l'Etat, sont indemnisés par le fonds.
+
+II. - L'indemnisation versée par le fonds assure la réparation intégrale des dommages visés au I, dans la limite d'un
+plafond. Lorsque l'ampleur des dégâts subis par l'immeuble rend impossible la réparation de ces désordres, la réparation
+intégrale doit permettre au propriétaire de l'immeuble sinistré de recouvrer dans les meilleurs délais la propriété d'un
+immeuble de consistance et de confort équivalents. Si ces dommages font l'objet d'une couverture d'assurance, l'indemnisation
+versée par le fonds vient en complément de celle qui est due à ce titre.
+
+III. - Toute personne victime de tels dommages établit avec le fonds de garantie un descriptif des dommages qu'elle a subis.
+Le montant des indemnités versées par le fonds est mentionné au descriptif. Lorsque le montant de ces indemnités est
+inférieur à un montant précisé par décret en Conseil d'Etat, la victime est présumée avoir subi les dommages mentionnés au
+descriptif et les indemnités versées par le fonds de garantie sont présumées réparer lesdits dommages dans les conditions du
+II, si une expertise a été réalisée par un expert choisi par le fonds de garantie. Ces présomptions sont simples. En tout
+état de cause, le montant des indemnités versées à la victime lui reste acquis.
+
+IV. - Sauf stipulations plus favorables, les indemnisations du fonds doivent être attribuées aux personnes victimes de tels
+dommages dans un délai de trois mois à compter de la date de remise du descriptif des dommages ou de la date de publication,
+lorsque celle-ci est postérieure, du constat de sinistre minier du représentant de l'Etat prévu à l'article 75-2 du code
+minier.
+
+V. - Le fonds de garantie est subrogé dans les droits des personnes indemnisées à concurrence des sommes qu'il leur a
+versées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 19 () JORF 31 juillet 2003
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2004-348 du 22 avril 2004
+	  - TXT_SOURCE: Décret n°2004-348 du 22 avril 2004 - art. 1 ()
+	  - TXT_SOURCE: Décret n°2004-348 du 22 avril 2004 - art. 2 ()
+
+	**Cite**:
+
+	  - Code minier 75-2
+
+	**Cité par**:
+
+	  - Code des assurances - art. R421-73 (V)
+	  - Code des assurances - art. R421-76 (V)
+	  - Code des assurances - art. R421-77 (V)
 
 
 #### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
