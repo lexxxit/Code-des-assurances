@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-10-01
+Version Consolidée au 1986-11-22
 
 # Partie législative
 
@@ -43309,6 +43309,41 @@ pour l'assureur, à deux mois.
 	**Créé par**:
 
 	  - Arrêté 1983-06-09 art. 2 JORF 14 juin 1983
+
+
+##### Section II : Etendue de l'obligation d'assurance.
+
+###### Article A211-1-3
+
+Les petites remorques ou semi-remorques mentionnées à l'article R. 211-4, troisième alinéa, sont celles dont le poids total
+autorisé en charge n'excède pas 750 kilogrammes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1986-11-13 art. 1, art. 2 JORF 22 novembre 1986
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-26 art. 1 JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 1993 - art. 1 (V)
+	  - Arrêté du 2 mai 2017 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*211-4 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*211-4 (M)
 
 
 ##### Section III : Franchises, exclusions de garantie et déchéances.
