@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-09-18
+Version Consolidée au 2003-11-02
 
 # Partie législative
 
@@ -292,6 +292,10 @@ obligations de l'assuré. Les documents remis au preneur d'assurance précisent 
 ci n'est pas la loi française, les modalités d'examen des réclamations qu'il peut formuler au sujet du contrat, y compris, le
 cas échéant, l'existence d'une instance chargée en particulier de cet examen, sans préjudice pour lui d'intenter une action
 en justice, ainsi que l'adresse du siège social et, le cas échéant, de la succursale qui se propose d'accorder la couverture.
+Avant la conclusion d'un contrat comportant des garanties de responsabilité, l'assureur remet à l'assuré une fiche
+d'information, dont le modèle est fixé par arrêté, décrivant le fonctionnement dans le temps des garanties déclenchées par le
+fait dommageable, le fonctionnement dans le temps des garanties déclenchées par la réclamation, ainsi que les conséquences de
+la succession de contrats ayant des modes de déclenchement différents.
 
 Un décret en Conseil d'Etat définit les moyens de constater la remise effective des documents mentionnés à l'alinéa
 précédent. Il détermine, en outre, les dérogations justifiées par la nature du contrat ou les circonstances de sa
@@ -300,7 +304,7 @@ souscription.
 La proposition d'assurance n'engage ni l'assuré, ni l'assureur ; seule la police ou la note de couverture constate leur
 engagement réciproque.
 
-Est considérée comme acceptée la proposition faite, par lettre recommandée, de prolonger ou de modifier un contrat ou de
+Est considérée comme acceptée la proposition, faite par lettre recommandée, de prolonger ou de modifier un contrat ou de
 remettre en vigueur un contrat suspendu, si l'assureur ne refuse pas cette proposition dans les dix jours après qu'elle lui
 est parvenue.
 
@@ -312,13 +316,14 @@ Les dispositions de l'alinéa précédent ne sont pas applicables aux assurances
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - Loi n°2003-706 2003-08-01
 
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 35 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°2003-706 2003-08-01 art. 80 III, VII JORF 2 août 2003 en vigueur le 2 novembre 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 80 (V) JORF 2 août 2003 en vigueur le 2 novembre 2003
 
 	**Cité par**:
 
@@ -1994,6 +1999,64 @@ loi n° 57-1424 du 31 décembre 1957".
 	**Cité par**:
 
 	  - Code des assurances - art. L111-5 (Ab)
+
+
+###### Article L124-5
+
+La garantie est, selon le choix des parties, déclenchée soit par le fait dommageable, soit par la réclamation. Toutefois,
+lorsqu'elle couvre la responsabilité des personnes physiques en dehors de leur activité professionnelle, la garantie est
+déclenchée par le fait dommageable. Un décret en Conseil d'Etat peut également imposer l'un de ces modes de déclenchement
+pour d'autres garanties. 
+
+Le contrat doit, selon les cas, reproduire le texte du troisième ou du quatrième alinéa du présent article. 
+
+La garantie déclenchée par le fait dommageable couvre l'assuré contre les conséquences pécuniaires des sinistres, dès lors
+que le fait dommageable survient entre la prise d'effet initiale de la garantie et sa date de résiliation ou d'expiration,
+quelle que soit la date des autres éléments constitutifs du sinistre. 
+
+La garantie déclenchée par la réclamation couvre l'assuré contre les conséquences pécuniaires des sinistres, dès lors que le
+fait dommageable est antérieur à la date de résiliation ou d'expiration de la garantie, et que la première réclamation est
+adressée à l'assuré ou à son assureur entre la prise d'effet initiale de la garantie et l'expiration d'un délai subséquent à
+sa date de résiliation ou d'expiration mentionné par le contrat, quelle que soit la date des autres éléments constitutifs des
+sinistres. Toutefois, la garantie ne couvre les sinistres dont le fait dommageable a été connu de l'assuré postérieurement à
+la date de résiliation ou d'expiration que si, au moment où l'assuré a eu connaissance de ce fait dommageable, cette garantie
+n'a pas été resouscrite ou l'a été sur la base du déclenchement par le fait dommageable. L'assureur ne couvre pas l'assuré
+contre les conséquences pécuniaires des sinistres s'il établit que l'assuré avait connaissance du fait dommageable à la date
+de la souscription de la garantie. 
+
+Le délai subséquent des garanties déclenchées par la réclamation ne peut être inférieur à cinq ans. Le plafond de la garantie
+déclenchée pendant le délai subséquent ne peut être inférieur à celui de la garantie déclenchée pendant l'année précédant la
+date de la résiliation du contrat. Un délai plus long et un niveau plus élevé de garantie subséquente peuvent être fixés dans
+les conditions définies par décret. 
+
+Lorsqu'un même sinistre est susceptible de mettre en jeu les garanties apportées par plusieurs contrats successifs, la
+garantie déclenchée par le fait dommageable ayant pris effet postérieurement à la prise d'effet de la loi n° 2003-706 du 1er
+août 2003 de sécurité financière est appelée en priorité, sans qu'il soit fait application des quatrième et cinquième alinéas
+de l'article L. 121-4. 
+
+Les dispositions du présent article ne s'appliquent pas aux garanties d'assurance pour lesquelles la loi dispose d'autres
+conditions d'application de la garantie dans le temps.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2003-706 2003-08-01 art. 80 II, VII JORF 2 août 2003 en vigueur le 2 novembre 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 80 (V) JORF 2 août 2003 en vigueur le 2 novembre 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. L121-4 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*124-4 (V)
+	  - Code des assurances - art. R124-2 (V)
+	  - Code des assurances - art. R124-3 (V)
 
 
 #### Chapitre V : L'assurance des risques de catastrophes naturelles.
@@ -8653,51 +8716,45 @@ des sanctions disciplinaires. "
 ###### Article L251-2
 
 Constitue un sinistre, pour les risques mentionnés à l'article L. 1142-2 du code de la santé publique, tout dommage ou
-ensemble de dommages causés à des tiers, engageant la responsabilité de l'assuré, résultant d'un fait générateur ou d'un
-ensemble de faits générateurs ayant la même cause technique, imputable aux activités de l'assuré garanties par le contrat, et
-ayant donné lieu à une ou plusieurs réclamations.
+ensemble de dommages causés à des tiers, engageant la responsabilité de l'assuré, résultant d'un fait dommageable ou d'un
+ensemble de faits dommageables ayant la même cause technique, imputable aux activités de l'assuré garanties par le contrat,
+et ayant donné lieu à une ou plusieurs réclamations. 
 
 Constitue une réclamation toute demande en réparation amiable ou contentieuse formée par la victime d'un dommage ou ses
-ayants droit, et adressée à l'assuré ou à son assureur.
+ayants droit, et adressée à l'assuré ou à son assureur. 
 
 Tout contrat d'assurance conclu en application de l'article L. 1142-2 du même code garantit l'assuré contre les conséquences
 pécuniaires des sinistres pour lesquels la première réclamation est formée pendant la période de validité du contrat, quelle
-que soit la date des autres éléments constitutifs du sinistre, dès lors que le fait générateur est survenu dans le cadre des
-activités de l'assuré garanties au moment de la première réclamation.
+que soit la date des autres éléments constitutifs du sinistre, dès lors que le fait dommageable est survenu dans le cadre des
+activités de l'assuré garanties au moment de la première réclamation. 
 
 Le contrat d'assurance garantit également les sinistres dont la première réclamation est formulée pendant un délai fixé par
-le contrat, à partir de la date d'expiration ou de résiliation de tout ou partie des garanties, si ces sinistres sont
-imputables aux activités garanties à cette date, et s'ils résultent d'un fait générateur survenu pendant la période de
-validité du contrat. Ce délai ne peut être inférieur à cinq ans.
+le contrat, à partir de la date d'expiration ou de résiliation de tout ou partie des garanties, dès lors que le fait
+dommageable est survenu pendant la période de validité du contrat et dans le cadre des activités garanties à la date de
+résiliation ou d'expiration des garanties, quelle que soit la date des autres éléments constitutifs du sinistre. Ce délai ne
+peut être inférieur à cinq ans. 
 
 Le dernier contrat conclu, avant sa cessation d'activité professionnelle ou son décès, par un professionnel de santé
 mentionné à la quatrième partie du code de la santé publique exerçant à titre libéral, garantit également les sinistres pour
 lesquels la première réclamation est formulée pendant un délai fixé par le contrat, à partir de la date de résiliation ou
-d'expiration de tout ou partie des garanties, dès lors que le fait générateur est survenu pendant la période de validité du
-contrat ou antérieurement à cette période dans le cadre des activités de l'assuré garanties au moment de la première
-réclamation. Ce délai ne peut être inférieur à dix ans. Cette garantie ne couvre pas les sinistres dont la première
-réclamation est postérieure à une éventuelle reprise d'activité. Le contrat ne peut prévoir pour cette garantie un plafond
-inférieur à celui de l'année précédant la fin du contrat.
+d'expiration de tout ou partie des garanties, dès lors que le fait dommageable est survenu pendant la période de validité du
+contrat ou antérieurement à cette période dans le cadre des activités de l'assuré garanties à la date de résiliation ou
+d'expiration des garanties, quelle que soit la date des autres éléments constitutifs du sinistre. Ce délai ne peut être
+inférieur à dix ans. Cette garantie ne couvre pas les sinistres dont la première réclamation est postérieure à une éventuelle
+reprise d'activité. Le contrat ne peut prévoir pour cette garantie un plafond inférieur à celui de l'année précédant la fin
+du contrat. 
 
-Le contrat ne garantit pas les sinistres dont le fait générateur était connu de l'assuré à la date de la souscription.
+Le contrat ne garantit pas les sinistres dont le fait dommageable était connu de l'assuré à la date de la souscription. 
 
 Lorsqu'un même sinistre est susceptible de mettre en jeu la garantie apportée par plusieurs contrats successifs, il est
 couvert en priorité par le contrat en vigueur au moment de la première réclamation, sans qu'il soit fait application des
-dispositions des troisième et quatrième alinéas de l'article L. 121-4.
+dispositions des quatrième et cinquième alinéas de l'article L. 121-4.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-1577 2002-12-30 art. 5 (date d'effet - modalités d'application)
-
-	**Créé par**:
-
-	  - Loi n°2002-1577 du 30 décembre 2002 - art. 4 () JORF 31 décembre 2002
 
 	**Cité par**:
 
@@ -8709,10 +8766,15 @@ dispositions des troisième et quatrième alinéas de l'article L. 121-4.
 	  - Code de la santé publique - art. L1142-21-1 (Ab)
 	  - Code des assurances - art. L426-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 2003-08-01 art. 80 V, VII JORF 2 août 2003 en vigueur le 2 novembre 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 80 (V) JORF 2 août 2003 en vigueur le 2 novembre 2003
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L1142-2 (M)
-	  - Code des assurances - art. L121-4 (M)
+	  - Code de la santé publique - art. L1142-2 (V)
+	  - Code des assurances - art. L121-4 (V)
 
 
 #### Chapitre II : L'obligation d'assurer. Le bureau central de tarification.
