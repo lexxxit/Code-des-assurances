@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-07-17
+Version Consolidée au 1992-07-29
 
 # Partie législative
 
@@ -2282,51 +2282,6 @@ prévues à l'article 378 du code pénal.
 	**Cite**:
 
 	  - Code pénal 378
-
-
-### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation.
-
-#### Chapitre II : Les assurances sur la vie
-
-##### Section III : Participation des assurés aux bénéfices techniques et financiers.
-
-###### Article L132-29
-
-Les entreprises d'assurance sur la vie ou de capitalisation doivent faire participer les assurés aux bénéfices techniques et
-financiers qu'elles réalisent, dans les conditions fixées par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
-
-	**Modifié par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 22 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 5 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Transféré par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 5 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cité par**:
-
-	  - Code des assurances - art. L324-7 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L331-3 (V)
 
 
 ### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation
@@ -22948,7 +22903,9 @@ intérêts et le remboursement de cet emprunt. Cette mention doit figurer égale
 d'emprunt.
 
 Il est porté chaque année dans les charges de l'entreprise une somme constante destinée au paiement des intérêts et au
-remboursement des emprunts ou à la constitution de la réserve pour l'amortissement des emprunts.
+remboursement des emprunts ou à la constitution de la réserve pour l'amortissement des emprunts. Cette obligation ne
+s'applique pas aux titres et emprunts subordonnés, pour autant qu'ils entrent dans la constitution de la marge de solvabilité
+en application des articles R. 334-3 et R. 334-11 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -22956,10 +22913,16 @@ remboursement des emprunts ou à la constitution de la réserve pour l'amortisse
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°92-716 du 23 juillet 1992 - art. 3 () JORF 29 juillet 1992
+
 	**Cite**:
 
 	  - Code des assurances - art. L327-2 (M)
-	  - Code des assurances L327-2, R322-5
+	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R*334-3 (M)
+	  - Code des assurances R322-5, L327-2, R334-3, R334-11
 
 	**Liens**:
 
@@ -22968,10 +22931,6 @@ remboursement des emprunts ou à la constitution de la réserve pour l'amortisse
 	**Cité par**:
 
 	  - Code des assurances - art. R328-1 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 5
 
 
 ###### Article R*322-11
@@ -24593,7 +24552,8 @@ Il est porté chaque année dans les charges de l'entreprise une somme constante
 remboursement des emprunts ou à la constitution de la réserve pour amortissement des emprunts. Sur autorisation de la
 commission de contôle des assurances, il peut, pendant les cinq années suivant la date d'émission de l'emprunt, être dérogé à
 cette obligation. Celle-ci ne s'applique pas aux emprunts contractés pour la constitution et, éventuellement, l'alimentation
-du fonds social complémentaire.
+du fonds social complémentaire. Ni aux titres et emprunts subordonnés, pour autant qu'ils entrent dans la constitution de la
+marge de solvabilité en application des articles R. 334-3 et R. 334-11 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -24603,8 +24563,11 @@ du fonds social complémentaire.
 
 	**Modifié par**:
 
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 17 () JORF 15 octobre 1991
+	  - Décret n°92-716 du 23 juillet 1992 - art. 3 () JORF 29 juillet 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-248 du 14 mars 1997 - art. 1 () JORF 20 mars 1997
 
 	**Cité par**:
 
@@ -24622,6 +24585,8 @@ du fonds social complémentaire.
 	  - Code des assurances - art. R*322-47 (M)
 	  - Code des assurances - art. R*322-63 (M)
 	  - Code des assurances - art. R*322-65 (M)
+	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R*334-3 (M)
 
 
 ###### Article R322-75
@@ -30852,6 +30817,14 @@ autorités de contrôle des Etats membres de la Communauté économique europée
 values pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'éléments de passif, dans la mesure
 où de telles plus-values n'ont pas un caractère exceptionnel.
 
+8. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés ; ces titres et emprunts
+doivent répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du ministre chargé de
+l'économie et des finances ; la prise en compte de ces fonds est admise jusqu'à concurrence de 50 p. 100 de la marge de
+solvabilité prévue au présent article ; toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou
+emprunts à durée déterminée n'est admise qu'à concurrence de 25 p. 100 de cette marge. Tout remboursement effectué
+irrégulièrement peut, conformément aux dispositions de l'article L. 310-18 du présent code, donner lieu à application de
+sanctions par la commission de contrôle des assurances.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -30864,7 +30837,7 @@ où de telles plus-values n'ont pas un caractère exceptionnel.
 
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
+	  - Décret n°92-716 du 23 juillet 1992 - art. 1 () JORF 29 juillet 1992
 
 	**Cité par**:
 
@@ -30891,6 +30864,7 @@ où de telles plus-values n'ont pas un caractère exceptionnel.
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. R*334-1 (M)
 	  - Code des assurances - art. R*334-5 (M)
 
@@ -31288,6 +31262,14 @@ b) avec l'accord des autorités de contrôle des Etats membres de la Communauté
 son activité, les plus-values pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'éléments de
 passif autres que les provisions mathématiques, dans la mesure où de telles plus-values n'ont pas un caractère exceptionnel.
 
+6. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés ; ces titres et emprunts
+doivent répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du ministre chargé de
+l'économie et des finances ; la prise en compte de ces fonds est admise jusqu'à concurrence de 50 p. 100 de la marge de
+solvabilité prévue au présent article ; toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou
+emprunts à durée déterminée n'est admise qu'à concurrence de 25 p. 100 de cette marge. Tout remboursement effectué
+irrégulièrement peut, conformément aux dispositions de l'article L. 310-18 du présent code, donner lieu à application de
+sanctions par la commission de contrôle des assurances.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -31300,7 +31282,7 @@ passif autres que les provisions mathématiques, dans la mesure où de telles pl
 
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
+	  - Décret n°92-716 du 23 juillet 1992 - art. 2 () JORF 29 juillet 1992
 
 	**Cité par**:
 
@@ -31332,6 +31314,7 @@ passif autres que les provisions mathématiques, dans la mesure où de telles pl
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. R*334-1 (M)
 
 
@@ -31531,8 +31514,8 @@ forme tontinière et dont les encaissements sont inférieurs à 500.000 unités 
 600.000 unités de compte par tranches successives de 100.000 unités de compte, chaque fois que le montant des cotisations
 augmente de 500.000 unités de compte.
 
-A concurrence de ces seuils ou de la moitié du fonds si cette moitié est supérieure auxdits seuils, le fonds est constitué
-par des éléments mentionnés aux 1, 2, 3 et 4 de l'article R. 334-11.
+A concurrence de ces seuils ou de la moitié du fonds, si cette moitié est supérieure auxdits seuils, le fonds est constitué
+par les éléments mentionnés aux 1, 2, 3, 4 et 6 de l'article R. 334-11.
 
 **Liens relatifs à cet article**
 
@@ -31542,13 +31525,13 @@ par des éléments mentionnés aux 1, 2, 3 et 4 de l'article R. 334-11.
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°92-716 du 23 juillet 1992 - art. 4 () JORF 29 juillet 1992
 
 	**Cite**:
 
 	  - Code des assurances - art. R*334-11 (M)
 	  - Code des assurances - art. R*334-13 (M)
-	  - Code des assurances R321-1, R334-11, R334-13
+	  - Code des assurances R321-1, R334-13, R334-11
 
 	**Cité par**:
 
