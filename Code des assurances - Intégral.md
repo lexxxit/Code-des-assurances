@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-10-15
+Version Consolidée au 1992-11-20
 
 # Partie législative
 
@@ -357,18 +357,18 @@ l'établissement de l'assureur avec lequel le contrat pourrait être conclu.
 
 Les informations mentionnées à l'alinéa précédent doivent figurer sur tous documents remis au souscripteur.
 
-Le contrat ou la note de couverture doit indiquer l'adresse de l'établissement qui accorde la couverture ainsi que, le cas
-échéant, celle du siège social.
+Le contrat ou la note de couverture doit indiquer l'adresse de l'établissement qui accorde la couverture, le cas échéant
+celle du siège social, ainsi que le nom et l'adresse du représentant mentionné à l'article L. 351-6-1.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 3 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
 
 	**Cité par**:
 
@@ -380,6 +380,7 @@ Le contrat ou la note de couverture doit indiquer l'adresse de l'établissement 
 	**Cite**:
 
 	  - Code des assurances - art. L351-1 (M)
+	  - Code des assurances - art. L351-6-1 (V)
 
 
 #### Chapitre III : Obligations de l'assureur et de l'assuré.
@@ -6404,7 +6405,8 @@ L'assurance prévue à l'article L. 211-1 doit comporter une garantie de la resp
 territoires des Etats membres de la Communauté économique européenne ainsi qu'aux territoires des Etats suivants : Saint-
 Siège, Saint-Marin, Monaco, Autriche, Finlande, Norvège, Suède, Suisse, Liechtenstein. Cette garantie, lorsqu'elle est
 appelée à jouer hors du territoire français, est accordée par l'assureur dans les limites et conditions prévues par la
-législation nationale de l'Etat sur le territoire duquel s'est produit le sinistre.
+législation nationale de l'Etat sur le territoire duquel s'est produit le sinistre ou par celle de l'Etat où le véhicule a
+son stationnement habituel lorsque la couverture d'assurance y est plus favorable.
 
 Cette assurance doit également comporter une garantie de la responsabilité civile en cas de sinistre survenant au cours du
 trajet reliant directement deux territoires où le traité instituant la Communauté économique européenne est applicable,
@@ -6418,10 +6420,6 @@ L'Etat où le véhicule a son stationnement habituel est soit l'Etat d'immatricu
 d'immatriculation, L'Etat sur le territoire duquel est domiciliée la personne qui a la garde du véhicule.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°58-208 1958-02-27 art. 1, art. 1 bis
 
 	**Codifié par**:
 
@@ -6456,10 +6454,13 @@ d'immatriculation, L'Etat sur le territoire duquel est domiciliée la personne q
 	  - Code des assurances - art. R421-1 (V)
 	  - Code des assurances - art. R421-69 (V)
 
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+
 	**Cite**:
 
 	  - Code des assurances - art. L211-1 (M)
-	  - Traité *Rome* CEE 1957-03-25
 
 
 ###### Article L211-5
@@ -7084,9 +7085,10 @@ Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et Liech
 ###### Article L212-1
 
 Toute personne assujettie à l'obligation d'assurance qui, ayant sollicité la souscription d'un contrat auprès d'une
-entreprise d'assurance dont les statuts n'interdisent pas la prise en charge du risque en cause en raison de sa nature, se
-voit opposer un refus, peut saisir un bureau central de tarification dont les conditions de constitution et les règles de
-fonctionnement sont fixées par le décret en Conseil d'Etat prévu à l'article L. 211-1.
+entreprise d'assurance agréée dans les conditions prévues à l'article L. 321-1 ou couvrant en libre prestation de services
+les risques de responsabilité civile résultant de l'emploi de véhicules terrestres à moteur, se voit opposer un refus, peut
+saisir un bureau central de tarification dont les conditions de constitution et les règles de fonctionnement sont fixées par
+le décret en Conseil d'Etat prévu à l'article L. 211-1.
 
 Le bureau central de tarification a pour rôle exclusif de fixer le montant de la prime moyennant laquelle l'entreprise
 d'assurance intéressée est tenue de garantir le risque qui lui a été proposé. Il peut, dans les conditions fixées par le
@@ -7094,13 +7096,17 @@ décret en Conseil d'Etat susmentionné, déterminer le montant d'une franchise 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°58-208 du 27 février 1958 - art. 9, v. init.
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 1 XII *dispositions applicables à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
 
 	**Cité par**:
 
@@ -7117,10 +7123,7 @@ décret en Conseil d'Etat susmentionné, déterminer le montant d'une franchise 
 	**Cite**:
 
 	  - Code des assurances - art. L211-1 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. L214-2 (M)
+	  - Code des assurances - art. L321-1 (M)
 
 
 ###### Article L212-2
@@ -7145,31 +7148,36 @@ de la tarification adoptée par le bureau central de tarification.
 
 ###### Article L212-3
 
-Toute entreprise d'assurance qui maintient son refus de garantir un risque dont la prime a été fixée par le bureau central de
-tarification est considérée comme ne fonctionnant plus conformément à la réglementation en vigueur et encourt le retrait de
-l'agrément administratif prévu à l'article L. 321-1.
+Toute entreprise d'assurance qui couvre le risque de responsabilité civile résultant de l'emploi de véhicules terrestres à
+moteur qui maintient son refus de garantir le risque dont la prime a été fixée par le bureau central de tarification est
+considérée comme ne fonctionnant plus conformément à la réglementation en vigueur. Elle encourt, selon le cas, soit le
+retrait de l'agrément administratif prévu à l'article L. 321-1 ou de l'agrément de libre prestation de services visé à
+l'article L. 351-5, soit les sanctions administratives mentionnées aux articles L. 351-7 et L. 351-8.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°58-208 du 27 février 1958 - art. 9, v. init.
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 1 XII *dispositions applicables à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+
 	**Cité par**:
 
 	  - Code des assurances - art. L214-2 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. L214-2 (M)
-
 	**Cite**:
 
 	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L351-5 (M)
+	  - Code des assurances - art. L351-7 (M)
+	  - Code des assurances - art. L351-8 (M)
 
 
 #### Chapitre III : Contribution au profit de la sécurité sociale.
@@ -7306,75 +7314,6 @@ territoriale " est remplacée par la référence à la " collectivité départem
 	  - Code des assurances - art. L213-1 (M)
 	  - Code des assurances - art. L214-1 (M)
 	  - Code des assurances - art. L214-2 (M)
-
-
-#### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer
-
-##### Section I : Dispositions particulières aux départements d'outre-mer.
-
-###### Article L214-1
-
-Des décrets en Conseil d'Etat fixent la date d'entrée en vigueur, ainsi que les modalités d'application ou d'adaptation des
-chapitres Ier, et II aux départements d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°58-208 1958-02-27 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Code de la route. - art. L342-3 (V)
-	  - Code des assurances - art. L214-3 (Ab)
-	  - Code des assurances - art. L261-1 (V)
-
-
-##### Section II : Dispositions particulières aux territoires d'outre-mer.
-
-###### Article L214-2
-
-Le troisième alinéa de l'article L. 211-26 et les articles L. 212-1 à L. 212-3, sont applicables dans les territoires
-d'outre-mer et dans la collectivité territoriale de Mayotte.
-
-Les dispositions précitées entrent en vigueur dans le territoire de Wallis et Futuna le premier jour du trimestre civil
-suivant la publication de l'arrêté rendant exécutoire la délibération édictant une obligation d'assurance de la
-responsabilité civile en matière de circulation automobile.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - SPEC_APPLI: Code des assurances - art. L211-26 (M)
-	  - SPEC_APPLI: Code des assurances - art. L211-8 (T)
-	  - SPEC_APPLI: Code des assurances - art. L212-1 (M)
-	  - SPEC_APPLI: Code des assurances - art. L212-2 (V)
-	  - SPEC_APPLI: Code des assurances - art. L212-3 (M)
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-26 (M)
-	  - Code des assurances - art. L212-1 (M)
-	  - Code des assurances - art. L212-3 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. L214-3 (Ab)
 
 
 ### Titre II : L'assurance des engins de remontée mécanique
@@ -9481,9 +9420,9 @@ des actifs qui les représentent.
 
 ###### Article L321-1
 
-Les entreprises soumises au contrôle de l'Etat par l'article L. 310-1 ne peuvent commencer leurs opérations qu'après avoir
-obtenu un agrément administratif. Toutefois, en ce qui concerne les opérations d'acceptation en réassurance, cet agrément
-n'est pas exigé.
+I. - Les entreprises soumises au contrôle de l'Etat par l'article L. 310-1 ne peuvent commencer leurs opérations qu'après
+avoir obtenu un agrément administratif. Toutefois, en ce qui concerne les opérations d'acceptation en réassurance, cet
+agrément n'est pas exigé.
 
 L'agrément est accordé sur demande de l'entreprise, pour les opérations d'une ou plusieurs branches d'assurance. L'entreprise
 ne peut pratiquer que les opérations pour lesquelles elle est agréée.
@@ -9499,7 +9438,26 @@ des opérations définies aux 1°, 2°, 3°, 4°, 5° et 7° du même article.
 
 Aucun agrément ne peut être accordé à une entreprise tontinière pour des opérations autres que tontinières.
 
+II. - Le ministre chargé de l'économie et des finances informe la Commission des communautés européennes de toute décision
+d'agrément d'une entreprise contrôlée par une entreprise dont le siège social est établi dans un Etat non membre des
+communautés. Le contrôle s'entend au sens des articles 355-1 et 357-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+commerciales.
+
+Sur demande de l'autorité compétente des communautés européennes fondée sur ce qu'il a été constaté que les entreprises
+d'assurance ayant leur siège social dans un Etat membre des communautés n'ont pas accès au marché d'un Etat non membre des
+communautés ou n'y bénéficient pas du même traitement que les entreprises qui y ont leur siège, le ministre sursoit, pendant
+une durée de trois mois, à toute décision sur l'agrément d'une entreprise contrôlée par une entreprise ayant son siège dans
+ledit Etat. Le délai de trois mois peut être prorogé sur décision du Conseil des communautés.
+
+Les dispositions de l'alinéa qui précède ne s'appliquent pas à la création d'une entreprise d'assurance contrôlée par une
+entreprise d'assurance déjà établie sur le territoire d'un Etat membre des communautés européennes.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 355-1, art. 357-1
+	  - Code des assurances - art. L310-1 (M)
 
 	**Codifié par**:
 
@@ -9588,20 +9546,21 @@ Aucun agrément ne peut être accordé à une entreprise tontinière pour des op
 	  - Code monétaire et financier - art. L612-20 (VD)
 	  - Code rural et de la pêche maritime - art. R752-39 (VD)
 
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 55 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 1 XII *dispositions applicables à Mayotte*
 	  - TXT_SOURCE: Arrêté du 7 janvier 1994
 	  - TXT_SOURCE: Arrêté du 7 janvier 1994 - art. 1 (V)
 	  - TXT_ASSOCIE: Code des assurances - art. L328-15 (M)
 	  - TXT_SOURCE: Code des assurances - art. R*321-1 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L321-2 (M)
 
 
 ##### Section II : Agrément spécial.
@@ -9779,6 +9738,60 @@ Les modalités d'application du présent article seront précisées par décret 
 #### Chapitre II : Règles de constitution et de fonctionnement
 
 ##### Section I : Dispositions communes.
+
+###### Article L322-1
+
+Le ministre chargé de l'économie et des finances informe la Commission des communautés européennes de toute prise de
+participation susceptible de conférer le contrôle d'une entreprise mentionnée à l'article L. 310-1 à une entreprise dont le
+siège social est situé dans un Etat non membre des communautés européennes. Le contrôle s'entend au sens des articles 355-1
+et 357-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
+
+Sur demande de l'autorité compétente des communautés européennes, dans les circonstances mentionnées au deuxième alinéa du II
+de l'article L. 321-1, le ministre s'oppose, pendant une durée de trois mois, à toute prise de participation qui aurait les
+conséquences mentionnées à l'alinéa précédent. Le délai de trois mois peut être prorogé sur décision du Conseil des
+communautés.
+
+Les dispositions de l'alinéa qui précède ne s'appliquent pas aux prises de participation susceptibles de conférer le contrôle
+d'une entreprise d'assurance mentionnée à l'article L. 310-1 à une entreprise déjà établie sur le territoire d'un Etat membre
+des communautés européennes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 355-1, art. 357-1
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L321-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 1 XII *dispositions applicables à Mayotte*
+	  - TXT_ASSOCIE: Code des assurances - art. L328-15 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*322-103 (V)
+	  - TXT_SOURCE: Code des assurances - art. R*322-67 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*322-68 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*322-69 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*322-7 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*322-70 (V)
+
+	**Créé par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L310-2 (T)
+	  - Code des assurances - art. L322-4-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L328-5 (V)
+	  - Code des assurances - art. R322-1-1 (V)
+
 
 ###### Article L322-2
 
@@ -12442,7 +12455,7 @@ Sont exclues de l'application du présent titre les opérations d'assurance aff�
 
 - aux accidents du travail et aux maladies professionnelles ;
 
-- à la responsabilité civile des véhicules terrestres à moteur à l'exception de la responsabilité du transporteur ;
+- à la responsabilité civile des véhicules terrestres à moteur, à l'exception de la responsabilité du transporteur ;
 
 - à la responsabilité civile des exploitants d'installations nucléaires ;
 
@@ -12457,13 +12470,9 @@ obligation d'assurance.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
 
 	**Cité par**:
 
@@ -12929,8 +12938,8 @@ fonds de garantie.
 
 ###### Article L421-2
 
-Le fonds de garantie est doté de la personnalité civile. Il groupe obligatoirement toutes les sociétés ou assureurs agréés
-pour couvrir les risques de responsabilité civile résultant de l'emploi des véhicules.
+Le fonds de garantie est doté de la personnalité civile. Il groupe obligatoirement toutes les entreprises d'assurance qui
+couvrent les risques de responsabilité civile résultant de l'emploi de véhicules terrestres à moteur.
 
 **Liens relatifs à cet article**
 
@@ -12940,14 +12949,14 @@ pour couvrir les risques de responsabilité civile résultant de l'emploi des v�
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 1 XII *dispositions applicables à Mayotte*
 	  - TXT_ASSOCIE: Code des assurances - art. L326-16 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. L326-17 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. L328-12 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 48 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
 
 	**Cité par**:
 
@@ -13430,6 +13439,34 @@ Un décret en Conseil d'Etat fixe les conditions d'adaptation de la présente se
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances R420-64 à R420-70
+
+
+###### Article L421-15
+
+Toute entreprise d'assurance couvrant, sur le territoire de la République française, les risques de responsabilité civile
+résultant de l'emploi de véhicules terrestres à moteur adhère au bureau national d'assurance compétent sur le territoire de
+la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. A362-1 (V)
+	  - Code des assurances - art. A362-2 (VD)
+	  - Code des assurances - art. L365-1 (V)
+	  - Code des assurances - art. L451-3 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L420-2 (T)
 
 
 #### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
@@ -22103,7 +22140,8 @@ présenter ses observations par écrit dans un délai de quinzaine.
 
 L'entreprise peut se pourvoir devant le Conseil d'Etat dans les deux mois de la notification du refus d'agrément, total ou
 partiel, ou, en l'absence de notification, à l'expiration d'un délai de six mois à compter du dépôt d'un dossier
-régulièrement constitué de demande d'agrément.
+régulièrement constitué de demande d'agrément. Ce délai de six mois est prorogé lorsque le ministre sursoit à une décision
+d'agrément en application des dispositions du II de l'article R. 321-1.
 
 Le ministre de l'économie et des finances peut appeler à se prononcer à nouveau, dans le délai d'un mois, la commission des
 entreprises d'assurance, dans l'hypothèse où celle-ci n'aurait pas émis un avis conforme à la proposition de refus
@@ -22116,17 +22154,19 @@ dispositions du deuxième alinéa du présent article, décider de refuser l'agr
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
-
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 12 () JORF 15 septembre 1990
+	  - Décret n°92-308 du 31 mars 1992 - art. 13 (V) JORF 1er avril 1992 en vigueur le 20 novembre 1992
+	  - Décret n°92-308 du 31 mars 1992 - art. 6 () JORF 1er avril 1992 en vigueur le 20 novembre 1992
 
 	**Cite**:
 
 	  - Code des assurances - art. L411-4 (M)
+	  - Code des assurances L411-4, R321-1
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R321-4 (2ème version)
 
 
 ###### Article R321-6
@@ -35833,6 +35873,11 @@ propose de diffuser auprès du service public ;
 
 c) Les bases tarifaires que l'entreprise envisage d'appliquer pour chaque catégorie d'opérations.
 
+3° La désignation du représentant pour la gestion des sinistres mentionné à l'article L. 351-6-1 ainsi que les déclarations
+d'adhésion au fonds de garantie mentionné à l'article L. 421-2 et au bureau central français, lorsque l'entreprise se propose
+de couvrir, sur le territoire de la République française, les risques de responsabilité civile résultant de l'emploi de
+véhicules terrestres à moteur autre que la responsabilité civile du transporteur.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -35841,16 +35886,19 @@ c) Les bases tarifaires que l'entreprise envisage d'appliquer pour chaque catég
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+	  - SPEC_APPLI: Décret n°92-308 1992-03-31 art. 12 *champ d'application*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-700 du 8 août 1990 - art. 1 () JORF 9 août 1990
+	  - Décret n°92-308 du 31 mars 1992 - art. 13 (V) JORF 1er avril 1992 en vigueur le 20 novembre 1992
+	  - Décret n°92-308 du 31 mars 1992 - art. 8 () JORF 1er avril 1992 en vigueur le 20 novembre 1992
 
 	**Cite**:
 
 	  - Code des assurances - art. L321-1-1 (M)
 	  - Code des assurances - art. L351-5 (M)
+	  - Code des assurances - art. L351-6-1 (V)
+	  - Code des assurances - art. L421-2 (M)
 	  - Code des assurances - art. R351-2 (M)
 
 	**Cité par**:
@@ -36549,17 +36597,18 @@ réception sous peine de l'amende prévue pour les contraventions de troisième 
 
 ###### Article R421-25
 
-Le fonds de garantie groupe obligatoirement toutes les entreprises, d'une part, agréées pour pratiquer les opérations
-d'assurance contre les risques de responsabilité civile résultant de l'emploi des véhicules terrestres à moteur mentionnés au
-10 de l'article R. 321-1, d'autre part, agréées pour pratiquer les opérations d'assurance mentionnées au 13 de l'article R.
-321-1 et pratiquant effectivement les opérations d'assurance chasse.
+Le fonds de garantie groupe obligatoirement toutes les entreprises, d'une part, pratiquant sur le territoire de la République
+française les opérations d'assurance contre les risques de responsabilité civile résultant de l'emploi des véhicules
+terrestres à moteur mentionnés au 10 de l'article R. 321-1, d'autre part, agréées pour pratiquer les opérations d'assurance
+mentionnées au 13 de l'article R. 321-1 et pratiquant effectivement les opérations d'assurance chasse.
 
 Il est administré par un conseil d'administration composé de quatorze membres :
 
 - un représentant des sociétés d'assurances mutuelles agricoles désigné par la caisse centrale des mutuelles agricoles ;
 
-- six représentants des entreprises d'assurance agréées pour pratiquer les opérations d'assurance contre les risques de
-responsabilité civile résultant de l'emploi de véhicules terrestres à moteur, désignés par ces entreprises ;
+- six représentants des entreprises d'assurance pratiquant sur le territoire de la République française les opérations
+d'assurance contre les risques de responsabilité civile résultant de l'emploi de véhicules terrestres à moteur, désignés par
+ces entreprises ;
 
 - un représentant des entreprises d'assurance agréées pour pratiquer les opérations d'assurance mentionnées au 13 de
 l'article R. 321-1 et pratiquant effectivement les opérations d'assurance chasse ;
@@ -36585,7 +36634,8 @@ recours pour le compte du fonds de garantie.
 
 	**Modifié par**:
 
-	  - Décret n°91-739 du 18 juillet 1991 - art. 47 (Ab) JORF 1er août 1991
+	  - Décret n°92-308 du 31 mars 1992 - art. 10 () JORF 1er avril 1992 en vigueur le 20 novembre 1992
+	  - Décret n°92-308 du 31 mars 1992 - art. 13 (V) JORF 1er avril 1992 en vigueur le 20 novembre 1992
 
 	**Liens**:
 
@@ -36844,7 +36894,8 @@ sont assises et recouvrées dans les conditions suivantes :
 
 1° La contribution des entreprises d'assurance est proportionnelle aux primes ou cotisations du dernier exercice, accessoires
 et rappels compris et annulations déduites, relative à l'assurance des véhicules terrestres à moteur et des remorques ou
-semi-remorques des véhicules. Elle est liquidée et recouvrée par le fonds de garantie.
+semi-remorques des véhicules lorsque le risque est situé sur le territoire de la République française. Elle est liquidée et
+recouvrée par le fonds de garantie.
 
 2° La contribution des responsables d'accidents causés par l'utilisation des véhicules définis au 1° ci-dessus, non
 bénéficiaires d'une assurance, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des
@@ -36878,18 +36929,10 @@ Un décret en Conseil d'Etat détermine les modalités d'assiette de la contribu
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
-
-	  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
-
-	**Transféré par**:
-
-	  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
 	**Modifié par**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-	  - Décret n°86-452 1986-03-16 art. 21 JORF 16 mars 1986
+	  - Décret n°92-308 du 31 mars 1992 - art. 11 () JORF 1er avril 1992 en vigueur le 20 novembre 1992
+	  - Décret n°92-308 du 31 mars 1992 - art. 13 (V) JORF 1er avril 1992 en vigueur le 20 novembre 1992
 
 	**Liens**:
 
