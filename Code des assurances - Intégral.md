@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1997-02-27
+Version Consolidée au 1997-03-16
 
 # Partie législative
 
@@ -41842,46 +41842,31 @@ vingt-cinq fois le montant de la franchise prévue par l'annexe II de l'article 
 
 ##### Section I : Valeur de référence au contrat.
 
-###### Article A131-1
-
-Lorsque le contractant ou le bénéficiaire choisit le règlement en espèces, la somme versée selon les dispositions
-contractuelles est égale à la contrevaleur en devises des unités de compte, sur la base de la valeur de rachat ou de
-réalisation de ces titres au lendemain de la présentation à l'assureur de la demande de la prestation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1992-09-11 art. 1 I, II JORF 12 septembre 1992
-
-	**Modifié par**:
-
-	  - Arrêté 1993-03-19 art. 1 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
-
-
 ###### Article A131-2
 
 La valeur visée à l'article R. 131-2 est obtenue en divisant l'actif net de la société immobilière ou foncière par le nombre
 d'actions ou de parts. L'actif net est celui qui ressort du dernier bilan après affectation du résultat et réévaluation des
 immeubles, selon la procédure définie par l'article R. 332-20 (2°).
 
+Toutefois, pour l'évaluation entre deux bilans comptables des capitaux ou de la rente garantis, il peut être indiqué dans le
+contrat que la valeur de l'unité de compte est déterminée, selon une périodicité définie contractuellement, en fonction de
+l'évolution depuis la clôture du dernier exercice de l'actif net ainsi que de la réévaluation des immeubles. La valeur de
+l'actif net doit faire l'objet d'une attestation de la part d'un commissaire aux comptes.
+
+La réévaluation doit être effectuée par immeuble, soit par une expertise effectuée par un expert accepté par la commission de
+contrôle des assurances, soit par actualisation de la dernière estimation, certifiée par un expert accepté par la commission
+de contrôle des assurances par application d'une règle basée sur des indices représentatifs du marché immobilier et inscrite
+au règlement général du contrat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
-
-	  - Arrêté 1992-09-11 art. 1 I, III JORF 12 septembre 1992
-
 	**Modifié par**:
 
-	  - Arrêté 1993-03-19 art. 1 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
+	  - Arrêté 1997-03-13 art. 2 JORF 16 mars 1997
 
 	**Cité par**:
 
@@ -41890,6 +41875,87 @@ immeubles, selon la procédure définie par l'article R. 332-20 (2°).
 	**Cite**:
 
 	  - Code des assurances - art. R*332-20 (M)
+	  - Code des assurances - art. R131-2 (V)
+
+
+###### Article A131-4
+
+La substitution d'une unité de compte au profit d'unités de compte de nature comparable prévue à l'article R. 131-4 est
+autorisée par la commission de contrôle des assurances au vu du rapport d'un expert mandaté par l'assureur. L'expert certifie
+la comparabilité des sociétés, au regard des critères de destination - habitation, bureaux, centres commerciaux - et de
+localisation des actifs de celles-ci.
+
+Toutefois, la commission peut également demander l'établissement d'une expertise selon les modalités fixées à l'article R.
+332-23.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1997-03-13 art. 4 JORF 16 mars 1997
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-23 (M)
+	  - Code des assurances - art. R131-4 (M)
+
+
+##### Section I : Valeur de référence du contrat.
+
+###### Article A131-1
+
+Lorsque le contractant ou le bénéficiaire choisit le règlement en espèces, la somme versée selon les dispositions
+contractuelles est égale à la contrevaleur en devises des unités de compte, sur la base de la valeur de rachat ou de
+réalisation de ces titres à la date prévue à cet effet par le contrat.
+
+Cette date ne peut être postérieure de plus de trente jours à la date de présentation à l'assureur de la demande de
+prestation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1997-03-13 art. 1 JORF 16 mars 1997
+
+
+###### Article A131-3
+
+Lorsque l'unité de compte servant de référence à la valorisation du capital ou de la rente garantie par le contrat est une
+part de SCPI soumise au contrôle de la Commission des opérations de bourse, la valeur de cette société visée à l'article R.
+131-2 doit être la valeur de réalisation de cette société au sens de l'article 11 de la loi n° 70-1300 du 31 décembre 1970
+modifiée.
+
+**Nota:**
+
+Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° : 
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ; 
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1997-03-13 art. 3 JORF 16 mars 1997
+
+	**Cite**:
+
+	  - Loi n°70-1300 du 31 décembre 1970 - art. 11 (Ab)
 	  - Code des assurances - art. R131-2 (V)
 
 
