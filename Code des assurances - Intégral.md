@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1995-10-25
+Version Consolidée au 1996-04-13
 
 # Partie législative
 
@@ -11211,22 +11211,43 @@ d'établissement.
 
 ###### Article L322-2-1
 
-Les sociétés d'assurance mutuelles ainsi que les caisses d'assurances et de réassurances mutuelles agricoles soumises à
-l'agrément administratif peuvent émettre des titres participatifs dans les conditions prévues par les articles 283-6 et 283-7
-de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
+I. - Les sociétés d'assurance mutuelles et les caisses d'assurance et de réassurance  mutuelles agricoles agréées, qui ont
+établi des comptes régulièrement approuvés  au cours des deux derniers exercices, peuvent émettre des obligations, des
+titres participatifs et des titres subordonnés remboursables dans les conditions  prévues par le chapitre V du titre Ier
+(articles 263, 266 et 339-7, sections II  ter et III) de la loi no 66-537 du 24 juillet 1966 sur les sociétés  commerciales,
+et sous les sanctions prévues par l'article 441 et, pour les  obligations, par les articles 470, 471 (1o et 3o), 472, 473,
+474 (1o à 5o), 475  à 478 de ladite loi. L'émission peut être effectuée par appel public à l'épargne  et est alors soumise au
+contrôle de la Commission des opérations de bourse dans  les conditions prévues par l'ordonnance no 67-833 du 28 septembre
+1967.
 
-Pour l'application de ces dispositions, les mots : "assemblée d'actionnaires ou de porteurs de parts" désignent l'"assemblée
-générale des sociétaires" et le mot : "actionnaires" désigne "sociétaires".
+Pour l'application de la loi n° 66-537 du 24 juillet 1966 précitée, le mot "actionnaires" désigne les "sociétaires". Les
+sanctions relatives aux conseil d'administration, directoire ou gérant de société prévues par les dispositions mentionnées à
+l'alinéa précédent s'appliquent aux personnes ou organes qui sont chargés de l'administration conformément aux statuts.
 
-En ce qui concerne leur rémunération, la partie variable de ces titres participatifs ne peut être calculée par référence à un
-critère représentatif du volume d'activité de la société émettrice.
+Préalablement à l'émission d'obligations, de titres participatifs ou de titres subordonnés remboursables, toute société ou
+caisse concernée doit être inscrite au registre du commerce et des sociétés.
+
+II. - Nonobstant l'article 287 de la loi précitée, l'assemblée générale des sociétaires est seule habilitée à fixer les
+caractéristiques essentielles de l'émission d'obligations, de titres participatifs ou de titres subordonnés remboursables.
+Elle peut toutefois déléguer au conseil d'administration, dans le cadre ainsi défini, les pouvoirs nécessaires pour en
+arrêter les modalités pratiques. Il est rendu compte par le conseil d'administration à la plus prochaine assemblée générale
+de l'exercice de cette délégation. Les contrats d'émission ne peuvent en aucun cas avoir pour but de privilégier une
+catégorie de sociétaires, des personnes qui sont liées à la société par un contrat de travail, des dirigeants de droit ou de
+fait de celle-ci ou toute autre personne. Les contrats conclus en violation de cette disposition sont frappés de nullité
+absolue.
+
+III. - En ce qui concerne la rémunération des titres participatifs, la partie variable ne peut être calculée par référence à
+un critère représentatif du volume d'activité de la société émettrice.
+
+IV. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment le contrôle exercé par la
+Commission de contrôle des assurances sur ces émissions.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°66-537 1966-07-24 art. 283-6, art. 283-7
-	  - Code des assurances - art. L310-1 (M)
+	  - Loi n°66-537 1966-07-24 art. 263, art. 266, art. 287, art. 339-7, art. 441, art. 470, art. 471, art. 472, art. 473, art. 474, art. 475 à 478
+	  - Ordonnance 67-833 1967-09-28
 
 	**Codifié par**:
 
@@ -11234,7 +11255,7 @@ critère représentatif du volume d'activité de la société émettrice.
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 54 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°96-314 du 12 avril 1996 - art. 8 () JORF 13 avril 1996
 
 	**Cité par**:
 
@@ -11847,6 +11868,26 @@ cotisations.
 
 	  - Loi n°89-1014 du 31 décembre 1989 - art. 26 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 	  - Loi n°89-1014 du 31 décembre 1989 - art. 28 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+
+###### Article L322-26-2-2
+
+Les dispositions des articles 244, 246 (deuxième alinéa) et 247 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+commerciales sont applicables aux sociétés d'assurance mutuelles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 244, art. 246, art. 247
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°96-314 du 12 avril 1996 - art. 8 () JORF 13 avril 1996
 
 
 ###### Article L322-26-3
@@ -16503,37 +16544,6 @@ fixées par décret en Conseil d'Etat.
 
 	  - Code des assurances - art. L431-3 (M)
 	  - Code des assurances - art. R*431-35 (M)
-
-
-##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.
-
-###### Article L431-13
-
-La caisse centrale de réassurance assure la gestion comptable et financière du fonds institué par l'article 2 de la loi n°
-74-1118 du 27 décembre 1974 relative à la revalorisation de certaines rentes allouées en réparation du préjudice causé par un
-véhicule terrestre à moteur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°74-1118 du 27 décembre 1974 - art. 2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
-
-	**Abrogé par**:
-
-	  - Loi n°96-314 du 12 avril 1996 - art. 85 () JORF 13 avril 1996
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*431-39 (Ab)
 
 
 ##### Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction.
