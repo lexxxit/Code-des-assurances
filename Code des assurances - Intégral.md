@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-06-20
+Version Consolidée au 1985-07-13
 
 # Partie législative
 
@@ -6994,6 +6994,78 @@ assurés, bénéficiaires et porteurs de contrats.
 	**Abrogé par**:
 
 	  - Loi n°92-665 du 16 juillet 1992 - art. 2 () JORF 17 juillet 1992
+
+
+##### Section IV : Société d'assurance à forme mutuelle.
+
+###### Article L322-26-1
+
+En cas de dissolution non motivée par un retrait d'agrément d'une société d'assurance à forme mutuelle, l'excédent de l'actif
+net sur le passif est dévolu, par décision de l'assemblée générale, soit à d'autres sociétés d'assurance à forme mutuelle ou
+sociétés mutuelles d'assurance ou union de sociétés mutuelles d'assurance, soit à des associations reconnues d'utilité
+publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°85-703 du 12 juillet 1985 - art. 15 () JORF 13 juillet 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 8 *modalités d'application des privatisations*
+	  - SPEC_APPLI: Code des assurances - art. L322-26-2 (M)
+
+	**Cité par**:
+
+	  - Décret n°2014-12 du 8 janvier 2014 (V)
+	  - Code des assurances - art. L321-10 (V)
+	  - Code des assurances - art. L321-10-1 (V)
+	  - Code des assurances - art. L321-2-1 (T)
+	  - Code des assurances - art. L322-26-2 (M)
+	  - Code des assurances - art. L322-26-7 (V)
+	  - Code des assurances - art. R322-42 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L322-26-5 (V)
+
+
+##### Section V : Sociétés mutuelles d'assurance et leurs unions.
+
+###### Article L322-26-2
+
+Les dispositions de l'article L. 322-26-1 sont applicables en cas de dissolution non motivée par un retrait d'agrément d'une
+société mutuelle d'assurance ou d'une union de sociétés mutuelles d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°85-703 du 12 juillet 1985 - art. 16 () JORF 13 juillet 1985
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-26-1 (T)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des assurances - art. L322-26-1 (T)
+	  - SPEC_APPLI: Code des assurances - art. L322-26-5 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-53 (V)
+	  - Code des assurances - art. R322-54 (V)
+	  - Code des assurances - art. R322-55-2 (VD)
 
 
 ##### Section VI : Sociétés ou caisses d'assurances et de réassurances mutuelles agricoles
