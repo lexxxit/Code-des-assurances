@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1978-04-01
+Version Consolidée au 1978-06-14
 
 # Partie législative
 
@@ -39625,8 +39625,9 @@ Pour l'application de l'article L. 132-21, le tarif d'inventaire comprend des ch
 
 ###### Article A335-3
 
-Les tarifs des contrats de rente viagère immédiate souscrits à compter du 8 novembre 1974 par des personnes âgées d'au moins
-soixante-cinq ans peuvent être établis d'après un taux d'intérêt supérieur au taux défini à l'article A. 335-1.
+Les tarifs des contrats de rente viagère immédiate souscrits par des personnes âgées d'au moins soixante-cinq ans, ainsi que
+des contrats à prime unique d'une durée maximale de dix ans, peuvent être établis d'après un taux d'intérêt supérieur au taux
+défini à l'article A. 335-1.
 
 En ce cas et pour chacun des tarifs, le visa est subordonné aux conditions suivantes :
 
@@ -39636,13 +39637,13 @@ En ce cas et pour chacun des tarifs, le visa est subordonné aux conditions suiv
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté 1974-10-31 art. 4
-
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 15 JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Cité par**:
 
