@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1980-05-25
+Version Consolidée au 1980-07-11
 
 # Partie législative
 
@@ -43270,6 +43270,106 @@ que de l'autorisation donnée par le siège social au mandataire général de pr
 ## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation
 
 ### Titre Ier : Présentation des opérations.
+
+#### Chapitre III : Conditions de capacité professionnelle.
+
+###### Article A513-5
+
+Chaque affaire soumise à l'examen de la commission fait l'objet d'un rapport présenté par un commissaire contrôleur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
+
+	**Abrogé par**:
+
+	  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
+
+	**Cité par**:
+
+	  - Arrêté du 31 mars 1992 - art. 1 (V)
+
+
+###### Article A513-6
+
+Si elle le juge utile, la commission peut autoriser un représentant de l'entreprise ou du centre de formation intéressé à
+présenter verbalement ses observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
+
+	**Abrogé par**:
+
+	  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
+
+	**Cité par**:
+
+	  - Arrêté du 31 mars 1992 - art. 1 (V)
+
+
+###### Article A513-7
+
+Les avis de la commission sont émis à la majorité des voix des membres présents. En cas de partage égal des voix, celle du
+président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
+
+	**Abrogé par**:
+
+	  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
+
+	**Cité par**:
+
+	  - Arrêté du 31 mars 1992 - art. 1 (V)
+
+
+###### Article A513-8
+
+Le secrétariat de chaque séance de la commission est assuré par un administrateur civil du ministère de l'économie, désigné
+par le directeur des assurances.
+
+Le secrétaire établit procès-verbal de la séance. Ce document est soumis à l'approbation des membres de la commission et
+conservé dans les archives de la direction des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
+
+	**Abrogé par**:
+
+	  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
+
+	**Cité par**:
+
+	  - Arrêté du 31 mars 1992 - art. 1 (V)
+
 
 #### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.
 
