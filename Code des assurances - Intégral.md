@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-08-29
+Version Consolidée au 2003-09-18
 
 # Partie législative
 
@@ -45847,8 +45847,9 @@ Les taux ci-dessus sont calculés sur les primes ou cotisations nettes de toutes
 ###### Article A125-3
 
 Dans les communes non dotées d'un plan de prévention des risques naturels prévisibles pour le risque concerné, l'arrêté
-interministériel portant constatation de l'état de catastrophe naturelle prévu à l'article L. 125-1 précise le nombre
-d'arrêtés relatifs au même risque pris depuis le 2 février 1995.
+interministériel portant constatation de l'état de catastrophe naturelle prévu à l'article L. 125-1 précise le nombre de
+constatations de l'état de catastrophe naturelle intervenues pour le même risque au cours des cinq années précédant la date
+de la nouvelle constatation.
 
 **Liens relatifs à cet article**
 
@@ -45856,19 +45857,18 @@ d'arrêtés relatifs au même risque pris depuis le 2 février 1995.
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-09-05 art. 2 JORF 12 septembre 2000
+	  - Arrêté 2003-09-10 art. 1 JORF 18 septembre 2003
 
 	**Liens**:
 
-	  - SPEC_APPLI: Arrêté 2000-09-05 art. 3 (modalités d'application - date d'effet)
 	  - TXT_SOURCE: Arrêté du 10 septembre 2003
 	  - TXT_SOURCE: Arrêté du 10 septembre 2003 - art. 1 ()
 
 	**Cite**:
 
-	  - Code des assurances - art. L125-1 (M)
+	  - Code des assurances - art. A125-1 (V)
 
 
 ###### Article Annexe I art. A125-1
