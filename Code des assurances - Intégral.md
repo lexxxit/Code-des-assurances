@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-01-01
+Version Consolidée au 1992-01-22
 
 # Partie législative
 
@@ -28403,13 +28403,23 @@ pour constituer la provision pour dépréciation des immobilisations et titres p
 
 ###### Article R332-19
 
-Les valeurs mobilières amortissables énumérées aux 1° et 2° de l'article R. 332-2, autres que les obligations indexées ou
-participantes, les parts de fonds communs de créance et les titres participatifs, sont évaluées à leur prix d'achat.
+Les valeurs amortissables énumérées aux 1°, 2° et 2° bis de l'article R. 332-2, autres que les obligations indexées, les
+parts de fonds communs de créance et les titres participatifs, sont inscrites à leur prix d'achat à la date d'acquisition.
 
-Lorsque le prix d'achat est supérieur à la valeur nette de remboursement, l'estimation est faite à cette valeur. Si cependant
-le cours de la bourse du jour de l'inventaire, évalué conformément au 2°, a, de l'article R. 332-20, est lui-même supérieur à
-la valeur nette de remboursement, l'estimation est faite à ce cours s'il est inférieur au prix d'achat, et au prix d'achat
-dans le cas contraire.
+Lorsque le prix d'achat de ces titres est supérieur à leur prix de remboursement, la différence est amortie sur la durée de
+vie résiduelle des titres.
+
+Lorsque le prix d'achat de ces titres est inférieur à leur prix de remboursement, la différence est portée en produits sur la
+durée de vie résiduelle des titres. L'entreprise peut décider de ne pas appliquer les dispositions du présent alinéa aux
+titres acquis avant le 1er janvier 1992. Le choix ainsi effectué par l'entreprise s'applique à l'ensemble des titres acquis
+avant cette date.
+
+Le prix d'achat et le prix de remboursement s'entendent hors intérêt couru.
+
+Lors de l'arrêté comptable, les moins-values latentes ressortant de la différence entre la valeur comptable, diminuée des
+amortissements et majorée des produits mentionnés aux deuxième et troisième alinéas du présent article, et la valeur de
+réalisation des titres correspondants évaluée conformément au 2°, a ou b de l'article R. 332-20, ne font pas l'objet d'une
+provision.
 
 **Liens relatifs à cet article**
 
@@ -28419,7 +28429,7 @@ dans le cas contraire.
 
 	**Modifié par**:
 
-	  - Décret n°90-981 du 5 novembre 1990 - art. 14 () JORF 6 novembre 1990
+	  - Décret n°91-1419 du 28 décembre 1991 - art. 1 () JORF 22 janvier 1992
 
 	**Cité par**:
 
@@ -28465,8 +28475,8 @@ ressort des travaux de construction et d'amélioration, à l'exclusion des trava
 
 c) Les prêts sont évalués d'après les actes qui en font foi ;
 
-d) Les nues-propriétés et les usufruits sont évalués suivant les règles déterminées par la commission de contrôle des
-assurances.
+d) Les nues propriétés et les usufruits sont évalués suivant les règles déterminées par arrêté du ministre chargé de
+l'économie et des finances.
 
 Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et les provisions pour dépréciation.
 
@@ -28501,8 +28511,7 @@ pour dépréciation égale à la différence entre ces deux valeurs.
 
 	**Modifié par**:
 
-	  - Décret n°90-981 du 5 novembre 1990 - art. 15 () JORF 6 novembre 1990
-	  - Décret n°90-981 du 5 novembre 1990 - art. 24 () JORF 6 novembre 1990
+	  - Décret n°91-1419 du 28 décembre 1991 - art. 3 () JORF 22 janvier 1992
 
 	**Cité par**:
 
@@ -29248,13 +29257,12 @@ française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques fr
 
 ###### Article R333-1
 
-En cas de vente de valeurs évaluées conformément à l'article R. 332-19 à l'exception des obligations dont la cotation
-comprend la fraction courue du coupon, des versements ou des prélèvements sont effectués sur la réserve de capitalisation
-prévue aux articles R. 331-3 et R. 331-6.
+En cas de vente de valeurs évaluées conformément à l'article R. 332-19, à l'exception des obligations à taux variable, des
+versements ou des prélèvements sont effectués sur la réserve de capitalisation prévue aux articles R. 331-3 et R. 331-6.
 
 Le montant de ces versements ou prélèvements, calculé dans les conditions fixées par arrêté du ministre chargé de l'économie
-et des finances doit être tel que le rendement actuarial des titres soit, après prélèvement ou versement, égal à celui qui en
-était attendu lors de l'acquisition de ces mêmes titres.
+et des finances, doit être tel que le rendement actuariel des titres soit, après prélèvement ou versement, égal à celui qui
+en était attendu lors de l'acquisition de ces mêmes titres.
 
 **Liens relatifs à cet article**
 
@@ -29264,7 +29272,7 @@ et des finances doit être tel que le rendement actuarial des titres soit, aprè
 
 	**Modifié par**:
 
-	  - Décret n°90-981 du 5 novembre 1990 - art. 17 () JORF 6 novembre 1990
+	  - Décret n°91-1419 du 28 décembre 1991 - art. 2 () JORF 22 janvier 1992
 
 	**Cité par**:
 
@@ -32235,197 +32243,279 @@ Les éléments constitutifs des coûts et résultats font l'objet d'états ou ta
 
 ##### Section II : Liste des comptes
 
-##### Classe 4.
+##### Classe 7.
 
 ###### Article R343-2
 
-42 Personnel.
+Comptes de produits par nature.
 
-420 Avances et acomptes au personnel.
+70 Primes ou cotisations en France.
 
-4200 Personnel de direction.
+701 Primes (affaires directes vie).
 
-4201 Autre personnel administratif.
+7010 Primes périodiques émises.
 
-4202 Personnel de production.
+7011 Primes uniques émises.
 
-425 Rémunérations dues au personnel.
+7013 Coûts de polices et accessoires.
 
-4250 Personnel de direction.
+7019 Annulations.
 
-4251 Autre personnel administratif.
+70190 Sur émissions de l'exercice.
 
-4252 Personnel de production.
+70191 Sur émissions des exercices antérieurs.
 
-426 Dépôts du personnel.
+702 Primes (affaires directes dommages, RC et risques divers).      7022 Primes émises.
 
-427 Oppositions.
+70220 Sur exercice courant.
 
-428 Comité d'entreprise.
+70221 Sur exercices antérieurs.
 
-429 Participation des salariés aux fruits de l'expansion.
+7023 Coûts de polices et accessoires.
 
-43 Etat.
+70230 Sur exercice courant.
 
-430 Participation de l'Etat (dommages de guerre).
+70231 Sur exercices antérieurs.
 
-432 Avances sur prêts ou subventions.
+7024 Variation de la prévision de primes acquises et non émises.
 
-433 Parts bénéficiaires amorties.
+7025 Rappels de cotisations.
 
-435 Taxes sur les contrats d'assurance ou de capitalisation.
+7026 Autres rappels de primes.
 
-436 Autres impôts et taxes.
+7029 Annulations.
 
-438 Opérations particulières avec l'Etat.
+70290 Sur émissions de l'exercice.
 
-44 Actionnaires (ou sociétaires).
+70291 Sur émissions des exercices antérieurs.
 
-440 Impôts et taxes recouvrables sur les actionnaires (ou sociétaires).
+703 Primes (autres affaires : opérations non régies par l'article L. 310-1).
 
-441 Actionnaires. Capital non appelé.
+7030 Primes périodiques émises.
 
-442 Actionnaires. Restant dû sur capital appelé.
+7031 Primes uniques émises.
 
-443 Versements reçus sur augmentation de capital.
+7033 Coûts de polices et accessoires.
 
-445 Comptes courants des actionnaires.
+7039 Annulations.
 
-446 Comptes courants des administrateurs.
+70390 Sur émissions de l'exercice.
 
-447 Dividendes (ou excédents à répartir).
+70391 Sur émissions des exercices antérieurs.
 
-448 Capital à rembourser.
+704 Primes (acceptations vie).
 
-45 Filiales (ou société mère).
+7040 Primes.
 
-450 Comptes courants des filiales.
+7048 Entrées de portefeuille.
 
-455 Comptes courants de la société mère.
+7049 Retraits de portefeuille.
 
-459 Provision pour dépréciation financière des comptes des filiales (ou de la société mère).
+705 Primes (acceptations dommages, RC et risques divers). 
 
-46 Débiteurs et créditeurs divers.
+7050 Primes.
 
-460 Obligataires et porteurs de parts bénéficiaires.
+7058 Entrées de portefeuille.
 
-4600 Obligations échues à rembourser.
+7059 Retraits de portefeuille.
 
-4601 Coupons à payer sur obligations.
+706 Primes (acceptations autres affaires).
 
-4602 Impôts et taxes recouvrables sur obligations.
+7060 Primes.
 
-4603 Parts bénéficiaires amorties à rembourser.
+7068 Entrées de portefeuille.
 
-4604 Intérêts des parts bénéficiaires à payer.
+7069 Retraits de portefeuille.
 
-4605 Impôts et taxes recouvrables sur intérêts des parts bénéficiaires.
+709 Part des réassureurs dans les primes.
 
-461 Versements restant à effectuer non libérés.
+7091 Affaires directes vie.
 
-4611 Parts et actions de sociétés immobilières (immobilisations terminées).
+70910 Primes.
 
-4612 Parts et actions de sociétés immobilières (immobilisations en cours).
+70918 Entrées de portefeuille.
 
-4615 Titres de participation détenus en France.
+70919 Retraits de portefeuille.
 
-46156 Titres cotés.
+7092 Affaires directes dommages, RC et risques divers.
 
-46157 Titres non cotés.
+70920 Primes.
 
-4617 Valeurs garantissant les engagements envers les institutions de prévoyance.
+70928 Entrées de portefeuille.
 
-4618 Valeurs immobilisées à l'étranger.
+70929 Retraits de portefeuille.
 
-4619 Titres de placement autres que ceux énumérés aux articles R. 332-2 et R. 332-9.
+7093 Autres affaires.
 
-462 Institutions de prévoyance régies par l'article L. 732-1 du code de la sécurité sociale.
+70930 Primes.
 
-4620 U.N.I.R.S.
+70938 Entrées de portefeuille.
 
-4621 ....
+70939 Retraits de portefeuille.
 
-4622 ....
+7094 Acceptations vie.
 
-463 Sécurité sociale.
+70940 Primes.
 
-464 Régimes de prévoyance.
+70948 Entrées de portefeuille.
 
-4640 Mutuelles.
+70949 Retraits de portefeuille.
 
-4645 U.C.R.E.P.P.S.A..
+7095 Acceptations dommages, RC et risques divers.
 
-4646 Régimes de retraites des agents généraux d'assurance.
+70950 Primes.
 
-4647 Autres régimes de prévoyance ou de retraites.
+70958 Entrées de portefeuille.
 
-465 Créances sur des organisations d'assurance en raison d'avances aux assurés.
+70929 Retraits de portefeuille.
 
-466 Etats étrangers. Organismes publics internationaux.
+7096 Acceptations autres affaires.
 
-467 Fonds de garantie et autres fonds.
+70960 Primes.
 
-4671 Fonds commun de majoration des rentes viagères.
+70968 Entrées de portefeuille.
 
-4672 Fonds commun des accidents du travail agricole.
+70969 Retraits de portefeuille.
 
-4674 Fonds de garantie automobile et chasse.
+71 Subventions d'exploitation reçues en France.
 
-4675 Fonds national de garantie des calamités agricoles.
+73 Réductions et ristournes de primes en France.
 
-4676 Fonds de compensation des risques de l'assurance de la construction.
+74 Ristournes, rabais et remises obtenus en France.
 
-468 Divers.
+75 Commissions et participations reçues des réassureurs en France.
 
-469 Provision pour dépréciation financière de comptes débiteurs divers.
+751 Affaires directes vie.
 
-47 Comptes de régularisation, passif.
+752 Affaires directes dommages, RC et risques divers.
 
-470 Charges à payer.
+753 Autres affaires.
 
-475 Produits perçus ou comptabilisés d'avance.
+754 Acceptations vie.
 
-4751 Loyers.
+755 Acceptations dommages, RC et risques divers.
 
-4753 Revenus.
+756 Acceptations autres affaires.
 
-4756 Produits divers.
+76 Produits accessoires en France.
 
-48 Comptes de régularisation, actif.
+760 Produits des services exploités dans l'intérêt du personnel.
 
-480 Charges payées ou comptabilisées d'avance.
+7601 Cantines.
 
-485 Produits à recevoir.
+7609 Divers.
 
-4856 Produits divers.
+762 Ventes de déchets.
 
-4857 Intérêts courus et non échus (sur placements figurant à l'actif pour leur valeur en capital).
+765 Rémunérations et produits divers.
 
-486 Primes acquises et non émises nettes de commissions et de taxes et nettes de cessions.
+77 Produits financiers en France.
 
-4861 Assurances directes en France.
+771 Revenus des immeubles.
 
-4863 Autres affaires.
+773 Revenus des titres de placement.
 
-4869 Assurances directes à l'étranger.
+7731 Revenus des obligations.
 
-49 Comptes d'attente et à régulariser.
+7735 Revenus des actions.
+
+774 Intérêts des prêts.
+
+7740 Au personnel.
+
+7741 Aux agents.
+
+7742 A des tiers.
+
+775 Revenus des titres de participation.
+
+776 Intérêts des comptes courants et des comptes de dépôts débiteurs, intérêts bancaires.
+
+7760 Comptes courants avec les cessionnaires et rétrocessionnaires.
+
+7761 Comptes courants avec les cédants et rétrocédants.
+
+7764 Autres comptes débiteurs.
+
+7765 Intérêts bancaires.
+
+7767 Dépôts espèces effectués chez les cédants.
+
+7769 Autres dépôts.
+
+777 Jetons de présence, tantièmes, rémunérations d'administrateurs.
+
+778 Autres produits financiers.
+
+779 Ajustement des valeurs affectées à la représentation des opérations d'assurance à capital variable.
+
+78 Travaux faits par l'entreprise pour elle-même. Charges non imputables à l'exploitation de l'exercice, en France.
+
+780 Travaux faits par l'entreprise pour elle-même.
+
+7800 Travaux de l'entreprise pour frais d'établissement (à l'exclusion des frais d'acquisition des contrats).
+
+785 Charges non imputables à l'exploitation de l'exercice.
+
+7850 Charges couvertes par des provisions.
+
+7857 Charges imputables à pertes et profits.
+
+79 Produits par nature à l'étranger.
+
+790 Primes.
+
+7901 Affaires directes vie.
+
+7902 Affaires directes dommages, RC et risques divers.
+
+7904 Acceptations vie.
+
+7905 Acceptations dommages, RC et risques divers.
+
+7909 Part des réassureurs dans les primes.
+
+791 Subventions d'exploitation reçues.
+
+793 Réductions et ristournes de primes.
+
+794 Ristournes, rabais et remises obtenus.
+
+795 Commissions et participations reçues des réassureurs.
+
+796 Produits accessoires.
+
+797 Produits financiers.
+
+7971 Revenus des immeubles.
+
+7973 Revenus des titres de placement.
+
+7974 Intérêts des prêts.
+
+7975 Revenus des titres de participation.
+
+7976 Intérêts des comptes courants et des comptes de dépôts débiteurs, intérêts bancaires.
+
+7977 Jetons de présence, tantièmes, rémunérations d'administrateurs.
+
+7978 Autres produits financiers.
+
+798 Travaux faits par l'entreprise pour elle-même, charges non imputables à l'exploitation de l'exercice.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-836 1969-08-29 annexe
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°91-723 du 26 juillet 1991 - art. 12 () JORF 28 juillet 1991
-
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L732-1 (T)
-	  - Code des assurances - art. R*332-2 (M)
-	  - Code des assurances - art. R*332-9 (M)
+	  - Code des assurances - art. L310-1 (M)
 
 
 ##### Section III : Modèles de comptes de résultats et de bilan
