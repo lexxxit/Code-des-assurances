@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-02-22
+Version Consolidée au 1985-03-31
 
 # Partie législative
 
@@ -43560,6 +43560,46 @@ article R. 211-6, des taux d'incapacité permanente dont la somme atteint 40 p. 
 
 ##### Section I : Eléments d'actif admis en représentation des engagements réglementés.
 
+###### Article A332-1
+
+En application des dispositions du 6° de l'article R. 332-2, les entreprises sont autorisées à détenir les parts des fonds
+communs de placement du titre II bis de la loi du 13 juillet 1979 dont le portefeuille est composé, à concurrence de 50 p.
+100 participation au moins, de valeurs françaises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1977-06-15 art. 1 JORF 30 juin 1977
+	  - Arrêté 1981-02-05 art. 1 JORF 18 février 1981
+	  - Arrêté 1982-06-01 art. 1 JORF 12 juin 1982
+	  - Arrêté 1985-03-05 art. 1 JORF 31 mars 1985
+
+	**Abrogé par**:
+
+	  - Arrêté 1990-11-05 art. 1 JORF 6 novembre 1990
+
+	**Cite**:
+
+	  - Loi n°79-594 du 13 juillet 1979 - art. 39-1 (M)
+	  - Loi n°79-594 du 13 juillet 1979 - art. 39-2 (M)
+	  - Loi n°79-594 du 13 juillet 1979 - art. 39-3 (Ab)
+	  - Code des assurances - art. R*332-2 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 5 novembre 1990 - art. 1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*332-3 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R332-3 (M)
+
+
 ###### Article A332-1 bis
 
 En application des dispositions du 5° de l'article R. 332-3, les actions d'une même société d'investissement à capital
@@ -43587,23 +43627,70 @@ représentation des provisions techniques.
 	  - Code des assurances - art. R*332-3 (M)
 
 
-###### Article A332-3
+###### Article A332-2
 
-Sont admis au titre des dispositions du 11° de l'article R. 332-2 les prêts ou les effets représentatifs de prêts d'une durée
-minimale de cinq ans, à la condition que ces prêts soient consentis à des entreprises dont les actions sont inscrites à la
-cote officielle des bourses françaises de valeurs et dont les fonds propres atteignent 50 millions de francs au moins ou
-qu'ils soient assortis d'une caution donnée par un établissement agréé à cet effet par le ministre de l'économie et des
-finances ou d'une sûreté réelle.
+En application des dispositions du 9° de l'article R. 332-2, les entreprises sont autorisées à détenir les actions des
+sociétés d'investissement à capital variable et les parts des fonds communs de placement du titre 1er de la loi du 13 juillet
+1979 dont le portefeuille est composé, à concurrence de 50 p. 100 au moins, de valeurs françaises.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Arrêté 1972-12-06 art. 2
+	  - Arrêté 1972-12-06 art. 1
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1981-02-05 art. 2 JORF 18 février 1981
+	  - Arrêté 1985-03-05 art. 1 JORF 31 mars 1985
+
+	**Abrogé par**:
+
+	  - Arrêté 1990-11-05 art. 1 JORF 6 novembre 1990
+
+	**Cite**:
+
+	  - Loi n°79-594 1979-07-13
+	  - Code des assurances - art. R*332-2 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 5 novembre 1990 - art. 1 (V)
+	  - Arrêté du 8 décembre 1998 - art. 1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*332-2 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R332-2 (M)
+
+
+###### Article A332-3
+
+La liste mentionnée au 22° de l'article R. 332-2 est établie comme suit :
+
+Bons émis par la banque française du commerce extérieur, la caisse centrale de crédit coopératif, la caisse française des
+matières premières, la caisse nationale de crédit agricole, le crédit foncier de France, le crédit national et la société
+française de financement des télécommunications (Francetel).
+
+Billets de la société nationale des chemins de fer français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1985-03-05 art. 1 JORF 31 mars 1985
+
+	**Abrogé par**:
+
+	  - Arrêté 1990-11-05 art. 1 JORF 6 novembre 1990
 
 	**Cité par**:
 
@@ -43611,51 +43698,58 @@ finances ou d'une sûreté réelle.
 	  - Arrêté du 8 décembre 1998 - art. 1 (V)
 	  - Code des assurances - art. A332-4 (V)
 
+	**Cite**:
+
+	  - Code des assurances - art. R*332-2 (M)
+
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*332-2 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. R332-2 (M)
 
-	**Cite**:
-
-	  - Code des assurances - art. R*332-2 (M)
-
 
 ###### Article A332-4
 
-En application des dispositions du 15° de l'article R. 332-2, les entreprises sont autorisées à détenir les valeurs à court
-ou moyen terme suivantes :
+La liste mentionnée au 1° de l'article R. 332-3-1 est établie comme suit :
 
-Bons émis par le crédit national, le crédit foncier de France et la banque française du commerce extérieur ou par tout autre
-établissement de crédit à statut légal spécial autorisé à cet effet par le ministre de l'économie et des finances ;
-
-Billets de la société nationale des chemins de fer français.
-
-Bons émis par la société Francetel.
+Aéroport de Paris, Banque française du commerce extérieur, Banque européenne d'investissement, Caisse d'aide à l'équipement
+des collectivités locales (valeurs émises ou gérées), Caisse centrale de coopération économique, Caisse nationale des
+autoroutes, Caisse nationale de crédit agricole, Caisse nationale de l'énergie, Caisse nationale des télécommunications,
+Charbonnages de France, Communauté européenne du charbon et de l'acier, Communauté européenne de l'énergie atomique
+(Euratom), Compagnie nationale Air France, Compagnie nationale du Rhône, Crédit foncier et communal d'Alsace et de Lorraine,
+Crédit foncier de France, Crédit national, Electricité de France, Eurodif S.A., Gaz de France, Régie autonome des transports
+parisiens, Société anonyme de gestion et de contrôle de participations (Sapar), Société française de financement des
+télécommunications (Francetel), Société nationale des chemins de fer français.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1972-12-06 art. 3
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1985-03-05 art. 1 JORF 31 mars 1985
+
+	**Abrogé par**:
+
+	  - Arrêté 1989-11-17 art. 1 JORF 28 novembre 1989
+	  - Arrêté 1990-11-05 art. 1 JORF 6 novembre 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1989-11-17 art. 2 *dispositions transitoires*
+	  - TXT_SOURCE: Code des assurances - art. R*332-2 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R332-2 (M)
 
 	**Cité par**:
 
 	  - Arrêté du 17 novembre 1989 - art. 1 (V)
 	  - Arrêté du 5 novembre 1990 - art. 1 (V)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*332-2 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R332-2 (M)
-
 	**Cite**:
 
-	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances - art. R332-3-1 (M)
 
 
 ##### Section III : Estimation des éléments d'actif.
@@ -43737,39 +43831,6 @@ Toutefois, l'évaluation ne peut pas dépasser le prix d'achat majoré de 5 %.
 
 #### Chapitre III : Revenu des placements.
 
-###### Article A333-1
-
-Les dispositions de l'article R. 333-1 s'appliquent aux valeurs mobilières amortissables énumérées aux 1° et 2° de l'article
-R. 332-2, autres que les obligations indexées et participantes, ainsi qu'aux valeurs mentionnées au 3° de ce même article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1975-06-30 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1985-03-05 art. 2 JORF 31 mars 1985
-
-	**Cité par**:
-
-	  - Code des assurances - art. A333-4 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*333-1 (M)
-	  - Code des assurances - art. R*333-2 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*333-1 (M)
-
-
 ###### Article A333-2
 
 Lors de l'entrée en portefeuille des titres soumis à la réserve de capitalisation, leur taux actuariel de rendement est
@@ -43837,56 +43898,25 @@ celle-ci.
 Les entreprises dont les placements en valeurs soumises à la réserve de capitalisation ne dépassent pas 5 millions de francs
 à la date de l'inventaire, peuvent ne pas appliquer les dispositions prévues aux articles A. 333-2 et A. 333-3 (alinéas 2 et
 3). Dans ces cas, ces entreprises sont tenues de porter à la réserve de capitalisation 10 p. 100 de l'excédent résultant de
-la comparaison entre le montant du prix de vente et le prix d'entrée en portefeuille des titres mentionnés à l'article A.
+la comparaison entre le montant du prix de vente et le prix d'entrée en portefeuille des titres mentionnés à l'article R.
 333-1 vendus dans l'exercice, ou de prélever sur celle-ci la totalité de l'insuffisance résultant de la même comparaison. Une
 fois exercée en faveur de ce forfait, l'option ne peut être remise en cause.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté 1975-06-30 art. 4
-
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
+	**Modifié par**:
+
+	  - Arrêté 1985-03-05 art. 3 JORF 31 mars 1985
+
 	**Cite**:
 
-	  - Code des assurances - art. A333-1 (Ab)
 	  - Code des assurances - art. A333-2 (M)
 	  - Code des assurances - art. A333-3 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*333-1 (M)
-
-
-###### Article A333-5
-
-Les entreprises qui détiennent en portefeuille des valeurs mentionnées au 3° de l'article R. 332-2 portent à la réserve de
-capitalisation 10 p. 100 de l'excédent résultant de la comparaison entre le montant du prix de rachat et le prix d'entrée en
-portefeuille des titres mentionnés ci-dessus vendus dans l'exercice, ou prélèvent sur celle-ci la totalité de l'insuffisance
-résultant de la même comparaison. Le montant du prix de rachat doit s'évaluer après déduction du coupon couru mais non échu,
-au jour de la vente.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1975-06-30 art. 5
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1985-03-05 art. 4 JORF 31 mars 1985
-
-	**Cite**:
-
-	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances - art. R*333-1 (M)
 
 	**Liens**:
 
