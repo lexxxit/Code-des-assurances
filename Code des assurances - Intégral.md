@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1980-10-05
+Version Consolidée au 1980-11-01
 
 # Partie législative
 
@@ -14271,41 +14271,27 @@ Finlande, Norvège, Suède, Suisse et Liechtenstein.
 
 #### Chapitre II : L'obligation d'assurer - Le bureau de tarification.
 
-###### Article R212-1
+###### Article R*212-1
 
-Le bureau central de tarification institué par l'article L. 212-1, comprend six membres permanents et six membres spécialisés
-par catégorie de risques, qui sont nommés par arrêté du ministre de l'économie et des finances.
+Le bureau central de tarification institué par l'article L. 212-1 comprend un président et douze membres qui sont nommés par
+arrêté du ministre de l'économie.
 
-Les membres permanents comprennent :
+1. Le président est choisi, sur proposition du conseil national des assurances, parmi les professeurs des disciplines
+juridiques des universités, les conseillers d'Etat, les conseillers à la Cour de cassation et les conseillers maîtres à la
+Cour des comptes.
 
-1. Trois représentants des entreprises d'assurance françaises et étrangères agréées pour pratiquer l'assurance automobile, à
-l'exclusion des caisses d'assurances et de réassurances mutuelles agricoles ; ces représentants sont nommés sur proposition
-des organismes professionnels ;
+2. Six membres représentent les entreprises d'assurances françaises et étrangères agréées pour pratiquer l'assurance
+automobile et sont nommés sur proposition des organismes professionnels ; un de ces membres représente les caisses
+d'assurance et de réassurance mutuelles agricoles pratiquant l'assurance automobile.
 
-2. Trois représentants des personnes assujetties à l'obligation d'assurance, nommés sur proposition respective de l'assemblée
-des présidents des chambres de commerce et d'industrie de France, de la fédération française des clubs automobiles et du
-conseil national des assurances.
+3. Six membres représentent les personnes assujetties à l'obligation d'assurance ; ils sont nommés sur proposition respective
+de l'assemblée permanente des présidents des chambres de commerce et d'industrie de France, de la fédération française des
+clubs automobiles, du collège des consommateurs du comité national de la consommation, de l'assemblée permanente des
+présidents de chambre d'agriculture, du Touring-Club de France et des organismes professionnels les plus représentatifs de
+transports publics routiers de voyageurs et de marchandises.
 
-Le bureau central de tarification est complété de la manière suivante par la participation de membres spécialisés :
-
-a) Lorsqu'il s'agit de risques agricoles, sont appelés à siéger un représentant des caisses d'assurances et de réassurances
-mutuelles agricoles pratiquant l'assurance automobile et un représentant des personnes assujetties à l'obligation d'assurance
-appartenant à l'agriculture, ces représentants étant nommés, le premier sur proposition de la caisse centrale d'assurances
-mutuelles agricoles, risques accidents, le second sur proposition de l'assemblée permanente des présidents des chambres
-d'agriculture de France ;
-
-b) Lorsqu'il s'agit de risques encourus par les véhicules effectuant des transports publics de voyageurs ou de marchandises,
-sont appelés à siéger un représentant des entreprises françaises et étrangères agréées pour pratiquer l'assurance de ces
-risques, nommé dans les mêmes conditions que les membres permanents, et un représentant des personnes assujetties à
-l'obligation d'assurance, nommé sur proposition des organismes professionnels les plus représentatifs, désignés par le
-ministre chargé des transports ;
-
-c) Lorsqu'il s'agit d'autres risques, sont appelés à siéger un représentant des entreprises d'assurance françaises et
-étrangères, nommé dans les mêmes conditions que les membres permanents, et un représentant des personnes assujetties à
-l'obligation d'assurance, nommé sur proposition du Touring-Club de France.
-
-Il est nommé dans les mêmes conditions un nombre égal de suppléants qui sont appelés à siéger toutes les fois que le
-titulaire est empêché ou intéressé dans l'affaire qui doit être examinée.
+4. Le président et les membres sont remplacés en cas d'empêchement par des suppléants nommés dans les mêmes conditions que
+les membres titulaires.
 
 **Liens relatifs à cet article**
 
@@ -14313,8 +14299,13 @@ titulaire est empêché ou intéressé dans l'affaire qui doit être examinée.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°80-760 du 22 septembre 1980 - art. 1 () JORF 28 septembre 1980 en vigueur le 1er novembre 1980
+
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°80-760 du 22 septembre 1980 - art. 4 (V)
 	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
 
 	**Cite**:
@@ -14324,56 +14315,6 @@ titulaire est empêché ou intéressé dans l'affaire qui doit être examinée.
 	**Cité par**:
 
 	  - Code des assurances - art. R*212-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 24
-
-
-###### Article R212-2
-
-Les membres du bureau central de tarification sont nommés pour une période de trois ans, renouvelable. Ils élisent leur
-président parmi eux.
-
-Le bureau central de tarification est assisté d'un commissaire du Gouvernement, suppléé éventuellement par un commissaire du
-Gouvernement adjoint. Le commissaire du Gouvernement et son suppléant sont nommés par le ministre de l'économie et des
-finances.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 24
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-
-###### Article R212-3
-
-Les décisions du bureau central de tarification sont prises à la majorité des membres présents. En cas de partage, la voix du
-président est prépondérante.
-
-Le bureau central de tarification ne peut délibérer que si cinq au moins de ses membres sont présents.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 24
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
 
 
 ###### Article R212-4
@@ -14520,6 +14461,70 @@ ministre de l'économie et des finances ; son secrétariat est assuré par le co
 
 
 #### Chapitre II : L'obligation d'assurer - Le bureau central de tarification.
+
+###### Article R*212-2
+
+Les membres du bureau central de tarification sont nommés pour une période de trois ans, renouvelable.
+
+Le bureau central de tarification est assisté d'un commissaire du Gouvernement, suppléé éventuellement par un commissaire du
+Gouvernement adjoint. Le commissaire du Gouvernement et son suppléant sont nommés par le ministre de l'économie et des
+finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°80-760 du 22 septembre 1980 - art. 2 () JORF 28 septembre 1980 en vigueur le 1er novembre 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-760 du 22 septembre 1980 - art. 4 (V)
+	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+
+###### Article R*212-3
+
+Les décisions du bureau central de tarification sont prises à la majorité des membres présents. En cas de partage, la voix du
+président est prépondérante.
+
+Le bureau central de tarification ne peut délibérer que si cinq au moins de ses membres sont présents.
+
+L'absence simultanée d'un membre titulaire et de son suppléant au cours de deux séances consécutives du bureau ou de trois
+séances pendant une période de douze mois est considérée, sauf motif légitime apprécié par le ministre et après que les
+intéressés auront été invités à présenter leurs explications, comme une démission de ce membre et de ce suppléant, dont les
+postes devront être à nouveau pourvus dans les conditions prévues à l'article R. 212-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°80-760 du 22 septembre 1980 - art. 3 () JORF 28 septembre 1980 en vigueur le 1er novembre 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-760 du 22 septembre 1980 - art. 4 (V)
+	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. R212-1 (M)
+
 
 ###### Article R212-5
 
