@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1988-02-24
+Version Consolidée au 1988-03-18
 
 # Partie législative
 
@@ -12849,6 +12849,36 @@ ministre chargé de l'économie et des finances ; son secrétariat est assuré p
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L125-6 (M)
+
+
+#### Chapitre VI : L'assurance contre les actes de terrorisme
+
+##### Section II : Dommages matériels
+
+###### Article R126-1
+
+Les contrats d'assurance de biens mentionnés à l'article L. 126-2 sont ceux qui relèvent des opérations d'assurance figurant
+aux 3 à 9 de l'article R. 321-1 ou qui couvrent les pertes d'exploitation résultant des sinistres affectant les biens
+assurés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°88-261 du 18 mars 1988 - art. 1 () JORF 20 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1202 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L126-2 (M)
+	  - Code des assurances L126-2, R321-1
 
 
 ### Titre III : Règles relatives aux assurances de personnes
