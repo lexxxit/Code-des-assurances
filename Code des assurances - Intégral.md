@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1997-06-01
+Version Consolidée au 1997-12-30
 
 # Partie législative
 
@@ -16597,7 +16597,8 @@ crédit à l'exportation ou à l'importation.
 La garantie de l'Etat peut être accordée en totalité ou en partie :
 
 1° A la compagnie française d'assurance pour le commerce extérieur, pour ses opérations d'assurances des risques commerciaux,
-politiques, monétaires, catastrophiques ainsi que de certains risques dits extraordinaires.
+politiques, monétaires, catastrophiques et de certains risques dits extraordinaires, ainsi que pour les opérations de gestion
+des droits et obligations y afférents.
 
 2° Aux exportateurs pour les opérations prévues à l'article 53 de la loi n° 48-1516 du 26 septembre 1948, fixant l'évaluation
 des voies et moyens du budget général pour l'exercice 1948 et relative à diverses dispositions d'ordre financier.
@@ -16653,29 +16654,22 @@ développer les exportations à destination de ces marchés.
 
 	  - Loi n°48-1516 1948-09-26 art. 53
 
-	**Anciens textes**:
-
-	  - Loi n°49-874 du 5 juillet 1949 - art. 16, v. init.
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi - art. 37 () JORF 30 décembre 1997
 
 
 ###### Article L432-3
 
 La garantie de l'Etat est accordée après avis de la commission des garanties et du crédit au commerce extérieur, instituée
-par l'article 15 de la loi n° 49-874 du 5 juillet 1949.
+par l'article 15 de la loi n° 49-874 du 5 juillet 1949, à l'exception de celle portant sur les opérations de gestion
+mentionnées au 1° de l'article L. 432-2 pour lesquelles elle est accordée par arrêté du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°49-874 du 5 juillet 1949 - art. 15, v. init.
-
-	**Anciens textes**:
-
-	  - Loi n°49-874 du 5 juillet 1949 - art. 15, v. init.
 
 	**Liens**:
 
@@ -16685,12 +16679,58 @@ par l'article 15 de la loi n° 49-874 du 5 juillet 1949.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi - art. 37 () JORF 30 décembre 1997
+
 	**Cité par**:
 
 	  - Arrêté du 23 décembre 2003 - art. 1 (V)
 	  - Arrêté du 26 mars 2008 - art. 1 (V)
 	  - Code des assurances - art. R*432-3 (Ab)
 	  - Code des assurances - art. R442-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L432-2 (VT)
+
+
+###### Article L432-4
+
+La Compagnie française d'assurance pour le commerce extérieur établit, pour les opérations qu'elle effectue avec la garantie
+de l'Etat en application de l'article L. 432-2 du présent code, un enregistrement comptable distinct. Une convention entre
+l'Etat et la Compagnie française d'assurance pour le commerce extérieur précise les modalités selon lesquelles cet
+enregistrement est effectué ainsi que les conditions dans lesquelles il est contrôlé et certifié par un ou plusieurs
+commissaires aux comptes.
+
+Sans préjudice des droits des titulaires de créances nées des opérations effectuées avec la garantie de l'Etat, aucun
+créancier de la Compagnie française d'assurance pour le commerce extérieur autre que l'Etat ne peut se prévaloir d'un droit
+quelconque sur les biens et droits ressortant de l'enregistrement établi en application de l'alinéa précédent, même sur le
+fondement du livre VI, titre II du code de commerce, des articles L. 611-1 à L. 612-4 du code de commerce, ou des articles L.
+310-25 et L. 326-2 à L. 327-6 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi - art. 37 () JORF 30 décembre 1997
+
+	**Cité par**:
+
+	  - Décret n°2016-1091 du 11 août 2016 (VD)
+	  - Décret n°2016-1091 du 11 août 2016 - art. 1 (VD)
+	  - Code des assurances - art. R442-7-3 (VD)
+
+	**Cite**:
+
+	  - Code de commerce L611-1 à L612-4
+	  - Code des assurances - art. L310-25 (M)
+	  - Code des assurances - art. L432-2 (M)
+	  - Code des assurances L432-2, L310-25, L326-2 à L327-6
 
 
 ### Titre IV : Régimes particuliers d'assurance
