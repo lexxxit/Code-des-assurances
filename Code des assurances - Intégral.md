@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-08-08
+Version Consolidée au 1990-08-09
 
 # Partie législative
 
@@ -19729,6 +19729,13 @@ Les entreprises sont tenus d'envoyer au ministre de l'économie, des finances et
 traduction en langue française, certifiée conforme, de tous les documents se rapportant à leurs opérations et non rédigés
 dans cette langue.
 
+Toutefois en ce qui concerne les grands risques mentionnés aux articles L. 351-4 et R. 351-1, les dispositions des premier,
+quatrième, cinquième et sixième alinéas ne sont pas applicables. Le ministre chargé de l'économie et des finances peut, pour
+toute entreprise couvrant des grands risques, demander la communication des conditions générales des polices, propositions,
+bulletins de souscriptions, prospectus destinés à être distribués au public sans que cette exigence puisse constituer pour
+l'entreprise une condition préalable à l'exercice de son activité. Lorsque cette communication est demandée, les entreprises
+sont tenues de respecter les dispositions de l'alinéa précédent.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -19737,12 +19744,12 @@ dans cette langue.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
 	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 4 () JORF 12 mai 1984
+	  - Décret n°90-700 du 8 août 1990 - art. 6 () JORF 9 août 1990
 
 	**Cité par**:
 
@@ -19751,6 +19758,8 @@ dans cette langue.
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L351-4 (M)
+	  - Code des assurances - art. R351-1 (M)
 
 
 ###### Article R*310-8
@@ -20557,12 +20566,12 @@ g) Un programme d'activités comprenant les pièces suivantes :
 1. Le cas échéant, un document précisant, sauf pour les branches mentionnées aux 4, 5, 6, 7 et 12 de l'article R. 321-1, la
 nature des risques que l'entreprise se propose de garantir ;
 
-2. Pour chacune des branches ou sous-branches faisant l'objet de la demande d'agrément, sauf pour les branches mentionnées
-aux 4, 5, 6, 7 et 12 de l'article R. 321-1, deux exemplaires des polices et imprimés destinés à être distribués au public ou
-publiés ;
+2. Pour chacune des branches ou sous-branches faisant l'objet de la demande d'agrément, sauf pour les opérations relevant des
+grands risques définis aux articles L. 351-4 et R. 351-1, deux exemplaires des polices et imprimés destinés à être distribués
+au public ou publiés ;
 
-3. Pour chacune des branches ou sous-branches faisant l'objet de la demande d'agrément, sauf pour les branches mentionnées
-aux 4, 5, 6, 7, 12, 14 et 15 de l'article R. 321-1, deux exemplaires des tarifs.
+3. Pour chacune des branches ou sous-branches faisant l'objet de la demande d'agrément, sauf pour les opérations relevant des
+grands risques définis aux articles L. 351-4 et R. 351-1, deux exemplaires des tarifs.
 
 S'il s'agit d'opérations d'assurance comportant des engagements dont l'exécution dépend de la durée de la vie humaine,
 d'opérations complémentaires aux opérations précédentes, notamment celles ayant pour objet des garanties en cas de décès
@@ -20616,19 +20625,21 @@ réglementaire.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
+	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°88-456 du 27 avril 1988 - art. 4 () JORF 29 avril 1988
+	  - Décret n°90-700 du 8 août 1990 - art. 2 () JORF 9 août 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L351-4 (M)
+	  - Code des assurances - art. R351-1 (M)
+	  - Code des assurances R321-1, L351-4, R351-1
 
 	**Cité par**:
 
 	  - Code des assurances - art. R351-6 (V)
-
-	**Cite**:
-
-	  - Code des assurances R321-1
 
 
 ###### Article R321-8
@@ -26867,6 +26878,50 @@ conseil national des assurances.
 	  - Décret n°1938-12-30 art. 149
 
 
+###### Article R331-1-1
+
+1. Lorsque les garanties d'un contrat sont exprimées dans une monnaie déterminée, les engagements de l'entreprise d'assurance
+mentionnés à l'article R. 331-1 sont libellés dans cette monnaie. 
+
+2. Lorsque les garanties d'un contrat ne sont pas exprimées dans une monnaie déterminée, les engagements d'une entreprise
+d'assurance sont libellés dans la monnaie du pays où le risque est situé. Toutefois, cette entreprise peut choisir de
+libeller ses engagements dans la monnaie dans laquelle la prime est exprimée si, dès la souscription du contrat, il paraît
+vraisemblable qu'un sinistre sera payé, non dans la monnaie du pays de situation du risque, mais dans la monnaie dans
+laquelle la prime a été libellée. 
+
+3. Si un sinistre a été déclaré à l'assureur et si les prestations sont payables dans une monnaie déterminée autre que celle
+résultant de l'application des dispositions précédentes, les engagements de l'entreprise d'assurance sont libellés dans la
+monnaie dans laquelle l'indemnité à verser par cette entreprise a été fixée par une décision de justice ou bien par accord
+entre l'entreprise d'assurance et l'assuré. 
+
+4. Lorsqu'un sinistre est évalué dans une monnaie connue d'avance de l'entreprise d'assurance mais différente de celle qui
+résulte de l'application des dispositions précédentes, les entreprises d'assurance peuvent libeller leurs engagements dans
+cette monnaie.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 3 () JORF 9 août 1990
+
+	**Cité par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 10 (V)
+	  - Code des assurances - art. A342-3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. R*331-1
+
+
 ###### Article R331-2
 
 Les dispositions du présent chapitre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
@@ -27977,17 +28032,21 @@ taxes et de commissions, et de trois mois de date au plus.
 
 ###### Article R332-1
 
-Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute époque, être représentés par des actifs
+1. Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute époque, être représentés par des actifs
 équivalents.
 
-Les engagements pris dans une monnaie doivent être couverts par des actifs libellés ou réalisables dans cette même monnaie.
+2. Les engagements pris dans une monnaie doivent être couverts par des actifs congruents, c'est-à-dire libellés ou
+réalisables dans cette monnaie.
 
-Toutefois, les engagements peuvent également être couverts dans les conditions prévues à l'article R. 332-2, 5°, à l'article
-R. 332-16, dernier alinéa.
+3. Les actifs mentionnés au 1 doivent être localisés sur le territoire de la République française.
 
-Toutefois, les engagements pris dans le cadre de la coassurance communautaire par un coassureur, en exécution des
-dispositions de l'article L. 321-4, peuvent être couverts par des actifs répondant aux conditions énumérées au deuxième
-alinéa du présent article et localisés dans le pays de ce coassureur.
+Toutefois, les engagements pris dans le cadre de la coassurance communautaire, en exécution des dispositions de l'article L.
+352-1, par une entreprise mentionnée à l'article L. 310-1 peuvent être couverts par des actifs localisés dans le pays de
+l'apériteur.
+
+4. Les engagements pris par des entreprises mentionnées à l'article L. 310-1 et résultant d'opérations réalisées en libre
+prestation de services au sens de l'article L. 351-1 sont soumis aux règles du pays de situation du risque lorsque ce dernier
+subordonne l'exercice de ces opérations à agrément.
 
 **Liens relatifs à cet article**
 
@@ -27995,9 +28054,14 @@ alinéa du présent article et localisés dans le pays de ce coassureur.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
+
 	**Modifié par**:
 
-	  - Décret n°83-647 1983-07-08 art. 1 JORF 17 juillet 1983
+	  - Décret n°90-700 du 8 août 1990 - art. 4 () JORF 9 août 1990
 
 	**Cité par**:
 
@@ -28011,13 +28075,37 @@ alinéa du présent article et localisés dans le pays de ce coassureur.
 
 	**Cite**:
 
-	  - Code des assurances - art. L321-4 (Ab)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L351-1 (M)
+	  - Code des assurances - art. L352-1 (M)
 	  - Code des assurances - art. R*331-1 (M)
-	  - Code des assurances - art. R332-16 (M)
 
-	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
+###### Article R332-1-1
+
+I. - Par dérogation aux dispositions du 2° de l'article R. 332-1, les entreprises d'assurance peuvent, à concurrence de 20 p.
+100 de leurs engagements, ne pas couvrir ceux-ci par des actifs congruents.
+
+II. - Les entreprises peuvent également ne pas représenter leurs provisions techniques par des actifs congruents si, pour
+satisfaire aux dispositions de l'article R. 332-1, elles doivent détenir dans une monnaie des éléments d'actifs d'un montant
+ne dépassant pas 7 p. 100 des éléments d'actifs existant dans l'ensemble des autres monnaies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 5 () JORF 9 août 1990
+
+	**Cité par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 10 (V)
+	  - Code des assurances - art. R332-2 (V)
+	  - Code des assurances - art. R332-61 (VT)
+	  - Code des assurances - art. R342-2 (VT)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-1 (M)
 
 
 ###### Article R332-2
@@ -31591,6 +31679,38 @@ opérations effectuées dans l'ensemble des pays auxquels s'étend cette vérifi
 	  - Code des assurances R341-1 à R341-6
 
 
+###### Article R341-10
+
+Lorsqu'une entreprise d'assurance établie sur le territoire de la République française réalise dans un Etat membre des
+communautés européennes, en libre prestation de services, un volume de primes supérieur à 2,5 millions d'unités de compte de
+la Communauté économique européenne, sans déduction de réassurance, elle doit tenir, pour les opérations réalisées dans cet
+Etat, un compte d'exploitation technique par groupe de branches dont le modèle est défini par arrêté du ministre chargé de
+l'économie et des finances.
+
+Toutefois, lorsqu'une entreprise d'assurance ayant son siège social sur le territoire de la République française réalise dans
+un Etat membre des communautés européennes, en libre prestation de services, soit directement, soit par l'intermédiaire de
+ses établissements, un volume de primes supérieur à 2,5 millions d'unités de compte de la Communauté économique européenne,
+sans déduction de réassurance, elle doit tenir, pour les opérations réalisées dans ce pays, un compte d'exploitation
+technique pour chacun de ses établissements et dont le modèle est défini par arrêté du ministre chargé de l'économie et des
+finances.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+	  - TXT_SOURCE: Arrêté du 7 mai 1993 - art. 2 (V)
+
+	**Créé par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 7 () JORF 9 août 1990
+
+	**Cité par**:
+
+	  - Arrêté du 7 mai 1993 - art. 2 (V)
+	  - Arrêté du 7 mai 1993 - art. Annexe (V)
+
+
 #### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation
 
 ##### Section I : Dispositions générales.
@@ -32336,8 +32456,8 @@ compte 87 ;
 
 - le compte des résultats en instance d'affectation établi selon le compte 88,
 
-les entreprises doivent établir chaque année, dans la forme fixée par arrêté du ministre de l'économie et des finances pris
-après avis du conseil national des assurances, les états suivants :
+les entreprises doivent établir chaque année, dans la forme fixée par arrêté du ministre de l'économie et des finances, les
+états suivants :
 
 A 1 Compte d'exploitation générale par catégories ou sous-catégories.
 
@@ -32379,7 +32499,9 @@ A 25 Participation des assurés sur la vie ou des porteurs de contrats de capita
 financiers.    B 26 Etat justificatif de la participation des assurés sur la vie ou des porteurs de contrats de
 capitalisation aux résultats techniques et financiers.
 
-B 27 Etat concernant les opérations de coassurance communautaire.
+B 27 Etat concernant les opérations de coassurance communautaire.    B 28 Etat concernant le montant des primes réalisées en
+libre prestation de services, sans déduction de réassurance, par Etat membre des communautés européennes et par groupe de
+branches.
 
 Les entreprises doivent ajouter des rubriques à celles des tableaux modèles chaque fois qu'une telle addition est utile à la
 sincérité des comptes rendus ; elles ont la faculté de le faire chaque fois que cela est utile à la clarté de ces comptes.
@@ -32395,24 +32517,6 @@ Les lignes et les colonnes "néant" peuvent être supprimées.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-109 1987-02-17 art. 2 *forme et date d'effet des états B 6, B 7, B 8, B 10*
-	  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
-	  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
-	  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
-	  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A344-6 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-	  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
-
-	**Modifié par**:
-
-	  - Décret n°87-109 du 17 février 1987 - art. 1 () JORF 20 février 1987
-	  - Décret n°87-109 du 17 février 1987 - art. 2 (V) JORF 20 février 1987
-
 	**Cité par**:
 
 	  - Décret n°87-109 du 17 février 1987 - art. 2 (V)
@@ -32426,6 +32530,23 @@ Les lignes et les colonnes "néant" peuvent être supprimées.
 	  - Code des assurances - art. R342-24 (Ab)
 	  - Code des assurances - art. R342-7 (Ab)
 	  - Code des assurances - art. R344-1 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+	  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
+	  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
+	  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
+	  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A344-6 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+	  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
+
+	**Modifié par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 8 () JORF 9 août 1990
 
 
 ###### Article R342-18
@@ -34688,6 +34809,154 @@ du décret n° 67-236 du 23 mars 1967 modifié les renseignements mentionnés au
 	**Cité par**:
 
 	  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire en assurances de dommages
+
+#### Chapitre I : Dispositions relatives à la libre prestation de services
+
+##### Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française.
+
+###### Article R351-1
+
+Une opération relevant des branches mentionnées aux 8, 9, 13 et 16 de l'article R. 321-1 est considérée comme couvrant un
+grand risque pour l'application du 2° de l'article L. 351-4 si le souscripteur remplit au moins deux des trois conditions
+suivantes :
+
+1° Le total de son dernier bilan est supérieur à 6,2 millions d'unités de compte de la Communauté économique européenne ;
+
+2° Le montant de son chiffre d'affaires du dernier exercice est supérieur à 12,8 millions d'unités de compte de la Communauté
+économique européenne ;
+
+3° Le nombre de personnes qu'il a employées en moyenne au cours du dernier exercice est supérieur à 250.
+
+Si le souscripteur fait partie d'un ensemble d'entreprises soumises à une obligation de consolidation comptable, les seuils
+mentionnés aux 1°, 2° et 3° ci-dessus sont appliqués sur une base consolidée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 1 () JORF 9 août 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L351-4 (M)
+	  - Code des assurances R321-1, L351-4
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*310-6 (Ab)
+	  - Code des assurances - art. R*321-6 (M)
+
+
+###### Article R351-2
+
+I. - En application du premier alinéa de l'article L. 351-4, une entreprise d'assurance ayant son siège dans un Etat membre
+des communautés européennes ne peut couvrir, sur le territoire de la République française, des grands risques en libre
+prestation de services qu'à partir du moment où elle a reçu du ministre chargé de l'économie et des finances un document
+attestant qu'il est en possession des documents suivants, que l'entreprise doit lui adresser :
+
+1° Un certificat de solvabilité délivré par l'autorité de contrôle de l'Etat du siège social énumérant les branches que
+l'entreprise est habilitée à pratiquer ainsi que les risques qu'elle garantit effectivement, attestant qu'elle dispose pour
+l'ensemble de ses activités du montant minimal du fonds de garantie ou, s'il est plus élevé, du montant réglementaire de la
+marge de solvabilité et indiquant que l'agrément permet à l'entreprise de travailler hors de l'Etat membre des communautés où
+elle est établie ;
+
+2° En outre, si l'entreprise opère à partir d'une succursale, un certificat délivré par les autorités compétentes de l'Etat
+où cette succursale est établie indiquant les branches que l'entreprise intéressée est habilitée à pratiquer et attestant que
+ces autorités ne formulent pas d'objection à ce que l'entreprise effectue une activité en libre prestation de services ;
+
+3° Une liste des branches ou sous-branches que l'entreprise se propose de pratiquer ainsi que la nature des risques qu'elle
+se propose de garantir sur le territoire de la République française.
+
+II. - Lorsqu'une entreprise d'assurance ayant son siège dans un Etat membre des communautés européennes et couvrant sur le
+territoire de la République française des grands risques en libre prestation de services entend étendre son activité à des
+branches ou sous-branches qui n'avaient pas été mentionnées au 3° du I du présent article, elle est soumise aux obligations
+susénoncées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 1 () JORF 9 août 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L351-4 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R351-12 (V)
+	  - Code des assurances - art. R351-16 (V)
+	  - Code des assurances - art. R351-2-1 (VD)
+	  - Code des assurances - art. R351-3 (VD)
+	  - Code des assurances - art. R351-6 (VD)
+	  - Code des assurances - art. R351-7 (VD)
+	  - Code des assurances - art. R351-9 (VD)
+
+
+###### Article R351-3
+
+Toute demande d'agrément ou d'extension d'agrément de libre prestation de services prévue au deuxième alinéa de l'article L.
+351-5 et à l'article L. 321-1-1 doit être produite en double exemplaire auprès du ministre chargé de l'économie et des
+finances et comporter :
+
+1° Les certificats mentionnés aux 1° et 2° du I de l'article R. 351-2 ;
+
+2° Un programme d'activités rédigé en langue française et contenant :
+
+a) La liste des branches et sous-branches que l'entreprise se propose de pratiquer et la nature des risques qu'elle se
+propose de garantir en libre prestation de services ;
+
+b) Les conditions générales et spéciales des polices d'assurance ainsi que les formulaires et autres imprimés qu'elle se
+propose de diffuser auprès du service public ;
+
+c) Les bases tarifaires que l'entreprise envisage d'appliquer pour chaque catégorie d'opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 1 () JORF 9 août 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1-1 (M)
+	  - Code des assurances - art. L351-5 (M)
+	  - Code des assurances - art. R351-2 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R321-22 (T)
+	  - Code des assurances - art. R351-4 (V)
+	  - Code des assurances - art. R351-6 (VD)
+	  - Code des assurances - art. R354-2-1 (VD)
+	  - Code des assurances - art. R356-36 (VD)
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
