@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1993-09-14
+Version Consolidée au 1994-01-05
 
 # Partie législative
 
@@ -3892,11 +3892,23 @@ partir du jour où l'assureur a reçu de l'assuré notification de la restitutio
 
 ###### Article L160-7
 
-En cas de réquisition de services, au sens de l'article 2 de l'ordonnance n° 59-63 du 6 janvier 1959, ainsi que dans le cas
-de logement ou de cantonnement, les contrats d'assurance de dommages continuent leurs effets de plein droit, nonobstant toute
-clause contraire et sans que l'assureur puisse se prévaloir de l'article L. 113-4. L'assureur, subrogé dans les droits du
-prestataire, peut mettre en cause la responsabilité de l'Etat dans les limites fixées à l'article 20 de l'ordonnance
-précitée.
+La réquisition de services, au sens de l'article 2 de l'ordonnance n° 59-63 du 6 janvier 1959 relative aux réquisitions de
+biens et de services, ainsi que dans le cas de logement ou de cantonnement, entraîne de plein droit la suspension des effets
+des contrats d'assurance de dommages, dans la limite de la réquisition, et dans la mesure de la responsabilité de l'Etat
+telle qu'elle est définie à l'article 20 de l'ordonnance n° 59-63 du 6 janvier 1959 précitée. 
+
+La suspension prévue à l'alinéa précédent ne modifie ni la durée du contrat ni les droits respectifs des parties quant à
+cette durée. Elle prend effet à la date d'entrée en vigueur de la réquisition de services. Le contrat suspendu reprend ses
+effets, de plein droit, à partir du jour de la fin de la réquisition de services, s'il n'a pas antérieurement pris fin pour
+une cause légale ou conventionnelle. L'assuré doit, par lettre recommandée, aviser l'assureur de la fin de la réquisition de
+services dans le délai d'un mois à partir du jour où il en a eu connaissance. Faute de notification dans ce délai, le contrat
+ne reprend ses effets qu'à partir du jour où l'assureur a reçu de l'assuré notification de la cessation de la réquisition. 
+
+L'Etat, le prestataire de services et l'assureur peuvent néanmoins décider que les contrats d'assurance de dommages
+continuent leurs effets et couvrent les risques liés à la réquisition, pour la durée déterminée par ces contrats. Dans ce
+cas, les dommages survenant à l'occasion d'une réquisition de services et couverts par un contrat d'assurance sont indemnisés
+par l'assureur. Nonobstant toute disposition contraire, le prestataire de services et l'assureur renoncent de ce fait à
+l'indemnisation par l'Etat de ces dommages. 
 
 En cas de réquisition de services au sens de l'article 2 de l'ordonnance précitée, les contrats d'assurance de personnes
 continuent leurs effets de plein droit nonobstant toute clause contraire et sans que l'assureur puisse se prévaloir du droit
@@ -3906,19 +3918,19 @@ précitée, l'assureur peut mettre en cause la responsabilité de l'Etat dans la
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 59-63 1959-01-06 art. 12
-
 	**Cite**:
 
 	  - Ordonnance n°59-63 du 6 janvier 1959 - art. 2 (Ab)
 	  - Ordonnance n°59-63 du 6 janvier 1959 - art. 20 (Ab)
-	  - Code des assurances - art. L113-4 (M)
+	  - Code des assurances - art. L113-4 (V)
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°93-1444 du 31 décembre 1993 - art. 19 () JORF 5 janvier 1994
 
 	**Cité par**:
 
@@ -3928,20 +3940,21 @@ précitée, l'assureur peut mettre en cause la responsabilité de l'Etat dans la
 
 ###### Article L160-8
 
-Dans tous les cas autres que ceux prévus à l'article L. 160-7, l'assuré doit, par lettre recommandée et dans le délai d'un
-mois à partir du jour où il a eu connaissance de la dépossession, en aviser l'assureur en précisant les biens sur lesquels
-porte la réquisition. A défaut de notification dans ce délai, l'assureur a droit, à titre de dommages-intérêts, à la fraction
-de prime correspondant au temps écoulé entre la date à laquelle l'assuré a eu connaissance de la dépossession et la date à
-laquelle il en a avisé l'assureur.
+Dans tous les cas autres que ceux prévus aux troisième et quatrième alinéas de l'article L. 160-7, l'assuré doit, par lettre
+recommandée et dans le délai d'un mois à partir du jour où il a eu connaissance de la dépossession ou de l'entrée en vigueur
+de la réquisition de services, en aviser l'assureur en précisant les biens sur lesquels porte la réquisition. A défaut de
+notification dans ce délai, l'assureur a droit, à titre de dommages-intérêts, à la fraction de prime correspondant au temps
+écoulé entre la date à laquelle l'assuré a eu connaissance de la dépossession ou de l'entrée en vigueur de la réquisition de
+services et la date à laquelle il en a avisé l'assureur. 
 
 En cas de résiliation, l'assureur doit, sous déduction éventuelle des dommages-intérêts prévus ci-dessus, restituer à
-l'assuré la portion de prime payée d'avance et afférente au temps où le risque n'est plus couru.
+l'assuré la portion de prime payée d'avance et afférente au temps où le risque n'est plus couru. 
 
 En cas de suspension, cette portion de prime est conservée par l'assureur au crédit de l'assuré et porte intérêt au taux des
-avances sur titres de la Banque de France à compter de la plus prochaine échéance.
+avances sur titres de la Banque de France à compter de la plus prochaine échéance. 
 
 En cas de réduction, la fraction de prime payée en excédent est également conservée par l'assureur au crédit de l'assuré ;
-elle porte intérêt dans les mêmes conditions et s'impute de plein droit sur les primes à échoir.
+elle porte intérêt dans les mêmes conditions et s'impute de plein droit sur les primes à échoir. 
 
 Si le contrat suspendu, ou réduit, prend fin pendant la réquisition, la portion de prime payée en trop est restituée à
 l'assuré avec les intérêts. Toutefois, elle s'impute de plein droit sur la somme due par l'assuré qui, au cours de la
@@ -3949,13 +3962,13 @@ réquisition, aura fait garantir d'autres risques par l'assureur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 59-63 1959-01-06 art. 13
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°93-1444 du 31 décembre 1993 - art. 19 () JORF 5 janvier 1994
 
 	**Cité par**:
 
@@ -3964,7 +3977,7 @@ réquisition, aura fait garantir d'autres risques par l'assureur.
 
 	**Cite**:
 
-	  - Code des assurances - art. L160-7 (M)
+	  - Code des assurances - art. L160-7 (V)
 
 
 ###### Article L160-9
@@ -6230,7 +6243,8 @@ terrestre à moteur, ainsi que ses remorques, ou semi-remorques, est impliqué, 
 Les contrats d'assurance couvrant la responsabilité mentionnée au premier alinéa du présent article doivent également couvrir
 la responsabilité civile de toute personne ayant la garde ou la conduite, même non autorisée, du véhicule, à l'exception des
 professionnels de la réparation, de la vente et du contrôle de l'automobile, ainsi que la responsabilité civile des passagers
-du véhicule objet de l'assurance.
+du véhicule objet de l'assurance. Toutefois, en cas de vol d'un véhicule, ces contrats ne couvrent pas la réparation des
+dommages subis par les auteurs, coauteurs ou complices du vol.
 
 L'assureur est subrogé dans les droits que possède le créancier de l'indemnité contre la personne responsable de l'accident
 lorsque la garde ou la conduite du véhicule a été obtenue contre le gré du propriétaire.
@@ -6249,7 +6263,7 @@ article.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°85-677 du 5 juillet 1985 - art. 47 (MMN)
+	  - SPEC_APPLI: Décret n°86-21 1986-01-07 art. 10 *garanties minimales*
 	  - TXT_SOURCE: Arrêté du 23 février 1989
 	  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 1 (V)
@@ -6257,7 +6271,6 @@ article.
 	  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 2 (V)
 	  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 3 (Ab)
 	  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 3 (V)
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 	  - TXT_SOURCE: Arrêté du 30 novembre 1990
 	  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 2 (Ab)
@@ -6273,8 +6286,6 @@ article.
 	  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 6 (M)
 	  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 7 (VT)
 	  - PILOTE_SUIVEUR: Code de la route. - art. L324-1 (V)
-	  - SPEC_APPLI: Code des assurances - art. L211-2 (V)
-	  - SPEC_APPLI: Code des assurances - art. L211-3 (Ab)
 	  - TXT_ASSOCIE: Code des assurances - art. L211-8 (T)
 	  - TXT_SOURCE: Code des assurances - art. R*211-11 (M)
 	  - TXT_SOURCE: Code des assurances - art. R*211-16 (M)
@@ -6310,7 +6321,6 @@ article.
 	  - TXT_SOURCE: Code des assurances - art. R211-21-6 (V)
 	  - TXT_SOURCE: Code des assurances - art. R211-21-7 (V)
 	  - TXT_SOURCE: Code des assurances - art. R211-27 (V)
-	  - SPEC_APPLI: Code des assurances - art. R211-29 (T)
 	  - TXT_SOURCE: Code des assurances - art. R211-3 (M)
 	  - TXT_SOURCE: Code des assurances - art. R211-4 (V)
 	  - TXT_SOURCE: Code des assurances - art. R211-5 (V)
@@ -6407,7 +6417,7 @@ article.
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°93-1444 du 31 décembre 1993 - art. 18 () JORF 5 janvier 1994
 
 
 ###### Article L211-2
@@ -6508,11 +6518,12 @@ financières suffisantes.
 ###### Article L211-4
 
 L'assurance prévue à l'article L. 211-1 doit comporter une garantie de la responsabilité civile s'étendant à l'ensemble des
-territoires des Etats membres de la Communauté économique européenne ainsi qu'aux territoires des Etats suivants : Saint-
-Siège, Saint-Marin, Monaco, Autriche, Finlande, Norvège, Suède, Suisse, Liechtenstein. Cette garantie, lorsqu'elle est
-appelée à jouer hors du territoire français, est accordée par l'assureur dans les limites et conditions prévues par la
-législation nationale de l'Etat sur le territoire duquel s'est produit le sinistre ou par celle de l'Etat où le véhicule a
-son stationnement habituel lorsque la couverture d'assurance y est plus favorable.
+territoires des Etats membres de la Communauté européenne ainsi qu'aux territoires de tout Etat tiers pour lequel les bureaux
+nationaux de tous les Etats membres de la Communauté européenne se portent individuellement garants du règlement des
+sinistres survenus sur leur territoire et provoqués par la circulation des véhicules ayant leur stationnement habituel dans
+cet Etat tiers. Cette garantie, lorsqu'elle est appelée à jouer hors du territoire français, est accordée par l'assureur dans
+les limites et conditions prévues par la législation nationale de l'Etat sur le territoire duquel s'est produit le sinistre
+ou par celle de l'Etat où le véhicule a son stationnement habituel lorsque la couverture d'assurance y est plus favorable.
 
 Cette assurance doit également comporter une garantie de la responsabilité civile en cas de sinistre survenant au cours du
 trajet reliant directement deux territoires où le traité instituant la Communauté économique européenne est applicable,
@@ -6535,6 +6546,7 @@ d'immatriculation, L'Etat sur le territoire duquel est domiciliée la personne q
 
 	  - TXT_SOURCE: Arrêté du 22 juin 1988
 	  - TXT_SOURCE: Arrêté du 22 juin 1988 - art. 1 (V)
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Cité par**:
 
@@ -6562,7 +6574,7 @@ d'immatriculation, L'Etat sur le territoire duquel est domiciliée la personne q
 
 	**Modifié par**:
 
-	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+	  - Loi n°94-5 du 4 janvier 1994 - art. 40 () JORF 5 janvier 1994
 
 	**Cite**:
 
@@ -7132,17 +7144,20 @@ délais impartis par la loi aux tiers payeurs pour produire leurs créances.
 
 Les amendes prononcées pour violation de l'obligation d'assurance prévue par l'article L. 211-1, y compris les amendes qu'une
 mesure de grâce aurait substituées à l'emprisonnement, sont affectées d'une majoration de 50 % perçue, lors de leur
-recouvrement, au profit du Fonds de garantie institué par l'article L. 420-1.
+recouvrement, au profit du Fonds de garantie institué par l'article L. 420-1 (1).
 
-Si la juridiction civile est saisie d'une contestation sérieuse portant sur l'existence ou la validité de l'assurance, la
+Si la juridiction civile est saisie d'une contestation sérieuse, portant sur l'existence ou la validité de l'assurance, la
 juridiction pénale appelée à se prononcer sur les poursuites exercées pour violation de l'obligation d'assurance sursoit à
 statuer jusqu'à ce qu'il ait été jugé définitivement sur la contestation.
 
-Les dispositions du présent article ne sont pas applicables lorsqu l'assurance de la responsabilité civile concerne des
-véhicules ayant leur stationnement habituel au sens de l'article L. 221-4 sur le territoire d'un Etat membre de la Communauté
-économique européenne, à l'exclusion de la France, ou sur celui d'un des Etats suivants :
+Les dispositions du présent article ne sont pas applicables lorsque l'assurance de la responsabilité civile concerne les
+véhicules ayant leur stationnement habituel sur le territoire d'un Etat visé à l'article L. 211-4 à l'exception de la France
+et de Monaco.
 
-Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et Liechtenstein.
+**Nota:**
+
+(1) : Art. 3 décret n° 88-260 du 18 mars 1988 JORF du 20 mars 1988 : L'article L. 420-1 à été transféré dans l'article L.
+421-1.
 
 **Liens relatifs à cet article**
 
@@ -7150,20 +7165,23 @@ Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et Liech
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°85-1407 1985-12-30 art. 63 JORF 31 décembre 1985
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 40 () JORF 5 janvier 1994
 
 	**Transféré par**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 2 () JORF 20 mars 1988
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
+	  - Loi n°2004-204 du 9 mars 2004 - art. 59 (V) JORF 10 mars 2004
 
 	**Cite**:
 
 	  - Code des assurances - art. L211-1 (M)
+	  - Code des assurances - art. L211-4 (M)
 	  - Code des assurances - art. L420-1 (M)
-	  - Code des assurances L211-1, L221-4, L420-1
 
 	**Nouveaux textes**:
 
@@ -7180,10 +7198,6 @@ Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et Liech
 	  - Code des assurances - art. L271-1 (V)
 	  - Code des assurances - art. R211-12 (V)
 	  - Code des assurances - art. R421-37 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. L214-2 (M)
 
 
 #### Chapitre II : L'obligation d'assurer - Le bureau central de tarification.
@@ -7624,44 +7638,6 @@ d'adaptation du présent chapitre.
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-
-### Titre III : L'assurance de la responsabilité civile des chasseurs
-
-#### Chapitre unique.
-
-###### Article L230-1
-
-Conformément à l'article 366 bis du code rural, la demande de visa du permis de chasser présentée annuellement au préfet ou
-au maire doit être accompagnée par une attestation délivrée par une entreprise d'assurance, permettant de constater que la
-responsabilité civile du demandeur est garantie pour une somme illimitée et sans qu'aucune déchéance soit opposable aux
-victimes ou à leurs ayants droit, en raison des accidents corporels occasionnés par tout acte de chasse ou tout acte de
-destruction d'animaux nuisibles.
-
-Comme il est dit au même article 366 bis :
-
-"L'assurance devra aussi couvrir, dans les mêmes conditions la responsabilité civile encourue par le chasseur du fait de ses
-chiens. Le permis cesse d'être valable, et il est retiré provisoirement par le préfet, si le contrat d'assurance est résilié
-ou si la garantie prévue au contrat est suspendue pour quelque cause que ce soit ; la résiliation du contrat ou la suspension
-de la garantie doivent être notifiées par l'entreprise d'assurance au préfet du département où l'assuré a son domicile. Un
-décret en Conseil d'Etat fixe les modalités d'application du présent alinéa.
-
-Tout contrat d'assurance couvrant la responsabilité civile des chasseurs est, nonobstant toute clause contraire, réputé
-comporter des garanties au moins équivalentes à celles qui sont fixées par l'alinéa ci-dessus".
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 366 bis
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Loi n°93-1444 du 31 décembre 1993 - art. 20 () JORF 5 janvier 1994
 
 
 ### Titre IV : L'assurance des travaux du bâtiment
@@ -10633,20 +10609,23 @@ associations reconnues d'utilité publique.
 
 ###### Article L322-27
 
-Les sociétés ou caisses d'assurance et de réassurances mutuelles agricoles restent régies pour leur constitution par
-l'article 1235 du Code rural.
+Les sociétés ou caisses d'assurances et de réassurances mutuelles agricoles restent régies pour leur constitution par
+l'article L. 771-1 code rural.
 
-Un décret en Conseil d'Etat fixe, en ce qui concerne les sociétés ou caisses pratiquant l'assurance contre les accidents et
-compte tenu de leur organisation particulière, les modalités d'application du présent article.
-
-Un décret en Conseil d'Etat peut fixer, en ce qui concerne les autres sociétés ou caisses régies par l'article 1235 du Code
-rural, les modalités d'application du présent article.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article et définit celles des opérations mentionnées
+à l'article L. 310-1 qu'elles peuvent être autorisées à pratiquer ; leur sociétariat peut être limité aux personnes exerçant
+une profession agricole ou connexe à l'agriculture, ou s'étendre à toutes autres catégories de personnes physiques ou morales
+prévues par leurs statuts.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°93-1444 du 31 décembre 1993 - art. 21 () JORF 5 janvier 1994
 
 	**Cité par**:
 
@@ -10657,6 +10636,11 @@ rural, les modalités d'application du présent article.
 	  - Code des assurances - art. R322-122 (V)
 	  - Code des assurances - art. R322-123 (V)
 	  - Code rural - art. L771-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code rural L771-1
 
 	**Liens**:
 
@@ -10673,14 +10657,6 @@ rural, les modalités d'application du présent article.
 	  - TXT_SOURCE: Code des assurances - art. R322-127 (M)
 	  - TXT_SOURCE: Code des assurances - art. R322-132 (V)
 	  - TXT_SOURCE: Code des assurances - art. R322-137 (M)
-
-	**Cite**:
-
-	  - Code rural 1235
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 4
 
 
 #### Chapitre III : Procédures de redressement et de sauvegarde
@@ -13902,10 +13878,8 @@ par l'article L. 211-1, la victime et le fonds de garantie sont fondés à se pr
 articles 48 à 57 du code de procédure civile.
 
 Toutefois, ces dispositions ne sont pas applicables lorsque l'assurance de la responsabilité civile concerne des véhicules
-ayant leur stationnement habituel au sens de l'article L. 211-1 sur le territoire d'un Etat membre de la Communauté
-économique européenne autre que la France, ou sur celui d'un des Etats suivants :
-
-Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et Liechtenstein.
+ayant leur stationnement habituel sur le territoire d'un Etat visé à l'article L. 211-4 à l'exception de la France et de
+Monaco.
 
 **Liens relatifs à cet article**
 
@@ -13913,22 +13887,24 @@ Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et Liech
 
 	  - Décret n°76-666 1976-07-16
 
-	**Transféré par**:
-
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 22 juin 1988
 	  - TXT_SOURCE: Arrêté du 22 juin 1988 - art. 1 (V)
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - TXT_ASSOCIE: Code des assurances - art. L326-16 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. L326-17 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. L328-12 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 40 () JORF 5 janvier 1994
 
 	**Cite**:
 
 	  - Code de procédure civile 48 à 57
 	  - Code des assurances - art. L211-1 (M)
+	  - Code des assurances - art. L211-4 (M)
 
 	**Anciens textes**:
 
@@ -13945,9 +13921,17 @@ Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et Liech
 
 ###### Article L421-8
 
-Comme il résulte de l'article 366 ter du code rural, le fonds de garantie institué par l'article L. 421-1 intervient pour
-l'indemnisation des dommages corporels occasionnés par tous actes de chasse ou de destruction des animaux nuisibles en France
-métropolitaine.
+Le fonds de garantie institué par l'article L. 421-1 est chargé d'indemniser les dommages corporels occasionnés par tous
+actes de chasse ou de destruction des animaux nuisibles dans les parties du territoire où l'assurance instituée par l'article
+L. 223-13 du code rural est obligatoire, même si ces actes ne sont pas compris dans l'obligation d'assurance, dès lors qu'ils
+sont le fait d'un auteur demeuré inconnu, ou non assuré, ou que son assureur est totalement ou partiellement insolvable.
+
+Les dépenses résultant de l'application de l'alinéa précédent sont couvertes par les contributions des sociétés d'assurances,
+des chasseurs assurés et des responsables d'accidents corporels de chasse non bénéficiaires d'une assurance, ainsi que par
+une majoration de 50 % des amendes, y compris celles qu'une mesure de grâce aurait substituées à l'emprisonnement, prononcées
+pour un acte de chasse effectué sans permis ou dans un lieu, un temps ou au moyen d'engins prohibés.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -13955,9 +13939,9 @@ métropolitaine.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
+	  - Loi n°93-1444 du 31 décembre 1993 - art. 20 () JORF 5 janvier 1994
 
 	**Cité par**:
 
@@ -13981,7 +13965,7 @@ métropolitaine.
 	**Cite**:
 
 	  - Code des assurances - art. L421-1 (M)
-	  - Code rural 366 ter
+	  - Code rural L223-13
 
 
 ##### Section V : Régime financier du fonds de garantie.
@@ -14073,12 +14057,8 @@ d'assurance ayant fait l'objet du retrait d'agrément.
 
 Le fonds de garantie est chargé de l'indemnisation des victimes d'accidents causés par les véhicules dont la circulation
 entraîne l'application d'une obligation d'assurance de la responsabilité civile et qui ont leur stationnement habituel en
-France métropolitaine ou à Monaco, lorsque ces accidents surviennent sur le territoire d'un des Etats membres de la
-Communauté économique européenne autres que la France, ainsi que sur le territoire des Etats suivants : Saint-Siège, Saint-
-Marin, Autriche, Finlande, Norvège, Suède, Suisse et Liechtenstein.
-
-L'Etat où le véhicule a son stationnement habituel est soit l'Etat d'immatriculation du véhicule, soit, à défaut d'obligation
-d'immatriculation, l'Etat sur le territoire duquel est domiciliée la personne qui a la garde du véhicule.
+France métropolitaine ou à Monaco lorsque ces accidents surviennent sur le territoire d'un Etat visé à l'article L. 211-4 à
+l'exception de la France et de Monaco.
 
 L'intervention du fonds de garantie est subordonnée aux conditions ci-après :
 
@@ -14093,14 +14073,20 @@ territoire duquel s'est produit l'accident.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Transféré par**:
-
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 22 juin 1988
 	  - TXT_SOURCE: Arrêté du 22 juin 1988 - art. 1 (V)
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 1994-01-04 art. 40 IV, VI JORF 5 janvier 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 40 () JORF 5 janvier 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L211-4 (M)
 
 	**Anciens textes**:
 
@@ -14119,15 +14105,12 @@ Le fonds de garantie est également chargé de l'indemnisation des victimes lors
 à l'article L. 421-11 s'est produit pendant le trajet reliant directement deux territoires où le traité instituant la
 Communauté économique européenne est applicable.
 
-L'intervention du fonds de garantie est subordonnée aux conditions prévues à l'article L. 421-11 ainsi qu'aux conditions
-suivantes :
+L'intervention du fonds de garantie est, dans ce cas, subordonnée aux conditions prévues à l'article L. 421-11 ainsi qu'aux
+conditions suivantes :
 
 - il doit n'exister pour le territoire parcouru aucun bureau national d'assurance ;
 
-- les victimes doivent être ressortissantes d'Etat membre de la Communauté économique européenne, ou d'un des Etats
-suivants :
-
-Saint-Siège, Monaco, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et Liechtenstein.
+- Les victimes doivent être ressortissantes d'un Etat visé à l'article L. 211-4.
 
 L'indemnisation des victimes est, dans ce cas, effectuée dans les conditions prévues par la législation nationale sur
 l'obligation d'assurance en vigueur dans l'Etat où le véhicule qui a causé l'accident a son stationnement habituel.
@@ -14138,17 +14121,22 @@ l'obligation d'assurance en vigueur dans l'Etat où le véhicule qui a causé l'
 
 	  - Décret n°76-666 1976-07-16
 
-	**Transféré par**:
+	**Liens**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 40 () JORF 5 janvier 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L211-4 (M)
+	  - Code des assurances - art. L421-11 (M)
 
 	**Anciens textes**:
 
 	  - Code des assurances - art. L420-12 (T)
-
-	**Cite**:
-
-	  - Code des assurances - art. L421-11 (M)
 
 	**Cité par**:
 
