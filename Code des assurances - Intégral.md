@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-03-20
+Version Consolidée au 1992-04-01
 
 # Partie législative
 
@@ -17302,23 +17302,24 @@ l'article R. 111-1 du code de la route.
 
 ###### Article R211-21-2
 
-Pour l'application de l'article R. 211-21-1, toute entreprise d'assurance agréée en France doit délivrer sans frais un
-certificat pour chacun des véhicules couverts par le contrat, à l'exception toutefois des remorques.
+Pour l'application de l'article R. 211-21-1, toute entreprise d'assurance pratiquant sur le territoire de la République
+française doit délivrer sans frais un certificat pour chacun des véhicules couverts par le contrat, à l'exception toutefois
+des remorques. 
 
-Le certificat doit mentionner :
+Le certificat doit mentionner : 
 
-a) La dénomination de l'entreprise d'assurance ;
+a) La dénomination de l'entreprise d'assurance ; 
 
-b) Un numéro permettant l'identification du souscripteur ;
+b) Un numéro permettant l'identification du souscripteur ; 
 
-c) Le numéro d'immatriculation du véhicule ;
+c) Le numéro d'immatriculation du véhicule ; 
 
-d) Le numéro de moteur lorsque le véhicule n'est pas soumis à immatriculation ;
+d) Le numéro de moteur lorsque le véhicule n'est pas soumis à immatriculation ; 
 
-e) Les dates de début et de fin de validité.
+e) Les dates de début et de fin de validité. 
 
 Par dérogation au deuxième alinéa, le certificat délivré aux personnes mentionnées à l'alinéa 1er de l'article R. 211-3 ne
-doit comporter que les indications a, b et e ainsi qu'en termes apparents le mot "Garage".
+doit comporter que les indications a, b et e ainsi qu'en termes apparents le mot " Garage ". 
 
 Tout conducteur d'un véhicule sur lequel est apposé le certificat décrit à l'alinéa précédent doit en outre être en mesure de
 justifier aux autorités chargées du contrôle des documents justificatifs que la conduite du véhicule lui a été confiée par
@@ -17350,11 +17351,11 @@ une des personnes mentionnées à l'alinéa 1er de l'article R. 211-3.
 
 	**Modifié par**:
 
-	  - Décret n°89-111 1989-02-21 art. 6 JORF 23 février 1989
+	  - Décret n°92-308 du 31 mars 1992 - art. 1 () JORF 1er avril 1992
 
 	**Cite**:
 
-	  - Code des assurances - art. R*211-3 (M)
+	  - Code des assurances - art. R211-3 (V)
 
 
 ###### Article R211-21-3
@@ -18336,7 +18337,7 @@ contrat déjà existant, lorsque cette proposition est faite pour satisfaire à 
 
 Lorsqu'il s'agit de la souscription d'un contrat nouveau, le silence de l'assureur pendant plus de quinze jours après
 réception de la proposition est considéré comme un refus implicite d'assurance ; lorsqu'il s'agit de la modification d'un
-contrat déjà existant, il est fait application des dispositions du deuxième alinéa de l'article L. 112-2.
+contrat déjà existant, il est fait application des dispositions du cinquième alinéa de l'article L. 112-2.
 
 Est assimilé à un refus le fait par l'assureur, saisi d'une proposition d'assurance en application de l'article L. 211-1, de
 subordonner son acceptation à la couverture de risques non mentionnés par cet article ou dont l'étendue excéderait les
@@ -18350,7 +18351,11 @@ limites de l'obligation d'assurance.
 
 	**Modifié par**:
 
-	  - Décret n°83-484 1983-06-09 art. 2 JORF 14 juin 1983
+	  - Décret n°92-308 du 31 mars 1992 - art. 5 () JORF 1er avril 1992
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 	**Cite**:
 
@@ -18398,12 +18403,11 @@ un an et renouvelable par tacite reconduction.
 
 ###### Article R*212-8
 
-Toute entreprise d'assurance agréée pour pratiquer le opérations de responsabilité civile résultant de l'emploi de véhicules
-terrestres automoteurs doit tenir à la disposition de toute personne qui en fait la demande, des formules de proposition
-permettant de répondre aux prescriptions de l'article R. 212-5 ; elle doit, de plus, indiquer le montant de la prime
-applicable au risque proposé et fixé par son tarif de référence, tel qu'il a été communiqué au ministre de l'économie, des
-finances et du budget, conformément à l'article R. 310-6. Dans le cas d'une entreprise à cotisations variables, la
-possibilité réglementaire d'un rappel de cotisation doit être indiquée.
+Toute entreprise d'assurance pratiquant sur le territoire de la République française les opérations de responsabilité civile
+résultant de l'emploi de véhicules terrestres automoteurs doit tenir à la disposition de toute personne qui en fait la
+demande, des formules de proposition permettant de répondre aux prescriptions de l'article R. 212-5 ; elle doit, de plus,
+indiquer le montant de la prime applicable au risque proposé et fixé par son tarif de référence. Dans le cas d'une entreprise
+à cotisations variables, la possibilité réglementaire d'un rappel de cotisation doit être indiquée.
 
 En outre, et si la personne le sollicite, l'entreprise d'assurance doit fournir les éléments d'information relatifs au calcul
 de cette prime en distinguant la prime normale, la surprime pour circonstances aggravantes, ainsi que les réductions ou
@@ -18417,7 +18421,11 @@ majorations diverses.
 
 	**Modifié par**:
 
-	  - Décret n°83-484 1983-06-09 art. 5 JORF 14 juin 1983
+	  - Décret n°92-308 du 31 mars 1992 - art. 3 () JORF 1er avril 1992
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 	**Cité par**:
 
@@ -18430,7 +18438,6 @@ majorations diverses.
 	**Cite**:
 
 	  - Code des assurances - art. R212-5 (Ab)
-	  - Code des assurances R212-5, R310-6
 
 
 ###### Article R*212-9
@@ -18465,8 +18472,7 @@ examen de l'affaire dans le délai qu'il fixera.
 
 ###### Article R*212-10
 
-Le bureau central de tarification établit son règlement intérieur qui est soumis, avant application, à l'approbation du
-ministre de l'économie et des finances ; son secrétariat est assuré par le conseil national des assurances.
+Le bureau central de tarification établit son règlement intérieur.
 
 **Liens relatifs à cet article**
 
@@ -18474,9 +18480,13 @@ ministre de l'économie et des finances ; son secrétariat est assuré par le co
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-484 1983-06-09 art. 4 JORF 14 juin 1983
+	  - Décret n°92-308 du 31 mars 1992 - art. 4 () JORF 1er avril 1992
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 	**Anciens textes**:
 
@@ -18488,13 +18498,12 @@ ministre de l'économie et des finances ; son secrétariat est assuré par le co
 Le bureau central de tarification institué par l'article L. 212-1 comprend un président et douze membres qui sont nommés par
 arrêté du ministre de l'économie.
 
-1. Le président est choisi, sur proposition du conseil national des assurances, parmi les professeurs des disciplines
-juridiques des universités, les conseillers d'Etat, les conseillers à la Cour de cassation et les conseillers maîtres à la
-Cour des comptes.
+1. Le président est choisi parmi les professeurs des disciplines juridiques des universités, les conseillers d'Etat, les
+conseillers à la Cour de cassation et les conseillers maîtres à la Cour des comptes.
 
-2. Six membres représentent les entreprises d'assurances françaises et étrangères agréées pour pratiquer l'assurance
-automobile et sont nommés sur proposition des organismes professionnels ; un de ces membres représente les caisses
-d'assurance et de réassurance mutuelles agricoles pratiquant l'assurance automobile.
+2. Six membres représentent les entreprises d'assurances pratiquant l'assurance automobile sur le territoire de la République
+française et sont nommés sur proposition des organismes professionnels ; un de ces membres représente les caisses d'assurance
+et de réassurance mutuelles agricoles pratiquant l'assurance automobile.
 
 3. Six membres représentent les personnes assujetties à l'obligation d'assurance ; ils sont nommés sur proposition respective
 de l'assemblée des présidents de chambres françaises de commerce et d'industrie de France, de l'assemblée permanente des
@@ -18513,7 +18522,11 @@ les membres titulaires.
 
 	**Modifié par**:
 
-	  - Décret n°91-739 du 18 juillet 1991 - art. 47 (Ab) JORF 1er août 1991
+	  - Décret n°92-308 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 	**Liens**:
 
@@ -19210,7 +19223,7 @@ proposition est faite pour satisfaire à l'obligation d'assurance.
 Lorsqu'il s'agit de la souscription d'un contrat nouveau, le silence de l'assureur pendant plus de dix jours après réception
 de la proposition est considéré comme un refus implicite d'assurance.
 
-Lorsqu'il s'agit de la modification d'un contrat déjà existant, il est fait application des dispositions du deuxième alinéa
+Lorsqu'il s'agit de la modification d'un contrat déjà existant, il est fait application des dispositions du cinquième alinéa
 de l'article L. 112-2.
 
 Est assimilé à un refus le fait par l'assureur, saisi d'une proposition d'assurance en application de l'article L. 220-1, de
@@ -19219,13 +19232,17 @@ de l'obligation d'assurance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°64-541 1964-06-09 art. 10
-
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-308 du 31 mars 1992 - art. 5 () JORF 1er avril 1992
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 	**Cité par**:
 
@@ -19625,7 +19642,7 @@ contrat déjà existant, lorsque cette proposition est faite pour satisfaire à 
 
 Lorsqu'il s'agit de la souscription d'un contrat nouveau, l'absence d'acceptation par l'assureur pendant plus de 90 jours
 après réception de la proposition initiale est considérée comme un refus implicite d'assurance. Lorsqu'il s'agit de la
-modification d'un contrat déjà existant, il est fait application des dispositions du 2e alinéa de l'article L. 112-2.
+modification d'un contrat déjà existant, il est fait application des dispositions du cinquième alinéa de l'article L. 112-2.
 
 Est assimilé à un refus le fait par l'assureur, saisi d'une proposition d'assurance en application du titre IV du livre II,
 de subordonner son acceptation à la couverture de risques non visés par ces dispositions ou dont l'étendue excéderait les
@@ -19633,9 +19650,13 @@ limites de l'obligation d'assurance.
 
 **Liens relatifs à cet article**
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
+	  - Décret n°92-308 du 31 mars 1992 - art. 5 () JORF 1er avril 1992
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 	**Cite**:
 
@@ -41075,12 +41096,165 @@ vue de cette souscription ou adhésion, les conditions de garantie d'un tel cont
 	  - Décret n°1938-06-14 art. 33
 
 
-###### Article R*511-2
+###### Article R*511-3
+
+Les commissions allouées en rémunération de l'apport ou de la gestion d'une opération d'assurance ou de capitalisation ne
+peuvent être rétrocédées en totalité ou en partie à une personne physique ou morale que si celle-ci appartient à l'une des
+catégories habilitées à effectuer cette présentation conformément aux articles R. 511-2 et R. 511-4. Cette disposition ne
+fait pas obstacle à une rétribution des indicateurs dont le rôle se borne à mettre en relations l'assuré et l'assureur ou à
+signaler l'un à l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Cite**:
+
+	  - Code des assurances - art. R*511-2 (M)
+	  - Code des assurances R511-2, R511-4
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*511-7 (M)
+	  - Code des assurances - art. R*511-8 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des assurances R511-7, R511-8
+
+	**Anciens textes**:
+
+	  - Décret n°1938-06-14 art. 33
+
+
+###### Article R*511-4
+
+Toute personne physique mentionnée sous l'un des numéros de l'article R. 511-2 doit, sous réserve des dérogations prévues au
+chapitre II du présent titre :
+
+1° Avoir la majorité légale ;
+
+2° Etre soit de nationalité française, soit ressortissante d'un Etat membre de la Communauté économique européenne, soit
+ressortissante d'un Etat dont la législation permet aux ressortissants français d'exercer sur son territoire une activité
+analogue, soit bénéficiant d'une convention internationale les assimilant aux ressortissants français ;
+
+3° Remplir les conditions de capacité professionnelle prévues, pour chaque catégorie, par décret pris sur le rapport du
+ministre de l'économie et des finances, du garde des sceaux, ministre de la justice, et du ministre de l'éducation ;
+
+4° Ne pas être frappée d'une des incapacités prévues à l'article L. 511-2.
+
+Pour exercer l'une des professions ou activités énumérées aux 1° à 4° de l'article R. 511-2, toute personne mentionnée au
+premier alinéa du présent article doit pouvoir, à tout moment, justifier qu'elle remplit les conditions exigées par ledit
+alinéa.
+
+Un décret pris sur le rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice,
+détermine les diverses mesures pouvant permettre de vérifier que les conditions ci-dessus définies sont remplies.
+
+Les contrats d'assurance ou de capitalisation souscrits en infraction aux dispositions de l'article R. 511-2 et du présent
+article et les adhésions à de tels contrats obtenues en infraction à ces dispositions peuvent, pendant une durée de deux ans
+à compter de cette souscription ou adhésion, être résiliés à toute époque par le souscripteur ou adhérent, moyennant préavis
+d'un mois au moins. Dans ce cas, l'assureur n'a droit qu'à la partie de la prime correspondant à la couverture du risque
+jusqu'à la résiliation et il doit restituer le surplus éventuellement perçu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-310 1992-03-31 art. 2 I, II JORF 1er avril 1992
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L511-2 (M)
+	  - Code des assurances - art. R*511-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des assurances R511-8
+	  - TXT_ASSOCIE: Code des assurances R513-1 à R513-4, R514-1 à R514-16
+
+
+###### Article R*511-7
+
+Toute personne qui, dans une entreprise mentionnée à l'article L. 310-1 ou une entreprise de courtage ou une agence générale,
+a sous son autorité des personnes chargées de présenter des opérations d'assurance ou de capitalisation, est tenue de veiller
+à ce que celles-ci remplissent les conditions prévues aux articles R. 511-2 et R. 511-4.
+
+Toute personne qui, dans les entreprises mentionnées à l'article L. 310-1, remet à un agent général d'assurance ou à une
+personne chargée des fonctions d'agent général d'assurances le document prévu au b de l'article R. 514-1 doit préalablement
+avoir fait la déclaration au parquet prescrite à l'article R. 514-8 relative à cet agent général ou à celui qui est chargé
+des fonctions d'agent général et avoir vérifié qu'il ressort des pièces qui lui sont communiquées que celui-ci remplit les
+conditions requises par les dispositions du premier alinéa de l'article R. 511-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R*511-2 (M)
+	  - Code des assurances - art. R*514-1 (M)
+	  - Code des assurances L310-1, R511-2, R511-4, R514-1, R514-8
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des assurances R511-8
+
+
+###### Article R*511-8
+
+Toute personne qui présente des opérations définies à l'article R. 511-1 en méconnaissance des règles prévues aux articles R.
+511-2 et R. 511-4 est passible de l'amende prévue pour les contraventions de la 5e classe.
+
+Lorsqu'il y a récidive, l'amende applicable est celle prévue dans ce cas pour les contraventions de la 5e classe.
+
+Est passible des mêmes sanctions toute personne qui rétrocède des commissions en méconnaissance des règles prévues à
+l'article R. 511-3.
+
+Est également passible des sanctions prévues aux premier et deuxième alinéas du présent article la personne visée à l'article
+R. 511-7 qui a fait appel ou, par suite d'un défaut de surveillance, a laissé faire appel, pour une personne placée sous son
+autorité, à des personnes ne remplissant pas les conditions définies aux articles R. 511-2 et R. 511-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°84-1167 1984-12-21 art. 2 JORF 26 décembre 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R*511-1 (M)
+	  - Code des assurances - art. R*511-2 (M)
+	  - Code des assurances - art. R*511-3 (M)
+	  - Code des assurances R511-1, R511-2, R511-3, R511-4, R511-7
+
+
+###### Article R511-2
 
 Les opérations pratiquées par les entreprises mentionnées à l'article L. 310-1 ne peuvent être présentées que par les
 personnes suivantes, sauf dérogation dans des cas et conditions limitativement fixés par décret en Conseil d'Etat pris sur le
-rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice, après avis du Conseil
-national des assurances :
+rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice ;
 
 1° Les personnes physiques et sociétés immatriculées au registre du commerce pour le courtage d'assurances et, dans ces
 sociétés, les associés et les tiers qui ont le pouvoir de gérer ou d'administrer ;
@@ -41145,6 +41319,10 @@ capitalisation, à la remise matérielle des sommes dues aux assurés ou bénéf
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
@@ -41153,167 +41331,13 @@ capitalisation, à la remise matérielle des sommes dues aux assurés ou bénéf
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*512-6 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. R*512-9 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*512-9 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*513-6 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R512-1 (V)
 	  - TXT_SOURCE: Code des assurances - art. R512-2 (VT)
 	  - TXT_SOURCE: Code des assurances - art. R512-3 (V)
 	  - TXT_SOURCE: Code des assurances - art. R512-4 (V)
 	  - TXT_SOURCE: Code des assurances - art. R512-5 (V)
-	  - SPEC_APPLI: Code des assurances R511-4, R511-7, R511-8
-	  - TXT_ASSOCIE: Code des assurances R512-1 à R512-6, R512-9
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 31
-
-
-###### Article R*511-3
-
-Les commissions allouées en rémunération de l'apport ou de la gestion d'une opération d'assurance ou de capitalisation ne
-peuvent être rétrocédées en totalité ou en partie à une personne physique ou morale que si celle-ci appartient à l'une des
-catégories habilitées à effectuer cette présentation conformément aux articles R. 511-2 et R. 511-4. Cette disposition ne
-fait pas obstacle à une rétribution des indicateurs dont le rôle se borne à mettre en relations l'assuré et l'assureur ou à
-signaler l'un à l'autre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. R*511-2 (M)
-	  - Code des assurances R511-2, R511-4
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*511-7 (M)
-	  - Code des assurances - art. R*511-8 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances R511-7, R511-8
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 33
-
-
-###### Article R*511-4
-
-Toute personne physique mentionnée sous l'un des numéros de l'article R. 511-2 doit, sous réserve des dérogations prévues au
-chapitre II du présent titre :
-
-1° Etre âgée d'au moins vingt et un ans ;
-
-2° Etre soit de nationalité française, soit ressortissante d'un Etat membre de la Communauté économique européenne, soit
-ressortissante d'un Etat dont la législation permet aux ressortissants français d'exercer sur son territoire une activité
-analogue, soit bénéficiant d'une convention internationale les assimilant aux ressortissants français ;
-
-3° Remplir les conditions de capacité professionnelle prévues, pour chaque catégorie, par décret pris sur le rapport du
-ministre de l'économie et des finances, du garde des sceaux, ministre de la justice, et du ministre de l'éducation, après
-avis du conseil national des assurances ;
-
-4° Ne pas être frappée d'une des incapacités prévues à l'article L. 511-2.
-
-Pour exercer l'une des professions ou activités énumérées aux 1° à 4° de l'article R. 511-2, toute personne mentionnée au
-premier alinéa du présent article doit pouvoir, à tout moment, justifier qu'elle remplit les conditions exigées par ledit
-alinéa.
-
-Un décret pris sur le rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice, après
-avis du conseil national des assurances, détermine les diverses mesures pouvant permettre de vérifier que les conditions ci-
-dessus définies sont remplies.
-
-Les contrats d'assurance ou de capitalisation souscrits en infraction aux dispositions de l'article R. 511-2 et du présent
-article et les adhésions à de tels contrats obtenues en infraction à ces dispositions peuvent, pendant une durée de deux ans
-à compter de cette souscription ou adhésion, être résiliés à toute époque par le souscripteur ou adhérent, moyennant préavis
-d'un mois au moins. Dans ce cas, l'assureur n'a droit qu'à la partie de la prime correspondant à la couverture du risque
-jusqu'à la résiliation et il doit restituer le surplus éventuellement perçu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. L511-2 (M)
-	  - Code des assurances - art. R*511-2 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances R511-8
-	  - TXT_ASSOCIE: Code des assurances R513-1 à R513-4, R514-1 à R514-16
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 32
-
-
-###### Article R*511-7
-
-Toute personne qui, dans une entreprise mentionnée à l'article L. 310-1 ou une entreprise de courtage ou une agence générale,
-a sous son autorité des personnes chargées de présenter des opérations d'assurance ou de capitalisation, est tenue de veiller
-à ce que celles-ci remplissent les conditions prévues aux articles R. 511-2 et R. 511-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°84-1167 1984-12-21 art. 1 JORF 26 décembre 1984
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. R*511-2 (M)
-	  - Code des assurances L310-1, R511-2, R511-4
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances R511-8
-
-
-###### Article R*511-8
-
-Toute personne qui présente des opérations définies à l'article R. 511-1 en méconnaissance des règles prévues aux articles R.
-511-2 et R. 511-4 est passible de l'amende prévue pour les contraventions de la 5e classe.
-
-Lorsqu'il y a récidive, l'amende applicable est celle prévue dans ce cas pour les contraventions de la 5e classe.
-
-Est passible des mêmes sanctions toute personne qui rétrocède des commissions en méconnaissance des règles prévues à
-l'article R. 511-3.
-
-Est également passible des sanctions prévues aux premier et deuxième alinéas du présent article la personne visée à l'article
-R. 511-7 qui a fait appel ou, par suite d'un défaut de surveillance, a laissé faire appel, pour une personne placée sous son
-autorité, à des personnes ne remplissant pas les conditions définies aux articles R. 511-2 et R. 511-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°84-1167 1984-12-21 art. 2 JORF 26 décembre 1984
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
-
-	**Cite**:
-
-	  - Code des assurances - art. R*511-1 (M)
-	  - Code des assurances - art. R*511-2 (M)
-	  - Code des assurances - art. R*511-3 (M)
-	  - Code des assurances R511-1, R511-2, R511-3, R511-4, R511-7
 
 
 ###### Article R511-6
@@ -41439,10 +41463,9 @@ concourant à l'octroi de ce prêt ;
 expressément et exclusivement en vue de servir de garantie au vendeur dans une vente à crédit : le vendeur ou les personnes
 concourant à la réalisation de la vente.
 
-3° Assurances de perte par amortissement de valeurs mobilières au-dessous de leurs cours : les établissements financiers et
-de crédit, les sociétés de bourse, les intermédiaires mentionnés à l'article 13 de la loi modifiée du 14 juin 1941 et les
-préposés de ces établissements ou personnes, ainsi que les notaires et leurs préposés qu'ils auront mandatés spécialement à
-cet effet ;
+3° Assurances de perte par amortissement de valeurs mobilières au-dessous de leurs cours : les établissements de crédit, les
+sociétés de bourse, les intermédiaires mentionnés à l'article 65 de la loi n° 84-46 du 24 janvier 1984 et les préposés de ces
+établissements ou personnes, ainsi que les notaires et leurs préposés qu'ils auront mandatés spécialement à cet effet ;
 
 4° Assurances des risques "villégiatures", "camping", "sports d'hiver", "vacances", "voyages", souscrites pour trois mois au
 plus et non renouvelables : les dirigeants et le personnel des agences de voyages ou des agences de location ;
@@ -41463,20 +41486,19 @@ tiers : les dirigeants, le personnel des agences de voyages, des banques et éta
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code du domaine public fluvial 188
+	  - Loi n°84-46 1984-01-24 art. 65
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
+
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
 	**Modifié par**:
 
-	  - Décret n°80-788 1980-10-01 art. 1 JORF 5 octobre 1980
-	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
-
-	**Cite**:
-
-	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
-	  - Code du domaine public fluvial 188
-	  - Loi n°1941-06-14 art. 13
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 	**Cité par**:
 
@@ -41503,7 +41525,7 @@ Les opérations ci-après définies, relatives à des assurances collectives ouv
 les personnes ou catégories de personnes respectivement énoncées dans chaque cas, sous réserve que cette présentation ne
 donne lieu à l'attribution directe ou indirecte auxdites personnes d'aucune commission ou autre rétribution :
 
-1° Adhésion à des assurances de groupe définies à l'article R. 140-1 : le souscripteur, ses préposés ou mandataires ainsi que
+1° Adhésion à des assurances de groupe définies à l'article L. 140-1 : le souscripteur, ses préposés ou mandataires ainsi que
 les personnes physiques ou morales désignées expressément à cet effet dans le contrat d'assurance de groupe ;
 
 2° Adhésion d'étudiants, d'élèves ou de parents d'étudiants ou d'élèves à des assurances collectives couvrant essentiellement
@@ -41514,19 +41536,7 @@ eux pour recueillir ces adhésions ;
 afférents à ces activités respectives : les personnes ou organismes ayant souscrit ces assurances et les personnes mandatées
 par eux pour recueillir ces adhésions ;
 
-4° Adhésion de membres d'associations de tourisme reconnues d'utilité publique à des assurances collectives ouvertes
-souscrites par ces associations et couvrant exclusivement des risques directement différents à des activités touristiques, à
-l'exclusion de toutes assurances relatives à des véhicules terrestres à moteur :
-
-l'association ayant souscrit le contrat et les personnes mandatées par elle avant le 1er mars 1966 pour recueillir ces
-adhésions ;
-
-5° Adhésion de membres d'une société coopérative de consommation existant au 1er mars 1966 à des assurances collectives
-ouvertes non professionnelles de particuliers souscrites par cette société ou par un groupement de ces sociétés auprès d'une
-entreprise d'assurance ayant déjà reçu avant cette date la souscription d'assurances de ce genre par des sociétés
-coopératives de consommation ou des groupements de celle-ci : les personnes mandatées à cet effet par ladite société avant la
-même date, lorsqu'elles agissent au siège de la société ou dans une assemblée ou réunion convoquées par celle-ci et ne
-rassemblant que des membres de sociétés coopératives de consommation.
+4° et 5° *paragraphes abrogés*.
 
 6° Adhésion d'exposants à des assurances collectives ouvertes souscrites pour la durée de la manifestation et les périodes de
 montage et de démontage : les personnes morales responsables de l'organisation des foires et expositions.
@@ -41544,7 +41554,7 @@ l'association ayant souscrit le contrat et les préposés qui recueillent ces ad
 
 	**Modifié par**:
 
-	  - Décret n°80-788 1980-10-01 art. 2 JORF 5 octobre 1980
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 	**Cité par**:
 
@@ -41587,149 +41597,28 @@ personnes et entreprises.
 	  - TXT_SOURCE: Code des assurances - art. R*511-2 (M)
 
 
-##### Section II : Dérogations transitoires.
+#### Chapitre III : Conditions de capacité professionnelle.
 
-###### Article R*512-7
+###### Article R*513-6
 
-Les personnes physiques qui, avant le 31 janvier 1965, présentaient des opérations d'assurance ou de capitalisation en
-qualité soit de courtier d'assurances, soit d'associé ou tiers ayant pouvoir d'administrer ou de gérer dans une société de
-courtage d'assurances, soit d'agent général d'assurances, soit de salarié ou mandataire non salarié d'une entreprise
-mentionnée à l'article L. 310-1, d'un courtier d'assurances, d'une société de courtage d'assurances ou d'un agent général
-d'assurances sont dispensées de justifier qu'elles remplissent les conditions d'âge, de nationalité et de capacité
-professionnelle prescrites à l'article R. 513-4.
+Lorsque, dans une agence générale ou une agence d'assurance autorisée à revêtir la forme de société, un associé ou un tiers a
+le pouvoir de gérer ou d'administrer, il ne peut présenter d'opérations d'assurance que s'il remplit les conditions exigées
+des agents généraux.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-71 1965-01-29 art. 3
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-	**Cité par**:
-
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V)
-	  - Code des assurances - art. R*512-8 (Ab)
-	  - Code des assurances - art. R*512-9 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. R513-4 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. R513-4 (Ab)
-
-
-###### Article R*512-8
-
-Les personnes physiques qui ont commencé à exercer une des activités mentionnées à l'article R. 512-7 au cours de la période
-allant du 31 janvier 1965 au 1er mars 1966, doivent justifier des conditions de capacité professionnelle définies aux
-articles R. 513-1 à R. 513-4.
-
-Toutefois, dans ce cas, les durées minimales de stage ou d'exercice professionnel fixées par ces derniers articles sont
-réduites de moitié.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-71 1965-01-29 art. 3
-	  - Décret n°66-120 1966-02-23 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-	**Cité par**:
-
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V)
-	  - Code des assurances - art. R*512-9 (Ab)
-	  - Code des assurances - art. R*514-16 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*512-7 (Ab)
-	  - Code des assurances R512-7, R513-1 à R513-4
-
-
-###### Article R*512-9
-
-Les opérations d'assurance maritime et fluviale peuvent être présentées par les agences générales et agences d'assurances
-revêtant, avant le 1er mars 1966, la forme de sociétés, sous réserve que ces sociétés aient, contre récépissé, déclaré au
-ministre de l'économie et des finances, avant le 1er juillet 1966, leur existence et leur intention de bénéficier des
-dispositions du présent alinéa.
-
-Les autres opérations pratiquées par les entreprises mentionnées à l'article L. 310-1 peuvent être présentées par les agences
-générales d'assurances qui sont habilitées par un des statuts des agents généraux d'assurances à poursuivre leur activité
-sous la forme de sociétés. Ces agences auront dû déclarer contre récépissé, au ministre de l'économie et des finances, avant
-le 1er juillet 1966, leur existence et leur intention de bénéficier des dispositions du présent alinéa.
-
-Dans les départements d'outre-mer, les opérations d'assurance maritime et fluviale peuvent être présentées par des agences
-générales et agences d'assurances et les autres opérations pratiquées par des entreprises mentionnées à l'article L. 310-1
-peuvent être présentées par des agences générales d'assurances, même lorsque ces agences générales ou agences revêtent la
-forme de sociétés, sous réserve que lesdites sociétés aient déclaré, contre récépissé, au ministre de l'économie et des
-finances leur existence et leur intention de bénéficier des dispositions du présent alinéa. Cette déclaration aura dû, pour
-les sociétés ayant commencé à pratiquer ces opérations avant le 1er février 1967, être souscrite avant le 1er juillet 1967
-et, pour les autres sociétés, avant le début desdites opérations.
-
-Les opérations qui peuvent, aux termes du présent article, être présentées par une agence générale ou agence revêtant la
-forme de société ayant souscrit la déclaration prévue à l'un des alinéas précédents peuvent l'être également par tout associé
-ou tiers ayant le pouvoir de gérer ou d'administrer cette société, si cette personne remplit les conditions exigées des
-agents généraux d'assurances, en application de l'article R. 511-4. Les dispositions des articles R. 512-7 et R. 512-8 sont
-éventuellement applicables en ce cas.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-117 1966-02-23 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-	**Cité par**:
-
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V)
-	  - Arrêté du 23 juin 2008 - art. 1 (V)
-	  - Arrêté du 23 juin 2008 - art. Annexe (V)
-	  - Code des assurances - art. A512-6 (V)
-	  - Code des assurances - art. R512-10 (V)
-	  - Code des assurances - art. R512-11 (V)
-	  - Code des assurances - art. R512-12 (V)
-	  - Code des assurances - art. R512-8 (V)
-	  - Code des assurances - art. R514-3 (V)
-	  - Code des assurances - art. R541-1 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. R*512-7 (Ab)
-	  - Code des assurances L310-1, R511-4, R512-7, R512-8
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*511-2 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R511-2 (V)
 
-
-#### Chapitre III : Conditions de capacité professionnelle.
 
 ###### Article R513-1
 
@@ -41738,23 +41627,21 @@ d'administrer et les agents généraux d'assurances doivent justifier préalable
 
 a) Soit de la possession d'un diplôme mentionné sur une liste fixée par arrêté pris par le ministre de l'économie, des
 finances et du budget, le ministre de l'agriculture, le ministre de l'éducation nationale et le ministre de la formation
-professionnelle, ainsi que de l'accomplissement d'un stage professionnel d'une durée minimale de deux cents heures, effectué
-en six semaines au moins et quatre mois au plus ;
+professionnelle, ainsi que de l'accomplissement d'un stage professionnel ;
 
 b) Soit de l'exercice à temps complet, pendant deux ans au moins, dans les services intérieurs ou extérieurs d'une entreprise
 mentionnée à l'article L. 310-1, d'un courtier ou d'une société de courtage d'assurances ou d'un agent général d'assurances
 ou d'un agent d'assurances ou d'une société mentionnés au dernier alinéa du présent article, de fonctions relatives à la
 production ou à l'application de contrats d'assurance ou de capitalisation ainsi que de l'accomplissement d'un stage
-professionnel d'une durée minimale de deux cents heures, effectué en six semaines au moins et quatre mois au plus.
+professionnel soit de l'exercice à temps complet pendant un an au moins, en qualité de cadre ou de dirigeant, dans ces mêmes
+entreprises.
 
 c) Soit de l'exercice, pendant deux ans au moins, en qualité de cadre ou de chef d'entreprise, de fonctions de responsabilité
-dans une entreprise industrielle ou commerciale, ainsi que de l'accomplissement d'un stage professionnel préliminaire d'une
-durée minimale de deux cents heures, effectué en six semaines au moins et quatre mois au plus ;
+dans une entreprise industrielle ou commerciale, ainsi que de l'accomplissement d'un stage professionnel ;
 
-d) Soit de l'accomplissement d'un stage professionnel d'une durée minimale de six cents heures, effectué en seize semaines au
-moins et un an au plus. Dans ce cas, il est vérifié au début du stage que les candidats ont un niveau suffisant de
-connaissances générales. Les résultats du contrôle de ces connaissances doivent être annexés au livret de stage mentionné à
-l'article R. 514-5.
+d) Soit de l'accomplissement d'un stage professionnel. Dans ce cas, il est vérifié au début du stage que les candidats ont un
+niveau suffisant de connaissances générales. Les résultats du contrôle de ces connaissances doivent être annexés au livret de
+stage mentionné à l'article R. 514-5.
 
 Les dispositions prévues aux a, b, c et d ci-dessus sont également applicables aux personnes physiques salariées lorsqu'elles
 exercent les fonctions de responsable de bureau de production ou ont la charge d'animer un réseau de production, aux
@@ -41770,16 +41657,16 @@ associés ou tiers ayant le pouvoir de gérer et d'administrer.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°84-298 du 20 avril 1984 - art. 1 () JORF 25 avril 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°84-298 du 20 avril 1984 - art. 3 (V)
 	  - TXT_SOURCE: Code des assurances - art. A513-1 (Ab)
 	  - TXT_ASSOCIE: Code des assurances - art. A513-1 (M)
 	  - SPEC_APPLI: Code des assurances - art. R515-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°92-309 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 	**Cité par**:
 
@@ -41807,24 +41694,16 @@ justifier préalablement à leur entrée en fonctions :
 
 a) Soit de la possession d'un diplôme mentionné sur une liste fixée par arrêté pris par le ministre de l'économie, des
 finances et du budget, le ministre de l'agriculture, le ministre de l'éducation nationale et le ministre de la formation
-professionnelle, ainsi que de l'accomplissement d'un stage professionnel d'une durée minimale de cent heures, effectué en
-quatre semaines au moins et deux mois au plus ;
+professionnelle, ainsi que de l'accomplissement d'un stage professionnel ;
 
 b) Soit de l'exercice à temps complet pendant six mois au moins de fonctions relatives à la production ou à l'application de
 contrats d'assurances, dans les services intérieurs ou extérieurs d'une entreprise mentionnée à l'article L. 310-1, d'un
 courtier ou d'une société de courtage d'assurances, d'un agent général d'assurances, ainsi que de l'application d'un stage
-professionnel d'une durée minimale de cent heures, effectué en quatre semaines au moins et deux mois au plus ;
+professionnel ;
 
-c) Soit de l'accomplissement d'un stage professionnel d'une durée minimale de trois cents heures, effectué en huit semaines
-au moins et six mois au plus. Dans ce cas, il est vérifié au début du stage que les candidats ont un niveau suffisant de
-connaissances générales. Les résultats du contrôle de ces connaissances doivent être annexés au livret de stage mentionné à
-l'article R. 514-5.
-
-Ces durées de trois cents heures, huit semaines et six mois sont remplacées respectivement par :
-
-- cent cinquante heures, quatre semaines et trois mois pour les assurances sur la vie ;
-
-- cent heures, trois semaines et deux mois pour la capitalisation.
+c) Soit de l'accomplissement d'un stage professionnel. Dans ce cas, il est vérifié au début du stage que les candidats ont un
+niveau suffisant de connaissances générales. Les résultats du contrôle de ces connaissances doivent être annexés au livret de
+stage mentionné à l'article R. 514-5.
 
 Les dispositions prévues aux a, b et c ci-dessus sont également applicables aux personnes mentionnées au 3° de l'article R.
 512-2, ainsi qu'aux secrétaires trésoriers de sociétés ou caisses locales d'assurances mutuelles agricoles autres que ceux
@@ -41838,7 +41717,7 @@ mentionnés au dernier alinéa de l'article R. 513-1.
 
 	**Modifié par**:
 
-	  - Décret n°85-1447 du 30 décembre 1985 - art. 1 () JORF 31 décembre 1985
+	  - Décret n°92-309 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 	**Cité par**:
 
@@ -41878,14 +41757,12 @@ formellement interdit au stagiaire de présenter seul ou en son nom propre des o
 
 Les stages professionnels peuvent être effectués auprès d'une entreprise mentionnée à l'article L. 310-1, d'un courtier ou
 d'une société de courtage d'assurances, d'un agent général d'assurances, d'un agent d'assurances ou d'une société mentionnés
-au dernier alinéa de l'article R. 513-1 ou d'un centre de formation institué sous réserve de l'obtention d'un agrément
-accordé par le ministre de l'économie, des finances et du budget, après avis d'une commission paritaire réunissant des
-représentants des professionnels et de l'administration et dont la composition est fixée par arrêté pris par le même
-ministre.
+au dernier alinéa de l'article R. 513-1 ou d'un centre de formation choisi par l'employeur ou le mandant pour les stages des
+intermédiaires mentionnés aux 2°, 3° et 4° de l'article R. 511-2 et par les intéressés eux-mêmes pour les stages des
+intermédiaires mentionnés au 1° de l'article R. 511-2.
 
-Les stages professionnels effectués ou les fonctions effectuées auprès d'une entreprise mentionnée à l'article L. 310-1
-doivent l'être entièrement soit auprès d'une seule de ces entreprises, soit auprès d'entreprises faisant partie d'un même
-groupe, soit auprès de deux entreprises pratiquant des branches d'assurances différentes.
+Les stages professionnels doivent avoir une durée raisonnable et suffisante sans pouvoir être inférieure à cent cinquante
+heures.
 
 **Liens relatifs à cet article**
 
@@ -41893,16 +41770,16 @@ groupe, soit auprès de deux entreprises pratiquant des branches d'assurances di
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°84-298 du 20 avril 1984 - art. 1 () JORF 25 avril 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°84-298 du 20 avril 1984 - art. 3 (V)
 	  - TXT_SOURCE: Code des assurances - art. A513-3 (Ab)
 	  - TXT_ASSOCIE: Code des assurances A513-3 à A513-8
 	  - TXT_SOURCE: Code des assurances R511-4
+
+	**Modifié par**:
+
+	  - Décret n°92-309 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 	**Cité par**:
 
@@ -41912,6 +41789,7 @@ groupe, soit auprès de deux entreprises pratiquant des branches d'assurances di
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R*511-2 (M)
 	  - Code des assurances - art. R513-1 (M)
 	  - Code des assurances - art. R513-2 (M)
 
@@ -41956,50 +41834,6 @@ au livret de stage prévu à l'article R. 514-5.
 	**Cite**:
 
 	  - Code des assurances - art. R*514-5 (M)
-
-
-###### Article R513-5
-
-Tout organisme, entreprise ou personne auprès duquel est effectué un stage professionnel au sens des articles R. 513-1 et R.
-513-2 doit, au plus tard dans les cinq jours du début du stage, adresser par lettre recommandée ou remettre contre récépissé
-à l'organisme professionnel désigné à cet effet par arrêté du ministre de l'économie, des finances et du budget une
-déclaration écrite comportant les nom, prénoms, domicile, date et lieu de naissance du stagiaire, ainsi que la date de prise
-d'effet du stage et la durée prévue de celui-ci.
-
-En cas d'inobservation du délai mentionné à l'alinéa précédent, les séances du stage éventuellement effectuées plus de cinq
-jours avant le jour d'envoi de la lettre recommandée ou le jour de la remise contre récépissé de la déclaration à l'organisme
-professionnel ne peuvent être prises en compte pour le calcul de la durée de ce stage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-298 du 20 avril 1984 - art. 3 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. A514-1 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. A514-2 (Ab)
-	  - TXT_SOURCE: Code des assurances R511-4
-
-	**Modifié par**:
-
-	  - Décret n°91-563 du 13 juin 1991 - art. 1 () JORF 19 juin 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-309 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-	**Cité par**:
-
-	  - Décret n°92-309 du 31 mars 1992 - art. 1 (V)
-	  - Code des assurances - art. A514-2 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. R513-1 (M)
-	  - Code des assurances - art. R513-2 (M)
 
 
 #### Chapitre IV : Contrôle des conditions de présentation
@@ -42058,68 +41892,66 @@ précisées à l'article R. 514-3 ou, à défaut, mais seulement pendant les tre
 	  - SPEC_APPLI: Code des assurances R515-9
 
 
-###### Article R*514-2
+###### Article R514-2
 
-Les entreprises mentionnées à l'article L. 310-1 ne remettent à un agent général d'assurances ou à une personne chargée des
-fonctions d'agent général d'assurances le document prévu au b de l'article R. 514-1 qu'après avoir fait la déclaration au
-parquet prescrite à l'article R. 514-8 relative à l'intéressé et avoir vérifié qu'il ressort des pièces qui leur sont
-communiquées que celui-ci remplit les conditions d'âge, de nationalité et de capacité professionnelle requises par le premier
-alinéa de l'article R. 511-4.
+Sur demande motivée du procureur de la République, le mandat ou la carte professionnelle doivent être retirés. La décision du
+procureur de la République est immédiatement exécutoire et peut faire l'objet, par tout intéressé, d'un recours devant le
+tribunal de grande instance.
 
-Toute entreprise mentionnée à l'alinéa précité, qui a reçu du parquet dans les conditions prévues à l'article R. 514-13 une
-notification relative à l'un de ses agents généraux d'assurances, doit procéder, en ce qui concerne celui-ci, au refus ou au
-retrait du document mentionné audit alinéa.
+Toute modification aux conditions de capacité prévues à l'article R. 511-4, ainsi que tout retrait de mandat ou de carte
+professionnelle doivent être notifiés au procureur de la République.
 
-Le titulaire du document ou, en cas de décès du titulaire, le détenteur du document doit le restituer à l'entreprise qui
-demande cette restitution dans les dix jours suivant celui où il a connaissance de cette demande. Si l'entreprise n'a pas
-obtenu la restitution dans les vingt jours de la demande, elle doit en aviser le parquet compétent dans le plus bref délai.
+Lorsque soit de sa propre initiative, soit sur l'injonction du procureur de la République, la personne qui a délivré le
+mandat ou la carte professionnelle veut les retirer, elle notifie à son titulaire par lettre recommandée avec demande d'avis
+de réception la décision de retrait.
+
+Le titulaire doit restituer le mandat ou la carte professionnelle dans un délai d'un jour franc à compter de la réception de
+cette notification.
+
+Si la personne qui a délivré le mandat ou la carte professionnelle n'en a pas obtenu restitution dans les trois jours francs
+à compter de la date de l'avis de réception, elle doit aviser le procureur de la République par lettre recommandée, dans le
+délai de huit jours francs.
+
+Toute infraction aux dispositions du présent article sera punie des peines prévues pour les contraventions de la cinquième
+classe *sanctions pénales*.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-119 1966-02-23 art. 3
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. R*514-1 (M)
-	  - Code des assurances L310-1, R511-4, R514-1, R514-8, R514-13
+	  - Code des assurances R511-4
 
 
-###### Article R*514-3
+###### Article R514-3
 
 La carte professionnelle mentionnée au c de l'article R. 514-1 est conforme à un modèle fixé par le ministre de l'économie et
 des finances.
 
-Elle est délivrée à l'intéressé par l'employeur ou mandant après visa par l'organisme professionnel habilité à cet effet,
-pour la catégorie à laquelle appartient le titulaire de la carte par arrêté du ministre de l'économie et des finances et
-après inscription dudit titulaire sur une liste tenue par cet organisme.
+Elle est délivrée à l'intéressé par l'employeur ou mandant.
 
-Le visa ne peut être accordé qu'après vérification par l'organisme professionnel qu'il ressort des pièces qui lui sont
-communiquées, ou éventuellement de celles qu'il détient déjà en application du deuxième alinéa de l'article R. 514-5, que
-l'intéressé a fait l'objet de la déclaration au parquet prévue à l'article R. 514-8 et remplit les conditions d'âge, de
-nationalité et de capacité professionnelle prescrites par le premier alinéa de l'article R. 511-4.
-
-L'organisme professionnel saisi d'une demande de visa de carte professionnelle doit, lorsqu'il a reçu une notification prévue
-à l'article R. 514-13 relative au titulaire de cette carte, refuser le visa.
+Les employeurs ou mandants adressent annuellement aux organisations professionnelles une liste des personnes auxquelles ont
+été délivrées ou retirées les cartes professionnelles.
 
 L'employeur ou mandant qui a reçu une notification prévue à l'article R. 514-13 doit s'abstenir de délivrer la carte
 professionnelle établie au nom de la personne qui fait l'objet de la notification.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°66-119 1966-02-23 art. 3
-
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 	**Cité par**:
 
@@ -42136,76 +41968,87 @@ professionnelle établie au nom de la personne qui fait l'objet de la notificati
 
 	**Cite**:
 
-	  - Code des assurances R511-4, R514-1, R514-5, R514-8, R514-13
+	  - Code des assurances R514-1, R514-13
 
 
-###### Article R*514-4
+##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.
 
-L'employeur ou mandant qui a délivré une carte professionnelle doit, par lettre recommandée, exiger du titulaire de la carte
-la restitution de celle-ci, en cas de cessation de fonctions de ce titulaire ou de réception de la notification prévue à
-l'article R. 514-13 et concernant l'intéressé. La demande de restitution doit être expédiée dans les dix jours suivant celui
-où l'employeur ou mandant a eu connaissance de la cessation des fonctions ou de la notification.
+###### Article R*514-6
 
-Le titulaire de la carte ou, en cas de décès du titulaire, le détenteur de la carte doit la restituer à l'entreprise qui
-demande cette restitution dans les dix jours suivant celui où il a connaissance de cette demande.
+Le livret de stage mentionné à l'article R. 514-5 est conforme à un modèle fixé par le ministre de l'économie et des
+finances.
 
-L'employeur ou mandant à qui a été restituée une carte professionnelle doit la faire parvenir dans les dix jours à
-l'organisme professionnel qui a visé la carte. A défaut de restitution de la carte dans les quinze jours de la demande qu'il
-a formulée, l'employeur ou mandant doit en aviser immédiatement le parquet compétent et l'organisme professionnel qui a visé
-la carte.    L'organisme professionnel qui a visé une carte professionnelle doit, lorsqu'il a reçu la notification prévue à
-l'article R. 514-13 relative au titulaire de cette carte, en informer l'employeur et, s'il n'a pas obtenu la restitution de
-la carte dans les quarante jours, en aviser le parquet compétent dans le plus bref délai.
+Les signatures apposées sur le livret par les personnes ou chefs des entreprises auprès de qui un stage a été effectué valent
+certification des indications du livret concernant ce stage.
+
+Le livret doit être remis dans les plus brefs délais à son titulaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-119 1966-02-23 art. 4
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
 	**Abrogé par**:
 
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
-	**Cité par**:
+	**Liens**:
 
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V)
-	  - Code des assurances - art. R512-11 (V)
-	  - Code des assurances - art. R514-3 (V)
+	  - TXT_ASSOCIE: Code des assurances - art. A514-2 (Ab)
+	  - TXT_SOURCE: Code des assurances R511-4
+
+	**Cite**:
+
+	  - Code des assurances - art. R*514-5 (M)
+
+
+###### Article R*514-7
+
+L'attestation de fonctions mentionnée à l'article R. 514-5 est établie, conformément à un modèle fixé par le ministre de
+l'économie et des finances, par la personne ou entreprise auprès de laquelle ont été exercées les fonctions requises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R*514-5 (M)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances R511-4
 
-	**Cite**:
 
-	  - Code des assurances R514-13
-
-
-##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.
-
-###### Article R*514-5
+###### Article R514-5
 
 Il est justifié de la capacité professionnelle prévue par l'article R. 511-4 par la présentation du diplôme requis, du livret
 de stage défini à l'article R. 514-6 ou de l'attestation de fonctions définie à l'article R. 514-7.
 
-Les organismes professionnels habilités, aux termes de l'article R. 514-3, à viser les cartes professionnelles peuvent
-exiger, lorsqu'il leur est remis pour justification un diplôme ou pour justification ou visa un livret de stage ou une
-attestation de fonctions, qu'il leur soit remis conjointement une fiche récapitulant les principales mentions du diplôme, du
-livret ou de l'attestation conformément à un modèle fixé par le ministre de l'économie et des finances.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-119 1966-02-23 art. 5
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 	**Cité par**:
 
@@ -42224,100 +42067,39 @@ livret ou de l'attestation conformément à un modèle fixé par le ministre de 
 
 	**Cite**:
 
-	  - Code des assurances R511-4, R514-3, R514-6, R514-7
-
-
-###### Article R*514-6
-
-Le livret de stage mentionné à l'article R. 514-5 est conforme à un modèle fixé par le ministre de l'économie et des
-finances.
-
-Les signatures apposées sur le livret par les personnes ou chefs des entreprises auprès de qui un stage a été effectué valent
-certification des indications du livret concernant ce stage.
-
-Ces personnes ou chefs d'entreprise, après achèvement du ou des stages, communiquent le livret pour visa à l'organisme
-professionnel habilité à cet effet, par arrêté du ministre de l'économie et des finances, pour la catégorie à laquelle
-appartient la personne ou entreprise auprès de laquelle est effectué le stage.
-
-Cet organisme n'accorde son visa qu'après s'être assuré de la conformité des indications du livret avec celle des
-déclarations de début de stage prescrites par le décret prévu au 3° du premier alinéa de l'article R. 511-4, en ce qui
-concerne la durée effective du stage. Le livret visé doit être ensuite remis dans le plus bref délai à son titulaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-119 1966-02-23 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. A514-2 (Ab)
-	  - TXT_SOURCE: Code des assurances R511-4
-
-	**Cite**:
-
-	  - Code des assurances - art. R*514-5 (M)
-	  - Code des assurances R511-4, R514-5
-
-
-###### Article R*514-7
-
-L'attestation de fonctions mentionnée à l'article R. 514-5 est établie, conformément à un modèle fixé par le ministre de
-l'économie et des finances, par la personne ou entreprise auprès de laquelle ont été exercées les fonctions requises.
-
-Elle est adressée, pour visa, par la personne ou entreprise qui l'a établie, à l'organisme professionnel habilité à cet effet
-par l'arrêté prévu au troisième alinéa de l'article R. 514-6. L'attestation doit être ensuite remise dans le plus bref délai
-à son titulaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-119 1966-02-23 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. R*514-5 (M)
-	  - Code des assurances R514-5, R514-6
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R511-4
+	  - Code des assurances R511-4, R514-7
 
 
 ##### Section III : Modalités de contrôle spéciales aux conditions d'honorabilité.
 
 ###### Article R*514-8
 
-En vue de permettre de vérifier les conditions d'honorabilité telles qu'elles résultent des dispositions de l'article L.
-511-2, une déclaration doit être faite au parquet du procureur de la République dans les conditions prévues aux articles R.
-514-9 à R. 514-13, concernant toute personne physique entrant dans une des catégories définies aux 1° à 4° de l'article R.
-511-2, avant que cette personne ne présente des opérations mentionnées à l'article L. 310-1.
+En vue de permettre de vérifier si les conditions fixées à l'article L. 511-2 sont respectées, une déclaration doit être
+faite au procureur de la République dans les conditions prévues aux articles R. 514-9 à R. 514-13 concernant toute personne
+physique entrant dans l'une des catégories définies au 1° à 4° dudit article R. 511-2, avant que cette personne ne présente
+des opérations mentionnées à l'article L. 310-1, ou tout courtier de réassurance, associé ou tiers ayant pouvoir de gérer ou
+d'administrer dans un cabinet de courtage de réassurance.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-119 1966-02-23 art. 8
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L511-2 (M)
 	  - Code des assurances - art. R*511-2 (M)
-	  - Code des assurances L310-1, L511-2, R511-2, R514-9 à R514-13
+	  - Code des assurances L511-2, R514-9 à R514-13, R511-2, L310-1
 
 	**Liens**:
 
@@ -42328,8 +42110,8 @@ En vue de permettre de vérifier les conditions d'honorabilité telles qu'elles 
 
 L'obligation de souscrire la déclaration incombe :
 
-1° En ce qui concerne les courtiers d'assurances et les associés ou tiers ayant pouvoir de gérer ou d'administrer dans une
-société de courtage d'assurances, aux intéressés eux-mêmes ;
+1° En ce qui concerne les courtiers d'assurances ou de réassurance et les associés ou tiers ayant pouvoir de gérer ou
+d'administrer dans une société de courtage d'assurances ou de réassurance, aux intéressés eux-mêmes ;
 
 2° En ce qui concerne les agents généraux d'assurances, aux entreprises qui se proposent de les mandater en cette qualité ;
 
@@ -42338,13 +42120,13 @@ qualité d'employeur ou mandant.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°66-119 1966-02-23 art. 9
-
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 	**Cite**:
 
@@ -42359,22 +42141,26 @@ qualité d'employeur ou mandant.
 
 La déclaration doit être souscrite :
 
-1° Pour le courtier d'assurances, auprès du parquet du lieu du principal établissement de ce courtier ;
+1° Pour le courtier d'assurances ou de réassurance, auprès du parquet du lieu du principal établissement de ce courtier ;
 
-2° Pour les sociétés de courtage d'assurances, auprès du parquet du lieu de leur siège social ou, à défaut de siège social en
-France, au parquet du lieu de leur principal établissement commercial en ce pays ;
+2° Pour les sociétés de courtage d'assurances ou de réassurance, auprès du parquet du lieu de leur siège social ou, à défaut
+de siège social en France, au parquet du lieu de leur principal établissement commercial en ce pays ;
 
 3° Dans tous les autres cas, au parquet du lieu du domicile ou du siège de la personne ou entreprise tenue de la déclaration.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°66-119 1966-02-23 art. 10
-
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Liens**:
 
@@ -42444,24 +42230,24 @@ Il incombe au parquet qui a reçu une déclaration prévue à l'article R. 514-8
 de cette déclaration n'est pas frappée ou ne vient pas à être frappée d'une des incapacités prévues à l'article L. 511-2 et,
 lorsqu'il constate une telle incapacité, de le notifier dans le plus bref délai :
 
-1° Si elle concerne un courtier ou un associé ou un tiers ayant, dans une société de courtage d'assurances, le pouvoir de
-gérer ou d'administrer, au greffier compétent pour recevoir l'immatriculation au registre du commerce pour le courtage
-d'assurances ;
+1° Si elle concerne un courtier ou un associé ou un tiers ayant, dans une société de courtage d'assurances ou de réassurance,
+le pouvoir de gérer ou d'administrer, au greffier compétent pour recevoir l'immatriculation au registre du commerce pour le
+courtage d'assurances ou de réassurance ;
 
 2° Si elle concerne un agent général d'assurances, à l'entreprise déclarante ;
 
-3° Si elle concerne un intermédiaire mentionné au 3° ou au 4° de l'article R. 511-2, au déclarant et à l'organisme habilité à
-viser la carte professionnelle.
+3° Si elle concerne un intermédiaire mentionné au 3° ou au 4° de l'article R. 511-2, au déclarant.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-119 1966-02-23 art. 13
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-310 1992-03-31 art. 2 XIII, XIV JORF 1er avril 1992
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 	**Cite**:
 
@@ -42540,40 +42326,11 @@ nom et la qualité de la personne qui fait cette proposition ainsi que le nom ou
 	  - TXT_SOURCE: Code des assurances R511-4
 
 
-###### Article R*514-16
-
-Le livret de stage prévu à l'article R. 514-6 peut, pour les stages accomplis en totalité ou en partie avant le 1er mars 1966
-par les personnes mentionnées à l'article R. 512-8, être remplacé par une attestation de stage établie dans les conditions
-prévues pour l'attestation de fonctions à l'article R. 514-7.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-119 1966-02-23 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. R*512-8 (Ab)
-	  - Code des assurances R512-8, R514-6, R514-7
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R511-4
-
-
 ###### Article R*514-17
 
-Toute infraction aux prescriptions des articles R. 514-1 à R. 514-4, R. 514-6 (dernier alinéa), R. 514-8 à R. 514-10, R.
-514-12 et R. 514-14 à R. 514-16, sera punie d'une amende de 3.000 à 6.000 F.
+Toute infraction aux prescriptions des articles R. 514-1, R. 514-3, R. 514-6 (dernier alinéa), R. 514-8 à R. 514-10, R.
+514-12, R. 514-14, R. 514-15, R. 515-1 à R. 515-7, sera punie de l'amende prévue pour les contraventions de la cinquième
+classe.
 
 **Liens relatifs à cet article**
 
@@ -42581,9 +42338,15 @@ Toute infraction aux prescriptions des articles R. 514-1 à R. 514-4, R. 514-6 (
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
 	**Cite**:
 
-	  - Code des assurances R514-1 à R514-4, R514-6, R514-8 à R514-10, R514-12, R514-14 à R514-16
+	  - Code des assurances - art. R*514-1 (M)
+	  - Code des assurances - art. R*514-3 (M)
+	  - Code des assurances R514-1, R514-3, R514-6, R514-8 à R514-10, R514-12, R514-14, R514-15, R515-1 à R515-7
 
 
 #### Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France
@@ -42799,8 +42562,15 @@ déclaration solennelle fait devant une autorité judiciaire ou administrative c
 et délivrée par l'autorité ou le notaire qui a reçu la déclaration. La déclaration d'absence de faillite ou de réhabilitation
 après faillite peut se faire également devant un organisme professionnel qualifié de ce même Etat.
 
+S'il s'agit d'un agent ou d'une personne mentionnée à l'article R. 515-3 dont l'employeur ou le mandant, courtier ou agent,
+n'est pas établi en France, il doit être en mesure de produire un document établi par l'employeur ou le mandant attestant des
+opérations qu'il est dûment habilité à présenter. Ce document doit indiquer en outre le nom, l'adresse et la qualité de
+l'employeur et du mandataire.
+
 Les documents mentionnés ci-dessus ne doivent pas avoir, lors de leur production, plus de trois mois de date. Ils sont
 accompagnés, si besoin est, d'une traduction en langue française.
+
+Ces documents sont transmis au parquet du tribunal de grande instance de Paris.
 
 **Liens relatifs à cet article**
 
@@ -42808,157 +42578,15 @@ accompagnés, si besoin est, d'une traduction en langue française.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
+	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 	**Cite**:
 
 	  - Code des assurances - art. L511-2 (M)
-	  - Code des assurances L511-2, R515-6
-
-
-###### Article R*515-8
-
-Les personnes mentionnées à l'article R. 515-6 présentent les documents mentionnés aux articles R. 515-6 et R. 515-7, au
-ministre de l'économie, qui leur en délivre un récépissé établissant que ces documents lui ont été présentés.
-
-Les courtiers de réassurance présentent une demande analogue accompagnée du document mentionné à l'article R. 515-7.
-
-Les justifications qui précèdent ne dispensent pas, selon le cas, les intéressés, les employeurs ou les mandants, de faire
-les déclarations prévues aux articles R. 514-8 à R. 514-12.
-
-Un double du récépissé est transmis par le ministre de l'économie au parquet du procureur du Tribunal de grande instance de
-Paris.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979 rectificatif JORF 1er juillet 1979
-
-	**Abrogé par**:
-
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-	**Cite**:
-
-	  - Code des assurances R514-8 à R514-12, R515-6, R515-7
-
-
-##### Section III : Dispositions relatives à la libre prestation de services.
-
-###### Article R*515-9
-
-Lorsqu'un ressortissant d'un Etat membre de la Communauté économique européenne autre que la France veut présenter en libre
-prestation de services des opérations pratiquées par les entreprises mentionnées aux 1°, 2°, 4° et 5° de l'article L. 310-1,
-il doit, par dérogation aux dispositions de l'article R. 514-1 :
-
-a) S'il s'agit d'un courtier ou agent d'assurance, être en mesure de produire le récépissé prévu à l'article R. 515-8 ; 
-
-b) S'il s'agit d'une personne mentionnée à l'article R. 515-3 dont l'employeur ou le mandant, courtier ou agent, n'est pas
-établi en France, être en mesure de produire le récépissé prévu à l'article R. 515-8, ainsi qu'un document indiquant le nom,
-l'adresse et la qualité de l'employeur ou du mandataire, et les opérations qu'elle est habilitée à présenter. Ce document
-doit être, si besoin est, accompagné d'une traduction en langue française.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
-
-	**Abrogé par**:
-
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. R*514-1 (M)
 	  - Code des assurances - art. R515-3 (M)
-	  - Code des assurances L310-1, R514-1, R515-3, R515-8
-
-
-###### Article R*515-10
-
-Par dérogation aux dispositions de l'article R. 514-10, la déclaration prévue par l'article R. 514-8 est souscrite par le
-ministre de l'économie auprès du parquet du procureur du Tribunal de grande instance de Paris.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
-
-	**Abrogé par**:
-
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-	**Cite**:
-
-	  - Code des assurances R514-8, R514-10
-
-
-###### Article R*515-11
-
-Par dérogation aux dispositions de l'article R. 514-13, les notifications prévues à cet article sont faites, dans les cas
-mentionnés à l'article R. 515-10, à l'autorité judiciaire compétente de l'Etat d'origine ou de provenance. Copie de cette
-notification est transmise au ministre de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
-
-	**Abrogé par**:
-
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-	**Cite**:
-
-	  - Code des assurances R514-13, R514-10
-
-
-###### Article R*515-12
-
-Toute personne qui, soumise aux dispositions des articles R. 515-1 à R. 515-11, présente une opération d'assurance avant
-d'avoir obtenu le récépissé prévu à l'article R. 515-8 et souscrit la déclaration prévue à l'article R. 514-8 dans les
-conditions fixées par l'article R. 515-10, sera punie d'une amende de 3.000 F à 6.000 F [*sanctions*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
-
-	**Abrogé par**:
-
-	  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-	**Cite**:
-
-	  - Code des assurances R514-8, R515-1 à R515-8, R515-9, R514-10
+	  - Code des assurances R515-6, L511-2, R515-3
 
 
 #### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.
@@ -50301,236 +49929,36 @@ Certificat de fin d'études de l'école privée de législation professionnelle.
 	  - TXT_SOURCE: Code des assurances - art. R513-2 (M)
 
 
-###### Article A513-3
-
-La commission instituée par l'article R. 513-3 est présidée par le directeur des assurances au ministère de l'économie et des
-finances ou, en cas d'empêchement de celui-ci, par son représentant.
-
-Outre son président, la commission comprend les six membres suivants :
-
-a) trois représentants de l'administration :
-
-- le directeur du personnel et des services généraux au ministère de l'économie et des finances ;
-
-- le sous-directeur de la direction des assurances au ministère de l'économie et des finances, chargé de la réglementation
-des conditions de capacité professionnelle des intermédiaires d'assurance ;
-
-- le chef du service du contrôle des assurances.
-
-b) trois représentants de la profession, choisis par le président en fonction de l'affaire traitée parmi les personnalités
-suivantes :
-
-- le président de la fédération française des sociétés d'assurances ;
-
-- le président de l'union syndicale des sociétés étrangères d'assurances ;
-
-- le président de la fédération nationale des syndicats d'agents généraux d'assurances ;
-
-- le président du syndicat national des courtiers d'assurances et de réassurance ;
-
-- le président du conseil d'administration de la caisse centrale des mutuelles agricoles ;
-
-- le président du groupement des entreprises mutuelles d'assurance.
-
-Chacun de ces six membres peut se faire représenter par un membre suppléant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1966-02-23 art. 1 annexe II
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
-
-	**Modifié par**:
-
-	  - Arrêté 1990-06-11 art. 1 JORF 23 juin 1990
-
-	**Abrogé par**:
-
-	  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-	**Cité par**:
-
-	  - Arrêté du 31 mars 1992 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. R513-3 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R513-3 (M)
-
-
-###### Article A513-4
-
-La commission se réunit sur convocation de son président.
-
-A la convocation est annexé un ordre du jour.
-
-Chaque membre de la commission peut demander l'inscription du jour d'une affaire entrant dans la compétence de la commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
-
-	**Modifié par**:
-
-	  - Arrêté 1990-06-11 art. 2 JORF 23 juin 1990
-
-	**Abrogé par**:
-
-	  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-	**Cité par**:
-
-	  - Arrêté du 31 mars 1992 - art. 1 (V)
-
-
-###### Article A513-5
-
-Chaque affaire soumise à l'examen de la commission fait l'objet d'un rapport présenté par un commissaire contrôleur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
-
-	**Abrogé par**:
-
-	  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-	**Cité par**:
-
-	  - Arrêté du 31 mars 1992 - art. 1 (V)
-
-
-###### Article A513-6
-
-Si elle le juge utile, la commission peut autoriser un représentant de l'entreprise ou du centre de formation intéressé à
-présenter verbalement ses observations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
-
-	**Abrogé par**:
-
-	  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-	**Cité par**:
-
-	  - Arrêté du 31 mars 1992 - art. 1 (V)
-
-
-###### Article A513-7
-
-Les avis de la commission sont émis à la majorité des voix des membres présents. En cas de partage égal des voix, celle du
-président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
-
-	**Abrogé par**:
-
-	  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-	**Cité par**:
-
-	  - Arrêté du 31 mars 1992 - art. 1 (V)
-
-
-###### Article A513-8
-
-Le secrétariat de chaque séance de la commission est assuré par un administrateur civil du ministère de l'économie, désigné
-par le directeur des assurances.
-
-Le secrétaire établit procès-verbal de la séance. Ce document est soumis à l'approbation des membres de la commission et
-conservé dans les archives de la direction des assurances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
-
-	**Abrogé par**:
-
-	  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-	**Cité par**:
-
-	  - Arrêté du 31 mars 1992 - art. 1 (V)
-
-
 #### Chapitre IV : Contrôle des conditions de présentation
 
-##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.
 
-###### Article A514-2
+###### Article A514-1
 
-Sont seuls habilités à viser les livrets de stage et attestations de fonctions mentionnés aux articles R. 514-6 et R. 514-7
-et à recevoir les déclarations de début de stage prévues à l'article R. 513-5, les organismes professionnels suivants :
+Sont habilités à recevoir la liste prévue à l'article R. 514-3, les organismes professionnels suivants :
 
-1° La fédération française des sociétés d'assurances, pour les stages effectués et les fonctions exercées auprès
-d'entreprises d'assurances mentionnées à l'article L. 310-1, autres que les organismes d'assurances mutuelles agricoles
-mentionnés au 2° ci-après, ou pour le compte d'une telle entreprise auprès d'un agent général d'assurances ;
+1° La fédération française des sociétés d'assurances, pour les salariés et les mandataires d'entreprises mentionnées à
+l'article L. 310-1, autres que les organismes d'assurances mutuelles agricoles mentionnés à l'article 1235 du code rural et
+que les entreprises mentionnées au 2° ci-après ;
 
-2° Le groupement des sociétés d'assurances à caractère mutuel, pour les stages effectués et les fonctions exercées auprès
-d'entreprises adhérentes de cet organisme ainsi que pour les stages effectués et les fonctions exercées auprès d'entreprises
-mentionnées à l'article L. 310-1 adhérentes à l'association de recherche et d'étude pour l'épargne et la retraite .
+2° Le groupement des sociétés d'assurances à caractère mutuel, pour les salariés et les mandataires des entreprises
+adhérentes de cet organisme, ainsi que pour les salariés et les mandataires d'entreprises mentionnées à l'article L. 310-1
+adhérentes de l'association de recherche et d'étude pour l'épargne et la retraite ;
 
-3° L'union des caisses centrales de la mutualité agricole, pour les stages effectués et les fonctions exercées auprès
-d'organismes d'assurances mutuelles agricoles mentionnés à l'article 1235 du code rural ;
+3° L'union des caisses centrales de la mutualité agricole, pour les salariés et les mandataires des organismes d'assurances
+mutuelles agricoles mentionnés à l'article 1235 du code rural ;
 
-4° Le syndicat national des courtiers d'assurances, pour les stages effectués et les fonctions exercées auprès de courtiers
+4° La fédération française des courtiers d'assurances et de réassurances, pour les salariés et les mandataires de courtiers
 d'assurances ou de sociétés de courtage d'assurances ;
 
-5° La fédération nationale des syndicats d'agents généraux d'assurances, d'une part, pour les stages effectués et les
-fonctions exercées auprès d'agents généraux d'assurances, autrement que pour le compte d'une entreprise mentionnée à
-l'article L. 310-1, d'autre part, pour les stages théoriques et pratiques effectués dans le cadre de l'école supérieure
-d'assurances en vue de l'obtention du certificat délivré par cet établissement.
+5° La fédération nationale des syndicats d'agents généraux d'assurances, pour les salariés et les mandataires d'agents
+généraux d'assurances.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Arrêté 1966-02-24 art. 2
+	  - Arrêté 1966-02-24 art. 1
 
 	**Codifié par**:
 
@@ -50538,32 +49966,26 @@ d'assurances en vue de l'obtention du certificat délivré par cet établissemen
 
 	**Modifié par**:
 
-	  - Arrêté 1981-02-16 art. 2 JORF 22 février 1981
-	  - Arrêté 1982-05-13 art. 1 JORF 25 mai 1982
-	  - Arrêté 1984-05-29 art. 3 JORF 13 juin 1984
-	  - Arrêté 1989-07-24 art. 2 JORF 5 août 1989
+	  - Arrêté 1981-02-16 art. 1 JORF 16 février 1981
+	  - Arrêté 1989-07-24 art. 1 JORF 5 août 1989
+	  - Arrêté 1992-03-31 art. 2 JORF 1er avril 1992
 
 	**Abrogé par**:
 
-	  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-	**Cité par**:
-
-	  - Arrêté du 31 mars 1992 - art. 1 (V)
+	  - Arrêté du 3 novembre 2006 - art. 1, v. init.
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. R513-5 (M)
-	  - Code des assurances L310-1, R513-5, R514-6, R514-7
+	  - Code des assurances - art. R*514-3 (M)
 	  - Code rural 1235
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*514-6 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*514-3 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. R513-4 (Ab)
 	  - TXT_ASSOCIE: Code des assurances - art. R513-5 (Ab)
-	  - TXT_SOURCE: Code des assurances R514-6
+	  - TXT_ASSOCIE: Code des assurances - art. R514-3 (V)
 
 
 #### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.
