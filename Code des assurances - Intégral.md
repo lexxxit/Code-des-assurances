@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-11-08
+Version Consolidée au 1990-12-01
 
 # Partie législative
 
@@ -18346,10 +18346,10 @@ l'agriculture et du ministre de l'économie et des finances.
 
 ###### Article R*213-7
 
-Une majoration de 10 %, restant à la charge de l'assureur, est appliquée à tout versement qui n'a pas été opéré par une
+Une majoration de 10 p. 100, restant à la charge de l'assureur, est appliquée à tout versement qui n'a pas été opéré par une
 entreprise d'assurance aux échéances fixées par l'article R. 213-3.
 
-Une majoration supplémentaire de 5 % est due pour chaque trimestre de retard.
+Une majoration supplémentaire de 3,5 p. 100 est due pour chaque trimestre de retard.
 
 **Liens relatifs à cet article**
 
@@ -18359,7 +18359,12 @@ Une majoration supplémentaire de 5 % est due pour chaque trimestre de retard.
 
 	**Modifié par**:
 
-	  - Décret n°82-1082 1982-12-20 art. 1 JORF 22 décembre 1982
+	  - Décret n°90-1009 du 14 novembre 1990 - art. 40 () JORF 15 novembre 1990 en vigueur le 1er décembre 1990
+	  - Décret n°90-1009 du 14 novembre 1990 - art. 41 (V) JORF 15 novembre 1990 en vigueur le 1er décembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
 
 	**Cite**:
 
