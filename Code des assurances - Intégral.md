@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1982-12-22
+Version Consolidée au 1982-12-31
 
 # Partie législative
 
@@ -9921,8 +9921,11 @@ atteintes à l'ordre public, troubles populaires, conflits du travail, lorsque c
 de transports de toute nature, ou se rapportent à des biens en cours de transport ou stockés, et à conclure les traités de
 réassurance mentionnés à l'article L. 431-12.
 
-La caisse centrale de réassurance est habilitée à pratiquer les opérations de réassurance des risques résultant de
+La caisse centrale de réassurance est habilitée à pratiquer les opérations de réassurance des risques résultant des
 catastrophes naturelles, avec la garantie de l'Etat, dans des conditions fixées par décret en Conseil d'Etat.
+
+La caisse centrale de réassurance est également habilitée à pratiquer, avec la garantie de l'Etat, les opérations de
+réassurance des risques résultant d'attentats ou d'actes de terrorisme.
 
 **Liens relatifs à cet article**
 
@@ -9932,7 +9935,7 @@ catastrophes naturelles, avec la garantie de l'Etat, dans des conditions fixées
 
 	**Modifié par**:
 
-	  - Loi n°82-600 du 13 juillet 1982 - art. 4 () JORF 14 juillet 1982
+	  - Loi n°82-1152 du 30 décembre 1982 - art. 36 () JORF 31 décembre 1982
 
 	**Cite**:
 
@@ -24636,6 +24639,44 @@ pratiques en usage dans le pays où est établi ce dernier.
 	**Créé par**:
 
 	  - Décret n°81-443 du 7 mai 1981 - art. 2 () JORF 9 mai 1981
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-4 (Ab)
+
+
+##### Paragraphe 6 : Dispositions particulières relatives à l'assurance de la construction : responsabilité civile décennale.
+
+###### Article R*331-32
+
+Lors de chaque inventaire, le montant total des provisions techniques, nettes des sommes à encaisser à la suite de recours,
+relatives aux sinistres rattachés ou à rattacher aux trois derniers exercices écoulés ne peut être inférieur, pour chacun de
+ces exercices considérés séparément, à la différence entre, d'une part, le montant des primes de l'exercice, augmenté des
+produits financiers, et, d'autre part, la somme des éléments suivants ;
+
+1° le montant des commissions et frais généraux rattachés à l'exercice ;
+
+2° le montant des règlements intervenus au titre de ces sinistres, après déduction des sommes encaissées à la suite de
+recours.
+
+Toutefois, l'application des dispositions du présent article peut, par décision du ministre de l'Economie et des Finances,
+pour les entreprises qui adressent à cet effet une demande motivée, être limitée au dernier exercice écoulé à la date de
+l'inventaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°82-540 1982-06-28 art. 30 finances rectificative
+
+	**Créé par**:
+
+	  - Décret n°82-1159 1982-12-30 art. 12 JORF 31 décembre 1982
 
 	**Cite**:
 
