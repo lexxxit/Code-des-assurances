@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-04-22
+Version Consolidée au 2001-05-16
 
 # Partie législative
 
@@ -9307,9 +9307,10 @@ située sur le même territoire que leur siège statutaire.
 ###### Article L310-7
 
 Un décret en Conseil d'Etat détermine les conditions de constitution des entreprises soumises au contrôle de l'Etat en vertu
-de l'article L. 310-1. Il précise les conditions dans lesquelles sont applicables auxdites entreprises les dispositions de la
-loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et des autres lois régissant les sociétés anonymes. Des
-dispositions particulières tiennent compte du caractère non commercial des sociétés d'assurance mutuelles.
+de l'article L. 310-1 et de l'article L. 310-1-1. Il précise les conditions dans lesquelles sont applicables auxdites
+entreprises les dispositions de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et des autres lois
+régissant les sociétés anonymes. Des dispositions particulières tiennent compte du caractère non commercial des sociétés
+d'assurance mutuelles.
 
 Le même décret fixe les obligations auxquelles les entreprises françaises et étrangères sont astreintes, les garanties
 qu'elles doivent présenter, les réserves et provisions techniques qu'elles doivent constituer, les règles générales de leur
@@ -9320,7 +9321,7 @@ fonctionnement et de l'exercice du contrôle de l'Etat.
 	**Cite**:
 
 	  - Loi n°66-537 1966-07-24
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances L310-1 et L310-1-1
 
 	**Codifié par**:
 
@@ -9356,9 +9357,9 @@ fonctionnement et de l'exercice du contrôle de l'Etat.
 	  - TXT_SOURCE: Code des assurances - art. A335-9 (Ab)
 	  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
 
 	**Cité par**:
 
@@ -9651,6 +9652,10 @@ réglementaires qui leur sont applicables en vertu du présent livre. Un arrêt�
 nature, la périodicité et le contenu des informations et des documents que les entreprises mentionnées au présent alinéa sont
 tenues de communiquer périodiquement à la commission de contrôle des assurances pour lui permettre d'exercer sa mission.
 
+La commission s'assure également que les dispositions du titre VI du livre V du code monétaire et financier sont appliquées
+par les entreprises mentionnées à l'article L. 310-1 ainsi que par les personnes physiques ou morales mentionnées au
+cinquième alinéa et soumises à son contrôle.
+
 Le mandat des membres de la présente commission à la date de publication de la loi n° 97-277 du 25 mars 1997 créant les plans
 d'épargne retraite est prolongé jusqu'au 31 décembre 2000.
 
@@ -9716,7 +9721,7 @@ d'épargne retraite est prolongé jusqu'au 31 décembre 2000.
 
 	**Modifié par**:
 
-	  - Loi n°99-532 du 25 juin 1999 - art. 43 () JORF 29 juin 1999
+	  - Loi n°2001-420 du 15 mai 2001 - art. 42 () JORF 16 mai 2001
 
 
 ###### Article L310-12-1
@@ -9870,13 +9875,13 @@ porter à la connaissance du public toutes informations qu'elle estime nécessai
 ###### Article L310-15
 
 Si cela est nécessaire à l'exercice de sa mission et dans la limite de celle-ci, la commission peut décider d'étendre le
-contrôle sur place d'une entreprise mentionnée à l'article L. 310-1 à toute société dans laquelle cette entreprise détient,
-directement ou indirectement, plus de la moitié du capital social ou des droits de vote, ainsi qu'aux organismes de toute
-nature ayant passé, directement ou indirectement, avec cette entreprise une convention de gestion, de réassurance ou de tout
-autre type susceptible d'altérer son autonomie de fonctionnement ou de décision concernant l'un quelconque de ses domaines
-d'activité. Cette extension du contrôle ne peut avoir d'autre objet que la vérification de la situation financière réelle de
-l'entreprise d'assurance contrôlée ainsi que le respect par cette entreprise des engagements qu'elle a contractés à l'égard
-des assurés ou bénéficiaires de contrats.
+contrôle sur place d'une entreprise mentionnée à l'article L. 310-1 ou à l'article L. 310-1-1, à toute société dans laquelle
+cette entreprise détient, directement ou indirectement, plus de la moitié du capital social ou des droits de vote, ainsi
+qu'aux organismes de toute nature ayant passé, directement ou indirectement, avec cette entreprise une convention de gestion,
+de réassurance ou de tout autre type susceptible d'altérer son autonomie de fonctionnement ou de décision concernant l'un
+quelconque de ses domaines d'activité. Cette extension du contrôle ne peut avoir d'autre objet que la vérification de la
+situation financière réelle de l'entreprise d'assurance contrôlée ainsi que le respect par cette entreprise des engagements
+qu'elle a contractés à l'égard des assurés ou bénéficiaires de contrats.
 
 Si cette entreprise fait l'objet de mesures de redressement et de sauvegarde, le contrôle sur place peut être également
 étendu aux personnes morales qui la contrôlent directement ou indirectement, au sens de l'article 355-1 de la loi n° 66-537
@@ -9893,19 +9898,16 @@ filiales d'assurance implantées à l'étranger d'entreprises d'assurance de dro
 
 	  - Loi n°66-537 1966-07-24 art. 355-1
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
 	  - Code des assurances - art. L345-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+	  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
 
 	**Cité par**:
 
@@ -9994,6 +9996,8 @@ sanctions disciplinaires suivantes, en fonction de la gravité du manquement :
 
 4° La suspension temporaire d'un ou plusieurs dirigeants de l'entreprise ;
 
+4° bis La démission d'office d'un ou plusieurs dirigeants de l'entreprise ;
+
 5° Le retrait total ou partiel d'agrément ;
 
 6° Le transfert d'office de tout ou partie du portefeuille des contrats.
@@ -10030,7 +10034,7 @@ l'affichage dans les lieux et pour la durée qu'elle indique.
 
 	**Modifié par**:
 
-	  - Loi n°99-532 1999-06-25 art. 91 2° JORF 29 juin 1999
+	  - Loi n°2001-420 du 15 mai 2001 - art. 12 () JORF 16 mai 2001
 
 	**Cité par**:
 
@@ -10094,11 +10098,11 @@ l'affichage dans les lieux et pour la durée qu'elle indique.
 
 ###### Article L310-18-1
 
-Lorsqu'une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1-1 ou une société de participations
-d'assurance enfreint une disposition législative ou réglementaire qui lui est applicable en vertu du présent livre, la
-commission de contrôle des assurances peut, après avoir mis ses dirigeants en mesure de lui présenter leurs observations, lui
-adresser une mise en garde. Elle peut, dans les mêmes conditions, lui adresser une injonction à l'effet de prendre, dans un
-délai déterminé, toutes mesures destinées à se mettre en conformité avec les règles applicables.
+Lorsqu' une société de participations d'assurance enfreint une disposition législative ou réglementaire qui lui est
+applicable en vertu du présent livre, la commission de contrôle des assurances peut, après avoir mis ses dirigeants en mesure
+de lui présenter leurs observations, lui adresser une mise en garde. Elle peut, dans les mêmes conditions, lui adresser une
+injonction à l'effet de prendre, dans un délai déterminé, toutes mesures destinées à se mettre en conformité avec les règles
+applicables.
 
 La commission peut également, lorsque l'entreprise enfreint une disposition législative ou réglementaire qui lui est
 applicable, ou ne défère pas à une injonction, prononcer, dans les conditions définies à l'article L. 310-18, soit un
@@ -10106,9 +10110,8 @@ avertissement, soit un blâme. La commission peut décider la publication de la 
 par le dernier alinéa de l'article L. 310-18.
 
 En outre, la commission peut, dans les conditions définies à l'article L. 310-18, prononcer, soit à la place, soit en sus de
-ces sanctions, une sanction pécuniaire. Le montant de la sanction pécuniaire est calculé conformément aux dispositions de
-l'article L. 310-18. Pour une société de participations d'assurance, le montant maximum de la sanction pécuniaire est défini
-par référence au chiffre d'affaires de celle des entreprises d'assurance incluses par intégration globale dans la
+ces sanctions, une sanction pécuniaire. Le montant maximum de la sanction pécuniaire mentionné à l'article L. 310-18 est
+défini par référence au chiffre d'affaires de celle des entreprises d'assurance incluses par intégration globale dans la
 consolidation dont le total des primes émises au cours du dernier exercice clos est le plus élevé.
 
 **Liens relatifs à cet article**
@@ -10117,9 +10120,9 @@ consolidation dont le total des primes émises au cours du dernier exercice clos
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-679 du 8 août 1994 - art. 2 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+	  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
 
 	**Cité par**:
 
@@ -10133,8 +10136,62 @@ consolidation dont le total des primes émises au cours du dernier exercice clos
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-18 (M)
+
+
+###### Article L310-18-2
+
+Lorsqu'une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1-1 enfreint une disposition
+législative ou réglementaire qui lui est applicable en vertu du présent livre, la commission de contrôle des assurances peut,
+après avoir mis ses dirigeants en mesure de lui présenter ses observations, lui adresser une mise en garde.
+
+Elle peut, dans les mêmes conditions, lui adresser une injonction à l'effet de prendre, dans un délai déterminé, toutes
+mesures destinées à se mettre en conformité avec les règles applicables.
+
+En outre, la commission peut, lorsque l'entreprise n'a pas respecté une disposition législative ou réglementaire dans le
+domaine relevant du contrôle de la commission ou n'a pas déféré à une injonction, prononcer à son encontre ou à celle de ses
+dirigeants l'une ou plusieurs des sanctions disciplinaires suivantes en fonction de la gravité du manquement :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° L'interdiction d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ;
+
+4° La suspension temporaire d'un ou plusieurs dirigeants de l'entreprise ;
+
+5° Le retrait de l'autorisation de pratiquer la réassurance.
+
+La commission peut décider la publication de la sanction prononcée, dans les conditions prévues par le dernier alinéa de
+l'article L. 310-18.
+
+La commission peut également, dans les conditions définies à l'article L. 310-18, prononcer, soit à la place, soit en sus de
+ces sanctions, une sanction pécuniaire. Le montant de la sanction pécuniaire est calculé conformément aux dispositions de
+l'article L. 310-18.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 32 () JORF 2 août 2003
+
+	**Cite**:
+
 	  - Code des assurances - art. L310-1-1 (V)
 	  - Code des assurances - art. L310-18 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L323-1-2 (Ab)
+	  - Code des assurances - art. L325-1-1 (M)
 
 
 ###### Article L310-19
@@ -10669,6 +10726,53 @@ Aucun agrément ne peut être accordé à une entreprise tontinière pour des op
 	  - TXT_SOURCE: Code des assurances - art. R*321-1 (V)
 
 
+###### Article L321-1-1
+
+Les entreprises mentionnées à l'article L. 310-1-1 ne peuvent commencer leurs opérations qu'après avoir obtenu une
+autorisation de pratiquer la réassurance.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment en ce qui concerne les
+entreprises de réassurance constituées à la date de publication de la loi n° 2001-420 du 15 mai 2001 relative aux nouvelles
+régulations économiques et soumises au contrôle de l'Etat en application de l'article L. 310-1-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+
+	**Cité par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 13 (V)
+	  - Arrêté du 3 novembre 2014 - art. 5 (V)
+	  - Code des assurances - art. A321-1 (V)
+	  - Code des assurances - art. L310-1-1 (VD)
+	  - Code des assurances - art. L310-10-1 (M)
+	  - Code des assurances - art. L310-12-5 (M)
+	  - Code des assurances - art. L310-9-1 (Ab)
+	  - Code des assurances - art. L321-10-1 (V)
+	  - Code des assurances - art. L322-27-1 (VD)
+	  - Code des assurances - art. L325-1 (VD)
+	  - Code des assurances - art. L350-2 (VD)
+	  - Code des assurances - art. L351-5 (M)
+	  - Code des assurances - art. L353-5 (M)
+	  - Code des assurances - art. L411-4 (M)
+	  - Code des assurances - art. R*341-9 (T)
+	  - Code des assurances - art. R321-26 (VD)
+	  - Code des assurances - art. R321-5-1 (V)
+	  - Code des assurances - art. R325-11 (VD)
+	  - Code des assurances - art. R342-1 (Ab)
+	  - Code des assurances - art. R342-17 (Ab)
+	  - Code des assurances - art. R342-19 (Ab)
+	  - Code des assurances - art. R351-3 (M)
+	  - Code des assurances - art. R353-2 (M)
+	  - Code monétaire et financier - art. L517-2 (V)
+
+
 ###### Article L321-2
 
 Le ministre chargé de l'économie et des finances informe la Commission des communautés européennes de toute décision
@@ -11048,7 +11152,8 @@ avis de la commission compétente du Conseil national des assurances, prend en c
 - les moyens techniques et financiers dont la mise en oeuvre est proposée et leur adéquation au programme d'activité de
 l'entreprise ;
 
-- l'honorabilité et la qualification des personnes chargées de la conduire ;
+- l'honorabilité, la compétence et l'expérience des personnes chargées de la conduire, appréciées dans les conditions
+définies à l'article L. 322-2 ;
 
 - la répartition de son capital et la qualité des actionnaires ou, pour les sociétés mentionnées à l'article L. 322-26-1, les
 modalités de constitution du fonds d'établissement.
@@ -11063,6 +11168,8 @@ La liste des documents à produire à l'appui d'une demande d'agrément présent
 321-1, L. 321-7, L. 321-8 et L. 321-9 du code des assurances est, pour chaque type d'agrément, fixée par arrêté du ministre
 de l'économie et des finances.
 
+L'octroi de l'agrément peut être subordonné au respect d'engagements souscrits par l'entreprise requérante.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -11076,7 +11183,7 @@ de l'économie et des finances.
 
 	**Modifié par**:
 
-	  - Loi n°99-532 du 25 juin 1999 - art. 53 () JORF 29 juin 1999
+	  - Loi n°2001-420 du 15 mai 2001 - art. 11 () JORF 16 mai 2001
 
 	**Cité par**:
 
@@ -11102,6 +11209,54 @@ de l'économie et des finances.
 	**Anciens textes**:
 
 	  - Code des assurances - art. L321-2-1 (T)
+
+
+###### Article L321-10-1
+
+Pour accorder ou refuser l'autorisation de pratiquer la réassurance prévue à l'article L. 321-1-1, le ministre prend en
+compte :
+
+- la répartition de son capital et la qualité de ses actionnaires ou, pour les sociétés mentionnées à l'article L. 322-26-1,
+les modalités de constitution du fonds d'établissement ;
+
+- l'honorabilité et la qualification des personnes chargées de la conduire ;
+
+- les moyens techniques et financiers dont la mise en oeuvre est proposée pour garantir la solvabilité de l'entreprise compte
+tenu de son programme d'activité.
+
+Le ministre refuse l'autorisation, après avis de la Commission de contrôle des assurances, lorsque l'exercice de la mission
+de surveillance de l'entreprise est susceptible d'être entravé soit par l'existence de liens de capital ou de contrôle
+directs ou indirects entre l'entreprise requérante et d'autres personnes physiques ou morales, soit par l'existence de
+dispositions législatives, réglementaires ou administratives d'un Etat qui n'est pas partie à l'accord sur l'Espace
+économique européen et dont relèvent une ou plusieurs de ces personnes.
+
+La liste des documents à produire à l'appui d'une demande d'autorisation présentée conformément aux dispositions de l'article
+L. 321-1-1 est fixée par arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 24 (V)
+	  - Code de la mutualité - art. L211-8-1 (VD)
+	  - Code des assurances - art. A321-10 (V)
+	  - Code des assurances - art. A321-11 (V)
+	  - Code des assurances - art. L325-1 (VD)
+	  - Code des assurances - art. R321-26 (VD)
+	  - Code des assurances - art. R321-28 (VT)
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1-1 (M)
+	  - Code des assurances - art. L322-26-1 (T)
 
 
 ##### Section V : Dispositions particulières applicables aux territoires d'outre-mer et à Mayotte.
@@ -11229,7 +11384,7 @@ g) Pour recel des choses obtenues à la suite de ces infractions ;
 h) Par application des dispositions des articles 75 et 77 à 84 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et
 au contrôle des établissements de crédit.
 
-i) ou par application de l'article L. 627 du code de la santé publique ou de l'article 415 du code des douanes.
+i) Par application des articles 222-38, 324-1 et 324-2 du code pénal ou de l'article 415 du code des douanes.
 
 2° S'il a été condamné à une peine d'emprisonnement supérieure à deux mois en application de l'article 66 du décret du 30
 octobre 1935 modifié unifiant le droit en matière de chèque.
@@ -11250,6 +11405,9 @@ personnelle et les banqueroutes, a été prononcée à son égard ou s'il a ét�
 Ces interdictions peuvent également être prononcées par les tribunaux à l'encontre de toute personne condamnée pour
 infractions à la législation ou à la réglementation des assurances.
 
+Les personnes appelées à fonder, diriger ou administrer une entreprise ou une société mentionnée au premier alinéa doivent
+posséder la compétence ainsi que l'expérience nécessaires à leur fonction.
+
 Les dispositions du présent article sont applicables au mandataire général désigné par les entreprises opérant en régime
 d'établissement.
 
@@ -11265,15 +11423,18 @@ d'établissement.
 	  - Loi n°83-1 du 3 janvier 1983 - art. 40 (M)
 	  - Loi n°84-46 1984-01-24 art. 75, art. 77 à 84
 	  - Loi n°85-98 1985-01-25 art. 185 à 195
+	  - Code pénal - art. 222-38 (M)
 	  - Code pénal - art. 313-4 (Ab)
+	  - Code pénal - art. 324-1 (M)
+	  - Code pénal - art. 324-2 (M)
 	  - Code pénal - art. 432-11 (M)
+	  - Code pénal - art. 433-1 (M)
 	  - Code pénal - art. 433-2 (M)
+	  - Code pénal - art. 433-3 (M)
 	  - Code pénal - art. 441-1 (M)
 	  - Code pénal - art. 441-8 (M)
-	  - Code pénal 1, 52-1, 313-1 à 313-3, 313-4, 432-11, 433-2, 441-1, 441-8
+	  - Code pénal 441-1, 151-1, 432-11, 441-8, 433-2, 433-1, 433-3, 52-1, 313-1 à 313-3, 313-4, 1, 222-38, 324-1, 324-2
 	  - Code des douanes - art. 415 (T)
-	  - Code du travail - art. L152-6 (M)
-	  - Code de la santé publique - art. L627 (M)
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-1-1 (V)
 	  - Décret n°1935-10-30 art. 66
@@ -11289,7 +11450,7 @@ d'établissement.
 
 	**Modifié par**:
 
-	  - Loi n°94-679 du 8 août 1994 - art. 3 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+	  - Loi n°2001-420 du 15 mai 2001 - art. 12 () JORF 16 mai 2001
 
 	**Cité par**:
 
@@ -11552,12 +11713,20 @@ principale consiste à prendre des participations dans des entreprises soumises 
 l'article L. 310-1 et qui détiennent, directement ou indirectement, un pouvoir de contrôle effectif sur une ou plusieurs de
 ces entreprises.
 
+L'autorisation donnée à des opérations mentionnées au premier alinéa peut être subordonnée au respect d'engagements souscrits
+par une ou plusieurs des personnes ayant présenté une demande d'autorisation.
+
 En cas de manquement aux prescriptions édictées par le décret en Conseil d'Etat visé au premier alinéa du présent article et
 sans préjudice des dispositions de l'article 356-4 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, à la
 demande du ministre chargé de l'économie et des finances, du procureur de la République, de la Commission de contrôle des
 assurances ou de tout actionnaire, le juge suspend, jusqu'à régularisation de la situation, l'exercice des droits de vote
 attachés aux actions ou parts sociales des entreprises visées au premier alinéa du présent article détenues irrégulièrement,
 directement ou indirectement.
+
+Toute personne envisageant de déposer un projet d'offre publique au Conseil des marchés financiers en application du chapitre
+III du titre III du livre IV du code monétaire et financier, en vue d'acquérir une quantité déterminée de titres d'une
+entreprise d'assurance agréée en France, est tenue d'en informer le ministre chargé de l'économie deux jours ouvrés avant le
+dépôt de ce projet d'offre ou son annonce publique si elle est antérieure.
 
 **Liens relatifs à cet article**
 
@@ -11576,9 +11745,9 @@ directement ou indirectement.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 22 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°2001-420 du 15 mai 2001 - art. 14
 
 	**Cité par**:
 
@@ -12358,6 +12527,46 @@ territoires d'outre-mer.
 	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 
+#### Chapitre III : Mesures de sauvegarde et d'assainissement
+
+##### Section I : Règles générales.
+
+###### Article L323-1-2
+
+Lorsque la situation financière d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1-1 est telle que
+sa solvabilité est compromise ou susceptible de l'être, la Commission de contrôle des assurances peut mettre l'entreprise
+sous surveillance spéciale.
+
+Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie des actifs de l'entreprise, limiter ou
+suspendre temporairement certaines opérations ou désigner un administrateur provisoire à qui sont transférés les pouvoirs
+nécessaires à l'administration et à la direction de l'entreprise. Cette désignation est faite soit à la demande des
+dirigeants lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs fonctions, soit à l'initiative de la
+commission lorsque la gestion de l'entreprise ne peut plus être assurée dans des conditions normales, ou lorsque a été prise
+la sanction prévue au 4° de l'article L. 310-18-2.
+
+Un décret en Conseil d'Etat précise les modalités d'application de cet article. Il fixe notamment le délai dans lequel les
+mesures prévues à l'alinéa précédent sont levées ou confirmées par la commission, après procédure contradictoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 32 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L310-18-2 (Ab)
+
+
 #### Chapitre IV : Transfert de portefeuille
 
 ##### Section I : Règles générales.
@@ -12743,6 +12952,28 @@ de la composition du capital social ou des organes de direction.
 	  - Code des assurances - art. L321-1 (M)
 	  - Code des assurances - art. L321-7 (V)
 	  - Code des assurances - art. L321-9 (M)
+
+
+###### Article L325-1-1
+
+Sans préjudice des dispositions de l'article L. 310-18-2, l'autorisation de pratiquer la réassurance peut également être
+retirée par le ministre chargé de l'économie et des finances, en cas d'absence prolongée d'activité, de rupture de
+l'équilibre entre les moyens financiers de l'entreprise et son activité ou, si l'intérêt général l'exige, de modification
+substantielle de la composition du capital social ou des organes de direction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-18-2 (Ab)
 
 
 #### Chapitre VI : Liquidation.
@@ -13722,8 +13953,8 @@ qui leur sont applicables.
 ###### Article L334-1
 
 Un arrêté du ministre chargé de l'économie détermine les règles de solvabilité que doivent respecter, sur la base de leurs
-comptes consolidés ou combinés, les entreprises visées à l'article L. 310-1 et les sociétés de participations d'assurance
-visées à l'article L. 345-1, qui sont soumises à l'obligation prévue à l'article L. 345-2.
+comptes consolidés ou combinés, les entreprises visées aux articles L. 310-1 et L. 310-1-1 et les sociétés de participations
+d'assurance visées à l'article L. 345-1, qui sont soumises à l'obligation prévue à l'article L. 345-2.
 
 Lorsque les entreprises visées à l'alinéa précédent font usage de la dispense prévue à l'article 357-8-1 de la loi n° 66-537
 du 24 juillet 1966 sur les sociétés commerciales, ces règles de solvabilité sont déterminées à partir des éléments des
@@ -13735,6 +13966,7 @@ comptes consolidés ou combinés que ces entreprises auraient présentés si ell
 
 	  - Loi n°66-537 1966-07-24 art. 357-8-1
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
 	  - Code des assurances - art. L345-1 (M)
 
 	**Codifié par**:
@@ -13743,7 +13975,7 @@ comptes consolidés ou combinés que ces entreprises auraient présentés si ell
 
 	**Modifié par**:
 
-	  - Loi n°98-261 du 6 avril 1998 - art. 8 () JORF 7 avril 1998
+	  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
 
 	**Cité par**:
 
@@ -15233,15 +15465,18 @@ Le conseil comprend en outre :
 
 - cinq représentants du personnel des entreprises d'assurance mentionnées à l'article L. 310-1 ;
 
-- huit représentants des assurés dont un représentant élu des collectivités locales.
+- huit représentants des assurés dont un représentant élu des collectivités locales ;
+
+- le président du conseil de surveillance du fonds de garantie institué à l'article L. 423-1 ou un membre du directoire le
+représentant. 
 
 Hormis le président et le directeur des assurances, les membres du Conseil national des assurances sont nommés pour une
 période de trois ans renouvelable.
 
 Le Conseil national des assurances se réunit au moins deux fois par an en séance plénière.
 
-Un décret en Conseil d'Etat fixe les modalités de désignation des membres visés aux septième à onzième alinéas ci-dessus,
-ainsi que les conditions de fonctionnement du Conseil national des assurances.
+Un décret en Conseil d'Etat fixe les modalités de désignation des membres visés aux septième à douzième alinéas ci-dessus,
+ainsi que le conditions de fonctionnement du Conseil national des assurances.
 
 **Liens relatifs à cet article**
 
@@ -15249,13 +15484,9 @@ ainsi que les conditions de fonctionnement du Conseil national des assurances.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
 	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19 art. 6 XXV JORF 22 avril 2001
+	  - Loi n°2001-420 du 15 mai 2001 - art. 13 () JORF 16 mai 2001
 
 	**Cité par**:
 
