@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1997-05-31
+Version Consolidée au 1997-06-01
 
 # Partie législative
 
@@ -18881,43 +18881,6 @@ indu.
 
 #### Chapitre Ier : L'obligation de s'assurer.
 
-##### Section I : Personnes assujetties.
-
-###### Article R*211-1
-
-Les dérogations prévues à l'article L. 211-3 sont accordées par arrêté du ministre de l'économie et des finances. S'il s'agit
-de collectivités publiques, l'arrêté est pris conjointement par le ministre de l'économie et des finances et par le ministre
-de l'intérieur. S'il s'agit d'entreprises ou de groupements d'entreprises de transports publics, l'arrêté est pris
-conjointement par le ministre de l'économie et des finances et par le ministre chargé des transports.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-21 du 7 janvier 1986 - art. 10 (V)
-	  - TXT_SOURCE: Code des assurances - art. L211-3 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°94-182 du 1 mars 1994 - art. 2 () JORF 3 mars 1994
-
-	**Abrogé par**:
-
-	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-3 (Ab)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*214-4 (V)
-
-
 ##### Section II : Etendue de l'obligation d'assurance.
 
 ###### Article R211-2
@@ -19352,8 +19315,7 @@ duplicata sur la simple demande de la personne au profit de qui le document orig
 ###### Article R211-14
 
 Tout conducteur d'un véhicule mentionné à l'article L. 211-1 doit, dans les conditions prévues aux articles de la présente
-section, être en mesure de présenter un document faisant présumer que l'obligation d'assurance a été satisfaite ou que les
-conditions de l'article L. 211-3 sont applicables.
+section, être en mesure de présenter un document faisant présumer que l'obligation d'assurance a été satisfaite.
 
 Cette présomption résulte de la production, aux fonctionnaires ou agents chargés de constater les infractions à la police de
 la circulation, d'un des documents dont les conditions d'établissement et de validité sont fixées par le décret en Conseil
@@ -19363,8 +19325,8 @@ A défaut d'un de ces documents, la justification est fournie aux autorités jud
 
 Sera puni de la peine d'amende prévue pour les contraventions de deuxième classe tout conducteur d'un véhicule mentionné à
 l'article L. 211-1 et non soumis à l'obligation prévue à l'article R. 211-21-1 qui ne sera pas en mesure de présenter un des
-documents justificatifs prévus aux articles R. 211-15, R. 211-17 et au deuxième alinéa de l'article R. 211-18. Toutefois, ces
-dispositions ne sont pas applicables lorsque ce conducteur est passible de la sanction prévue à l'alinéa suivant.
+documents justificatifs prévus aux articles R. 211-15 et R. 211-17. Toutefois, ces dispositions ne sont pas applicables
+lorsque ce conducteur est passible de la sanction prévue à l'alinéa suivant.
 
 Sera punie de la peine d'amende prévue pour les contraventions de la 4e classe toute personne qui, invitée à justifier dans
 un délai de cinq jours de la possession d'un des documents mentionnés à l'alinéa précédent, n'aura pas présenté ce document
@@ -19383,7 +19345,7 @@ sens de l'article L. 211-4 sur le territoire d'un Etat, autre que la France et M
 
 	**Modifié par**:
 
-	  - Décret n°94-847 du 26 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
 
 	**Cité par**:
 
@@ -19397,7 +19359,6 @@ sens de l'article L. 211-4 sur le territoire d'un Etat, autre que la France et M
 	  - Code des assurances - art. A211-7 (V)
 	  - Code des assurances - art. R211-14-1 (V)
 	  - Code des assurances - art. R211-15 (V)
-	  - Code des assurances - art. R211-21-1 (M)
 	  - Code des assurances - art. R211-21-6 (V)
 
 	**Liens**:
@@ -19407,10 +19368,9 @@ sens de l'article L. 211-4 sur le territoire d'un Etat, autre que la France et M
 	**Cite**:
 
 	  - Code des assurances - art. L211-1 (M)
-	  - Code des assurances - art. L211-3 (Ab)
 	  - Code des assurances - art. L211-4 (M)
 	  - Code des assurances - art. R*211-17 (M)
-	  - Code des assurances - art. R*211-18 (M)
+	  - Code des assurances - art. R211-21-1 (M)
 
 
 ###### Article R211-15
@@ -19572,10 +19532,6 @@ Pour l'utilisation des véhicules appartenant à l'Etat ou mis à sa disposition
 n'ayant pas fait l'objet d'une immatriculation spéciale, il est établi une attestation de propriété par l'autorité
 administrative compétente.
 
-Pour les véhicules bénéficiant d'une dérogation intervenue dans les conditions fixées à l'article L. 211-3, les attestations
-nécessaires sont délivrées par le ministre de l'intérieur pour les collectivités publiques, par le ministre chargé des
-transports pour les entreprises de transports publics, par le ministre de l'économie et des finances dans les autres cas.
-
 Aucune attestation ne peut être délivrée par une autorité qui n'aurait pas reçu délégation à cet effet.
 
 **Liens relatifs à cet article**
@@ -19586,7 +19542,7 @@ Aucune attestation ne peut être délivrée par une autorité qui n'aurait pas r
 
 	**Modifié par**:
 
-	  - Décret n°94-182 du 1 mars 1994 - art. 2 () JORF 3 mars 1994
+	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
 
 	**Cité par**:
 
@@ -19877,10 +19833,9 @@ l'article R. 211-14 et aux personnes mentionnées aux articles R. 211-22 et R. 2
 
 ###### Article R211-21-7
 
-Les véhicules visés au deuxième alinéa de l'article R. 211-21-1 utilisés par l'Etat ainsi que les véhicules appartenant à une
-collectivité bénéficiaire d'une dérogation à l'obligation d'assurance doivent être équipés, lorsqu'ils ne font pas l'objet
-d'une immatriculation spéciale, d'un certificat d'assurance spécifique dont les caractéristiques sont fixées par le ministre
-chargé de l'économie.
+Les véhicules visés au deuxième alinéa de l'article R. 211-21-1 utilisés par l'Etat doivent être équipés, lorsqu'ils ne font
+pas l'objet d'une immatriculation spéciale, d'un certificat d'assurance spécifique dont les caractéristiques sont fixées par
+le ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -19888,9 +19843,9 @@ chargé de l'économie.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-111 1989-02-21 art. 8 JORF 23 février 1989
+	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
 
 	**Liens**:
 
@@ -19898,7 +19853,7 @@ chargé de l'économie.
 
 	**Cite**:
 
-	  - Code des assurances - art. R211-21-1 (M)
+	  - Code des assurances - art. R211-21-1 (V)
 
 
 ##### Section V : Dispositions relatives à l'assurance des véhicules en circulation internationale et de certains autres véhicules.
@@ -20635,160 +20590,146 @@ d'assurance en matière de circulation des véhicules terrestres à moteur.
 
 ###### Article R*213-2
 
-La cotisation est recouvrée par l'assureur et calculée sur la prime, cotisation ou fraction de prime ou de cotisation
-d'assurance et reversée par l'assureur à l'agence centrale des organismes de sécurité sociale sous déduction d'un prélèvement
-destiné à compenser les frais de recouvrement.
+La cotisation d'assurance maladie visée à l'article R. 213-1 est recouvrée auprès des entreprises d'assurance par l'Agence
+centrale des organismes de sécurité sociale et contrôlée par elle. Pour le contrôle, l'agence est assistée, en tant que de
+besoin, par les unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales et les caisses
+générales de sécurité sociale des départements d'outre-mer.
 
-Le taux du prélèvement prévu à l'alinéa ci-dessus est fixé à 0,8 %.
+Le recouvrement et le contrôle s'effectuent dans les conditions prévues aux articles R. 137-1 à R. 137-16 du code de la
+sécurité sociale ci-après reproduits :
 
-**Liens relatifs à cet article**
+"Art. R. 137-1 du code de la sécurité sociale : Les entreprises d'assurance sont tenues de verser à l'Agence centrale des
+organismes de sécurité sociale le produit de la cotisation d'assurance maladie visée à l'article R. 213-1 du code des
+assurances correspondant au montant des primes, cotisations ou fractions de prime ou de cotisation d'assurance émises au
+cours de chaque bimestre, déduction faite des annulations et remboursements constatés durant la même période et après
+déduction du prélèvement destiné à compenser les frais de gestion dont le taux est fixé à 0,8 %, au plus tard le 15 du
+deuxième mois suivant le dernier jour de chaque bimestre.
 
-	**Codifié par**:
+A l'appui de chaque versement, elles sont tenues de produire à l'Agence centrale des organismes de sécurité sociale une
+déclaration conforme à un modèle fixé par arrêté du ministre chargé de la sécurité sociale et du ministre chargé des
+assurances.
 
-	  - Décret n°76-667 1976-07-16
+"Art. R. 137-2 du code de la sécurité sociale : A titre justificatif, les entreprises d'assurance doivent :
 
-	**Modifié par**:
+1. Conserver un exemplaire de la déclaration mentionnée à l'article R. 137-1 ;
 
-	  - Décret n°85-805 du 30 juillet 1985 - art. 2 () JORF 31 juillet 1985
+2. Etablir un état récapitulatif annuel des assurés non assujettis indiquant les noms et adresses de ces assurés, les numéros
+des contrats souscrits par eux, les dates d'échéance et les montants des primes correspondantes.
 
-	**Liens**:
+"Art. R. 137-3 du code de la sécurité sociale : Le défaut de production dans les délais prescrits de la déclaration visée à
+l'article R. 137-1 entraîne une pénalité de 5 000 F. Si le retard excède un mois, une pénalité identique est automatiquement
+appliquée pour chaque mois ou fraction de mois de retard.
 
-	  - SPEC_APPLI: Décret n°85-805 du 30 juillet 1985 - art. 6 (V)
-	  - TXT_SOURCE: Code des assurances - art. L213-1 (M)
+Une pénalité de 5 000 F est également encourue en cas d'inexactitude de la déclaration produite.
 
+"Art. R. 137-4 du code de la sécurité sociale : Lorsque la déclaration visée à l'article R. 137-1 n'a pas été produite dans
+les délais prescrits, le montant du produit des cotisations peut être fixé à titre provisionnel par l'Agence centrale des
+organismes de sécurité sociale en fonction des versements effectués au titre des exercices antérieurs ou, à défaut, par tous
+autres moyens.
 
-###### Article R*213-3
+"Art. R. 137-5 du code de la sécurité sociale : Il est appliqué une majoration de retard au montant des cotisations qui n'ont
+pas été versées à la date limite d'exigibilité fixée à l'article R. 137-1. Son taux est celui prévu au premier alinéa de
+l'article R. 243-18.
 
-La cotisation d'assurance maladie instituée par l'article L. 213-1 du code des assurances est liquidée sur le montant des
-primes ou cotisations d'assurance qui ont fait l'objet d'une émission au cours d'une période de deux mois, déduction faite
-des annulations et remboursements constatés durant la même période.
+"Cette majoration de retard est augmentée d'un montant égal au produit du taux prévu au deuxième alinéa de l'article R.
+243-18 par le montant des cotisations dues, et ce pour chaque trimestre ou fraction de trimestre écoulé après l'expiration
+d'un délai de trois mois à compter des dates limites d'exigibilité susmentionnées.
 
-Les assureurs sont tenus de verser le produit de cette cotisation à l'agence centrale des organismes de sécurité sociale dans
-les quarante-cinq jours qui suivent la fin de chaque période de deux mois.
+"Art. R. 137-6 du code de la sécurité sociale : Les entreprises d'assurance peuvent formuler une demande gracieuse en
+réduction des pénalités et majorations de retard résultant de l'application des articles R. 137-3 et R. 137-5. Cette requête
+n'est recevable qu'après règlement de la totalité des cotisations ayant donné lieu à application des majorations.
 
-Un arrêté conjoint du ministre de l'économie et des finances et du ministre chargé de la sécurité sociale fixe les modalités
-d'application du présent article et précise notamment les pièces justificatives qui doivent être produites par les assureurs.
+Le directeur de l'Agence centrale des organismes de sécurité sociale, sur avis conforme de l'agent comptable et du contrôleur
+d'Etat, statue sur les demandes portant sur des montants inférieurs à un seuil fixé par le conseil d'administration. A partir
+de ce seuil, le conseil d'administration statue sur proposition du directeur et sur avis conforme de l'agent comptable et du
+contrôleur d'Etat.
 
-**Liens relatifs à cet article**
+Il ne peut être accordé une remise des majorations et des pénalités de retard que si la bonne foi des entreprises est dûment
+prouvée. Les décisions du directeur et du conseil d'administration doivent être motivées.
 
-	**Codifié par**:
+Lorsque le produit des cotisations est versé avec un retard d'un mois ou plus à compter de la date limite d'exigibilité, un
+minimum de majorations de retard des cotisations arriérées par mois ou fraction de mois de retard est laissé à la charge du
+débiteur. Son taux est celui prévu au quatrième alinéa de l'article R. 243-20.
 
-	  - Décret n°76-667 1976-07-16
+Toutefois, par dérogation à l'alinéa précédent, le conseil d'administration peut décider la remise intégrale des majorations
+dans des cas exceptionnels. La délibération du conseil n'est exécutoire qu'après approbation du ministre chargé de la
+sécurité sociale et du ministre chargé du budget.
 
-	**Modifié par**:
+"Art. R. 137-7 du code de la sécurité sociale : Pour le règlement des cotisations non versées à la date limite d'exigibilité
+fixée à l'article R. 137-1, l'agent comptable de l'Agence centrale des organismes de sécurité sociale notifie au débiteur la
+créance par lettre recommandée avec accusé de réception.
 
-	  - Décret n°85-805 du 30 juillet 1985 - art. 3 () JORF 31 juillet 1985
+La notification de la créance mentionne notamment le montant en principal, les pénalités et majorations de retard et les
+conditions de règlement.
 
-	**Liens**:
+Sous sa responsabilité personnelle et pécuniaire, l'agent comptable peut accorder des délais de paiement.
 
-	  - SPEC_APPLI: Décret n°85-805 du 30 juillet 1985 - art. 5 (V)
-	  - SPEC_APPLI: Décret n°85-805 du 30 juillet 1985 - art. 7 (V)
-	  - TXT_SOURCE: Code des assurances - art. L213-1 (M)
+"Art. R. 137-8 du code de la sécurité sociale : A défaut de paiement ou de contestation dans le délai d'un mois, l'agent
+comptable de l'Agence centrale des organismes de sécurité sociale notifie le titre exécutoire au débiteur par lettre
+recommandée avec accusé de réception et poursuit le recouvrement par ministère d'huissier sauf opposition devant le tribunal
+des affaires de sécurité sociale.
 
-	**Abrogé par**:
+Le débiteur peut former opposition par inscription au secrétariat du tribunal des affaires de sécurité sociale dans le
+ressort duquel il est domicilié ou par lettre recommandée avec demande d'avis de réception adressée au secrétariat dudit
+tribunal dans les quinze jours à compter de la notification.
 
-	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
+L'opposition doit être motivée ; une copie du titre exécutoire contesté doit lui être jointe.
 
-	**Cite**:
+La décision du tribunal des affaires de sécurité sociale statuant sur opposition est exécutoire de droit à titre provisoire.
 
-	  - Code des assurances - art. L213-1 (M)
+Le directeur de l'Agence centrale des organismes de sécurité sociale peut accorder le sursis à poursuites en accord avec
+l'agent comptable pour le règlement des cotisations, des pénalités et majorations de retard. Le sursis doit être assorti de
+garanties du débiteur qui sont appréciées par l'agent comptable.
 
+"Art. R. 137-9 du code de la sécurité sociale : Dès qu'il a connaissance de l'opposition, l'agent comptable de l'Agence
+centrale des organismes de sécurité sociale adresse au secrétariat du tribunal des affaires de sécurité sociale une copie du
+titre exécutoire ainsi que l'avis de réception par le débiteur dudit titre.
 
-###### Article R*213-4
+"Art. R. 137-10 du code de la sécurité sociale : Les frais de poursuites engagés pour le recouvrement des cotisations, des
+pénalités et majorations de retard sont à la charge des débiteurs sauf lorsque l'opposition a été jugée fondée.
 
-Les membres du corps de l'inspection générale de la sécurité sociale peuvent recueillir auprès des entreprises d'assurance
-tous renseignements de nature à permettre la vérification de l'application des articles R. 213-1 à R. 213-3.
+"Art. R. 137-11 du code de la sécurité sociale : Par dérogation aux dispositions de l'article R. 142-1, les réclamations
+formées à l'encontre des décisions prises par l'Agence centrale des organismes de sécurité sociale relatives au recouvrement
+de la cotisation visée à l'article R. 137-1 sont présentées au conseil d'administration dans le délai d'un mois à compter de
+la notification de la créance.
 
-**Liens relatifs à cet article**
+"Art. R. 137-12 du code de la sécurité sociale : Par dérogation aux dispositions de l'article R. 142-6, lorsque la décision
+du conseil d'administration n'a pas été portée à la connaissance du requérant dans le délai de deux mois, l'intéressé peut
+considérer sa demande comme rejetée et se pourvoir devant le tribunal des affaires de sécurité sociale.
 
-	**Anciens textes**:
+Le délai de deux mois prévu à l'alinéa précédent court à compter de la réception de la réclamation par l'agence. Toutefois,
+si des documents sont produits par le réclamant après le dépôt de la réclamation, le délai ne court qu'à compter de la
+réception de ces documents.
 
-	  - Décret n°67-1211 1967-12-22 art. 5
+"Art. R. 137-13 du code de la sécurité sociale : Par dérogation aux dispositions de l'article R. 142-25, le tribunal des
+affaires de sécurité sociale statue en dernier ressort lorsqu'il est saisi de recours contre les décisions prises en
+application de l'article R. 137-6, quel que soit le montant sur lequel porte la demande.
 
-	**Codifié par**:
+"Art. R. 137-14 du code de la sécurité sociale : Les dispositions des articles R. 142-8 à R. 142-23, R. 142-25, R. 142-27 à
+R. 142-31, R. 144-1 à R. 144-6, R. 243-46 à R. 243-54 et R. 243-56 à R. 243-58 s'appliquent aux litiges et créances relatifs
+au recouvrement par l'Agence centrale des organismes de sécurité sociale de la cotisation d'assurance maladie visée à
+l'article R. 213-1 du code des assurances.
 
-	  - Décret n°76-667 1976-07-16
+"Art. R. 137-15 du code de la sécurité sociale : Les entreprises d'assurance sont tenues de permettre aux agents de l'Agence
+centrale des organismes de sécurité sociale chargés du contrôle de l'application de la législation relative aux recettes
+recouvrées directement par cet organisme, ainsi qu'aux inspecteurs du recouvrement mentionnés à l'article R. 243-59, l'accès
+à tout document et à tout support d'information demandés comme nécessaires à l'exercice de ce contrôle.
 
-	**Abrogé par**:
+Lesdits agents communiquent par écrit les observations formulées au cours du contrôle, ainsi que la nature et le montant des
+redressements envisagés, à l'intéressé qui peut faire connaître ses observations dans un délai de quinze jours.
 
-	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
+A l'expiration du délai susmentionné, ils transmettent le procès-verbal faisant état des observations formulées ainsi que de
+la nature et du montant des redressements envisagés, accompagné s'il y a lieu de la réponse de l'intéressé, à l'Agence
+centrale des organismes de sécurité sociale qui notifie sa décision à ce dernier.
 
-	**Liens**:
+"Art. R. 137-16 du code de la sécurité sociale : Un arrêté conjoint du ministre chargé de la sécurité sociale, du ministre de
+l'agriculture et du ministre chargé du budget fixe chaque année la répartition entre les régimes obligatoires d'assurance
+maladie du produit des cotisations, pénalités et majorations mentionnées aux articles R. 137-1, R. 137-3 et R. 137-5, au
+prorata du montant des prestations en nature servies par chaque régime au cours de l'année précédente.
 
-	  - TXT_SOURCE: Code des assurances - art. L213-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances R213-1 à R213-3
-
-
-###### Article R*213-5
-
-Les employeurs dispensés de l'obligation d'assurance en vertu de l'article L. 211-3 versent, avant le 31 mars de chaque
-année, à l'agence centrale des organismes de sécurité sociale, une cotisation proportionnelle au montant, majoré de 30 %, des
-indemnités acquittées au cours de l'année précédente par eux, à titre de réparation des dommages résultant d'accidents
-provoqués par des véhicules terrestres à moteur. Le taux de cette cotisation est fixé à 15 %.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°85-805 du 30 juillet 1985 - art. 1 () JORF 31 juillet 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°85-805 du 30 juillet 1985 - art. 6 (V)
-	  - TXT_SOURCE: Code des assurances - art. L213-1 (M)
-
-	**Abrogé par**:
-
-	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-3 (Ab)
-
-
-###### Article R*213-6
-
-Un arrêté conjoint du ministre chargé de la sécurité sociale, du ministre de l'agriculture et du ministre de l'économie et
-des finances fixe chaque année la répartition du produit des cotisations, majorations et cotisations forfaitaires ci-dessus
-mentionnées entre les divers régimes obligatoires d'assurance maladie au prorata du montant des prestations en nature servies
-par chaque régime au cours de l'année précédente.
-
-Les modalités du versement par l'agence centrale des organismes de sécurité sociale du produit des cotisations qui revient à
+Les modalités du versement par l'Agence centrale des organismes de sécurité sociale du produit des cotisations qui revient à
 chaque régime bénéficiaire sont fixées par arrêté conjoint du ministre chargé de la sécurité sociale, du ministre de
-l'agriculture et du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1211 1967-12-22 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L213-1 (M)
-
-
-###### Article R*213-7
-
-Une majoration de 10 p. 100, restant à la charge de l'assureur, est appliquée à tout versement qui n'a pas été opéré par une
-entreprise d'assurance aux échéances fixées par l'article R. 213-3.
-
-Une majoration supplémentaire de 3,5 p. 100 est due pour chaque trimestre de retard.
+l'agriculture et du ministre chargé du budget".
 
 **Liens relatifs à cet article**
 
@@ -20798,57 +20739,21 @@ Une majoration supplémentaire de 3,5 p. 100 est due pour chaque trimestre de re
 
 	**Modifié par**:
 
-	  - Décret n°90-1009 du 14 novembre 1990 - art. 40 () JORF 15 novembre 1990 en vigueur le 1er décembre 1990
-	  - Décret n°90-1009 du 14 novembre 1990 - art. 41 (V) JORF 15 novembre 1990 en vigueur le 1er décembre 1990
+	  - Décret n°97-635 du 31 mai 1997 - art. 2 () JORF 1er juin 1997
 
 	**Abrogé par**:
 
-	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - Décret n°2002-657 du 29 avril 2002 - art. 1 () JORF 2 mai 2002
 
 	**Cite**:
 
-	  - Code des assurances R213-3
+	  - Code de la sécurité sociale R137-1 à R137-16
+	  - Code des assurances - art. R142-6 (V)
+	  - Code des assurances R213-1, R137-1, R243-18, R137-3, R137-5, R243-20, R142-6, R142-8 à R142-23, R142-25, R142-27 à R142-31, R144-1 à R144-6, R243-46 à R243-54, R243-56 à R243-58
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances R213-8
-
-
-###### Article R*213-8
-
-Les assureurs peuvent adresser à l'agence centrale des organismes de sécurité sociale une demande gracieuse en réduction ou
-en remise intégrale des majorations résultant de l'article R. 213-7 ci-dessus. Cette demande ne peut être examinée qu'après
-règlement de la totalité des cotisations ayant donné lieu à application desdites majorations.
-
-Les réductions et remises ne peuvent être accordées qu'en cas de bonne foi prouvée du débiteur.
-
-Un minimum de majoration de 1,5 p. 100 des cotisations arriérées doit être laissé à la charge du débiteur lorsque les
-cotisations ont été acquittées avec un retard de quinze jours ou plus à compter de la date d'exigibilité.
-
-Les décisions sont prises par le conseil d'administration de l'agence centrale des organismes de sécurité sociale et
-notifiées aux entreprises intéressées. Elles doivent être motivées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°85-805 du 30 juillet 1985 - art. 4 () JORF 31 juillet 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°85-805 du 30 juillet 1985 - art. 8 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
-
-	**Cite**:
-
-	  - Code des assurances R213-7
+	  - TXT_SOURCE: Code des assurances - art. L213-1 (M)
 
 
 ### Titre II : L'assurance des engins de remontée mécanique
@@ -21188,7 +21093,7 @@ jours, sous peine d'irrecevabilité, à compter du refus de l'assureur sollicit�
 
 Lorsqu'il s'agit de la souscription d'un contrat nouveau, est considéré comme un refus implicite d'assurance le silence gardé
 par l'assureur pendant plus de quinze jours après réception de la demande de souscription adressée en vertu des articles L.
-125-6, L. 212-1 ou L. 220-5, ainsi que de l'article 1234-10 du code rural et pendant plus de quatre-vingt-dix jours après
+125-6, L. 212-1 ou L. 220-5, ainsi que de l'article 1234-10 du code rural et pendant plus de quarante-cinq jours après
 réception de la demande de souscription adressée en vertu de l'article L. 243-4.
 
 Est assimilé à un refus le fait par l'assureur, saisi d'une demande de souscription d'assurance, de subordonner son
@@ -21208,7 +21113,7 @@ une demande de souscription formulée en application des articles L. 125-1 et L.
 
 	**Modifié par**:
 
-	  - Décret n°96-1096 du 10 décembre 1996 - art. 2 () JORF 17 décembre 1996
+	  - Décret n°97-660 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
 
 	**Cité par**:
 
@@ -21313,7 +21218,7 @@ Gouvernement adjoint, nommés par le ministre de l'économie et des finances. To
 ministre chargé de l'agriculture.
 
 Le commissaire du Gouvernement assiste à toutes les réunions. Il peut demander au bureau, soit immédiatement, soit dans les
-cinq jours suivant une décision, un nouvel examen de l'affaire dans le délai qu'il fixera.
+trente jours suivant une décision, un nouvel examen de l'affaire dans le délai qu'il fixera.
 
 **Liens relatifs à cet article**
 
@@ -21327,7 +21232,7 @@ cinq jours suivant une décision, un nouvel examen de l'affaire dans le délai q
 
 	**Modifié par**:
 
-	  - Décret n°96-1096 du 10 décembre 1996 - art. 3 () JORF 17 décembre 1996
+	  - Décret n°97-660 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
 
 
 ## Livre III : Les entreprises
@@ -35512,9 +35417,13 @@ droit en précisant le numéro de la police.
 
 2. Les dispositions des articles R. 421-13 à R. 421-16 sont applicables à l'indemnisation des dommages matériels.
 
-3. Le fonds de garantie ne prend pas en charge des dommages matériels subis par l'Etat et par les collectivités publiques,
-entreprises et organismes bénéficiaires d'une dérogation à l'obligation d'assurance accordée en application de l'article L.
-211-3.
+3. Le fonds de garantie ne prend pas en charge des dommages matériels subis par l'Etat.
+
+**Nota:**
+
+- Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à
+la " collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
+territoriale " est remplacée par la référence à la " collectivité départementale ".
 
 **Liens relatifs à cet article**
 
@@ -35522,32 +35431,27 @@ entreprises et organismes bénéficiaires d'une dérogation à l'obligation d'as
 
 	  - Décret n°76-666 1976-07-16
 
-	**Transféré par**:
-
-	  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
 	**Modifié par**:
 
-	  - Décret n°94-182 du 1 mars 1994 - art. 6 () JORF 3 mars 1994
+	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
 
-	**Cite**:
+	**Liens**:
 
-	  - Code des assurances - art. L211-3 (Ab)
-	  - Code des assurances - art. R421-1 (M)
-	  - Code des assurances R421-1, R421-13 à R421-16, L211-3
+	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
 	**Anciens textes**:
 
 	  - Code des assurances - art. R*420-18 (T)
-	  - Code des assurances R420-18
+
+	**Cite**:
+
+	  - Code des assurances - art. R421-1 (M)
+	  - Code des assurances R421-1, R421-13 à R421-16
 
 	**Cité par**:
 
 	  - Code des assurances - art. R421-20 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
 
 ###### Article R421-19
@@ -36003,10 +35907,9 @@ limite des montants maximaux ci-après :
 - contribution des responsables d'accidents non assurés :
 
 10 p. 100 des indemnités restant à leur charge. Toutefois, ce taux est ramené à 5 p. 100 lorsque l'accident a été provoqué
-par un véhicule utilisé par l'Etat, un Etat étranger pour lequel a été fournie l'attestation prévue à l'article R. 211-25,
-une collectivité publique, une entreprise ou un organisme bénéficiant de la dérogation à l'obligation d'assurance en vertu de
-l'article L. 211-3 du code des assurances. Il est également ramené à 5 p. 100 des indemnités restant à leur propre charge
-pour les bénéficiaires d'une assurance avec franchise.
+par un véhicule utilisé par l'Etat, un Etat étranger pour lequel a été fournie l'attestation prévue à l'article R. 211-25. Il
+est également ramené à 5 p. 100 des indemnités restant à leur propre charge pour les bénéficiaires d'une assurance avec
+franchise.
 
 - contribution des assurés : 2 p. 100 des primes mentionnées au 3° de l'article R. 421-27.
 
@@ -36027,10 +35930,6 @@ pour les bénéficiaires d'une assurance avec franchise.
 	  - TXT_ASSOCIE: Code des assurances - art. R420-31 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16, R420-30, R420-31
 
-	**Modifié par**:
-
-	  - Décret n°94-1023 du 29 novembre 1994 - art. 3 () JORF 30 novembre 1994
-
 	**Cité par**:
 
 	  - Arrêté du 29 novembre 1994 - art. 1 (V)
@@ -36039,15 +35938,18 @@ pour les bénéficiaires d'une assurance avec franchise.
 	  - Code des assurances - art. A421-3 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 322 A (P)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des assurances - art. L211-3 (Ab)
-	  - Code des assurances - art. R421-27 (M)
-	  - Code des assurances L211-3, R211-25, R421-27
+	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
 
 	**Anciens textes**:
 
 	  - Code des assurances - art. R*420-28 (T)
+
+	**Cite**:
+
+	  - Code des assurances - art. R421-27 (M)
+	  - Code des assurances R211-25, R421-27
 
 
 ###### Article R421-37
@@ -43399,70 +43301,6 @@ estimez responsables.
 
 	  - Loi n°85-677 du 5 juillet 1985 (V)
 	  - Décret n°86-15 du 6 janvier 1986 (V)
-
-
-#### Chapitre III : Contribution au profit de la sécurité sociale.
-
-###### Article A213-2
-
-Au plus tard le 15 juin de chaque année, les entreprises d'assurance déposent à l'agence centrale des organismes de sécurité
-sociale un état indiquant pour l'année précédente : le montant des primes émises ou des encaissements et le montant des
-annulations ou remboursements ; le montant des primes constituant l'assiette de la cotisation ; le taux de la cotisation ; le
-montant brut des cotisations ; le montant net des cotisations ; le montant des acomptes trimestriels effectivement versés ;
-éventuellement l'excédent résultant des versements antérieurs ; le solde net à payer ou le montant de l'excédent à imputer
-sur les versements trimestriels postérieurs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1968-04-09 art. 2
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
-
-	**Cité par**:
-
-	  - Code des assurances - art. A213-3 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R213-3
-
-
-###### Article A213-3
-
-Les états mentionnés aux articles A. 213-1 et A. 213-2 sont établis en double exemplaire suivant un modèle arrêté par
-l'agence centrale des organismes de sécurité sociale. Un exemplaire de ces états est conservé par les entreprises
-d'assurance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1968-04-09 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
-
-	**Cite**:
-
-	  - Code des assurances - art. A213-1 (Ab)
-	  - Code des assurances - art. A213-2 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R213-3
 
 
 ### Titre II : L'assurance des engins de remontée mécanique
