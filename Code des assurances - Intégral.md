@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1980-11-01
+Version Consolidée au 1981-01-08
 
 # Partie législative
 
@@ -46,13 +46,14 @@ Les opérations d'assurance-crédit ne sont pas régies par les titres mentionn�
 
 Ne peuvent être modifiées par convention les prescriptions des titres Ier, II et III du présent livre, sauf celles qui
 donnent aux parties une simple faculté et qui sont contenues dans les articles L. 112-1, L. 112-5, L. 112-6, L. 113-10, L.
-121-4 à L. 121-8, L. 121-12, L. 121-14.
+121-4 à L. 121-8, L. 121-12, L. 121-14, L. 122-1, L. 122-2, L. 122-6, L. 124-1, L. 124-2, L. 132-1, L. 132-10, L. 132-15 et
+L. 132-19.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Loi n°81-5 1981-01-07 art. 28-1 JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cite**:
 
@@ -62,15 +63,20 @@ donnent aux parties une simple faculté et qui sont contenues dans les articles 
 	  - Code des assurances - art. L113-10 (V)
 	  - Code des assurances - art. L121-12 (V)
 	  - Code des assurances - art. L121-14 (V)
-	  - Code des assurances L112-1, L112-5, L112-6, L113-10, L121-4 à L121-8, L121-12, L121-14
+	  - Code des assurances - art. L122-1 (V)
+	  - Code des assurances - art. L122-2 (V)
+	  - Code des assurances - art. L122-6 (V)
+	  - Code des assurances - art. L124-1 (V)
+	  - Code des assurances - art. L124-2 (V)
+	  - Code des assurances - art. L132-1 (M)
+	  - Code des assurances - art. L132-10 (M)
+	  - Code des assurances - art. L132-15 (M)
+	  - Code des assurances - art. L132-19 (V)
+	  - Code des assurances L112-1, L112-5, L112-6, L113-10, L121-4 à L121-8, L121-12, L121-14, L122-1, L122-2, L122-6, L124-1, L124-2, L132-1, L132-10, L132-15, L132-19
 
 	**Cité par**:
 
 	  - Code des assurances - art. L181-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 2
 
 
 ###### Article L111-3
@@ -117,27 +123,22 @@ et Lorraine en matière de droit privé.
 ###### Article L111-5
 
 Les dispositions des titres Ier, II et III du présent livre, à l'exclusion des articles L. 124-4 et L. 132-29 à L. 132-31,
-sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, de Saint-Pierre-et-Miquelon, des
-Terres australes et antarctiques françaises et de Wallis et Futuna.
+sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
 
-Toutefois, dans l'hypothèse prévue par le premier alinéa de l'article L. 132-22, le décret rendu par le rapport du ministre
-de l'économie et des finances est remplacé par un arrêté du préfet ou du chef de territoire.
+Toutefois, dans l'hypothèse prévue par le dernier alinéa de l'article L. 132-22, le décret est remplacé par un arrêté du
+représentant du Gouvernement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Loi n°81-5 du 7 janvier 1981 - art. 26 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cite**:
 
 	  - Code des assurances - art. L124-4 (V)
 	  - Code des assurances - art. L132-22 (M)
 	  - Code des assurances L124-4, L132-29 à L132-31, L132-22
-
-	**Anciens textes**:
-
-	  - Décret n°1937-03-19 art. 1, art. 3
 
 
 #### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.
@@ -245,7 +246,9 @@ et l'assuré ne soient engagés l'un à l'égard de l'autre par la remise d'une 
 
 ###### Article L112-4
 
-La police d'assurance est datée du jour où elle est établie. Elle indique :
+La police d'assurance est datée du jour où elle est établie.
+
+Elle indique :
 
 - les noms et domiciles des parties contractantes ;
 
@@ -259,14 +262,14 @@ La police d'assurance est datée du jour où elle est établie. Elle indique :
 
 - la prime ou la cotisation de l'assurance.
 
-Les clauses des polices édictant des nullités ou des déchéances ne sont valables que si elles sont mentionnées en caractères
-très apparents.
+Les clauses des polices édictant des nullités, des déchéances ou des exclusions ne sont valables que si elles sont
+mentionnées en caractères très apparents.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Loi n°81-5 du 7 janvier 1981 - art. 30 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
@@ -274,10 +277,6 @@ très apparents.
 	  - Code des assurances - art. L132-5 (M)
 	  - Code des assurances - art. R132-4 (V)
 	  - Code des assurances - art. R441-2 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 9
 
 
 ###### Article L112-5
@@ -335,8 +334,7 @@ souscripteur originaire.
 Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de
 l'assureur, sauf exclusion formelle et limitée contenue dans la police.
 
-Toutefois, l'assureur ne répond pas, nonobstant toute convention contraire, des pertes et dommages provenant d'une faute
-intentionnelle ou dolosive de l'assuré.
+Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faute intentionnelle ou dolosive de l'assuré.
 
 **Liens relatifs à cet article**
 
@@ -344,13 +342,13 @@ intentionnelle ou dolosive de l'assuré.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 28 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+
 	**Cité par**:
 
 	  - Code des assurances - art. R220-3 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 12
 
 
 ###### Article L113-2
@@ -403,11 +401,10 @@ payable au domicile de l'assuré ou à tout autre lieu convenu dans les cas et c
 Conseil d'Etat.
 
 A défaut de paiement d'une prime, ou d'une fraction de prime, dans les dix jours de son échéance, et indépendamment du droit
-pour l'assureur de poursuivre l'exécution du contrat en justice sous réserve des dispositions de l'article L. 132-20, la
-garantie ne peut être suspendue que trente jours après la mise en demeure de l'assuré. Au cas où la prime annuelle a été
-fractionnée, la suspension de la garantie, intervenue en cas de non-paiement d'une des fractions de prime, produit ses effets
-jusqu'à l'expiration de la période annuelle considérée. La prime ou fraction de prime est portable dans tous les cas, après
-la mise en demeure de l'assuré.
+pour l'assureur de poursuivre l'exécution du contrat en justice, la garantie ne peut être suspendue que trente jours après la
+mise en demeure de l'assuré. Au cas où la prime annuelle a été fractionnée, la suspension de la garantie, intervenue en cas
+de non-paiement d'une des fractions de prime, produit ses effets jusqu'à l'expiration de la période annuelle considérée. La
+prime ou fraction de prime est portable dans tous les cas, après la mise en demeure de l'assuré.
 
 L'assureur a le droit de résilier le contrat dix jours après l'expiration du délai de trente jours mentionné au deuxième
 alinéa du présent article.
@@ -417,14 +414,17 @@ mandataire désigné par lui à cet effet, la prime arriérée ou, en cas de fra
 prime ayant fait l'objet de la mise en demeure et celles venues à échéance pendant la période de suspension ainsi que,
 éventuellement, les frais de poursuites et de recouvrement.
 
-Toute clause réduisant les délais fixés par les dispositions précédentes ou dispensant l'assureur de la mise en demeure est
-nulle.
+Les dispositions des alinéas 2 à 4 du présent article ne sont pas applicables aux assurances sur la vie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 31 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
@@ -449,10 +449,6 @@ nulle.
 	  - TXT_SOURCE: Code des assurances - art. R*113-3 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*113-5 (Ab)
 	  - SPEC_APPLI: Code des assurances R113-5
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 16
 
 
 ###### Article L113-4
@@ -493,10 +489,8 @@ primes ou en payant, après un sinistre, une indemnité.
 
 ###### Article L113-5
 
-Lors de la réalisation du risque ou à l'échéance du contrat, l'assureur est tenu de payer dans le délai convenu l'indemnité
-ou la somme déterminée d'après le contrat.
-
-L'assureur ne peut être tenu au-delà de la somme assurée.
+Lors de la réalisation du risque ou à l'échéance du contrat, l'assureur doit exécuter dans le délai convenu la prestation
+déterminée par le contrat et ne peut être tenu au-delà.
 
 **Liens relatifs à cet article**
 
@@ -504,13 +498,13 @@ L'assureur ne peut être tenu au-delà de la somme assurée.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 33 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+
 	**Cité par**:
 
 	  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 14
 
 
 ###### Article L113-6
@@ -519,64 +513,70 @@ En cas de liquidation de biens ou de règlement judiciaire de l'assuré, l'assur
 créanciers qui devient débitrice directe envers l'assureur du montant des primes à échoir à partir de l'ouverture de la
 liquidation de biens ou du règlement judiciaire. La masse et l'assureur conservent néanmoins le droit de résilier le contrat
 pendant un délai de trois mois à partir de cette date : la portion de prime afférente au temps pendant lequel l'assureur ne
-couvre plus le risque est restituée à la masse.
+couvre plus le risque est restituée à la masse. 
 
 En cas de liquidation de biens ou de règlement judiciaire de l'assureur, le contrat prend fin un mois après la déclaration de
-liquidation de biens ou de règlement judiciaire, sous réserve des dispositions de l'article L. 132-27. L'assuré peut réclamer
+liquidation de biens ou de règlement judiciaire, sous réserve des dispositions de l'article L. 327-4. L'assuré peut réclamer
 le remboursement de la prime payée pour le temps où l'assurance ne court plus.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. L132-27 (Ab)
+	  - Loi n°81-5 du 7 janvier 1981 - art. 31 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
 	  - Code des assurances - art. L251-3 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°1930-07-13 art. 18
+	  - Code des assurances - art. L327-4 (M)
 
 
 ###### Article L113-7
 
 Si, pour la fixation de la prime, il a été tenu compte de circonstances spéciales, mentionnées dans la police, aggravant les
-risques, et si ces circonstances viennent à disparaître au cours de l'assurance, l'assuré a le droit, nonobstant toute
-convention contraire de résilier le contrat, sans indemnité, si l'assureur ne consent pas la diminution de prime
-correspondante, d'après le tarif applicable lors de la souscription du contrat.
+risques, et si ces circonstances viennent à disparaître au cours de l'assurance, l'assuré a le droit, de résilier le contrat,
+sans indemnité, si l'assureur ne consent pas la diminution de prime correspondante, d'après le tarif applicable lors de la
+souscription du contrat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Loi n°81-5 du 7 janvier 1981 - art. 28 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°1930-07-13 art. 20
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Abrogé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 
 ###### Article L113-8
 
 Indépendamment des causes ordinaires de nullité, et sous réserve des dispositions de l'article L. 132-26, le contrat
-d'assurance est nul en cas de réticence ou de fausse déclaration intentionnelle de la part de l'assuré quand cette réticence
+d'assurance est nul en cas de réticence ou de fausse déclaration intentionnelle de la part de l'assuré, quand cette réticence
 ou cette fausse déclaration change l'objet du risque ou en diminue l'opinion pour l'assureur, alors même que le risque omis
-ou dénaturé par l'assuré a été sans influence sur le sinistre.
+ou dénaturé par l'assuré a été sans influence sur le sinistre. 
 
 Les primes payées demeurent alors acquises à l'assureur, qui a droit au paiement de toutes les primes échues à titre de
-dommages et intérêts.
+dommages et intérêts. 
+
+Les dispositions du second alinéa du présent article ne sont pas applicables aux assurances sur la vie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 32 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
@@ -586,11 +586,7 @@ dommages et intérêts.
 
 	**Cite**:
 
-	  - Code des assurances - art. L132-26 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 21
+	  - Code des assurances - art. L132-26 (V)
 
 
 ###### Article L113-9
@@ -763,9 +759,9 @@ d'accidents corporels, d'invalidité et de maladie. Cette disposition doit être
 
 ###### Article L113-14
 
-Dans tous les cas où l'assuré a la faculté de demander la résiliation, il peut le faire à son choix et nonobstant toute
-clause contraire, soit par une déclaration faite contre récépissé au siège social ou chez le représentant de l'assureur dans
-la localité, soit par acte extrajudiciaire, soit par lettre recommandée, soit par tout autre moyen indiqué dans la police.
+Dans tous les cas où l'assuré a la faculté de demander la résiliation, il peut le faire à son choix, soit par une déclaration
+faite contre récépissé au siège social ou chez le représentant de l'assureur dans la localité, soit par acte extrajudiciaire,
+soit par lettre recommandée, soit par tout autre moyen indiqué dans la police.
 
 **Liens relatifs à cet article**
 
@@ -773,21 +769,20 @@ la localité, soit par acte extrajudiciaire, soit par lettre recommandée, soit 
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 28 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+
 	**Cité par**:
 
 	  - Code des assurances - art. L113-12 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 5
 
 
 ###### Article L113-15
 
 La durée du contrat doit être mentionnée en caractères très apparents dans la police.
 
-La police doit également mentionner que la durée de la tacite reconduction ne peut en aucun cas et nonobstant toute clause
-contraire, être supérieure à une année.
+La police doit également mentionner que la durée de la tacite reconduction ne peut en aucun cas être supérieure à une année.
 
 **Liens relatifs à cet article**
 
@@ -795,13 +790,13 @@ contraire, être supérieure à une année.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 28 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+
 	**Cité par**:
 
 	  - Code des assurances - art. L145-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 5
 
 
 ###### Article L113-16
@@ -1161,7 +1156,7 @@ l'aliénation ; il peut être résilié, moyennant préavis de dix jours, par ch
 A défaut de remise en vigueur du contrat par accord des parties ou de résiliation par l'une d'elles, la résiliation
 intervient de plein droit à l'expiration d'un délai de six mois à compter de l'aliénation.
 
-L'assuré doit informer l'assureur, par lettre recommandée avec demande d'avis de réception, de la date d'aliénation.
+L'assuré doit informer l'assureur, par lettre recommandée, de la date d'aliénation.
 
 Il peut être stipulé au contrat qu'à défaut de cette notification, l'assureur a droit à une indemnité d'un montant égal à la
 portion de prime échue ou à échoir correspondant au temps écoulé entre la date de l'aliénation et le jour où il en a eu
@@ -1171,19 +1166,22 @@ Il peut également être stipulé une indemnité au profit de l'assureur lorsque
 intervient de plein droit par application du présent article. Le montant maximal de cette indemnité est également fixé à la
 moitié d'une prime annuelle.
 
+L'ensemble des dispositions du présent article est applicable en cas d'aliénation de navires ou de bateaux de plaisance quel
+que soit le mode de déplacement ou de propulsion utilisé.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 34 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+
 	**Cité par**:
 
 	  - Code des assurances - art. L192-2 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 19 bis
 
 
 ###### Article L121-12
@@ -1356,8 +1354,8 @@ les secours et par les mesures de sauvetage.
 
 ###### Article L122-4
 
-L'assureur répond, nonobstant toute stipulation contraire, de la perte ou de la disparition des objets assurés survenue
-pendant l'incendie, à moins qu'il ne prouve que cette perte ou cette disparition est provenue d'un vol.
+L'assureur répond de la perte ou de la disparition des objets assurés survenue pendant l'incendie, à moins qu'il ne prouve
+que cette perte ou cette disparition est provenue d'un vol.
 
 **Liens relatifs à cet article**
 
@@ -1365,13 +1363,13 @@ pendant l'incendie, à moins qu'il ne prouve que cette perte ou cette disparitio
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 28 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+
 	**Cité par**:
 
 	  - Code des assurances - art. L192-3 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 43
 
 
 ###### Article L122-5
@@ -1420,9 +1418,8 @@ tremblements de terre et autres cataclysmes.
 
 ###### Article L123-1
 
-En matière d'assurance contre la grêle, l'envoi de la déclaration de sinistre doit, nonobstant toute clause contraire, être
-effectué par l'assuré, sauf le cas fortuit ou de force majeure, et sauf prolongation contractuelle, dans les quatre jours de
-l'avènement du sinistre.
+En matière d'assurance contre la grêle, l'envoi de la déclaration de sinistre doit être effectué par l'assuré, sauf le cas
+fortuit ou de force majeure, et sauf prolongation contractuelle, dans les quatre jours de l'avènement du sinistre.
 
 En matière d'assurance contre la mortalité du bétail, ce délai est réduit à vingt-quatre heures, sous les mêmes réserves.
 
@@ -1432,9 +1429,9 @@ En matière d'assurance contre la mortalité du bétail, ce délai est réduit �
 
 	  - Décret n°76-666 1976-07-16
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1930-07-13 art. 46
+	  - Loi n°81-5 du 7 janvier 1981 - art. 28 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 
 ###### Article L123-2
@@ -1595,11 +1592,28 @@ loi n° 57-1424 du 31 décembre 1957".
 En matière d'assurance sur la vie et d'assurance contre les accidents atteignant les personnes, les sommes assurées sont
 fixées par le contrat.
 
+Le capital ou la rente garantis sont libellés en francs.
+
+En matière d'assurance sur la vie, et après accord de l'autorité administrative, le capital ou la rente garantis peuvent être
+exprimés en unités de compte constituées de valeurs mobilières ou d'actifs figurant sur une liste dressée par décret en
+Conseil d'Etat pris après avis de la Commission des opérations de bourse, du conseil national des assurances et du conseil
+national de la consommation. Dans tous les cas, le contractant ou le bénéficiaire a la faculté d'opter entre le règlement en
+espèces et la remise des titres ou des parts. Toutefois, lorsque les unités de compte sont constituées par des titres ou des
+parts non négociables, le règlement ne peut être effectué qu'en espèces.
+
+Le montant en francs des sommes versées par l'assureur lors de la réalisation du risque décès ne peut toutefois être
+inférieur à celui du capital ou de la rente garantis, calculé sur la base de la valeur de l'unité de compte à la date de
+prise d'effet du contrat ou, s'il y a lieu, de son dernier avenant.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 1 (V) JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
@@ -1641,10 +1655,6 @@ fixées par le contrat.
 	  - TXT_SOURCE: Code des assurances - art. R131-1 (V)
 	  - TXT_SOURCE: Code des assurances - art. R131-2 (V)
 	  - TXT_SOURCE: Code des assurances - art. R131-4 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 54
 
 
 ###### Article L131-2
@@ -1695,20 +1705,19 @@ La vie d'une personne peut être assurée par elle-même ou par un tiers.
 
 La police d'assurance sur la vie doit indiquer, outre les énonciations mentionnées dans l'article L. 112-4 :
 
-1° Les nom, prénoms et date de naissance de celui ou ceux sur la tête desquels repose l'opération ;
+1° Les nom, prénoms et date de naissance de celui ou de ceux sur la tête desquels repose l'opération ;
 
-2° Les nom et prénoms du bénéficiaire, s'il est déterminé ;
-
-3° L'événement ou le terme duquel dépend l'exigibilité des sommes assurées ;
-
-4° Les conditions de la réduction si le contrat implique l'admission de la réduction, conformément aux dispositions des
-articles L. 132-10 et L. 132-21.
+2° L'événement ou le terme duquel dépend l'exigibilité du capital ou de la rente garantis.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 5 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
@@ -1720,12 +1729,6 @@ articles L. 132-10 et L. 132-21.
 	**Cite**:
 
 	  - Code des assurances - art. L112-4 (M)
-	  - Code des assurances - art. L132-20 (M)
-	  - Code des assurances - art. L132-21 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 60
 
 
 ###### Article L132-7
@@ -1893,15 +1896,12 @@ manifestement exagérées eu égard à ses facultés.
 
 ###### Article L132-14
 
-Le capital assuré au profit d'un bénéficiaire déterminé ne peut être réclamé par les créanciers de l'assuré. Ces derniers ont
-seulement droit au remboursement des primes, dans le cas indiqué par l'article L. 132-13, deuxième alinéa, en vertu soit de
-l'article 1167 du code civil, soit des articles 29 et 31 de la loi n° 67-563 du 13 juillet 1967.
+Le capital ou la rente garantis au profit d'un bénéficiaire déterminé ne peuvent être réclamés par les créanciers du
+contractant. Ces derniers ont seulement droit au remboursement des primes, dans le cas indiqué par l'article L. 132-13,
+deuxième alinéa, en vertu soit de l'article 1167 du code civil, soit des articles 29 et 31 de la loi n° 67-563 du 13 juillet
+1967.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 69
 
 	**Cite**:
 
@@ -1913,6 +1913,10 @@ l'article 1167 du code civil, soit des articles 29 et 31 de la loi n° 67-563 du
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 9 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 
 ###### Article L132-15
@@ -1942,15 +1946,11 @@ dans la forme de l'article 1690 du code civil, soit, si la police est à ordre, 
 
 ###### Article L132-17
 
-Les articles 56 et 58 de la loi n° 67-563 du 13 juillet 1967 concernant les droits de la femme du débiteur en liquidation de
+Les articles 56 et 58 de la loi n° 67-563 du 13 juillet 1967 concernant les droits du conjoint du débiteur en liquidation de
 biens ou en règlement judiciaire sont sans application en cas d'assurance sur la vie contractée par un commerçant au profit
-de sa femme.
+de son conjoint.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 72
 
 	**Cite**:
 
@@ -1960,6 +1960,10 @@ de sa femme.
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 11 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 
 ###### Article L132-18
@@ -1983,20 +1987,33 @@ Les époux peuvent contracter une assurance réciproque sur la tête de chacun d
 
 ###### Article L132-20
 
-L'assureur n'a pas d'action pour exiger le paiement des primes.    Le défaut de paiement d'une prime n'a pour sanction, après
-accomplissement des formalités prescrites par l'article L. 113-3, que la résiliation pure et simple de l'assurance ou la
-réduction de ses effets.
+L'assureur n'a pas d'action pour exiger le paiement des primes.
 
-Dans les contrats d'assurance en cas de décès faits pour la durée entière de la vie de l'assuré, sans condition de survie, et
-dans tous les contrats où les sommes ou rentes assurées sont payables après un certain nombre d'années, le défaut de paiement
-ne peut avoir pour effet que la réduction du capital ou de la rente assurée, nonobstant toute convention contraire, pourvu
-qu'il ait été payé au moins trois primes annuelles.
+Lorsqu'une prime ou fraction de prime n'est pas payée dans les dix jours de son échéance, l'assureur adresse au contractant
+une lettre recommandée par laquelle il l'informe qu'à l'expiration d'un délai de quarante jours à dater de l'envoi de cette
+lettre le défaut de paiement, à l'assureur ou au mandataire désigné par lui, de la prime ou fraction de prime échue ainsi que
+des primes éventuellement venues à échéance au cours dudit délai, entraîne :
+
+- soit la résiliation du contrat en cas d'inexistence ou d'insuffisance de la valeur de rachat ;
+
+- soit l'avance par l'assureur de la prime ou fraction de prime non payée, dans la limite de la valeur de rachat du contrat,
+selon des modalités déterminées par un règlement général mentionné dans la police et établi par l'assureur, après avis de
+l'autorité administrative ;
+
+- soit la réduction du contrat dans le cas où le contractant renonce expressément à l'avance ci-dessus, avant l'expiration du
+délai de quarante jours précité.
+
+L'envoi de la lettre recommandée par l'assureur rend la prime portable dans tous les cas.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 13 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
@@ -2004,29 +2021,28 @@ qu'il ait été payé au moins trois primes annuelles.
 	  - Code des assurances - art. L132-5 (M)
 	  - Code des assurances - art. L441-2 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 75
-
 
 ###### Article L132-21
 
-Les conditions de la réduction doivent être indiquées dans la police de manière que l'assuré puisse à toute époque connaître
-la somme à laquelle l'assurance est réduite en cas de cessation du paiement des primes.
+Les modalités de calcul de la valeur de réduction sont déterminées par un règlement général mentionné dans la police et
+établi par l'assureur après accord de l'autorité administrative.
 
-L'assurance réduite être inférieure à celle que l'assuré obtiendrait en appliquant comme prime unique à la souscription d'une
-assurance de même nature, et conformément aux tarifs d'inventaire en vigueur lors de l'assurance primitive, une somme égale à
-la provision mathématique de son contrat à la date de la résiliation, cette provision étant diminuée de 1 % au plus de la
-somme primitivement assurée.
+Dès la signature du contrat, l'assureur informe le contractant que ce règlement général est tenu à sa disposition sur sa
+demande. L'assureur doit communiquer au contractant, sur la demande de celui-ci, le texte du règlement général.
 
-Quand l'assurance a été souscrite pour partie moyennant le paiement d'une prime unique, la partie de l'assurance qui
-correspond à cette prime demeure en vigueur, nonobstant le défaut de paiement des primes périodiques.
+L'assureur doit, en outre, communiquer au contractant le montant de la valeur de réduction du contrat à l'échéance annuelle
+de la prime et préciser en termes intelligibles dans cette communication ce que signifie l'opération de réduction et quelles
+sont ses conséquences légales et contractuelles.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 15 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
@@ -2039,31 +2055,34 @@ correspond à cette prime demeure en vigueur, nonobstant le défaut de paiement 
 
 	  - TXT_SOURCE: Code des assurances - art. A335-2 (Ab)
 
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 76
-
 
 ###### Article L132-22
 
-Sauf dans le cas de force majeure constaté par décret rendu sur le rapport du ministre de l'économie et des finances, le
-rachat, sur la demande de l'assuré, est obligatoire.
+Les modalités de calcul de la valeur de rachat sont déterminées par un règlement général mentionné dans la police et établi
+par l'assureur après avis de l'autorité administrative.
 
-Des avances peuvent être faites par l'assureur à l'assuré.
+Dès la signature du contrat, l'assureur informe le contractant que ce règlement général est tenu à sa disposition sur sa
+demande. L'assureur doit communiquer au contractant, sur la demande de celui-ci, le texte du règlement général.
 
-Le prix du rachat, le nombre de primes à payer avant que le rachat ou les avances puissent être demandés, doivent être
-déterminés par un règlement général de l'assureur, pris sur avis du ministre de l'économie et des finances.
+L'assureur doit, en outre, communiquer au contractant le montant de la valeur de rachat à l'échéance annuelle de la prime et
+préciser en termes intelligibles dans cette communication ce que signifie l'opération de rachat et quelles sont ses
+conséquences légales et contractuelles.
 
-Les dispositions du règlement général ne peuvent être modifiées par une convention particulière.
+Dans la limite de cette valeur, l'assureur peut consentir des avances au contractant.
 
-Les conditions de rachat doivent être indiquées dans la police, de manière que l'assuré puisse à toute époque connaître la
-somme à laquelle il a droit.
+Sauf dans le cas de circonstances exceptionnelles constaté par décret, l'assureur doit, à la demande du contractant, verser à
+celui-ci la valeur de rachat du contrat, dans un délai qui ne peut excéder deux mois. les intérêts de retard au taux légal
+courent de plein droit à compter de l'expiration de ce délai.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 16 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
@@ -2078,22 +2097,25 @@ somme à laquelle il a droit.
 	  - Code des assurances - art. R132-5-4 (V)
 	  - Code général des collectivités territoriales - art. L2223-34-1 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 77
-
 
 ###### Article L132-23
 
-Les assurances temporaires en cas de décès ne donnent lieu ni à la réduction ni au rachat. Ne comportent pas le rachat les
-assurances de capitaux de survie, les assurances en cas de vie sans contre-assurance, et les rentes viagères différées sans
-contre-assurance.
+Les assurances temporaires en cas de décès ainsi que les rentes viagères immédiates ou en cours de service ne peuvent
+comporter ni réduction ni rachat. Les assurances de capitaux de survie et de rente de survie, les assurances en cas de vie
+sans contre-assurance et les rentes viagères différées sans contre-assurance ne peuvent comporter de rachat.
+
+Pour les autres assurances sur la vie, l'assureur ne peut refuser la réduction ou le rachat lorsqu'au moins deux primes
+annuelles ont été payées.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 18 (V) JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
@@ -2124,10 +2146,6 @@ contre-assurance.
 	  - Code général des impôts, CGI. - art. 885 F (V)
 	  - Code monétaire et financier - art. R561-16 (VD)
 	  - Code rural et de la pêche maritime - art. D741-39 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-30 art. 78
 
 
 ###### Article L132-24
@@ -2283,18 +2301,33 @@ pour le transfert du bénéfice du contrat souscrit sur sa tête par un tiers.
 ###### Article L132-28
 
 Sont considérées comme assurances populaires, les assurances sur la vie à primes périodiques, sans examen médical
-obligatoire, dont le montant ne dépasse pas, sur la même tête, le plafond fixé par décret, et dans lesquelles, en l'absence
+obligatoire, dont le montant ne dépasse pas, sur la même tête, le plafond fixé par décret, et dans lesquelles en l'absence
 d'examen médical, le capital stipulé n'est intégralement payable en cas de décès que si le décès survient après un délai
 spécifié au contrat.
 
-Le contrat peut être rédigé en un seul exemplaire remis à l'assuré. Les dispositions de l'article L. 113-3 ne sont pas
-applicables.
+Les dispositions du premier alinéa de l'article L.113-3 et celles des deuxième et sixième alinéas de l'article L. 132-20 ne
+sont pas applicables. Lorsqu'une prime ou fraction de prime n'est pas payée dans les dix jours de son échéance, le défaut de
+paiement, à l'assureur ou au mandataire désigné par lui, de la prime ou fraction de prime échue ainsi que des primes
+éventuellement venues à échéance, entraîne, à l'expiration d'un délai de quarante jours :
+
+- soit la résiliation du contrat en cas d'inexistence ou d'insuffisance de la valeur de rachat ;
+
+- soit l'avance par l'assureur de la prime ou fraction de prime non payée, dans la limite de la valeur de rachat du contrat,
+selon des modalités déterminées par un règlement général mentionné dans la police et établi par l'assureur, après avis de
+l'autorité administrative ;
+
+- soit la réduction du contrat dans le cas où le contractant renonce expressément à l'avance ci-dessus, avant l'expiration du
+délai de quarante jours précité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 24 (V) JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
@@ -2304,18 +2337,15 @@ applicables.
 	  - Code des assurances - art. R132-5-2 (V)
 	  - Code des assurances - art. R513-2 (M)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code des assurances - art. L113-3 (M)
+	  - Loi n°85-608 1985-06-11 art. 7 I JORF 20 juin 1985
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°85-608 1985-06-11 art. 7 II *date d'effet - prorogation pour les contrats antérieurs*
 	  - TXT_SOURCE: Code des assurances - art. R132-1 (T)
 	  - TXT_SOURCE: Code des assurances - art. R331-5 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 83
 
 
 ##### Section IV : Les assurances ayant pour objet l'acquisition d'immeubles au moyen de constitution de rentes viagères.
@@ -2343,6 +2373,46 @@ par tout intéressé et par le ministère public.
 	**Anciens textes**:
 
 	  - Loi n°1922-02-20 art. 2
+
+
+### Titre IV : Les assurances de groupe
+
+#### Chapitre unique.
+
+###### Article L140-1
+
+Par dérogation aux dispositions des articles L. 132-2 et L. 132-3, le représentant légal d'un majeur en tutelle peut adhérer
+au nom de celui-ci à un contrat d'assurance de groupe en cas de décès, conclu par l'exécution d'une convention de travail ou
+d'un accord d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 35 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+
+	**Cité par**:
+
+	  - Décret n°2004-342 du 21 avril 2004 - art. 60 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 998 (M)
+	  - Code des assurances - art. L132-7 (M)
+	  - Code des assurances - art. L140-6 (T)
+	  - Code des assurances - art. L141-6 (M)
+	  - Code général des collectivités territoriales - art. L2223-35-1 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-2 (M)
+	  - Code des assurances - art. L132-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L140-5 (T)
+	  - Code des assurances - art. L141-1 (V)
 
 
 ### Titre V : Le contrat de capitalisation
@@ -2404,6 +2474,28 @@ contrat et, dans ce dernier cas, la mise à la disposition du porteur de la vale
 	**Abrogé par**:
 
 	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
+
+
+##### Section V : Participation des porteurs de titres aux bénéfices techniques et financiers.
+
+###### Article L150-3
+
+Pour leurs opérations de capitalisation, les entreprises doivent faire participer les porteurs de titres aux bénéfices
+qu'elles réalisent, dans les conditions fixées par décret rendu après avis du conseil national des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 27 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+
+	**Cité par**:
+
+	  - Code des assurances - art. L324-7 (M)
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
@@ -4001,18 +4093,27 @@ civile pour tous dommages causés par ce moyen de transport.
 
 ###### Article L220-2
 
-Les contrats d'assurance doivent être souscrits auprès d'une entreprise d'assurance agréée, par application des dispositions
-de l'article L. 321-1, pour les opérations d'assurance contre les risques de responsabilité civile.
+Sous réserve de la dérogation prévue à l'article L. 321-4 au titre de la coassurance communautaire, les contrats d'assurance
+doivent être souscrits auprès d'une entreprise d'assurance agréée, par application des dispositions de l'article L. 321-1,
+pour les opérations d'assurance contre les risques de responsabilité civile.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°63-708 1963-07-18 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 36 () JORF 8 janvier 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Abrogé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -4021,6 +4122,7 @@ de l'article L. 321-1, pour les opérations d'assurance contre les risques de re
 	**Cite**:
 
 	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-4 (Ab)
 
 
 ###### Article L220-3
@@ -4573,9 +4675,9 @@ résilié pour inexécution, par celui-ci, de ses obligations ;
 
 Après la réception, après mise en demeure restée infructueuse, l'entrepreneur n'a pas exécuté ses obligations.
 
-Toute entreprise d'assurance agréée dans les conditions fixées par l'article L. 321-1 du présent code, même si elle ne gère
-pas les risques régis par les articles L. 241-1 et L. 241-2 ci-dessus, est habilitée à prendre en charge les risques prévus
-au présent article.
+Toute entreprise d'assurance agréée dans les conditions fixées par l'article L. 321-1 ou dispensée de cet agrément par
+application des dispositions de l'article L. 321-4 du présent code, même si elle ne gère pas les risques régis par les
+articles L. 241-1 et L. 241-2 ci-dessus, est habilitée à prendre en charge les risques prévus au présent article.
 
 **Liens relatifs à cet article**
 
@@ -4583,16 +4685,9 @@ au présent article.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
-	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
-	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L111-30 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L243-3 (M)
-
-	**Créé par**:
-
-	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+	  - Loi n°81-5 du 7 janvier 1981 - art. 36 () JORF 8 janvier 1981
 
 	**Cité par**:
 
@@ -4633,6 +4728,11 @@ au présent article.
 	  - Code des assurances - art. L241-1 (M)
 	  - Code des assurances - art. L241-2 (M)
 	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-4 (Ab)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L111-30 (V)
 
 
 #### Chapitre III : Dispositions communes.
@@ -4702,6 +4802,105 @@ elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants
 
 ### Titre Ier : Dispositions générales et contrôle de l'Etat.
 
+###### Article L310-3
+
+Un décret en Conseil d'Etat détermine les conditions de constitution des entreprises soumises au contrôle de l'Etat en vertu
+de l'article L. 310-1. Il précise les conditions dans lesquelles sont applicables auxdites entreprises les dispositions de la
+loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et des autres lois régissant les sociétés anonymes. Des
+dispositions particulières tiennent compte du caractère non commercial des sociétés d'assurance à forme mutuelle et des
+sociétés mutuelles d'assurance.
+
+Le même décret fixe les obligations auxquelles les entreprises françaises et étrangères sont astreintes, les garanties
+qu'elles doivent présenter, les réserves et provisions techniques qu'elles doivent constituer, les règles générales de leur
+fonctionnement et de l'exercice du contrôle de l'Etat.
+
+Des décrets peuvent fixer après avis du conseil national des assurances, les tarifs minimaux et maximaux des opérations
+mentionnées à l'article L. 310-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24
+	  - Code des assurances - art. L310-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cité par**:
+
+	  - Loi n°84-148 du 1 mars 1984 - art. 59 (V)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 25 (V)
+	  - Code de la mutualité - art. L111-4-2 (V)
+	  - Code de la mutualité - art. L211-12 (VD)
+	  - Code de la sécurité sociale. - art. L931-2-2 (V)
+	  - Code des assurances - art. L112-8 (V)
+	  - Code des assurances - art. L310-11 (M)
+	  - Code des assurances - art. L310-2 (T)
+	  - Code des assurances - art. L322-1 (Ab)
+	  - Code des assurances - art. L322-1-2 (V)
+	  - Code des assurances - art. L322-1-3 (V)
+	  - Code des assurances - art. L327-4 (M)
+	  - Code des assurances - art. L351-1 (VD)
+	  - Code des assurances - art. L354-1 (V)
+	  - Code des assurances - art. L356-1 (VD)
+	  - Code des assurances - art. L356-18 (MMN)
+	  - Code des assurances - art. L433-3 (Ab)
+	  - Code des assurances - art. R*411-12 (Ab)
+	  - Code des assurances - art. R332-9 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L310-7 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1938-06-14 art. 3
+
+
+###### Article L310-5
+
+Lorsque des entreprises d'assurance ou de réassurance concluent un accord quelconque en matière de tarifs, de conditions
+générales des contrats, d'organisation professionnelle, de concurrence ou de gestion financière, les signataires doivent
+porter cet accord à la connaissance de l'autorité administrative par lettre recommandée.
+
+L'accord ne peut être mis en application que si, dans le délai d'un mois, ladite autorité n'y fait pas opposition.
+
+Passé ce délai, l'autorité administrative, après avoir pris l'avis du conseil national des assurances, conserve la faculté de
+s'opposer à l'application de l'accord.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2241 1945-09-29 art. 9
+	  - Code des assurances - art. L353-3 (T)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cité par**:
+
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab)
+	  - Code des assurances - art. L183-1 (V)
+	  - Code des assurances - art. L323-5 (Ab)
+	  - Code des assurances - art. L323-6 (Ab)
+	  - Code des assurances - art. L328-14 (M)
+	  - Code des assurances - art. R212-7 (M)
+	  - Code des assurances - art. R342-21 (Ab)
+	  - Code des assurances - art. R342-22 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. L328-14 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R*322-2 (V)
+
+
+#### Chapitre unique
+
 ###### Article L310-1
 
 Le contrôle de l'Etat s'exerce dans l'intérêt des assurés, souscripteurs et bénéficiaires de contrats d'assurance et de
@@ -4725,6 +4924,8 @@ sont pas soumises au contrôle de l'Etat ;
 6° Les entreprises qui font appel à l'épargne dans le but de réunir les sommes versées par leurs adhérents, soit en vue de
 les affecter à des comptes de dépôt portant intérêt, soit en vue de la capitalisation en commun, en les faisant participer
 aux bénéfices d'autres sociétés qu'elles gèrent ou administrent directement ou indirectement.
+
+7° Les entreprises exerçant une activité d'assistance.
 
 **Liens relatifs à cet article**
 
@@ -4994,6 +5195,10 @@ aux bénéfices d'autres sociétés qu'elles gèrent ou administrent directement
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 33 () JORF 8 janvier 1981
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances - art. L328-10 (M)
@@ -5001,109 +5206,6 @@ aux bénéfices d'autres sociétés qu'elles gèrent ou administrent directement
 	  - TXT_SOURCE: Code des assurances - art. R*310-1 (T)
 	  - TXT_SOURCE: Code des assurances - art. R*322-1 (Ab)
 
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 1
-
-
-###### Article L310-3
-
-Un décret en Conseil d'Etat détermine les conditions de constitution des entreprises soumises au contrôle de l'Etat en vertu
-de l'article L. 310-1. Il précise les conditions dans lesquelles sont applicables auxdites entreprises les dispositions de la
-loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et des autres lois régissant les sociétés anonymes. Des
-dispositions particulières tiennent compte du caractère non commercial des sociétés d'assurance à forme mutuelle et des
-sociétés mutuelles d'assurance.
-
-Le même décret fixe les obligations auxquelles les entreprises françaises et étrangères sont astreintes, les garanties
-qu'elles doivent présenter, les réserves et provisions techniques qu'elles doivent constituer, les règles générales de leur
-fonctionnement et de l'exercice du contrôle de l'Etat.
-
-Des décrets peuvent fixer après avis du conseil national des assurances, les tarifs minimaux et maximaux des opérations
-mentionnées à l'article L. 310-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24
-	  - Code des assurances - art. L310-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Loi n°84-148 du 1 mars 1984 - art. 59 (V)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab)
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 25 (V)
-	  - Code de la mutualité - art. L111-4-2 (V)
-	  - Code de la mutualité - art. L211-12 (VD)
-	  - Code de la sécurité sociale. - art. L931-2-2 (V)
-	  - Code des assurances - art. L112-8 (V)
-	  - Code des assurances - art. L310-11 (M)
-	  - Code des assurances - art. L310-2 (T)
-	  - Code des assurances - art. L322-1 (Ab)
-	  - Code des assurances - art. L322-1-2 (V)
-	  - Code des assurances - art. L322-1-3 (V)
-	  - Code des assurances - art. L327-4 (M)
-	  - Code des assurances - art. L351-1 (VD)
-	  - Code des assurances - art. L354-1 (V)
-	  - Code des assurances - art. L356-1 (VD)
-	  - Code des assurances - art. L356-18 (MMN)
-	  - Code des assurances - art. L433-3 (Ab)
-	  - Code des assurances - art. R*411-12 (Ab)
-	  - Code des assurances - art. R332-9 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L310-7 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 3
-
-
-###### Article L310-5
-
-Lorsque des entreprises d'assurance ou de réassurance concluent un accord quelconque en matière de tarifs, de conditions
-générales des contrats, d'organisation professionnelle, de concurrence ou de gestion financière, les signataires doivent
-porter cet accord à la connaissance de l'autorité administrative par lettre recommandée.
-
-L'accord ne peut être mis en application que si, dans le délai d'un mois, ladite autorité n'y fait pas opposition.
-
-Passé ce délai, l'autorité administrative, après avoir pris l'avis du conseil national des assurances, conserve la faculté de
-s'opposer à l'application de l'accord.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 9
-	  - Code des assurances - art. L353-3 (T)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab)
-	  - Code des assurances - art. L183-1 (V)
-	  - Code des assurances - art. L323-5 (Ab)
-	  - Code des assurances - art. L323-6 (Ab)
-	  - Code des assurances - art. L328-14 (M)
-	  - Code des assurances - art. R212-7 (M)
-	  - Code des assurances - art. R342-21 (Ab)
-	  - Code des assurances - art. R342-22 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. L328-14 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R*322-2 (V)
-
-
-#### Chapitre unique
 
 ###### Article L310-2
 
@@ -5762,6 +5864,97 @@ française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques fr
 	  - Code des assurances - art. A321-3 (Ab)
 	  - Code des assurances - art. A321-4 (Ab)
 	  - Code des assurances - art. L321-5 (Ab)
+
+
+##### Section VI : Dispositions spéciales concernant la coassurance communautaire.
+
+###### Article L321-4
+
+Le contrat de coassurance communautaire est un contrat dans lequel un ou plusieurs coassureurs, autres que l'apériteur, sont
+des entreprises d'assurances dont le siège social est établi sur le territoire d'autres Etats membres de la Communauté
+économique européenne, qui satisfont aux dispositions de la législation des pays où elles sont établies et qui, par
+dérogation aux dispositions de l'article L. 321-1, n'ont pas obtenu l'agrément administratif.
+
+L'entreprise d'assurance française ou étrangère qui assume, pour un contrat de coassurance communautaire, le rôle
+d'apériteur, doit être agréée dans les conditions de l'article L. 321-1, c'est-à-dire qu'elle est traitée comme l'assureur
+qui couvrirait la totalité du risque.
+
+Dans un contrat de coassurance communautaire, les entreprises s'engagent, sans qu'il y ait solidarité entre elles, par un
+contrat unique moyennant une prime globale et pour une même durée.
+
+La coassurance communautaire ne peut être utilisée que pour la couverture de risques situés à l'intérieur de la Communauté
+appartenant à certaines branches d'assurances qui, par leur nature et leur importance, nécessitent la participation de
+plusieurs assureurs pour leur garantie dans les conditions prévues par le décret visé à l'article L. 321-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 36 () JORF 8 janvier 1981
+
+	**Abrogé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 39 (V)
+	  - Code des assurances - art. A431-4 (Ab)
+	  - Code des assurances - art. L220-2 (Ab)
+	  - Code des assurances - art. L242-1 (M)
+	  - Code des assurances - art. L321-5 (Ab)
+	  - Code des assurances - art. L514-2 (M)
+	  - Code des assurances - art. R*331-32 (Ab)
+	  - Code des assurances - art. R321-22 (M)
+	  - Code des assurances - art. R321-24 (M)
+	  - Code des assurances - art. R331-31 (M)
+	  - Code des assurances - art. R332-1 (M)
+	  - Code des assurances - art. R332-9 (M)
+	  - Code des assurances - art. R431-31 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. L321-4 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R321-22 (T)
+	  - TXT_SOURCE: Code des assurances - art. R322-1 (V)
+
+
+###### Article L321-5
+
+Un décret en Conseil d'Etat détermine les conditions de la coassurance communautaire définie à l'article L. 321-4. Il fixe en
+outre la notion d'apériteur et les obligations incombant à ce dernier ainsi qu'aux autres entreprises agréées conformément à
+l'article L. 321-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 36 () JORF 8 janvier 1981
+
+	**Abrogé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. A321-6 (Ab)
+	  - Code des assurances - art. L321-4 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
 
 
 #### Chapitre II : Règles de constitution et de fonctionnement
@@ -10201,11 +10394,14 @@ consignations.
 
 ###### Article L433-3
 
-Sont applicables à la caisse nationale de prévoyance les dispositions suivantes de la Première Partie "Législative" du
+Sont applicables à la caisse nationale de prévoyance les dispositions suivantes de la première partie "législative" du
 présent code :
 
-a) Titre Ier du livre Ier, à l'exception de l'article L. 111-4 ;    b) Titre III du livre Ier à l'exception de l'article L.
-132-22 ;    c) Sections II et III du titre VI du livre Ier ;
+a) Titre Ier du livre Ier à l'exception de l'article L. 111-4 ;
+
+b) Titre III du livre Ier ;
+
+c) Section II et III du titre VI du livre Ier ;
 
 d) Article L. 310-8.
 
@@ -10213,17 +10409,13 @@ e) Titre IV du livre III.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°63-1293 du 21 décembre 1963 - art. 2, v. init.
-	  - Décret n°1938-06-14 art. 12 ter
-	  - Loi n°1930-07-13 art. 1
-	  - Loi n°1930-12-03 art. 1
-	  - Loi n°1942-04-17 art. 1
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 25 () JORF 8 janvier 1981
 
 	**Liens**:
 
@@ -10234,7 +10426,6 @@ e) Titre IV du livre III.
 	**Cite**:
 
 	  - Code des assurances - art. L111-4 (M)
-	  - Code des assurances - art. L132-22 (M)
 	  - Code des assurances - art. L310-8 (M)
 
 
@@ -10409,25 +10600,6 @@ livre de la caisse.
 	**Abrogé par**:
 
 	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
-
-
-###### Article L433-10
-
-La caisse nationale de prévoyance peut consentir au rachat de ses contrats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1928-03-08 art. 9
-
-	**Abrogé par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 25 () JORF 8 janvier 1981
 
 
 ###### Article L433-11
@@ -11183,25 +11355,30 @@ de 3.000 à 40.000 F, ou de l'une de ces deux peines seulement.
 
 Toute personne qui présentera en vue de leur souscription ou fera souscrire des contrats pour le compte d'une entreprise
 soumise au contrôle de l'Etat en application de l'article L. 310-1, et non agréée pour la branche dans laquelle entrent ces
-contrats, sera punie d'une amende de 300 à 3.000 F et, en cas de récidive, d'une amende de 1.500 à 15.000 F et d'un
+contrats, sera punie d'une amende de 300 à 15.000 F et, en cas de récidive, d'une amende de 1.500 à 20.000 F et d'un
 emprisonnement de un à six mois, ou de l'une de ces deux peines seulement.
 
 L'amende prévue au présent article sera prononcée pour chacun des contrats proposés ou souscrits, sans que le total des
-amendes encourues puisse excéder 6.000 F et, en cas de récidive, 30.000 F.
+amendes encourues puisse excéder 15.000 F et, en cas de récidive, 40.000 F.
+
+Les dispositions du présent article ne sont pas applicables aux personnes qui présentent en vue de leur souscription ou font
+souscrire des contrats de coassurance communautaire répondant aux prescriptions de l'article L. 321-4 pour le compte
+d'entreprises dispensées de l'agrément en application des dispositions de cet article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 36
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 36 () JORF 8 janvier 1981
+
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L321-4 (Ab)
 
 
 ###### Article L514-3
