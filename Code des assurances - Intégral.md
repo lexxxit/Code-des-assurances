@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1999-05-05
+Version Consolidée au 1999-06-19
 
 # Partie législative
 
@@ -6581,8 +6581,9 @@ lorsque la garde ou la conduite du véhicule a été obtenue contre le gré du p
 Ces contrats doivent être souscrits auprès d'une entreprise d'assurance agréée pour pratiquer les opérations d'assurance
 contre les accidents résultant de l'emploi de véhicules automobiles.
 
-Les membres de la famille du conducteur ou de l'assuré sont considérés comme des tiers au sens du premier alinéa du présent
-article.
+Les membres de la famille du conducteur ou de l'assuré, ainsi que les élèves d'un établissement d'enseignement de la conduite
+des véhicules terrestres à moteur agréé, en cours de formation ou d'examen, sont considérés comme des tiers au sens du
+premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
@@ -6746,7 +6747,7 @@ article.
 
 	**Modifié par**:
 
-	  - Loi n°93-1444 du 31 décembre 1993 - art. 18 () JORF 5 janvier 1994
+	  - Loi n°99-505 du 18 juin 1999 - art. 5 () JORF 19 juin 1999
 
 
 ###### Article L211-2
