@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-06-30
+Version Consolidée au 1994-07-01
 
 # Partie législative
 
@@ -11,31 +11,44 @@ Version Consolidée au 1994-06-30
 
 ###### Article L111-1
 
-Les titres Ier, II et III du présent livre ne concernent que les assurances terrestres. Ils ne sont applicables ni aux
-assurances maritimes, ni aux assurances fluviales, ni aux réassurances conclues entre assureurs et réassureurs.
+Les titres Ier, II et III du présent livre ne concernent que les assurances terrestres. A l'exception des articles L. 111-6,
+L. 112-2, L. 112-4 et L. 112-7, ils ne sont applicables ni aux assurances maritimes et fluviales ni aux opérations
+d'assurance crédit ; les opérations de réassurance conclues entre assureurs et réassureurs sont exclues de leur champ
+d'application.
 
 Il n'est pas dérogé aux dispositions des lois et règlements relatifs aux sociétés à forme tontinière ; aux assurances
 contractées par les chefs d'entreprise, à raison de la responsabilité des accidents de travail survenus à leurs ouvriers et
 employés ; aux sociétés ou caisses d'assurances et de réassurances mutuelles agricoles.
 
-Les opérations d'assurance-crédit ne sont pas régies par les titres mentionnés au premier alinéa.
-
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
 
 	**Modifié par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
+	  - Loi n°94-5 1994-01-04 art. 34 I, II JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 34 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - TXT_ASSOCIE: Code des assurances - art. L433-1 (Ab)
+	  - TXT_ASSOCIE: Code des assurances - art. L433-2 (Ab)
+	  - TXT_ASSOCIE: Code des assurances - art. L433-3 (Ab)
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. A212-10 (M)
 	  - Code des assurances - art. L193-1 (Ab)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. L433-1 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. L433-2 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. L433-3 (Ab)
+	  - Code des assurances - art. L111-6 (V)
+	  - Code des assurances - art. L112-2 (M)
+	  - Code des assurances - art. L112-4 (M)
+	  - Code des assurances - art. L112-7 (M)
 
 
 ###### Article L111-2
@@ -102,48 +115,123 @@ l'assuré.
 
 ###### Article L111-4
 
-Le présent code est applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, sous réserve des
-dispositions du titre IX ci-après et des articles 129 à 148 de la loi locale du 30 mai 1908 sur le contrat d'assurance.
-
-Les dispositions des articles 1er à 128 et des articles 149 à 191 de la loi locale du 30 mai 1908 précitée sont abrogées.
+L'autorité administrative peut imposer l'usage de clauses types de contrats.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
 	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 1 () JORF 7 mai 1991
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Décret n°2015-22 du 13 janvier 2015 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Code des assurances - art. L433-3 (Ab)
 	  - Code des assurances - art. R111-2 (VT)
 
-	**Cite**:
-
-	  - Loi n°1908-05-30 art. 129 à 148, art. 149 à 191
-
 
 ###### Article L111-5
 
-Les dispositions des titres Ier, II et III du présent livre sont applicables dans les territoires d'outre-mer, à l'exclusion
-des articles L. 122-7, L. 124-4, L. 125-1 à L. 125-6 et L. 132-29 à L. 132-31, et dans la collectivité territoriale de
-Mayotte, à l'exclusion des articles L. 124-4 et L. 132-29 à L. 132-31.
+I. Les dispositions des titres Ier, II et III du livre Ier, dans la rédaction du présent code antérieure à la loi n° 91-716
+du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans les territoires
+d'outre-mer, à l'exception, toutefois, des articles L. 122-7, L. 124-4, L. 125-1 à L. 125-6, L. 132-30 et L. 132-31.
 
-Toutefois, dans l'hypothèse prévue par le dernier alinéa de l'article L. 132-22, le décret est remplacé par un arrêté du
-représentant du Gouvernement.
+II. Les dispositions des titres Ier, II et III du livre Ier sont applicables dans la collectivité territoriale de Mayotte, à
+l'exclusion des articles L. 124-4, L. 132-30 et L. 132-31.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi n°90-509 du 25 juin 1990 - art. 3 () JORF 27 juin 1990 en vigueur le 1er août 1990
+	  - Décret n°76-666 1976-07-16
 
 	**Cite**:
 
+	  - Loi n°91-716 1991-07-26
 	  - Code des assurances - art. L122-7 (M)
 	  - Code des assurances - art. L124-4 (V)
-	  - Code des assurances - art. L132-22 (M)
-	  - Code des assurances L122-7, L124-4, L125-1 à L125-6, L132-29 à L132-31, L132-22
+	  - Code des assurances - art. L132-30 (M)
+	  - Code des assurances - art. L132-31 (V)
+	  - Code des assurances L122-7, L124-4, L125-1 à L125-6, L132-30, L132-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+
+###### Article L111-6
+
+Sont regardés comme grands risques :
+
+1° Ceux qui relèvent des catégories suivantes :
+
+a) Les corps de véhicules ferroviaires, aériens, maritimes, lacustres et fluviaux ainsi que la responsabilité civile
+afférente auxdits véhicules ;
+
+b) Les marchandises transportées ;
+
+c) Le crédit et la caution, lorsque le souscripteur exerce à titre professionnel une activité industrielle, commerciale ou
+libérale, à condition que le risque se rapporte à cette activité ;
+
+2° Ceux qui concernent l'incendie et les éléments naturels, les autres dommages aux biens, la responsabilité civile générale,
+les pertes pécuniaires diverses, les corps de véhicules terrestres à moteur ainsi que la responsabilité civile, y compris
+celle du transporteur, afférente à ces véhicules, lorsque le souscripteur exerce une activité dont l'importance dépasse
+certains seuils définis par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 6 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Modifié par**:
+
+	  - Décret n°2015-22 du 13 janvier 2015 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-627 du 26 avril 2017 (V)
+	  - Code des assurances - art. A310-6 (V)
+	  - Code des assurances - art. L111-1 (VD)
+	  - Code des assurances - art. L112-3 (V)
+	  - Code des assurances - art. L125-5 (V)
+	  - Code des assurances - art. L126-2 (V)
+	  - Code des assurances - art. L181-1 (V)
+	  - Code des assurances - art. L242-1 (V)
+	  - Code des assurances - art. L321-12 (VD)
+	  - Code des assurances - art. L351-4 (V)
+	  - Code des assurances - art. L352-1 (VD)
+	  - Code des assurances - art. L365-1 (V)
+	  - Code des assurances - art. L520-2 (V)
+	  - Code des assurances - art. R111-1 (V)
+	  - Code des assurances - art. R111-2 (V)
+	  - Code des assurances - art. R111-3 (V)
+	  - Code des assurances - art. R112-2 (V)
+	  - Code des assurances - art. R126-2 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances L351-4 (six derniers alinéas)
 
 
 #### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.
@@ -185,7 +273,10 @@ L'assureur doit obligatoirement fournir une fiche d'information sur le prix et l
 
 Avant la conclusion du contrat, l'assureur remet à l'assuré un exemplaire du projet de contrat et de ses pièces annexes ou
 une notice d'information sur le contrat qui décrit précisément les garanties assorties des exclusions, ainsi que les
-obligations de l'assuré.
+obligations de l'assuré. Les documents remis au preneur d'assurance précisent la loi qui est applicable au contrat si celle-
+ci n'est pas la loi française, les modalités d'examen des réclamations qu'il peut formuler au sujet du contrat, y compris, le
+cas échéant, l'existence d'une instance chargée en particulier de cet examen, sans préjudice pour lui d'intenter une action
+en justice, ainsi que l'adresse du siège social et, le cas échéant, de la succursale qui se propose d'accorder la couverture.
 
 Un décret en Conseil d'Etat définit les moyens de constater la remise effective des documents mentionnés à l'alinéa
 précédent. Il détermine, en outre, les dérogations justifiées par la nature du contrat ou les circonstances de sa
@@ -202,13 +293,17 @@ Les dispositions de l'alinéa précédent ne sont pas applicables aux assurances
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 8 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 35 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -268,9 +363,7 @@ et l'assuré ne soient engagés l'un à l'égard de l'autre par la remise d'une 
 
 ###### Article L112-4
 
-La police d'assurance est datée du jour où elle est établie.
-
-Elle indique :
+La police d'assurance est datée du jour où elle est établie. Elle indique :
 
 - les noms et domiciles des parties contractantes ;
 
@@ -284,14 +377,30 @@ Elle indique :
 
 - la prime ou la cotisation de l'assurance.
 
+La police indique en outre :
+
+- la loi applicable au contrat lorsque ce n'est pas la loi française ;
+
+- l'adresse du siège social de l'assureur et, le cas échéant, de la succursale qui accorde la couverture ;
+
+- le nom et l'adresse des autorités chargées du contrôle de l'entreprise d'assurance qui accorde la couverture.
+
 Les clauses des polices édictant des nullités, des déchéances ou des exclusions ne sont valables que si elles sont
 mentionnées en caractères très apparents.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
 	**Modifié par**:
 
-	  - Loi n°81-5 du 7 janvier 1981 - art. 30 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°94-5 du 4 janvier 1994 - art. 35 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -390,6 +499,37 @@ L'article L. 353-1 à été abrogé par l'article 30 III de la loi n° 94-5 du 4
 	  - Code des assurances - art. L351-1 (M)
 	  - Code des assurances - art. L351-6-1 (V)
 	  - Code des assurances - art. L353-1 (Ab)
+
+
+###### Article L112-8
+
+Lorsqu'un contrat couvrant la responsabilité civile résultant de l'emploi de véhicules à moteur autre que la responsabilité
+civile du transporteur est souscrit en libre prestation de services au sens de l'article L. 310-3, le contrat ou la note de
+couverture doit indiquer le nom et l'adresse du représentant pour la gestion des sinistres désigné en France par l'assureur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 35 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. L111-2 (M)
+	  - Code des assurances - art. L193-1 (V)
+	  - Code des assurances - art. L193-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-3 (V)
 
 
 #### Chapitre III : Obligations de l'assureur et de l'assuré.
@@ -1976,10 +2116,9 @@ l'assuré, de le garantir contre les effets des catastrophes naturelles.
 
 Toute entreprise d'assurance ayant maintenu son refus de garantir un assuré dans les conditions fixées par le bureau central
 de tarification est considérée comme ne fonctionnant plus conformément à la réglementation en vigueur et encourt le retrait
-de l'agrément administratif prévu à l'article L. 321-1.
-
-Est nulle toute clause des traités de réassurance tendant à exclure le risque de catastrophe naturelle de la garantie de
-réassurance en raison des conditions d'assurance fixées par le bureau central de tarification.
+de l'agrément administratif prévu aux articles L. 321-1 ou L. 321-7 à L. 321-9.    Est nulle toute clause des traités de
+réassurance tendant à exclure le risque de catastrophe naturelle de la garantie de réassurance en raison des conditions
+d'assurance fixées par le bureau central de tarification.
 
 **Liens relatifs à cet article**
 
@@ -1993,10 +2132,26 @@ réassurance en raison des conditions d'assurance fixées par le bureau central 
 	  - Code des assurances - art. L125-1 (M)
 	  - Code des assurances - art. L125-2 (M)
 	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances L125-1, L125-2, L321-1, L321-7 à L321-9
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°85-863 1985-08-02 art. 1 JORF 15 août 1985
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - TXT_SOURCE: Code des assurances - art. R*125-1 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-10 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-11 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-2 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-3 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-4 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-5 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-6 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-7 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-8 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 34 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -2009,20 +2164,6 @@ réassurance en raison des conditions d'assurance fixées par le bureau central 
 	  - Code des assurances - art. R250-1 (V)
 	  - Code des assurances - art. R250-2 (V)
 	  - Code des assurances - art. R250-3 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*125-1 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-10 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-11 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-2 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-3 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-4 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-5 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-6 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-7 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-8 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-9 (Ab)
 
 
 #### Chapitre VI : L'assurance contre les actes de terrorisme
@@ -2610,7 +2751,7 @@ une note d'information sur les dispositions essentielles du contrat, sur les con
 renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette faculté de renonciation. Le défaut de
 remise des documents et informations énumérés au présent alinéa entraîne de plein droit la prorogation du délai prévu au
 premier alinéa jusqu'au trentième jour suivant la date de remise effective de ces documents. Un nouveau délai de trente jours
-court à compter de la date de reception du contrat, lorsque celle-ci apporte des réserves ou des modifications essentielles à
+court à compter de la date de reception du contrat, lorsque celui-ci apporte des réserves ou des modifications essentielles à
 l'offre originelle, ou à compter de l'acceptation écrite, par le souscripteur, de ces réserves ou modifications.
 
 La renonciation entraîne la restitution par l'entreprise d'assurance ou de capitalisation de l'intégralité des sommes versées
@@ -2618,7 +2759,8 @@ par le contractant, dans le délai maximal de trente jours à compter de la réc
 délai, les sommes non restituées produisent  de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis, à
 l'expiration de ce délai de deux mois, au double du taux légal.
 
-Toutefois, les dispositions qui précèdent ne s'appliquent pas aux contrats d'une durée maximum de deux mois.
+Les dispositions qui précèdent ne s'appliquent pas aux contrats d'une durée maximum de deux mois. Elles sont précisées, en
+tant que de besoin, par arrêté ministériel.
 
 **Liens relatifs à cet article**
 
@@ -2649,15 +2791,8 @@ Toutefois, les dispositions qui précèdent ne s'appliquent pas aux contrats d'u
 
 	**Modifié par**:
 
-	  - Loi n°92-665 1992-07-16 art. 21, art. 24, art. 26, art. 30 I, IV JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 26 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+	  - Loi n°94-5 du 4 janvier 1994 - art. 35 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 7 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 
 ###### Article L132-6
@@ -3439,8 +3574,8 @@ l'assureur est tenu de restituer la portion de prime qu'il a reçue en trop sans
 
 ###### Article L132-30
 
-Les entreprises ayant pour objet l'acquisition d'immeubles au moyen de constitution de rentes viagères sont astreintes dans
-leur fonctionnement aux prescriptions ci-après.
+Les contrats comportant des opérations d'acquisition d'immeubles au moyen de la constitution de rentes viagères sont soumis
+aux dispositions du présent article.
 
 Les crédirentiers conservent individuellement pour le service de leurs rentes, même à l'encontre de toute convention
 contraire, le privilège de l'article 2103, 1°, du code civil sur l'immeuble cédé. S'il existe des héritiers en ligne directe
@@ -3457,19 +3592,14 @@ immeubles. L'attestation de l'expert, suivie de sa signature, figure aux contrat
 
 	  - Décret n°76-666 1976-07-16
 
-	**Anciens textes**:
-
-	  - Loi n°1922-02-20 art. 1
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - TXT_ASSOCIE: Code des assurances L132-31 *causes de nullité*
 
 	**Modifié par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+	  - Loi n°94-5 du 4 janvier 1994 - art. 34 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cite**:
 
@@ -4439,39 +4569,6 @@ son propre assureur pour la différence.
 	**Modifié par**:
 
 	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
-
-
-###### Article L172-10-1
-
-Lorsqu'un contrat d'assurance est conclu en libre prestation de services au sens de l'article L. 351-1, le contrat ou la note
-de couverture doivent indiquer l'adresse de l'établissement qui accorde la couverture ainsi que, le cas échéant, celle du
-siège social.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 4 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Modifié par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 35 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L351-1 (M)
 
 
 ##### Section II : Obligations de l'assureur et de l'assuré.
@@ -5768,40 +5865,80 @@ responsabilité de l'assuré.
 	  - Ordonnance n°2011-839 du 15 juillet 2011 - art. 10
 
 
-### Titre VIII : Loi applicable aux contrats d'assurance pour les risques situés sur le territoire d'un ou plusieurs Etats membres des communautés européennes et pour les engagements qui y sont pris
+### Titre VIII : Loi applicable aux contrats d'assurance pour les risques situés sur le territoire d'un ou plusieurs Etats parties à l'accord sur l'Espace économique européen et pour les engagements qui y sont pris
 
-#### Chapitre I : Assurances de dommages non obligatoires.
+#### Chapitre Ier : Assurances de dommages non obligatoires.
 
 ###### Article L181-1
 
-1° Lorsque le risque est situé au sens de l'article L. 351-3 sur le territoire de la République française et que le
+1° Lorsque le risque est situé au sens de l'article L. 310-4 sur le territoire de la République française et que le
 souscripteur y a sa résidence principale ou son siège de direction, la loi applicable est la loi française, à l'exclusion de
-toute autre.
+toute autre. 
 
-2° Lorsque le risque est situé au sens de l'article L. 351-3 sur le territoire de la République française et que le
+2° Lorsque le risque est situé au sens de l'article L. 310-4 sur le territoire de la République française et que le
 souscripteur n'y a pas sa résidence principale ou son siège de direction, les parties au contrat d'assurance peuvent choisir
 d'appliquer soit la loi française, soit la loi du pays où le souscripteur a sa résidence principale ou son siège de
-direction.
+direction. 
 
 De même, lorsque le souscripteur a sa résidence principale ou son siège de direction sur le territoire de la République
-française et que le risque n'y est pas situé au sens de l'article L. 351-3, les parties au contrat d'assurance peuvent
-choisir d'appliquer soit la loi française, soit la loi du pays où le risque est situé.
+française et que le risque n'y est pas situé au sens de l'article L. 310-4, les parties au contrat d'assurance peuvent
+choisir d'appliquer soit la loi française, soit la loi du pays où le risque est situé. 
 
 3° Lorsque le souscripteur exerce une activité commerciale, industrielle ou libérale et que le contrat couvre deux ou
 plusieurs risques relatifs à ces activités situés sur le territoire de la République française et dans un ou plusieurs autres
-Etats membres des communautés européennes, les parties au contrat peuvent choisir la loi d'un des Etats où ces risques sont
-situés ou celle du pays où le souscripteur a sa résidence principale ou son siège de direction.
+Etats membres de l'Espace économique européen, les parties au contrat peuvent choisir la loi d'un des Etats où ces risques
+sont situés ou celle du pays où le souscripteur a sa résidence principale ou son siège de direction. 
 
 4° Lorsque la garantie des risques situés dans le ou les Etats mentionnés aux 1°, 2° et 3° ci-dessus est limitée à des
-sinistres qui peuvent survenir dans un autre Etat membre des communautés européennes, les parties au contrat d'assurance
-peuvent choisir la loi de l'Etat où se produit le sinistre.
+sinistres qui peuvent survenir dans un autre Etat membre de l'Espace économique européen, les parties au contrat d'assurance
+peuvent choisir la loi de l'Etat où se produit le sinistre. 
 
-5° Pour les corps de véhicules ferroviaires, aériens, maritimes, lacustres et fluviaux, les marchandises transportées et la
-responsabilité civile afférente auxdits véhicules, les parties au contrat ont le libre choix de la loi applicable.
+5° Pour les grands risques tels qu'ils sont définis à l'article L. 111-6, les parties ont le libre choix de la loi applicable
+au contrat. 
 
-En ce cas, le choix par les parties d'une loi autre que la loi française ne peut, lorsque tous les éléments du contrat sont
-localisés au moment de ce choix sur le territoire de la République française, porter atteinte aux dispositions impératives du
-présent livre.
+Toutefois, le choix par les parties d'une loi autre que la loi française ne peut, lorsque tous les éléments du contrat sont
+localisés au moment de ce choix sur le territoire de la République française, faire obstacle à l'application des dispositions
+législatives et réglementaires auxquelles il ne peut être dérogé par contrat en application de l'article L. 111-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 36 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 7 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L111-2 (V)
+	  - Code des assurances - art. L111-6 (V)
+	  - Code des assurances - art. L310-4 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L112-3 (V)
+	  - Code des assurances - art. L181-2 (V)
+	  - Code des assurances - art. L181-3 (V)
+	  - Code des assurances - art. L181-4 (V)
+
+
+###### Article L181-2
+
+Lorsque les parties ont à exercer le choix de la loi applicable dans l'un des cas visés par l'article L. 181-1, ce choix doit
+être exprès ou résulter de façon certaine des clauses du contrat ou des circonstances de la cause. 
+
+A défaut, le contrat est régi par la loi de celui, parmi les Etats qui entrent en ligne de compte aux termes de l'article
+précédent, avec lequel il présente les liens les plus étroits. Il est présumé que le contrat présente les liens les plus
+étroits avec l'Etat membre de l'Espace économique européen où le risque est situé. Si une partie du contrat est séparable du
+reste du contrat et présente un lien plus étroit avec un autre des pays qui entrent en ligne de compte conformément à
+l'article précédent, il pourra être fait application à cette partie du contrat de la loi de cet autre pays.
 
 **Liens relatifs à cet article**
 
@@ -5817,33 +5954,32 @@ présent livre.
 
 	  - Loi n°92-665 1992-07-16 art. 17 I, II JORF 17 juillet 1992 en vigueur le 20 mai 1993
 	  - Loi n°92-665 du 16 juillet 1992 - art. 17 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 1994-01-04 art. 36 I, III JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 36 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
-
-	**Cité par**:
-
-	  - Code des assurances - art. L112-3 (V)
-	  - Code des assurances - art. L181-2 (V)
-	  - Code des assurances - art. L181-3 (V)
-	  - Code des assurances - art. L181-4 (V)
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Cite**:
 
-	  - Code des assurances - art. L351-3 (T)
+	  - Code des assurances - art. L181-1 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L181-3 (M)
 
 
 ###### Article L181-3
 
 Les articles L. 181-1 et L. 181-2 ne peuvent faire obstacle aux dispositions d'ordre public de la loi française applicables
-quelle que soit la loi régissant le contrat.
+quelle que soit la loi régissant le contrat. 
 
 Toutefois, le juge peut donner effet sur le territoire de la République française aux dispositions d'ordre public de la loi
-de l'Etat membre des communautés européennes où le risque est situé ou d'un Etat membre qui impose l'obligation d'assurance,
-si, selon le droit de ces pays, ces dispositions sont applicables quelle que soit la loi régissant le contrat.
+de l'Etat membre de l'Espace économique européen où le risque est situé ou d'un Etat membre qui impose l'obligation
+d'assurance, si, selon le droit de ces pays, ces dispositions sont applicables quelle que soit la loi régissant le contrat. 
 
-Lorsque le contrat couvre des risques situés dans plusieurs Etats membres des communautés européennes, le contrat est
+Lorsque le contrat couvre des risques situés dans plusieurs Etats membres de l'Espace économique européen, le contrat est
 considéré, pour l'application du présent article, comme constituant plusieurs contrats dont chacun ne se rapporte qu'à un
 seul Etat.
 
@@ -5855,29 +5991,86 @@ seul Etat.
 
 	**Modifié par**:
 
-	  - Loi n°92-665 1992-07-16 art. 17 I, II JORF 17 juillet 1992 en vigueur le 20 mai 1993
-	  - Loi n°92-665 du 16 juillet 1992 - art. 17 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 1994-01-04 art. 36 I, III JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 36 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Cite**:
 
-	  - Code des assurances - art. L181-1 (M)
-	  - Code des assurances - art. L181-2 (V)
+	  - Code des assurances - art. L181-1 (V)
+
+
+###### Article L181-4
+
+Sous réserve des dispositions des articles L. 181-1 à L. 181-3 et pour le surplus, les règles générales de droit
+international privé en matière d'obligations contractuelles sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 2 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Modifié par**:
+
+	  - Loi n°92-665 1992-07-16 art. 17 I, II JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°92-665 du 16 juillet 1992 - art. 17 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 36 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Cite**:
+
+	  - Code des assurances - art. L181-1 (V)
+
+
+#### Chapitre II : Assurances de dommages obligatoires.
+
+###### Article L182-1
+
+Les contrats destinés à satisfaire à une obligation d'assurance imposée par une loi française sont régis par le droit
+français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 2 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Modifié par**:
+
+	  - Loi n°92-665 1992-07-16 art. 17 I, III JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°92-665 du 16 juillet 1992 - art. 17 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 36 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 
 #### Chapitre III : Assurance sur la vie et capitalisation.
 
 ###### Article L183-1
 
-Lorsque l'engagement est pris, au sens de l'article L. 353-3, sur le territoire de la République française, la loi applicable
-au contrat est la loi française, à l'exclusion de toute autre.
+Lorsque l'engagement est pris, au sens de l'article L. 310-5, sur le territoire de la République française, la loi applicable
+au contrat est la loi française, à l'exclusion de toute autre. 
 
-Toutefois, si le souscripteur est une personne physique et est ressortissant d'un autre Etat membre des communautés
-européennes, les parties au contrat d'assurance peuvent choisir d'appliquer soit la loi française soit la loi de l'Etat dont
-le souscripteur est ressortissant.
+Toutefois, si le souscripteur est une personne physique et est ressortissant d'un autre Etat membre de l'Espace économique
+européen, les parties au contrat d'assurance peuvent choisir d'appliquer soit la loi française soit la loi de l'Etat dont le
+souscripteur est ressortissant.
 
 **Liens relatifs à cet article**
 
@@ -5887,11 +6080,13 @@ le souscripteur est ressortissant.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 17 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 1994-01-04 art. 7 III, art. 36 I, III JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 36 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 7 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -5900,7 +6095,40 @@ le souscripteur est ressortissant.
 
 	**Cite**:
 
-	  - Code des assurances - art. L353-3 (T)
+	  - Code des assurances - art. L310-5 (V)
+
+
+###### Article L183-2
+
+Les dispositions de l'article L. 183-1 ne peuvent faire obstacle aux dispositions d'ordre public de la loi française
+applicables quelle que soit la loi régissant le contrat. 
+
+Toutefois, le juge peut donner effet sur le territoire de la République française aux dispositions d'ordre public de la loi
+de l'Etat membre de l'engagement si le droit de cet Etat prévoit que ces dispositions sont applicables quelle que soit la loi
+régissant le contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 17 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Modifié par**:
+
+	  - Loi n°94-5 1994-01-04 art. 36 I, III JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 36 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Cite**:
+
+	  - Code des assurances - art. L183-1 (V)
 
 
 ### Titre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle
@@ -7198,10 +7426,9 @@ et de Monaco.
 ###### Article L212-1
 
 Toute personne assujettie à l'obligation d'assurance qui, ayant sollicité la souscription d'un contrat auprès d'une
-entreprise d'assurance agréée dans les conditions prévues à l'article L. 321-1 ou couvrant en libre prestation de services
-les risques de responsabilité civile résultant de l'emploi de véhicules terrestres à moteur, se voit opposer un refus, peut
-saisir un bureau central de tarification dont les conditions de constitution et les règles de fonctionnement sont fixées par
-le décret en Conseil d'Etat prévu à l'article L. 211-1.
+entreprise d'assurance couvrant en France les risques de responsabilité civile résultant de l'emploi de véhicules terrestres
+à moteur, se voit opposer un refus, peut saisir un bureau central de tarification dont les conditions de constitution et les
+règles de fonctionnement sont fixées par le décret en Conseil d'Etat prévu à l'article L. 211-1.
 
 Le bureau central de tarification a pour rôle exclusif de fixer le montant de la prime moyennant laquelle l'entreprise
 d'assurance intéressée est tenue de garantir le risque qui lui a été proposé. Il peut, dans les conditions fixées par le
@@ -7215,11 +7442,11 @@ décret en Conseil d'Etat susmentionné, déterminer le montant d'une franchise 
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 1 XII *dispositions applicables à Mayotte*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Modifié par**:
 
-	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+	  - Loi n°94-5 du 4 janvier 1994 - art. 37 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -7235,8 +7462,7 @@ décret en Conseil d'Etat susmentionné, déterminer le montant d'une franchise 
 
 	**Cite**:
 
-	  - Code des assurances - art. L211-1 (M)
-	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L211-1 (V)
 
 
 ###### Article L212-2
@@ -7264,8 +7490,8 @@ de la tarification adoptée par le bureau central de tarification.
 Toute entreprise d'assurance qui couvre le risque de responsabilité civile résultant de l'emploi de véhicules terrestres à
 moteur qui maintient son refus de garantir le risque dont la prime a été fixée par le bureau central de tarification est
 considérée comme ne fonctionnant plus conformément à la réglementation en vigueur. Elle encourt, selon le cas, soit le
-retrait de l'agrément administratif prévu à l'article L. 321-1 ou de l'agrément de libre prestation de services visé à
-l'article L. 351-5, soit les sanctions administratives mentionnées aux articles L. 351-7 et L. 351-8.
+retrait des agréments prévus aux articles L. 321-1, L. 321-7, L. 321-8 ou L. 321-9, soit les sanctions prévues aux articles
+L. 351-7, L. 351-8 et L. 363-4.
 
 **Liens relatifs à cet article**
 
@@ -7275,11 +7501,11 @@ l'article L. 351-5, soit les sanctions administratives mentionnées aux articles
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 1 XII *dispositions applicables à Mayotte*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Modifié par**:
 
-	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+	  - Loi n°94-5 du 4 janvier 1994 - art. 37 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -7287,10 +7513,10 @@ l'article L. 351-5, soit les sanctions administratives mentionnées aux articles
 
 	**Cite**:
 
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L351-5 (M)
-	  - Code des assurances - art. L351-7 (M)
-	  - Code des assurances - art. L351-8 (M)
+	  - Code des assurances - art. L321-1 (V)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L351-7 (V)
+	  - Code des assurances - art. L363-4 (V)
 
 
 #### Chapitre III : Contribution au profit de la sécurité sociale.
@@ -8021,7 +8247,7 @@ fondement de l'article 1792 du code civil.
 
 Toutefois, l'obligation prévue au premier alinéa ci-dessus ne s'applique ni aux personnes morales de droit public ni aux
 personnes morales exerçant une activité dont l'importance dépasse les seuils mentionnés au dernier alinéa de l'article L.
-351-4, lorsque ces personnes font réaliser pour leur compte des travaux de bâtiment pour un usage autre que l'habitation.
+111-6, lorsque ces personnes font réaliser pour leur compte des travaux de bâtiment pour un usage autre que l'habitation.
 
 L'assureur a un délai maximal de soixante jours, courant à compter de la réception de la déclaration du sinistre, pour
 notifier à l'assuré sa décision quant au principe de la mise en jeu des garanties prévues au contrat.
@@ -8045,8 +8271,8 @@ considérations d'ordre technique et être motivée.
 Le délai supplémentaire prévu à l'alinéa qui précède est subordonné à l'acceptation expresse de l'assuré et ne peut excéder
 cent trente-cinq jours.
 
-Cette assurance prend effet après l'expiration du délai de garantie de parfait achèvement visé à l'article 1792-6 du code
-civil. Toutefois, elle garantit le paiement des réparations nécessaires lorsque :
+L'assurance mentionnée au premier alinéa du présent article prend effet après l'expiration du délai de garantie de parfait
+achèvement visé à l'article 1792-6 du code civil. Toutefois, elle garantit le paiement des réparations nécessaires lorsque :
 
 Avant la réception, après mise en demeure restée infructueuse, le contrat de louage d'ouvrage conclu avec l'entrepreneur est
 résilié pour inexécution, par celui-ci, de ses obligations ;
@@ -8094,25 +8320,24 @@ articles L. 241-1 et L. 241-2 ci-dessus, est habilitée à prendre en charge les
 	  - Code des assurances - art. R243-2 (V)
 	  - Code des assurances - art. R243-3 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L111-30 (V)
-
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 47 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 6 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cite**:
 
 	  - Code civil - art. 1792 (V)
 	  - Code civil - art. 1792-1 (V)
 	  - Code civil - art. 1792-6 (V)
+	  - Code des assurances - art. L111-6 (V)
 	  - Code des assurances - art. L241-1 (M)
 	  - Code des assurances - art. L241-2 (M)
 	  - Code des assurances - art. L321-1 (M)
 	  - Code des assurances - art. L321-4 (Ab)
-	  - Code des assurances - art. L351-4 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L111-30 (V)
 
 
 #### Chapitre III : Dispositions communes.
@@ -8160,28 +8385,23 @@ elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants
 ###### Article L310-1
 
 Le contrôle de l'Etat s'exerce dans l'intérêt des assurés, souscripteurs et bénéficiaires de contrats d'assurance et de
-capitalisation.
+capitalisation. Sont soumises à ce contrôle :
 
-Sont soumises à ce contrôle :
+1° les entreprises qui contractent des engagements dont l'exécution dépend de la durée de la vie humaine, s'engagent à verser
+un capital en cas de mariage ou de naissance d'enfants, ou font appel à l'épargne en vue de la capitalisation et contractent
+à cet effet des engagements déterminés ;
 
-1° Les entreprises qui contractent des engagements dont l'exécution dépend de la durée de la vie humaine, à l'exception des
-sociétés de secours mutuels et des institutions de prévoyance publiques ou privées régies par des lois spéciales ;
+2° les entreprises qui couvrent les risques de dommages corporels liés aux accidents et à la maladie ;
 
-2° Les entreprises de toute nature qui s'engagent à verser un capital en cas de mariage ou de naissance d'enfants ;
+3° les entreprises qui couvrent d'autres risques y compris ceux liés à une activité d'assistance.
 
-3° Les entreprises qui font appel à l'épargne en vue de la capitalisation et contractent, en échange de versements uniques ou
-périodiques, directs ou indirects, des engagements déterminés ;
+Les entreprises ayant exclusivement pour objet la réassurance ne sont pas soumises au contrôle de l'Etat.
 
-4° Les entreprises ayant pour objet l'acquisition d'immeubles au moyen de la constitution de rentes viagères ;
+Les mutuelles régies par le code de la mutualité, les institutions de retraite et de prévoyance mentionnées à l'article L.
+732-1 du code de la sécurité sociale et à l'article 1050 du code rural ne sont pas soumises aux dispositions du présent code.
 
-5° Les entreprises d'assurances de toute nature ; toutefois, les entreprises ayant exclusivement pour objet la réassurance ne
-sont pas soumises au contrôle de l'Etat ;
-
-6° Les entreprises qui font appel à l'épargne dans le but de réunir les sommes versées par leurs adhérents, soit en vue de
-les affecter à des comptes de dépôt portant intérêt, soit en vue de la capitalisation en commun, en les faisant participer
-aux bénéfices d'autres sociétés qu'elles gèrent ou administrent directement ou indirectement.
-
-7° Les entreprises exerçant une activité d'assistance.
+Sont également soumises au contrôle de l'Etat les entreprises agréées à la date du 1er janvier 1993 qui font appel à
+l'épargne en vue de la capitalisation sans souscrire d'engagements déterminés.
 
 **Liens relatifs à cet article**
 
@@ -8453,7 +8673,7 @@ aux bénéfices d'autres sociétés qu'elles gèrent ou administrent directement
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - TXT_ASSOCIE: Code des assurances - art. L328-10 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. L328-11 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*310-1 (T)
@@ -8461,20 +8681,41 @@ aux bénéfices d'autres sociétés qu'elles gèrent ou administrent directement
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 8 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L732-1 (T)
+	  - Code rural 1050
 
 
 ###### Article L310-2
 
-Toute entreprise française mentionnée à l'article L. 310-1 doit être constituée sous forme de société anonyme ou de société
-d'assurance mutuelle.
+Sous réserve des dispositions de l'article L. 310-10, les opérations définies à l'article L. 310-1 ne peuvent être pratiquées
+sur le territoire de la République française que :
 
-Une entreprise française ne peut pratiquer la réassurance que si elle est constituée sous l'une des formes suivantes :
-société anonyme, société en commandite par actions, société d'assurance mutuelle. Les sociétés mutuelles et leurs unions ne
-peuvent accepter de risques en réassurance que dans les conditions fixées par le décret prévu à l'article L. 310-3.
+1° par les entreprises ayant leur siège social en France, à partir de leur siège ou de leurs succursales régulièrement
+établies dans un Etat membre des Communautés européennes, lorsqu'elles sont agréées conformément aux dispositions de
+l'article L. 321-1 ;
 
-Une entreprise étrangère ne peut pratiquer sur le territoire de la République française l'une des opérations mentionnées à
-l'article L. 310-1 ou des opérations de réassurance que si elle satisfait aux dispositions de sa législation nationale.
+2° par les entreprises étrangères ayant leur siège social dans un Etat membre des Communautés européennes, à partir de leur
+siège ou de leurs succursales régulièrement établies dans un Etat membre des Communautés européennes, dans les conditions
+fixées par le titre VI du présent livre ;
+
+3° par les entreprises étrangères mentionnées à l'article L. 310-10-1, à partir de leurs succursales régulièrement établies
+en France, lorsqu'elles sont agréées conformément aux dispositions de l'article L. 321-7 ;
+
+4° par les entreprises étrangères autres que celles mentionnées aux 2° et 3° ci-dessus, à partir de leurs succursales
+régulièrement établies en France, lorsqu'elles satisfont aux conditions fixées par l'article L. 321-9 ;
+
+5° par les entreprises visées aux 1° et 2° ci-dessus, à partir de leurs succursales régulièrement établies dans les Etats
+parties à l'accord sur l'Espace économique européen non membres des Communautés européennes, dans les conditions fixées par
+le titre V du présent livre ainsi que, dans les mêmes conditions, par les entreprises mentionnées au 1° de l'article L.
+310-10-1, à partir de leur siège social ou de leurs succursales régulièrement établies dans un Etat partie à l'accord sur
+l'Espace économique européen autre que la France.
+
+Sont nuls les contrats souscrits en infraction au présent article. Toutefois, cette nullité n'est pas opposable, lorsqu'ils
+sont de bonne foi, aux assurés, aux souscripteurs et aux bénéficiaires.
 
 **Liens relatifs à cet article**
 
@@ -8599,44 +8840,38 @@ l'article L. 310-1 ou des opérations de réassurance que si elle satisfait aux 
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - TXT_SOURCE: Code des assurances - art. A344-6 (V)
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 38 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 54 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 9 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-3 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L310-6 (Ab)
-	  - Code des assurances - art. L322-1 (Ab)
-	  - Code des assurances - art. L322-26-6 (V)
 
 
 ###### Article L310-3
 
-Un décret en Conseil d'Etat détermine les conditions de constitution des entreprises soumises au contrôle de l'Etat en vertu
-de l'article L. 310-1. Il précise les conditions dans lesquelles sont applicables auxdites entreprises les dispositions de la
-loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et des autres lois régissant les sociétés anonymes. Des
-dispositions particulières tiennent compte du caractère non commercial des sociétés d'assurance mutuelles.
+Dans le présent code :
 
-Le même décret fixe les obligations auxquelles les entreprises françaises et étrangères sont astreintes, les garanties
-qu'elles doivent présenter, les réserves et provisions techniques qu'elles doivent constituer, les règles générales de leur
-fonctionnement et de l'exercice du contrôle de l'Etat.
+1° l'expression : "Etat d'origine" désigne l'Etat dans lequel est situé le siège social de l'entreprise d'assurance ;
+
+2° l'expression : "Etat de la succursale" désigne un Etat dans lequel est située la succursale d'une entreprise d'assurance ;
+
+3° l'expression : "régime d'établissement" désigne le régime sous lequel une entreprise d'assurance couvre un risque ou prend
+un engagement situé dans un Etat à partir d'une succursale établie dans cet Etat ;
+
+4° l'expression : "libre prestation de services" désigne l'opération par laquelle une entreprise d'un Etat membre de l'Espace
+économique européen couvre ou prend à partir de son siège social ou d'une succursale située dans un Etat partie à l'accord
+sur l'Espace économique européen un risque ou un engagement situé dans un autre de ces Etats, lui-même désigné comme "Etat de
+libre prestation de services" ;
+
+5° l'expression : "entreprise étrangère" désigne une entreprise dont le siège social n'est pas situé sur le territoire de la
+République française.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24
-	  - Code des assurances - art. L310-1 (M)
 
 	**Codifié par**:
 
@@ -8667,23 +8902,32 @@ fonctionnement et de l'exercice du contrôle de l'Etat.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 54 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 10 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Nouveaux textes**:
 
-	  - Code des assurances - art. L310-7 (M)
 	  - Code des assurances - art. L310-7 (V)
 
 
-###### Article L310-7
+###### Article L310-4
 
-L'autorité administrative peut imposer l'usage de clauses types de contrats et, pour les contrats d'assurance-vie ou de
-capitalisation, fixer les règles de calcul actuariel qui leur sont applicables.
+Pour les opérations mentionnées aux 2° et 3° de l'article L. 310-1, est regardé comme Etat de situation de risque : 
+
+1° L'Etat où les biens sont situés, lorsque l'assurance est relative soit à des immeubles, soit à des immeubles et à leur
+contenu dans la mesure où ce dernier est couvert par la même police d'assurance ; 
+
+2° L'Etat d'immatriculation, lorsque l'assurance est relative à des véhicules de toute nature ; 
+
+3° L'Etat où a été souscrit le contrat, s'il s'agit d'un contrat d'une durée inférieure ou égale à quatre mois, relatif à des
+risques encourus au cours d'un déplacement, quelle que soit la branche dont ceux-ci relèvent ; 
+
+4° Dans tous les autres cas que ceux mentionnés aux 1°, 2° et 3° ci-dessus, l'Etat dans lequel le souscripteur a sa résidence
+principale ou, si le souscripteur est une personne morale, l'Etat où est situé l'établissement de cette personne morale
+auquel le contrat se rapporte.
 
 **Liens relatifs à cet article**
 
@@ -8693,7 +8937,128 @@ capitalisation, fixer les règles de calcul actuariel qui leur sont applicables.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Transféré par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 10 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. L181-1 (V)
+	  - Code des assurances - art. L328-14 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L351-3 (T)
+
+
+###### Article L310-5
+
+Pour les opérations mentionnées au 1° et au dernier alinéa de l'article L. 310-1, est regardé comme Etat de l'engagement
+l'Etat où le souscripteur a sa résidence principale ou, si le souscripteur est une personne morale, l'Etat où est situé le
+siège social ou l'établissement de cette personne morale auquel le contrat se rapporte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cité par**:
+
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab)
+	  - Code des assurances - art. L183-1 (V)
+	  - Code des assurances - art. L323-5 (Ab)
+	  - Code des assurances - art. L323-6 (Ab)
+	  - Code des assurances - art. L328-14 (M)
+	  - Code des assurances - art. R212-7 (M)
+	  - Code des assurances - art. R342-21 (Ab)
+	  - Code des assurances - art. R342-22 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - TXT_ASSOCIE: Code des assurances - art. R*322-2 (V)
+
+	**Transféré par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 10 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L353-3 (T)
+
+
+###### Article L310-6
+
+Une entreprise française ne peut pratiquer la réassurance que si elle est constituée sous l'une des formes suivantes :
+société anonyme, société en commandite par actions, société d'assurance mutuelle.
+
+Une entreprise étrangère ne peut pratiquer sur le territoire de la République française l'une des opérations mentionnées à
+l'article L. 310-1 ou des opérations de réassurance que si elle satisfait aux dispositions de sa législation nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Transféré par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. L300-1 (VD)
+	  - Code des assurances - art. L310-11 (M)
+	  - Code des assurances - art. L310-27 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L310-2 (T)
+	  - Code des assurances L310-2 II (1ère phrase), III
+
+
+###### Article L310-7
+
+Un décret en Conseil d'Etat détermine les conditions de constitution des entreprises soumises au contrôle de l'Etat en vertu
+de l'article L. 310-1. Il précise les conditions dans lesquelles sont applicables auxdites entreprises les dispositions de la
+loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et des autres lois régissant les sociétés anonymes. Des
+dispositions particulières tiennent compte du caractère non commercial des sociétés d'assurance mutuelles.
+
+Le même décret fixe les obligations auxquelles les entreprises françaises et étrangères sont astreintes, les garanties
+qu'elles doivent présenter, les réserves et provisions techniques qu'elles doivent constituer, les règles générales de leur
+fonctionnement et de l'exercice du contrôle de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24
+	  - Code des assurances - art. L310-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - TXT_SOURCE: Code des assurances - art. A113-1 (V)
 	  - TXT_SOURCE: Code des assurances - art. A121-1 (M)
 	  - TXT_SOURCE: Code des assurances - art. A335-1 (V)
@@ -8721,10 +9086,9 @@ capitalisation, fixer les règles de calcul actuariel qui leur sont applicables.
 	  - TXT_SOURCE: Code des assurances - art. A335-9 (Ab)
 	  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
 
-	**Modifié par**:
+	**Transféré par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 34 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -8742,6 +9106,7 @@ capitalisation, fixer les règles de calcul actuariel qui leur sont applicables.
 
 	**Anciens textes**:
 
+	  - Code des assurances - art. L310-3 (M)
 	  - Code des assurances - art. L310-3 (T)
 
 	**Nouveaux textes**:
@@ -8751,15 +9116,16 @@ capitalisation, fixer les règles de calcul actuariel qui leur sont applicables.
 
 ###### Article L310-8
 
-Le ministre chargé de l'économie et des finances peut exiger la communication, préalablement à leur diffusion, de tous les
-documents à caractère contractuel ou publicitaire ayant pour objet une opération d'assurance ou de capitalisation.
+Lorsqu'elles commercialisent pour la première fois en France un modèle de contrat d'assurance, les entreprises d'assurance ou
+de capitalisation en informent le ministre chargé de l'économie et des finances, dans des conditions fixées par arrêté de
+celui-ci.
 
-Dans un délai d'un mois à compter de la communication d'un document d'assurance, le ministre chargé de l'économie et des
-finances peut en prescrire la modification. A l'expiration de ce délai, le document peut être diffusé auprès du public.
+Le ministre peut exiger la communication des documents à caractère contractuel ou publicitaire ayant pour objet une opération
+d'assurance ou de capitalisation.
 
-S'il apparaît qu'un document mis en circulation est contraire aux dispositions législatives et réglementaires, le ministre
-chargé de l'économie et des finances peut en décider le retrait ou en exiger la réformation après avis conforme de la
-commission consultative de l'assurance.
+S'il apparaît qu'un document est contraire aux dispositions législatives ou réglementaires, le ministre peut en exiger la
+modification ou en décider le retrait après avis de la commission consultative de l'assurance. En cas d'urgence, l'avis de la
+commission consultative de l'assurance n'est pas requis.
 
 **Liens relatifs à cet article**
 
@@ -8769,13 +9135,12 @@ commission consultative de l'assurance.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - TXT_ASSOCIE: Code des assurances L328-15 *sanctions pénales*
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 30 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 11 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -8836,18 +9201,46 @@ sont pas déduites.
 	  - Code des assurances - art. R411-1 (M)
 
 
+###### Article L310-9-1
+
+Les dispositions de l'article L. 310-9 ne s'appliquent pas aux entreprises qui ne font pas l'objet des agréments prévus aux
+articles L. 321-1, L. 321-7 et L. 321-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 12 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. L310-12 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-9 (M)
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L321-9 (M)
+
+
 ###### Article L310-10
 
 Il est interdit de souscrire une assurance directe d'un risque concernant une personne, un bien ou une responsabilité situé
-sur le territoire de la République française auprès d'une entreprise étrangère qui ne s'est pas conformée aux prescriptions
-des articles L. 321-1 et L. 321-2.
+sur le territoire de la République française auprès d'entreprises étrangères autres que celles visées à l'article L. 310-2.
 
 Toutefois, les dispositions de l'alinéa ci-dessus ne sont pas applicables à l'assurance des risques liés aux transports
-maritimes et aériens ainsi qu'aux opérations de libre prestation de services et de coassurance communautaire définies au
-titre V du présent livre. En outre, il peut être dérogé aux dispositions du précédent alinéa sur décision du ministre de
+maritimes et aériens. En outre, il peut être dérogé aux dispositions du précédent alinéa sur décision du ministre de
 l'économie et des finances s'il est constaté qu'une couverture d'assurance d'un risque ne peut être trouvée auprès des
-entreprises d'assurance qui se sont conformées aux prescriptions des articles L. 321-1, L. 321-2 et du titre V du présent
-livre.
+entreprises d'assurance visées à l'article L. 310-2.
 
 **Liens relatifs à cet article**
 
@@ -8857,7 +9250,13 @@ livre.
 
 	**Modifié par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 32 () JORF 17 juillet 1992
+	  - Loi n°94-5 1994-01-04 art. 13 I, II JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 13 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - TXT_ASSOCIE: Code des assurances L328-2 *sanctions pénales*
 
 	**Cité par**:
 
@@ -8871,21 +9270,21 @@ livre.
 	  - Code des assurances - art. L390-1 (V)
 	  - Code des assurances - art. R*310-10 (M)
 
-	**Cite**:
-
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L321-2 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances L328-2 *sanctions pénales*
-
 
 ###### Article L310-10-1
 
-Pour l'application du présent livre, à l'exception du titre V et de l'article L. 321-1-1, les entreprises ayant leur siège
-social dans la Confédération helvétique et mentionnées aux 5° et 7° de l'article L. 310-1 sont soumises aux mêmes
-dispositions que les entreprises qui ont leur siège social dans un Etat des communautés européennes autre que la France.
+Les entreprises visées au 3° de l'article L. 310-2 sont : 
+
+1° les entreprises étrangères ayant leur siège social dans un Etat partie à l'accord sur l'Espace économique européen non
+membre des Communautés européennes ; 
+
+2° les entreprises étrangères ayant leur siège social dans la Confédération helvétique et mentionnées aux 2° et 3° de
+l'article L. 310-1. 
+
+Pour l'application du présent livre, les entreprises mentionnées au 2° du présent article sont soumises aux mêmes
+dispositions que les entreprises qui ont leur siège social dans un Etat partie à l'accord sur l'Espace économique européen
+non membre des Communautés européennes. Toutefois, l'article L. 321-8 et le titre V du présent livre ne leur sont pas
+applicables.
 
 **Liens relatifs à cet article**
 
@@ -8893,14 +9292,18 @@ dispositions que les entreprises qui ont leur siège social dans un Etat des com
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 33 () JORF 17 juillet 1992 en vigueur le 4 juillet 1993
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 14 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L321-1-1 (M)
+	  - Code des assurances - art. L310-1 (V)
+	  - Code des assurances - art. L321-8 (V)
 
 	**Cité par**:
 
@@ -8911,9 +9314,11 @@ dispositions que les entreprises qui ont leur siège social dans un Etat des com
 
 ###### Article L310-11
 
-Les dispositions des articles L. 310-1 à L. 310-3, L. 310-8 et L. 310-10 sont applicables dans les territoires de la
-Nouvelle-Calédonie, de la Polynésie française, de Saint-Pierre et Miquelon, des Terres australes et antarctiques françaises
-et de Wallis et Futuna.
+I. Le livre III du présent code est applicable à Mayotte.
+
+II. Les dispositions des articles L. 310-1 à L. 310-3, L. 310-8 et L. 310-10, dans la rédaction du présent code antérieure à
+l'entrée en vigueur de la loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier,
+sont applicables dans les territoires d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -8921,26 +9326,29 @@ et de Wallis et Futuna.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Cite**:
+
+	  - Loi n°91-716 1991-07-26
+	  - Code des assurances - art. L310-10 (M)
+	  - Code des assurances - art. L310-8 (M)
+	  - Code des assurances L310-1 à L310-3, L310-8, L310-10
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 48 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
 	  - Loi n°97-277 du 25 mars 1997 - art. 17 (Ab)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-10 (M)
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. L310-3 (M)
-	  - Code des assurances - art. L310-8 (M)
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ##### Section II : Commission de contrôle des assurances.
@@ -8951,39 +9359,23 @@ Il est institué une commission de contrôle des assurances chargée de contrôl
 310-1, à l'exception de celles qui ont pour objet exclusif la réassurance.
 
 La commission veille au respect, par les entreprises d'assurance, des dispositions législatives ou réglementaires relatives à
-l'assurance.
+l'assurance. Elle s'assure que ces entreprises tiennent les engagements qu'elles ont contractés à l'égard des assurés.
 
-La commission s'assure que les entreprises d'assurance tiennent et sont toujours en mesure de tenir les engagements qu'elles
-ont contractés à l'égard des assurés et présentent la marge de solvabilité prescrite ; à cette fin, elle examine leur
-situation financière et leurs conditions d'exploitation.
+La commission s'assure que les entreprises mentionnées aux 1°, 3° et 4° de l'article L. 310-2 sont toujours en mesure de
+tenir les engagements qu'elles ont contractés à l'égard des assurés et présentent la marge de solvabilité prescrite ; à cette
+fin, elle examine leur situation financière et leurs conditions d'exploitation.
 
-La commission de contrôle des assurances comprend cinq membres nommés par arrêté du ministre chargé de l'économie et des
-finances pour une durée de cinq ans :
+La commission s'assure que toute entreprise d'assurance ou de capitalisation mentionnée au 1° de l'article L. 310-2 et
+projetant d'exercer pour la première fois des activités en libre prestation de services sur le territoire d'un autre Etat
+membre des Communautés européennes, ou de modifier la nature ou les conditions d'exercice de ces activités, dispose d'une
+structure administrative et d'une situation financière adéquates au regard de son projet. Si elle estime que ces conditions
+ne sont pas remplies, la commission de contrôle ne communique pas à l'autorité de contrôle de cet autre Etat membre les
+documents permettant l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe les conditions d'application du
+présent alinéa, notamment les modalités du contrôle préalable et les délais dans lesquels la commission doit se prononcer.
 
-1° Un membre du Conseil d'Etat, ayant au moins le rang de conseiller d'Etat, président, choisi parmi les membres de la
-section des finances et proposé par le vice-président du Conseil d'Etat ;
-
-2° Un membre de la Cour de cassation, ayant au moins le rang de conseiller à la Cour de cassation, proposé par le premier
-président de la Cour de cassation ;
-
-3° Un membre de la Cour des comptes, ayant au moins le rang de conseiller maître, proposé par le premier président de la Cour
-des comptes ;
-
-4° Deux membres choisis en raison de leur expérience en matière d'assurance et de questions financières.
-
-Les membres de la commission ne peuvent, pendant la durée de leur mandat et dans les cinq ans qui suivent l'expiration de
-celui-ci, recevoir de rétribution d'une entreprise d'assurance.
-
-Cinq suppléants sont nommés dans les mêmes conditions.
-
-En cas de partage égal des voix, celle du président est prépondérante.
-
-Les membres titulaires et suppléants de la commission ne peuvent être révoqués.
-
-Le directeur du Trésor au ministère de l'économie et des finances, ou son représentant, siège auprès de la commission en
-qualité de commissaire du Gouvernement.
-
-Le secrétariat général de la commission est assuré par le chef du service de contrôle des assurances.
+La commission peut décider de soumettre au contrôle toute personne physique ou morale ayant reçu d'une entreprise mentionnée
+à l'article L. 310-1 un mandat de souscription ou de gestion, ou exerçant, à quelque titre que ce soit, le courtage
+d'assurance.
 
 **Liens relatifs à cet article**
 
@@ -9039,15 +9431,78 @@ Le secrétariat général de la commission est assuré par le chef du service de
 
 	**Modifié par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 12 () JORF 17 juillet 1992
+	  - Loi n°94-5 1994-01-04 art. 15 I, II JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 15 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-2 (M)
 
-	**Nouveaux textes**:
 
-	  - Code des assurances - art. L310-12-1 (M)
+###### Article L310-12-1
+
+La commission de contrôle des assurances comprend cinq membres nommés par arrêté du ministre chargé de l'économie et des
+finances pour une durée de cinq ans :
+
+1° Un membre du Conseil d'Etat, ayant au moins le rang de conseiller d'Etat, président, choisi parmi les membres de la
+section des finances et proposé par le vice-président du Conseil d'Etat ;
+
+2° Un membre de la Cour de cassation, ayant au moins le rang de conseiller à la Cour de cassation, proposé par le premier
+président de la Cour de cassation ;
+
+3° Un membre de la Cour des comptes, ayant au moins le rang de conseiller maître, proposé par le premier président de la Cour
+des comptes ;
+
+4° Deux membres choisis en raison de leur expérience en matière d'assurance et de questions financières.
+
+Les membres de la commission ne peuvent, pendant la durée de leur mandat et dans les cinq ans qui suivent l'expiration de
+celui-ci, recevoir de rétribution d'une entreprise d'assurance.
+
+Cinq suppléants sont nommés dans les mêmes conditions.
+
+En cas de partage égal des voix, celle du président est prépondérante.
+
+Les membres titulaires et suppléants de la commission ne peuvent être révoqués.
+
+Le directeur du Trésor au ministère de l'économie et des finances, ou son représentant, siège auprès de la commission en
+qualité de commissaire du Gouvernement.
+
+Le secrétariat général de la commission est assuré par le chef du service de contrôle des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. L510-1-1 (Ab)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L951-3 (Ab)
+
+	**Transféré par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°97-277 du 25 mars 1997 - art. 17 (Ab)
+	  - Code de la mutualité - art. L510-1-1 (M)
+	  - Code de la sécurité sociale. - art. L951-3 (M)
+	  - Code des assurances - art. R310-12 (Ab)
+	  - Code des assurances - art. R310-12-12 (VT)
+	  - Code des assurances - art. R310-18-4 (VT)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L310-12 (T)
+	  - Code des assurances L310-12 (onze derniers alinéas)
 
 
 ###### Article L310-13
@@ -9197,10 +9652,10 @@ surveillance de l'entreprise contrôlée. Ils sont également transmis aux commi
 
 ###### Article L310-17
 
-Lorsqu'une entreprise d'assurance enfreint une disposition législative ou réglementaire dans le domaine relevant du contrôle
-de la commission ou a un comportement qui met en péril sa marge de solvabilité ou l'exécution des engagements qu'elle a
-contractés envers les assurés, la commission, après avoir mis ses dirigeants en mesure de présenter leurs observations, peut
-lui adresser une mise en garde.
+Lorsqu'une entreprise mentionnée aux 1°, 3° ou 4° de l'article L. 310-2 enfreint une disposition législative ou réglementaire
+dans le domaine relevant du contrôle de la commission ou a un comportement qui met en péril sa marge de solvabilité ou
+l'exécution des engagements qu'elle a contractés envers les assurés, la commission, après avoir mis ses dirigeants en mesure
+de présenter leurs observations, peut lui adresser une mise en garde.
 
 Elle peut, également, dans les mêmes conditions, lui adresser une injonction à l'effet de prendre, dans un délai déterminé,
 toutes mesures destinées à rétablir ou renforcer son équilibre financier ou à corriger ses pratiques.
@@ -9211,13 +9666,13 @@ toutes mesures destinées à rétablir ou renforcer son équilibre financier ou 
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 15 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -9230,13 +9685,17 @@ toutes mesures destinées à rétablir ou renforcer son équilibre financier ou 
 	  - Code des assurances - art. R323-2 (V)
 	  - Code des assurances - art. R323-3 (V)
 
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+
 
 ###### Article L310-18
 
-Lorsqu'une entreprise mentionnée à l'article L. 310-1 n'a pas respecté une disposition législative ou réglementaire dans le
-domaine relevant du contrôle de la commission ou n'a pas déféré à une injonction, la commission peut prononcer, à son
-encontre ou à celle de ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes, en fonction de la gravité
-du manquement :
+Lorsqu'une entreprise mentionnée aux 1°, 3° ou 4° de l'article L. 310-2 n'a pas respecté une disposition législative ou
+réglementaire dans le domaine relevant du contrôle de la commission ou n'a pas déféré à une injonction, la commission peut
+prononcer, à son encontre ou à celle de ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes, en
+fonction de la gravité du manquement :
 
 1° L'avertissement ;
 
@@ -9273,9 +9732,13 @@ l'affichage dans les lieux et pour la durée qu'elle indique.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
 	**Modifié par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 13 () JORF 17 juillet 1992
+	  - Loi n°94-5 du 4 janvier 1994 - art. 15 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -9333,7 +9796,7 @@ l'affichage dans les lieux et pour la durée qu'elle indique.
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-2 (M)
 
 
 ###### Article L310-19
@@ -9469,21 +9932,59 @@ commerce, elle en informe le ministre chargé de l'économie et des finances.
 	  - Code de commerce. - art. L420-2 (M)
 
 
-### Titre II : Régime administratif.
+###### Article L310-25
 
-#### Chapitre Ier : Les agréments.
+Le redressement judiciaire institué par la loi n° 85-98 du 25 janvier 1985 précitée ne peut être ouvert à l'égard d'une
+entreprise soumise aux dispositions du présent livre qu'à la requête de la commission de contrôle des assurances ; le
+tribunal peut également se saisir d'office ou être saisi par le procureur de la République d'une demande d'ouverture de cette
+procédure après avis conforme de la commission de contrôle des assurances.
 
-##### Section I : Agréments administratifs.
+Le président du tribunal ne peut être saisi d'une demande d'ouverture du règlement amiable institué par la loi n° 84-148 du
+1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises à l'égard d'une entreprise
+susmentionnée, qu'après avis conforme de la commission de contrôle des assurances.
 
-###### Article L321-1-1
+**Liens relatifs à cet article**
 
-Les entreprises étrangères ne peuvent couvrir ou prendre, sur le territoire de la République française, en libre prestation
-de services, les risques mentionnés à l'article L. 351-5 ou les engagements visés à l'article L. 353-5 sans avoir obtenu
-l'agrément de libre prestation de services mentionné à chacun des deux articles précités.
+	**Codifié par**:
 
-Un décret en Conseil d'Etat fixe les documents à produire à l'appui de la demande d'agrément ainsi que les modalités de
-calcul des provisions techniques afférentes à ces contrats, les règles de représentation de ces provisions et de localisation
-des actifs qui les représentent.
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°84-148 1984-03-01
+	  - Loi n°85-98 1985-01-25
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Transféré par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 108 (Ab)
+	  - Code de la mutualité - art. L222-9 (VT)
+	  - Code de la sécurité sociale. - art. L932-46 (VT)
+	  - Code des assurances - art. L134-4 (V)
+	  - Code des assurances - art. L142-4 (Ab)
+	  - Code des assurances - art. L143-7 (VT)
+	  - Code des assurances - art. L432-4 (V)
+	  - Code des assurances - art. R310-23 (VD)
+	  - Code des assurances - art. R322-1 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L326-1 (M)
+
+
+##### Section IV : Sanctions.
+
+###### Article L310-26
+
+Toute infraction aux dispositions de l'article L. 310-10 sera punie d'une amende de 30.000 F et, en cas de récidive, de
+60.000 F. Le jugement sera publié aux frais des condamnés ou des entreprises civilement responsables [*sanctions*].
 
 **Liens relatifs à cet article**
 
@@ -9493,86 +9994,143 @@ des actifs qui les représentent.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
-	**Modifié par**:
+	**Transféré par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 16 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 16 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
-	**Abrogé par**:
+	**Cite**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 17 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Code des assurances - art. L310-10 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L328-2 (MMN)
 
 	**Cité par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 13 (V)
-	  - Arrêté du 3 novembre 2014 - art. 5 (V)
-	  - Code des assurances - art. A321-1 (V)
-	  - Code des assurances - art. L310-1-1 (VD)
-	  - Code des assurances - art. L310-10-1 (M)
-	  - Code des assurances - art. L310-12-5 (M)
-	  - Code des assurances - art. L310-9-1 (Ab)
-	  - Code des assurances - art. L321-10-1 (V)
-	  - Code des assurances - art. L322-27-1 (VD)
-	  - Code des assurances - art. L325-1 (VD)
-	  - Code des assurances - art. L350-2 (VD)
-	  - Code des assurances - art. L351-5 (M)
-	  - Code des assurances - art. L353-5 (M)
-	  - Code des assurances - art. L411-4 (M)
-	  - Code des assurances - art. R*341-9 (T)
-	  - Code des assurances - art. R321-26 (VD)
-	  - Code des assurances - art. R321-5-1 (V)
-	  - Code des assurances - art. R325-11 (VD)
-	  - Code des assurances - art. R342-1 (Ab)
-	  - Code des assurances - art. R342-17 (Ab)
-	  - Code des assurances - art. R342-19 (Ab)
-	  - Code des assurances - art. R351-3 (M)
-	  - Code des assurances - art. R353-2 (M)
-	  - Code monétaire et financier - art. L517-2 (V)
+	  - Code des assurances - art. L328-5 (V)
 
 
-##### Section I : Agrément administratif.
+###### Article L310-27
+
+Le fait de pratiquer sur le territoire de la République une des opérations mentionnées aux 1°, 2° et 3° de l'article L. 310-1
+sans se conformer aux dispositions des articles L. 310-2 et L. 310-6 est puni d'un emprisonnement de trois ans et d'une
+amende de 500 000 F.
+
+Lorsqu'une personne physique a commis l'une des infractions prévues au précédent alinéa, la diffusion de la décision, dans
+les conditions prévues par l'article 131-35 du code pénal, peut être prononcée à titre de peine complémentaire.
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, des mêmes infractions. Elles encourent les peines suivantes :
+
+1° l'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° la peine mentionnée au 4° de l'article 131-39 du code pénal.
+
+Les personnes ayant souscrit de bonne foi un contrat auprès de l'entreprise dont la fermeture a été ordonnée par le tribunal
+bénéficient des mêmes privilèges et garanties que ceux réservés par le présent code aux souscripteurs et bénéficiaires de
+contrats en cas de liquidation d'une entreprise d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 16 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°97-277 du 25 mars 1997 - art. 10 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-35 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L310-6 (Ab)
+
+
+###### Article L310-28
+
+Le fait, pour tout dirigeant d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1, après mise en
+demeure, de ne pas répondre aux demandes d'information de la commission de contrôle des assurances, ou de mettre obstacle de
+quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment des
+renseignements inexacts, est puni d'un emprisonnement de deux ans et d'une amende de 2 000 000 F.
+
+Le fait, pour les mêmes personnes, de faire des déclarations mensongères ou de procéder à des dissimulations frauduleuses
+dans tout document produit au ministre chargé de l'économie et des finances est puni des mêmes peines.
+
+Est également puni des mêmes peines le fait, pour quiconque, à l'occasion d'activités régies par le présent code, de formuler
+des déclarations mensongères dans tout document porté à la connaissance du public ou de la clientèle.
+
+Les personnes morales peuvent également être déclarées responsables pénalement, dans les conditions prévues par l'article
+121-2 du code pénal, des infractions définies au présent article et encourent, dans ce cas, la peine d'amende, suivant les
+modalités prévues par l'article 131-38 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 16 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code des assurances - art. L310-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A344-8 (Ab)
+
+
+### Titre II : Régime administratif.
+
+#### Chapitre Ier : Les agréments.
+
+##### Section I : Agrément administratif des entreprises françaises
 
 ###### Article L321-1
 
-I. - Les entreprises soumises au contrôle de l'Etat par l'article L. 310-1 ne peuvent commencer leurs opérations qu'après
-avoir obtenu un agrément administratif. Toutefois, en ce qui concerne les opérations d'acceptation en réassurance, cet
-agrément n'est pas exigé.
+Les entreprises mentionnées au 1° de l'article L. 310-2 ne peuvent commencer leurs opérations qu'après avoir obtenu un
+agrément administratif. Toutefois, en ce qui concerne les opérations d'acceptation en réassurance, cet agrément n'est pas
+exigé.
 
 L'agrément est accordé sur demande de l'entreprise, pour les opérations d'une ou plusieurs branches d'assurance. L'entreprise
 ne peut pratiquer que les opérations pour lesquelles elle est agréée.
 
-Aucun agrément ne peut être accordé à une même entreprise pour des opérations définies aux 1°, 2°, 3°, 4° et 6° de l'article
-L. 310-1 et pour les opérations définies aux 5° et 7° dudit article.
+Aucun agrément ne peut être accordé à une même entreprise pour des opérations définies au 1° de l'article L. 310-1 et pour
+des opérations définies au 3° du même article.
 
-Aucun agrément ne peut être accordé à une même entreprise pour des opérations définies aux 1°, 2°, 3° et 4° de l'article L.
-310-1 et pour des opérations définies aux 5° et 7° du même article.
-
-Aucun agrément ne peut être accordé à une même entreprise pour des opérations définies au 6° de l'article L. 310-1 et pour
-des opérations définies aux 1°, 2°, 3°, 4°, 5° et 7° du même article.
+Aucun agrément ne peut être accordé à une même entreprise pour des opérations définies au dernier alinéa de l'article L.
+310-1 et pour des opérations définies aux 1°, 2°, 3° du même article.
 
 Aucun agrément ne peut être accordé à une entreprise tontinière pour des opérations autres que tontinières.
 
-II. - Le ministre chargé de l'économie et des finances informe la Commission des communautés européennes de toute décision
-d'agrément d'une entreprise contrôlée par une entreprise dont le siège social est établi dans un Etat non membre des
-communautés. Le contrôle s'entend au sens des articles 355-1 et 357-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales.
-
-Sur demande de l'autorité compétente des communautés européennes fondée sur ce qu'il a été constaté que les entreprises
-d'assurance ayant leur siège social dans un Etat membre des communautés n'ont pas accès au marché d'un Etat non membre des
-communautés ou n'y bénéficient pas du même traitement que les entreprises qui y ont leur siège, le ministre sursoit, pendant
-une durée de trois mois, à toute décision sur l'agrément d'une entreprise contrôlée par une entreprise ayant son siège dans
-ledit Etat. Le délai de trois mois peut être prorogé sur décision du Conseil des communautés.
-
-Les dispositions de l'alinéa qui précède ne s'appliquent pas à la création d'une entreprise d'assurance contrôlée par une
-entreprise d'assurance déjà établie sur le territoire d'un Etat membre des communautés européennes.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 355-1, art. 357-1
-	  - Code des assurances - art. L310-1 (M)
 
 	**Codifié par**:
 
@@ -9661,46 +10219,70 @@ entreprise d'assurance déjà établie sur le territoire d'un Etat membre des co
 	  - Code monétaire et financier - art. L612-20 (VD)
 	  - Code rural et de la pêche maritime - art. R752-39 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°94-5 1994-01-04 art. 1 I, IV, art. 8 II, art. 9 II, art. 17 I JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 1 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 17 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 8 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 9 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 1 XII *dispositions applicables à Mayotte*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - TXT_SOURCE: Arrêté du 7 janvier 1994
 	  - TXT_SOURCE: Arrêté du 7 janvier 1994 - art. 1 (V)
+	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
 	  - TXT_ASSOCIE: Code des assurances - art. L328-15 (M)
 	  - TXT_SOURCE: Code des assurances - art. R*321-1 (V)
 
-	**Modifié par**:
-
-	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L321-2 (M)
-
-
-##### Section II : Agrément spécial.
 
 ###### Article L321-2
 
-Les entreprises établies sur le territoire d'un Etat qui n'est pas membre des communautés européennes ne peuvent pratiquer
-sur le territoire de la République française des opérations soumises au contrôle de l'Etat en vertu de l'article L. 310-1
-qu'après avoir obtenu un agrément spécial portant acceptation d'un mandataire général ; l'agrément est délivré par le
-ministre chargé de l'économie et des finances. Ces entreprises peuvent être, en outre, astreintes à constituer un
-cautionnement ou des garanties si leur pays a pris ou prenait des mesures analogues à l'égard d'entreprises françaises.
+Le ministre chargé de l'économie et des finances informe la Commission des communautés européennes de toute décision
+d'agrément d'une entreprise contrôlée par une entreprise dont le siège social est établi dans un Etat non partie à l'accord
+sur l'Espace économique européen. Le contrôle s'entend au sens des articles 355-1 et 357-1 de la loi n° 66-537 du 24 juillet
+1966 sur les sociétés commerciales.
 
-Un décret en Conseil d'Etat, détermine les modalités d'application de l'alinéa précédent et fixe notamment les conditions que
-doit remplir le mandataire général.
+Sur demande de l'autorité compétente des communautés européennes fondée sur ce qu'il a été constaté que les entreprises
+d'assurance ayant leur siège social dans un Etat membre des communautés n'ont pas accès au marché d'un Etat non partie à
+l'accord sur l'espace économique européen ou n'y bénéficient pas du même traitement que les entreprises qui y ont leur siège,
+le ministre sursoit, pendant une durée de trois mois, à toute décision sur l'agrément d'une entreprise contrôlée par une
+entreprise ayant son siège dans ledit Etat. Le délai de trois mois peut être prorogé sur décision du Conseil des communautés.
+
+Les dispositions de l'alinéa qui précède ne s'appliquent pas à la création d'une entreprise d'assurance contrôlée par une
+entreprise d'assurance déjà établie sur le territoire d'un Etat membre des communautés européennes.
+
+Lorsque, pour une période de trois mois prorogeable par décision du Conseil des Communautés, la commission des Communautés
+européennes décide de faire surseoir à toute décision concernant l'agrément d'entreprises d'assurance qui sont des filiales
+directes ou indirectes d'entreprises relevant du droit d'un pays tiers, l'agrément accordé au cours de la période susvisée à
+de telles entreprises par l'autorité compétente d'un Etat partie à l'accord sur l'Espace économique européen non membre des
+Communautés européennes n'emporte, pendant cette période, aucun effet juridique sur le territoire de la République française,
+et notamment ne donne pas droit à l'entreprise concernée d'y effectuer des opérations d'assurance.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 355-1, art. 357-1
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
+	**Transféré par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 22 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 1994-01-04 art. 1 I, IV, art. 18 I JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 1 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 18 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - TXT_ASSOCIE: Code des assurances - art. L328-2 (MMN)
+	  - TXT_SOURCE: Code des assurances - art. R*321-12 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*321-16 (T)
+	  - TXT_ASSOCIE: Code des assurances L328-2, R321-16
 
 	**Cité par**:
 
@@ -9718,72 +10300,27 @@ doit remplir le mandataire général.
 	  - Code des assurances - art. R321-5-3 (VD)
 	  - Code des assurances - art. R342-22 (Ab)
 
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
 	**Anciens textes**:
 
 	  - Code des assurances - art. L321-1 (T)
+	  - Code des assurances L321-1 II
 
 	**Nouveaux textes**:
 
-	  - Code des assurances - art. L321-9 (M)
 	  - Code des assurances - art. L321-9 (V)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. L328-2 (MMN)
-	  - TXT_SOURCE: Code des assurances - art. R*321-12 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*321-16 (T)
-	  - TXT_ASSOCIE: Code des assurances L328-2, R321-16
-
-
-##### Section III : Conditions des agréments.
-
-###### Article L321-2-1
-
-Pour accorder ou refuser l'agrément prévu à l'article L. 321-1, le ministre, après avis de la commission compétente du
-Conseil national des assurances, prend en compte :
-
-- les moyens techniques et financiers dont la mise en oeuvre est proposée et leur adéquation au programme d'activité de
-l'entreprise ;    - l'honorabilité et la qualification des personnes chargées de la conduire ;
-
-- la répartition de son capital ou, pour les sociétés mentionnées à l'article L. 322-26-1, les modalités de constitution du
-fonds d'établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 21 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L322-26-1 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L321-10 (M)
-	  - Code des assurances - art. L321-10 (V)
-	  - Code des assurances - art. L321-11 (Ab)
-
-
-##### Section IV : Dispositions particulières aux départements et territoires d'outre-mer.
 
 ###### Article L321-3
 
-Les dispositions du présent chapitre sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale
-de Mayotte.
+Toute entreprise agréée conformément aux dispositions de l'article L. 321-1 et désirant établir une succursale dans un autre
+Etat membre des Communautés européennes notifie son projet au ministre chargé de l'économie et des finances. La liste des
+documents à produire à l'appui de cette notification est fixée par arrêté dudit ministre.
+
+Si le ministre estime que les structures administratives ou la situation financière de l'entreprise concernée ou
+l'honorabilité, la qualification ou l'expérience professionnelles des dirigeants de l'entreprise ou du mandataire général
+sont adéquates compte tenu du projet présenté, il communique ces informations, dans les trois mois à compter de la réception
+du dossier complet, à l'autorité compétente de l'Etat de la succursale. Il avise de cette communication l'entreprise, qui
+peut alors commencer ses activités dans les délais et conditions fixés par l'arrêté susvisé.
 
 **Liens relatifs à cet article**
 
@@ -9793,7 +10330,8 @@ de Mayotte.
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 1 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 18 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -9802,26 +10340,20 @@ de Mayotte.
 	  - Code des assurances - art. A321-4 (Ab)
 	  - Code des assurances - art. L321-5 (Ab)
 
+	**Abrogé par**:
 
-##### Section VII : Dispositions relatives à l'assurance de protection juridique.
+	  - Loi n°2003-706 du 1 août 2003 - art. 30 () JORF 2 août 2003
 
-###### Article L321-6
+	**Cite**:
 
-Les entreprises soumises au contrôle de l'Etat par l'article L. 310-1 qui pratiquent l'assurance de protection juridique
-optent pour l'une des modalités de gestion suivantes :
+	  - Code des assurances - art. L321-1 (M)
 
-- les membres du personnel chargés de la gestion des sinistres de la branche "protection juridique" ou de conseils juridiques
-relatifs à cette gestion ne peuvent exercer en même temps une activité semblable dans une autre branche pratiquée par
-l'entreprise qui les emploie, ni dans une autre entreprise ayant avec cette dernière des liens financiers, commerciaux ou
-administratifs ;
 
-- les sinistres de la branche "protection juridique" sont confiés à une entreprise juridiquement distincte ;
+###### Article L321-4
 
-- le contrat d'assurance de protection juridique prévoit le droit pour l'assuré de confier la défense de ses intérêts, dès
-qu'il est en droit de réclamer l'intervention de l'assurance au titre de la police, à un avocat ou à une personne qualifiée
-de son choix.
-
-Les modalités d'application du présent article seront précisées par décret en Conseil d'Etat.
+Lorsque le ministre refuse de communiquer les informations visées au précédent article à l'autorité compétente de l'Etat de
+la succursale, il fait connaître, dans le délai de trois mois mentionné à l'article précédent, les raisons de ce refus à
+l'entreprise concernée.
 
 **Liens relatifs à cet article**
 
@@ -9831,23 +10363,345 @@ Les modalités d'application du présent article seront précisées par décret 
 
 	**Créé par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 6 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 1 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 18 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 39 (V)
+	  - Code des assurances - art. A431-4 (Ab)
+	  - Code des assurances - art. L220-2 (Ab)
+	  - Code des assurances - art. L242-1 (M)
+	  - Code des assurances - art. L321-5 (Ab)
+	  - Code des assurances - art. L514-2 (M)
+	  - Code des assurances - art. R*331-32 (Ab)
+	  - Code des assurances - art. R321-22 (M)
+	  - Code des assurances - art. R321-24 (M)
+	  - Code des assurances - art. R331-31 (M)
+	  - Code des assurances - art. R332-1 (M)
+	  - Code des assurances - art. R332-9 (M)
+	  - Code des assurances - art. R431-31 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 30 () JORF 2 août 2003
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. L321-4 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R321-22 (T)
+	  - TXT_SOURCE: Code des assurances - art. R322-1 (V)
+
+
+###### Article L321-5
+
+I. Tout projet de modification de la nature ou des conditions d'exercice des activités de la succursale mentionnée à
+l'article L. 321-3 est notifié au ministre de l'économie et des finances. Dans ce cas, la procédure décrite au deuxième
+alinéa de l'article L. 321-3 et à l'article L. 321-4 est applicable dans le délai d'un mois à compter de la réception de la
+notification.
+
+II. Un décret en Conseil d'Etat précise les conditions d'application des articles L. 321-3, L. 321-4 et du I du présent
+article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 1 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 18 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Abrogé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 30 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Code des assurances - art. A321-6 (Ab)
+	  - Code des assurances - art. L321-4 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-3 (M)
+
+
+##### Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen.
+
+###### Article L321-7
+
+Les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1 et visées au 3° de l'article L. 310-2 ne
+peuvent commencer leurs opérations en régime d'établissement en France qu'après avoir obtenu un agrément administratif. Cet
+agrément n'est pas exigé pour ce qui concerne les opérations d'acceptation en réassurance. 
+
+L'agrément mentionné au premier alinéa du présent article est délivré conformément aux dispositions des deuxième et troisième
+alinéas de l'article L. 321-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 1 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°2002-429 du 29 mars 2002 - art. 3 (Ab)
+	  - Code des assurances - art. A321-7 (V)
+	  - Code des assurances - art. Annexe art. A344-8 (Ab)
+	  - Code des assurances - art. L125-6 (V)
+	  - Code des assurances - art. L143-3 (VT)
+	  - Code des assurances - art. L212-3 (VD)
+	  - Code des assurances - art. L215-1 (VD)
+	  - Code des assurances - art. L252-2 (VD)
+	  - Code des assurances - art. L310-12-5 (Ab)
+	  - Code des assurances - art. L310-2 (V)
+	  - Code des assurances - art. L310-6-1 (Ab)
+	  - Code des assurances - art. L310-9-1 (Ab)
+	  - Code des assurances - art. L321-10 (V)
+	  - Code des assurances - art. L322-1-1 (VD)
+	  - Code des assurances - art. L324-1 (VT)
+	  - Code des assurances - art. L325-1 (VD)
+	  - Code des assurances - art. L326-20 (VD)
+	  - Code des assurances - art. L351-5 (VD)
+	  - Code des assurances - art. L352-1 (VD)
+	  - Code des assurances - art. L353-5 (VT)
+	  - Code des assurances - art. L364-1 (V)
+	  - Code des assurances - art. L411-4 (Ab)
+	  - Code des assurances - art. R321-16 (VD)
+	  - Code des assurances - art. R321-6 (V)
+	  - Code des assurances - art. R322-1 (VD)
+	  - Code des assurances - art. R325-11 (V)
+	  - Code des assurances - art. R325-4 (V)
+	  - Code des assurances - art. R325-8 (VD)
+	  - Code des assurances - art. R423-1 (VD)
+	  - Code rural et de la pêche maritime - art. R752-39 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (V)
+	  - Code des assurances - art. L321-1 (V)
+
+
+###### Article L321-8
+
+Les entreprises visées au 5° de l'article L. 310-2 ne peuvent couvrir ou prendre, sur le territoire de la République
+française, en libre prestation de services, les risques mentionnés à l'article L. 351-5 ou les engagements visés à l'article
+L. 353-5 sans avoir obtenu l'agrément de libre prestation de services mentionné à ces articles.
+
+L'agrément visé à l'alinéa précédent est accordé par le ministre chargé de l'économie et des finances dans les conditions
+définies aux deux premiers alinéas de l'article L. 321-10.
+
+Un décret en Conseil d'Etat fixe les modalités de calcul des provisions techniques afférentes à ces contrats, les règles de
+représentation de ces provisions et de localisation des actifs qui les représentent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 1 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. L310-10-1 (V)
+	  - Code des assurances - art. L321-10 (V)
+	  - Code des assurances - art. L351-5 (V)
+	  - Code des assurances - art. L353-5 (VT)
+	  - Code des assurances - art. L411-4 (Ab)
+	  - Code des assurances - art. R321-8 (VT)
+	  - Code des assurances - art. R322-1 (V)
+	  - Code des assurances - art. R344-2 (VT)
+	  - Code des assurances - art. R351-3 (V)
+	  - Code des assurances - art. R353-2 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+
+
+##### Section III : Agrément spécial des entreprises dont le siège social est situé dans un Etat non membre de l'Espace économique européen.
+
+###### Article L321-9
+
+Les entreprises visées au 4° de l'article L. 310-2 ne peuvent pratiquer sur le territoire de la République française des
+opérations soumises au contrôle de l'Etat, en vertu de l'article L. 310-1, qu'après avoir obtenu un agrément administratif
+délivré conformément aux dispositions des deuxième et troisième alinéas de l'article L. 321-1 et un agrément spécial portant
+acceptation d'un mandataire général ; l'agrément est délivré par le ministre chargé de l'économie et des finances. Ces
+entreprises peuvent être, en outre, astreintes à constituer un cautionnement ou des garanties si leur pays a pris ou prenait
+des mesures analogues à l'égard d'entreprises françaises.
+
+Un décret en Conseil d'Etat, détermine les modalités d'application de l'alinéa précédent et fixe notamment les conditions que
+doit remplir le mandataire général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Transféré par**:
+
+	  - Loi n°94-5 1994-01-04 art. 1 I, II, art. 19 II JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 1 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Cité par**:
+
+	  - Arrêté du 3 septembre 1999 - art. 2 (Ab)
+	  - Arrêté du 3 septembre 1999 - art. 3 (V)
+	  - Décret n°2002-429 du 29 mars 2002 - art. 3 (Ab)
+	  - Code des assurances - art. A321-8 (V)
+	  - Code des assurances - art. A321-9 (V)
+	  - Code des assurances - art. Annexe art. A344-8 (Ab)
+	  - Code des assurances - art. L310-12-5 (M)
+	  - Code des assurances - art. L310-2 (V)
+	  - Code des assurances - art. L310-6-1 (Ab)
+	  - Code des assurances - art. L310-9-1 (Ab)
+	  - Code des assurances - art. L321-10 (V)
+	  - Code des assurances - art. L325-1 (VD)
+	  - Code des assurances - art. L326-20 (V)
+	  - Code des assurances - art. L364-1 (V)
+	  - Code des assurances - art. L411-4 (Ab)
+	  - Code des assurances - art. R321-10 (VT)
+	  - Code des assurances - art. R321-16 (V)
+	  - Code des assurances - art. R322-1 (V)
+	  - Code des assurances - art. R325-11 (V)
+	  - Code des assurances - art. R325-8 (V)
+	  - Code des assurances - art. R326-1 (V)
+	  - Code des assurances - art. R423-1 (V)
+	  - Code monétaire et financier - art. L612-20 (VT)
+	  - Code rural et de la pêche maritime - art. R752-39 (VD)
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L321-1 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. L322-2-3 (V)
+	  - Code des assurances - art. L321-2 (M)
+	  - Code des assurances - art. L321-2 (T)
+
+
+##### Section IV : Condition des agréments.
+
+###### Article L321-10
+
+Pour accorder ou refuser les agréments administratifs prévus aux articles L. 321-1, L. 321-7 et L. 321-9, le ministre, après
+avis de la commission compétente du Conseil national des assurances, prend en compte :
+
+- les moyens techniques et financiers dont la mise en oeuvre est proposée et leur adéquation au programme d'activité de
+l'entreprise ;
+
+- l'honorabilité et la qualification des personnes chargées de la conduire ;
+
+- la répartition de son capital et la qualité des actionnaires ou, pour les sociétés mentionnées à l'article L. 322-26-1, les
+modalités de constitution du fonds d'établissement.
+
+La liste des documents à produire à l'appui d'une demande d'agrément présentée conformément aux dispositions des articles L.
+321-1, L. 321-7, L. 321-8 et L. 321-9 du code des assurances est, pour chaque type d'agrément, fixée par arrêté du ministre
+de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Transféré par**:
+
+	  - Loi n°94-5 1994-01-04 art. 1 I, III, art. 20 JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 1 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 20 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
 
 	**Cité par**:
 
-	  - Code des assurances - art. R*127-2 (T)
-	  - Code des assurances - art. R*127-3 (T)
-	  - Code des assurances - art. R127-1 (V)
-	  - Code des assurances - art. R321-22 (T)
-	  - Code des assurances - art. R321-24 (T)
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 13 (V)
+	  - Code de la mutualité - art. L211-8 (VD)
+	  - Code des assurances - art. A321-10 (V)
+	  - Code des assurances - art. A321-11 (V)
+	  - Code des assurances - art. L321-8 (VT)
+	  - Code des assurances - art. L322-2 (V)
+	  - Code des assurances - art. L325-1 (VD)
+	  - Code des assurances - art. L329-1 (VD)
+	  - Code des assurances - art. R321-16 (VD)
+	  - Code des assurances - art. R321-17-1 (VT)
+	  - Code des assurances - art. R322-11-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L321-9 (M)
+	  - Code des assurances - art. L322-26-1 (T)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L321-2-1 (T)
+
+
+##### Section V : Dispositions particulières applicables aux territoires d'outre-mer et à Mayotte.
+
+###### Article L321-11
+
+Les dispositions du chapitre Ier du titre II du livre III, dans la rédaction du présent code antérieure à l'entrée en vigueur
+de la loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans
+les territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°91-716 1991-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Transféré par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 1 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L321-2-1 (T)
 
 
 #### Chapitre II : Règles de constitution et de fonctionnement
@@ -9856,27 +10710,10 @@ Les modalités d'application du présent article seront précisées par décret 
 
 ###### Article L322-1
 
-Le ministre chargé de l'économie et des finances informe la Commission des communautés européennes de toute prise de
-participation susceptible de conférer le contrôle d'une entreprise mentionnée à l'article L. 310-1 à une entreprise dont le
-siège social est situé dans un Etat non membre des communautés européennes. Le contrôle s'entend au sens des articles 355-1
-et 357-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
-
-Sur demande de l'autorité compétente des communautés européennes, dans les circonstances mentionnées au deuxième alinéa du II
-de l'article L. 321-1, le ministre s'oppose, pendant une durée de trois mois, à toute prise de participation qui aurait les
-conséquences mentionnées à l'alinéa précédent. Le délai de trois mois peut être prorogé sur décision du Conseil des
-communautés.
-
-Les dispositions de l'alinéa qui précède ne s'appliquent pas aux prises de participation susceptibles de conférer le contrôle
-d'une entreprise d'assurance mentionnée à l'article L. 310-1 à une entreprise déjà établie sur le territoire d'un Etat membre
-des communautés européennes.
+Toute entreprise française mentionnée à l'article L. 310-1 doit être constituée sous forme de société anonyme ou de société
+d'assurance mutuelle.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 355-1, art. 357-1
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L321-1 (M)
 
 	**Codifié par**:
 
@@ -9884,8 +10721,7 @@ des communautés européennes.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 1 XII *dispositions applicables à Mayotte*
-	  - TXT_ASSOCIE: Code des assurances - art. L328-15 (M)
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - TXT_SOURCE: Code des assurances - art. R*322-103 (V)
 	  - TXT_SOURCE: Code des assurances - art. R*322-67 (M)
 	  - TXT_SOURCE: Code des assurances - art. R*322-68 (M)
@@ -9893,14 +10729,17 @@ des communautés européennes.
 	  - TXT_SOURCE: Code des assurances - art. R*322-7 (M)
 	  - TXT_SOURCE: Code des assurances - art. R*322-70 (V)
 
-	**Créé par**:
+	**Transféré par**:
 
-	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
 
 	**Anciens textes**:
 
 	  - Code des assurances - art. L310-2 (T)
-	  - Code des assurances - art. L322-4-1 (M)
 
 	**Cité par**:
 
@@ -9917,11 +10756,12 @@ l'article L. 310-1, ni une entreprise de réassurance :
 
 a) Pour crime ;
 
-b) Pour violation des dispositions des articles 150, 151, 151-1, 177, 178, 179, 419 ou 420 du code pénal ;
+b) Pour violation des dispositions des articles 441-1, 151-1, 432-11 et 441-8, 433-2, 433-1, 433-3, 441-8, 52-1 du code
+pénal ;
 
 c) Pour vol, escroquerie ou abus de confiance ;
 
-d) Pour un délit puni par des lois spéciales, des peines prévues aux articles 405, 406 et 410 du code pénal ;
+d) Pour un délit puni par des lois spéciales, des peines prévues aux articles 313-1 à 313-3, 313-4, et 1 du code pénal ;
 
 e) Pour soustractions commises par dépositaires publics, extorsion de fonds ou valeurs, banqueroute, atteinte au crédit de
 l'Etat ou infraction à la législation sur les changes ;
@@ -9934,8 +10774,10 @@ investissements et la protection de l'épargne ;
 
 g) Pour recel des choses obtenues à la suite de ces infractions ;
 
-h) Ou par application des dispositions des articles 75 et 77 à 84 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité
-et au contrôle des établissements de crédit.
+h) Par application des dispositions des articles 75 et 77 à 84 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et
+au contrôle des établissements de crédit.
+
+i) ou par application de l'article L. 627 du code de la santé publique ou de l'article 415 du code des douanes.
 
 2° S'il a été condamné à une peine d'emprisonnement supérieure à deux mois en application de l'article 66 du décret du 30
 octobre 1935 modifié unifiant le droit en matière de chèque.
@@ -9956,6 +10798,9 @@ personnelle et les banqueroutes, a été prononcée à son égard ou s'il a ét�
 Ces interdictions peuvent également être prononcées par les tribunaux à l'encontre de toute personne condamnée pour
 infractions à la législation ou à la réglementation des assurances.
 
+Les dispositions du présent article sont applicables au mandataire général désigné par les entreprises opérant en régime
+d'établissement.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -9966,9 +10811,16 @@ infractions à la législation ou à la réglementation des assurances.
 	  - Loi n°67-563 du 13 juillet 1967 - art. 108 (Ab)
 	  - Loi n°72-6 du 3 janvier 1972 - art. 10 (M)
 	  - Loi n°83-1 du 3 janvier 1983 - art. 40 (M)
-	  - Loi n°84-46 1984-01-24 art. 75, art. 77 à art. 84
-	  - Loi n°85-98 1985-01-25 art. 185 à art. 195
-	  - Code pénal 150, 151, 151-1, 177, 178, 179, 405, 406, 410, 419, 420
+	  - Loi n°84-46 1984-01-24 art. 75, art. 77 à 84
+	  - Loi n°85-98 1985-01-25 art. 185 à 195
+	  - Code pénal - art. 313-4 (Ab)
+	  - Code pénal - art. 432-11 (M)
+	  - Code pénal - art. 433-2 (M)
+	  - Code pénal - art. 441-1 (M)
+	  - Code pénal 1, 52-1, 313-1 à 313-3, 313-4, 432-11, 433-2, 441-1, 441-1
+	  - Code des douanes - art. 415 (T)
+	  - Code du travail - art. L152-6 (M)
+	  - Code de la santé publique - art. L627 (M)
 	  - Code des assurances - art. L310-1 (M)
 	  - Décret n°1935-10-30 art. 66
 
@@ -9976,15 +10828,15 @@ infractions à la législation ou à la réglementation des assurances.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 date d'effet
-	  - SPEC_APPLI: Code des assurances - art. L322-3 (M)
-	  - TXT_ASSOCIE: Code des assurances L328-1 sanctions pénales
-
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 40 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 21 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 champ d'application à Mayotte
+	  - TXT_ASSOCIE: Code des assurances L328-1 sanctions pénales
 
 	**Cité par**:
 
@@ -10088,10 +10940,23 @@ activités de l'entreprise. Un décret en Conseil d'Etat fixe les modalités d'a
 	  - Code des assurances - art. L328-5 (V)
 
 
-###### Article L322-3
+###### Article L322-2-3
 
-Les dispositions de la présente section sont applicables dans les territoires d'outre-mer et dans la collectivité
-territoriale de Mayotte.
+Les entreprises soumises au contrôle de l'Etat par l'article L. 310-1 qui pratiquent l'assurance de protection juridique
+optent pour l'une des modalités de gestion suivantes :
+
+- les membres du personnel chargés de la gestion des sinistres de la branche " protection juridique " ou de conseils
+juridiques relatifs à cette gestion ne peuvent exercer en même temps une activité semblable dans une autre branche pratiquée
+par l'entreprise qui les emploie, ni dans une autre entreprise ayant avec cette dernière des liens financiers, commerciaux ou
+administratifs ;
+
+- les sinistres de la branche " protection juridique " sont confiés à une entreprise juridiquement distincte ;
+
+- le contrat d'assurance de protection juridique prévoit le droit pour l'assuré de confier la défense de ses intérêts, dès
+qu'il est en droit de réclamer l'intervention de l'assurance au titre de la police, à un avocat ou à une personne qualifiée
+de son choix. 
+
+Les modalités d'application du présent article seront précisées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -10101,17 +10966,158 @@ territoriale de Mayotte.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Transféré par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 2 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-3 (Ab)
+	  - Code des assurances - art. A321-3 (Ab)
+	  - Code des assurances - art. A362-2 (VD)
+	  - Code des assurances - art. R322-1 (VD)
+	  - Code des assurances - art. R322-1-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L321-6 (T)
+
+
+###### Article L322-3
+
+Les dispositions de la section I du chapitre II du titre II du livre III, dans la rédaction du présent code antérieure à la
+loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans les
+territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°91-716 1991-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - SPEC_APPLI: Code des assurances - art. L322-2 (M)
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 	**Cité par**:
 
 	  - Code des assurances - art. L322-3-1 (V)
 	  - Code monétaire et financier - art. L511-46 (Ab)
+
+
+##### Section II : Sociétés anomymes d'assurance et de capitalisation.
+
+###### Article L322-4
+
+Les prises, extensions ou cessions de participations directes ou indirectes dans les entreprises mentionnées au 1° de
+l'article L. 310-2 peuvent être soumises, afin de préserver les intérêts des assurés, à un régime de déclaration ou
+d'autorisation préalables, dans des conditions définies par décret en Conseil d'Etat. Ces dispositions s'appliquent également
+aux prises, extensions ou cessions de participations dans des entreprises ayant leur siège social en France dont l'activité
+principale consiste à prendre des participations dans des entreprises soumises au contrôle de l'Etat en application de
+l'article L. 310-1 et qui détiennent, directement ou indirectement, un pouvoir de contrôle effectif sur une ou plusieurs de
+ces entreprises.
+
+En cas de manquement aux prescriptions édictées par le décret en Conseil d'Etat visé au premier alinéa du présent article et
+sans préjudice des dispositions de l'article 356-4 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, à la
+demande du ministre chargé de l'économie et des finances, du procureur de la République, de la Commission de contrôle des
+assurances ou de tout actionnaire, le juge suspend, jusqu'à régularisation de la situation, l'exercice des droits de vote
+attachés aux actions ou parts sociales des entreprises visées au premier alinéa du présent article détenues irrégulièrement,
+directement ou indirectement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 356-4
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-537 du 24 juillet 1966 - art. 148 (Ab)
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 22 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. L328-5 (V)
+	  - Code des assurances - art. R*322-7 (M)
+	  - Code des assurances - art. R322-11-1 (VD)
+
+
+###### Article L322-4-1
+
+Le ministre chargé de l'économie et des finances informe la Commission des communautés européennes de toute prise de
+participation susceptible de conférer le contrôle d'une entreprise mentionnée à l'article L. 310-1 et visée au 1° de
+l'article L. 310-2 à une entreprise dont le siège social est situé dans un Etat non partie au traité sur l'Espace économique
+européen. Le contrôle s'entend au sens des articles 355-1 et 357-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+commerciales.
+
+Sur demande de l'autorité compétente des communautés européennes, dans les circonstances mentionnées au deuxième alinéa de
+l'article L. 321-2, le ministre s'oppose, pendant une durée de trois mois, à toute prise de participation qui aurait les
+conséquences mentionnées à l'alinéa précédent. Le délai de trois mois peut être prorogé sur décision du Conseil des
+communautés.
+
+Les dispositions de l'alinéa qui précède ne s'appliquent pas aux prises de participation susceptibles de conférer le contrôle
+d'une entreprise d'assurance mentionnée à l'article L. 310-1 à une entreprise déjà établie sur le territoire d'un Etat partie
+au traité sur l'Espace économique européen.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 355-1, art. 357-1
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L321-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Transféré par**:
+
+	  - Loi n°94-5 1994-01-04 art. 2 II, art. 22 II, III JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 2 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 22 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L322-1 (T)
+
+	**Anciens textes**:
+
+	  - Code des assurances L332-1
 
 
 ##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance
@@ -10609,6 +11615,36 @@ associations reconnues d'utilité publique.
 	  - Loi n°97-277 du 25 mars 1997 - art. 11 (Ab)
 
 
+###### Article L322-26-6
+
+Les sociétés mutuelles et leurs unions ne peuvent accepter de risques en réassurance que dans les conditions fixées par le
+décret prévu à l'article L. 310-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Transféré par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 4 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L310-2 (T)
+	  - Code des assurances L310-2 II (dernière phrase)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-7 (M)
+
+
 ##### Section VI : Sociétés ou caisses d'assurances et de réassurances mutuelles agricoles
 
 ##### Paragraphe 1 : Dispositions générales.
@@ -10698,10 +11734,24 @@ de rachat ou le versement d'avances sur contrats.
 	  - Décret n°1938-06-14 art. 10
 
 
-###### Article L323-2
+###### Article L323-1-1
 
-Les dispositions de la présente section sont applicables dans les territoires d'outre-mer et dans la collectivité
-territoriale de Mayotte.
+Lorsque la situation financière d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1 est telle que
+les intérêts des assurés et bénéficiaires des contrats sont compromis ou susceptibles de l'être, la commission de contrôle
+des assurances prend les mesures d'urgence nécessaires à la sauvegarde de l'intérêt des assurés.
+
+Elle peut, à ce titre, mettre l'entreprise sous surveillance spéciale.
+
+Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie des actifs de l'entreprise ou désigner un
+administrateur provisoire à qui sont transférés les pouvoirs nécessaires à l'administration et à la direction de
+l'entreprise. Cette désignation est faite soit à la demande des dirigeants lorsqu'ils estiment ne plus être en mesure
+d'exercer normalement leurs fonctions, soit à l'initiative de la commission lorsque la gestion de l'établissement ne peut
+plus être assurée dans des conditions normales, ou lorsque a été prise la sanction prévue au 4° de l'article L. 310-18.
+
+Les mesures mentionnées au troisième alinéa sont levées ou confirmées par la commission, après procédure contradictoire, dans
+un délai prévu par décret en Conseil d'Etat.
+
+Ce même décret précise les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -10711,11 +11761,60 @@ territoriale de Mayotte.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 23 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-18 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L310-28 (V)
+	  - Code des assurances - art. L323-8 (V)
+	  - Code des assurances - art. L363-2 (VD)
+	  - Code des assurances - art. L370-4 (V)
+	  - Code des assurances - art. R321-16 (V)
+	  - Code des assurances - art. R321-22 (V)
+	  - Code des assurances - art. R321-26 (V)
+	  - Code des assurances - art. R323-1 (V)
+	  - Code des assurances - art. R323-10-4 (VT)
+	  - Code des assurances - art. R323-10-5 (VT)
+	  - Code des assurances - art. R323-10-6 (VT)
+	  - Code des assurances - art. R323-2 (V)
+	  - Code des assurances - art. R323-3 (V)
+	  - Code des assurances - art. R323-4 (VT)
+	  - Code des assurances - art. R323-5 (VT)
+	  - Code des assurances - art. R325-10 (V)
+
+
+###### Article L323-2
+
+Les dispositions de la section I du chapitre III du titre II du livre III, dans la rédaction du présent code antérieur à la
+loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans les
+territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°91-716 1991-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 
 #### Chapitre IV : Transfert de portefeuille
@@ -10724,20 +11823,41 @@ territoriale de Mayotte.
 
 ###### Article L324-1
 
-Les entreprises pratiquant les opérations mentionnées à l'article L. 310-1 peuvent, avec l'approbation de l'autorité
-administrative, transférer en totalité ou en partie leur portefeuille de contrats, avec ses droits et obligations, à une ou
-plusieurs entreprises agréées.
+Les entreprises d'assurance françaises et leurs succursales mentionnées au 1° de l'article L. 310-2 ainsi que les succursales
+françaises d'entreprises d'assurance mentionnées aux 3° et 4° du même article peuvent être autorisées, dans les conditions
+définies au présent article, à transférer tout ou partie de leur portefeuille de contrats, couvrant des risques ou des
+engagements situés sur le territoire d'un Etat membre des Communautés européennes avec ses droits et obligations, à une ou
+plusieurs des entreprises d'assurance françaises ou de leurs succursales mentionnées au 1° de l'article L. 310-2, à une ou
+plusieurs entreprises dont l'Etat d'origine est membre des Communautés européennes ou de leurs succursales établies sur le
+territoire de celles-ci ou à une ou plusieurs entreprises d'assurance établies dans l'Etat du risque ou de l'engagement et
+agréées dans cet Etat. Le présent article ne s'applique pas aux transferts de portefeuilles de contrats souscrits en libre
+prestation de services par les entreprises agréées conformément aux dispositions de l'article L. 321-7.
 
 La demande de transfert est portée à la connaissance des créanciers par un avis publié au Journal officiel, qui leur impartit
-un délai de trois mois au moins pour présenter leurs observations.
+un délai de deux mois pour présenter leurs observations. Le ministre chargé de l'économie et des finances approuve le
+transfert par arrêté s'il lui apparaît que le transfert ne préjudicie pas aux intérêts des créanciers et des assurés.
 
-Les assurés disposent d'un délai d'un mois à compter de la publication de cet avis au Journal officiel pour résilier leur
-contrat. Sous cette réserve, l'autorité administrative approuve le transfert par arrêté s'il lui apparaît que le transfert
-est conforme aux intérêts des créanciers et des assurés. Pour les transferts concernant les entreprises d'assurance vie ou de
-capitalisation, cette approbation est, en outre, fondée sur les données de l'état prévu à l'article L. 344-1. Cette
-approbation rend le transfert opposable aux assurés, souscripteurs et bénéficiaires de contrats et aux créanciers, et écarte
-l'application du droit de surenchère prévu par l'article 5 de la loi du 17 mars 1909, relative à la vente et au nantissement
-des fonds de commerce.
+Le ministre chargé de l'économie et des finances n'approuve le transfert que si les autorités de contrôle de l'Etat
+d'établissement de l'entreprise cessionnaire attestent que celle-ci possède, compte tenu du transfert, la marge de
+solvabilité nécessaire. Toutefois, lorsque l'Etat d'origine de l'entreprise cessionnaire est partie à l'accord sur l'Espace
+économique européen, l'attestation mentionnée au présent alinéa est donnée par les autorités de contrôle de cet Etat.
+
+Lorsque le cédant est une succursale située dans un Etat membre des Communautés européennes autre que la France, le ministre
+chargé de l'économie et des finances recueille préalablement l'avis de l'autorité de contrôle de l'Etat où est située la
+succursale.
+
+Lorsque les risques ou les engagements transférés sont situés dans un Etat membre des Communautés européennes autre que la
+France, le ministre chargé de l'économie et des finances recueille préalablement l'accord des autorités de contrôle de l'Etat
+du risque ou de l'engagement.
+
+Pour les transferts concernant les entreprises d'assurance vie ou de capitalisation, cette approbation est, en outre, fondée
+sur les données de l'état prévues à l'article L. 344-1.
+
+L'approbation rend le transfert opposable aux assurés, souscripteurs et bénéficiaires de contrat ainsi qu'aux créanciers, et
+écarte l'application du droit de surenchère prévu par l'article 5 de la loi du 17 mars 1909 relative à la vente et au
+nantissement des fonds de commerce. Le transfert est opposable à partir de la date de publication au Journal officiel de
+l'arrêté mentionné au deuxième alinéa du présent article. Les assurés ont la faculté de résilier le contrat dans le délai
+d'un mois suivant la date de cette publication.
 
 **Liens relatifs à cet article**
 
@@ -10793,21 +11913,49 @@ des fonds de commerce.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 59 *champ d'application territorial*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - TXT_SOURCE: Arrêté du 30 décembre 1994
 	  - TXT_SOURCE: Arrêté du 30 décembre 1994 - art. 1 (V)
 	  - TXT_SOURCE: Code des assurances - art. R*324-1 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 25 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 57 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 24 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L321-7 (V)
 	  - Code des assurances - art. L344-1 (V)
 	  - Loi n°1909-03-17 art. 5
+
+
+###### Article L324-1-1
+
+Pour l'application des dispositions de l'article L. 324-1, les mutuelles régies par le code de la mutualité et les
+institutions de prévoyance mentionnées à l'article L. 922-12 du code de la sécurité sociale et à l'article L. 727-2 du code
+rural sont assimilées à des entreprises d'assurance agréées conformément aux dispositions de l'article L. 321-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 25 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L922-12 (M)
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L324-1 (M)
+	  - Code rural L727-2
 
 
 ###### Article L324-2
@@ -10878,8 +12026,9 @@ de scission ne comportant pas de transfert de portefeuille de contrats, à l'ens
 
 ###### Article L324-4
 
-Les dispositions de la présente section sont applicables dans les territoires d'outre-mer et dans la collectivité
-territoriale de Mayotte.
+Les dispositions de la section I du chapitre IV du titre II du livre III, dans la rédaction du présent code applicable
+antérieurement à la loi n° 89-1014 du 31 décembre 1989 portant adaptation du code des assurances à l'ouverture du marché
+européen, sont applicables dans les territoires d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -10887,13 +12036,21 @@ territoriale de Mayotte.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Cite**:
+
+	  - Loi n°89-1014 1989-12-31
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ##### Section III : Règles relatives à l'affectation comptable des actifs transférés avec un portefeuille de contrats.
@@ -10903,9 +12060,8 @@ territoriale de Mayotte.
 Les actifs transférés avec un portefeuille de contrats par une entreprise d'assurance vie ou de capitalisation sont affectés
 à une section comptable distincte du bilan de l'entreprise cessionnaire des contrats.
 
-Pour le calcul de la participation aux bénéfices afférents à ces actifs prévue aux articles L. 132-29 et L. 150-3, il n'est
-pas tenu compte de l'importance respective des fonds propres et des engagements pris envers les assurés figurant au bilan de
-l'entreprise.
+Pour le calcul de la participation aux bénéfices afférents à ces actifs prévue à l'article L. 331-3, il n'est pas tenu compte
+de l'importance respective des fonds propres et des engagements pris envers les assurés figurant au bilan de l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -10915,11 +12071,11 @@ l'entreprise.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art 59 *champ d'application territorial*, art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 25 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 4 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -10932,8 +12088,7 @@ l'entreprise.
 
 	**Cite**:
 
-	  - Code des assurances - art. L132-29 (M)
-	  - Code des assurances - art. L150-3 (M)
+	  - Code des assurances - art. L331-3 (V)
 
 
 #### Chapitre V : Retrait de l'agrément administratif
@@ -10942,11 +12097,11 @@ l'entreprise.
 
 ###### Article L325-1
 
-Sans préjudice des dispositions de l'article L. 310-18, l'agrément administratif prévu à l'article L. 321-1 peut être retiré
-par le ministre chargé de l'économie et des finances, sur avis conforme de la commission des entreprises d'assurance
-mentionnée à l'article L. 411-4 en cas d'absence prolongée d'activité, de rupture de l'équilibre entre les moyens financiers
-de l'entreprise et son activité ou, si l'intérêt général l'exige, de modification substantielle de la composition du capital
-social ou des organes de direction.
+Sans préjudice des dispositions de l'article L. 310-18, l'agrément administratif prévu aux articles L. 321-1, L. 321-7 et L.
+321-9 peut être retiré par le ministre chargé de l'économie et des finances, sur avis conforme de la commission des
+entreprises d'assurance mentionnée à l'article L. 411-4 en cas d'absence prolongée d'activité, de rupture de l'équilibre
+entre les moyens financiers de l'entreprise et son activité ou, si l'intérêt général l'exige, de modification substantielle
+de la composition du capital social ou des organes de direction.
 
 **Liens relatifs à cet article**
 
@@ -10956,15 +12111,15 @@ social ou des organes de direction.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - SPEC_APPLI: Code des assurances - art. L325-2 (Ab)
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
 	  - TXT_SOURCE: Code des assurances - art. R*325-15 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*325-16 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*325-18 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 23 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 25 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -10997,92 +12152,26 @@ social ou des organes de direction.
 
 	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. L321-1 (M)
-
-
-##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.
-
-###### Article L325-2
-
-Sont applicables à la Nouvelle-Calédonie, à la Polynésie française et à Saint-Pierre-et-Miquelon les dispositions de
-l'article L. 325-1.
-
-Les dispositions précitées entrent en vigueur, dans le territoire de Wallis et Futuna, le premier jour du trimestre civil
-suivant la publication de l'arrêté rendant exécutoire la délibération édictant une obligation d'assurance de la
-responsabilité civile en matière de circulation automobile.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-948 du 22 décembre 1966 - art. 38, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - SPEC_APPLI: Code des assurances - art. L325-1 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 23 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L325-1 (M)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L321-9 (M)
 
 
 #### Chapitre VI : Liquidation.
 
 ##### Section I : Règles générales.
 
-###### Article L326-1
-
-Le redressement judiciaire institué par la loi n° 85-98 du 25 janvier 1985 précitée ne peut être ouvert à l'égard d'une
-entreprise soumise aux dispositions du présent livre qu'à la requête de la commission de contrôle des assurances ; le
-tribunal peut également se saisir d'office ou être saisi par le procureur de la République d'une demande d'ouverture de cette
-procédure après avis conforme de la commission de contrôle des assurances.
-
-Le président du tribunal ne peut être saisi d'une demande d'ouverture du règlement amiable institué par la loi n° 84-148 du
-1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises à l'égard d'une entreprise
-susmentionnée, qu'après avis conforme de la commission de contrôle des assurances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°84-148 1984-03-01
-	  - Loi n°85-98 1985-01-25
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 33 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L310-25 (M)
-	  - Code des assurances L310-25 (1ère version)
-
-
 ###### Article L326-2
 
-L'arrêté prononçant le retrait total de l'agrément administratif emporte de plein droit, à dater de sa publication au journal
-officiel, s'il concerne une entreprise française, la dissolution de l'entreprise ou, s'il concerne une entreprise étrangère,
-la liquidation de l'actif et du passif du bilan spécial de ses opérations en France.
+La décision du ministre de l'économie et des finances ou de la commission de contrôle des assurances prononçant le retrait
+total de l'agrément administratif emporte de plein droit, à dater de sa publication au journal officiel, si elle concerne une
+entreprise française, la dissolution de l'entreprise ou, si elle concerne une entreprise étrangère, la liquidation de l'actif
+et du passif du bilan spécial de ses opérations en France.
 
-Dans les deux cas, la liquidation est effectuée par un mandataire de justice désigné sur requête du ministre de l'économie et
-des finances par ordonnance rendue par le président du tribunal compétent. Ce magistrat commet par la même ordonnance un juge
-chargé de contrôler les opérations de liquidation ; ce juge est assisté, dans l'exercice de sa mission, par un ou plusieurs
-commissaires-contrôleurs désignés par le ministre de l'économie et des finances. Le juge ou le liquidateur sont remplacés
-dans les mêmes formes.
+Dans les deux cas, la liquidation est effectuée par un mandataire de justice désigné sur requête de la commission de contrôle
+des assurances par ordonnance rendue par le président du tribunal compétent. Ce magistrat commet par la même ordonnance un
+juge chargé de contrôler les opérations de liquidation ; ce juge est assisté, dans l'exercice de sa mission, par un ou
+plusieurs commissaires-contrôleurs désignés par la commission de contrôle des assurances. Le juge ou le liquidateur sont
+remplacés dans les mêmes formes.
 
 Les ordonnances relatives à la nomination ou au remplacement du juge-commissaire et du liquidateur ne peuvent être frappés ni
 d'opposition, ni d'appel, ni de recours en cassation.
@@ -11092,6 +12181,16 @@ d'opposition, ni d'appel, ni de recours en cassation.
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 33 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 4 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - TXT_ASSOCIE: Code des assurances - art. L328-13 (M)
 
 	**Cité par**:
 
@@ -11104,15 +12203,6 @@ d'opposition, ni d'appel, ni de recours en cassation.
 	  - Code des assurances - art. R326-1 (VD)
 	  - Code des assurances - art. R421-24-1 (V)
 	  - Code des assurances - art. R421-24-4 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. L326-7 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-13 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 18
 
 
 ###### Article L326-3
@@ -11140,9 +12230,10 @@ procéder au remplacement du liquidateur par ordonnance non susceptible de recou
 
 ###### Article L326-4
 
-Dans les dix jours de la nomination du liquidateur et à la diligence de celui-ci, l'arrêté portant retrait total d'agrément
-et l'ordonnance du président du tribunal sont insérés sous forme d'extraits ou d'avis dans deux journaux habilités à recevoir
-les annonces légales dans le département du siège social.
+Dans les dix jours de la nomination du liquidateur et à la diligence de celui-ci, la décision du ministre de l'économie et
+des finances ou de la commission de contrôle des assurances prononçant le retrait total d'agrément et l'ordonnance du
+président du tribunal sont insérées sous forme d'extraits ou d'avis dans deux journaux habilités à recevoir les annonces
+légales dans le département du siège social.
 
 Les créanciers connus qui, dans le mois de cette publication, n'ont pas remis au liquidateur, contre récépissé, leurs titres
 avec un bordereau indicatif des pièces remises et des sommes réclamées par eux, peuvent être avertis du retrait d'agrément
@@ -11154,19 +12245,20 @@ par lettre du liquidateur et invités à remettre entre ses mains leurs titres d
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 33 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 4 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
 	**Cité par**:
 
 	  - Code des assurances - art. L310-25 (VD)
 	  - Code des assurances - art. L326-13 (M)
 	  - Code des assurances - art. R326-1 (VD)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. L326-13 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 20
 
 
 ###### Article L326-5
@@ -11408,7 +12500,7 @@ prévues par la loi n° 85-98 du 25 janvier 1985 précitée.
 
 ###### Article L326-12
 
-En cas de retrait de l'agrément administratif accordé à une entreprise mentionnée au 5° et au 7° de l'article L. 310-1, tous
+En cas de retrait de l'agrément administratif accordé à une entreprise mentionnée au 2° et au 3° de l'article L. 310-1, tous
 les contrats souscrits par elle cessent de plein droit d'avoir effet le quarantième jour à midi, à compter de la publication
 au Journal officiel de la décision du ministre de l'économie et des finances ou de la commission de contrôle des assurances
 prononçant le retrait. Les primes ou cotisations échues avant la date de la décision du ministre de l'économie et des
@@ -11427,10 +12519,14 @@ dérogé aux dispositions prévues au précédent alinéa.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - TXT_SOURCE: Code des assurances - art. R*326-2 (V)
+
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 33 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 36 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 8 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -11444,17 +12540,13 @@ dérogé aux dispositions prévues au précédent alinéa.
 
 	  - Code des assurances - art. L310-1 (M)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*326-2 (V)
-
 
 ###### Article L326-13
 
 Après la publication au Journal officiel de la décision du ministre de l'économie et des finances ou de la commission de
-contrôle des assurances prononçant le retrait de l'agrément administratif accordé à une entreprise mentionnée aux 1°, 2°, 3°,
-4° ou 6° de l'article L. 310-1, les contrats souscrits par l'entreprise demeurent régis par leurs conditions générales et
-particulières tant que l'arrêté du ministre de l'économie et des finances prévu à l'alinéa suivant n'a pas été publié au
+contrôle des assurances prononçant le retrait de l'agrément administratif accordé à une entreprise mentionnée au 1° et au
+dernier alinéa de l'article L. 310-1, les contrats souscrits par l'entreprise demeurent régis par leurs conditions générales
+et particulières tant que l'arrêté du ministre de l'économie et des finances prévu à l'alinéa suivant n'a pas été publié au
 Journal officiel, mais le liquidateur peut, avec l'approbation du juge-commissaire, surseoir au paiement des sinistres, des
 échéances et des valeurs de rachat. Les primes encaissées par le liquidateur sont versées à un compte spécial qui fait
 l'objet d'une liquidation distincte.
@@ -11477,14 +12569,14 @@ prévu au premier alinéa de l'article L. 326-4, ne court qu'à compter de la pu
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - SPEC_APPLI: Code des assurances - art. L326-4 (M)
 	  - SPEC_APPLI: Code des assurances - art. L326-5 (Ab)
 	  - SPEC_APPLI: Code des assurances - art. L326-9 (V)
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 33 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 8 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -11531,8 +12623,9 @@ incriminée devait avoir pour effet de diminuer cette garantie.
 
 ###### Article L326-15
 
-Les dispositions de la présente section sont applicables dans les territoires d'outre-mer et dans la collectivité
-territoriale de Mayotte.
+Les dispositions de la section I du chapitre VI du titre II du livre III, dans la rédaction du présent code antérieure à la
+loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans les
+territoires d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -11540,13 +12633,21 @@ territoriale de Mayotte.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Cite**:
+
+	  - Loi n°91-716 1991-07-26
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.
@@ -11646,14 +12747,8 @@ celle-ci l'exclusivité de leurs apports de contrats.
 
 ###### Article L326-19
 
-Sont applicables à la Nouvelle-Calédonie, à la Polynésie française et à Saint-Pierre-et-Miquelon les dispositions des
-articles L. 326-17 à L. 326-18.
-
-Les dispositions précitées entrent en vigueur, dans le territoire de Wallis et Futuna, le premier jour du trimestre civil
-suivant la publication de l'arrêté rendant exécutoire la délibération édictant une obligation d'assurance de la
-responsabilité civile en matière de circulation automobile.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+Les dispositions des articles L. 326-17 et L. 326-18, dans la rédaction du présent code antérieure à la loi n° 91-716 du 26
+juillet 1991 précitée, sont applicables dans les territoires d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -11661,20 +12756,26 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	  - Décret n°76-666 1976-07-16
 
+	**Cite**:
+
+	  - Loi n°91-716 1991-07-26
+	  - Code des assurances - art. L326-17 (M)
+	  - Code des assurances - art. L326-18 (Ab)
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - SPEC_APPLI: Code des assurances - art. L326-16 (Ab)
 	  - SPEC_APPLI: Code des assurances - art. L326-17 (Ab)
 	  - SPEC_APPLI: Code des assurances - art. L326-18 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 48 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code des assurances L326-17 à L326-18
+	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
 
 
 #### Chapitre VII : Privilèges.
@@ -11712,11 +12813,13 @@ général institué au premier alinéa de l'article L. 327-2.
 
 L'actif mobilier des entreprises françaises soumises au contrôle de l'Etat par l'article L. 310-1 est affecté par un
 privilège général au règlement de leurs engagements envers les assurés et bénéficiaires de contrats. Ce privilège prend rang
-après le 6° de l'article 2101 du Code civil.
+après le 6° de l'article 2101 du code civil.
 
-Pour les entreprises étrangères, l'actif mobilier représentant les provisions techniques et les cautionnements est affecté
-par un privilège spécial au règlement de leurs opérations d'assurances directes pour les contrats souscrits ou exécutés sur
-le territoire de la République française.
+Il en est de même de l'actif immobilier. Ce privilège prend rang après le 2° de l'article 2104 du code civil.
+
+Pour les entreprises étrangères mentionnées aux 3° et 4° de l'article L. 310-2, les actifs mobiliers et immobiliers
+représentant les provisions techniques et les cautionnements sont affectés par un privilège spécial au règlement de leurs
+opérations d'assurance directes pour les contrats souscrits ou exécutés sur le territoire de la République française.
 
 **Liens relatifs à cet article**
 
@@ -11724,15 +12827,23 @@ le territoire de la République française.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 2101 (M)
-	  - Code des assurances - art. L310-1 (M)
+	  - Loi n°94-5 1994-01-04 art. 26 I, II JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 26 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - TXT_ASSOCIE: Code des assurances - art. L327-1 (V)
 	  - TXT_ASSOCIE: Code des assurances - art. L327-5 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 2101 (M)
+	  - Code civil - art. 2104 (M)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-2 (M)
 
 	**Cité par**:
 
@@ -11743,26 +12854,28 @@ le territoire de la République française.
 	  - Code des assurances - art. R322-78 (VD)
 	  - Code des assurances - art. R322-8 (VD)
 
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 14
-
 
 ###### Article L327-3
 
-Lorsque les actifs affectés par une entreprise à la représentation des réserves ou provisions qu'elle est tenue de constituer
-sont insuffisants ou lorsque la situation financière de cette entreprise est telle que les intérêts des assurés et
-bénéficiaires de contrats sont compromis, les immeubles faisant partie du patrimoine de ladite entreprise peuvent, dans les
-conditions fixées par décret en Conseil d'Etat, être grevés d'une hypothèque inscrite à la requête de l'Etat. Cette
-hypothèque est obligatoirement prise dans les conditions fixées par le même décret lorsque l'entreprise fait l'objet d'un
-retrait de l'agrément administratif par l'autorité de contrôle française ou par l'autorité de contrôle du lieu de son siège
-social.
+Lorsque les actifs d'une entreprise d'assurance sont insuffisants pour assurer la représentation de ses engagements
+réglementés, ou lorsque la situation financière de cette entreprise est telle que les intérêts des assurés et bénéficiaires
+de contrats sont susceptibles d'être compromis à brefs délais, les immeubles faisant partie du patrimoine de l'entreprise
+peuvent être grevés d'une hypothèque inscrite à la requête de la commission de contrôle des assurances. Lorsque l'entreprise
+fait l'objet d'un retrait d'agrément, cette hypothèque est prise de plein droit en date du retrait d'agrément.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 26 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -11772,18 +12885,14 @@ social.
 	  - Code des assurances - art. R343-1 (VD)
 	  - Code des assurances - art. R352-34-1 (VD)
 
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 14 bis
-
 
 ###### Article L327-4
 
-Pour les entreprises pratiquant les opérations mentionnées aux 1°, 2°, 3°, ou 6° de l'article L. 310-1, la créance garantie
-par le privilège ou l'hypothèque légale est arrêtée au montant de la provision mathématique diminuée, s'il y a lieu, des
-avances sur polices, y compris les intérêts, et augmentée, le cas échéant, du montant du compte individuel de participation
-aux bénéfices, ouvert au nom de l'assuré, lorsque ces bénéfices ne sont pas payables immédiatement après la liquidation de
-l'exercice qui les a produits.
+Pour les entreprises pratiquant les opérations mentionnées au 1° et au dernier alinéa de l'article L. 310-1, la créance
+garantie par le privilège ou l'hypothèque légale est arrêtée au montant de la provision mathématique diminuée, s'il y a lieu,
+des avances sur polices, y compris les intérêts, et augmentée, le cas échéant, du montant du compte individuel de
+participation aux bénéfices, ouvert au nom de l'assuré, lorsque ces bénéfices ne sont pas payables immédiatement après la
+liquidation de l'exercice qui les a produits.
 
 Pour les autres assurances, la créance garantie est arrêtée, en ce qui concerne les assurances directes, au montant des
 indemnités dues à la suite de sinistres et au montant des portions de primes payées d'avance ou provisions de primes
@@ -11791,13 +12900,22 @@ correspondant à la période pour laquelle le risque n'a pas couru, les créance
 les indemnités dues sous forme de rentes, elle est arrêtée au montant de la provision mathématique.
 
 Pour les opérations de réassurance de toute nature, elle est arrêtée au montant des provisions correspondantes telles
-qu'elles sont définies par le décret en Conseil d'Etat prévu à l'article L. 310-3.
+qu'elles sont définies par le décret en Conseil d'Etat prévu à l'article L. 310-7.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 4 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 8 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -11806,15 +12924,7 @@ qu'elles sont définies par le décret en Conseil d'Etat prévu à l'article L. 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-3 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances R327-1
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 15
+	  - Code des assurances - art. L310-7 (M)
 
 
 ###### Article L327-5
@@ -11845,8 +12955,9 @@ contrats exécutés sur le territoire de la République française.
 
 ###### Article L327-6
 
-Les dispositions du présent chapitre sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale
-de Mayotte.
+Les dispositions du chapitre VII du titre II du livre III, dans la rédaction du présent code antérieure à la loi n° 91-716 du
+26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans les territoires d'outre-
+mer.
 
 **Liens relatifs à cet article**
 
@@ -11854,21 +12965,29 @@ de Mayotte.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Cite**:
+
+	  - Loi n°91-716 1991-07-26
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 #### Chapitre VIII : Sanctions.
 
 ###### Article L328-1
 
-Les infractions aux dispositions de l'article L. 322-2 seront punies d'un emprisonnement de deux ans et d'une amende de
-40.000 F, ou de l'une de ces deux peines seulement [*sanctions*].
+La méconnaissance des incapacités prévues à l'article L. 322-2 est punie d'un emprisonnement de trois ans et d'une amende de
+500 000 F [*sanctions*].
 
 **Liens relatifs à cet article**
 
@@ -11876,13 +12995,13 @@ Les infractions aux dispositions de l'article L. 322-2 seront punies d'un empris
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cite**:
 
@@ -11893,30 +13012,15 @@ Les infractions aux dispositions de l'article L. 322-2 seront punies d'un empris
 	  - Code des assurances - art. L328-2 (V)
 
 
-###### Article L328-3
+###### Article L328-2
 
-Si la situation financière de l'entreprise dissoute à la suite d'un retrait total de l'agrément administratif est telle que
-celle-ci n'offre plus de garanties suffisantes pour l'exécution de ses engagements, seront punis des peines de la banqueroute
-simple le président, les administrateurs, directeurs généraux, membres du directoire, directeurs, gérants ou liquidateurs de
-l'entreprise quelle qu'en soit la forme et d'une manière générale toute personne ayant directement ou par personne interposée
-administré, géré ou liquidé l'entreprise sous couvert ou aux lieu et place de ses représentants légaux, qui ont, en cette
-qualité, et de mauvaise foi :
+Quiconque a été condamné en application de l'article L. 328-1 ne peut être employé à quelque titre que ce soit dans
+l'entreprise d'assurance dans laquelle il exerçait des fonctions de direction, de gestion, ou dont il était membre du conseil
+d'administration ou de surveillance ou dont il avait la signature, ni dans les filiales de cette entreprise soumises au
+contrôle de l'Etat en vertu de l'article L. 310-1.
 
-1° Soit consommé des sommes élevées appartenant à l'entreprise en faisant des opérations de pur hasard ou fictives ;
-
-2° Soit, dans l'intention de retarder le retrait d'agrément de l'entreprise, employé des moyens ruineux pour se procurer des
-fonds ;
-
-3° Soit, après le retrait d'agrément de l'entreprise, payé ou fait payer irrégulièrement un créancier ;
-
-4° Soit fait contracter par l'entreprise, pour le compte d'autrui, sans qu'elle reçoive de valeurs en échange, des
-engagements jugés trop importants eu égard à sa situation lorsqu'elles les a contractés ;
-
-5° Soit tenu ou fait tenir, ou laissé tenir irrégulièrement la comptabilité de l'entreprise ;
-
-6° Soit, en vue de soustraire tout ou partie de leur patrimoine aux poursuites de l'entreprise en liquidation ou à celles des
-associés ou créanciers sociaux, détourné ou dissimulé, tenté de détourner ou de dissimuler une partie de leurs biens ou qui
-se sont frauduleusement reconnus débiteurs de sommes qu'ils ne devaient pas.
+Toute personne qui méconnaît l'interdiction prévue à l'alinéa précédent et son employeur sont punis des peines [*sanctions*]
+prévues à l'article L. 328-1.
 
 **Liens relatifs à cet article**
 
@@ -11924,67 +13028,98 @@ se sont frauduleusement reconnus débiteurs de sommes qu'ils ne devaient pas.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - TXT_ASSOCIE: Code des assurances - art. L310-10 (V)
+	  - TXT_ASSOCIE: Code des assurances - art. L321-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L328-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L310-26 (V)
+
+
+###### Article L328-3
+
+Les dispositions de l'article 433, des 2°, 3° et 4° de l'article 437, des articles 439, 455 et 458 de la loi n° 66-537 du 24
+juillet 1966 sur les sociétés commerciales sont applicables aux entreprises d'assurance, même lorsqu'elles n'en relèvent pas
+de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 433, art. 437, art. 439, art. 455, art. 458
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - TXT_ASSOCIE: Code des assurances - art. L328-4 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. L328-7 (Ab)
+	  - TXT_ASSOCIE: Code des assurances L328-4, L328-7, L328-12 *sanctions*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
 	**Cité par**:
 
 	  - Code des assurances - art. L328-12 (Ab)
 	  - Code des assurances - art. L328-4 (M)
 	  - Code des assurances - art. L328-7 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. L328-4 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-7 (Ab)
-	  - SPEC_APPLI: Code des assurances - art. L328-9 (Ab)
-	  - TXT_ASSOCIE: Code des assurances L328-4, L328-7, L328-12 *sanctions*
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 38
 
 
 ###### Article L328-4
 
-Seront punies des peines [*sanctions*] de la banqueroute frauduleuse les personnes mentionnées à l'article L. 328-3 qui ont
-frauduleusement :
-
-1° Ou soustrait des livres de l'entreprise ;
-
-2° Ou détourné ou dissimulé une partie de son actif ;
-
-3° Ou reconnu l'entreprise débitrice de sommes qu'elle ne devait pas, soit dans les écritures, soit par des actes publics ou
-des engagements sous signature privée, soit dans le bilan.
+Les articles L. 626-2 à L. 626-5, L. 626-12 et L. 626-16 à L. 626-19 du code de commerce sont applicables à toute personne
+ayant directement ou indirectement le pouvoir d'engager une entreprise d'assurance, y compris notamment au mandataire général
+d'une entreprise étrangère d'assurance établie sur le territoire de la République française, même lorsqu'ils n'en relèvent
+pas de plein droit.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41
+	  - TXT_ASSOCIE: Code des assurances - art. L328-3 (M)
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code de commerce - art. L626-12 (V)
+	  - Code de commerce - art. L626-16 (V)
+	  - Code de commerce - art. L626-2 (V)
 
 	**Cité par**:
 
 	  - Code des assurances - art. L328-12 (Ab)
 	  - Code des assurances - art. L328-7 (Ab)
 
-	**Cite**:
-
-	  - Code des assurances - art. L328-3 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. L328-3 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-7 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-9 (Ab)
-	  - TXT_ASSOCIE: Code des assurances L328-7, L328-9, L328-12 *sanctions*
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 38 A
-
 
 ###### Article L328-5
 
-Le droit d'action ouvert à l'administrateur ou au liquidateur par l'article 211 de la loi n° 85-98 du 25 janvier 1985
-précitée est exercé par le liquidateur qui doit se conformer aux dispositions de l'article 212 de ladite loi.
+Toute infraction aux dispositions des articles L. 322-1, L. 322-2-2, L. 322-4 et L. 323-1 est punie des peines [*sanctions*]
+mentionnées à l'article L. 310-26.
 
 **Liens relatifs à cet article**
 
@@ -11992,261 +13127,26 @@ précitée est exercé par le liquidateur qui doit se conformer aux dispositions
 
 	  - Décret n°76-666 1976-07-16
 
-	**Cite**:
+	**Liens**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 211 (Ab)
-	  - Loi n°85-98 du 25 janvier 1985 - art. 212 (Ab)
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - TXT_ASSOCIE: Code des assurances - art. L328-9 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 221 () JORF 26 janvier 1985 en vigueur le 1er janvier 1986
+	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. L328-9 (Ab)
+	  - Code des assurances - art. L310-26 (M)
+	  - Code des assurances - art. L322-1 (Ab)
+	  - Code des assurances - art. L322-2-2 (M)
+	  - Code des assurances - art. L322-4 (Ab)
+	  - Code des assurances - art. L323-1 (M)
 
 	**Cité par**:
 
 	  - Code des assurances - art. L390-1 (V)
-
-
-###### Article L328-6
-
-Il est interdit au liquidateur et à tous ceux qui ont participé à l'administration de la liquidation d'acquérir
-personnellement, soit directement, soit indirectement, à l'amiable ou par vente de justice, tout ou partie de l'actif
-mobilier ou immobilier de l'entreprise en liquidation.
-
-Sera puni des peines encourues pour le délit d'abus de confiance aggravé prévu par les articles 314-3 et 314-10 du code pénal
-tout liquidateur ou toute personne ayant participé à l'administration de la liquidation qui, en violation des dispositions de
-l'alinéa précédent, se sera rendu acquéreur pour son compte, directement ou indirectement, des biens de l'entreprise
-[*sanctions*].
-
-Sera puni des mêmes peines tout liquidateur qui se sera rendu coupable de malversation dans sa gestion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 145 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
-	  - TXT_ASSOCIE: Code des assurances - art. L328-7 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-9 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cite**:
-
-	  - Code pénal - art. 314-10 (V)
-	  - Code pénal - art. 314-3 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. L328-7 (Ab)
-
-
-###### Article L328-7
-
-Tous arrêts et jugements de condamnation rendus en vertu des articles L. 328-3, L. 328-4 et L. 328-6, 2e alinéa, seront, aux
-frais des condamnés, affichés et publiés dans un journal habilité à recevoir les annonces légales ainsi que, s'il s'agit
-d'une société commerciale, par extrait sommaire au Bulletin officiel des annonces commerciales mentionnant le numéro du
-journal d'annonces légales où aura été publiée la première insertion.
-
-S'il y a condamnation, le Trésor public ne pourra exercer son recours contre le débiteur qu'après la clôture de la
-liquidation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L328-3 (M)
-	  - Code des assurances - art. L328-4 (M)
-	  - Code des assurances - art. L328-6 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. L328-3 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-4 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-6 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-9 (Ab)
-
-	**Cité par**:
-
-	  - Code des assurances - art. L328-8 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 38 D
-
-
-###### Article L328-8
-
-Les frais de poursuite intentée par un créancier seront supportés, s'il y a condamnation, par le Trésor public, sauf recours
-contre le débiteur dans les conditions prévues à l'article L. 328-7 et, s'il y a relaxe, par le créancier poursuivant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L328-7 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. L328-9 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 38 E
-
-
-###### Article L328-9
-
-Les dispositions des articles L. 328-3 à L. 328-8 sont applicables lors de la liquidation de l'actif et du passif du bilan
-spécial des opérations d'une entreprise étrangère sur le territoire de la République française.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. L328-3 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-4 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-5 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-6 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-7 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-8 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances L328-3 à L328-8
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 38 F
-
-
-###### Article L328-10
-
-Les peines [*sanctions*] prévues à l'article 433 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales seront
-également applicables, en ce qui concerne les entreprises de toute nature mentionnées à l'article L. 310-1, à ceux qui
-sciemment :
-
-1° Dans la déclaration prévue pour la validité de la constitution de l'entreprise, auront fait état de souscriptions de
-contrats qu'ils savaient fictives, ou auront déclaré des versements de fonds qui n'ont pas été mis définitivement à la
-disposition de l'entreprise ;
-
-2° Par simulation de souscriptions de contrats ou par publication ou allégation de souscriptions qui n'existent pas ou de
-tous autres faits faux, auront obtenu ou tenté d'obtenir des souscriptions de contrats ;
-
-3° Pour provoquer des souscriptions de contrats, auront publié les noms de personnes désignées contrairement à la vérité
-comme étant ou devant être attachées à l'entreprise à un titre quelconque ;
-
-4° Auront procédé à toutes autres déclarations ou dissimulations frauduleuses dans tous documents produits au ministre chargé
-de l'économie et des finances ainsi qu'à la commission de contrôle des assurances ou portés à la connaissance du public.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 433
-	  - Code des assurances - art. L310-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances - art. L310-1 (M)
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 58 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cité par**:
-
-	  - Code des assurances - art. R342-20 (Ab)
-
-
-###### Article L328-11
-
-Les peines [*sanctions*] prévues à l'article 437 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales seront
-également applicables au président, aux administrateurs, aux gérants ou aux directeurs généraux des entreprises non
-commerciales mentionnées à l'article L. 310-1 qui :
-
-1° Sciemment, auront publié ou présenté à l'assemblée générale un bilan inexact en vue de dissimuler la véritable situation
-de l'entreprise ;
-
-2° De mauvaise foi, auront fait, des biens ou du crédit de l'entreprise, un usage qu'il savaient contraire à l'intérêt de
-celle-ci, à des fins personnelles ou pour favoriser une autre entreprise dans laquelle ils étaient intéressés directement ou
-indirectement ;
-
-3° De mauvaise foi, auront fait des pouvoirs qu'ils possédaient ou des voix dont ils disposaient en cette qualité un usage
-qu'ils savaient contraire aux intérêts de l'entreprise, à des fins personnelles ou pour favoriser une autre entreprise dans
-laquelle ils étaient intéressés directement ou indirectement.
-
-Les dispositions du présent article seront applicables à toute personne qui, directement ou par personne interposée, aura, en
-fait, exercé la direction, l'administration ou la gestion desdites entreprises sous le couvert ou aux lieu et place de leurs
-représentants légaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 39 bis
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 437
-	  - Code des assurances - art. L310-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. L310-1 (M)
 
 
 ###### Article L328-13
@@ -12287,167 +13187,32 @@ interdictions dans les conditions prévues par l'article L. 625-10 du même code
 	  - TXT_ASSOCIE: Code des assurances - art. L326-2 (V)
 
 
-###### Article L328-14
-
-Toute infraction aux dispositions des articles L. 310-7, et L. 310-9 sera punie d'une amende de 25.000 F [*sanctions*]. En ce
-qui concerne les infractions aux dispositions de l'article L. 310-7, l'amende sera prononcée pour chacune des infractions
-constatées sans que le total des amendes encourues puisse excéder 40.000 F.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
-	  - TXT_ASSOCIE: Code des assurances - art. L310-5 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L310-9 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-7 (M)
-	  - Code des assurances - art. L310-9 (M)
-
-
-###### Article L328-15
-
-Toute infraction aux dispositions des articles L. 310-2, L. 310-8, L. 321-1 et L. 323-1 est punie [*sanctions*] d'une peine
-d'emprisonnement de deux ans et d'une amende de 40.000 F ou de l'une de ces deux peines seulement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
-	  - TXT_ASSOCIE: Code des assurances - art. L310-8 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L321-1 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L322-1 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L323-1 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. L310-8 (M)
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L323-1 (M)
-
-
-###### Article L328-15-1
-
-Tout obstacle mis à l'exercice des missions de la commission de contrôle des assurances ou des commissaires-contrôleurs des
-assurances est passible d'un emprisonnement de deux ans et d'une amende de 2 000 000 F ou de l'une de ces deux peines
-seulement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. L310-8 (M)
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L323-1 (M)
-
-
 ###### Article L328-16
 
-Sous réserve des dispositions de l'article L. 328-17, le présent chapitre est applicable dans les territoires d'outre-mer et
-dans la collectivité territoriale de Mayotte.
+Le chapitre VIII du titre II du livre III, dans la rédaction du présent code antérieure à la loi n° 91-716 du 26 juillet 1991
+portant diverses dispositions d'ordre économique et financier, est applicable dans les territoires d'outre-mer.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cite**:
 
-	  - Code des assurances - art. L328-17 (M)
-
-
-###### Article L328-17
-
-Sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte les dispositions de
-l'article L. 328-12.
-
-Les dispositions précitées entrent en vigueur, dans le territoire de Wallis et Futuna, le premier jour du trimestre civil
-suivant la publication de l'arrêté rendant exécutoire la délibération édictant une obligation d'assurance de la
-responsabilité civile en matière de circulation automobile.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
+	  - Loi n°91-716 1991-07-26
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - SPEC_APPLI: Code des assurances - art. L328-12 (Ab)
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Abrogé par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L328-12 (Ab)
-
-	**Cité par**:
-
-	  - Code des assurances - art. L328-16 (M)
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ### Titre III : Régime financier
@@ -12482,7 +13247,132 @@ Un décret fixe, en tant que de besoin, les conditions d'application du présent
 	  - Code des assurances - art. R332-35 (VD)
 
 
+###### Article L331-2
+
+L'indemnité maximale, en cas de rachat, susceptible d'être retenue par l'assureur est fixée par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Transféré par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 5 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L132-22-1 (T)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L160-17 (V)
+	  - Code des assurances - art. R143-2 (M)
+	  - Code des assurances - art. R331-5 (M)
+
+
+###### Article L331-3
+
+Les entreprises d'assurance sur la vie ou de capitalisation doivent faire participer les assurés aux bénéfices techniques et
+financiers qu'elles réalisent, dans les conditions fixées par arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Transféré par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 5 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L132-29 (Ab)
+	  - Code des assurances - art. L132-29 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L322-4-3 (V)
+	  - Code des assurances - art. L324-7 (V)
+
+
+###### Article L331-4
+
+L'autorité administrative peut, pour les contrats d'assurance-vie ou de capitalisation, fixer les règles de calcul actuariel
+qui leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
+
+	**Transféré par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 55 (Ab)
+	  - Arrêté du 26 décembre 1997 - art. 2 (V)
+	  - Code des assurances - art. R331-5-2 (VT)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L310-7 (M)
+	  - Code des assurances - art. L310-7 (T)
+
+
 ### Titre IV : Dispositions comptables et statistiques
+
+#### Chapitre Ier : Principes généraux.
+
+###### Article L341-1
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles les dispositions du présent livre sont applicables aux
+entreprises pratiquant à la fois les opérations mentionnées aux 1° et 2° de l'article L. 310-1 du code des assurances en vue
+d'assurer une gestion distincte pour la protection des intérêts des assurés de chacune de ces deux catégories d'opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 28 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L341-3 (VD)
+	  - Code des assurances - art. L341-4 (V)
+	  - Code des assurances - art. R336-6 (VD)
+	  - Code des assurances - art. R341-2 (VD)
+
 
 #### Chapitre IV : Catégories d'assurance et états à produire.
 
@@ -12579,19 +13469,27 @@ déterminer l'entreprise sur laquelle pèse l'obligation de consolidation.
 	  - Code des assurances - art. R345-2-1 (M)
 
 
-### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire
+### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des Communautés européennes
 
-#### Chapitre I : Dispositions relatives à la libre prestation de services en assurances de dommages
+#### Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages.
 
 ##### Section I : Dispositions générales.
 
 ###### Article L351-1
 
-Le mot "Etat" et l'expression "Etat membre", dans le présent titre, désignent un Etat membre des communautés européennes.
+Dans le présent titre :
 
-Est une opération réalisée en libre prestation de services l'opération par laquelle une entreprise d'assurance d'un Etat
-membre couvre à partir de son siège social ou d'un établissement situé dans un des Etats membres un risque situé sur le
-territoire d'un autre de ces Etats.
+1° le mot : "Etat" désigne un Etat partie à l'accord sur l'Espace économique européen non membre des Communautés
+européennes ;
+
+2° l'expression : "libre prestation de services" désigne le régime des opérations de libre prestation de services définies au
+4° de l'article L. 310-3 lorsque les circonstances suivantes ou seulement l'une quelconque d'entre elles sont réalisées :
+
+a) l'opération est effectuée à partir d'un Etat qui n'est pas membre des Communautés européennes,
+
+b) l'Etat d'origine de l'entreprise qui effectue l'opération n'est pas membre des Communautés européennes,
+
+c) l'Etat où se trouve le risque couvert ou l'engagement pris n'est pas membre des Communautés européennes.
 
 **Liens relatifs à cet article**
 
@@ -12599,17 +13497,14 @@ territoire d'un autre de ces Etats.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 1994-01-04 art. 30 I, II JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41
 
 	**Cité par**:
 
@@ -12629,22 +13524,19 @@ territoire d'un autre de ces Etats.
 	  - Code des assurances - art. R352-33 (VD)
 	  - Code des assurances - art. R356-14 (VD)
 
+	**Cite**:
 
-###### Article L351-3
+	  - Code des assurances - art. L310-3 (M)
 
-Pour l'application du présent titre, est regardé comme Etat de situation de risque :
 
-1° L'Etat où les biens sont situés, lorsque l'assurance est relative soit à des immeubles, soit à des immeubles et à leur
-contenu dans la mesure où ce dernier est couvert par la même police d'assurance ;
+###### Article L351-2
 
-2° L'Etat d'immatriculation, lorsque l'assurance est relative à des véhicules de toute nature ;
+Sont exclues de l'application du présent titre les opérations d'assurance afférentes :
 
-3° L'Etat où a été souscrit le contrat, s'il s'agit d'un contrat d'une durée inférieure ou égale à quatre mois, relatif à des
-risques encourus au cours d'un déplacement, quelle que soit la branche dont ceux-ci relèvent ;
+- aux accidents du travail et aux maladies professionnelles ;
 
-4° Dans tous les autres cas que ceux mentionnés aux 1°, 2° et 3° ci-dessus, l'Etat dans lequel le souscripteur a sa résidence
-principale ou, si le souscripteur est une personne morale, l'Etat où est situé l'établissement de cette personne morale
-auquel le contrat se rapporte.
+Sont en outre exclus de l'application du présent chapitre les risques des travaux de bâtiment faisant l'objet d'une
+obligation d'assurance.
 
 **Liens relatifs à cet article**
 
@@ -12652,25 +13544,34 @@ auquel le contrat se rapporte.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
-
 	**Modifié par**:
 
 	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°92-665 du 16 juillet 1992 - art. 32 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Cité par**:
 
-	  - Code des assurances - art. L181-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L310-4 (Ab)
+	  - Code des assurances - art. L329-1 (VD)
+	  - Code des assurances - art. L352-3 (VD)
+	  - Code des assurances - art. R351-10 (VD)
+	  - Code des assurances - art. R351-11 (VD)
+	  - Code des assurances - art. R351-12 (VD)
+	  - Code des assurances - art. R351-13 (VD)
+	  - Code des assurances - art. R351-15 (VD)
+	  - Code des assurances - art. R351-17 (VD)
+	  - Code des assurances - art. R351-2 (VD)
+	  - Code des assurances - art. R351-9 (VD)
+	  - Code des assurances - art. R352-29 (VD)
+	  - Code des assurances - art. R352-4 (VD)
+	  - Code des assurances - art. R352-8 (V)
+	  - Code des assurances - art. R352-9 (VD)
+	  - Code des assurances - art. R353-1 (V)
+	  - Code des assurances - art. R356-14 (VD)
 
 
 ##### Section II : Conditions d'exercice.
@@ -12678,25 +13579,9 @@ auquel le contrat se rapporte.
 ###### Article L351-4
 
 Sous la seule réserve d'en informer préalablement le ministre chargé de l'économie et des finances, toute entreprise
-d'assurance peut couvrir sur le territoire de la République française les grands risques en libre prestation de services. Un
-décret en Conseil d'Etat fixe les documents à produire à l'appui de cette information.
-
-Sont regardés comme grands risques :
-
-1° Ceux qui relèvent des catégories suivantes :
-
-a) Les corps de véhicules ferroviaires, aériens, maritimes, lacustres et fluviaux ainsi que la responsabilité civile
-afférente auxdits véhicules ;
-
-b) Les marchandises transportées ;
-
-c) Le crédit et la caution, lorsque le souscripteur exerce à titre professionnel une activité industrielle, commerciale ou
-libérale, à condition que le risque se rapporte à cette activité ;
-
-2° Ceux qui concernent l'incendie et les élements naturels, les autres dommages aux biens, la responsabilité civile générale,
-les pertes pécuniaires diverses, les corps de véhicules terrestres à moteur ainsi que la responsabilité civile, y compris
-celle du transporteur, afférente à ces véhicules, lorsque le souscripteur exerce une activité dont l'importance dépasse
-certains seuils définis par décret en Conseil d'Etat.
+d'assurance peut couvrir sur le territoire de la République française les grands risques tels qu'ils sont définis à l'article
+L. 111-6 en libre prestation de services. Un décret en Conseil d'Etat fixe les documents à produire à l'appui de cette
+information.
 
 **Liens relatifs à cet article**
 
@@ -12704,14 +13589,19 @@ certains seuils définis par décret en Conseil d'Etat.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 1994-01-04 art. 6 I, II, art. 30 I JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 6 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L111-6 (V)
 
 	**Cité par**:
 
@@ -12744,10 +13634,10 @@ certains seuils définis par décret en Conseil d'Etat.
 
 Toute entreprise d'assurance peut couvrir sur le territoire de la République française en libre prestation de services les
 risques autres que ceux qui sont mentionnés à l'article L. 351-4 lorsqu'elle ne dispose pas, en France, d'un établissement
-ayant obtenu pour les branches concernées l'agrément prévu à l'article L. 321-1.
+ayant obtenu pour les branches concernées l'agrément prévu à l'article L. 321-7.
 
 Toutefois, une telle entreprise ne peut opérer en France en libre prestation de services qu'après avoir obtenu un agrément
-délivré par le ministre chargé de l'économie et des finances dans les conditions prévues à l'article L. 321-1-1.
+délivré par le ministre chargé de l'économie et des finances dans les conditions prévues à l'article L. 321-8.
 
 **Liens relatifs à cet article**
 
@@ -12755,17 +13645,14 @@ délivré par le ministre chargé de l'économie et des finances dans les condit
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-5 1994-01-04 art. 30 I, IV JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Cité par**:
 
@@ -12782,51 +13669,104 @@ délivré par le ministre chargé de l'économie et des finances dans les condit
 
 	**Cite**:
 
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L351-4 (M)
+
+
+###### Article L351-6
+
+Toute entreprise d'assurance couvrant sur le territoire de la République française en libre prestation de services un risque
+autre que ceux mentionnés à l'article L. 351-4 est tenue de remettre au ministre chargé de l'économie et des finances tous
+documents pouvant lui être demandés dans les mêmes conditions que pour les entreprises agréées au titre de l'article L.
+321-1.
+
+Toute entreprise d'assurance couvrant sur le territoire de la République française des grands risques en libre prestation de
+services est tenue, lorsque la demande lui en est faite dans le but de contrôler le respect des dispositions législatives et
+réglementaires applicables à ces risques, de remettre au ministre chargé de l'économie et des finances les conditions
+générales et spéciales des polices d'assurance, les tarifs, formulaires et autres imprimés que l'entreprise a l'intention
+d'utiliser.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Cite**:
+
 	  - Code des assurances - art. L321-1 (M)
 	  - Code des assurances - art. L351-4 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L329-1 (VD)
+	  - Code des assurances - art. R322-72 (VD)
+	  - Code des assurances - art. R351-18 (VD)
+	  - Code des assurances - art. R351-19 (VD)
+	  - Code des assurances - art. R351-2 (V)
+	  - Code des assurances - art. R351-20 (VD)
+
+
+###### Article L351-6-1
+
+Toute entreprise assurant en libre prestation de services les risques de responsabilité civile résultant de l'emploi de
+véhicules terrestres à moteur désigne en France un représentant pour la gestion des sinistres à raison de ces risques à
+l'exclusion de la responsabilité civile du transporteur. Les missions du représentant, qui sont exclusives de toute opération
+d'assurance pour le compte de l'entreprise qu'il représente au titre de la gestion des sinistres, sont fixées par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Cité par**:
+
+	  - Code des assurances - art. L112-7 (V)
+	  - Code des assurances - art. R351-2 (V)
+	  - Code des assurances - art. R351-3 (V)
+	  - Code des assurances - art. R351-5-1 (VT)
 
 
 ##### Section III : Sanctions administratives.
 
-###### Article L351-9
+###### Article L351-7
 
-Lorsque la commission de contrôle des assurances est informée par l'autorité de contrôle de l'un des Etats qu'une entreprise
-opérant en France en libre prestation de services a fait l'objet d'un plan de redressement ou d'un plan de financement à
-court terme ou d'une mesure ayant restreint ou interdit la libre disposition de ses actifs, elle prend les mesures de
-restriction ou d'interdiction concernant les actifs de cette entreprise situés sur le territoire de la République française
-propres à sauvegarder les intérêts des assurés et bénéficiaires de contrats.
+Lorsqu'une entreprise d'assurance opérant sur le territoire de la République française en libre prestation de services ne
+respecte pas les règles qui s'imposent à elle, la commission de contrôle des assurances enjoint à l'entreprise concernée de
+mettre fin à cette situation irrégulière.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
-
-
-##### Section IV : Transferts de portefeuilles de contrats souscrits en libre prestation de services.
-
-###### Article L351-10
-
-Les entreprises établies sur le territoire de la République française pratiquant des opérations d'assurance en libre
-prestation de services peuvent être autorisées, dans les conditions prévues à l'article L. 324-1, à transférer tout ou partie
-de leur portefeuille de contrats conclus en libre prestation de services à un cessionnaire établi en France, si les autorités
-de contrôle de l'Etat du siège social du cessionnaire attestent que celui-ci possède, compte tenu du transfert, la marge de
-solvabilité nécessaire.
-
-Le transfert ne peut être autorisé par le ministre chargé de l'économie et des finances que s'il a reçu l'accord des
-autorités de contrôle du ou des Etats où les risques sont situés.
+Si l'entreprise passe outre à l'injonction qui lui est adressée en application de l'alinéa précédent, la commission de
+contrôle des assurances en informe les autorités de contrôle de l'Etat membre de l'établissement de cette entreprise et, le
+cas échéant, de l'Etat de son siège social, et leur demande de prendre toutes mesures appropriées pour que l'entreprise mette
+fin à cette situation irrégulière.
 
 **Liens relatifs à cet article**
 
@@ -12838,192 +13778,130 @@ autorités de contrôle du ou des Etats où les risques sont situés.
 
 	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Cité par**:
+
+	  - Code des assurances - art. L212-3 (V)
+	  - Code des assurances - art. L215-1 (V)
+	  - Code des assurances - art. L252-2 (V)
+	  - Code des assurances - art. L363-4 (V)
+	  - Code des assurances - art. L451-2 (V)
+	  - Code des assurances - art. R351-28 (VD)
+
+
+###### Article L351-8
+
+Si l'entreprise persiste à enfreindre les règles qui s'imposent à elles sur le territoire de la République française, la
+commission de contrôle des assurances peut prendre les mesures appropriées pour prévenir de nouvelles irrégularités et, si
+les circonstances l'exigent, interdire à l'entreprise de continuer de conclure des contrats d'assurance en libre prestation
+de services sur le territoire de la République française et prononcer, dans les conditions fixées à l'article L. 310-18, les
+sanctions énumérées à ce même article, à l'exception de celles qui sont prévues aux cinquième (4°) et septième (6°) alinéas
+dudit article. La commission de contrôle des assurances procède, aux frais de l'entreprise, à la publication des mesures
+qu'elle a ordonnées dans les journaux et publications qu'elle désigne et à l'affichage dans les lieux et pour la durée
+qu'elle indique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Modifié par**:
 
 	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Cité par**:
+
+	  - Code des assurances - art. L212-3 (M)
+	  - Code des assurances - art. L451-2 (V)
 
 	**Cite**:
 
-	  - Code des assurances - art. L324-1 (M)
+	  - Code des assurances - art. L310-18 (M)
+
+
+###### Article L351-9
+
+Lorsque la commission de contrôle des assurances est informée par l'autorité de contrôle compétente qu'une entreprise opérant
+en France en libre prestation de services a fait l'objet d'un plan de redressement ou d'un plan de financement à court terme
+ou d'une mesure ayant restreint ou interdit la libre disposition de ses actifs, elle prend les mesures de restriction ou
+d'interdiction concernant les actifs de cette entreprise situés sur le territoire de la République française propres à
+sauvegarder les intérêts des assurés et bénéficiaires de contrats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°94-5 1994-01-04 art. 30 I, V JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+
+###### Article L351-10
+
+Lorsqu'elle est informée du retrait de l'agrément d'une entreprise opérant en France en régime de libre prestation de
+services par l'autorité de contrôle compétente, la commission de contrôle des assurances prend les mesures appropriées pour
+lui interdire de poursuivre son activité et pour sauvegarder les intérêts des assurés et bénéficiaires de contrats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Transféré par**:
+
+	  - Loi n°94-5 1994-01-04 art. 30 I, art. 32 II, III JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L351-14 (T)
 
 	**Cité par**:
 
 	  - Code des assurances - art. L353-7 (VT)
 
 
-###### Article L351-11
-
-Les entreprises établies sur le territoire de la République française peuvent être autorisées, dans les conditions prévues à
-l'article L. 324-1, à transférer tout ou partie de leur portefeuille de contrats conclus en libre prestation de services à un
-cessionnaire établi dans l'Etat où les risques sont situés si les autorités de contrôle de l'Etat du siège social du
-cessionnaire attestent que celui-ci possède, compte tenu du transfert, la marge de solvabilité nécessaire.
-
-Le transfert ne peut être autorisé par le ministre chargé de l'économie et des finances que s'il a reçu l'accord des
-autorités de contrôle de l'Etat où les risques sont situés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L324-1 (M)
-
-
-###### Article L351-12
-
-Les entreprises établies sur le territoire de la République française peuvent être autorisées par le ministre chargé de
-l'économie et des finances, dans les conditions prévues à l'article L. 324-1, à transférer tout ou partie de leur
-portefeuille de contrats à un cessionnaire établi dans un Etat membre autre que celui de situation du risque, si les
-conditions suivantes sont remplies :
-
-1° les autorités de contrôle de l'Etat du siège social du cessionnaire attestent que celui-ci possède, compte tenu du
-transfert, la marge de solvabilité nécessaire ;
-
-2° L'autorité de contrôle de l'Etat où est établi le cessionnaire a donné son accord ;
-
-3° Le cessionnaire établit avoir satisfait dans l'Etat membre où le risque est situé aux conditions exigées par cet Etat pour
-y opérer en libre prestation de services ;
-
-4° L'autorité de contrôle de cet Etat a donné son accord sur ce transfert.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L324-1 (M)
-
-
-###### Article L351-13
-
-Le transfert de tout ou partie d'un portefeuille de contrats conclus en libre prestation de services, afférents à des risques
-situés sur le territoire de la République française, d'une entreprise établie dans un Etat autre que la France à un
-cessionnaire établi dans un des Etats est opposable aux assurés, souscripteurs, bénéficiaires de contrats et créanciers pour
-autant que les dispositions du deuxième alinéa de l'article L. 324-1 ont été respectées et que le ministre chargé de
-l'économie et des finances n'a pas fait opposition au transfert projeté.
-
-Le transfert est opposable à partir du jour où la décision l'autorisant a été rendue publique par un avis inséré au Journal
-officiel. Toutefois, il n'est opposable aux assurés qu'à l'expiration d'un délai d'un mois suivant la date de cette
-publication. Au cours de ce délai, les assurés ont la faculté de résilier le contrat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L324-1 (M)
-
-
-##### Section V : Interdiction d'activité.
-
-###### Article L351-14
-
-Lorsqu'elle est informée du retrait de l'agrément d'une entreprise opérant en France en régime de libre prestation de
-services par l'autorité de contrôle d'un autre Etat, la commission de contrôle des assurances prend les mesures appropriées
-pour lui interdire de poursuivre son activité et pour sauvegarder les intérêts des assurés et bénéficiaires de contrats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L351-10 (V)
-	  - Code des assurances L351-10 (2ème version)
-
-
-#### Chapitre II : Dispositions relatives à la coassurance communautaire.
+#### Chapitre II : Dispositions relatives à la coassurance.
 
 ###### Article L352-1
 
-Une opération de coassurance communautaire est celle qui couvre des risques situés sur le territoire d'un ou plusieurs Etats
-à laquelle participent plusieurs entreprises d'assurance établies sur le territoire d'un Etat et dont l'une au moins n'est
-pas établie dans le même Etat que l'apériteur.
-
-Les risques situés sur le territoire de la République française qui peuvent être couverts en coassurance communautaire sont
-les mêmes que ceux qui peuvent être couverts en libre prestation de services en vertu de l'article L. 351-4 ainsi que les
-risques des travaux de bâtiment faisant l'objet d'une obligation d'assurance.    Toute entreprise d'assurance dont le siège
-social est situé sur le territoire d'un Etat et qui satisfait aux dispositions de la législation du pays où elle est établie
-est dispensée des obligations prévues aux articles L. 321-1 et L. 351-4 pour participer sans être apériteur à la couverture
-d'un risque situé en France dans le cadre d'une opération de coassurance communautaire.
-
-L'apériteur d'une opération de coassurance communautaire non établi en France est soumis aux obligations prévues à l'article
-L. 351-4.
+Toute entreprise d'assurance dont le siège social est situé sur le territoire d'un Etat partie à l'accord sur l'Espace
+économique européen non membre des Communautés européennes et qui satisfait aux dispositions de la législation du pays où
+elle est établie est dispensée des obligations prévues aux articles L. 321-7 et L. 351-4 pour participer sans être apériteur
+à la couverture d'un grand risque tel que défini à l'article L. 111-6 situé en France, dans le cadre d'une opération de
+coassurance réalisée en libre prestation de services, et dont l'un au moins des participants n'est pas établi dans le même
+Etat membre que l'apériteur.
 
 **Liens relatifs à cet article**
 
@@ -13031,17 +13909,14 @@ L. 351-4.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Modifié par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 31 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -13078,7 +13953,8 @@ L. 351-4.
 
 	**Cite**:
 
-	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L111-6 (V)
+	  - Code des assurances - art. L321-7 (V)
 	  - Code des assurances - art. L351-4 (M)
 
 
@@ -13086,11 +13962,14 @@ L. 351-4.
 
 ##### Section I : Dispositions générales.
 
-###### Article L353-1
+###### Article L353-2
 
-Est une opération réalisée en libre prestation de services l'opération par laquelle une entreprise d'assurance d'un Etat
-membre prend, à partir de son siège social ou d'un établissement situé dans un des Etats membres, un engagement dans un autre
-de ces Etats.
+Sont exclues de l'application du présent chapitre :
+
+1° Les opérations consistant à gérer les placements d'entreprises autres que celles qui sont mentionnées à l'article L.
+310-1, qui fournissent des prestations en cas de vie, de décès ou de cessation ou réduction d'activité ;
+
+2° Les opérations définies à la section 1 du chapitre Ier du titre IV du livre IV.
 
 **Liens relatifs à cet article**
 
@@ -13098,65 +13977,95 @@ de ces Etats.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 4
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1
+
+
+##### Section II : Conditions d'exercice.
+
+###### Article L353-4
+
+I. - Sous la seule réserve d'en informer préalablement le ministre chargé de l'économie et des finances, toute entreprise
+d'assurance peut prendre sur le territoire de la République française des engagements en régime de libre prestation de
+services lorsque le souscripteur a pris l'initiative de solliciter ces engagements auprès de l'entreprise d'assurance. Un
+décret en Conseil d'Etat fixe les documents à produire à l'appui de cette information.
+
+Le souscripteur est réputé avoir pris l'initiative lorsque l'une au moins des deux situations suivantes est réalisée :
+
+1° Le contrat a été souscrit sans que le souscripteur ait été démarché sur le territoire de la République française, pour le
+compte de l'entreprise d'assurance, par un intermédiaire d'assurance ou par une personne mandatée par l'entreprise, ou sans
+que le souscripteur ait été informé au moyen d'une promotion commerciale qui lui aurait été adressée personnellement ; le
+contrat est souscrit soit par les deux parties dans l'Etat membre où l'entreprise est établie, soit par celle-ci dans ce même
+Etat et par le souscripteur sur le territoire de la République française ;
+
+2° Le souscripteur s'est adressé à un intermédiaire d'assurance établi en France en vue de se procurer des informations sur
+des contrats d'assurance offerts par des entreprises d'assurance établies dans d'autres Etats membres ou en vue de souscrire
+un contrat auprès d'une de ces entreprises.
+
+II. - Les entreprises d'assurance ne bénéficient des dispositions du premier alinéa du I du présent article que si le
+souscripteur a signé, avant de souscrire le contrat, une déclaration par laquelle il reconnaît savoir que l'entreprise
+d'assurance concernée est soumise au régime de contrôle de l'Etat où elle est établie ; il signe également, le cas échéant,
+une déclaration analogue avant de prendre connaissance des informations mentionnées au dernier alinéa (2°) du I.
+
+III. - Toute entreprise d'assurance prenant sur le territoire de la République française, en libre prestation de services,
+des engagements dans les conditions prévues au présent article est tenue, lorsque la demande lui en est faite dans le but de
+contrôler le respect des dispositions législatives et réglementaires applicables à ces engagements, de remettre au ministre
+chargé de l'économie et des finances les conditions générales et spéciales des polices d'assurance, les tarifs, formulaires
+et autres imprimés que l'entreprise utilise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
 
 	**Créé par**:
 
 	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
 
-	**Abrogé par**:
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41
+
+	**Modifié par**:
 
 	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
-	  - Code des assurances - art. L112-7 (V)
-	  - Code des assurances - art. R332-1 (V)
-	  - Code des assurances - art. R332-9 (M)
+	  - Code des assurances - art. A353-1 (VT)
+	  - Code des assurances - art. L353-5 (V)
+	  - Code des assurances - art. L353-7 (VT)
+	  - Code des assurances - art. R321-8 (VT)
+	  - Code des assurances - art. R353-1 (V)
+	  - Code des assurances - art. R353-4 (Ab)
 
-
-###### Article L353-3
-
-Pour l'application du présent chapitre, est regardé comme Etat de l'engagement l'Etat où le souscripteur a sa résidence
-principale ou, si le souscripteur est une personne morale, l'Etat où est situé le siège social ou l'établissement de cette
-personne morale auquel le contrat se rapporte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
-
-	**Créé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
-
-	**Cité par**:
-
-	  - Code des assurances - art. L183-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L310-5 (M)
-	  - Code des assurances - art. L310-5 (V)
-
-
-##### Section II : Conditions d'exercice.
 
 ###### Article L353-5
 
 Toute entreprise d'assurance peut prendre, sur le territoire de la République française, des engagements en libre prestation
 de services qui ne sont pas souscrits selon les modalités définies à l'article L. 353-4, lorsqu'elle ne dispose pas, en
-France, d'un établissement ayant obtenu, pour les branches concernées, l'agrément prévu à l'article L. 321-1.
+France, d'un établissement ayant obtenu, pour les branches concernées, l'agrément prévu à l'article L. 321-7.
 
 Toutefois, une telle entreprise ne peut opérer en France en libre prestation de services qu'après avoir obtenu un agrément
-délivré par le ministre chargé de l'économie et des finances dans les conditions prévues à l'article L. 321-1-1.
+délivré par le ministre chargé de l'économie et des finances dans les conditions prévues à l'article L. 321-8.
 
 **Liens relatifs à cet article**
 
@@ -13164,18 +14073,14 @@ délivré par le ministre chargé de l'économie et des finances dans les condit
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°94-5 1994-01-04 art. 30 I, IV JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
-
-	**Créé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
-
-	**Cite**:
-
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L353-4 (M)
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Cité par**:
 
@@ -13186,19 +14091,104 @@ délivré par le ministre chargé de l'économie et des finances dans les condit
 	  - Code des assurances - art. R353-2 (VD)
 	  - Code des assurances - art. R353-3 (V)
 
+	**Cite**:
 
-##### Section IV : Transferts de portefeuilles de contrats souscrits en libre prestation de services.
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L353-4 (M)
 
-###### Article L353-8
 
-Les entreprises établies sur le territoire de la République française pratiquant des opérations d'assurance en libre
-prestation de services peuvent être autorisées, dans les conditions prévues à l'article L. 324-1, à transférer tout ou partie
-de leur portefeuille de contrats conclus en libre prestation de services à un cessionnaire établi en France si les autorités
-de contrôle de l'Etat du siège social du cessionnaire attestent que celui-ci possède, compte tenu du transfert, la marge de
-solvabilité nécessaire.
+###### Article L353-6
 
-Le transfert ne peut être autorisé par le ministre chargé de l'économie et des finances que s'il a reçu l'accord des
-autorités de contrôle de l'Etat de l'engagement.
+Toute entreprise d'assurance prenant sur le territoire de la République française en libre prestation de services des
+engagements dans les conditions de l'article L. 353-5 est tenue de remettre au ministre chargé de l'économie et des finances
+tout document pouvant lui être demandé dans les mêmes conditions que pour les entreprises agréées au titre de l'article L.
+321-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 4
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1
+	  - Code des assurances - art. L353-5
+
+
+##### Section III : Sanctions administratives.
+
+###### Article L353-7
+
+Les entreprises d'assurance mentionnées aux articles L. 353-4 et L. 353-5 sont soumises aux sanctions administratives prévues
+aux articles L. 351-7 à L. 351-9 ainsi qu'à l'interdiction d'activité prévue à l'article L. 351-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 4
+
+	**Cite**:
+
+	  - Code des assurances
+	  - Code des assurances - art. L351-10
+	  - Code des assurances - art. L353-4
+	  - Code des assurances - art. L353-5 (VT)
+
+
+#### Chapitre IV : Transferts de portefeuille.
+
+###### Article L354-1
+
+Les entreprises d'assurance françaises et leurs succursales mentionnées au 1° de l'article L. 310-2 ainsi que les succursales
+françaises d'entreprises d'assurance mentionnées au 3° du même article peuvent être autorisées, dans les conditions définies
+aux deuxième, troisième, quatrième et septième alinéas de l'article L. 324-1, à transférer tout ou partie de leur
+portefeuille de contrats conclus en libre prestation de services au sens de l'article L. 351-1 à une ou plusieurs entreprises
+dont le siège social se trouve dans un Etat partie à l'accord sur l'Espace économique européen ou de leurs succursales
+établies dans des Etats parties à l'accord sur l'Espace économique européen, ou à une ou plusieurs entreprises d'assurance
+établies et agréées dans l'Etat du risque ou de l'engagement partie à l'accord sur l'Espace économique européen. Le ministre
+chargé de l'économie et des finances n'approuve le transfert que s'il a reçu l'accord des autorités de contrôle de l'Etat de
+libre prestation de services.
+
+En outre, lorsque l'entreprise cessionnaire est établie dans un Etat partie à l'accord sur l'Espace économique européen autre
+que l'Etat de libre prestation de services, le ministre chargé de l'économie et des finances n'approuve le transfert que si
+les autorités de contrôle de l'Etat d'établissement de l'entreprise cessionnaire ont donné leur accord. Toutefois, lorsque
+l'entreprise cessionnaire est une succursale établie dans un Etat membre des Communautés européennes dont l'Etat d'origine
+est également membre de celles-ci, l'accord mentionné au présent alinéa est donné par les autorités de contrôle de l'Etat
+d'origine de l'entreprise cessionnaire.
 
 **Liens relatifs à cet article**
 
@@ -13208,30 +14198,171 @@ autorités de contrôle de l'Etat de l'engagement.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Créé par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L324-1 (M)
+	  - Code des assurances - art. L351-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L321-10 (VD)
+	  - Code des assurances - art. L321-10-1 (V)
+	  - Code des assurances - art. L322-2 (V)
+	  - Code des assurances - art. L322-3-2 (VD)
+	  - Code des assurances - art. L329-1 (VD)
+	  - Code des assurances - art. L355-4 (VD)
+	  - Code des assurances - art. L355-6 (VD)
+	  - Code des assurances - art. R321-23 (VT)
+	  - Code des assurances - art. R354-1 (VD)
+	  - Code des assurances - art. R354-2 (VD)
+	  - Code des assurances - art. R354-2-1 (VD)
+	  - Code des assurances - art. R354-2-3 (VD)
+	  - Code des assurances - art. R354-4 (VD)
+	  - Code des assurances - art. R354-4-1 (VD)
+	  - Code des assurances - art. R354-5 (VD)
+	  - Code des assurances - art. R354-6 (VD)
+	  - Code des assurances - art. R354-7 (VD)
+
+
+###### Article L354-1-1
+
+Les entreprises et succursales visées au premier alinéa de l'article L. 354-1 ainsi que les succursales françaises
+d'entreprises d'assurance mentionnées au 4° de l'article L. 310-2 peuvent être autorisées, dans les conditions définies à
+l'article L. 354-1, à transférer tout ou partie de leur portefeuille de contrats couvrant des risques ou des engagements
+situés sur le territoire d'un Etat membre des Communautés européennes à une ou plusieurs entreprises cessionnaires opérant en
+libre prestation de services au sens de l'article L. 351-1 dans l'Etat du risque ou de l'engagement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Abrogé par**:
 
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 4
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2
+	  - Code des assurances - art. L351-1
+	  - Code des assurances - art. L354-1 (VD)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R321-23 (VT)
+
+
+###### Article L354-2
+
+Le transfert, régulièrement approuvé par les autorités compétentes des Etats concernés, de tout ou partie d'un portefeuille
+de contrats conclus en libre prestation de services au sens de l'article L. 351-1 sur le territoire de la République
+française d'une entreprise établie dans un Etat partie à l'accord sur l'Espace économique européen autre que la France à un
+cessionnaire établi dans un des Etats parties à l'accord sur l'Espace économique européen est opposable aux assurés,
+souscripteurs, bénéficiaires de contrats et créanciers pour autant que les dispositions de la première phrase du deuxième
+alinéa de l'article L. 324-1 ont été respectées et que le ministre chargé de l'économie et des finances n'a pas fait
+opposition au transfert projeté.
+
+Le transfert est opposable à partir du jour où la décision des autorités compétentes des Etats concernés l'autorisant a été
+rendue publique par un avis inséré au Journal officiel. Toutefois, les assurés ont la faculté de résilier le contrat dans le
+délai d'un mois suivant la date de cette publication.
+
+Les dispositions des deux premiers alinéas du présent article sont également applicables aux transferts de portefeuilles de
+contrats couvrant des risques ou des engagements situés sur le territoire de la République française d'entreprises établies
+dans un Etat membre des Communautés européennes dont l'Etat d'origine est un Etat membre des Communautés européennes autre
+que la France à une ou plusieurs entreprises cessionnaires opérant en libre prestation de services au sens de l'article L.
+351-1 sur le territoire de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cite**:
 
 	  - Code des assurances - art. L324-1 (M)
+	  - Code des assurances - art. L351-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L355-1 (VD)
+	  - Code des assurances - art. L356-19 (VD)
+	  - Code des assurances - art. R352-18 (VD)
+	  - Code des assurances - art. R354-2 (VD)
+	  - Code des assurances - art. R354-3 (VD)
+	  - Code des assurances - art. R354-6 (VD)
+	  - Code des assurances - art. R354-8 (VD)
 
 
-###### Article L353-9
+### Titre VI : Libre établissement et libre prestation de services communautaires
 
-Les entreprises établies sur le territoire de la République française peuvent être autorisées, dans les conditions prévues à
-l'article L. 324-1, à transférer tout ou partie de leur portefeuille de contrats conclus en libre prestation de services à un
-cessionnaire établi dans l'Etat de l'engagement si les autorités de contrôle de l'Etat du siège social du cessionnaire
-attestent que celui-ci possède, compte tenu du transfert, la marge de solvabilité nécessaire.
+#### Chapitre Ier : Définitions.
 
-Le transfert ne peut être autorisé par le ministre chargé de l'économie et des finances que s'il a reçu l'accord des
-autorités de contrôle de l'Etat de l'engagement.
+###### Article L361-1
+
+Dans le présent titre :
+
+a) l'expression : "Etat membre" désigne un Etat membre des Communautés européennes ;
+
+b) l'expression : "entreprise d'assurance communautaire" désigne une entreprise d'assurance dont l'Etat d'origine est un Etat
+membre des Communautés européennes autre que la France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 33 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 5
+
+
+#### Chapitre II : Conditions d'exercice.
+
+###### Article L362-1
+
+Toute entreprise d'assurance communautaire peut établir sur le territoire de la République française une succursale
+pratiquant les opérations mentionnées à l'article L. 310-1 pour lesquelles elle a reçu l'agrément des autorités de contrôle
+de son Etat d'origine, sous réserve que le ministre chargé de l'économie et des finances ait préalablement reçu de ces
+dernières les informations requises. Un arrêté dudit ministre fixe les modalités d'application du présent article et
+notamment les conditions dans lesquelles l'entreprise est informée par le ministre de la réception de ces informations et de
+la date à laquelle elle peut commencer son activité.
 
 **Liens relatifs à cet article**
 
@@ -13241,37 +14372,38 @@ autorités de contrôle de l'Etat de l'engagement.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Créé par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 33 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 39 (V)
+	  - Arrêté du 3 septembre 1999 - art. 2 (Ab)
+	  - Arrêté du 3 septembre 1999 - art. 3 (V)
+	  - Arrêté du 18 novembre 1999 - art. 4 (Ab)
+	  - Décret n°2002-429 du 29 mars 2002 - art. 3 (Ab)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 23 (V)
+	  - Code des assurances - art. A362-1 (V)
+	  - Code des assurances - art. L112-7 (VD)
+	  - Code des assurances - art. L362-4 (V)
+	  - Code des assurances - art. R362-2 (VD)
+	  - Code rural et de la pêche maritime - art. R752-39 (VD)
 
 	**Cite**:
 
-	  - Code des assurances - art. L324-1 (M)
+	  - Code des assurances - art. L310-1 (M)
 
 
-###### Article L353-10
+###### Article L362-2
 
-Les entreprises établies sur le territoire de la République française peuvent être autorisées par le ministre chargé de
-l'économie et des finances, dans les conditions prévues à l'article L. 324-1, à transférer tout ou partie de leur
-portefeuille de contrats à un cessionnaire établi dans un Etat membre autre que celui de l'engagement, si les conditions
-suivantes sont remplies :
-
-1° L'autorité de contrôle de l'Etat du siège social du cessionnaire atteste que celui-ci possède, compte tenu du transfert,
-la marge de solvabilité nécessaire ;
-
-2° L'autorité de contrôle de l'Etat où est établi le cessionnaire a donné son accord ;
-
-3° Le cessionnaire établit avoir satisfait dans l'Etat membre de l'engagement aux conditions exigées par cet Etat pour y
-opérer en libre prestation de services ;
-
-4° L'autorité de contrôle de l'Etat membre de l'engagement a donné son accord sur ce transfert.
+Toute entreprise d'assurance communautaire établie dans un Etat membre autre que la France peut couvrir ou prendre sur le
+territoire de la République française, en libre prestation de services à partir de cet établissement, des risques ou des
+engagements conformément aux agréments qui lui ont été accordés par les autorités de contrôle de son Etat d'origine, sous
+réserve que le ministre chargé de l'économie et des finances ait préalablement reçu de ces dernières les informations
+requises. Un arrêté fixe les modalités d'application du présent article comme il est dit à l'article précédent.
 
 **Liens relatifs à cet article**
 
@@ -13281,33 +14413,32 @@ opérer en libre prestation de services ;
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Créé par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 33 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-5 du 4 janvier 1994 - art. 39 (V)
+	  - Arrêté du 3 septembre 1999 - art. 2 (Ab)
+	  - Arrêté du 3 septembre 1999 - art. 3 (V)
+	  - Décret n°2002-429 du 29 mars 2002 - art. 3 (Ab)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 23 (V)
+	  - Code des assurances - art. A362-2 (VD)
+	  - Code des assurances - art. L112-7 (VD)
+	  - Code des assurances - art. L365-1 (V)
+	  - Code rural et de la pêche maritime - art. R752-39 (VD)
 
-	**Cite**:
 
-	  - Code des assurances - art. L324-1 (M)
+###### Article L362-3
 
-
-###### Article L353-11
-
-Le transfert de tout ou partie d'un portefeuille de contrats conclus en libre prestation de services, afférents à des
-engagements pris sur le territoire de la République française, d'une entreprise établie dans un Etat membre autre que la
-France à un cessionnaire établi dans un des Etats membres des communautés européennes est opposable aux assurés,
-souscripteurs, bénéficiaires de contrats et créanciers pour autant que les dispositions du deuxième alinéa de l'article L.
-324-1 ont été respectées et que le ministre chargé de l'économie et des finances n'a pas fait opposition au transfert
-projeté.
-
-Le transfert est opposable à partir du jour où la décision l'autorisant a été rendue publique par un avis inséré au Journal
-officiel. Toutefois, il n'est opposable aux assurés qu'à l'expiration d'un délai d'un mois suivant la date de cette
-publication. Au cours de ce délai, les assurés ont la faculté de résilier le contrat.
+Toute entreprise d'assurance communautaire couvrant en libre prestation de services sur le territoire de la République
+française les risques de responsabilité civile résultant de l'emploi de véhicules terrestres à moteur désigne en France un
+représentant pour la gestion des sinistres à raison de ces risques à l'exclusion de la responsabilité civile du transporteur.
+Les missions du représentant, qui sont exclusives de toute opération d'assurance pour le compte de l'entreprise qu'il
+représente au titre de la gestion des sinistres, sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -13317,18 +14448,214 @@ publication. Au cours de ce délai, les assurés ont la faculté de résilier le
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 
 	**Créé par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 33 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Code des assurances - art. R362-1 (V)
+
+
+###### Article L362-4
+
+Les opérations réalisées conformément aux dispositions des articles L. 362-1 et L. 362-2 ne sont pas soumises aux
+dispositions des titres II à V du présent livre. 
+
+Un décret en Conseil d'Etat précise, en tant que de besoin, les obligations auxquelles sont astreintes pour des raisons
+d'intérêt général les entreprises mentionnées aux articles L. 362-1 et L. 362-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 33 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cite**:
 
+	  - Code des assurances - art. L362-1 (V)
+
+
+#### Chapitre III : Contrôle et sanctions.
+
+###### Article L363-1
+
+En vue d'exercer le contrôle des entreprises d'assurance communautaires et par dérogation aux dispositions de l'article 1er
+bis de la loi n° 68-678 du 26 juillet 1968 relative à la communication de documents et renseignements d'ordre économique,
+commercial, industriel, financier ou technique à des personnes physiques ou morales, les autorités de contrôle de l'Etat
+d'origine des entreprises peuvent exiger d'elles et de leurs succursales établies en France communication de toutes
+informations utiles à l'exercice de ce contrôle.
+
+Sous la seule réserve d'en avoir préalablement informé la Commission de contrôle des assurances, les autorités de contrôle de
+l'Etat d'origine des entreprises peuvent procéder, par elles-mêmes ou par l'intermédiaire de personnes qu'elles mandatent à
+cet effet, à des contrôles sur place des succursales établies sur le territoire de la République française des entreprises
+d'assurance communautaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°68-678 1968-07-26 art. 1 bis
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 33 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+
+###### Article L363-2
+
+Sur demande justifiée de l'autorité de contrôle de l'Etat d'origine des entreprises, la Commission de contrôle des assurances
+restreint ou interdit la libre disposition de tout ou partie de ceux des actifs des entreprises d'assurance communautaires
+qui sont localisés sur le territoire de la République française.
+
+Lorsqu'elle est informée qu'une entreprise d'assurance communautaire opérant en France en libre prestation de services ou en
+libre établissement a fait l'objet d'un retrait d'agrément ou est en liquidation, la commission apporte son concours à
+l'autorité de contrôle de l'Etat d'origine et, à la demande de celle-ci, prend les mesures nécessaires pour protéger les
+intérêts des assurés, dans les conditions définies à l'article L. 323-1-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 33 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L323-1-1 (M)
+
+
+###### Article L363-3
+
+Toute entreprise d'assurance communautaire opérant sur le territoire de la République française en régime d'établissement ou
+en libre prestation de services doit être en mesure de communiquer à tout moment tous documents et éléments d'information lui
+permettant de justifier qu'elle respecte les obligations qui s'imposent à elle en application du présent code. Elle est tenue
+de communiquer ces documents et informations à la Commission de contrôle des assurances, à la demande de celle-ci. Un arrêté
+précise, en tant que de besoin, les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 33 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+
+###### Article L363-4
+
+Lorsqu'une entreprise communautaire ne respecte pas les dispositions législatives ou réglementaires qui s'imposent à elle, la
+Commission de contrôle des assurances peut mettre en oeuvre la procédure définie à l'article L. 351-7.
+
+Si l'entreprise persiste à enfreindre les règles qui s'imposent à elle, la Commission de contrôle des assurances peut, si les
+circonstances l'exigent, prendre les mesures appropriées pour prévenir de nouvelles irrégularités : elle peut prononcer, dans
+les conditions fixées aux neuvième, dixième et onzième alinéas de l'article L. 310-18, les sanctions prévues aux deuxième,
+troisième et quatrième alinéas ainsi qu'au huitième alinéa de cet article ; elle peut également, dans les mêmes conditions,
+suspendre le mandataire général et interdire à l'entreprise de continuer de conclure des contrats d'assurance sur le
+territoire de la République française.
+
+En cas d'urgence, les mesures prévues au précédent alinéa peuvent être prises sans mise en oeuvre préalable de la procédure
+définie à l'article L. 351-7.
+
+Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 33 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. L212-3 (VD)
+	  - Code des assurances - art. L215-1 (VD)
+	  - Code des assurances - art. L252-2 (V)
+	  - Code des assurances - art. L451-2 (VD)
+	  - Code des assurances - art. R363-1 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L351-7 (M)
+
+
+#### Chapitre IV : Transferts de portefeuille.
+
+###### Article L364-1
+
+Le transfert de tout ou partie d'un portefeuille de contrats conclus sur le territoire de la République française en régime
+d'établissement ou en libre prestation de services d'une entreprise d'assurance communautaire à un cessionnaire établi dans
+un Etat membre des Communautés européennes dont l'Etat d'origine est également membre des Communautés européennes ou à un
+cessionnaire agréé conformément aux dispositions des articles L. 321-7 et L. 321-9 est opposable aux assurés, souscripteurs,
+bénéficiaires de contrats et créanciers pour autant que les dispositions de la première phrase du deuxième alinéa de
+l'article L. 324-1 ont été respectées et que le ministre chargé de l'économie et des finances n'a pas fait opposition au
+transfert projeté.
+
+Le transfert est opposable à partir du jour où la décision des autorités compétentes des Etats concernés l'autorisant a été
+rendue publique par un avis inséré au Journal officiel. Toutefois, les assurés ont la faculté de résilier le contrat dans le
+délai d'un mois suivant la date de cette publication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 33 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L321-9 (M)
 	  - Code des assurances - art. L324-1 (M)
 
 
@@ -13474,7 +14801,7 @@ commissions sont fixées par décret en Conseil d'Etat.
 ###### Article L411-4
 
 La commission des entreprises d'assurance est consultée préalablement aux décisions relatives à l'agrément des entreprises
-d'assurance prévues aux articles L. 321-1, L. 321-1-1 et L. 325-1.
+d'assurance prévues aux articles L. 321-1, L. 321-7, L. 321-8, L. 321-9 et L. 325-1.
 
 La commission des entreprises d'assurance est présidée par le ministre de l'économie et des finances ou son représentant
 désigné à cet effet.
@@ -13485,18 +14812,20 @@ désigné à cet effet.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
-
 	**Modifié par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 16 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°94-5 du 4 janvier 1994 - art. 38 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Abrogé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 22 () JORF 2 août 2003
 
 	**Cite**:
 
 	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L321-1-1 (M)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L321-8 (M)
+	  - Code des assurances - art. L321-9 (M)
 
 	**Cité par**:
 
@@ -14940,22 +16269,13 @@ par l'article 15 de la loi n° 49-874 du 5 juillet 1949.
 
 ###### Article L441-1
 
-Seules les personnes physiques ou morales mentionnées au présent chapitre sont autorisées à participer directement ou
-indirectement, notamment par la collecte de primes ou cotisations, par la constitution de capitaux payables en cas de vie,
-par la constitution et le service de retraites ou avantages viagers, à toute opération de prévoyance collective ou
-d'assurance ayant pour objet l'acquisition ou la jouissance de droits en cas de vie qui ne sont pas couverts, intégralement
-et à tout moment, par des provisions mathématiques.
-
-Toutefois, demeurent en dehors du champ d'application du présent chapitre les régimes mentionnés aux articles L. 1 à L. 3 et
-au livre VIII du code de la sécurité sociale et aux titres II et V du livre VII du code rural autres que les institutions
-mentionnées à l'article 1050 dudit code rural et que les sections mutualistes des caisses mutuelles d'assurances sociales
-agricoles mentionnées à l'article 1052 du code rural.
+Les entreprises d'assurance sur la vie sont autorisées à participer directement ou indirectement, notamment par la collecte
+de primes ou cotisations, par la constitution de capitaux payables en cas de vie, par la constitution et le service de
+retraites ou avantages viagers, à toute opération ayant pour objet l'acquisition ou la jouissance de droits en cas de vie
+dans laquelle un lien est établi entre la revalorisation des primes et celle des droits en cas de vie précédemment acquis et
+dont les actifs et les droits sont isolés de ceux des autres assurés et soumis aux conditions prévues au présent chapitre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-75 1959-01-07 art. 1
 
 	**Codifié par**:
 
@@ -14984,6 +16304,7 @@ agricoles mentionnées à l'article 1052 du code rural.
 	  - TXT_SOURCE: Arrêté du 31 août 1993 - art. Annexe , 7 (V)
 	  - TXT_SOURCE: Arrêté du 31 août 1993 - art. Annexe , 8 (V)
 	  - TXT_SOURCE: Arrêté du 31 août 1993 - art. Annexe , 9 (V)
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - TXT_SOURCE: Arrêté du 9 juin 1995
 	  - TXT_SOURCE: Arrêté du 9 juin 1995 - art. 1 ()
 	  - TXT_SOURCE: Arrêté du 9 juin 1995 - art. 2 ()
@@ -14999,6 +16320,10 @@ agricoles mentionnées à l'article 1052 du code rural.
 	  - TXT_SOURCE: Décret n°2004-571 du 14 juin 2004
 	  - TXT_SOURCE: Décret n°2004-571 du 14 juin 2004 - art. 11 (V)
 	  - TXT_ASSOCIE: Code des assurances L441-6 *sanctions pénales*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 29 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -15054,99 +16379,35 @@ agricoles mentionnées à l'article 1052 du code rural.
 	  - Code monétaire et financier - art. L611-3-1 (V)
 	  - Code rural et de la pêche maritime - art. D741-39 (Ab)
 
-	**Cite**:
 
-	  - Code rural 1050, 1052
-	  - Code de la sécurité sociale L1 à L3
+###### Article L441-4
 
-
-###### Article L441-2
-
-Dans le cas d'avantages au profit de travailleurs salariés ou assimilés, résultant d'une convention collective ou du contrat
-de travail et s'ajoutant à ceux qui résultent des organisations de sécurité sociale ou de mutualité sociale agricole, les
-opérations mentionnées à l'article L. 441-1 ne peuvent être effectuées que par des institutions relevant, soit de l'article
-L. 4 du code de la sécurité sociale ou des articles 1050 et 1052 du code rural, soit du code de la mutualité, et agissant
-conformément aux réglementations qui leur sont propres.
-
-Toutefois, les entreprises d'assurance peuvent apporter leur concours aux institutions relevant de l'article L. 732-1 du code
-de sécurité sociale ou de l'article 1050 du code rural.
+Tout contrat ou convention non conforme aux dispositions du présent chapitre et des décrets en Conseil d'Etat pris pour
+l'application des articles L. 441-7 et L. 441-10, est nul de plein droit.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 59-75 1959-01-07 art. 6
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - TXT_ASSOCIE: Code des assurances L441-6 *sanctions pénales*
+
 	**Modifié par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 7 () JORF 17 juillet 1992
-
-	**Abrogé par**:
 
 	  - Loi n°94-5 du 4 janvier 1994 - art. 29 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cite**:
-
-	  - Code de la sécurité sociale L4
-	  - Code des assurances - art. L441-1 (M)
-	  - Code de la mutualité L732-1
-	  - Code rural 1050, 1052
-
-	**Cité par**:
 
 	  - Code des assurances - art. L441-10 (M)
-	  - Code des assurances - art. L441-11 (Ab)
-	  - Code des assurances - art. L441-3 (Ab)
 	  - Code des assurances - art. L441-7 (M)
-	  - Code des assurances - art. L441-9 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances L441-6 *sanctions pénales*
-
-
-###### Article L441-3
-
-Dans tous les cas autres que ceux mentionnés à l'article L. 441-2, les opérations prévues à l'article L. 441-1 ne peuvent
-être réalisées que par des institutions relevant du code de la mutualité et de l'article 1052 du code rural, ou par des
-entreprises d'assurance et agissant conformément aux réglementations qui leur sont propres.
-
-Toutefois, la collecte des primes et cotisations, ainsi que le paiement des prestations peuvent être réalisés par
-l'intermédiaire d'autres personnes physiques ou morales, à la condition que ces dernières agissent pour le compte
-d'entreprises d'assurance dans les conditions et sous les contrôles qui sont déterminés par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
-
-	**Abrogé par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 29 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cité par**:
-
-	  - Code des assurances - art. A441-1 (M)
-	  - Code des assurances - art. L441-11 (Ab)
-	  - Code des assurances - art. L441-9 (Ab)
-	  - Code des assurances - art. R*441-12 (M)
-	  - Code des assurances - art. R*441-4 (M)
-	  - Code des assurances - art. R441-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L441-1 (M)
-	  - Code des assurances - art. L441-2 (M)
-	  - Code rural 1052
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances L441-6 *sanctions pénales*
 
 
 ###### Article L441-5
@@ -15201,14 +16462,9 @@ d'un emprisonnement de six mois ou de l'une de ces deux peines seulement [*sanct
 
 ###### Article L441-7
 
-Un décret en Conseil d'Etat détermine les règles techniques et les conditions d'application du présent chapitre, notamment la
-date d'entrée en vigueur des dispositions de l'article L. 441-2.
+Un décret en Conseil d'Etat détermine les règles techniques et les conditions d'application du présent chapitre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-75 1959-01-07 art. 9
 
 	**Codifié par**:
 
@@ -15216,12 +16472,13 @@ date d'entrée en vigueur des dispositions de l'article L. 441-2.
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - SPEC_APPLI: Code des assurances - art. L441-2 (M)
 	  - SPEC_APPLI: Code des assurances - art. L441-3 (M)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des assurances - art. L441-2 (M)
+	  - Loi n°94-5 du 4 janvier 1994 - art. 29 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -15232,24 +16489,29 @@ date d'entrée en vigueur des dispositions de l'article L. 441-2.
 
 ###### Article L441-8
 
-Lorsqu'une entreprise d'assurance entend, par application des articles L. 441-2 et L. 441-3, pratiquer des opérations
-relevant de l'article L. 441-1, elle doit, pour ces opérations, tenir des comptabilités entièrement distinctes.
+Lorsqu'une entreprise d'assurance entend pratiquer des opérations relevant de l'article L. 441-1, elle doit, pour ces
+opérations, tenir des comptabilités entièrement distinctes.
 
 L'actif correspondant à ces opérations est affecté au règlement des prestations liquidées ou non. Il est grevé à cet effet :
 
-a) D'une hypothèque légale sur les immeubles qui prend rang à la date de son inscription :
+a) D'une hypothèque légale sur les immeubles qui prend rang à la date de son inscription ;
 
-b) D'un privilège mobilier qui prime le privilège prévu au premier alinéa de l'article L. 372-2.
+b) D'un privilège mobilier et d'un privilège immobilier qui priment les privilèges respectivement prévus au premier et au
+deuxième alinéas de l'article L. 327-2.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-75 1959-01-07 art. 4
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 29 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -15266,38 +16528,41 @@ b) D'un privilège mobilier qui prime le privilège prévu au premier alinéa de
 	  - Code général des impôts, CGI. - art. 38 (VT)
 	  - Code général des impôts, CGI. - art. 39 duodecies (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code des assurances L441-6 *sanctions pénales*
+	  - Code des assurances - art. L327-2 (M)
+	  - Code des assurances - art. L441-1 (M)
 
 
 ##### Section IV : Dispositions transitoires.
 
 ###### Article L441-10
 
-Les institutions et conventions de toute nature existant au 9 janvier 1959 et pratiquant ou prévoyant des opérations relevant
-des articles L. 441-1 et L. 441-2 devront être rendues conformes aux dispositions du présent chapitre dans les délais
-déterminés par décret en Conseil d'Etat, lequel fixe, le cas échéant, les conditions d'adaptation des contrats et conventions
-antérieurs.
-
-Ce décret en Conseil d'Etat définit également les conditions dans lesquelles les organismes mentionnés au présent chapitre
-prendront la suite des opérations pratiquées ou prévues par les institutions ou conventions qui n'auront pas satisfait à
-l'obligation de l'alinéa précédent.
+Les conventions de toute nature existant et pratiquant ou prévoyant des opérations relevant de l'article L. 441-1 devront
+être rendues conformes aux dispositions du présent chapitre dans les délais déterminés par décret en Conseil d'Etat, lequel
+fixe, le cas échéant, les conditions d'adaptation des contrats et conventions antérieurs.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-75 1959-01-07 art. 6
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 29 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 2
+
 	**Cite**:
 
-	  - Code des assurances - art. L441-1 (M)
-	  - Code des assurances - art. L441-2 (M)
+	  - Code des assurances - art. L441-1
 
 	**Cité par**:
 
@@ -15594,17 +16859,13 @@ F, ou de l'une de ces deux peines seulement [*sanctions*].
 
 ###### Article L514-2
 
-Toute personne qui présentera en vue de leur souscription ou fera souscrire des contrats pour le compte d'une entreprise
-soumise au contrôle de l'Etat en application de l'article L. 310-1, et non agréée pour la branche dans laquelle entrent ces
-contrats, sera punie d'une amende de 25.000 F et, en cas de récidive, d'une amende de 50.000 F et d'un emprisonnement de six
-mois, ou de l'une de ces deux peines seulement.
+Le fait de présenter en vue de leur souscription ou de faire souscrire des contrats pour le compte d'une entreprise soumise
+au contrôle de l'Etat en application de l'article L. 310-1 et non habilitée à pratiquer les opérations correspondantes sur le
+territoire de la République française est puni d'une amende de 20 000 F et, en cas de récidive, d'une amende de 100 000 F et
+d'un emprisonnement de six mois [*sanctions pénales*].
 
-L'amende prévue au présent article sera prononcée pour chacun des contrats proposés ou souscrits, sans que le total des
-amendes encourues puisse excéder 15.000 F et, en cas de récidive, 40.000 F.
-
-Les dispositions du présent article ne sont pas applicables aux personnes qui présentent en vue de leur souscription ou font
-souscrire des contrats de coassurance communautaire répondant aux prescriptions de l'article L. 321-4 pour le compte
-d'entreprises dispensées de l'agrément en application des dispositions de cet article.
+L'amende prévue au présent article est prononcée pour chacun des contrats proposés ou souscrits, sans que le total des
+amendes encourues puisse excéder 40 000 F et en cas de récidive 200 000 F.
 
 **Liens relatifs à cet article**
 
@@ -15612,19 +16873,17 @@ d'entreprises dispensées de l'agrément en application des dispositions de cet 
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 38 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L321-4 (Ab)
+	  - Code des assurances - art. L514-1 (M)
 
 
 ###### Article L514-4
