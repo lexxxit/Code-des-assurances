@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-11-28
+Version Consolidée au 1992-12-29
 
 # Partie législative
 
@@ -15031,28 +15031,6 @@ nécessaires pour garantir la protection des assurés.
 
 ### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes.
 
-#### Chapitre Ier : Dispositions générales.
-
-###### Article R*111-1
-
-Plusieurs risques différents, notamment par leur nature ou par leur taux, peuvent être assurés par une police unique.
-Plusieurs assureurs peuvent également s'engager par une police unique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 114
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-
 #### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.
 
 ###### Article R112-1
@@ -15153,98 +15131,6 @@ leur nature et la date de leur remise.
 
 #### Chapitre III : Obligations de l'assureur et de l'assuré.
 
-###### Article R*113-1
-
-La mise en demeure prévue au deuxième alinéa de l'article L. 113-3 résulte de l'envoi d'une lettre recommandée, adressée à
-l'assuré, ou à la personne chargée du paiement des primes, à leur dernier domicile connu de l'assureur. Si ce domicile est
-situé hors de la France métropolitaine, la lettre recommandée est accompagnée d'une demande d'avis de réception. Cette
-lettre, dont les frais d'établissement et d'envoi incombent à l'assureur, doit indiquer expressément qu'elle est envoyée à
-titre de mise en demeure, rappeler le montant et la date d'échéance de la prime et reproduire l'article L. 113-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-499 1967-06-23 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L113-3 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L113-3 (M)
-
-
-###### Article R*113-2
-
-La résiliation du contrat, en application du troisième alinéa de l'article L. 113-3, peut être notifiée par l'assureur, soit
-dans la lettre recommandée de mise en demeure, soit dans une nouvelle lettre recommandée adressée à l'assuré. La résiliation
-ne prend effet que si la prime, ou fraction de prime, n'a pas été payée avant l'expiration du délai de quarante jours suivant
-l'envoi de la lettre recommandée de mise en demeure.
-
-Toutefois, lorsqu'une nouvelle lettre recommandée est adressée à l'assuré après l'expiration de ce délai de quarante jours,
-la résiliation prend effet de la date d'envoi de cette nouvelle lettre, à condition que la prime ou fraction de prime n'ait
-pas été payée avant ladite lettre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-499 1967-06-23 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L113-3 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L113-3 (M)
-
-
-###### Article R*113-3
-
-Les délais fixés par l'article L. 113-3 et par l'article R. 113-2 ne sont pas augmentés à raison des distances ; toutefois,
-lorsque la mise en demeure doit être adressée dans un lieu situé hors de la France métropolitaine, le délai de trente jours
-fixé par le deuxième alinéa de l'article L. 113-3 ne court que du jour de la remise de la lettre recommandée, tel qu'il
-résulte des énonciations de l'avis de réception.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-499 1967-06-23 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L113-3 (M)
-	  - Code des assurances L113-3, R113-2
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L113-3 (M)
-
-
 ###### Article R*113-4
 
 A chaque échéance de prime, l'assureur est tenu d'aviser l'assuré, ou la personne chargée du paiement des primes, de la date
@@ -15259,145 +15145,6 @@ de l'échéance et du montant de la somme dont il est redevable.
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
-
-
-###### Article R*113-5
-
-Par dérogation au principe général posé au premier alinéa de l'article L. 113-3, la prime d'assurance est payable au domicile
-de l'assuré ou à tout autre lieu convenu lorsque la demande en est faite par un assuré, qui, par suite d'infirmité ou de
-vieillesse, n'est pas en mesure de se déplacer ou qui habite au-delà d'un rayon de trois kilomètres à partir d'une recette
-postale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-499 1967-06-23 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L113-3 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L113-3 (M)
-
-
-###### Article R*113-6
-
-Lorsqu'une partie entend résilier un contrat d'assurance en vertu de l'article L. 113-16, elle doit adresser à l'autre partie
-une lettre recommandée avec demande d'avis de réception, indiquant la nature et la date de l'événement qu'elle invoque et
-donnant toutes précisions de nature à établir que la résiliation est en relation directe avec ledit événement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-611 1973-06-29 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. L113-16 (M)
-
-
-###### Article R*113-7
-
-La date à partir de laquelle le délai de résiliation est ouvert à l'assuré en raison de la survenance d'un des événements
-prévus à l'article L. 113-16 est celle à laquelle la situation nouvelle prend naissance.
-
-Toutefois, en cas de retraite professionnelle ou de cessation définitive d'activité professionnelle, le point de départ du
-délai est le lendemain de la date à laquelle la situation antérieure prend fin.
-
-Lorsque l'un quelconque des événements est constitué ou constaté par une décision juridictionnelle ou lorsqu'il ne peut en
-être déduit d'effets juridiques qu'après une homologation ou un exequatur, la date retenue est celle à laquelle cet acte
-juridictionnel est passé en force de chose jugée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-611 1973-06-29 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L113-16 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L113-16 (M)
-
-
-###### Article R*113-8
-
-La lettre de notification de l'assuré est accompagnée :
-
-- en cas de mariage ou de décès, d'un extrait des actes de l'état civil ou d'une fiche d'état civil ;
-
-- en cas de changement de régime matrimonial, d'une expédition ou d'un extrait de la décision juridictionnelle prononçant ou
-homologuant le changement et passée en force de chose jugée ou encore d'une attestation du notaire ayant reçu l'acte
-modificatif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-611 1973-06-29 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L113-16 (M)
-
-
-###### Article R*113-9
-
-Le délai au cours duquel le droit de résilier le contrat d'assurance est ouvert à l'assureur part du jour où il a reçu
-notification de l'événement par lettre recommandée avec demande d'avis de réception.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-611 1973-06-29 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L113-16 (M)
 
 
 ###### Article R*113-10
@@ -15437,13 +15184,58 @@ plus garantis.
 	  - Décret n°1938-12-30 art. 112
 
 
+###### Article R113-1
+
+La mise en demeure prévue au deuxième alinéa de l'article L. 113-3 résulte de l'envoi d'une lettre recommandée, adressée à
+l'assuré, ou à la personne chargée du paiement des primes, à leur dernier domicile connu de l'assureur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L113-3 (V)
+
+
+###### Article R113-6
+
+Lorsqu'une partie entend résilier un contrat d'assurance en vertu de l'article L. 113-16, elle doit adresser à l'autre partie
+une lettre recommandée avec demande d'avis de réception, indiquant la nature et la date de l'événement qu'elle invoque et
+donnant toutes précisions de nature à établir que la résiliation est en relation directe avec ledit événement. 
+
+Lorsque cet événement est constitué ou constaté par une décision juridictionnelle ou lorsqu'il ne peut en être déduit
+d'effets juridiques qu'après une homologation ou un exequatur, la date retenue est celle à laquelle cet acte juridictionnel
+est passé en force de chose jugée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-1356 du 22 décembre 1992 - art. 1 () JORF 29 décembre 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L113-16 (V)
+
+
 #### Chapitre IV : Compétence et prescription.
 
-###### Article R*114-1
+###### Article R114-1
 
-Dans toutes les instances relatives à la fixation et au règlement des indemnités dues, le défendeur (assureur ou assuré) est
-assigné devant le tribunal du domicile de l'assuré, de quelque espèce d'assurance qu'il s'agisse, sauf en matière d'immeubles
-ou de meubles par nature, auquel cas le défendeur est assigné devant le tribunal de la situation des objets assurés.
+Dans toutes les instances relatives à la fixation et au règlement des indemnités dues, le défendeur est assigné devant le
+tribunal du domicile de l'assuré, de quelque espèce d'assurance qu'il s'agisse, sauf en matière d'immeubles ou de meubles par
+nature, auquel cas le défendeur est assigné devant le tribunal de la situation des objets assurés.
 
 Toutefois, s'il s'agit d'assurances contre les accidents de toute nature, l'assuré peut assigner l'assureur devant le
 tribunal du lieu où s'est produit le fait dommageable.
@@ -15454,9 +15246,9 @@ tribunal du lieu où s'est produit le fait dommageable.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1930-07-13 art. 3
+	  - Décret n°92-1356 du 22 décembre 1992 - art. 2 () JORF 29 décembre 1992
 
 
 ### Titre II : Règles relatives aux assurances de dommages non maritimes
@@ -15482,26 +15274,6 @@ victimes ou à leurs ayants droit.
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
-
-
-###### Article R*124-2
-
-Les dépens résultant de toute poursuite en responsabilité dirigée contre l'assuré sont à la charge de l'assureur, sauf
-convention contraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 51
 
 
 #### Chapitre VI : L'assurance contre les actes de terrorisme
@@ -15555,40 +15327,26 @@ acte de terrorisme ou un attentat.
 
 ###### Article R127-1
 
-Les documents contractuels relatifs à l'assurance de protection juridique, mentionnés à l'article L. 127-2 du présent code,
-doivent, lorsque l'entreprise d'assurance a opté pour la modalité de gestion prévue au premier tiret du premier alinéa de
-l'article L. 321-6, indiquer ce choix.
+Les documents contractuels relatifs à l'assurance de protection juridique, mentionnés à l'article L. 127-2, doivent indiquer
+la modalité de gestion, prévue à l'article L. 321-6, pour laquelle l'entreprise a opté. 
 
-L'assuré doit, dès la première demande de mise en jeu de la garantie de protection juridique, être informé sans délai, par
-l'entreprise d'assurance, de l'adresse du ou des services distincts assurant le traitement des sinistres de la branche de
-protection juridique.
+Si l'entreprise a opté pour celle prévue au premier tiret du premier alinéa de l'article L. 321-6, l'assuré doit, dès la
+première demande de mise en jeu de la garantie de protection juridique, être informé sans délai, par l'entreprise
+d'assurance, de l'adresse du ou des services assurant le traitement des sinistres de la branche Protection juridique. 
 
-**Liens relatifs à cet article**
+Lorsque l'entreprise d'assurance a opté pour la modalité de gestion prévue au deuxième tiret du premier alinéa du même
+article, les documents contractuels doivent indiquer la dénomination et le siège de l'entreprise juridiquement distincte à
+qui est confiée la gestion des sinistres de la branche Protection juridique. 
 
-	**Codifié par**:
+Lorsque l'entreprise d'assurance a opté pour la modalité de gestion prévue au troisième tiret du premier alinéa du même
+article, les documents contractuels indiquent, en caractères très apparents, que lorsque l'assuré est en droit de réclamer,
+au titre de la police, l'intervention de l'assurance de protection juridique, il a le droit de confier la défense de ses
+intérêts à un avocat ou à une personne qualifiée de son choix. Dès réception d'une déclaration de sinistre, l'assureur
+informe l'assuré qu'il bénéficie de ces mêmes dispositions législatives.
 
-	  - Décret n°90-697 1990-08-01
+**Nota:**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-697 1990-08-01 art. 3 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°90-697 du 1 août 1990 - art. 1 () JORF 8 août 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L127-2 (V)
-	  - Code des assurances - art. L321-6 (T)
-
-
-###### Article R127-2
-
-Les documents contractuels relatifs à l'assurance de protection juridique, mentionnés à l'article L. 127-2, doivent, lorsque
-l'entreprise d'assurance a opté pour la modalité de gestion prévue au deuxième tiret du premier alinéa de l'article L. 321-6,
-indiquer la dénomination et le siège de l'entreprise juridiquement distincte à qui est confiée la gestion des sinistres de la
-branche de protection juridique.
+Les dispositions de l'article L321-6 sont transférées sous l'article L322-2-3 auquel il convient désormais de se référer.
 
 **Liens relatifs à cet article**
 
@@ -15596,57 +15354,14 @@ branche de protection juridique.
 
 	  - Décret n°90-697 1990-08-01
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°90-697 1990-08-01 art. 3 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°90-697 du 1 août 1990 - art. 1 () JORF 8 août 1990
+	  - Décret n°92-1356 du 22 décembre 1992 - art. 3 () JORF 29 décembre 1992
 
 	**Cite**:
 
 	  - Code des assurances - art. L127-2 (V)
 	  - Code des assurances - art. L321-6 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R127-1 (2ème version)
-
-
-###### Article R127-3
-
-Les documents contractuels relatifs à l'assurance de protection juridique mentionnés à l'article L. 127-2 doivent, lorsque
-l'entreprise d'assurance a opté pour la modalité de gestion prévue au troisième tiret du premier alinéa de l'article L.
-321-6, comporter une mention indiquant, en caractères très apparents, que lorsque l'assuré est en droit de réclamer
-l'intervention de l'assurance de protection juridique au titre de la police, il a le droit de confier la défense de ses
-intérêts à un avocat ou à une personne qualifiée de son choix.
-
-En outre, dès la réception d'une déclaration de sinistre, l'assureur de protection juridique dont la garantie intervient
-informe l'assuré du droit mentionné à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°90-697 1990-08-01
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-697 1990-08-01 art. 3 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°90-697 du 1 août 1990 - art. 1 () JORF 8 août 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L127-2 (V)
-	  - Code des assurances - art. L321-6 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R127-1 (2ème version)
 
 
 ### Titre III : Règles relatives aux assurances de personnes
@@ -16421,96 +16136,7 @@ des Terres australes et antarctiques françaises et de Wallis et Futuna, et dans
 
 #### Chapitre unique
 
-##### Section I : Rédaction du contrat en langue française.
-
-###### Article R*160-1
-
-Les conditions générales et particulières des contrats souscrits ou exécutés sur le territoire de la République française,
-les avenants et autres documents se rapportant à leur exécution doivent être rédigés en langue française.
-
-Toutefois, pour les risques liés aux transports internationaux, une dérogation peut être accordée pour chaque cas particulier
-par le ministre de l'économie et des finances.
-
-Les dispositions du présent article sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis-et-Futuna.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 182
-	  - Ordonnance 45-2241 1945-09-29 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-
 ##### Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés.
-
-###### Article R*160-2
-
-La déclaration, prévue à l'article L. 160-1 énonce les nom, prénoms, profession, nationalité et domicile du signataire,
-indique, autant que possible, toutes les circonstances de nature à identifier le contrat, notamment le numéro du titre s'il
-s'agit d'un bon de capitalisation ou d'épargne, et fait connaître les circonstances de sa disparition.
-
-La signature du déclarant doit être légalisée par le maire ou par toute autre autorité compétente.
-
-L'opposant peut donner mainlevée de l'opposition mentionnée au dernier alinéa de l'article L. 160-1, soit par la remise de la
-lettre d'accusé de réception émargée d'une mention de mainlevée, soit par une déclaration de mainlevée notifiée à
-l'entreprise par lettre recommandée avec avis de réception ; dans tous les cas, sa signature doit être légalisée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L160-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-12-03 art. 1
-
-
-###### Article R*160-3
-
-Les oppositions sont inscrites sur un registre spécial tenu au siège social de l'entreprise d'assurance, de capitalisation ou
-d'épargne, conformément au modèle fixé par arrêté ministériel.
-
-Un répertoire desdites oppositions, conforme aux mêmes indications, est également tenu.
-
-Sur la réquisition de toute personne justifiant d'un droit acquis sur un contrat déterminé, l'entreprise doit faire connaître
-les oppositions dont ce contrat peut être l'objet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Cité par**:
-
-	  - Code des assurances - art. A160-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-12-03 art. 2
-
 
 ###### Article R*160-4
 
@@ -16581,55 +16207,6 @@ conservant à l'égard de tous autres les recours du droit commun.
 	**Anciens textes**:
 
 	  - Loi n°1930-12-03 art. 5
-
-
-##### Section III : Contrats d'assurance libellés en monnaie étrangère.
-
-###### Article R*160-7
-
-L'autorisation mentionnée à l'article L. 160-3 est délivrée par le ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L160-3 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1942-04-17 art. 1
-
-
-###### Article R*160-8
-
-Le versement par le souscripteur de primes d'assurance, payables dans une monnaie autre que le franc français, fait l'objet
-d'autorisation préalable du ministre de l'économie et des finances.    Toute personne qui aura effectué sans autorisation un
-tel versement sera passible d'un emprisonnement de huit à quinze jours et d'une amende de 3.000 à 6.000 F [*sanctions*] ou de
-l'une de ces deux peines seulement.
-
-En cas de récidive, la peine d'emprisonnement pourra être portée à un mois et celle d'amende à 12.000 F.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 179 ter
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
 
 
 ##### Section V : Effet sur les contrats d'assurance de la réquisition des biens et services.
@@ -16742,157 +16319,6 @@ communiquer sa police à l'administration.
 	**Cité par**:
 
 	  - Décret n°94-700 du 10 août 1994 - art. 1 (V)
-
-
-##### Section VI : Assurances sur la vie en temps de guerre.
-
-###### Article R*160-13
-
-Les décrets mentionnés à l'article L. 160-18 sont pris sur le rapport du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L160-18 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1919-07-22 art. 17
-
-
-###### Article R*160-14
-
-Dans tous les cas où le taux d'intérêt d'après lequel doivent être effectués les calculs nécessaires pour l'application des
-articles L. 160-10 à L. 160-18 n'est pas spécifié par une disposition des mêmes articles, ce taux ne peut être différent du
-taux employé pour la détermination des primes des contrats que concernent les calculs à effectuer. Toutefois, cette règle ne
-met pas obstacle, sauf en ce qui concerne les contrats d'assurance en cas de décès suspendus en raison de la participation de
-l'assuré à la guerre, à l'emploi, en vue du calcul des intérêts de retard des primes arriérées pour la durée des hostilités,
-du taux dont l'application est autorisée par les décrets moratoires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L160-10 (Ab)
-	  - Code des assurances - art. L160-11 (Ab)
-	  - Code des assurances - art. L160-12 (Ab)
-	  - Code des assurances - art. L160-13 (Ab)
-	  - Code des assurances - art. L160-14 (Ab)
-	  - Code des assurances - art. L160-15 (Ab)
-	  - Code des assurances - art. L160-16 (Ab)
-	  - Code des assurances - art. L160-17 (Ab)
-	  - Code des assurances - art. L160-18 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1919-07-22 art. 17
-
-
-###### Article R*160-15
-
-Pour l'application des règles posées par les articles L. 160-10 à L. 160-18, sont considérées comme assurances en cas de
-vie :
-
-Les assurances de capitaux différés, les rentes viagères immédiates et différées, et, en ce qui concerne le bénéficiaire, les
-capitaux de survie, les rentes de survie et les assurances dotales.    Les assurances mixtes sont considérées comme
-assurances en cas de décès et n'entrent pas en ligne de compte dans la constitution du fonds spécial prévu à l'article L.
-160-15.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1919-09-19 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Cite**:
-
-	  - Code des assurances L160-10 à L160-18
-
-
-###### Article R*160-16
-
-Pour la détermination et la répartition du solde du fonds spécial prévu à l'article L. 160-15 entre les ayants droit des
-assurés en cas de vie mobilisés, décédés pendant la durée de leur incorporation ou au cours des trois mois qui ont suivi leur
-démobilisation, il est fait usage de la table de mortalité et du taux d'intérêt adoptés pour le calcul des primes des
-contrats. 
-
-Il est constitué deux masses séparées, l'une afférente aux assurances sans contre-assurance et l'autre aux assurances avec
-contre-assurance. Sur la deuxième masse est tout d'abord prélevé le montant nécessaire au remboursement des primes payées. Le
-reliquat, ainsi que la première masse, sont respectivement répartis proportionnellement aux provisions mathématiques des
-contrats correspondants, déterminés au jour du décès de l'assuré et capitalisés à intérêts composés depuis ce jour jusqu'au
-jour de la répartition.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1919-09-19 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L160-15 (Ab)
-
-
-###### Article R*160-17
-
-La portion des primes d'assurances en cas de décès qui vient normalement en accroissement de la provision mathématique pour
-une période déterminée s'obtient en retranchant des primes d'inventaire afférentes à la période considérée la partie
-spécialement afférente à la couverture du risque de décès. Cette partie est égale à la prime unique d'inventaire de
-l'assurance temporaire pendant la même période, d'un capital égal à l'excès du capital assuré aux termes du contrat sur la
-provision mathématique existant au début de ladite période.
-
-La portion des primes d'assurances en cas de décès qui vient normalement en accroissement sur la valeur de rachat pour une
-période déterminée, dans les mêmes conditions s'obtient en multipliant la portion afférente à l'accroissement de la provision
-mathématique, définie à l'alinéa précédent, par le rapport de la valeur de rachat à la provision mathématique correspondante
-au début de la période considérée. Si, à cette date, le contrat n'est pas encore rachetable, il est fait application de la
-valeur qui lui serait attribuée si la clause d'annulation pure et simple n'était pas stipulée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1919-09-19 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
 
 
 ### Titre VII : Le contrat d'assurance maritime
@@ -17082,178 +16508,6 @@ indu.
 	**Cité par**:
 
 	  - Code des assurances - art. R171-1 (V)
-
-
-#### Chapitre III : Règles particulières aux diverses assurances maritimes
-
-##### Section I : Assurances sur corps.
-
-###### Article R173-1
-
-La valeur agréée comprend indivisément le corps et les appareils moteurs du navire, ainsi que tous les accessoires et
-dépendances dont l'assuré est propriétaire et dans lesquels sont compris les approvisionnements et les mises dehors.
-
-Toute assurance, quelle que soit sa date, faite séparément sur des accessoires et dépendances appartenant à l'assuré, réduit
-d'autant, en cas de perte totale ou de délaissement, la valeur agréée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-64 1968-01-19 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-
-##### Section II : Assurances sur facultés.
-
-###### Article R173-2
-
-Quel que soit le risque couvert, l'assureur n'est pas garant :
-
-1° Des freintes de route ;
-
-2° Des dommages résultant de l'insuffisance des emballages de la marchandise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-64 1968-01-19 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-
-###### Article R173-3
-
-La valeur assurée ne peut excéder la plus élevée des sommes déterminées : soit par le prix d'achat ou, à défaut, par le prix
-courant aux temps et lieu de chargement augmenté de tous les frais jusqu'à destination et du profit espéré ; soit par la
-valeur à destination à la date d'arrivée ou, si les marchandises n'arrivent pas, à la date à laquelle elles auraient dû
-arriver ; soit si les marchandises ont été vendues par l'assuré, par le prix de vente augmenté s'il y a lieu des majorations
-stipulées au contrat de vente.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-64 1968-01-19 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-
-###### Article R173-4
-
-L'importance des avaries est déterminée par comparaison de la valeur de la marchandise en état d'avarie à celle qu'elle
-aurait eue à l'état sain aux mêmes temps et lieu, le taux de dépréciation ainsi obtenu devant être appliqué à la valeur
-d'assurance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-64 1968-01-19 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-
-###### Article R173-5
-
-Au cas où les parties sont convenues d'une franchise, celle-ci est toujours indépendante de la freinte normale de route.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-64 1968-01-19 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-
-###### Article R173-6
-
-Dans la police flottante, l'assuré s'oblige à déclarer à l'assureur et l'assureur s'oblige à accepter en aliment dans le
-cadre de la police :
-
-1° Toutes les expéditions faites pour le compte ou en exécution des contrats d'achat ou de vente mettant à sa charge
-l'obligation d'assurer ;
-
-2° Toutes les expéditions faites pour le compte de tiers qui auront laissé à l'assuré le soin de pourvoir à l'assurance, si
-l'assuré est intéressé à l'expédition comme commissaire, consignataire ou autrement. L'intérêt de l'assuré qui ne
-consisterait que dans l'exécution de l'ordre d'assurance confié par un tiers ne donne pas le droit à l'application de la
-police.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-64 1968-01-19 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Cité par**:
-
-	  - Code des assurances - art. R173-7 (Ab)
-
-
-###### Article R173-7
-
-Ces expéditions sont couvertes, au premier cas mentionné à l'article R. 173-6, automatiquement à partir du moment où elles
-sont exposées aux risques garantis, à la condition que la déclaration d'aliment en soit faite à l'assureur dans les délais
-impartis au contrat, au second cas, à compter de la déclaration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-64 1968-01-19 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°92-1356 du 22 décembre 1992 - art. 4 (V) JORF 29 décembre 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. R173-6 (Ab)
 
 
 ## Livre II : Assurances obligatoires
