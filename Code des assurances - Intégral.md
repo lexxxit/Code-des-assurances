@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-07-28 00:00:01 +0200
+Version Consolidée au 1991-08-01
 
 # Partie législative
 
@@ -14232,7 +14232,7 @@ universités.
 
 Six membres représentent les assurés. Ils sont nommés sur proposition des organismes mentionnés ci-après :
 
-Un par l'assemblée permanente des chambres de commerce et d'industrie ;
+Un par l'assemblée des chambres françaises de commerce et d'industrie ;
 
 Un par l'assemblée permanente des chambres de métiers ;
 
@@ -14263,9 +14263,13 @@ Le président du conseil d'administration, directeur général de la caisse cent
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-864 1985-08-02 art. 1 JORF 15 août 1985
+	  - Décret n°91-739 du 18 juillet 1991 - art. 47 (Ab) JORF 1er août 1991
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 	**Liens**:
 
@@ -18428,7 +18432,7 @@ automobile et sont nommés sur proposition des organismes professionnels ; un de
 d'assurance et de réassurance mutuelles agricoles pratiquant l'assurance automobile.
 
 3. Six membres représentent les personnes assujetties à l'obligation d'assurance ; ils sont nommés sur proposition respective
-de l'assemblée permanente des présidents de chambres de commerce et d'industrie de France, de l'assemblée permanente des
+de l'assemblée des présidents de chambres françaises de commerce et d'industrie de France, de l'assemblée permanente des
 présidents de chambres d'agriculture, de l'assemblée permanente des présidents de chambres de métiers, de la fédération
 française des clubs automobiles, des organismes professionnels les plus représentatifs des transports publics routiers de
 voyageurs ou de marchandises et du collège des consommateurs du comité national de la consommation.
@@ -18444,7 +18448,7 @@ les membres titulaires.
 
 	**Modifié par**:
 
-	  - Décret n°83-484 1983-06-09 art. 1 JORF 14 juin 1983
+	  - Décret n°91-739 du 18 juillet 1991 - art. 47 (Ab) JORF 1er août 1991
 
 	**Liens**:
 
@@ -35028,9 +35032,9 @@ responsabilité civile résultant de l'emploi de véhicules terrestres à moteur
 l'article R. 321-1 et pratiquant effectivement les opérations d'assurance chasse ;
 
 - six membres désignés par arrêté du ministre de l'économie et des finances, respectivement sur la proposition du directeur
-général de la Caisse des dépôts et consignations, de l'assemblée des présidents des chambres de commerce et d'industrie de
-France, de l'assemblée permanente des présidents des chambres d'agriculture de France, de la fédération française des clubs
-automobiles, de la fédération nationale des transporteurs routiers et de l'Office national de la chasse.
+général de la Caisse des dépôts et consignations, de l'assemblée des présidents des chambres françaises de commerce et
+d'industrie de France, de l'assemblée permanente des présidents des chambres d'agriculture de France, de la fédération
+française des clubs automobiles, de la fédération nationale des transporteurs routiers et de l'Office national de la chasse.
 
 Le conseil élit son président parmi ses membres.
 
@@ -35046,9 +35050,9 @@ recours pour le compte du fonds de garantie.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+	  - Décret n°91-739 du 18 juillet 1991 - art. 47 (Ab) JORF 1er août 1991
 
 	**Liens**:
 
@@ -35058,7 +35062,6 @@ recours pour le compte du fonds de garantie.
 	**Anciens textes**:
 
 	  - Code des assurances - art. R*420-25 (T)
-	  - Code des assurances R420-25
 
 	**Cité par**:
 
