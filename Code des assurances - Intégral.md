@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-02-24
+Version Consolidée au 2004-02-28
 
 # Partie législative
 
@@ -23199,9 +23199,8 @@ justifier qu'il satisfait aux obligations prévues par les articles L. 241-1 et 
 ###### Article R250-1
 
 Le président et les membres du Bureau central de tarification institué par les articles L. 125-6, L. 212-1, L. 220-5, L.
-243-4 et L. 252-1 ainsi que par l'article 1234-10 du code rural sont nommés pour une période de trois ans renouvelable, par
-arrêté du ministre chargé de l'économie et des finances, sous réserve des dispositions de la dernière phrase du 4° et de la
-dernière phrase du 5° du quatrième alinéa du présent article.
+243-4 et L. 252-1 sont nommés pour une période de trois ans renouvelable, par arrêté du ministre chargé de l'économie et des
+finances, sous réserve des dispositions de la dernière phrase du 4° du quatrième alinéa du présent article.
 
 Le président est choisi parmi les conseillers d'Etat, les conseillers à la Cour de cassation, les conseillers maîtres à la
 Cour des comptes ou les professeurs des disciplines juridiques des universités, en activité ou honoraires.
@@ -23233,14 +23232,7 @@ professionnels, et cinq représentants des personnes soumises aux obligations pr
 savoir notamment les architectes, les entrepreneurs, les fabricants de matériaux préfabriqués, les promoteurs constructeurs
 et les maîtres d'ouvrages industriels, nommés sur proposition des organisations les plus représentatives ;
 
-4° Lorsqu'il statue en matière d'assurance obligatoire des personnes non salariées contre les accidents et les maladies
-professionnelles dans l'agriculture en vertu de l'article 1234-10 du code rural, quatre représentants des sociétés
-d'assurances, nommés sur proposition des organisations professionnelles concernées, et quatre représentants des personnes
-assujetties à l'obligation d'assurance, nommés sur proposition des organisations syndicales à vocation générale d'exploitants
-agricoles les plus représentatives. Les représentants des personnes assujetties à l'obligation d'assurance sont nommés par le
-ministre chargé de l'agriculture pour une période de trois ans renouvelable ;
-
-5° Lorsqu'il statue en matière d'assurance obligatoire de responsabilité civile médicale définie à l'article L. 251-1, six
+4° Lorsqu'il statue en matière d'assurance obligatoire de responsabilité civile médicale définie à l'article L. 251-1, six
 membres représentant les entreprises d'assurance pratiquant sur le territoire de la République française l'assurance de
 responsabilité civile médicale prévue à ce même article, nommés sur proposition des organismes professionnels, et six membres
 représentant les assujettis à cette obligation d'assurance. Ces derniers sont nommés par arrêté du ministre chargé de la
@@ -23263,7 +23255,7 @@ l'exclusion des 5°, 11°, 14° et 15°.
 
 	**Modifié par**:
 
-	  - Décret n°2003-168 du 28 février 2003 - art. 1 () JORF 2 mars 2003
+	  - Décret n°2004-190 du 23 février 2004 - art. 1 () JORF 28 février 2004
 
 	**Cité par**:
 
@@ -23280,7 +23272,6 @@ l'exclusion des 5°, 11°, 14° et 15°.
 	  - Code des assurances - art. L243-4 (M)
 	  - Code des assurances - art. L252-1 (V)
 	  - Code des assurances L125-6, L212-1, L220-5, L243-4, L220-1, L241-1 à L242-1, L252-1
-	  - Code rural 1234-10
 
 
 ###### Article R250-2
@@ -23290,10 +23281,8 @@ d'exploitation comportant la garantie des dommages résultant de catastrophes na
 125-2, ainsi que le refus d'assurer une personne assujettie à l'obligation d'assurance des véhicules à moteur en vertu de
 l'article L. 211-1, ou à l'obligation d'assurance des engins de remontée mécanique en vertu de l'article L. 220-1, ou à
 l'obligation d'assurance des travaux du bâtiment en vertu des articles L. 241-1 à L. 242-1, ou à l'obligation d'assurance de
-responsabilité médicale en vertu de l'article L. 251-1, ou à l'obligation d'assurance des personnes non salariées contre les
-accidents et les maladies professionnelles dans l'agriculture en vertu des articles 1234-1 et 1234-2 du code rural que si
-l'assurance a été sollicitée par lettre recommandée avec demande d'avis de réception au siège de l'entreprise d'assurance ou
-y a été déposée contre récépissé.
+responsabilité médicale en vertu de l'article L. 251-1, que si l'assurance a été sollicitée par lettre recommandée avec
+demande d'avis de réception au siège de l'entreprise d'assurance ou y a été déposée contre récépissé.
 
 Le Bureau central de tarification est saisi par lettre recommandée avec demande d'avis de réception dans le délai de quinze
 jours, sous peine d'irrecevabilité, à compter du refus de l'assureur sollicité ou, dans les cas mentionnés aux articles L.
@@ -23301,8 +23290,8 @@ jours, sous peine d'irrecevabilité, à compter du refus de l'assureur sollicit�
 
 Lorsqu'il s'agit de la souscription d'un contrat nouveau, est considéré comme un refus implicite d'assurance le silence gardé
 par l'assureur pendant plus de quinze jours après réception de la demande de souscription adressée en vertu des articles L.
-125-6, L. 212-1 ou L. 220-5, ainsi que de l'article 1234-10 du code rural et pendant plus de quarante-cinq jours après
-réception de la demande de souscription adressée en vertu de l'article L. 243-4 ou L. 252-1.
+125-6, L. 212-1 ou L. 220-5 et pendant plus de quarante-cinq jours après réception de la demande de souscription adressée en
+vertu de l'article L. 243-4 ou L. 252-1.
 
 Est assimilé à un refus le fait par l'assureur, saisi d'une demande de souscription d'assurance, de subordonner son
 acceptation à la couverture de risques non mentionnés dans l'obligation d'assurance ou dont l'étendue excéderait les limites
@@ -23311,12 +23300,7 @@ de l'obligation d'assurance.
 Lorsqu'un assuré a fait usage du droit de résiliation prévu au deuxième alinéa de l'article R. 113-10, il ne peut, pendant le
 délai d'un an, saisir le Bureau central de tarification du refus, opposé par l'entreprise d'assurance qui le garantissait, à
 une demande de souscription formulée en application des articles L. 125-1 et L. 125-2, L. 211-1, L. 220-1, L. 241-1 à L.
-242-1 et L. 252-1, ainsi qu'en application des articles 1234-1 et 1234-2 du code rural.
-
-**Nota:**
-
-- Décret 2003-168 2003-02-28 art. 4 : dispositions transitoires concernant le délai prévu à l'alinéa 3 de l'article R. 250-2
-du code des assurances.
+242-1 et L. 252-1.
 
 **Liens relatifs à cet article**
 
@@ -23324,15 +23308,15 @@ du code des assurances.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°2003-168 du 28 février 2003 - art. 2 () JORF 2 mars 2003
-
 	**Cité par**:
 
 	  - Décret n°2003-168 du 28 février 2003 - art. 4 (V)
 	  - Code des assurances - art. A250-2 (V)
 	  - Code des assurances - art. R250-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-190 du 23 février 2004 - art. 2 () JORF 28 février 2004
 
 	**Cite**:
 
@@ -23347,7 +23331,6 @@ du code des assurances.
 	  - Code des assurances - art. L251-1 (M)
 	  - Code des assurances - art. L252-1 (V)
 	  - Code des assurances L125-1, L125-2, L211-1, L220-1, L241-1 à L242-1, L251-1, L125-6, L212-1, L220-5, L243-4, R113-10, L252-1, R250-2, 4
-	  - Code rural 1234-1, 1234-2, 1234-10
 
 
 ###### Article R250-3
@@ -23464,9 +23447,7 @@ La décision prise par le Bureau central de tarification est notifiée à l'assu
 ###### Article R250-6
 
 Le Bureau central de tarification est assisté d'un commissaire du Gouvernement, suppléé éventuellement par un commissaire du
-Gouvernement adjoint, nommés par le ministre de l'économie et des finances. Toutefois, pour l'application de l'article
-1234-10 du code rural, le commissaire du Gouvernement et le commissaire du Gouvernement adjoint sont nommés par arrêté du
-ministre chargé de l'agriculture.
+Gouvernement adjoint, nommés par le ministre de l'économie et des finances.
 
 Le commissaire du Gouvernement assiste à toutes les réunions. Il peut demander au bureau, soit immédiatement, soit dans les
 trente jours suivant une décision, un nouvel examen de l'affaire dans le délai qu'il fixera.
@@ -23483,7 +23464,7 @@ trente jours suivant une décision, un nouvel examen de l'affaire dans le délai
 
 	**Modifié par**:
 
-	  - Décret n°97-660 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
+	  - Décret n°2004-190 du 23 février 2004 - art. 3 () JORF 28 février 2004
 
 
 ###### Article R250-7
@@ -38149,151 +38130,6 @@ des finances et du ministre de l'éducation.
 	**Abrogé par**:
 
 	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
-
-
-### Titre II : Le fonds de garantie
-
-#### Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse
-
-##### Section IV : Régime financier du fonds de garantie
-
-##### Paragraphe 1 : Dispositions spéciales aux accidents d'automobile.
-
-###### Article R421-27
-
-Pour l'application des dispositions de l'article L. 421-4, les contributions prévues pour l'alimentation du fonds de garantie
-sont assises et recouvrées dans les conditions suivantes :
-
-1° La contribution des entreprises d'assurance est proportionnelle aux primes ou cotisations du dernier exercice, accessoires
-et rappels compris et annulations déduites, relatives à l'assurance des véhicules terrestres à moteur et des remorques ou
-semi-remorques des véhicules lorsque le risque est situé sur le territoire de la République française. Elle est liquidée et
-recouvrée par le fonds de garantie qui peut prévoir le versement d'acomptes.
-
-2° La contribution des responsables d'accidents causés par l'utilisation des véhicules définis au 1° ci-dessus, non
-bénéficiaires d'une assurance, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des
-dommages résultant de ces accidents. Sont considérées comme bénéficiaires d'une assurance, au sens du présent article, les
-personnes dont la responsabilité civile est couverte par un contrat d'assurance dans les conditions prévues par l'article L.
-211-1. Un tel bénéfice ne leur est toutefois acquis, au sens du présent article, que pour la part excédant la franchise
-prévue éventuellement par leur contrat en application de l'article L. 121-1.
-
-En cas d'instance judiciaire, la décision doit faire apparaître si le responsable est ou non bénéficiaire d'une assurance.
-
-La contribution est liquidée et recouvrée par les services de la direction générale des impôts, selon les mêmes règles, sous
-les mêmes garanties et sous les mêmes sanctions qu'en matière de droits d'enregistrement. Elle est perçue sur la notification
-faite à la direction générale des impôts par le fonds de garantie.
-
-La contribution doit être acquittée dans le délai d'un mois à compter de la réclamation adressée par la direction générale
-des impôts.
-
-3° La contribution des assurés est assise sur toutes les primes ou cotisations nettes d'annulation qu'ils versent aux
-entreprises d'assurance pour l'assurance des risques de responsabilité civile résultant d'accidents causés par les véhicules
-définis au 1° ci-dessus. Elle est perçue par les entreprises d'assurance et recouvrée mensuellement par le fonds de garantie.
-Celui-ci peut prévoir le versement d'acomptes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 29 novembre 1994
-	  - TXT_SOURCE: Arrêté du 29 novembre 1994 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 29 novembre 1994 - art. 2 (V)
-	  - TXT_SOURCE: Code des assurances - art. L420-4 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16, R420-32 à R420-36
-
-	**Cité par**:
-
-	  - Arrêté du 29 novembre 1994 - art. 1 (V)
-	  - Arrêté du 6 novembre 1996 - art. 1 (Ab)
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 159 quinquies-0 A (V)
-	  - Code des assurances - art. A421-3 (V)
-	  - Code des assurances - art. R421-16 (V)
-	  - Code des assurances - art. R421-28 (V)
-	  - Code des assurances - art. R421-38 (V)
-	  - Code des assurances - art. R421-44 (V)
-	  - Code des assurances - art. R421-61 (V)
-	  - Code des assurances - art. R421-63-1 (Ab)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 322 (P)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code des assurances - art. L121-1 (V)
-	  - Code des assurances - art. L211-1 (M)
-	  - Code des assurances - art. L421-4 (M)
-
-	**Anciens textes**:
-
-	  - Code des assurances - art. R*420-27 (T)
-
-
-#### Chapitre III : Fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes.
-
-###### Article R423-13
-
-Sous réserve des dispositions de l'article R. 423-15, le fonds doit disposer en permanence d'un montant global de ressources
-égal à 0,05 % du total des provisions mathématiques constatées au 31 décembre de l'année précédente pour l'ensemble des
-entreprises mentionnées à l'article L. 423-1. Le montant global est constitué par les entreprises adhérentes, après déduction
-des ressources propres du fonds qui comprennent les produits financiers, pour moitié par des cotisations versées au fonds et
-pour moitié par des cotisations non versées prenant la forme de réserves pour fonds de garantie.
-
-Le fonds de garantie notifie à chaque entreprise adhérente le montant de sa cotisation annuelle qui correspond à sa quote-
-part du montant global prévu au premier alinéa. Cette quote-part est égale au pourcentage que représentent ses provisions
-techniques constatées au 31 décembre de l'année précédente, après un abattement des trois quarts pour les provisions des
-contrats en unités de compte, dans les provisions techniques de l'ensemble des entreprises adhérentes calculées avec le même
-abattement.
-
-La cotisation annuelle d'une entreprise ne peut être inférieure à 15 000 euros. Cette cotisation minimale est calculée, s'il
-y a lieu, pour l'ensemble des sociétés entrant dans le périmètre de consolidation d'un même groupe. Elle ne s'applique pas
-aux entreprises ayant moins de trois années d'activité au 1er janvier de l'année de calcul de la cotisation.
-
-Si le montant de sa cotisation de l'année est supérieur à celui de l'année précédente, chaque entreprise procède en une seule
-fois au versement au fonds et à la dotation à la réserve pour un montant égal à cette différence. Lorsque cette différence
-est négative, elle donne lieu, la même année, pour moitié à sa restitution par le fonds à l'entreprise concernée et pour
-moitié à une reprise par l'entreprise sur la réserve pour fonds de garantie.
-
-Les entreprises adhérentes disposent d'un délai de 10 jours ouvrés pour verser au fonds leur cotisation à compter de la
-réception de la notification prévue au deuxième alinéa. Le fonds de garantie informe la commission de contrôle de tout retard
-de versement de plus d'un mois ou de tout refus de versement d'une entreprise d'assurance, afin que la commission mette en
-oeuvre, le cas échéant, les procédures de sanctions prévues à l'article L. 310-18. La commission peut également engager une
-procédure de sanction si elle constate que l'entreprise n'a pas doté la réserve pour fonds de garantie du montant prévu.
-
-Les cotisations versées au fonds de garantie par les entreprises dont l'adhésion au fonds a pris fin ne peuvent faire l'objet
-d'un reversement par celui-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°88-261 1988-03-18
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-688 1999-08-03 art. 7 (montant des cotisations annuelles pour 1999)
-
-	**Créé par**:
-
-	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
-
-	**Cité par**:
-
-	  - Décret n°99-688 du 3 août 1999 - art. 7 (V)
-	  - Code des assurances - art. R334-11 (M)
-	  - Code des assurances - art. R334-3 (M)
-	  - Code des assurances - art. R423-10 (V)
-	  - Code des assurances - art. R423-14 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-18 (M)
-	  - Code des assurances - art. L423-1 (V)
-	  - Code des assurances - art. R423-15 (M)
 
 
 ### Titre II : Les fonds de garantie
