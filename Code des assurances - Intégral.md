@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-08-21
+Version Consolidée au 1986-09-01
 
 # Partie législative
 
@@ -44247,39 +44247,6 @@ participations dans le capital ne dépasse pas 500.000 F.
 	  - Arrêté du 19 mars 1990 - art. 1 (V)
 
 
-###### Article A322-5
-
-Sont dispensées de l'examen des commissions instituées par le décret n° 69-825 du 28 août 1969 les acquisitions d'immeubles,
-de droits immobiliers et de droits sociaux donnant vocation à l'attribution en pleine propriété d'immeubles ou parties
-d'immeubles poursuivies par les entreprises nationales d'assurance ou de capitalisation, à la condition qu'il soit attesté
-par le ministre de l'économie (direction des assurances) :
-
-1° Que ces acquisitions sont faites en vue de représenter par des immeubles les provisions techniques desdites entreprises,
-en conformité avec les dispositions de l'article R. 332-2 ;
-
-2° Qu'elles n'ont pas pour objet principal d'assurer l'installation et le fonctionnement des services de ces entreprises ou
-de tout autre service public ou d'intérêt public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1979-06-07 art. 1 JORF 9 juin 1979
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-10-23 art. 1 JORF 25 octobre 1986 en vigueur le 1er septembre 1986
-
-	**Cite**:
-
-	  - Décret n°69-825 1969-08-28
-	  - Code des assurances - art. R*332-2 (M)
-
-
 ##### Section IV : Sociétés d'assurance à forme mutuelle.
 
 ##### Paragraphe 3 : Obligations des sociétaires et de la société.
@@ -47781,30 +47748,6 @@ dessus, apporter sa couverture au titre de l'article A. 431-3 avec l'accord du m
 	  - Code des assurances - art. L321-4 (Ab)
 
 
-###### Article A431-5
-
-La caisse centrale de réassurance détermine ses tarifs en vue de faire face aux charges des opérations qu'elle effectue en
-application de l'article A. 431-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1985-09-10 art. 3 JORF 9 octobre 1985
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-10-23 art. 1 JORF 25 octobre 1986 en vigueur le 1er septembre 1986
-
-	**Cite**:
-
-	  - Code des assurances - art. A431-3 (M)
-
-
 ###### Article A431-6
 
 Les opérations de réassurance des risques relatifs aux attentats actes de terrorisme ou de sabotage mentionnées à l'article
@@ -48389,45 +48332,6 @@ du change, des droits, taxes ou autres charges payables en euros.
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R432-4, R432-47
-
-
-##### Section IV : Dispositions diverses.
-
-###### Article A432-10
-
-Sont dispensées de l'examen des commissions instituées par le décret n° 69-825 du 28 août 1969 les acquisitions d'immeubles,
-de droits immobiliers et de droits sociaux donnant vocation à l'attribution en pleine propriété d'immeubles ou parties
-d'immeuble poursuivies par la Compagnie française d'assurance pour le commerce extérieur, à la condition qu'il soit attesté
-par le ministre de l'économie (direction des assurances) :
-
-1° Que ces acquisitions sont faites en vue de représenter par des immeubles les provisions techniques de ladite entreprise,
-en conformité avec les dispositions de l'article R. 332-2 ;
-
-2° Qu'elles n'ont pas pour objet principal d'assurer l'installation et le fonctionnement des services de cette entreprise ou
-de tout autre service public ou d'intérêt public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1979-06-07 art. 1 JORF 9 juin 1979
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-10-23 art. 1 JORF 25 octobre 1986 en vigueur le 1er septembre 1986
-
-	**Cite**:
-
-	  - Décret n°69-825 1969-08-28
-	  - Code des assurances - art. R*332-2 (M)
 
 	**Liens**:
 
