@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-06-19
+Version Consolidée au 1991-06-28
 
 # Partie législative
 
@@ -19743,17 +19743,21 @@ font foi jusqu'à preuve contraire.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Code des assurances - art. L310-1 (M)
+	  - Décret n°91-603 du 27 juin 1991 - art. 1 () JORF 28 juin 1991
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Décret n°1938-06-14 art. 6
+	  - TXT_SOURCE: Code des assurances - art. L310-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R310-17
 
 
 ###### Article R*310-2
@@ -19769,9 +19773,6 @@ Ces entreprises doivent mettre à la disposition des commissaires-contrôleurs d
 fonctionnaires le demandent, dans les agences tous les documents nécessaires aux opérations mentionnées à l'alinéa précédent,
 ainsi que le personnel qualifié pour leur fournir les renseignements qu'ils jugent nécessaires.
 
-Les commissaires-contrôleurs rendent compte de leurs vérifications et constatations au ministre de l'économie et des
-finances, qui seul prescrit, dans les formes et délais qu'il fixe, les redressements nécessaires.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -19780,11 +19781,20 @@ finances, qui seul prescrit, dans les formes et délais qu'il fixe, les redresse
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 3 () JORF 28 juin 1991
 
 	**Cite**:
 
 	  - Code des assurances R310-1
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R310-18
 
 
 ###### Article R*310-3
@@ -19811,39 +19821,6 @@ départements ou territoires, les attributions dévolues aux commissaires-contr�
 	**Nouveaux textes**:
 
 	  - Code des assurances R310-19
-
-
-###### Article R*310-4
-
-Lorsqu'une entreprise dont le siège social est établi sur le territoire d'un des Etats membres de la Communauté économique
-européenne pratique sur le territoire de la République française et sur celui d'autres Etats membres de la Communauté une ou
-plusieurs des branches mentionnées aux 1 à 17 et 20 à 28 de l'article R. 321-1, le ministre de l'économie et des finances
-communique aux autorités compétentes desdits Etats les documents et renseignements utiles à l'exercice du contrôle et prend
-connaissance des documents et renseignements de même nature qui lui sont communiqués par les mêmes autorités. Lorsque
-l'entreprise pratique les opérations mentionnées à la branche 18 de l'article R. 321-1, cette communication concerne
-également les moyens techniques dont elle dispose pour faire face à ses engagements.
-
-Il en est de même lorsqu'il s'agit d'une entreprise dont le siège social n'est pas établi sur le territoire d'un Etat membre
-de la Communauté économique européenne et qui fait l'objet de la vérification de solvabilité globale définie à la section IV
-du chapitre IV du titre III du présent livre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°88-456 du 27 avril 1988 - art. 3 () JORF 29 avril 1988
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 3 () JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances R321-1
 
 
 ###### Article R*310-5
@@ -19885,10 +19862,11 @@ du budget qui peut prescrire toutes rectifications ou modifications nécessitée
 exemplaires des conditions générales de leurs polices, propositions, bulletins de souscription, prospectus et imprimés
 destinés à être distribués au public ou publiés ou remis aux porteurs de contrats ou adhérents.
 
-Les entreprises françaises doivent, avant de soumettre à l'assemblée générale des modifications à leurs statuts, obtenir le
-visa du ministre de l'économie, des finances et du budget qui statue dans les trois mois du dépôt de trois spécimens des
-projets de modifications aux statuts. A l'expiration de ce délai, en l'absence d'observation du ministre, le visa est
-considéré comme accordé. Ce délai est réduit à quarante-cinq jours pour les augmentations de capital social.
+Les entreprises françaises doivent, avant de soumettre à l'assemblée générale des modifications à leurs statuts, obtenir
+l'accord de la commission de contrôle des assurances qui statue dans les trois mois du dépôt de trois spécimens des projets
+de modification aux statuts. Un exemplaire de ces documents est transmis par la commission au commissaire du Gouvernement. A
+l'expiration de ce délai, en l'absence d'observation de la commission, les modifications sont considérées comme approuvées.
+Ce délai est réduit à quarante-cinq jours pour les augmentations du capital social.
 
 Les entreprises pratiquant les opérations mentionnées aux 1°, 2°, 3°, 4° ou 6° de l'article L. 310-1, doivent, avant
 d'appliquer leurs tarifs, obtenir le visa du ministre de l'économie, des finances et du budget qui statue dans les trois mois
@@ -19923,12 +19901,11 @@ sont tenues de respecter les dispositions de l'alinéa précédent.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
-	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°90-700 du 8 août 1990 - art. 6 () JORF 9 août 1990
+	  - Décret n°91-603 du 27 juin 1991 - art. 4 () JORF 28 juin 1991
 
 	**Cité par**:
 
@@ -19940,73 +19917,61 @@ sont tenues de respecter les dispositions de l'alinéa précédent.
 	  - Code des assurances - art. L351-4 (M)
 	  - Code des assurances - art. R351-1 (M)
 
+	**Nouveaux textes**:
 
-###### Article R*310-8
-
-Les montants maximaux que sont autorisées à souscrire les entreprises françaises ou étrangères habilitées à pratiquer sur le
-territoire de la République française des opérations d'assurance maritime sont fixés, tant pour les corps de navires que pour
-les marchandises ou facultés, par le ministre de l'économie et des finances.
-
-Les dispositions du présent article sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, des Terres australes et antarctiques françaises et de Wallis-et-Futuna.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°84-349 1984-05-09 art. 35-2 JORF 12 mai 1984
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 5 (V) JORF 28 juin 1991
+	  - Code des assurances R310-6 (5ème version)
 
 
 ###### Article R*310-9
 
 Les modalités d'application du présent livre aux sociétés de dépôt mentionnées au 6° de l'article L. 310-1 sont fixées par
-décret pris après avis du conseil national des assurances.
+décret.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 6 () JORF 28 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
 
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 195
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
 
 ###### Article R*310-10
 
-L'autorité administrative mentionnée aux articles L. 310-5 à L. 310-7, L. 310-9 et L. 310-10, est le ministre de l'économie
-et des finances.
+L'autorité administrative mentionnée aux articles L. 310-7 et L. 310-9, est le ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-10 (M)
-	  - Code des assurances - art. L310-9 (M)
-	  - Code des assurances L310-5 à L310-7, L310-9, L310-10
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 34
-	  - Loi n°1917-02-15 art. 1
-	  - Ordonnance 45-2241 1945-09-29 art. 8, art. 9, art. 11
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 6 () JORF 28 juin 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-7 (M)
+	  - Code des assurances - art. L310-9 (M)
 
 
 ###### Article R310-7
@@ -21325,17 +21290,31 @@ le code des assurances, soit une société civile, soit une société commercial
 
 ###### Article R*322-1
 
-Les entreprises françaises mentionnées aux 3°, 4° et 6° de l'article L. 310-1 ne peuvent se constituer que sous la forme de
+Les entreprises françaises mentionnées aux 3° et 4° de l'article L. 310-1 ne peuvent se constituer que sous la forme de
 société anonyme.
 
-Les sociétés d'assurance à forme mutuelle constituées pour pratiquer les opérations mentionnées au 1° de l'article L. 310-1
-peuvent recevoir l'agrément administratif pour pratiquer les opérations mentionnées aux 3°, 4° et 6° du même article.
+Les sociétés d'assurance mutuelles constituées pour pratiquer les opérations mentionnées au 1° de l'article L. 310-1 peuvent
+recevoir l'agrément administratif pour pratiquer les opérations mentionnées aux 3° et 4° du même article.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - TXT_SOURCE: Code des assurances - art. L310-1 (M)
+	  - TXT_ASSOCIE: Code des assurances R322-5
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 7 () JORF 28 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°93-866 du 25 juin 1993 - art. 2 (V) JORF 27 juin 1993
 
 	**Cité par**:
 
@@ -21345,15 +21324,6 @@ peuvent recevoir l'agrément administratif pour pratiquer les opérations mentio
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L310-1 (M)
-	  - TXT_ASSOCIE: Code des assurances R322-5
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 1, art. 138
 
 
 ###### Article R*322-2
@@ -21438,36 +21408,6 @@ l'honorabilité ou à la qualification technique.
 
 ##### Section II : Sociétés anonymes d'assurance et de capitalisation.
 
-###### Article R*322-5
-
-Les entreprises françaises soumises au contrôle de l'Etat par l'article L. 310-1 et constituées sous la forme de société
-anonyme doivent avoir un capital social au moins égal, pour chaque branche pratiquée, au montant fixé par décret en Conseil
-d'Etat pris après avis du conseil national des assurances. Chaque actionnaire doit verser, avant la constitution définitive,
-la moitié au moins du montant des actions ou coupures d'actions en numéraire souscrites par lui.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 8 (V) JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R322-8 (VD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R322-6, R322-9, R322-10
-
-
 ###### Article R*322-6
 
 Les entreprises mentionnées à l'article R. 322-5 doivent avoir un capital social, non compris les apports en nature, au moins
@@ -21501,32 +21441,24 @@ précédent, avoir un capital social, non compris les apports en nature, au moin
 Le rapport spécial des commissaires aux comptes prévu au troisième alinéa de l'article 103 et au troisième alinéa de
 l'article 145 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales doit contenir, outre les mentions
 énumérées aux articles 92 ou 117 du décret n° 67-236 du 23 mars 1967 sur les sociétés commerciales, l'indication du montant
-des sommes versées aux personnes mentionnées, selon le cas, aux articles 101, 143 ou 258 de ladite loi à titre de
-rémunérations ou commissions pour les contrats d'assurance ou de capitalisation souscrits par leur intermédiaire.
-
-Le rapport spécial doit également contenir l'énumération des opérations mentionnées à l'article L. 322-4 qui ont été
-effectuées au cours de l'exercice, le montant des sommes versées et les conditions de réalisation de ces opérations.
+des sommes versées aux personnes mentionnées, selon le cas, à l'article 101 ou 143 de ladite loi à titre de rémunérations ou
+commissions pour les contrats d'assurance ou de capitalisation souscrits par leur intermédiaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 4
-
 	**Cite**:
 
-	  - Loi n°66-537 1966-07-24 art. 101, art. 103, art. 143, art. 145, art. 258
+	  - Loi n°66-537 1966-07-24 art. 101, art. 103, art. 143, art. 145
 	  - Décret n°67-236 du 23 mars 1967 - art. 117 (M)
 	  - Décret n°67-236 du 23 mars 1967 - art. 92 (M)
-	  - Code des assurances - art. L322-4 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Code des assurances - art. L322-1 (Ab)
+	  - Décret n°91-603 du 27 juin 1991 - art. 10 () JORF 28 juin 1991
 
 
 ###### Article R*322-8
@@ -21562,54 +21494,6 @@ remboursement des emprunts ou à la constitution de la réserve pour l'amortisse
 	**Anciens textes**:
 
 	  - Décret n°1938-12-30 art. 5
-
-
-###### Article R*322-9
-
-Le montant restant à amortir des dépenses d'établissement et des commissions versées d'avance aux intermédiaires mentionnées
-à l'article R. 332-30 ne peut être supérieur à la partie versée du capital social diminuée, le cas échéant, du solde débiteur
-reporté à l'actif du bilan et augmenté, s'il y a lieu, des réserves inscrites au passif du bilan dans la mesure où il
-pourrait être fait sur celles-ci un prélèvement pour l'équilibre des comptes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-327 1983-04-21 art. 1 JORF 22 avril 1983
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 11 (V) JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. R*332-30 (M)
-
-
-###### Article R*322-10
-
-Les dispositions prévues à l'article 241 de la loi n° 66-537 du 24 juillet 1966 dans le cas où, du fait de pertes constatées
-dans les documents comptables, l'actif net d'une société devient inférieur au quart du capital social, s'appliquent aux
-entreprises mentionnées à l'article R. 322-5 dès que l'actif net devient inférieur à la moitié du capital social.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 241
-	  - Code des assurances R322-5
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 11 (V) JORF 28 juin 1991
 
 
 ###### Article R*322-11
@@ -25690,99 +25574,15 @@ souscripteurs.
 
 #### Chapitre III : Procédures de redressement et de sauvegarde
 
-###### Article R*323-10
-
-Relève notamment de la compétence de la commission mentionnée à l'article L. 323-3 :
-
-- l'entreprise dont la situation ne permet plus au contrôle de l'Etat de s'exercer dans des conditions satisfaisantes, soit
-parce que cette entreprise ne tient pas ses livres, registres ou fichiers selon les formes requises et dans des conditions
-régulières, soit parce qu'elle ne produit pas dans les délais impartis les états, tableaux ou documents à fournir au ministre
-de l'économie et des finances ou qu'elle produit des documents incomplets ou incorrects ;    - l'entreprise dont les
-documents ou registres comptables font apparaître qu'elle ne respecte pas les dispositions relatives à la détermination de la
-provision pour sinistres à payer afférente aux opérations d'assurance des véhicules terrestres à moteur.
-
-Lorsque la commission est saisie, le ministre de l'économie et des finances adresse à l'entreprise une lettre recommandée
-avec demande d'avis de réception l'informant que sa situation va faire l'objet d'un examen par ladite commission.
-
-Cette lettre recommandée doit reproduire le texte des articles L. 323-3, L. 323-4, L. 323-6, L. 324-5 et L. 325-1 et
-enjoindre à l'entreprise de présenter ses observations dans un délai de dix jours.
-
-Un arrêté du ministre de l'économie et des finances fixe la composition et les conditions de fonctionnement de la commission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 14 () JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. L323-3 (Ab)
-	  - Code des assurances - art. L323-4 (Ab)
-	  - Code des assurances - art. L323-6 (Ab)
-	  - Code des assurances - art. L324-5 (Ab)
-	  - Code des assurances - art. L325-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L323-3 (Ab)
-	  - SPEC_APPLI: Code des assurances A323-1 à A323-7
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*323-11 (Ab)
-	  - Code des assurances - art. R391-1 (V)
-
-
-###### Article R*323-11
-
-La commission analyse les causes qui sont à l'origine du déséquilibre financier, de l'insuffisance d'actif ou de la situation
-irrégulière de l'entreprise. Le cas échéant, elle propose au ministre de l'économie et des finances les mesures qui
-paraissent propres à éviter un retrait de l'agrément administratif.
-
-Elle peut également demander au ministre que les conclusions motivées qu'elle a formulées sur la situation de l'entreprise
-soient notifiées au représentant légal de celle-ci, cette notification étant assortie de l'obligation des les porter à la
-connaissance de l'organe statutaire d'administration ou de surveillance dans un délai déterminé.
-
-La procédure de retrait d'agrément ne peut être ouverte à l'encontre d'une entreprise mentionnée à l'article R. 323-10
-qu'après examen de sa situation par la commission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 14 () JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. R*323-10 (Ab)
-
-
 ##### Section I : Règles générales.
 
 ###### Article R*323-6
 
-Dans le cas où une entreprise doit produire un plan de financement à court terme, le ministre de l'économie et des finances
+Dans le cas où une entreprise doit produire un plan de financement à court terme, la commission de contrôle des assurances
 peut restreindre ou interdire la libre disposition des actifs de l'entreprise localisés sur le territoire de la République
 française et prendre toutes mesures propres à sauvegarder les intérêts des assurés et bénéficiaires de contrats.
 
-Le ministre de l'économie et des finances informe, s'il y a lieu, les autorités de contrôle intéressées des Etats membres de
+La commission de contrôle des assurances informe, s'il y a lieu, les autorités de contrôle intéressées des Etats membres de
 la Communauté économique européenne et peut demander auxdites autorités de prendre dans leurs pays respectifs les mêmes
 mesures restreignant ou interdisant la libre disposition des actifs de l'entreprise considérée.
 
@@ -25794,14 +25594,19 @@ mesures restreignant ou interdisant la libre disposition des actifs de l'entrepr
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 	  - TXT_ASSOCIE: Code des assurances R323-8 *sanctions pénales*
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
 
 
 ###### Article R*323-7
 
 A la demande d'une autorité de contrôle de l'un des Etats membres de la Communauté économique européenne ayant exigé d'une
-entreprise un plan de financement à court terme et ayant restreint ou interdit la libre disposition de ses actifs, le
-ministre de l'économie et des finances prend des mesures analogues de restriction ou d'interdiction concernant la disposition
+entreprise un plan de financement à court terme et ayant restreint ou interdit la libre disposition de ses actifs, la
+commission de contrôle des assurances prend des mesures analogues de restriction ou d'interdiction concernant la disposition
 des actifs de cette entreprise localisés sur le territoire de la République française.
 
 **Liens relatifs à cet article**
@@ -25812,48 +25617,16 @@ des actifs de cette entreprise localisés sur le territoire de la République fr
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 	  - TXT_ASSOCIE: Code des assurances R323-8 *sanctions pénales*
 
+	**Modifié par**:
 
-###### Article R*323-8
+	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
 
-Dans les cas prévus aux articles R. 323-1, R. 323-6 et R. 323-7 où le ministre de l'économie et des finances est amené à
-restreindre ou interdire la libre disposition des actifs d'une entreprise, le ministre peut prescrire par lettre recommandée
-à toute société ou collectivité émettrice de refuser l'exécution de toute opération portant sur des titres appartenant à
-l'entreprise intéressée, ainsi que le paiement des intérêts et dividendes afférents auxdits titres.
+	**Abrogé par**:
 
-Le ministre peut, en outre, faire inscrire sur les immeubles de l'entreprise l'hypothèque mentionnée par l'article L. 327-3 ;
-il peut prescrire aux conservateurs des hypothèques, par lettre recommandée, de refuser la transcription de tous actes,
-l'inscription de toute hypothèque portant sur les immeubles appartenant à l'entreprise, ainsi que la radiation d'hypothèque
-consentie par un tiers au profit de l'entreprise.
-
-Le ministre peut exiger le dépôt à la Caisse des dépôts et consignations des grosses de prêts hypothécaires consentis par
-ladite entreprise.
-
-Le ministre peut enfin exiger que tous les fonds, titres et valeurs détenus ou possédés par l'entreprise soient, dans des
-délais et conditions qu'il fixera, transférés à la Banque de France pour y être déposés dans un compte bloqué. Ce compte ne
-pourra être débité sur ordre de son titulaire que sur autorisation expresse du ministre, et seulement pour un montant
-déterminé.
-
-Les dirigeants de l'entreprise qui n'effectue pas le transfert mentionné à l'alinéa précédent sont passibles des sanctions
-prévues à l'article R. 328-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. L327-3 (M)
-	  - Code des assurances - art. R*323-1 (M)
-	  - Code des assurances L327-3, R323-1, R323-6, R323-7, R328-1
-
-	**Cité par**:
-
-	  - Code des assurances - art. R325-10 (M)
-	  - Code des assurances - art. R328-1 (V)
+	  - Décret n°94-635 du 25 juillet 1994 - art. 9 () JORF 26 juillet 1994
 
 
 ###### Article R*323-9
@@ -25875,182 +25648,15 @@ L'autorité administrative mentionnée à l'article L. 323-1 est le ministre de 
 	  - TXT_SOURCE: Code des assurances - art. L323-1 (M)
 
 
-###### Article R*323-12
-
-Les rappels de prime ou de cotisation définis à l'article L. 323-6 que l'entreprise est invitée à décider, à la demande du
-ministre de l'économie et des finances et dans la limite du tarif homologué par lui, peuvent se rapporter à plusieurs
-exercices.
-
-Pour un exercice annuel déterminé, le rappel demandé aux assurés ne peut avoir pour effet de porter le montant total de la
-prime ou cotisation versée par chacun d'eux, au titre de cet exercice, à une somme supérieure à la prime résultant du tarif
-homologué.
-
-Le total des rappels de prime ou de cotisation à la charge d'un même assuré, ne peut, en tout état de cause, excéder le
-montant d'une annuité de prime résultant du tarif homologué.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 14 () JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. L323-6 (Ab)
-
-
-###### Article R*323-13
-
-Lorsque le ministre de l'économie et des finances invite, par lettre recommandée, l'entreprise à procéder à un recouvrement
-des rappels de prime ou cotisation dont il propose le montant dans les conditions et limites fixées à l'article R. 323-12,
-celle-ci doit convoquer dans un délai de dix jours les soixante-quinze souscripteurs de contrats individuels payant la prime
-ou cotisation annuelle la plus élevée pour la garantie des dommages causés aux tiers par les véhicules terrestres à moteur
-utilisés par des particuliers, et les vingt-cinq souscripteurs de contrats individuels ou collectifs, payant la prime ou
-cotisation annuelle la plus élevée pour la garantie des dommages causés aux tiers par les véhicules terrestres à moteur
-utilisés par des entreprises ou des collectivités publiques.
-
-La liste de ces cent souscripteurs doit être établie annuellement le 1er janvier, par les entreprises agréées pour pratiquer
-les opérations d'assurances contre ces dommages.
-
-Ne peuvent être convoqués que les souscripteurs ayant payé la dernière prime ou cotisation échue.
-
-La convocation doit indiquer l'objet, le lieu et la date de la réunion, reproduire la lettre du ministre de l'économie et des
-finances, mentionnée au premier alinéa du présent article et comporter les nom et adresse des souscripteurs convoqués. Cette
-réunion doit être fixée au plus tard quinze jours après l'expiration du délai de dix jours prévu au premier alinéa du présent
-article.
-
-Tout souscripteur peut se faire représenter à la réunion par un autre souscripteur ayant payé sa prime ou cotisation. Chaque
-mandataire ne peut être porteur de plus de cinq mandats.
-
-L'assemblée des souscripteurs ne peut valablement délibérer que si le nombre des souscripteurs présents ou représentés est au
-moins égal au quart des souscripteurs ayant le droit d'y assister. Si elle ne réunit pas ce nombre, une nouvelle assemblée
-est convoquée dans la forme prévue au quatrième alinéa du présent article ; cette seconde assemblée, qui doit se tenir au
-plus tard quinze jours après la première, délibère valablement quel que soit le nombre des souscripteurs présents ou
-représentés.
-
-L'entreprise ne peut procéder aux rappels de prime ou cotisation que s'ils ont été approuvés par plus de la moitié des
-suffrages exprimés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 14 () JORF 28 juin 1991
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L323-6 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances R323-12
-
-
-###### Article R*323-14
-
-Lorsqu'une entreprise d'assurance a décidé de procéder aux rappels de prime ou cotisation d'un montant ou d'une quotité au
-moins égaux à ceux qui ont été proposés par le ministre de l'économie et des finances, les souscripteurs de contrats,
-redevables de ces rappels, ne peuvent être assujettis au rappel de prime ou cotisation prescrit, en cas de retrait de
-l'agrément administratif de la même entreprise, dans les conditions fixées par l'article L. 325-1 si ce retrait d'agrément
-intervient moins de trois ans après la décision de recouvrement des rappels prise par l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 14 () JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. L325-1 (M)
-
-
-###### Article R*323-15
-
-Les rappels de prime ou de cotisation prévus à l'article R. 323-12 ne peuvent être recouvrés que sur les souscripteurs de
-contrats d'assurance qui étaient en cours à la date de la décision du conseil d'administration relative au rappel ou à la
-date de publication au Journal officiel de l'arrêté prononçant le retrait d'agrément, ou qui étaient encore en cours six mois
-avant ces dates.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 14 () JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances R323-12
-
-
-###### Article R*323-16
-
-Les dispositions des articles L. 323-3 à L. 323-6 doivent être portées par les entreprises d'assurance à la connaissance des
-assurés suivant les modalités qui sont fixées par le ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 14 () JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. L323-3 (Ab)
-	  - Code des assurances - art. L323-4 (Ab)
-	  - Code des assurances - art. L323-5 (Ab)
-	  - Code des assurances - art. L323-6 (Ab)
-
-
 ###### Article R323-1
 
 Lorsque l'activité d'une entreprise soumise au contrôle d'Etat en vertu de l'article L. 310-1 est de nature à conduire à une
 situation telle que cette entreprise ne donnerait plus de garanties suffisantes pour tenir ses engagements ou qu'elle
-risquerait de ne plus fonctionner conformément à la réglementation en vigueur, le ministre de l'économie et des finances peut
+risquerait de ne plus fonctionner conformément à la réglementation en vigueur, la commission de contrôle des assurances peut
 lui adresser un avertissement par lettre recommandée et exiger que lui soit soumis pour approbation, dans le délai d'un mois,
 un programme de rétablissement, prévoyant toutes mesures propres à restaurer l'équilibre de l'entreprise.
 
-Dès l'envoi de l'avertissement prévu à l'alinéa précédent, le ministre de l'économie et des finances peut charger un
+Dès l'envoi de l'avertissement prévu à l'alinéa précédent, la commission de contrôle des assurances peut charger un
 commissaire-contrôleur d'exercer une surveillance permanente de l'entreprise. Ce commissaire-contrôleur, qui a notamment pour
 mission de veiller à l'exécution du programme de rétablissement, dispose, en outre des pouvoirs de vérification et de
 contrôle réglementaire attribués aux commissaires-contrôleurs des assurances, des droits d'investigation les plus étendus :
@@ -26058,22 +25664,16 @@ il doit, notamment, être avisé immédiatement de toutes les décisions prises 
 direction de l'entreprise ; il peut se faire rendre compte de l'exécution de ces décisions et des mesures prévues par le
 programme de rétablissement.
 
-Si l'entreprise refuse de produire un programme de rétablissement, ou si celui qu'elle a soumis ne recueille pas
-l'approbation du ministre de l'économie et des finances, ou si le programme approuvé n'est pas exécuté dans les conditions et
-délais prévus, le ministre peut, sans préjudice de l'application des dispositions relatives au retrait de l'agrément
-administratif, adresser une communication au conseil national des assurances sur la situation de l'entreprise en cause, et,
-après avis de ce conseil, rendre éventuellement publique cette communication.
-
-Si l'entreprise ne satisfait pas à la réglementation relative aux provisions techniques, le ministre de l'économie et des
-finances peut interdire la libre disposition des actifs de l'entreprise localisés sur le territoire de la République
+Si l'entreprise ne satisfait pas à la réglementation relative aux provisions techniques, la commission de contrôle des
+assurances peut interdire la libre disposition des actifs de l'entreprise localisés sur le territoire de la République
 française et prendre toutes mesures propres à sauvegarder les intérêts des assurés et bénéficiaires de contrats. S'il s'agit
 d'une entreprise étrangère dont le siège social est établi sur le territoire d'un Etat membre de la Communauté économique
-européenne, le ministre de l'économie, des finances et du budget doit au préalable informer de cette interdiction l'autorité
-de contrôle du pays du siège social. Lorsque l'interdiction concerne une entreprise étrangère dont le siège social n'est pas
-établi sur le territoire d'un Etat membre de la Communauté économique européenne, et qui fait l'objet d'une vérification de
-solvabilité globale définie à la section IV du chapitre IV du titre III du présent livre et exercée par une autorité de
-contrôle autre que le ministre de l'économie, des finances et du budget, celui-ci doit au préalable informer de cette
-interdiction l'autorité qui exerce ladite vérification.
+européenne, la commission de contrôle des assurances doit au préalable informer de cette interdiction l'autorité de contrôle
+du pays du siège social. Lorsque l'interdiction concerne une entreprise étrangère dont le siège social n'est pas établi sur
+le territoire d'un Etat membre de la Communauté économique européenne, et qui fait l'objet d'une vérification de solvabilité
+globale définie à la section IV du chapitre IV du titre III du présent livre et exercée par une autorité de contrôle autre
+que la commission de contrôle des assurances, celle-ci doit au préalable informer de cette interdiction l'autorité qui exerce
+ladite vérification.
 
 Les dirigeants de l'entreprise qui ne produit pas un programme de rétablissement, ou qui n'exécute pas dans les conditions et
 délais prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
@@ -26086,11 +25686,13 @@ délais prévus celui qui a été approuvé, sont passibles des sanctions prévu
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 14 () JORF 12 mai 1984
+	  - Décret n°91-603 1991-06-27 art. 12 I, II, art. 13 JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 13 () JORF 28 juin 1991
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 	  - TXT_ASSOCIE: Code des assurances R328-1 *sanctions pénales*
 
 	**Cite**:
@@ -26110,8 +25712,8 @@ délais prévus celui qui a été approuvé, sont passibles des sanctions prévu
 
 ###### Article R323-2
 
-Lorsque la marge de solvabilité d'une entreprise française n'atteint pas le montant réglementaire, le ministre de l'économie,
-des finances et du budget exige un plan de redressement, qui doit être soumis dans le délai d'un mois à son approbation.
+Lorsque la marge de solvabilité d'une entreprise française n'atteint pas le montant réglementaire, la commission de contrôle
+des assurances exige un plan de redressement, qui doit être soumis dans le délai d'un mois à son approbation.
 
 Les dirigeants de l'entreprise qui ne produit pas un plan de redressement, ou qui n'exécute pas dans les conditions et délais
 prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
@@ -26122,13 +25724,13 @@ prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 15 () JORF 12 mai 1984
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
 
 	**Cité par**:
 
@@ -26143,11 +25745,11 @@ prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'
 
 Lorsque la marge de solvabilité d'une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat
 membre de la Communauté économique européenne et qui ne fait l'objet d'aucune vérification de solvabilité globale, n'atteint
-pas le montant réglementaire, le ministre de l'économie, des finances et du budget exige un plan de redressement, qui doit
-être soumis à son approbation dans le délai d'un mois.
+pas le montant réglementaire, la commission de contrôle des assurances exige un plan de redressement, qui doit être soumis à
+son approbation dans le délai d'un mois.
 
-Il en est de même lorsque l'entreprise fait l'objet d'une vérification de solvabilité globale exercée par le ministre de
-l'économie et des finances.
+Il en est de même lorsque l'entreprise fait l'objet d'une vérification de solvabilité globale exercée par la commission de
+contrôle des assurances.
 
 Les dirigeants de l'entreprise qui ne produit pas un plan de redressement, ou qui n'exécute pas dans les conditions et délais
 prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
@@ -26160,11 +25762,12 @@ prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 16 () JORF 12 mai 1984
+	  - Décret n°91-603 1991-06-27 art. 12 IV, V JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 
 	**Cité par**:
 
@@ -26175,8 +25778,8 @@ prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'
 ###### Article R323-4
 
 Lorsque la marge de solvabilité d'une entreprise française n'atteint pas le fonds de garantie, ou si le fonds n'est pas
-constitué réglementairement, le ministre de l'économie, des finances et du budget exige de l'entreprise un plan de
-financement à court terme, qui doit être soumis dans le délai d'un mois à son approbation.
+constitué réglementairement, la commission de contrôle des assurances exige de l'entreprise un plan de financement à court
+terme, qui doit être soumis dans le délai d'un mois à son approbation.
 
 Les dirigeants de l'entreprise qui ne produit pas un plan de financement à court terme, ou qui n'exécute pas dans les
 conditions et délais prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
@@ -26187,13 +25790,13 @@ conditions et délais prévus celui qui a été approuvé, sont passibles des sa
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 17 () JORF 12 mai 1984
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
 
 	**Cité par**:
 
@@ -26208,12 +25811,11 @@ conditions et délais prévus celui qui a été approuvé, sont passibles des sa
 
 Lorsque la marge de solvabilité d'une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat
 membre de la Communauté économique européenne et qui ne fait l'objet d'aucune vérification de solvabilité globale, n'atteint
-pas le fonds de garantie ou si ce fonds n'est pas constitué réglementairement, le ministre de l'économie, des finances et du
-budget exige de l'entreprise un plan de financement à court terme, qui doit être soumis à son approbation dans le délai d'un
-mois.
+pas le fonds de garantie ou si ce fonds n'est pas constitué réglementairement, la commission de contrôle des assurances exige
+de l'entreprise un plan de financement à court terme, qui doit être soumis à son approbation dans le délai d'un mois.
 
-Il en est de même lorsque l'entreprise fait l'objet d'une vérification de solvabilité globale exercée par le ministre de
-l'économie et des finances.
+Il en est de même lorsque l'entreprise fait l'objet d'une vérification de solvabilité globale exercée par la commission de
+contrôle des assurances.
 
 Les dirigeants de l'entreprise qui ne produit pas un plan de financement à court terme, ou qui n'exécute pas dans les
 conditions et délais prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
@@ -26226,16 +25828,67 @@ conditions et délais prévus celui qui a été approuvé, sont passibles des sa
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 18 () JORF 12 mai 1984
+	  - Décret n°91-603 1991-06-27 art. 12 VII, VIII JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 
 	**Cité par**:
 
 	  - Code des assurances - art. R*325-6 (Ab)
 	  - Code des assurances - art. R328-1 (M)
+
+
+###### Article R323-8
+
+Dans les cas prévus aux articles R. 323-1, R. 323-6 et R. 323-7 où la commission de contrôle des assurances est amenée à
+restreindre ou interdire la libre disposition des actifs d'une entreprise, la commission peut prescrire par lettre
+recommandée à toute société ou collectivité émettrice de refuser l'exécution de toute opération portant sur des titres
+appartenant à l'entreprise intéressée, ainsi que le paiement des intérêts et dividendes afférents auxdits titres.
+
+La commission peut, en outre, faire inscrire sur les immeubles de l'entreprise l'hypothèque mentionnée par l'article L.
+327-3 ; elle peut prescrire aux conservateurs des hypothèques, par lettre recommandée, de refuser la transcription de tous
+actes, l'inscription de toute hypothèque portant sur les immeubles appartenant à l'entreprise, ainsi que la radiation
+d'hypothèque consentie par un tiers au profit de l'entreprise.
+
+La commission peut exiger le dépôt à la Caisse des dépôts et consignations des grosses de prêts hypothécaires consentis par
+ladite entreprise.
+
+La commission peut enfin exiger que tous les fonds, titres et valeurs détenus ou possédés par l'entreprise soient, dans des
+délais et conditions qu'elle fixera, transférés à la Banque de France pour y être déposés dans un compte bloqué. Ce compte ne
+pourra être débité sur ordre de son titulaire que sur autorisation expresse de la commission, et seulement pour un montant
+déterminé.
+
+Les dirigeants de l'entreprise qui n'effectue pas le transfert mentionné à l'alinéa précédent sont passibles des sanctions
+prévues à l'article R. 328-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°91-603 1991-06-27 art. 12 XI, XII, XIII, XIV JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
+	**Cite**:
+
+	  - Code des assurances - art. L327-3 (M)
+	  - Code des assurances - art. R*323-1 (M)
+	  - Code des assurances L327-3, R323-1, R323-6, R323-7, R328-1
+
+	**Cité par**:
+
+	  - Code des assurances - art. R325-10 (M)
+	  - Code des assurances - art. R328-1 (V)
 
 
 #### Chapitre IV : Transfert de portefeuille
@@ -26306,9 +25959,9 @@ réglementaire et qu'après avoir consulté, s'il y a lieu, les autorités de co
 
 ###### Article R*324-3
 
-Le ministre de l'économie, des finances et du budget fait connaître ses observations à l'autorité de contrôle d'un Etat
-membre de la Communauté économique européenne qui l'informe qu'une demande est présentée par une entreprise française
-d'assurance aux fins de transférer dans ledit Etat tout ou partie de son portefeuille de contrats.
+La commission de contrôle des assurances fait connaître ses observations à l'autorité de contrôle d'un Etat membre de la
+Communauté économique européenne qui l'informe qu'une demande est présentée par une entreprise française d'assurance aux fins
+de transférer dans ledit Etat tout ou partie de son portefeuille de contrats.
 
 **Liens relatifs à cet article**
 
@@ -26316,13 +25969,17 @@ d'assurance aux fins de transférer dans ledit Etat tout ou partie de son portef
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 20 () JORF 12 mai 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 15 () JORF 28 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 10 () JORF 26 juillet 1994
 
 
 ##### Section II : Transfert d'office.
@@ -26650,40 +26307,6 @@ s'appliquer sur le territoire défini au premier alinéa de l'article 1er de la 
 
 ##### Section I : Règles générales.
 
-###### Article R*326-1
-
-En cas de retrait de l'agrément administratif accordé à une entreprise mentionnée au 5° de l'article L. 310-1, dans le délai
-de trente jours à compter du lendemain du jour de la publication au Journal officiel de l'arrêté portant retrait d'agrément,
-chaque souscripteur de contrat est avisé de ce retrait d'agrément par le liquidateur ou, en attendant la désignation du
-liquidateur, par la personne qui était investie dans l'entreprise des pouvoirs de direction générale ou par son représentant.
-Cet avis fait l'objet d'une lettre recommandée adressée au dernier domicile connu du souscripteur et doit, notamment
-reproduire le texte du premier alinéa de l'article L. 326-12 et préciser la date à laquelle le contrat souscrit cessera de
-produire effet. Les avis individuels doivent être préparés sous la responsabilité des administrateurs de l'entreprise ou,
-dans le cas d'une entreprise étrangère, sous la responsabilité du mandataire général, dès que l'injonction en est adressée
-par le ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L326-12 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*323-11 (V)
-	  - Code des assurances - art. R*325-15 (Ab)
-	  - Code des assurances - art. R328-1 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 26
-
-
 ###### Article R*326-2
 
 Le décret mentionné à l'article L. 326-12 est pris sur le rapport du ministre de l'économie et des finances et du ministre
@@ -26708,38 +26331,39 @@ chargé des transports.
 	  - Décret n°1938-06-14 art. 26
 
 
-##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation de véhicules terrestres à moteur.
+###### Article R326-1
 
-###### Article R*326-3
-
-Les reversements mis à la charge des personnes mentionnées à l'article L. 326-18 en cas de retrait d'agrément sont recouvrés
-par le liquidateur.
-
-Le liquidateur doit faire parvenir au ministre de l'économie et des finances, six mois au plus tard après l'ouverture de la
-liquidation, un état nominatif faisant apparaître les sommes versées et les sommes restant encore dues à la liquidation au
-titre des versements définis à l'article L. 326-18.
+En cas de retrait de l'agrément administratif accordé à une entreprise mentionnée au 5° de l'article L. 310-1, dans le délai
+de trente jours à compter du lendemain du jour de la publication au Journal officiel de la décision du ministre chargé de
+l'économie et des finances ou de la commission de contrôle des assurances prononçant le retrait d'agrément, chaque
+souscripteur de contrat est avisé de ce retrait d'agrément par le liquidateur ou, en attendant la désignation du liquidateur,
+par la personne qui était investie dans l'entreprise des pouvoirs de direction générale ou par son représentant. Cet avis
+fait l'objet d'une lettre recommandée adressée au dernier domicile connu du souscripteur et doit, notamment reproduire le
+texte du premier alinéa de l'article L. 326-12 et préciser la date à laquelle le contrat souscrit cessera de produire effet.
+Les avis individuels doivent être préparés sous la responsabilité des administrateurs de l'entreprise ou, dans le cas d'une
+entreprise étrangère, sous la responsabilité du mandataire général, dès que l'injonction en est adressée par l'autorité qui
+retire l'agrément.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 22
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°91-603 du 27 juin 1991 - art. 16 () JORF 28 juin 1991
 
 	**Cite**:
 
-	  - Code des assurances - art. L326-18 (Ab)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L326-12 (M)
 
-	**Liens**:
+	**Cité par**:
 
-	  - TXT_SOURCE: Code des assurances - art. L326-18 (Ab)
+	  - Code des assurances - art. R*323-11 (V)
+	  - Code des assurances - art. R*325-15 (Ab)
+	  - Code des assurances - art. R328-1 (VD)
 
 
 #### Chapitre VII : Privilèges.
@@ -26844,7 +26468,7 @@ française, et, dans le cas d'une entreprise étrangère, le mandataire généra
 
 ##### Section I : Dispositions générales.
 
-###### Article R*331-1
+###### Article R331-1
 
 Les engagements réglementés dont les entreprises mentionnées à l'article L. 310-1 doivent, à toute époque, être en mesure de
 justifier l'évaluation sont les suivants :
@@ -26862,17 +26486,19 @@ bénéficiaires de contrats ;
 envers son personnel et ses collaborateurs.
 
 Les provisions techniques mentionnées au 1° du présent article sont calculées, sans déduction des réassurances cédées à des
-entreprises agréées ou non, dans les conditions déterminées par décret en Conseil d'Etat pris après avis du conseil national
-des assurances.
+entreprises agréées ou non, dans les conditions déterminées par décret en Conseil d'Etat.
 
-La provision mentionnée au 5° du présent article est calculée dans les conditions fixées par décret pris après avis du
-conseil national des assurances.
+La provision mentionnée au 5° du présent article est calculée dans les conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 17 () JORF 28 juin 1991
 
 	**Cité par**:
 
@@ -26919,10 +26545,6 @@ conseil national des assurances.
 	  - TXT_SOURCE: Code des assurances - art. R*331-9 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R331-15 (M)
 	  - TXT_SOURCE: Code des assurances - art. R331-7 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 149
 
 
 ###### Article R331-1-1
@@ -26991,7 +26613,46 @@ française, des Terres australes et antarctiques françaises et de Wallis et Fut
 
 ##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.
 
-###### Article R*331-3
+###### Article R*331-5
+
+Les opérations d'acquisition d'immeubles au moyen de versements de rentes viagères donnent lieu à la constitution de
+provisions mathématiques, dont le montant est déterminé dans les conditions fixées par arrêté du ministre de l'économie et
+des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - TXT_ASSOCIE: Code des assurances - art. A331-9 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 17 () JORF 28 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°93-866 du 25 juin 1993 - art. 2 (V) JORF 27 juin 1993
+
+	**Cité par**:
+
+	  - Décret n°93-866 du 25 juin 1993 - art. 2 (V)
+	  - Code des assurances - art. A132-8 (M)
+	  - Code des assurances - art. D132-7 (V)
+	  - Code des assurances - art. R134-8 (VD)
+	  - Code des assurances - art. R142-10 (Ab)
+	  - Code des assurances - art. R142-8 (Ab)
+	  - Code des assurances - art. R144-27 (VD)
+	  - Code des assurances - art. R332-2 (M)
+	  - Code des assurances - art. R332-39 (V)
+
+
+###### Article R331-3
 
 Les provisions techniques correspondant aux opérations d'assurance sur la vie, d'assurance nuptialité-natalité, et aux
 opérations de capitalisation sont les suivantes :
@@ -27005,8 +26666,7 @@ contrats lorsque ces bénéfices ne sont pas payables immédiatement après la l
 3° Réserve de capitalisation : réserve destinée à parer à la dépréciation des valeurs comprises dans l'actif de l'entreprise
 et à la diminution de leur revenu ;
 
-4° Toutes autres provisions techniques qui peuvent être fixées par décrets en Conseil d'Etat pris après avis du conseil
-national des assurances.
+4° Toutes autres provisions techniques qui peuvent être fixées par décrets en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -27054,18 +26714,33 @@ national des assurances.
 	  - Code des assurances - art. R334-13-2 (V)
 	  - Code des assurances - art. R441-7 (V)
 
+	**Liens**:
 
-###### Article R*331-4
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 17 () JORF 28 juin 1991
+
+
+###### Article R331-4
 
 Les provisions mathématiques des entreprises d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation
-sont déterminées dans les conditions fixées par arrêté du ministre de l'économie et des finances, après avis du conseil
-national des assurances.
+sont déterminées dans les conditions fixées par arrêté du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 17 () JORF 28 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Liens**:
 
@@ -27078,38 +26753,6 @@ national des assurances.
 	  - TXT_SOURCE: Code des assurances - art. A331-6 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A331-7 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A331-8 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-	  - TXT_ASSOCIE: Code des assurances A331-1 à A331-8
-
-
-###### Article R*331-5
-
-Les opérations d'acquisition d'immeubles au moyen de versements de rentes viagères donnent lieu à la constitution de
-provisions mathématiques, dont le montant est déterminé dans les conditions fixées par arrêté du ministre de l'économie et
-des finances, après avis du conseil national des assurances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Décret n°93-866 du 25 juin 1993 - art. 2 (V)
-	  - Code des assurances - art. A132-8 (M)
-	  - Code des assurances - art. D132-7 (V)
-	  - Code des assurances - art. R134-8 (VD)
-	  - Code des assurances - art. R142-10 (Ab)
-	  - Code des assurances - art. R142-8 (Ab)
-	  - Code des assurances - art. R144-27 (VD)
-	  - Code des assurances - art. R332-2 (M)
-	  - Code des assurances - art. R332-39 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. A331-9 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
 
 
 ##### Section III : Provisions techniques des autres opérations d'assurance.
@@ -27118,8 +26761,8 @@ des finances, après avis du conseil national des assurances.
 
 Les provisions techniques correspondant aux autres opérations d'assurance sont les suivantes :
 
-1° Provision mathématique des rentes : valeur des engagements de l'entreprise en ce qui concerne les rentes et accessoires de
-rentes mis à sa charge ;
+1° Provision mathématique des rentes : valeur actuelle des engagements de l'entreprise en ce qui concerne les rentes et
+accessoires de rentes mis à sa charge ;
 
 2° Provision pour risques en cours : provision destinée à couvrir les risques et les frais généraux afférents, pour chacun
 des contrats à prime payable d'avance, à la période comprise entre la date de l'inventaire et la prochaine échéance de prime,
@@ -27128,9 +26771,9 @@ ou à défaut le terme fixé par le contrat ;
 3° Réserve de capitalisation : réserve destinée à parer à la dépréciation des valeurs comprises dans l'actif de l'entreprise
 et à la diminution de leur revenu ;
 
-4° Provision pour sinistres restant à payer : valeur estimative des dépenses pour sinistres non réglés et montant des
-dépenses pour sinistres réglés restant à payer à la date de l'inventaire, y compris les capitaux constitutifs des rentes non
-encore mises à la charge des entreprises ;
+4° Provision pour sinistres à payer : valeur estimative des dépenses en principal et en frais, tant internes qu'externes,
+nécessaires au règlement de tous les sinistres survenus et non payés, y compris les capitaux constitutifs des rentes non
+encore mises à la charge de l'entreprise ;
 
 5° Provision pour risques croissants : provision pouvant être exigée, dans les conditions fixées par le décret prévu à
 l'avant-dernier alinéa de l'article R. 331-1, pour les opérations d'assurance contre les risques de maladie et d'invalidité
@@ -27139,8 +26782,9 @@ et égale à la différence des valeurs actuelles des engagements respectivement
 6° Provision pour égalisation :
 
 a) Provision destinée à faire face aux charges exceptionnelles afférentes aux opérations garantissant les risques dus à des
-éléments naturels, le risque atomique et les risques de responsabilité civile dus à la pollution, et calculée dans les
-conditions fixées par l'article 2 de la loi n° 74-1114 du 27 décembre 1974 et par le décret n° 75-768 du 13 août 1975 ;
+éléments naturels, le risque atomique, les risques de responsabilité civile dus à la pollution et les risques spatiaux et
+calculée dans les conditions fixées par l'article 2 de la loi n° 74-1114 du 27 décembre 1974, par le décret n° 75-768 du 13
+août 1975 et le décret n° 86-741 du 14 mai 1986 ;
 
 b) Provision destinée à compenser en assurance-crédit la perte technique éventuelle apparaissant à la fin de l'exercice, et
 calculée dans les conditions fixées à l'article R. 331-33.
@@ -27150,8 +26794,7 @@ calculée dans les conditions fixées à l'article R. 331-33.
 natalité et égale à la différence entre les valeurs actuelles des engagements respectivement pris l'un envers l'autre par le
 réassureur et le cédant ;
 
-8° Toutes autres provisions techniques qui peuvent être fixées par décrets en Conseil d'Etat pris après avis du conseil
-national des assurances.
+8° Toutes autres provisions techniques qui peuvent être fixées par décrets en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -27159,6 +26802,7 @@ national des assurances.
 
 	  - Loi n°74-1114 du 27 décembre 1974 - art. 2, v. init.
 	  - Décret n°75-768 1975-08-13
+	  - Décret n°86-741 1986-05-14
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. R*331-1 (M)
 	  - Code des assurances - art. R331-33 (V)
@@ -27180,45 +26824,23 @@ national des assurances.
 	  - Code des assurances - art. R332-39 (V)
 	  - Code des assurances - art. R333-1 (VT)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°91-398 du 25 avril 1991 - art. 1 () JORF 27 avril 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 17 () JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 18 () JORF 28 juin 1991
 
 
 ##### Paragraphe 1 : Provision mathématique des rentes
 
-###### Article R*331-7
+###### Article R331-7
 
-La provision mathématique des rentes allouées aux victimes d'accidents du travail et à leurs ayants droit, ainsi que les
-capitaux constitutifs desdites rentes, sont calculés dans les conditions fixées par arrêté du ministre de l'économie et des
-finances, après avis du conseil national des assurances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. A331-10 (M)
-	  - TXT_SOURCE: Code des assurances - art. A331-11 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A331-12 (V)
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-	  - TXT_ASSOCIE: Code des assurances A331-10 à A331-12
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*433-1 (M)
-
-
-##### B. - Autres rentes.
-
-###### Article R*331-8
-
-A l'exclusion des rentes allouées aux victimes d'accidents du travail et à leurs ayants droit, la provision mathématique des
-rentes mises à la charge des entreprises mentionnées au 5° de l'article L. 310-1, ainsi que les capitaux constitutifs
-desdites rentes, sont calculés dans les conditions fixées par arrêté du ministre de l'économie et des finances.
+La provision mathématique des rentes à la charge des entreprises mentionnées au 5° de l'article L. 310-1 ainsi que les
+capitaux constitutifs desdites rentes sont calculés dans les conditions fixées par arrêté du ministre chargé de l'économie et
+des finances.
 
 **Liens relatifs à cet article**
 
@@ -27230,18 +26852,24 @@ desdites rentes, sont calculés dans les conditions fixées par arrêté du mini
 
 	  - Décret n°91-603 du 27 juin 1991 - art. 19 () JORF 28 juin 1991
 
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. A331-10 (M)
+	  - TXT_SOURCE: Code des assurances - art. A331-11 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A331-12 (V)
+	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
+
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
 
-	**Liens**:
+	**Cité par**:
 
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-	  - TXT_ASSOCIE: Code des assurances A331-13 à A331-15
+	  - Code des assurances - art. R*433-1 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances R331-7 (2ème version)
+	  - Code des assurances R331-8 (1ère version)
 
 
 ##### Paragraphe 2 : Provision pour risques en cours.
@@ -27318,16 +26946,16 @@ taux de calcul est celui prévu ci-dessus ; pour les années suivantes, il est �
 
 ###### Article R*331-11
 
-En cas d'inégale répartition des échéances de primes ou fractions de primes au cours de l'exercice, le ministre de l'économie
-et des finances peut, sur justifications fournies par une entreprise, l'autoriser à tenir compte de cette situation pour le
+En cas d'inégale répartition des échéances de primes ou fractions de primes au cours de l'exercice, la commission de contrôle
+des assurances peut, sur justifications fournies par une entreprise, l'autoriser à tenir compte de cette situation pour le
 calcul de la provision pour risques en cours.
 
-Dans la même hypothèse, le ministre de l'économie et des finances peut, après avis du conseil national des assurances,
-prescrire à une entreprise de prendre les dispositions appropriées pour le calcul de ladite provision.
+Dans la même hypothèse, la commission de contrôle des assurances peut, prescrire à une entreprise de prendre les dispositions
+appropriées pour le calcul de ladite provision.
 
 Dans le cas où la proportion des sinistres ou des frais généraux par rapport aux primes est supérieure à la proportion
-normale, le ministre peut également, après avis du conseil national des assurances, prescrire à une entreprise d'appliquer un
-pourcentage plus élevé que celui fixé à l'article R. 331-10.
+normale, la commission peut également prescrire à une entreprise d'appliquer un pourcentage plus élevé que celui fixé à
+l'article R. 331-10.
 
 **Liens relatifs à cet article**
 
@@ -27335,9 +26963,20 @@ pourcentage plus élevé que celui fixé à l'article R. 331-10.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°91-603 1991-06-27 art. 17, art. 20 I, II JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 17 () JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 20 () JORF 28 juin 1991
+
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°95-153 du 7 février 1995 - art. 2 () JORF 14 février 1995
 
 	**Cite**:
 
@@ -27425,27 +27064,35 @@ résiliés à la date de l'inventaire.
 
 ##### Paragraphe 3 : Provision pour sinistres restant à payer.
 
-###### Article R*331-15
+###### Article R331-15
 
-La provision pour sinistres restant à payer est, en principe, et sans préjudice de l'application de règles spéciales à
-certaines branches d'assurance prévues à la présente section, calculée exercice par exercice et dossier par dossier.
+La provision pour sinistres à payer est calculée exercice par exercice.
 
-Lorsque, à la suite d'un sinistre, une indemnité a été fixée par une décision de justice définitive ou non, les sommes à
-mettre en provision doivent, dans les limites du montant maximal de garantie fixé par la police, être au moins égales à cette
-indemnité, diminuée, le cas échéant, des acomptes déjà versés.
+Sans préjudice de l'application des règles spécifiques à certaines branches prévues à la présente section, l'évaluation des
+sinistres connus est effectuée dossier par dossier, le coût d'un dossier comprenant toutes les charges externes
+individualisables ; elle est augmentée d'une estimation du coût des sinistres survenus mais non déclarés.
 
-La provision pour sinistres restant à payer doit toujours être calculée pour son montant brut, sans tenir compte des recours
-à exercer.
+La provision pour sinistres à payer doit toujours être calculée pour son montant brut, sans tenir compte des recours à
+exercer ; les recours à recevoir font l'objet d'une évaluation distincte.
+
+Par dérogation aux dispositions du deuxième alinéa du présent article, l'entreprise peut, avec l'accord de la commission de
+contrôle des assurances, utiliser des méthodes statistiques pour l'estimation des sinistres survenus au cours des deux
+derniers exercices.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 22
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 21 () JORF 28 juin 1991
 
 	**Cité par**:
 
@@ -27453,351 +27100,37 @@ La provision pour sinistres restant à payer doit toujours être calculée pour 
 	  - Code des assurances - art. R*331-19 (Ab)
 	  - Code des assurances - art. R*331-20 (Ab)
 
-	**Liens**:
 
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
+###### Article R331-16
 
-
-###### Article R*331-16
-
-Le montant de la provision pour sinistres restant à payer sur affaires directes est majoré de 5 p. 100 à titre de chargement
-de gestion.
+La provision pour sinistres à payer calculée conformément à l'article R. 331-15 est complétée, à titre de chargement, par une
+évaluation des charges de gestion qui, compte tenu des éléments déjà inclus dans la provision, doit être suffisante pour
+liquider tous les sinistres.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 22 () JORF 28 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. R331-15 (VT)
 
 	**Cité par**:
 
-	  - Code des assurances - art. R*331-26 (M)
+	  - Code des assurances - art. R331-26 (VT)
 
-	**Anciens textes**:
 
-	  - Décret n°1941-08-17 art. 23
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-
-###### Article R*331-17
-
-La provision pour sinistres restant à payer afférente aux opérations d'assurance contre les accidents du travail se compose
-des éléments ci-après :
-
-1° Provision pour sinistres graves non réglés judiciairement. Cette provision représente la valeur estimative des dépenses à
-prévoir pour le service des rentes et des appareils de prothèse qui pourront être alloués par décision judiciaire à raison
-d'accidents déjà survenus ;
-
-2° Provision pour sinistres graves réglés judiciairement et non financièrement. Cette provision représente la valeur
-estimative des dépenses à prévoir pour le service des rentes et des appareils de prothèse lorsque le capital constitutif de
-la rente n'a pas encore été versé à la caisse nationale de prévoyance ou, le cas échéant, inscrit au compte des rentes
-viagères de l'entreprise ;
-
-3° Provision pour indemnités journalières et frais. Cette provision représente la valeur estimative des dépenses restant à
-effectuer à titre d'indemnités journalières et à titre de frais, notamment : frais médicaux, frais pharmaceutiques, frais
-d'hospitalisation, frais funéraires, frais judiciaires (y compris ceux qui sont afférents à des actions en revision de
-rentes), frais de déplacement et frais de rechute.
-
-Pour l'application du présent article, les sinistres graves sont ceux qui ont entraîné le décès ou une incapacité permanente
-et ceux pour lesquels on peut craindre qu'ils entraînent de telles conséquences.
-
-Outre les enregistrements prescrits par le chapitre II du titre IV du présent livre, les sinistres graves donnent lieu à une
-inscription sur un registre spécial dans les conditions fixées par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 23 () JORF 28 juin 1991
-
-	**Cité par**:
-
-	  - Code des assurances - art. A331-16 (Ab)
-	  - Code des assurances - art. A331-21 (V)
-	  - Code des assurances - art. A342-3 (Ab)
-	  - Code des assurances - art. Annexe A344-10 ETAT C11 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C12 (V)
-	  - Code des assurances - art. R*331-20 (Ab)
-	  - Code des assurances - art. R331-18 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. A342-3 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 24
-
-
-###### Article R*331-18
-
-La provision pour sinistres graves non réglés judiciairement, définie au 1° de l'article R. 331-17, est déterminée dans les
-conditions fixées par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 23 () JORF 28 juin 1991
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. A331-16 (V)
-	  - TXT_SOURCE: Code des assurances - art. A331-17 (M)
-	  - TXT_SOURCE: Code des assurances - art. A331-18 (V)
-	  - TXT_SOURCE: Code des assurances - art. A331-19 (V)
-	  - TXT_SOURCE: Code des assurances - art. A331-20 (V)
-	  - TXT_SOURCE: Code des assurances - art. A331-21 (V)
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-	  - TXT_ASSOCIE: Code des assurances A331-16 à A331-18
-
-	**Cite**:
-
-	  - Code des assurances - art. R*331-17 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 25
-
-
-###### Article R*331-19
-
-La provision pour sinistres graves réglés judiciairement et non financièrement est calculée conformément aux dispositions de
-l'article R. 331-15.
-
-Toute entreprise d'assurance qui, étant obligatoirement tenue de verser à la caisse nationale de prévoyance les capitaux
-constitutifs des rentes mises à sa charge, est, pour quelque cause que ce soit, dans l'impossibilité d'effectuer ce versement
-dans un délai de deux mois à compter de la date de l'ordonnance ou de la décision judiciaire fixant une rente à sa charge,
-doit déposer dans le même délai à la caisse des dépôts et consignations des valeurs en garantie dans les conditions fixées
-par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 23 () JORF 28 juin 1991
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-	  - TXT_ASSOCIE: Code des assurances A331-19 à A331-20
-
-	**Cite**:
-
-	  - Code des assurances - art. R*331-15 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 25
-
-
-###### Article R*331-20
-
-Pour la détermination de la provision pour indemnités journalières et frais, prévue au 3° de l'article R. 331-17 et afférente
-aux sinistres de l'exercice inventorié non encore réglés, les entreprises d'assurance peuvent, sur leur demande, être
-dispensées par le ministre de l'économie et des finances de l'application des dispositions de l'article R. 331-15.
-
-Cette dispense est toujours révocable.
-
-En ce qui concerne les sinistres survenus au cours de chacun des deux derniers exercices, le total des évaluations augmenté
-du montant des paiements déjà effectués au titre des dépenses correspondantes, ne doit pas être inférieur au produit du
-nombre des sinistres survenus au cours de l'exercice considéré par un coût moyen établi en divisant le total des paiements
-effectués et des provisions constituées pour sinistres survenus au cours de l'antépénultième exercice par le nombre des
-sinistres de cette nature. Le quotient ainsi obtenu est, le cas échéant, et pour chacun des exercices considérés, majoré
-d'une quantité suffisante pour tenir compte de l'augmentation du coût des sinistres résultant de quelque cause que ce soit,
-notamment de la hausse des salaires, des frais médicaux, des frais pharmaceutiques et des frais d'hospitalisation.
-
-Pour les sinistres survenus au cours des exercices antérieurs aux deux derniers, la provision calculée conformément aux
-dispositions de l'article R. 331-15 ne doit pas être inférieure à 8 p. 100 du montant des paiements effectués au titre des
-dépenses correspondantes d'indemnités journalières et de frais au cours de l'antépénultième année.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 23 () JORF 28 juin 1991
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*331-15 (M)
-	  - Code des assurances - art. R*331-17 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 26
-
-
-###### Article R*331-21
-
-Le total des portions de provision mentionnées respectivement aux articles R. 331-18 à R. 331-20 afférentes aux sinistres
-survenus au cours des deux derniers exercices, augmenté du montant des règlements correspondants effectués pour les sinistres
-survenus au cours de l'exercice considéré, ne doit être inférieur à 75 p. 100 du total des primes ou cotisations acquises
-auxdits exercices, y compris les accessoires.
-
-Ce taux est diminué ou, après avis du conseil national des assurances augmenté, par décisions individuelles du ministre de
-l'économie et des finances, si le rapport du coût des sinistres au montant des primes s'en écarte notablement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 23 () JORF 28 juin 1991
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-	  - TXT_ASSOCIE: Code des assurances A331-21 à A331-23
-
-	**Cite**:
-
-	  - Code des assurances R331-18 à R331-20
-
-
-###### Article R*331-22
-
-Les entreprises doivent constituer une provision pour appareils de prothèse alloués par décision judiciaire et, le cas
-échéant, une provision pour indemnités représentatives d'acquisition et de renouvellement d'appareils de prothèse, le tout
-par application des dispositions du 8° de l'article R. 331-6.
-
-Ces provisions sont déterminées dans les conditions fixées par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 23 () JORF 28 juin 1991
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-	  - TXT_ASSOCIE: Code des assurances A331-21 à A331-23
-
-	**Cite**:
-
-	  - Code des assurances - art. R*331-6 (M)
-
-
-###### Article R*331-23
-
-Il est interdit aux entreprises de porter en comptabilité d'éventuels profits sur revision.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 30
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 23 () JORF 28 juin 1991
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances A331-21 à A331-23
-
-
-###### Article R*331-24
-
-La provision pour sinistres restant à payer afférente aux opérations d'assurance contre les risques de toute nature résultant
-de l'emploi de tous véhicules autres que les véhicules terrestres à moteur comprend les provisions ci-après :
-
-1° Provision pour risques résultant de l'emploi d'aéronefs ;
-
-2° Provision pour risques définis au 1° ci-dessus et couverts en coassurance par un consortium d'organismes d'assurance ;
-
-3° Provision pour risques résultant de l'emploi de tous véhicules autres que les aéronefs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 31
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 23 () JORF 28 juin 1991
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-
-
-###### Article R*331-25
-
-Pour chaque entreprise, la provision prévue au 2° de l'article R. 331-24 est fixée au montant déterminé par le consortium.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 23 () JORF 28 juin 1991
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances R331-24
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 32
-
-
-###### Article R*331-26
+###### Article R331-26
 
 La provision pour sinistres restant à payer afférente aux opérations d'assurance des véhicules terrestres à moteur est
 estimée en procédant à une évaluation distincte :
@@ -27811,37 +27144,28 @@ estimée en procédant à une évaluation distincte :
 Dans chacune de ces trois évaluations, il est fait un calcul séparé par sous-catégorie d'assurance ; les sous-catégories
 d'assurance sont fixées par arrêté du ministre de l'économie et des finances.
 
-Les sinistres sont évalués en utilisant concurremment les trois méthodes suivantes, l'évaluation la plus élevée étant seule
-retenue :
+Les sinistres des deux derniers exercices autres que les sinistres corporels correspondant à des risques de responsabilité
+civile et les autres sinistres d'accidents corporels sont évalués en utilisant concurremment les deux méthodes suivantes,
+l'évaluation la plus élevée étant seule retenue :
 
-- première méthode : évaluation dossier par dossier ;
+- première méthode : évaluation par référence au coût moyen des sinistres des exercices antérieurs ;
 
-- deuxième méthode : évaluation par référence au coût moyen des sinistres des exercices antérieurs ;
-
-- troisième méthode : évaluation basée sur les cadences de règlement observées dans l'entreprise au cours des exercices
+- deuxième méthode : évaluation basée sur les cadences de règlement observées dans l'entreprise au cours des exercices
 antérieurs.
 
-Toutefois, pour les évaluations concernant les sinistres survenus au cours des deux derniers exercices, l'utilisation de la
-première méthode n'est obligatoire que dans le cas des sinistres corporels correspondant à des risques de responsabilité
-civile.
-
-Toute autre méthode admise par le ministre de l'économie et des finances peut, dans les conditions fixées par lui, être
-substituée à l'une des deux dernières méthodes mentionnées ci-dessus.
-
-Les modalités d'application des méthodes utilisées sont déterminées par un accord entre l'entreprise et le commissaire
-contrôleur.
-
-Un arrêté du ministre de l'économie et des finances définit ceux des sinistres corporels de responsabilité civile qui sont
-réputés graves et les conditions dans lesquelles ils doivent être inscrits sur un registre spécial.
-
-Le montant de provision résultant des évaluations prévues au présent article est majoré du chargement de gestion de 5 p. 100
-mentionné à l'article R. 331-16.
+En outre, une évaluation dossier par dossier peut également être utilisée pour ces sinistres. Dans ce cas, l'évaluation la
+plus élevée résultant de ces trois méthodes est retenue.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 23 () JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 24 () JORF 28 juin 1991
 
 	**Cité par**:
 
@@ -27850,84 +27174,18 @@ mentionné à l'article R. 331-16.
 	  - Code des assurances - art. A331-25 (Ab)
 	  - Code des assurances - art. R*325-16 (Ab)
 
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. A331-24 (V)
+	  - TXT_SOURCE: Code des assurances - art. A331-24 (V)
 	  - TXT_SOURCE: Code des assurances - art. A331-25 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. A331-25 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
 
 	**Cite**:
 
-	  - Code des assurances - art. R*331-16 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 33 bis
-
-
-###### Article R*331-27
-
-Lors de chaque inventaire, la provision pour sinistres restant à payer, nette de recours à encaisser, relative aux sinistres
-survenus au cours des deux derniers exercices écoulés ne peut être inférieure pour chacun de ces exercices considérés
-séparément, à la différence, majorée de 5 p. 100 à titre de chargement de gestion, entre, d'une part, le montant des primes
-de l'exercice au sens du compte d'exploitation générale décrit à l'article R. 343-3 et, d'autre part, la somme des éléments
-suivants :
-
-- le montant des commissions et frais généraux de l'exercice afférents à l'assurance des véhicules terrestres à moteur, dans
-la limite, par rapport aux primes émises au cours de cet exercice, nettes de taxes et d'annulations, du pourcentage fixé par
-la réglementation en vigueur ;
-
-Le montant des sinistres survenus au cours de l'exercice et payés à la date de l'inventaire, nets des recours encaissés.
-
-L'application des dispositions du présent article peut, par décision du ministre de l'économie et des finances, pour les
-entreprises qui adressent à cet effet une demande motivée, être limitée au dernier exercice écoulé à la date de l'inventaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 25 (V) JORF 28 juin 1991
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances R343-3
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 33 ter
-
-
-###### Article R*331-28
-
-Une méthode de contrôle des évaluations de la provision pour sinistres à payer, tenant compte du nombre de véhicules assurés,
-est fixée par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-17 art. 33 quater
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 25 (V) JORF 28 juin 1991
+	  - Code des assurances - art. R331-16 (VT)
 
 
 ##### Paragraphe 4 : Dispositions particulières au Lloyd's de Londres.
@@ -27935,14 +27193,9 @@ est fixée par arrêté du ministre de l'économie et des finances.
 ###### Article R*331-29
 
 Les dispositions de la présente section et de la section I du présent chapitre sont applicables au Lloyd's de Londres, sous
-réserve des modalités spéciales d'application déterminées par décret en Conseil d'Etat pris après avis du conseil national
-des assurances.
+réserve des modalités spéciales d'application déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 192
 
 	**Codifié par**:
 
@@ -27950,7 +27203,16 @@ des assurances.
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 	  - TXT_ASSOCIE: Code des assurances R331-30
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 17 () JORF 28 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 12 () JORF 26 juillet 1994
 
 
 ###### Article R*331-30
@@ -27995,7 +27257,7 @@ le règlement des sinistres en suspens.
 ###### Article R331-31
 
 Dans le cas où des entreprises agréées dans les conditions fixées à l'article L. 321-1 participent à une opération de
-coassurance définie à l'article L. 321-4 sur le territoire couvert par le traité instituant la Communauté économique
+coassurance définie à l'article L. 352-1 sur le territoire couvert par le traité instituant la Communauté économique
 européenne des  Etats membres de cette Communauté autres que la France, la provision pour sinistres restant à payer que
 chacune de ces entreprises doit constituer est au moins égale au montant calculé par l'apériteur, compte tenu des règles ou
 pratiques en usage dans le pays où est établi ce dernier.
@@ -28006,14 +27268,18 @@ pratiques en usage dans le pays où est établi ce dernier.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°81-443 du 7 mai 1981 - art. 2 () JORF 9 mai 1981
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 26 () JORF 28 juin 1991
 
 	**Cite**:
 
 	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L321-4 (Ab)
+	  - Code des assurances - art. L352-1 (M)
 
 
 ##### Paragraphe 6 : Dispositions particulières relatives à l'assurance de la construction : responsabilité civile décennale.
@@ -28030,7 +27296,7 @@ produits financiers, et, d'autre part, la somme des éléments suivants ;
 2° le montant des règlements intervenus au titre de ces sinistres, après déduction des sommes encaissées à la suite de
 recours.
 
-Toutefois, l'application des dispositions du présent article peut, par décision du ministre de l'Economie et des Finances,
+Toutefois, l'application des dispositions du présent article peut, par décision de la commission de contrôle des assurances,
 pour les entreprises qui adressent à cet effet une demande motivée, être limitée au dernier exercice écoulé à la date de
 l'inventaire.
 
@@ -28043,10 +27309,15 @@ l'inventaire.
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°82-540 1982-06-28 art. 30 finances rectificative
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°82-1159 1982-12-30 art. 12 JORF 31 décembre 1982
+	  - Décret n°91-603 du 27 juin 1991 - art. 20 () JORF 28 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°95-153 du 7 février 1995 - art. 3 () JORF 14 février 1995
 
 	**Cite**:
 
@@ -28650,10 +27921,7 @@ Sont également admises les créances nettes sur les fonds suivants :
 
 - fonds de garantie mentionné à l'article L. 421-1 ;
 
-- fonds de revalorisation des rentes mentionné à l'article L. 431-11 ;
-
-- fonds de compensation des risques de l'assurance de la construction institué par l'article 30 de la loi n° 82-540 du 28
-juin 1982.
+- fonds de compensation des risques de l'assurance de la construction mentionné à l'article L. 431-14.
 
 **Liens relatifs à cet article**
 
@@ -28661,20 +27929,23 @@ juin 1982.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Cite**:
+	**Liens**:
 
-	  - Loi n°82-540 du 28 juin 1982 - art. 30, v. init.
-	  - Code des assurances - art. L421-1 (M)
-	  - Code des assurances - art. L431-11 (M)
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
+	  - Décret n°91-603 du 27 juin 1991 - art. 27 () JORF 28 juin 1991
 
 	**Cité par**:
 
 	  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
 	  - Code des assurances - art. R332-3 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L421-1 (M)
+	  - Code des assurances - art. L431-14 (M)
 
 
 ###### Article R332-4
@@ -29059,17 +28330,15 @@ contre l'incendie.
 ###### Article R332-16
 
 Les valeurs mobilières et titres assimilés, les parts ou actions des sociétés immobilières ou foncières doivent faire l'objet
-soit d'une inscription en compte, ou d'un dépôt, auprès d'un établissement visé au dernier alinéa, soit d'une inscription
-nominative dans les comptes de l'organisme émetteur, à condition que celui-ci soit situé en France.
+soit d'une inscription en compte, ou d'un dépôt, auprès d'un intermédiaire habilité, soit d'une inscription nominative dans
+les comptes de l'organisme émetteur, à condition que celui-ci soit situé en France.
 
 Les actes de propriété des actifs immobiliers, les actes et les titres consacrant les prêts ou créances doivent être
 conservés sur le territoire de la République française.
 
-Les comptes de dépôt visés au 13° de l'article R. 332-2 doivent être ouverts auprès d'un établissement situé en France. La
-tenue des comptes est effectuée par les établissements de crédit, les comptables du Trésor, les centres de chèques postaux,
-la Banque de France, la Caisse des dépôts et consignations. Ils doivent être libellés au nom de l'entreprise ou de
-l'établissement situé en France et ne peuvent être débités qu'avec l'accord d'un dirigeant ou du mandataire général de
-l'établissement ou encore d'une personne désignée par eux à cet effet.
+Les comptes de dépôt visés au 13° de l'article R. 332-2 doivent être ouverts auprès d'un établissement situé en France. Les
+comptes doivent être libellés au nom de l'entreprise ou de l'établissement situé en France et ne peuvent être débités qu'avec
+l'accord d'un dirigeant ou du mandataire général de l'établissement ou encore d'une personne désignée par eux à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -29077,9 +28346,14 @@ l'établissement ou encore d'une personne désignée par eux à cet effet.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - TXT_ASSOCIE: Code des assurances - art. R332-2 (M)
+
 	**Modifié par**:
 
-	  - Décret n°90-981 du 5 novembre 1990 - art. 11 () JORF 6 novembre 1990
+	  - Décret n°91-603 du 27 juin 1991 - art. 34 () JORF 28 juin 1991
 
 	**Cité par**:
 
@@ -29095,10 +28369,6 @@ l'établissement ou encore d'une personne désignée par eux à cet effet.
 	**Anciens textes**:
 
 	  - Code des assurances - art. R332-17 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R332-2 (M)
 
 
 ###### Article R332-17
@@ -30097,8 +29367,8 @@ Un arrêté du ministre chargé de l'économie et des finances fixe les modalit�
 
 ###### Article R*334-2
 
-Pour l'application des dispositions du présent chapitre, le ministre de l'Economie, des Finances et du Budget constate et
-notifie aux entreprises la contre-valeur en francs de l'unité de compte de la Communauté économique européenne à retenir.
+Pour l'application des dispositions du présent chapitre, la commission de contrôle des assurances constate et notifie aux
+entreprises la contre-valeur en francs de l'unité de compte de la Communauté économique européenne à retenir.
 
 **Liens relatifs à cet article**
 
@@ -30106,9 +29376,17 @@ notifie aux entreprises la contre-valeur en francs de l'unité de compte de la C
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2001-95 du 2 février 2001 - art. 5 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -30189,7 +29467,7 @@ entre les cotisations maximales et les cotisations effectivement appelées ; tou
 représenter d'une part, plus de 50 p. 100 de la marge prévue au présent article, d'autre part, plus de 50 p. 100 du montant
 réglementaire de la marge défini à l'article R. 334-5.
 
-7. Sur demande et justification de l'entreprise et avec l'accord du ministre de l'économie, des finances et du budget, et des
+7. Sur demande et justification de l'entreprise et avec l'accord de la commission de contrôle des assurances, et des
 autorités de contrôle des Etats membres de la Communauté économique européenne où l'entreprise exerce son activité, les plus-
 values pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'éléments de passif, dans la mesure
 où de telles plus-values n'ont pas un caractère exceptionnel.
@@ -30200,9 +29478,13 @@ où de telles plus-values n'ont pas un caractère exceptionnel.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
 
 	**Cité par**:
 
@@ -30488,9 +29770,9 @@ part, aux entreprises étrangères, mentionnées à l'article R. 334-10, pour po
 
 ###### Article R334-8
 
-Les dispositions de l'article R. 334-7 ne sont pas applicables aux sociétés mutuelles d'assurance intégralement réassurées
-par une union de sociétés mutuelles mentionnées à l'article R. 322-107, ainsi qu'aux sociétés ou caisses d'assurances
-mutuelles agricoles dispensées de l'agrément administratif dans les conditions prévues par l'article R. 322-132.
+Les dispositions de l'article R. 334-7 ne sont pas applicables aux sociétés d'assurance mutuelles intégralement réassurées
+par une union mentionnée à l'article L. 322-26-3, ainsi qu'aux sociétés ou caisses d'assurances mutuelles agricoles
+dispensées de l'agrément administratif dans les conditions prévues par l'article R. 322-132.
 
 **Liens relatifs à cet article**
 
@@ -30498,26 +29780,27 @@ mutuelles agricoles dispensées de l'agrément administratif dans les conditions
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Code des assurances - art. R334-7 (M)
+	  - SPEC_APPLI: Code des assurances - art. R334-7-1 (Ab)
+
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°91-603 du 27 juin 1991 - art. 29 () JORF 28 juin 1991
 
 	**Cite**:
 
-	  - Code des assurances - art. R*322-107 (M)
-	  - Code des assurances - art. R*322-132 (M)
-	  - Code des assurances - art. R*334-7 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. R334-7 (M)
-	  - SPEC_APPLI: Code des assurances - art. R334-7-1 (Ab)
+	  - Code des assurances - art. L322-26-3 (V)
+	  - Code des assurances - art. R322-132 (V)
+	  - Code des assurances - art. R334-7 (V)
 
 
 ###### Article R334-9
 
-Les dispositions de l'article R. 334-7 concernant le montant minimal du fonds de garantie ne sont applicables ni aux sociétés
-à forme mutuelle ni aux sociétés mutuelles d'assurance qui remplissent simultanément les conditions suivantes :
+Les dispositions de l'article R. 334-7 concernant le montant minimal du fonds de garantie ne sont pas applicables aux
+sociétés d'assurance mutuelles qui remplissent simultanément les conditions suivantes :
 
 a) Leurs statuts prévoient la possibilité de procéder à des rappels de cotisation ;
 
@@ -30536,9 +29819,15 @@ d) La moitié au moins de leurs cotisations sont versées par des personnes phys
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Code des assurances - art. R334-7 (M)
+	  - SPEC_APPLI: Code des assurances - art. R334-7-1 (Ab)
+
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°91-603 du 27 juin 1991 - art. 29 () JORF 28 juin 1991
 
 	**Cite**:
 
@@ -30550,11 +29839,6 @@ d) La moitié au moins de leurs cotisations sont versées par des personnes phys
 
 	  - Code des assurances - art. R334-1-1 (V)
 	  - Code des assurances - art. R335-2 (VD)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. R334-7 (M)
-	  - SPEC_APPLI: Code des assurances - art. R334-7-1 (Ab)
 
 
 ###### Article R334-10
@@ -30612,7 +29896,7 @@ de capitalisation ;
 
 4. Les bénéfices reportés.
 
-5. Sur demande et justification de l'entreprise et avec l'accord du ministre de l'économie, des finances et du Budget ;
+5. Sur demande et justification de l'entreprise et avec l'accord de la commission de contrôle des assurances ;
 
 a) un montant représentant 50 % des bénéfices futurs de l'entreprise. Le montant des bénéfices futurs est obtenu en
 multipliant le bénéfice annuel estimé de l'entreprise par le facteur qui représente la durée résiduelle moyenne des contrats.
@@ -30630,9 +29914,13 @@ passif autres que les provisions mathématiques, dans la mesure où de telles pl
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
 
 	**Cité par**:
 
@@ -30664,8 +29952,7 @@ passif autres que les provisions mathématiques, dans la mesure où de telles pl
 
 	**Cite**:
 
-	  - Code des assurances - art. R*334-6 (M)
-	  - Code des assurances R321-8, R334-6
+	  - Code des assurances - art. R*334-1 (M)
 
 
 ###### Article R334-12
@@ -30933,8 +30220,8 @@ Le cautionnement initial déposé conformément au d) de l'article R. 321-8 s'im
 
 Une entreprise étrangère, dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
 économique européenne, agréée ou demandant l'agrément pour pratiquer les opérations mentionnées aux 1 à 18 et 20 à 26 de
-l'article R. 321-1 en France et dans un ou plusieurs autres Etats membres peut demander, en motivant son choix, au ministre
-chargé de l'économie et des finances de faire l'objet en France de la vérification de solvabilité globale.
+l'article R. 321-1 en France et dans un ou plusieurs autres Etats membres peut demander, en motivant son choix, à la
+commission de contrôle des assurances de faire l'objet en France de la vérification de solvabilité globale.
 
 L'entreprise doit justifier qu'elle informe de cette demande les autorités de contrôle des autres Etats membres dans lesquels
 elle est agréée ou demande l'agrément pour pratiquer ces opérations. Elle ne peut faire l'objet en France de la vérification
@@ -30958,8 +30245,8 @@ R. 321-1 ;
 - à 200 000 unités de compte de la Communauté économique européenne pour pratiquer les opérations mentionnées aux 20 à 26 de
 l'article R. 321-1.
 
-Ces mesures prennent effet à la date à laquelle le ministre chargé de l'économie et des finances s'engage vis-à-vis des
-autorités de contrôle des autres Etats membres à exercer la vérification de solvabilité globale.
+Ces mesures prennent effet à la date à laquelle la commission de contrôle des assurances s'engage vis-à-vis des autorités de
+contrôle des autres Etats membres à exercer la vérification de solvabilité globale.
 
 La vérification de solvabilité globale prend en compte les informations reçues des autorités de contrôle des autres Etats
 intéressés, membres de la Communauté économique européenne.
@@ -30970,13 +30257,14 @@ intéressés, membres de la Communauté économique européenne.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-
 	**Modifié par**:
 
-	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
+	  - Décret n°91-603 1991-06-27 art. 28 IV, V JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 
 	**Cité par**:
 
@@ -30999,18 +30287,18 @@ intéressés, membres de la Communauté économique européenne.
 
 ###### Article R334-18
 
-Une entreprise mentionnée à l'article précédent peut également demander, en motivant son choix, au ministre chargé de
-l'économie et des finances de faire l'objet dans un autre Etat membre de la vérification de solvabilité globale.
+Une entreprise mentionnée à l'article précédent peut également demander, en motivant son choix, à la commission de contrôle
+des assurances de faire l'objet dans un autre Etat membre de la vérification de solvabilité globale.
 
-Si cette demande est acceptée, elle prend effet à la date à laquelle le ministre chargé de l'économie et des finances reçoit
+Si cette demande est acceptée, elle prend effet à la date à laquelle la commission de contrôle des assurances reçoit
 notification de l'engagement souscrit par l'autorité de contrôle d'un autre Etat membre d'assurer la vérification de
 solvabilité globale.
 
 L'entreprise est alors dispensée de l'obligation de déposer en France le cautionnement prévu par le d de l'article R. 321-8.
 
 Lorsque la vérification de solvabilité globale est exercée par l'autorité de contrôle d'un autre Etat membre de la communauté
-économique européenne, le ministre chargé de l'économie et des finances lui adresse toutes informations utiles concernant
-l'activité de la succursale française de l'entreprise.
+économique européenne, la commission de contrôle des assurances lui adresse toutes informations utiles concernant l'activité
+de la succursale française de l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -31018,13 +30306,14 @@ l'activité de la succursale française de l'entreprise.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-
 	**Modifié par**:
 
-	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
+	  - Décret n°91-603 1991-06-27 art. 28 VI, VII JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 
 	**Cité par**:
 
@@ -31040,8 +30329,8 @@ l'activité de la succursale française de l'entreprise.
 
 ###### Article R334-19
 
-L'accord donné par le ministre chargé de l'économie et des finances en vertu de l'article R. 334-17 ou de l'article R. 334-18
-peut être retiré.
+L'accord donné par la commission de contrôle des assurances en vertu de l'article R. 334-17 ou de l'article R. 334-18 peut
+être retiré.
 
 Lorsque l'autorité de contrôle d'un autre Etat membre retire un accord précédemment donné pour la vérification de la
 solvabilité globale, l'entreprise perd le bénéfice des dispositions de l'article R. 334-17 ou de l'article R. 334-18.
@@ -31052,9 +30341,13 @@ solvabilité globale, l'entreprise perd le bénéfice des dispositions de l'arti
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
+	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
 
 	**Cité par**:
 
@@ -31072,10 +30365,6 @@ solvabilité globale, l'entreprise perd le bénéfice des dispositions de l'arti
 
 	  - Code des assurances - art. R*334-18 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-456 1988-04-29 art. 13 *champ d'application territorial*
-
 
 ##### Section V : Dispositions transitoires relatives à la marge de solvabilité
 
@@ -31087,22 +30376,26 @@ Les entreprises françaises agréées à la date du 27 décembre 1984 pour prati
 branche mentionnée au 18 de l'article R. 321-1 et dont, à la même date, la marge de solvabilité n'atteint pas le montant
 minimal réglementaire, disposent d'un délai expirant le 27 décembre 1989 pour justifier dudit montant.
 
-Si elles ne sont pas en mesure de respecter ce délai, elles peuvent bénéficier, avec l'accord du ministre chargé de
-l'économie et des finances, d'un délai supplémentaire expirant le 27 décembre 1991.
+Si elles ne sont pas en mesure de respecter ce délai, elles peuvent bénéficier, avec l'accord de la commission de contrôle
+des assurances, d'un délai supplémentaire expirant le 27 décembre 1991.
 
-Ce délai supplémentaire ne peut être accordé que si l'entreprise soumet à l'approbation du ministre chargé de l'économie et
-des finances soit le plan de redressement prévu à l'article R. 323-2, soit le plan de financement à court terme prévu à
+Ce délai supplémentaire ne peut être accordé que si l'entreprise soumet à l'approbation de la commission de contrôle des
+assurances soit le plan de redressement prévu à l'article R. 323-2, soit le plan de financement à court terme prévu à
 l'article R. 323-4.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-
 	**Modifié par**:
 
-	  - Décret n°88-456 du 27 avril 1988 - art. 10 () JORF 29 avril 1988
+	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*
+
+	**Abrogé par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 5 (V) JORF 26 mars 1993
 
 	**Cité par**:
 
@@ -31191,15 +30484,20 @@ solvabilité est au moins égale au montant réglementaire.
 Les entreprises dont le siège social est établi sur le territoire d'un Etat membre de la communauté économique européenne
 agréées à la date du 23 juillet 1976 pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de l'article R.
 321-1, et qui satisfont aux dispositions réglementaires permanentes relatives aux provisions techniques, à la marge de
-solvabilité, et au fonds de garantie peuvent obtenir du ministre de l'économie, des finances et du budget la suppression des
-mesures restrictives, telles qu'hypothèques, dépôts ou cautionnements, qui leur avaient été précédemment imposées en vertu de
-la réglementation en vigueur avant le 23 juillet 1976.
+solvabilité, et au fonds de garantie peuvent obtenir de la commission de contrôle des assurances la suppression des mesures
+restrictives, telles qu'hypothèques, dépôts ou cautionnements, qui leur avaient été précédemment imposées en vertu de la
+réglementation en vigueur avant le 23 juillet 1976.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 12 *date d'effet*
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
 
 	**Cite**:
 
@@ -31208,132 +30506,32 @@ la réglementation en vigueur avant le 23 juillet 1976.
 
 ##### Paragraphe 2 : Dispositions transitoires relatives à la marge de solvabilité des entreprises d'assurance sur la vie.
 
-###### Article R*334-33
-
-Les entreprises françaises agréées à la date de publication du présent décret pour pratiquer une ou plusieurs des branches
-mentionnées aux 20 à 26 de l'article R. 321-1 et dont à la même date la marge de solvabilité n'atteint pas le montant minimal
-réglementaire, disposent d'un délai expirant le 15 mars 1984 pour justifier dudit montant.
-
-Si elles ne sont pas en mesure de respecter ce délai, elles peuvent bénéficier, avec l'accord du ministre de l'économie, des
-finances et du budget, d'un délai supplémentaire expirant le 15 mars 1986.
-
-Ce délai supplémentaire ne peut être accordé que si l'entreprise soumet à l'approbation du ministre de l'économie, des
-finances et du budget, soit le plan de redressement prévu à l'article R. 323-2, soit le plan de financement à court terme
-prévu à l'article R. 323-4.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 30 (V) JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. R*323-2 (M)
-	  - Code des assurances - art. R*323-4 (M)
-	  - Code des assurances R321-1, R323-2, R323-4
-
-
-###### Article R*334-34
-
-Les entreprises françaises agréées à la date de publication du présent décret pour pratiquer une ou plusieurs des branches
-mentionnées aux 20 à 26 de l'article R. 321-1, et dont au 15 mars 1984 le montant minimal réglementaire de la marge de
-solvabilité calculé conformément aux dispositions de l'article R. 334-13 n'atteint pas le montant minimal du fonds de
-garantie mentionné à l'article R. 334-15, peuvent être dispensées par le ministre de l'économie, des finances et du budget de
-toute obligation concernant le montant du fonds de garantie, jusqu'à la clôture de l'exercice au cours duquel le montant
-minimal réglementaire de la marge de solvabilité calculé comme indiqué ci-dessus atteint le montant minimal du fonds de
-garantie.
-
-Pour ces entreprises, le délai accordé pour justifier du montant du fonds de garantie expire au plus tard le 15 mars 1989.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 30 (V) JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. R*334-13 (M)
-	  - Code des assurances - art. R*334-15 (M)
-	  - Code des assurances R321-1, R334-13, R334-15
-
-
-###### Article R*334-35
-
-Nonobstant les dispositions de la présente section, les entreprises agréées ne peuvent obtenir une extension d'agrément pour
-pratiquer d'autres branches mentionnées aux 20 à 26 de l'article R. 321-1 que si elles justifient que leur marge de
-solvabilité est au moins égale au montant minimal réglementaire et que leur fonds de garantie est constitué dans les
-conditions réglementaires.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 30 (V) JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-
 ###### Article R*334-36
 
 Les entreprises dont le siège social est établi sur le territoire d'un Etat membre de la communauté économique européenne
 agréées à la date de publication du présent décret pour pratiquer une ou plusieurs des branches mentionnées aux 20 à 26 de
 l'article R. 321-1, et qui satisfont aux dispositions réglementaires permanentes relatives aux provisions mathématiques, à la
-marge de solvabilité et au fonds de garantie, peuvent obtenir du ministre de l'économie, des finances et du budget la
-suppression des mesures restrictives, telles qu'hypothèques, dépôts ou cautionnements, qui leur avaient été précédemment
-imposées en vertu de la réglementation en vigueur.
+marge de solvabilité et au fonds de garantie, peuvent obtenir de la commission de contrôle des assurances la suppression des
+mesures restrictives, telles qu'hypothèques, dépôts ou cautionnements, qui leur avaient été précédemment imposées en vertu de
+la réglementation en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 12 *champ d'application*
+
+	**Abrogé par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 6 () JORF 26 mars 1993 en vigueur le 4 juillet 1993
 
 	**Cite**:
 
 	  - Code des assurances R321-1
-
-
-###### Article R*334-37
-
-Les entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un Etat membres de la communauté
-économique européenne, agréées à la date de publication du présent décret pour pratiquer une ou plusieurs des branches
-mentionnées aux 20 à 26 de l'article R. 321-1 et qui, à la même date ne satisfont pas aux dispositions de l'article R. 334-14
-en ce qui concerne le montant minimal réglementaire de la marge de solvabilité et la localisation des éléments constitutifs
-de la marge disposent d'un délai expirant le 15 mars 1984 pour se conformer auxdites dispositions.
-
-Les dispositions de l'alinéa précédent ne sont pas applicables aux entreprises qui sollicitent une extension d'agrément pour
-pratiquer d'autres branches mentionnées aux 20 à 26 de l'article R. 321-1.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
-
-	**Abrogé par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 30 (V) JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. R*334-14 (M)
-	  - Code des assurances R321-1, R334-14
 
 
 ###### Article R334-38
@@ -31386,75 +30584,6 @@ le territoire de la République française d'une succursale agréée pour pratiq
 
 #### Chapitre Ier : Principes généraux.
 
-###### Article R*341-1
-
-Les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1 doivent établir leur comptabilité dans la forme
-prévue par un décret pris après avis du conseil national des assurances et portant application des dispositions du plan
-comptable général aux opérations effectuées par les entreprises d'assurances de toute nature et de capitalisation.
-
-Cette comptabilité doit notamment faire apparaître, par exercice et pour chacune des catégories fixées par arrêté du ministre
-de l'économie et des finances pris après avis du conseil national des assurances, les éléments suivants de leurs affaires
-brutes de cessions et de leurs affaires cédées : primes, sinistres, commissions, provisions techniques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
-	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
-	  - Code des assurances - art. A344-1 (M)
-	  - Code des assurances - art. R*341-6 (Ab)
-	  - Code des assurances - art. R*341-8 (M)
-	  - Code des assurances - art. R*341-9 (T)
-	  - Code des assurances - art. R328-1 (M)
-	  - Code des assurances - art. R334-43 (M)
-	  - Code des assurances - art. R341-2 (VT)
-	  - Code des assurances - art. R341-5 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R*341-8 (M)
-	  - TXT_SOURCE: Code des assurances - art. R342-1 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-10 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-11 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-12 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-13 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-14 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-15 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-16 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-17 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-18 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-19 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-2 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-20 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-21 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-22 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-23 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-24 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-3 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-4 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-5 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-6 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-7 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-8 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-9 (Ab)
-	  - TXT_ASSOCIE: Code des assurances R341-6, R341-8, R342-1 à R342-24, R328-1, A344-1 à A344-8
-	  - SPEC_APPLI: Code des assurances R341-7 *champ d'application*
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 183
-
-
 ###### Article R*341-2
 
 L'inventaire qui doit être établi chaque année doit comprendre l'estimation détaillée de tous les éléments qui entrent dans
@@ -31483,36 +30612,6 @@ la composition des postes de l'actif et du passif.
 	  - Décret n°1938-12-30 art. 184
 
 
-###### Article R*341-3
-
-Sauf impossibilité reconnue par le ministre de l'économie et des finances, l'exercice comptable commence le 1er janvier et
-finit le 31 décembre de chaque année.
-
-Exceptionnellement, le premier exercice comptable des entreprises françaises qui commencent leurs opérations au cours d'une
-année civile peut être clôturé à l'expiration de l'année suivante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 185
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
-	  - Code des assurances - art. A343-1 (M)
-	  - Code des assurances - art. R332-35 (V)
-	  - Code des assurances - art. R345-7 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. R*341-7 (M)
-
-
 ###### Article R*341-4
 
 Les entreprises doivent conserver pendant dix ans au moins leurs livres de comptabilité, les lettres qu'elles reçoivent, les
@@ -31536,71 +30635,6 @@ copies des lettres qu'elles adressent, ainsi que toutes pièces justificatives d
 	**Anciens textes**:
 
 	  - Décret n°1938-12-30 art. 186
-
-
-###### Article R*341-5
-
-Les entreprises doivent produire chaque année au ministre de l'économie et des finances, à une date fixée par le décret
-mentionné à l'article R. 341-1, le compte rendu détaillé annuel de leurs opérations et, en outre, à une date et selon la
-liste fixée par le décret précité, tous états, tableaux ou documents de nature à permettre de contrôler leur situation
-financière, la marche de leurs opérations, l'encaissement des primes ou cotisations, le règlement des sinistres, l'évaluation
-et la représentation des provisions et des réserves. La forme des états compris dans le compte rendu détaillé annuel et des
-autres états, tableaux et documents prévus ci-dessus est fixée par arrêté ministériel pris après avis du conseil national des
-assurances.
-
-Les entreprises doivent communiquer au ministre de l'économie et des finances, sur sa demande, tous renseignements et
-documents permettant d'apprécier la valeur des immeubles, prêts, titres ou créances quelconques figurant dans leur bilan à
-quelque titre que ce soit et sous quelque forme que ce soit, et tous autres renseignements sur leurs opérations que le
-ministre de l'économie et des finances estime nécessaires à l'exercice du contrôle.
-
-Le ministre de l'économie et des finances peut demander que le compte d'exploitation générale, le compte général de pertes et
-profits et le bilan lui soient communiqués avant d'être soumis à l'assemblée générale au plus tard à la date à laquelle ils
-doivent être tenus à la disposition des commissaires aux comptes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 11 mars 1999
-	  - TXT_SOURCE: Arrêté du 11 mars 1999 - art. 1 ()
-	  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
-	  - TXT_SOURCE: Code des assurances - art. A344-10 (V)
-	  - TXT_SOURCE: Code des assurances - art. A344-12 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A344-13 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A344-14 (M)
-	  - TXT_SOURCE: Code des assurances - art. A344-14-1 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A344-15 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
-	  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
-	  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A344-6 (V)
-	  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
-	  - TXT_SOURCE: Code des assurances - art. A344-8 (V)
-	  - TXT_SOURCE: Code des assurances - art. A344-9 (Ab)
-	  - SPEC_APPLI: Code des assurances - art. R*341-7 (M)
-	  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
-
-	**Cité par**:
-
-	  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
-	  - Code des assurances - art. A343-1 (M)
-	  - Code des assurances - art. A344-14 (M)
-	  - Code des assurances - art. R341-3 (VT)
-	  - Code des assurances - art. R341-8 (V)
-	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*341-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 187
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
 
 
 ###### Article R*341-6
@@ -31660,39 +30694,151 @@ réassurance doivent tenir des comptes détaillés pour ces opérations.
 
 ###### Article R*341-9
 
-Chaque année, avant le 30 juin, le mandataire général ou, à défaut, le siège social de chaque entreprise étrangère qui
-pratique sur le territoire de la République française des opérations de réassurance doit adresser au ministre de l'économie
-et des finances :
-
-a) Un relevé faisant apparaître, pour l'exercice précédent :
-
-- d'une part, le montant des primes acceptées encaissées sur le territoire de la République française, en distinguant les
-cédants français (y compris les entreprises étrangères opérant en France) et les cédants étrangers ;
-
-- d'autre part, le montant des primes rétrocédées, en distinguant les rétrocessionnaires français (y compris les entreprises
-étrangères encaissant leurs primes en France) et les rétrocessionnaires étrangers ;
-
-b) La liste des rétrocessionnaires pour l'année en cours.
+Les entreprises mentionnées à l'article L. 321-1-1 doivent produire chaque année à la commission de contrôle des assurances,
+à une date et selon la liste fixées par le décret mentionné à l'article R. 341-1, tous états, tableaux ou documents de nature
+à permettre de contrôler l'évaluation et la représentation des provisions techniques afférentes aux opérations pour
+lesquelles elles ont obtenu l'agrément.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-19 art. 8
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
 
-###### Article R341-7
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 
-Les dispositions des articles R. 341-1 à R. 341-6 sont applicables aux entreprises étrangères pour leurs opérations sur le
-territoire de la République française dans les conditions fixées par le décret mentionné à l'article R. 341-1.
+	**Modifié par**:
 
-Pour les entreprises soumises à une vérification de solvabilité globale exercée par le ministre de l'économie et des
-finances, en vertu de la section IV du chapitre IV du titre III du présent livre, les mêmes dispositions sont applicables aux
-opérations effectuées dans l'ensemble des pays auxquels s'étend cette vérification.
+	  - Décret n°91-603 du 27 juin 1991 - art. 33 () JORF 28 juin 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1-1 (M)
+	  - Code des assurances - art. R*341-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R344-2 (1ère version)
+
+
+###### Article R341-1
+
+Les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1 doivent établir leur comptabilité dans la forme
+prévue par un décret portant application des dispositions du plan comptable général aux opérations effectuées par les
+entreprises d'assurances de toute nature et de capitalisation.
+
+Cette comptabilité doit notamment faire apparaître, par exercice et pour chacune des catégories fixées par arrêté du ministre
+de l'économie et des finances, les éléments suivants de leurs affaires brutes de cessions et de leurs affaires cédées :
+primes, sinistres, commissions, provisions techniques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R*341-8 (M)
+	  - TXT_SOURCE: Code des assurances - art. R342-1 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-10 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-11 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-12 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-13 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-14 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-15 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-16 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-17 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-18 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-19 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-2 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-20 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-21 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-22 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-23 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-24 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-3 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-4 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-5 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-6 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-7 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-8 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-9 (Ab)
+	  - TXT_ASSOCIE: Code des assurances R341-6, R341-8, R342-1 à R342-24, R328-1, A344-1 à A344-8
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 31 () JORF 28 juin 1991
+
+	**Cité par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
+	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
+	  - Code des assurances - art. A344-1 (M)
+	  - Code des assurances - art. R*341-6 (Ab)
+	  - Code des assurances - art. R*341-8 (M)
+	  - Code des assurances - art. R*341-9 (T)
+	  - Code des assurances - art. R328-1 (M)
+	  - Code des assurances - art. R334-43 (M)
+	  - Code des assurances - art. R341-2 (VT)
+	  - Code des assurances - art. R341-5 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+
+###### Article R341-3
+
+Sauf impossibilité reconnue par la commission de contrôle des assurances, l'exercice comptable commence le 1er janvier et
+finit le 31 décembre de chaque année.
+
+Exceptionnellement, le premier exercice comptable des entreprises françaises qui commencent leurs opérations au cours d'une
+année civile peut être clôturé à l'expiration de l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 32 () JORF 28 juin 1991
+
+	**Cité par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
+	  - Code des assurances - art. A343-1 (M)
+	  - Code des assurances - art. R332-35 (V)
+	  - Code des assurances - art. R345-7 (V)
+
+
+###### Article R341-5
+
+Les entreprises doivent produire chaque année à la commission de contrôle des assurances, à une date fixée par le décret
+mentionné à l'article R. 341-1, le compte rendu détaillé annuel de leurs opérations et, en outre, à une date et selon la
+liste fixée par le décret précité, tous états, tableaux ou documents de nature à permettre de contrôler leur situation
+financière, la marche de leurs opérations, l'encaissement des primes ou cotisations, le règlement des sinistres, l'évaluation
+et la représentation des provisions et des réserves. La forme des états compris dans le compte rendu détaillé annuel et des
+autres états, tableaux et documents prévus ci-dessus est fixée par arrêté ministériel.
+
+Les entreprises doivent communiquer à la commission de contrôle des assurances, sur sa demande, tous renseignements et
+documents permettant d'apprécier la valeur des immeubles, prêts, titres ou créances quelconques figurant dans leur bilan à
+quelque titre que ce soit et sous quelque forme que ce soit, et tous autres renseignements sur leurs opérations que le
+ministre de l'économie et des finances estime nécessaires à l'exercice du contrôle.
+
+La commission de contrôle des assurances peut demander que le compte d'exploitation générale, le compte général de pertes et
+profits et le bilan lui soient communiqués avant d'être soumis à l'assemblée générale au plus tard à la date à laquelle ils
+doivent être tenus à la disposition des commissaires aux comptes.
 
 **Liens relatifs à cet article**
 
@@ -31702,20 +30848,78 @@ opérations effectuées dans l'ensemble des pays auxquels s'étend cette vérifi
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 35 () JORF 12 mai 1984
-
-	**Cité par**:
-
-	  - Code des assurances - art. A342-3 (V)
-	  - Code des assurances - art. R332-21 (VT)
+	  - Décret n°91-603 1991-06-27 art. 31, art. 32 II, III JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 31 () JORF 28 juin 1991
+	  - Décret n°91-603 du 27 juin 1991 - art. 32 () JORF 28 juin 1991
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - TXT_SOURCE: Arrêté du 11 mars 1999
+	  - TXT_SOURCE: Arrêté du 11 mars 1999 - art. 1 ()
+	  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
+	  - TXT_SOURCE: Code des assurances - art. A344-10 (V)
+	  - TXT_SOURCE: Code des assurances - art. A344-12 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A344-13 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A344-14 (M)
+	  - TXT_SOURCE: Code des assurances - art. A344-14-1 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A344-15 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
+	  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
+	  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A344-6 (V)
+	  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
+	  - TXT_SOURCE: Code des assurances - art. A344-8 (V)
+	  - TXT_SOURCE: Code des assurances - art. A344-9 (Ab)
+	  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
+
+	**Cité par**:
+
+	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
+	  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
+	  - Code des assurances - art. A343-1 (M)
+	  - Code des assurances - art. A344-14 (M)
+	  - Code des assurances - art. R341-3 (VT)
+	  - Code des assurances - art. R341-8 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*341-1 (M)
+
+
+###### Article R341-7
+
+Les dispositions des articles R. 341-1 à R. 341-6 sont applicables aux entreprises étrangères pour leurs opérations sur le
+territoire de la République française dans les conditions fixées par le décret mentionné à l'article R. 341-1.
+
+Pour les entreprises soumises à une vérification de solvabilité globale exercée par la commission de contrôle des assurances,
+en vertu de la section IV du chapitre IV du titre III du présent livre, les mêmes dispositions sont applicables aux
+opérations effectuées dans l'ensemble des pays auxquels s'étend cette vérification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 	  - SPEC_APPLI: Code des assurances - art. R*341-2 (M)
 	  - SPEC_APPLI: Code des assurances - art. R*341-3 (M)
 	  - SPEC_APPLI: Code des assurances - art. R*341-4 (M)
 	  - SPEC_APPLI: Code des assurances - art. R*341-5 (M)
 	  - SPEC_APPLI: Code des assurances - art. R*341-6 (M)
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 32 () JORF 28 juin 1991
+
+	**Cité par**:
+
+	  - Code des assurances - art. A342-3 (V)
+	  - Code des assurances - art. R332-21 (VT)
 
 	**Cite**:
 
