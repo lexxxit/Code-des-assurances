@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-03-31
+Version Consolidée au 1985-04-06
 
 # Partie législative
 
@@ -46500,89 +46500,6 @@ de chaque provision technique spéciale.
 	**Cite**:
 
 	  - Code des assurances - art. R*441-7 (M)
-
-
-##### Section III : Règles relatives à l'agrément particulier.
-
-###### Article A441-7
-
-La demande d'agrément particulier produite, en exécution de l'article L. 441-9 et de l'article R. 441-25, par une entreprise
-d'assurance qui désire effectuer des opérations de prévoyance collective et d'assurance ayant pour objet l'acquisition ou la
-jouissance de droits en cas de vie qui ne sont pas couverts intégralement, et à tout moment, par des provisions
-mathématiques, doit être établie en deux exemplaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1968-08-21 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1985-03-29 art. 1 JORF 6 avril 1985
-
-	**Cite**:
-
-	  - Code des assurances - art. L441-9 (Ab)
-	  - Code des assurances - art. R*441-25 (Ab)
-
-
-###### Article A441-8
-
-Cette demande doit, pour une entreprise française, être accompagnée des pièces suivantes :
-
-1° Trois exemplaires du projet de convention ;
-
-2° Trois exemplaires d'une note technique exposant les hypothèses sur lesquelles est basé le régime envisagé ;
-
-3° Le procès-verbal de la séance du conseil d'administration au cours de laquelle a été prise la décision de demander
-l'agrément particulier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1968-08-21 art. 2
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1985-03-29 art. 1 JORF 6 avril 1985
-
-	**Cité par**:
-
-	  - Code des assurances - art. A441-9 (Ab)
-
-
-###### Article A441-9
-
-Pour une entreprise étrangère, la demande doit être accompagnée des pièces prévues aux 1° et 2° de l'article A. 441-8, ainsi
-que de l'autorisation donnée par le siège social au mandataire général de pratiquer les opérations de l'espèce.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1968-08-21 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1985-03-29 art. 1 JORF 6 avril 1985
-
-	**Cite**:
-
-	  - Code des assurances - art. A441-8 (Ab)
 
 
 ## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation
