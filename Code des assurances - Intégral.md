@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-06-11 00:00:03 +0200
+Version Consolidée au 1994-06-11 00:00:04 +0200
 
 # Partie législative
 
