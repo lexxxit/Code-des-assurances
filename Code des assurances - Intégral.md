@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1984-06-13
+Version Consolidée au 1984-07-01
 
 # Partie législative
 
@@ -43320,6 +43320,71 @@ mathématiques doivent être créditées. Les calculs sont faits en se plaçant 
 
 ##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.
 
+###### Article A335-9-2
+
+En assurance de responsabilité civile automobile, peuvent seulement être ajoutées à la prime de référence modifiée, le cas
+échéant, par les surprimes ou les réductions mentionnées respectivement aux articles A. 335-9-1 et A. 335-9-3 et par
+l'application de la clause de réduction-majoration prévue à l'article A. 121-1, les majorations limitativement énumérées ci-
+après. Ces majorations ne peuvent pas dépasser les pourcentages maximaux suivants de la prime désignée ci-après : 
+
+Pour les assurés responsables d'un accident et reconnus en état d'imprégnation alcoolique au moment de l'accident : 150 % ; 
+
+Pour les assurés responsables d'un accident ou d'une infraction aux règles de la circulation qui a conduit à la suspension ou
+à l'annulation du permis de conduire : 
+
+Suspension de deux à six mois : 50 % ; 
+
+Suspension de plus de six mois : 100 % ; 
+
+Annulation ou plusieurs suspensions de plus de deux mois au cours de la même période de référence telle qu'elle est définie à
+l'article A. 121-1 : 200 % ; 
+
+Pour les assurés coupables de délit de fuite après accident : 
+
+100 % ; 
+
+Pour les assurés n'ayant pas déclaré à la souscription d'un contrat une ou plusieurs des circonstances aggravantes indiquées
+ci-dessus ou n'ayant pas déclaré les sinistres dont ils ont été responsables au cours des trois dernières années précédant la
+souscription du contrat : 100 % ; 
+
+Pour les assurés responsables de trois sinistres ou plus au cours de la période annuelle de référence : 50 %. 
+
+Ces majorations sont calculées à partir de la prime de référence définie aux alinéas 1 et 2 de l'article 2 de l'annexe à
+l'article A. 121-1, avant que celle-ci ne soit modifiée par la surprime prévue à l'article A. 335-9-1, ou par la réduction
+prévue à l'article A. 335-9-3, ou par l'application de la clause type de réduction-majoration des primes. 
+
+Le cumul de ces majorations ne peut excéder 400 % de la prime de référence ainsi définie. 
+
+Lorsque l'assuré justifie que la suspension ou l'annulation de son permis de conduire résulte soit de la constatation de la
+conduite sous l'empire d'un état alcoolique, soit d'un délit de fuite, soit de ces deux infractions au code de la route, la
+majoration maximale fixée par l'assureur ne peut excéder soit la majoration résultant, le cas échéant, de la somme des
+majorations du fait de ces infractions au code de la route, soit celle applicable pour la suspension ou l'annulation du
+permis de conduire. 
+
+Chaque majoration prévue au présent article ne peut être exigée au-delà des deux années suivant la première échéance annuelle
+postérieure à la date à laquelle s'est produite la circonstance aggravante donnant lieu à la majoration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1984-06-08 art. 2 JORF 20 juin 1984 en vigueur le 1er juillet 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1984-06-08 art. 3
+
+	**Cite**:
+
+	  - Code des assurances - art. A121-1 (V)
+	  - Code des assurances - art. A335-9-1 (V)
+	  - Code des assurances - art. A335-9-3 (Ab)
+
+
 ###### Article A335-9-3
 
 En assurance de responsabilité civile automobile, la prime de référence correspondant à un risque déterminé et figurant au
@@ -43642,58 +43707,6 @@ est inférieur au taux de ce tarif majoré de 33 p. 100.
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
-
-
-##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.
-
-###### Article A335-9-2
-
-En assurance de responsabilité civile automobile, la prime demandée à l'assuré, c'est-à-dire après application de la clause
-de réduction-majoration prévue à l'article A. 121-1, peut faire l'objet de majorations supplémentaires, dont les montants
-maximaux sont les suivants :
-
-Pour les assurés responsables d'un accident et reconnus en état d'imprégnation alcoolique au moment de l'accident : 150 p.
-100.
-
-Pour les assurés responsables d'un accident ou d'une infraction aux règles de la circulation qui a conduit à la suspension ou
-à l'annulation du permis de conduire :
-
-- suspension de 2 à 6 mois : 50 p. 100 ;
-
-- suspension de plus de 6 mois : 100 p. 100 ;
-
-- annulation ou plusieurs suspensions de plus de deux mois au cours de la même période de référence : 200 p. 100.
-
-Pour les assurés coupables de délit de fuite après accident :
-
-100 p. 100.
-
-Pour les assurés n'ayant pas déclaré à la souscription d'un contrat une ou plusieurs des circonstances aggravables indiquées
-ci-dessus ou n'ayant pas déclaré les sinistres dont ils ont été responsables au cours des trois dernières années précédant la
-souscription du contrat : 100 p. 100.
-
-Pour les assurés responsables de trois sinistres ou plus au cours de la période annuelle de référence : 50 p. 100.
-
-Le cumul de ces majorations ne peut excéder 400 p. 100 de la prime de référence. Chacune de ces majorations est supprimée
-après deux années au plus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1983-07-22 art. 1 JORF 2 septembre 1983 en vigueur le 1er janvier 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1983-07-22 art. 2
-
-	**Cite**:
-
-	  - Code des assurances - art. A121-1 (M)
 
 
 ##### Section II : Frais d'acquisition et de gestion
