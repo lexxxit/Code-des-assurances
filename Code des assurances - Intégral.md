@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-03-05
+Version Consolidée au 2003-03-30
 
 # Partie législative
 
@@ -22621,6 +22621,40 @@ terrestres à moteur.
 	**Abrogé par**:
 
 	  - Décret n°2008-1549 du 31 décembre 2008 - art. 3
+
+
+### Titre V bis : L'assurance de la responsabilité civile médicale.
+
+###### Article R251-1
+
+Les règles relatives aux conditions dans lesquelles le montant de la garantie de responsabilité civile médicale peut être
+plafonné pour les professionnels de santé exerçant à titre libéral sont fixées par l'article R. 781-1 du code de la santé
+publique (1) ci-après reproduit : 
+
+" Art.R. 781-1 : 
+
+Les plafonds mentionnés à l'article L. 1142-2 ne peuvent être inférieurs à 3 millions d'euros par sinistre et à 10 millions
+d'euros par année d'assurance. "
+
+**Nota:**
+
+(1) : L'article R. 781-1 du code de la santé publique a été abrogé par l'article 4 2° du décret 2003-462 du 21 mai 2003 et
+transféré sous l'article R1142-4 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2003-288 du 28 mars 2003 - art. 2 () JORF 30 mars 2003
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1142-2 (V)
+	  - Code de la santé publique - art. R781-1 (Ab)
 
 
 ## Livre III : Les entreprises
