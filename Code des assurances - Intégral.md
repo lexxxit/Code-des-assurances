@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-06-27
+Version Consolidée au 1990-07-01
 
 # Partie législative
 
@@ -45,21 +45,29 @@ Les opérations d'assurance-crédit ne sont pas régies par les titres mentionn�
 ###### Article L111-2
 
 Ne peuvent être modifiées par convention les prescriptions des titres Ier, II et III du présent livre, sauf celles qui
-donnent aux parties une simple faculté et qui sont contenues dans les articles L. 112-1, L. 112-5, L. 112-8, L. 113-10, L.
-121-5 à L. 121-6, L. 121-12, L. 121-14, L. 122-1, L. 122-2, L. 122-6, L. 124-1, L. 124-2, L. 132-1, L. 132-10, L. 132-15 et
-L. 132-19.
+donnent aux parties une simple faculté et qui sont contenues dans les articles L. 112-1, L. 112-5, L. 112-6, L. 113-10, L.
+121-5 à L. 121-8, L. 121-12, L. 121-14, L. 122-1, L. 122-2, L. 122-6, L. 124-1, L. 124-2, L. 127-6, L. 132-1, L. 132-10, L.
+132-15 et L. 132-19.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
 	**Modifié par**:
 
-	  - Loi n°82-600 du 13 juillet 1982 - art. 9 () JORF 14 juillet 1982
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 7 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cite**:
 
 	  - Code des assurances - art. L112-1 (V)
 	  - Code des assurances - art. L112-5 (V)
-	  - Code des assurances - art. L112-8 (V)
+	  - Code des assurances - art. L112-6 (V)
 	  - Code des assurances - art. L113-10 (V)
 	  - Code des assurances - art. L121-12 (V)
 	  - Code des assurances - art. L121-14 (V)
@@ -68,11 +76,12 @@ L. 132-19.
 	  - Code des assurances - art. L122-6 (V)
 	  - Code des assurances - art. L124-1 (V)
 	  - Code des assurances - art. L124-2 (V)
+	  - Code des assurances - art. L127-6 (V)
 	  - Code des assurances - art. L132-1 (M)
 	  - Code des assurances - art. L132-10 (M)
 	  - Code des assurances - art. L132-15 (M)
 	  - Code des assurances - art. L132-19 (V)
-	  - Code des assurances L112-1, L112-5, L112-8, L113-10, L121-5 à L121-6, L121-12, L121-14, L122-1, L122-2, L122-6, L124-1, L124-2, L132-1, L132-10, L132-15, L132-19
+	  - Code des assurances L112-1, L112-5, L112-6, L113-10, L121-5 à L121-8, L121-12, L121-14, L122-1, L122-2, L122-6, L124-1, L124-2, L127-6, L132-1, L132-10, L132-15, L132-19
 
 	**Cité par**:
 
@@ -351,6 +360,39 @@ souscripteur originaire.
 	  - Loi n°1930-07-13 art. 11
 
 
+###### Article L112-7
+
+Lorsqu'un contrat d'assurance est proposé en libre prestation de services au sens de l'article L. 351-1, le souscripteur,
+avant la conclusion de tout engagement, est informé du nom de l'Etat membre des communautés européennes où est situé
+l'établissement de l'assureur avec lequel le contrat pourrait être conclu.
+
+Les informations mentionnées à l'alinéa précédent doivent figurer sur tous documents remis au souscripteur.
+
+Le contrat ou la note de couverture doit indiquer l'adresse de l'établissement qui accorde la couverture ainsi que, le cas
+échéant, celle du siège social.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 3 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. L111-1 (VD)
+	  - Code des assurances - art. L193-1 (V)
+	  - Code des assurances - art. L193-2 (V)
+	  - Code des assurances - art. L194-1 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L351-1 (M)
+
+
 #### Chapitre III : Obligations de l'assureur et de l'assuré.
 
 ###### Article L113-1
@@ -559,20 +601,28 @@ déterminée par le contrat et ne peut être tenu au-delà.
 
 ###### Article L113-6
 
-L'assurance subsiste en cas de redressement judiciaire de l'assuré. L'administrateur ou le débiteur autorisé par le juge-
-commissaire ou le liquidateur, selon le cas, et l'assureur conservent néanmoins le droit de résilier  le contrat pendant un
-délai de trois mois à partir de cette date. la potion de prime afférente au temps pendant lequel l'assureur ne couvre plus le
-risque est restituée au débiteur.
+L'assurance subsiste en cas de redressement ou de liquidation judiciaire de l'assuré. L'administrateur ou le débiteur
+autorisé par le juge commissaire ou le liquidateur selon le cas et l'assureur conservent le droit de résilier le contrat
+pendant un délai de trois mois à compter de la date du jugement de redressement ou de liquidation judiciaire. La portion de
+prime afférente au temps pendant lequel l'assureur ne couvre plus le risque est restituée au débiteur.
 
-En cas de redressement judiciaire de l'assureur, le contrat prend fin un mois après le jugement d'ouverture, sous réserve des
-dispositions de l'article L. 327-4. L'assuré peut réclamer le remboursement de la prime payée pour le temps où l'assurance ne
-court plus.
+En cas de liquidation judiciaire d'une entreprise mentionnée à l'article L. 310-1, les contrats qu'elle détient dans son
+portefeuille sont soumis aux dispositions des articles L. 326-12 et L. 326-13, à compter de l'arrêté ou de la décision
+prononçant le retrait de l'agrément administratif.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
 	**Modifié par**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 221 () JORF 26 janvier 1985 en vigueur le 1er janvier 1986
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 36 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -580,29 +630,9 @@ court plus.
 
 	**Cite**:
 
-	  - Code des assurances - art. L327-4 (M)
-
-
-###### Article L113-7
-
-Si, pour la fixation de la prime, il a été tenu compte de circonstances spéciales, mentionnées dans la police, aggravant les
-risques, et si ces circonstances viennent à disparaître au cours de l'assurance, l'assuré a le droit, de résilier le contrat,
-sans indemnité, si l'assureur ne consent pas la diminution de prime correspondante, d'après le tarif applicable lors de la
-souscription du contrat.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 28 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L326-12 (M)
+	  - Code des assurances - art. L326-13 (M)
 
 
 ###### Article L113-8
@@ -762,41 +792,6 @@ Les dispositions du présent article ne sont pas applicables aux assurances sur 
 	  - Code des assurances - art. L113-12-1 (V)
 	  - Code des assurances - art. L113-12-2 (V)
 	  - Code des assurances - art. L113-13 (Ab)
-
-
-###### Article L113-13
-
-Le droit de se retirer prévu aux deuxième, troisième et quatrième alinéas de l'article L. 113-12 doit être rappelé dans
-chaque police.
-
-Les dispositions des deuxième, troisième et quatrième alinéas précités ne sont pas applicables aux assurances contre la
-grêle, aux assurances contre les risques d'accidents du travail ainsi qu'aux assurances contre les risques d'accidents
-corporels et contre les risques d'invalidité ou de maladie. En ce qui concerne ces assurances, l'assuré ou l'assureur a le
-droit de se retirer tous les dix ans moyennant préavis de trois mois pour ce qui est de l'assurance contre la grêle, et tous
-les cinq ans, moyennant préavis de trois mois pour ce qui est des assurances contre les risques d'accidents du travail,
-d'accidents corporels, d'invalidité et de maladie. Cette disposition doit être rappelée dans chaque police.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 5
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L113-12 (M)
 
 
 ###### Article L113-14
@@ -965,12 +960,10 @@ bénéficiaires sont les ayants droit de l'assuré décédé.
 
 ###### Article L114-2
 
-La prescription de deux ans court même contre les mineurs, les majeurs en tutelle et tous les incapables.
-
-Elle est interrompue par une des causes ordinaires d'interruption de la prescription et par la désignation d'experts à la
-suite d'un sinistre. L'interruption de la prescription de l'action peut, en outre, résulter de l'envoi d'une lettre
-recommandée avec accusé de réception adressée par l'assureur à l'assuré en ce qui concerne l'action en paiement de la prime
-et par l'assuré à l'assureur en ce qui concerne le règlement de l'indemnité.
+La prescription est interrompue par une des causes ordinaires d'interruption de la prescription et par la désignation
+d'experts à la suite d'un sinistre. L'interruption de la prescription de l'action peut, en outre, résulter de l'envoi d'une
+lettre recommandée avec accusé de réception adressée par l'assureur à l'assuré en ce qui concerne l'action en paiement de la
+prime et par l'assuré à l'assureur en ce qui concerne le règlement de l'indemnité.
 
 **Liens relatifs à cet article**
 
@@ -978,13 +971,18 @@ et par l'assuré à l'assureur en ce qui concerne le règlement de l'indemnité.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 48 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 51 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
 	**Cité par**:
 
 	  - Code des assurances - art. L145-9 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 27
 
 
 ### Titre II : Règles relatives aux assurances de dommages non maritimes
@@ -2082,6 +2080,214 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent a
 	  - Code des assurances - art. R126-2 (V)
 
 
+#### Chapitre VII : L'assurance de protection juridique.
+
+###### Article L127-1
+
+Est une opération d'assurance de protection juridique toute opération consistant, moyennant le paiement d'une prime ou d'une
+cotisation préalablement convenue, à prendre en charge des frais de procédure ou à fournir des services découlant de la
+couverture d'assurance, en cas de différend ou de litige opposant l'assuré à un tiers, en vue notamment de défendre ou
+représenter en demande l'assuré dans une procédure civile, pénale, administrative ou autre ou contre une réclamation dont il
+est l'objet ou d'obtenir réparation à l'amiable du dommage subi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 5 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. L127-3 (V)
+	  - Code général des impôts, CGI. - art. 1001 (VT)
+
+
+###### Article L127-2
+
+L'assurance de protection juridique fait l'objet d'un contrat distinct de celui qui est établi pour les autres branches ou
+d'un chapitre distinct d'une police unique avec indication du contenu de l'assurance de protection juridique et de la prime
+correspondante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 5 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*127-2 (T)
+	  - Code des assurances - art. R*127-3 (T)
+	  - Code des assurances - art. R127-1 (V)
+
+
+###### Article L127-3
+
+Tout contrat d'assurance de protection juridique stipule explicitement que, lorsqu'il est fait appel à un avocat ou à toute
+autre personne qualifiée par la législation ou la réglementation en vigueur pour défendre, représenter ou servir les intérêts
+de l'assuré, dans les circonstances prévues à l'article L. 127-1, l'assuré a la liberté de le choisir.
+
+Le contrat stipule également que l'assuré a la liberté de choisir un avocat ou, s'il le préfère, une personne qualifiée pour
+l'assister, chaque fois que survient un conflit d'intérêt entre lui-même et l'assureur.
+
+Aucune clause du contrat ne doit porter atteinte, dans les limites de la garantie, au libre choix ouvert à l'assuré par les
+deux alinéas précédents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 5 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L127-1 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L127-5 (V)
+
+
+###### Article L127-4
+
+Le contrat stipule qu'en cas de désaccord entre l'assureur et l'assuré au sujet de mesures à prendre pour régler un
+différend, cette difficulté peut être soumise à l'appréciation d'une tierce personne désignée d'un commun accord par les
+parties ou, à défaut, par le président du tribunal de grande instance statuant en la forme des référés. Les frais exposés
+pour la mise en oeuvre de cette faculté sont à la charge de l'assureur. Toutefois, le président du tribunal de grande
+instance, statuant en la forme des référés, peut en décider autrement lorsque l'assuré a mis en oeuvre cette faculté dans des
+conditions abusives.
+
+Si l'assuré a engagé à ses frais une procédure contentieuse et obtient une solution plus favorable que celle qui lui avait
+été proposée par l'assureur ou par la tierce personne mentionnée à l'alinéa précédent, l'assureur l'indemnise des frais
+exposés pour l'exercice de cette action, dans la limite du montant de la garantie.
+
+Lorsque la procédure visée au premier alinéa de cet article est mise en oeuvre, le délai de recours contentieux est suspendu
+pour toutes les instances juridictionnelles qui sont couvertes par la garantie d'assurance et que l'assuré est susceptible
+d'engager en demande, jusqu'à ce que la tierce personne chargée de proposer une solution en ait fait connaître la teneur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 5 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. L127-5 (V)
+
+
+###### Article L127-5
+
+En cas de conflit d'intérêt entre l'assureur et l'assuré ou de désaccord quant au règlement du litige, l'assureur de
+protection juridique informe l'assuré du droit mentionné à l'article L. 127-3 et de la possibilité de recourir à la procédure
+mentionnée à l'article L. 127-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 5 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L127-3 (V)
+	  - Code des assurances - art. L127-4 (V)
+
+
+###### Article L127-6
+
+Les dispositions du présent chapitre ne s'appliquent pas :
+
+1° A l'assurance de protection juridique lorsque celle-ci concerne des litiges ou des risques qui résultent de l'utilisation
+de navires de mer ou sont en rapport avec cette utilisation ;
+
+2° A l'activité de l'assureur de responsabilité civile pour la défense ou la représentation de son assuré dans toute
+procédure judiciaire ou administrative, lorsqu'elle s'exerce en même temps dans l'intérêt de l'assureur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 5 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. L111-2 (V)
+
+
+###### Article L127-7
+
+Les personnes qui ont à connaître des informations données par l'assuré pour les besoins de sa cause, dans le cadre d'un
+contrat d'assurance de protection juridique, sont tenues au secret professionnel, dans les conditions et sous les peines
+prévues à l'article 378 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 5 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code pénal 378
+
+
 ### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation.
 
 #### Chapitre I : Dispositions générales.
@@ -2091,28 +2297,22 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent a
 En matière d'assurance sur la vie et d'assurance contre les accidents atteignant les personnes, les sommes assurées sont
 fixées par le contrat.
 
-Le capital ou la rente garantis sont libellés en francs.
-
 En matière d'assurance sur la vie, et après accord de l'autorité administrative, le capital ou la rente garantis peuvent être
 exprimés en unités de compte constituées de valeurs mobilières ou d'actifs figurant sur une liste dressée par décret en
-Conseil d'Etat pris après avis de la Commission des opérations de bourse, du conseil national des assurances et du conseil
-national de la consommation. Dans tous les cas, le contractant ou le bénéficiaire a la faculté d'opter entre le règlement en
-espèces et la remise des titres ou des parts. Toutefois, lorsque les unités de compte sont constituées par des titres ou des
-parts non négociables, le règlement ne peut être effectué qu'en espèces.
+Conseil d'Etat pris après avis de la Commission des opérations de bourse, et du conseil national de la consommation. Dans
+tous les cas, le contractant ou le bénéficiaire a la faculté d'opter entre le règlement en espèces et la remise des titres ou
+des parts. Toutefois, lorsque les unités de compte sont constituées par des titres ou des parts non négociables, le règlement
+ne peut être effectué qu'en espèces.
 
-Le montant en francs des sommes versées par l'assureur lors de la réalisation du risque décès ne peut toutefois être
-inférieur à celui du capital ou de la rente garantis, calculé sur la base de la valeur de l'unité de compte à la date de
-prise d'effet du contrat ou, s'il y a lieu, de son dernier avenant.
+Le montant des sommes garanties par l'assureur lors de la réalisation du risque décès ne peut toutefois être inférieur à
+celui du capital ou de la rente garantis, calculé sur la base de la valeur de l'unité de compte à la date de prise d'effet du
+contrat ou, s'il y a lieu, de son dernier avenant.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 1 (V) JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
@@ -2149,11 +2349,17 @@ prise d'effet du contrat ou, s'il y a lieu, de son dernier avenant.
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 	  - TXT_SOURCE: Décret n°98-413 du 28 mai 1998
 	  - TXT_SOURCE: Décret n°98-413 du 28 mai 1998 - art. 1 ()
 	  - TXT_SOURCE: Code des assurances - art. R131-1 (V)
 	  - TXT_SOURCE: Code des assurances - art. R131-2 (V)
 	  - TXT_SOURCE: Code des assurances - art. R131-4 (M)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 37 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 
 ###### Article L131-2
@@ -2550,16 +2756,8 @@ L'assureur n'a pas d'action pour exiger le paiement des primes.
 Lorsqu'une prime ou fraction de prime n'est pas payée dans les dix jours de son échéance, l'assureur adresse au contractant
 une lettre recommandée par laquelle il l'informe qu'à l'expiration d'un délai de quarante jours à dater de l'envoi de cette
 lettre le défaut de paiement, à l'assureur ou au mandataire désigné par lui, de la prime ou fraction de prime échue ainsi que
-des primes éventuellement venues à échéance au cours dudit délai, entraîne :
-
-- soit la résiliation du contrat en cas d'inexistence ou d'insuffisance de la valeur de rachat ;
-
-- soit l'avance par l'assureur de la prime ou fraction de prime non payée, dans la limite de la valeur de rachat du contrat,
-selon des modalités déterminées par un règlement général mentionné dans la police et établi par l'assureur, après avis de
-l'autorité administrative ;
-
-- soit la réduction du contrat dans le cas où le contractant renonce expressément à l'avance ci-dessus, avant l'expiration du
-délai de quarante jours précité.
+des primes éventuellement venues à échéance au cours dudit délai, entraîne soit la résiliation du contrat en cas
+d'inexistence ou d'insuffisance de la valeur de rachat, soit la réduction du contrat.
 
 L'envoi de la lettre recommandée par l'assureur rend la prime portable dans tous les cas.
 
@@ -2571,7 +2769,7 @@ L'envoi de la lettre recommandée par l'assureur rend la prime portable dans tou
 
 	**Modifié par**:
 
-	  - Loi n°81-5 du 7 janvier 1981 - art. 13 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 52 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -3143,7 +3341,7 @@ contrat et, dans ce dernier cas, la mise à la disposition du porteur de la vale
 ###### Article L150-3
 
 Pour leurs opérations de capitalisation, les entreprises doivent faire participer les porteurs de titres aux bénéfices
-qu'elles réalisent, dans les conditions fixées par décret rendu après avis du conseil national des assurances.
+qu'elles réalisent, dans les conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -3151,9 +3349,17 @@ qu'elles réalisent, dans les conditions fixées par décret rendu après avis d
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°81-5 du 7 janvier 1981 - art. 27 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Abrogé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
 
 	**Cité par**:
 
@@ -3247,11 +3453,9 @@ A défaut de cette justification, le contrat est restitué sans formalité à l'
 
 ###### Article L160-3
 
-Il est interdit aux personnes physiques résidant sur le territoire de la République française et aux personnes morales pour
-leurs établissements en France de souscrire des contrats d'assurance directe ou de rente viagère libellés en monnaie
-étrangère, sauf autorisation de l'autorité administrative.
-
-Sont nuls de plein droit les contrats souscrits à dater du 23 avril 1942 en infraction aux dispositions du présent article.
+Les personnes physiques résidant sur le territoire de la République française et les personnes morales, pour les activités se
+rattachant à leur établissement en France, peuvent souscrire des contrats d'assurance et de capitalisation libellés en
+monnaie étrangère.
 
 **Liens relatifs à cet article**
 
@@ -3259,16 +3463,20 @@ Sont nuls de plein droit les contrats souscrits à dater du 23 avril 1942 en inf
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 37 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
 	**Cité par**:
 
 	  - Code des assurances - art. L514-3 (Ab)
 	  - Code des assurances - art. R*160-7 (Ab)
 	  - Code des assurances - art. R134-1 (VD)
 	  - Code des assurances - art. R142-2 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1942-04-17 art. 1 (en partie)
 
 
 ###### Article L160-4
@@ -3461,390 +3669,6 @@ d'adaptation de la présente section aux départements et territoires d'outre-me
 	  - Code de la défense. - art. L2234-19 (V)
 
 
-##### Section VI : Assurances sur la vie en temps de guerre.
-
-###### Article L160-10
-
-Lorsqu'un assuré en cas de décès, militaire, marin ou assimilé, appelé à prendre part à une guerre contre une puissance
-étrangère, soit comme combattant, soit dans les services auxiliaires ou de l'arrière de l'armée, n'est pas garanti contre le
-risque de guerre par son contrat ou par un avenant spécial et que, conformément aux stipulations de sa police, l'assurance se
-trouve alors suspendue de plein droit, cette suspension court de la date de mobilisation générale, ou, si l'assuré n'a été
-incorporé que postérieurement à cette date, à partir du jour de son incorporation, sans préjudice de l'exercice du droit
-qu'il peut avoir de se garantir contre le risque de guerre.
-
-Dans l'un et l'autre cas, elle reste en suspens pendant toute la durée de la guerre et, en outre, sauf convention contraire
-plus favorable à l'assuré, pendant un délai de trois mois à compter du jour de la cessation des hostilités, sous réserve de
-l'application de l'article L. 160-12.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. L160-11 (V)
-	  - Code des assurances - art. L160-12 (V)
-	  - Code des assurances - art. L160-13 (V)
-	  - Code des assurances - art. L160-14 (V)
-	  - Code des assurances - art. L160-15 (V)
-	  - Code des assurances - art. L160-18 (V)
-	  - Code des assurances - art. L160-19 (V)
-	  - Code des assurances - art. R*160-14 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1919-07-22 art. 1
-
-
-###### Article L160-11
-
-Si l'assuré décède au cours de la période de suspension de son assurance, cette assurance est annulée, sans qu'il y ait à
-distinguer si le décès est la conséquence de la guerre ou s'il est dû à des causes indépendantes de la guerre ; mais, quel
-que soit le nombre des primes payées, l'entreprise d'assurance rembourse aux ayants droit de l'assuré le montant de la
-provision mathématique du contrat calculée, conformément aux prescriptions légales, au jour de la suspension de l'assurance,
-plus les intérêts de cette provision jusqu'à la date du remboursement.
-
-Si l'assuré n'a pas acquitté toutes les primes échues sur son contrat au jour de la suspension de son assurance, les ayants
-droit reçoivent la provision mathématique existant à la veille de l'échéance de la première prime restée impayée, diminuée
-des primes ou fractions de primes exigibles et augmentée de la partie de ces primes ou fractions de primes destinée à
-accroître la provision mathématique. Il est tenu compte des intérêts jusqu'au jour du règlement.
-
-Lorsqu'un assuré décédé a acquitté une ou plusieurs primes échues après la suspension de son contrat, ces primes sont
-remboursées par l'entreprise aux ayants droit de l'assuré, sans intérêt.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. L711-4 (V)
-	  - Code de la sécurité sociale. - art. L861-10 (V)
-	  - Code des assurances - art. L160-16 (V)
-	  - Code des assurances - art. L160-17 (V)
-	  - Code des assurances - art. R*160-14 (Ab)
-	  - Code rural - art. L725-7 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1919-07-22 art. 2
-
-
-###### Article L160-12
-
-Si l'assuré en cas de décès, dont l'assurance a été suspendue en raison de sa participation à une guerre contre une puissance
-étrangère, est vivant à l'expiration de la période de suspension de son contrat, l'assurance rentre en vigueur de plein
-droit, sans examen médical.
-
-Pour les assurés en cas de décès démobilisés avant la fin des hostilités par application d'une mesure générale ou
-individuelle, l'assurance reprend son cours, sauf stipulation du contrat plus favorable à l'assuré, trois mois après l'envoi
-d'une lettre recommandée, par laquelle l'assuré prévient l'entreprise d'assurance de sa démobilisation.
-
-Tout assuré démobilisé peut obtenir la remise en vigueur de son contrat immédiatement après sa démobilisation, en produisant
-une attestation de bonne santé délivrée par un médecin agréé par l'assureur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. L160-10 (Ab)
-	  - Code des assurances - art. R*160-14 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1919-07-22 art. 3
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-
-###### Article L160-13
-
-Les primes des contrats d'assurance en cas de décès correspondant à la période pendant laquelle ces contrats sont suspendus
-en raison de la participation de l'assuré à une guerre contre une puissance étrangère sont réduites de la portion de ces
-primes afférente au risque de décès non assuré pendant ladite période de suspension.
-
-Le calcul de cette réduction est toujours effectué pour un nombre entier de trimestres. Si la durée réelle de la suspension
-du contrat comporte une fraction de trimestre, cette fraction compte pour un trimestre plein lorsqu'elle est supérieure à un
-demi-trimestre ; elle est négligée dans le cas contraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1919-07-22 art. 4
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. L160-15 (V)
-	  - Code des assurances - art. R*160-14 (Ab)
-
-
-###### Article L160-14
-
-Les dispositions des articles L. 160-10 à L. 160-13 ne sont pas applicables aux contrats d'assurance en cas de décès qui, en
-cas de participation de l'assuré à une guerre contre une puissance étrangère, continuent à garantir le paiement de
-l'intégralité du capital assuré, si le décès est dû à une cause normale, sans qu'il y ait à distinguer si ces contrats
-garantissent également ou non le paiement de tout ou partie du capital assuré en cas de décès résultant d'un fait de guerre.
-
-Si un assuré en cas de décès, mobilisé, dont le contrat continue à couvrir seulement le risque de mort normale, décède d'un
-fait de guerre, l'entreprise rembourse aux ayants droit la provision mathématique du contrat, calculée au jour du décès. Si
-ledit assuré n'a pas acquitté toutes les primes échues au jour de son décès, les ayants droit reçoivent la provision
-mathématique existant à la veille de l'échéance de la première prime impayée, diminuée des primes ou fractions de primes
-exigibles et augmentée de la partie de ces primes ou fractions de primes destinée à venir en accroissement de la provision
-mathématique. Dans les deux cas, il est tenu compte des intérêts jusqu'à la date du règlement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1919-07-22 art. 5
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. L160-11 (V)
-	  - Code des assurances - art. R*160-14 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances L160-10 à L160-13
-
-
-###### Article L160-15
-
-Lorsqu'un assuré en cas de vie appelé à prendre part à une guerre contre une puissance étrangère, soit comme combattant, soit
-dans les services auxiliaires ou de l'arrière de l'armée, vient à décéder pendant la durée de son incorporation ou au cours
-des trois mois qui ont suivi sa démobilisation, la provision mathématique de son contrat, déterminée au jour du décès, est
-versée à un fonds spécial, sans qu'il y ait à distinguer si le décès est la conséquence de la guerre ou s'il est dû à des
-causes indépendantes de la guerre.
-
-Après la cessation des hostilités les entreprises d'assurance ont le droit de prélever, à leur profit, sur ce fonds spécial,
-les sommes correspondant à la part des provisions mathématiques considérée d'après la table de mortalité comme le résultat de
-la mortalité normale.
-
-Le solde dudit fonds spécial est réparti suivant les règles fixées par décret rendu conformément à l'article L. 160-18, entre
-les ayants droit de tous les assurés en cas de vie mobilisés décédés.
-
-L'entreprise d'assurance peut déduire de la somme revenant aux ayants droit des assurés en cas de vie décédés, les primes
-échues à la date du décès de l'assuré et restées impayées, ainsi que leurs intérêts jusqu'à cette date.
-
-Pour les contrats de capitaux ou de rentes souscrits avec contre-assurance ou à capital réservé, la somme à rembourser par
-l'entreprise d'assurance ne peut, en aucun cas, être inférieure au total des primes payées.
-
-Les sommes revenant définitivement aux ayants droit portent intérêt du jour du décès jusqu'au jour où elles sont payées par
-l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1919-07-22 art. 6
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. L160-11 (V)
-	  - Code des assurances - art. R*160-14 (Ab)
-	  - Code des assurances - art. R*160-16 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L160-18 (Ab)
-
-
-###### Article L160-16
-
-Tout assuré militaire, marin ou assimilé, ayant droit, en vertu des lois sur les pensions des armées, à une allocation
-renouvelable ou à une pension pour infirmités, peut, sur sa demande, obtenir la substitution à son ancienne police
-d'assurance d'une nouvelle police stipulant des engagements moindres fixés conformément à ses indications.
-
-Le capital du nouveau contrat est déterminé en tenant compte tant de l'intégralité de la provision mathématique du contrat
-primitif que du montant des primes à payer dorénavant par l'assuré.
-
-L'assuré doit adresser sa demande au plus tard six mois après la cessation des hostilités. Toutefois, si la liquidation de sa
-pension ou l'attribution d'un secours renouvelable ne lui a été notifiée que postérieurement à la cessation des hostilités,
-sa demande peut être adressée dans un délai de six mois à compter du jour de cette notification.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*160-14 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1919-07-22 art. 13
-
-
-###### Article L160-17
-
-En ce qui concerne les assurances souscrites auprès de la caisse nationale de prévoyance, des décrets, pris après avis de la
-commission supérieure de ladite caisse, fixent les conditions d'application de la présente section, et déterminent la quotité
-de la provision mathématique à rembourser aux ayants droit des assurés morts en état de mobilisation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1919-07-22 art. 17
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances - art. L433-1 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. L433-2 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. L433-3 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*160-14 (Ab)
-
-
-###### Article L160-18
-
-Des décrets, pris après avis du conseil national des assurances, déterminent les modalités et les bases des calculs et
-opérations nécessités par l'application de la présente section.
-
-Ces décrets fixent notamment :
-
-1° L'application des règles posées par la présente section à l'égard des assurances en cas de décès et des assurances en cas
-de vie aux opérations d'assurances qui comprennent à la fois une assurance en cas de décès et une assurance en cas de vie ;
-
-2° Le mode de calcul de la part des primes d'assurances en cas de décès qui vient normalement en accroissement de la
-provision mathématique ou de la valeur de rachat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. L160-15 (Ab)
-	  - Code des assurances - art. R*160-13 (Ab)
-	  - Code des assurances - art. R*160-14 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1919-07-22 art. 17
-
-
-###### Article L160-19
-
-Les dispositions de la présente section sont applicables à la Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1919-07-22 art. 19
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-
 ### Titre VII : Le contrat d'assurance maritime
 
 #### Chapitre I : Dispositions générales.
@@ -3975,6 +3799,44 @@ les mêmes droits.
 	  - Code des assurances - art. L171-2 (V)
 
 
+### Titre VIII : Loi applicable aux contrats d'assurance de dommages pour les risques situés sur le territoire d'un ou plusieurs Etats membres des communautés européennes
+
+#### Chapitre I : Assurances non obligatoires.
+
+###### Article L181-3
+
+Les articles L. 181-1 et L. 181-2 ne peuvent faire obstacle aux dispositions d'ordre public de la loi française applicables
+quelle que soit la loi régissant le contrat.
+
+Toutefois, le juge peut donner effet sur le territoire de la République française aux dispositions d'ordre public de la loi
+de l'Etat membre des communautés européennes où le risque est situé ou d'un Etat membre qui impose l'obligation d'assurance,
+si et dans la mesure où, selon le droit de ces pays, ces dispositions sont applicables quelle que soit la loi régissant le
+contrat.
+
+Lorsque le contrat couvre des risques situés dans plusieurs Etats membres des communautés européennes, le contrat est
+considéré, pour l'application du présent article, comme constituant plusieurs contrats dont chacun ne se rapporte qu'à un
+seul Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 2 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Cite**:
+
+	  - Code des assurances - art. L181-1 (M)
+	  - Code des assurances - art. L181-2 (V)
+
+
 ## Livre II : Assurances obligatoires
 
 ### Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques
@@ -3988,8 +3850,7 @@ les mêmes droits.
 Toute personne physique ou toute personne morale autre que l'Etat, dont la responsabilité civile peut être engagée en raison
 de dommages subis par des tiers résultant d'atteintes aux personnes ou aux biens dans la réalisation desquels un véhicule
 terrestre à moteur, ainsi que ses remorques, ou semi-remorques, est impliqué, doit, pour faire circuler lesdits véhicules,
-être couverte par une assurance garantissant cette responsabilité, dans les conditions fixées par décret en Conseil d'Etat
-pris après avis du conseil national des assurances.
+être couverte par une assurance garantissant cette responsabilité, dans les conditions fixées par décret en Conseil d'Etat.
 
 Les contrats d'assurance couvrant la responsabilité mentionnée au premier alinéa du présent article doivent également couvrir
 la responsabilité civile de toute personne ayant la garde ou la conduite, même non autorisée, du véhicule, à l'exception des
@@ -4021,6 +3882,7 @@ article.
 	  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 2 (V)
 	  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 3 (Ab)
 	  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 3 (V)
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 	  - TXT_SOURCE: Arrêté du 30 novembre 1990
 	  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 2 (Ab)
@@ -4085,10 +3947,6 @@ article.
 	  - TXT_SOURCE: Code des assurances - art. R212-5 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R212-6 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R421-37 (M)
-
-	**Modifié par**:
-
-	  - Loi n°85-677 du 5 juillet 1985 - art. 7 () JORF 6 juillet 1985 en vigueur le 1er janvier 1986
 
 	**Cité par**:
 
@@ -4171,6 +4029,10 @@ article.
 	  - Code des assurances - art. R250-2 (V)
 	  - Code des assurances - art. R421-27 (V)
 	  - Code général des impôts annexe 1, CGIAN1. - art. 305 AA (MMN)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 
 ###### Article L211-2
@@ -5174,8 +5036,8 @@ chapitres Ier, et II aux départements d'outre-mer.
 
 ###### Article L214-2
 
-Le troisième alinéa de l'article L. 211-26 et les articles L. 212-1 à L. 212-3, sont applicables à la Nouvelle-Calédonie, à
-la Polynésie française et à Saint-Pierre-et-Miquelon.
+Le troisième alinéa de l'article L. 211-26 et les articles L. 212-1 à L. 212-3, sont applicables dans les territoires
+d'outre-mer et dans la collectivité territoriale de Mayotte.
 
 Les dispositions précitées entrent en vigueur dans le territoire de Wallis et Futuna le premier jour du trimestre civil
 suivant la publication de l'arrêté rendant exécutoire la délibération édictant une obligation d'assurance de la
@@ -5189,23 +5051,24 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Code des assurances - art. L211-26 (M)
+	  - SPEC_APPLI: Code des assurances - art. L211-8 (T)
+	  - SPEC_APPLI: Code des assurances - art. L212-1 (M)
+	  - SPEC_APPLI: Code des assurances - art. L212-2 (V)
+	  - SPEC_APPLI: Code des assurances - art. L212-3 (M)
+
 	**Modifié par**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 2 () JORF 20 mars 1988
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cite**:
 
 	  - Code des assurances - art. L211-26 (M)
 	  - Code des assurances - art. L212-1 (M)
 	  - Code des assurances - art. L212-3 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. L211-26 (M)
-	  - SPEC_APPLI: Code des assurances - art. L211-8 (T)
-	  - SPEC_APPLI: Code des assurances - art. L212-1 (M)
-	  - SPEC_APPLI: Code des assurances - art. L212-2 (V)
-	  - SPEC_APPLI: Code des assurances - art. L212-3 (M)
 
 	**Cité par**:
 
@@ -5253,40 +5116,6 @@ civile pour tous dommages causés par ce moyen de transport.
 
 	  - TXT_SOURCE: Code des assurances - art. A220-3 (V)
 	  - TXT_ASSOCIE: Code des assurances - art. L220-3 (M)
-
-
-###### Article L220-2
-
-Sous réserve de la dérogation prévue à l'article L. 321-4 au titre de la coassurance communautaire, les contrats d'assurance
-doivent être souscrits auprès d'une entreprise d'assurance agréée, par application des dispositions de l'article L. 321-1,
-pour les opérations d'assurance contre les risques de responsabilité civile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 36 () JORF 8 janvier 1981
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. L220-5 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L321-4 (Ab)
 
 
 ###### Article L220-3
@@ -5338,31 +5167,36 @@ l'article L. 220-1.
 
 ###### Article L220-5
 
-Toute personne assujettie à l'obligation d'assurance qui n'a pu obtenir la souscription d'un contrat auprès d'au moins trois
-des entreprises d'assurance mentionnées à l'article L. 220-2 peut saisir un bureau central de tarification dont les
-conditions de constitution et les règles de fonctionnement sont fixées par décret en Conseil d'Etat.
+Toute personne assujettie à l'obligation d'assurance qui n'a pu obtenir la souscription d'un contrat pour les risques
+mentionnés à l'article L. 220-1 auprès d'au moins trois des entreprises agréées dans la branche correspondante à ces risques
+peut saisir un bureau central de tarification dont les conditions de constitution et les règles de fonctionnement sont fixées
+par décret en Conseil d'Etat. 
 
 Le bureau central de tarification a pour rôle exclusif de fixer le montant de la prime moyennant laquelle les entreprises
 d'assurance auprès desquelles la souscription d'un contrat a été sollicitée, ainsi qu'il est dit à l'alinéa ci-dessus, sont
 tenues de garantir le risque qui leur a été proposé. Il peut, dans les conditions fixées par décret en Conseil d'Etat,
-déterminer le montant d'une franchise qui reste à la charge de l'assuré.
+déterminer le montant d'une franchise qui reste à la charge de l'assuré. 
 
 Toute entreprise d'assurance ayant maintenu son refus de garantir un risque dont la prime a été fixée par le bureau central
 de tarification est considérée comme ne fonctionnant plus conformément à la réglementation en vigueur et encourt le retrait
-de l'agrément administratif prévu à l'article L. 321-1.
+de l'agrément administratif prévu à l'article L. 321-1. 
 
 Est nulle toute clause des traités de réassurance tendant à exclure de la garantie de réassurance certains risques faisant
 l'objet de la présente sanction.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°63-708 1963-07-18 art. 5
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 53 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -5373,24 +5207,28 @@ l'objet de la présente sanction.
 
 	**Cite**:
 
-	  - Code des assurances - art. L220-2 (M)
-	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L220-1 (V)
+	  - Code des assurances - art. L321-1 (V)
 
 
 ###### Article L220-6
 
-Un décret en Conseil d'Etat pris après consultation du conseil national des assurances fixe les conditions d'application du
-présent chapitre, et notamment la nature et l'étendue de la garantie que doit comporter le contrat d'assurance.
+Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre, et notamment la nature et l'étendue de la
+garantie que doit comporter le contrat d'assurance.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°63-708 1963-07-18 art. 6
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -5635,6 +5473,33 @@ par les articles L. 222-1 à L. 222-5 du code de la construction et de l'habitat
 
 #### Chapitre III : Dispositions communes.
 
+###### Article L243-1
+
+Les obligations d'assurance ne s'appliquent pas à l'Etat lorsqu'il construit pour son compte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Code des assurances - art. L241-1 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*243-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 47 () JORF 3 janvier 1990 le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-32 (V)
+	  - Code des assurances - art. R*241-1 (T)
+	  - Code des assurances - art. R*243-1 (M)
+
+
 ###### Article L243-2
 
 Les personnes soumises aux obligations prévues par les articles L. 241-1 à L. 242-1 du présent code doivent être en mesure de
@@ -5827,9 +5692,35 @@ types prévues par l'article L. 310-7 du présent code.
 Toute personne physique ou morale qui, agissant en qualité de propriétaire de l'ouvrage, de vendeur ou de mandataire du
 propriétaire de l'ouvrage, fait réaliser des travaux de bâtiment, doit souscrire avant l'ouverture du chantier, pour son
 compte ou pour celui des propriétaires successifs, une assurance garantissant, en dehors de toute recherche des
-responsabilités, le paiement des travaux de réparation des dommages de la nature de ceux dont sont responsables les
-constructeurs au sens de l'article 1792-1, les fabricants et importateurs ou le contrôleur technique sur le fondement de
-l'article 1792 du code civil.
+responsabilités, le paiement de la totalité des travaux de réparation des dommages de la nature de ceux dont sont
+responsables les constructeurs au sens de l'article 1792-1, les fabricants et importateurs ou le contrôleur technique sur le
+fondement de l'article 1792 du code civil.
+
+Toutefois, l'obligation prévue au premier alinéa ci-dessus ne s'applique ni aux personnes morales de droit public ni aux
+personnes morales exerçant une activité dont l'importance dépasse les seuils mentionnés au dernier alinéa de l'article L.
+351-4, lorsque ces personnes font réaliser pour leur compte des travaux de bâtiment pour un usage autre que l'habitation.
+
+L'assureur a un délai maximal de soixante jours, courant à compter de la réception de la déclaration du sinistre, pour
+notifier à l'assuré sa décision quant au principe de la mise en jeu des garanties prévues au contrat.
+
+Lorsqu'il accepte la mise en jeu des garanties prévues au contrat, l'assureur présente, dans un délai maximal de quatre-
+vingt-dix jours, courant à compter de la réception de la déclaration du sinistre, une offre d'indemnité, revêtant le cas
+échéant un caractère provisionnel et destinée au paiement des travaux de réparation des dommages. En cas d'acceptation, par
+l'assuré, de l'offre qui lui a été faite, le règlement de l'indemnité par l'assureur intervient dans un délai de quinze
+jours.
+
+Lorsque l'assureur ne respecte pas l'un des délais prévus aux deux alinéas ci-dessus ou propose une offre d'indemnité
+manifestement insuffisante, l'assuré peut, après l'avoir notifié à l'assureur, engager les dépenses nécessaires à la
+réparation des dommages. L'indemnité versée par l'assureur est alors majorée de plein droit d'un intérêt égal au double du
+taux de l'intérêt légal.
+
+Dans les cas de difficultés exceptionnelles dues à la nature ou à l'importance du sinistre, l'assureur peut, en même temps
+qu'il notifie son accord sur le principe de la mise en jeu de la garantie, proposer à l'assuré la fixation d'un délai
+supplémentaire pour l'établissement de son offre d'indemnité. La proposition doit se fonder exclusivement sur des
+considérations d'ordre technique et être motivée.
+
+Le délai supplémentaire prévu à l'alinéa qui précède est subordonné à l'acceptation expresse de l'assuré et ne peut excéder
+cent trente-cinq jours.
 
 Cette assurance prend effet après l'expiration du délai de garantie de parfait achèvement visé à l'article 1792-6 du code
 civil. Toutefois, elle garantit le paiement des réparations nécessaires lorsque :
@@ -5848,10 +5739,6 @@ articles L. 241-1 et L. 241-2 ci-dessus, est habilitée à prendre en charge les
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 36 () JORF 8 janvier 1981
 
 	**Cité par**:
 
@@ -5884,6 +5771,15 @@ articles L. 241-1 et L. 241-2 ci-dessus, est habilitée à prendre en charge les
 	  - Code des assurances - art. R243-2 (V)
 	  - Code des assurances - art. R243-3 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L111-30 (V)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 47 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
 	**Cite**:
 
 	  - Code civil - art. 1792 (V)
@@ -5893,43 +5789,10 @@ articles L. 241-1 et L. 241-2 ci-dessus, est habilitée à prendre en charge les
 	  - Code des assurances - art. L241-2 (M)
 	  - Code des assurances - art. L321-1 (M)
 	  - Code des assurances - art. L321-4 (Ab)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L111-30 (V)
+	  - Code des assurances - art. L351-4 (M)
 
 
 #### Chapitre III : Dispositions communes.
-
-###### Article L243-1
-
-Les obligations d'assurance ne s'appliquent pas à l'Etat lorsqu'il construit pour son compte. Des dérogations totales ou
-partielles peuvent être accordées par l'autorité administrative aux collectivités locales et à leurs groupements, ainsi
-qu'aux établissements publics, justifiant de moyens permettant la réparation rapide et complète des dommages.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
-	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
-	  - SPEC_APPLI: Code des assurances - art. L241-1 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*243-1 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. L111-32 (V)
-	  - Code des assurances - art. R*241-1 (T)
-	  - Code des assurances - art. R*243-1 (M)
-
 
 ###### Article L243-3
 
@@ -5967,6 +5830,8 @@ elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants
 ### Titre Ier : Dispositions générales et contrôle de l'Etat.
 
 #### Chapitre unique
+
+##### Section I : Dispositions générales.
 
 ###### Article L310-1
 
@@ -6262,25 +6127,26 @@ aux bénéfices d'autres sociétés qu'elles gèrent ou administrent directement
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 33 () JORF 8 janvier 1981
-
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 	  - TXT_ASSOCIE: Code des assurances - art. L328-10 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. L328-11 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*310-1 (T)
 	  - TXT_SOURCE: Code des assurances - art. R*322-1 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
 
 ###### Article L310-2
 
-Toute entreprise française soumise au contrôle de l'Etat en vertu de l'article L. 310-1 doit être constituée sous l'une des
-formes suivantes : société anonyme, société à forme mutuelle, société mutuelle, union de mutuelles, tontine.
+Toute entreprise française mentionnée à l'article L. 310-1 doit être constituée sous forme de société anonyme ou de société
+d'assurance mutuelle.
 
 Une entreprise française ne peut pratiquer la réassurance que si elle est constituée sous l'une des formes suivantes :
-société anonyme, société en commandite par actions, société à forme mutuelle. Les sociétés mutuelles et leurs unions ne
+société anonyme, société en commandite par actions, société d'assurance mutuelle. Les sociétés mutuelles et leurs unions ne
 peuvent accepter de risques en réassurance que dans les conditions fixées par le décret prévu à l'article L. 310-3.
 
 Une entreprise étrangère ne peut pratiquer sur le territoire de la République française l'une des opérations mentionnées à
@@ -6409,16 +6275,25 @@ l'article L. 310-1 ou des opérations de réassurance que si elle satisfait aux 
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 	  - TXT_SOURCE: Code des assurances - art. A344-6 (V)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 38 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 54 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-3 (M)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Décret n°1938-06-14 art. 2
+	  - Code des assurances - art. L310-6 (Ab)
+	  - Code des assurances - art. L322-1 (Ab)
+	  - Code des assurances - art. L322-26-6 (V)
 
 
 ###### Article L310-3
@@ -6426,14 +6301,18 @@ l'article L. 310-1 ou des opérations de réassurance que si elle satisfait aux 
 Un décret en Conseil d'Etat détermine les conditions de constitution des entreprises soumises au contrôle de l'Etat en vertu
 de l'article L. 310-1. Il précise les conditions dans lesquelles sont applicables auxdites entreprises les dispositions de la
 loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et des autres lois régissant les sociétés anonymes. Des
-dispositions particulières tiennent compte du caractère non commercial des sociétés d'assurance à forme mutuelle et des
-sociétés mutuelles d'assurance.
+dispositions particulières tiennent compte du caractère non commercial des sociétés d'assurance mutuelles.
 
 Le même décret fixe les obligations auxquelles les entreprises françaises et étrangères sont astreintes, les garanties
 qu'elles doivent présenter, les réserves et provisions techniques qu'elles doivent constituer, les règles générales de leur
 fonctionnement et de l'exercice du contrôle de l'Etat.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24
+	  - Code des assurances - art. L310-1 (M)
 
 	**Codifié par**:
 
@@ -6462,48 +6341,35 @@ fonctionnement et de l'exercice du contrôle de l'Etat.
 	  - Code des assurances - art. R*411-12 (Ab)
 	  - Code des assurances - art. R332-9 (VD)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
 	**Modifié par**:
 
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab) JORF 9 décembre 1986
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 54 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Nouveaux textes**:
 
+	  - Code des assurances - art. L310-7 (M)
 	  - Code des assurances - art. L310-7 (V)
 
 
 ###### Article L310-7
 
-L'autorité administrative peut imposer l'usage de clauses types de contrats et fixer les montants maximaux et minimaux des
-tarifications, ainsi que les montants maximaux des taux de rétribution des intermédiaires et les règles applicables au
-paiement de ces rétributions.
+L'autorité administrative peut imposer l'usage de clauses types de contrats et, pour les contrats d'assurance-vie ou de
+capitalisation, fixer les règles de calcul actuariel qui leur sont applicables.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 8
-	  - Code des assurances - art. L310-3 (T)
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Cité par**:
-
-	  - Décret n°2008-1437 du 22 décembre 2008 (V)
-	  - Décret n°2013-717 du 2 août 2013 (V)
-	  - Décret n°2014-1530 du 17 décembre 2014 (V)
-	  - Code de la construction et de l'habitation. - art. L111-39 (V)
-	  - Code des assurances - art. L243-8 (V)
-	  - Code des assurances - art. L322-26-6 (V)
-	  - Code des assurances - art. L323-5 (Ab)
-	  - Code des assurances - art. L323-6 (Ab)
-	  - Code des assurances - art. L327-4 (VD)
-	  - Code des assurances - art. L328-14 (Ab)
-	  - Code des assurances - art. R*310-10 (M)
-
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 	  - TXT_SOURCE: Code des assurances - art. A113-1 (V)
 	  - TXT_SOURCE: Code des assurances - art. A121-1 (M)
 	  - TXT_SOURCE: Code des assurances - art. A335-1 (V)
@@ -6531,6 +6397,29 @@ paiement de ces rétributions.
 	  - TXT_SOURCE: Code des assurances - art. A335-9 (Ab)
 	  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
 
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 34 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Décret n°2008-1437 du 22 décembre 2008 (V)
+	  - Décret n°2013-717 du 2 août 2013 (V)
+	  - Décret n°2014-1530 du 17 décembre 2014 (V)
+	  - Code de la construction et de l'habitation. - art. L111-39 (V)
+	  - Code des assurances - art. L243-8 (V)
+	  - Code des assurances - art. L322-26-6 (V)
+	  - Code des assurances - art. L323-5 (Ab)
+	  - Code des assurances - art. L323-6 (Ab)
+	  - Code des assurances - art. L327-4 (VD)
+	  - Code des assurances - art. L328-14 (Ab)
+	  - Code des assurances - art. R*310-10 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L310-3 (T)
+
 	**Nouveaux textes**:
 
 	  - Code des assurances - art. L331-4 (V)
@@ -6538,21 +6427,31 @@ paiement de ces rétributions.
 
 ###### Article L310-8
 
-Sans préjudice des règles de contrôle applicables aux entreprises mentionnées à l'article L. 310-1, le ministre de l'économie
-et des finances peut exiger la modification de la présentation ou de la teneur de tous documents faisant état d'une opération
-d'assurance ou de capitalisation, destinés à être distribués au public, publiés, remis aux porteurs de contrats ou adhérents,
-ou diffusés par des moyens audio-visuels.
+Le ministre chargé de l'économie et des finances peut exiger la communication, préalablement à leur diffusion, de tous les
+documents à caractère contractuel ou publicitaire ayant pour objet une opération d'assurance ou de capitalisation.
 
-Il peut également exiger la communication préalable de ces mêmes documents. En l'absence d'observation de sa part, dans un
-délai de vingt et un jours à compter de la communication, les documents peuvent être distribués, publiés, remis ou diffusés.
-Après l'expiration de ce délai, le ministre conserve, à tout moment, le pouvoir de demander, pour l'avenir, la modification
-des documents en circulation.
+Dans un délai d'un mois à compter de la communication d'un document d'assurance, le ministre chargé de l'économie et des
+finances peut en prescrire la modification. A l'expiration de ce délai, le document peut être diffusé auprès du public.
+
+S'il apparaît qu'un document mis en circulation est contraire aux dispositions législatives et réglementaires, le ministre
+chargé de l'économie et des finances peut en décider le retrait ou en exiger la réformation après avis conforme de la
+commission consultative de l'assurance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - TXT_ASSOCIE: Code des assurances L328-15 *sanctions pénales*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 30 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -6572,18 +6471,6 @@ des documents en circulation.
 	  - Code des assurances - art. R322-137 (V)
 	  - Code des assurances - art. R322-98 (M)
 
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances L328-15 *sanctions pénales*
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 12 ter
-
 
 ###### Article L310-9
 
@@ -6599,13 +6486,18 @@ sont pas déduites.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 11
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -6619,39 +6511,27 @@ sont pas déduites.
 	  - Code des assurances - art. R310-10 (Ab)
 	  - Code des assurances - art. R411-1 (M)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
-
 
 ###### Article L310-10
 
-Tout assureur doit prendre à l'égard de l'autorité administrative l'engagement de ne réassurer aucun risque concernant une
-personne, un bien ou une responsabilité situés sur le territoire de la République française à des entreprises déterminées ou
-appartenant à un pays déterminé, dont la liste est dressée par l'autorité administrative après avis du conseil national des
-assurances, et publiée au Journal officiel. Le même engagement doit être exigé des rétrocessionnaires successifs par leur
-cédant immédiat.
+Il est interdit de souscrire une assurance directe d'un risque concernant une personne, un bien ou une responsabilité situé
+sur le territoire de la République française auprès d'une entreprise étrangère qui ne s'est pas conformée aux prescriptions
+des articles L. 321-1 et L. 321-2.
 
-Il est en outre interdit de souscrire une assurance directe d'un risque mentionné au précédent alinéa auprès d'une entreprise
-étrangère qui ne se serait pas conformée aux prescriptions de l'article L. 321-2.
-
-Aucune entreprise mentionnée à l'article L. 310-1, aucun courtier-juré ou autre intermédiaire opérant sur le territoire de la
-République française ne peut accepter de réassurance ou de rétrocession concernant des risques déjà assurés par les
-entreprises figurant sur la liste mentionnée au premier alinéa du présent article.
-
-Ne peuvent figurer sur ladite liste ni les Etats membres de la Communauté économique européenne, ni les entreprises dont le
-siège social est établi sur le territoire d'un de ces Etats.
+Toutefois, les dispositions de l'alinéa ci-dessus ne sont pas applicables à l'assurance des risques liés aux transports
+maritimes et aériens ainsi qu'aux opérations de libre prestation de services et de coassurance communautaire définies aux
+chapitres Ier et II du titre V du présent livre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 68-1082 1968-11-27 art. 1, art. 2
-	  - Loi n°1917-02-15 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 18 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -6667,7 +6547,7 @@ siège social est établi sur le territoire d'un de ces Etats.
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L321-1 (M)
 	  - Code des assurances - art. L321-2 (M)
 
 	**Liens**:
@@ -6677,19 +6557,24 @@ siège social est établi sur le territoire d'un de ces Etats.
 
 ###### Article L310-11
 
-Les dispositions des articles L. 310-1 à L. 310-3, L. 310-6, L. 310-8 et L. 310-10 sont applicables dans les territoires de
-la Nouvelle-Calédonie, de la Polynésie française, de Saint-Pierre et Miquelon, des Terres australes et antarctiques
-françaises et de Wallis et Futuna.
+Les dispositions des articles L. 310-1 à L. 310-3, L. 310-8 et L. 310-10 sont applicables dans les territoires de la
+Nouvelle-Calédonie, de la Polynésie française, de Saint-Pierre et Miquelon, des Terres australes et antarctiques françaises
+et de Wallis et Futuna.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 14
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 48 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -6701,129 +6586,7 @@ françaises et de Wallis et Futuna.
 	  - Code des assurances - art. L310-10 (M)
 	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. L310-3 (M)
-	  - Code des assurances - art. L310-6 (Ab)
 	  - Code des assurances - art. L310-8 (M)
-
-
-##### Section I : Dispositions générales.
-
-###### Article L310-4
-
-Peuvent être imposées par décret en Conseil d'Etat pris après avis du conseil national des assurances, les mesures propres à
-réaliser la concentration des entreprises d'assurance et de capitalisation, des agences générales d'assurances et des
-cabinets de courtage d'assurances.
-
-Ce décret fixe les conditions générales dans lesquelles ces concentrations sont effectuées, ainsi que le mode de calcul des
-indemnités allouées, le cas échéant, aux parties intéressées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 7
-	  - Code des assurances - art. L351-3 (T)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. L181-1 (V)
-	  - Code des assurances - art. L328-14 (M)
-
-
-###### Article L310-5
-
-Lorsque des entreprises d'assurance ou de réassurance concluent un accord quelconque en matière de tarifs, de conditions
-générales des contrats, d'organisation professionnelle, de concurrence ou de gestion financière, les signataires doivent
-porter cet accord à la connaissance de l'autorité administrative par lettre recommandée.
-
-Il en est également ainsi lorsque des entreprises mentionnées aux 1°, 2°, 3°, 4° et 6° de l'article L. 310-1 et des
-entreprises mentionnées aux 5° et 7° dudit article, ayant entre elles des liens financiers, commerciaux ou administratifs,
-concluent un accord de la réassurance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab) JORF 9 décembre 1986
-
-	**Cité par**:
-
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab)
-	  - Code des assurances - art. L183-1 (V)
-	  - Code des assurances - art. L323-5 (Ab)
-	  - Code des assurances - art. L323-6 (Ab)
-	  - Code des assurances - art. L328-14 (M)
-	  - Code des assurances - art. R212-7 (M)
-	  - Code des assurances - art. R342-21 (Ab)
-	  - Code des assurances - art. R342-22 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances - art. R*322-2 (V)
-	  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
-	**Anciens textes**:
-
-	  - Code des assurances - art. L353-3 (T)
-
-
-###### Article L310-6
-
-L'autorité administrative peut faire procéder à toutes vérifications et constatations utiles auprès des groupements
-professionnels institués entre entreprises d'assurance ou de capitalisation, agents ou courtiers d'assurances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. L300-1 (VD)
-	  - Code des assurances - art. L310-11 (M)
-	  - Code des assurances - art. L310-27 (V)
-
-	**Anciens textes**:
-
-	  - Code des assurances - art. L310-2 (T)
-	  - Décret n°1938-06-14 art. 34
 
 
 ##### Section II : Commission de contrôle des assurances.
@@ -7351,14 +7114,72 @@ commerce, elle en informe le ministre chargé de l'économie et des finances.
 
 #### Chapitre Ier : Les agréments.
 
+##### Section I : Agréments administratifs.
+
+###### Article L321-1-1
+
+Les entreprises étrangères ne peuvent couvrir, sur le territoire de la République française en libre prestation de services,
+les risques autres que ceux mentionnés à l'article L. 351-4, qu'après avoir obtenu l'agrément de libre prestation de services
+mentionné à l'article L. 351-5.
+
+Un décret en Conseil d'Etat fixe les documents à produire à l'appui de la demande d'agrément ainsi que les modalités de
+calcul des provisions techniques afférentes à ces contrats, les règles de représentation de ces provisions et de localisation
+des actifs qui les représentent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 19 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 20 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Cité par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 13 (V)
+	  - Arrêté du 3 novembre 2014 - art. 5 (V)
+	  - Code des assurances - art. A321-1 (V)
+	  - Code des assurances - art. L310-1-1 (VD)
+	  - Code des assurances - art. L310-10-1 (M)
+	  - Code des assurances - art. L310-12-5 (M)
+	  - Code des assurances - art. L310-9-1 (Ab)
+	  - Code des assurances - art. L321-10-1 (V)
+	  - Code des assurances - art. L322-27-1 (VD)
+	  - Code des assurances - art. L325-1 (VD)
+	  - Code des assurances - art. L350-2 (VD)
+	  - Code des assurances - art. L351-5 (M)
+	  - Code des assurances - art. L353-5 (M)
+	  - Code des assurances - art. L411-4 (M)
+	  - Code des assurances - art. R*341-9 (T)
+	  - Code des assurances - art. R321-26 (VD)
+	  - Code des assurances - art. R321-5-1 (V)
+	  - Code des assurances - art. R325-11 (VD)
+	  - Code des assurances - art. R342-1 (Ab)
+	  - Code des assurances - art. R342-17 (Ab)
+	  - Code des assurances - art. R342-19 (Ab)
+	  - Code des assurances - art. R351-3 (M)
+	  - Code des assurances - art. R353-2 (M)
+	  - Code monétaire et financier - art. L517-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L351-4 (M)
+
+
 ##### Section I : Agrément administratif.
 
 ###### Article L321-1
 
 Les entreprises soumises au contrôle de l'Etat par l'article L. 310-1 ne peuvent commencer leurs opérations qu'après avoir
 obtenu un agrément administratif. Toutefois, en ce qui concerne les opérations d'acceptation en réassurance, cet agrément
-n'est pas exigé des entreprises françaises ni des entreprises étrangères dont le siège social est établi sur le territoire
-d'un Etat membre de la Communauté économique européenne.
+n'est pas exigé.
 
 L'agrément est accordé sur demande de l'entreprise, pour les opérations d'une ou plusieurs branches d'assurance. L'entreprise
 ne peut pratiquer que les opérations pour lesquelles elle est agréée.
@@ -7465,7 +7286,7 @@ Aucun agrément ne peut être accordé à une entreprise tontinière pour des op
 
 	**Modifié par**:
 
-	  - Loi n°85-608 1985-06-11 art. 11 JORF 20 juin 1985
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 55 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Liens**:
 
@@ -7483,16 +7304,14 @@ Aucun agrément ne peut être accordé à une entreprise tontinière pour des op
 
 ###### Article L321-2
 
-Les entreprises étrangères ne peuvent pratiquer, sur le territoire de la République française, des opérations de réassurance
-ou des opérations soumises au contrôle de l'Etat en vertu de l'article L. 310-1 qu'après avoir obtenu un agrément spécial
-portant acceptation d'un mandataire général. Ces entreprises peuvent être, en outre, astreintes à constituer un cautionnement
-ou des garanties si leur pays a pris ou prenait des mesures analogues à l'égard d'entreprises françaises.
+Les entreprises établies sur le territoire d'un Etat qui n'est pas membre des communautés européennes ne peuvent pratiquer
+sur le territoire de la République française des opérations soumises au contrôle de l'Etat en vertu de l'article L. 310-1
+qu'après avoir obtenu un agrément spécial portant acceptation d'un mandataire général ; l'agrément est délivré par le
+ministre chargé de l'économie et des finances. Ces entreprises peuvent être, en outre, astreintes à constituer un
+cautionnement ou des garanties si leur pays a pris ou prenait des mesures analogues à l'égard d'entreprises françaises.
 
-Un décret en Conseil d'Etat, pris après avis du conseil national des assurances, détermine les modalités d'application de
-l'alinéa précédent et fixe notamment les conditions que doit remplir le mandataire général.
-
-Les dispositions du présent article ne sont pas applicables aux entreprises mentionnées à l'article L. 310-1 et dont le siège
-social est établi sur le territoire d'un Etat membre de la Communauté économique européenne.
+Un décret en Conseil d'Etat, détermine les modalités d'application de l'alinéa précédent et fixe notamment les conditions que
+doit remplir le mandataire général.
 
 **Liens relatifs à cet article**
 
@@ -7502,15 +7321,8 @@ social est établi sur le territoire d'un Etat membre de la Communauté économi
 
 	**Modifié par**:
 
-	  - Loi n°83-453 du 7 juin 1983 - art. 3 () JORF 8 juin 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-453 du 7 juin 1983 - art. 7 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-2 (MMN)
-	  - TXT_SOURCE: Code des assurances - art. R*321-12 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*321-16 (T)
-	  - SPEC_APPLI: Code des assurances R321-16
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 22 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -7538,138 +7350,29 @@ social est établi sur le territoire d'un Etat membre de la Communauté économi
 
 	**Nouveaux textes**:
 
+	  - Code des assurances - art. L321-9 (M)
 	  - Code des assurances - art. L321-9 (V)
-
-
-##### Section IV : Dispositions particulières aux départements et territoires d'outre-mer.
-
-###### Article L321-3
-
-Les dispositions du présent chapitre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis et Futuna.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 14
-	  - Loi n°74-1078 1974-12-21 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 39 (V)
-	  - Code des assurances - art. A321-3 (Ab)
-	  - Code des assurances - art. A321-4 (Ab)
-	  - Code des assurances - art. L321-5 (Ab)
-
-
-##### Section VI : Dispositions spéciales concernant la coassurance communautaire.
-
-###### Article L321-4
-
-Le contrat de coassurance communautaire est un contrat dans lequel un ou plusieurs coassureurs, autres que l'apériteur, sont
-des entreprises d'assurances dont le siège social est établi sur le territoire d'autres Etats membres de la Communauté
-économique européenne, qui satisfont aux dispositions de la législation des pays où elles sont établies et qui, par
-dérogation aux dispositions de l'article L. 321-1, n'ont pas obtenu l'agrément administratif.
-
-L'entreprise d'assurance française ou étrangère qui assume, pour un contrat de coassurance communautaire, le rôle
-d'apériteur, doit être agréée dans les conditions de l'article L. 321-1, c'est-à-dire qu'elle est traitée comme l'assureur
-qui couvrirait la totalité du risque.
-
-Dans un contrat de coassurance communautaire, les entreprises s'engagent, sans qu'il y ait solidarité entre elles, par un
-contrat unique moyennant une prime globale et pour une même durée.
-
-La coassurance communautaire ne peut être utilisée que pour la couverture de risques situés à l'intérieur de la Communauté
-appartenant à certaines branches d'assurances qui, par leur nature et leur importance, nécessitent la participation de
-plusieurs assureurs pour leur garantie dans les conditions prévues par le décret visé à l'article L. 321-5.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 36 () JORF 8 janvier 1981
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 39 (V)
-	  - Code des assurances - art. A431-4 (Ab)
-	  - Code des assurances - art. L220-2 (Ab)
-	  - Code des assurances - art. L242-1 (M)
-	  - Code des assurances - art. L321-5 (Ab)
-	  - Code des assurances - art. L514-2 (M)
-	  - Code des assurances - art. R*331-32 (Ab)
-	  - Code des assurances - art. R321-22 (M)
-	  - Code des assurances - art. R321-24 (M)
-	  - Code des assurances - art. R331-31 (M)
-	  - Code des assurances - art. R332-1 (M)
-	  - Code des assurances - art. R332-9 (M)
-	  - Code des assurances - art. R431-31 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L321-1 (M)
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. L321-4 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R321-22 (T)
-	  - TXT_SOURCE: Code des assurances - art. R322-1 (V)
+	  - TXT_ASSOCIE: Code des assurances - art. L328-2 (MMN)
+	  - TXT_SOURCE: Code des assurances - art. R*321-12 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*321-16 (T)
+	  - TXT_ASSOCIE: Code des assurances L328-2, R321-16
 
 
-###### Article L321-5
+##### Section III : Conditions des agréments.
 
-Un décret en Conseil d'Etat détermine les conditions de la coassurance communautaire définie à l'article L. 321-4. Il fixe en
-outre la notion d'apériteur et les obligations incombant à ce dernier ainsi qu'aux autres entreprises agréées conformément à
-l'article L. 321-1.
+###### Article L321-2-1
 
-**Liens relatifs à cet article**
+Pour accorder ou refuser l'agrément prévu à l'article L. 321-1, le ministre, après avis de la commission compétente du
+Conseil national des assurances, prend en compte :
 
-	**Codifié par**:
+- les moyens techniques et financiers dont la mise en oeuvre est proposée et leur adéquation au programme d'activité de
+l'entreprise ;    - l'honorabilité et la qualification des personnes chargées de la conduire ;
 
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 36 () JORF 8 janvier 1981
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. A321-6 (Ab)
-	  - Code des assurances - art. L321-4 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L321-1 (M)
-
-
-#### Chapitre II : Règles de constitution et de fonctionnement
-
-##### Section I : Dispositions communes.
-
-###### Article L322-1
-
-Les entreprises de toute nature mentionnées à l'article L. 310-1 sont soumises au contrôle d'un ou plusieurs commissaires aux
-comptes.
-
-Ce contrôle s'exerce dans les conditions et sous les sanctions fixées par les textes législatifs et réglementaires en
-vigueur, sous réserve, en ce qui concerne les entreprises non commerciales, des adaptations qui sont rendues nécessaires par
-leur régime juridique particulier et qui sont précisées par le décret en Conseil d'Etat prévu à l'article L. 310-3.
+- la répartition de son capital ou, pour les sociétés mentionnées à l'article L. 322-26-1, les modalités de constitution du
+fonds d'établissement.
 
 **Liens relatifs à cet article**
 
@@ -7680,53 +7383,176 @@ leur régime juridique particulier et qui sont précisées par le décret en Con
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_SOURCE: Code des assurances - art. R*322-103 (V)
-	  - TXT_SOURCE: Code des assurances - art. R*322-67 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*322-68 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*322-69 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*322-7 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*322-70 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 21 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-3 (M)
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L322-26-1 (T)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code des assurances - art. L310-2 (T)
-	  - Décret n°1938-06-14 art. 5
-
-	**Cité par**:
-
-	  - Code des assurances - art. L328-5 (V)
-	  - Code des assurances - art. R322-1-1 (V)
+	  - Code des assurances - art. L321-10 (M)
+	  - Code des assurances - art. L321-10 (V)
+	  - Code des assurances - art. L321-11 (Ab)
 
 
-###### Article L322-2
+##### Section IV : Dispositions particulières aux départements et territoires d'outre-mer.
 
-Ne peuvent, à un titre quelconque, fonder, diriger, administrer, gérer et liquider les entreprises soumises au contrôle de
-l'Etat par l'article L. 310-1 et, d'une façon générale, les entreprises d'assurance et de réassurance de toute nature et de
-capitalisation, que les personnes n'ayant fait l'objet d'aucune condamnation pour crime de droit commun, pour vol, pour abus
-de confiance, pour escroquerie ou pour délit puni par les lois des peines de l'escroquerie, pour soustraction commise par
-dépositaire public, pour extorsion de fonds ou valeurs, pour émission de mauvaise foi de chèques sans provision, pour
-atteinte au crédit de l'Etat, pour recel des choses obtenues à l'aide de ces infractions ; toute condamnation pour tentative
-ou complicité des infractions ci-dessus, ou toute condamnation à une peine d'un an de prison au moins, quelle que soit la
-nature du délit commis, entraîne la même incapacité.
+###### Article L321-3
 
-Les faillis non réhabilités sont frappés des interdictions prévues au premier alinéa du présent article. Celles-ci pourront
-également être prononcées par les tribunaux à l'encontre de toute personne condamnée pour infraction à la législation ou à la
-réglementation des assurances.
+Les dispositions du présent chapitre sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale
+de Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 39 (V)
+	  - Code des assurances - art. A321-3 (Ab)
+	  - Code des assurances - art. A321-4 (Ab)
+	  - Code des assurances - art. L321-5 (Ab)
+
+
+##### Section VII : Dispositions relatives à l'assurance de protection juridique.
+
+###### Article L321-6
+
+Les entreprises soumises au contrôle de l'Etat par l'article L. 310-1 qui pratiquent l'assurance de protection juridique
+optent pour l'une des modalités de gestion suivantes :
+
+- les membres du personnel chargés de la gestion des sinistres de la branche "protection juridique" ou de conseils juridiques
+relatifs à cette gestion ne peuvent exercer en même temps une activité semblable dans une autre branche pratiquée par
+l'entreprise qui les emploie, ni dans une autre entreprise ayant avec cette dernière des liens financiers, commerciaux ou
+administratifs ;
+
+- les sinistres de la branche "protection juridique" sont confiés à une entreprise juridiquement distincte ;
+
+- le contrat d'assurance de protection juridique prévoit le droit pour l'assuré de confier la défense de ses intérêts, dès
+qu'il est en droit de réclamer l'intervention de l'assurance au titre de la police, à un avocat ou à une personne qualifiée
+de son choix.
+
+Les modalités d'application du présent article seront précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 6 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L322-2-3 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*127-2 (T)
+	  - Code des assurances - art. R*127-3 (T)
+	  - Code des assurances - art. R127-1 (V)
+	  - Code des assurances - art. R321-22 (T)
+	  - Code des assurances - art. R321-24 (T)
+
+
+#### Chapitre II : Règles de constitution et de fonctionnement
+
+##### Section I : Dispositions communes.
+
+###### Article L322-2
+
+Nul ne peut à un titre quelconque fonder, diriger, administrer une entreprise soumise au contrôle de l'Etat en vertu de
+l'article L. 310-1, ni une entreprise de réassurance :
+
+1° S'il a fait l'objet d'une condamnation :
+
+a) Pour crime ;
+
+b) Pour violation des dispositions des articles 150, 151, 151-1, 177, 178, 179, 419 ou 420 du code pénal ;
+
+c) Pour vol, escroquerie ou abus de confiance ;
+
+d) Pour un délit puni par des lois spéciales, des peines prévues aux articles 405, 406 et 410 du code pénal ;
+
+e) Pour soustractions commises par dépositaires publics, extorsion de fonds ou valeurs, banqueroute, atteinte au crédit de
+l'Etat ou infraction à la législation sur les changes ;
+
+f) Par application des dispositions du titre II de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, des
+articles 6 et 15 de la loi n° 66-1010 du 28 décembre 1966 relative à l'usure, aux prêts d'argent et à certaines opérations de
+démarchage et de publicité, de l'article 10 de la loi n° 72-6 du 3 janvier 1972 relative au démarchage financier et à des
+opérations de placement et d'assurance ou de l'article 40 de la loi n° 83-1 du 3 janvier 1983 sur le développement des
+investissements et la protection de l'épargne ;
+
+g) Pour recel des choses obtenues à la suite de ces infractions ;
+
+h) Ou par application des dispositions des articles 75 et 77 à 84 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité
+et au contrôle des établissements de crédit.
+
+2° S'il a été condamné à une peine d'emprisonnement supérieure à deux mois en application de l'article 66 du décret du 30
+octobre 1935 modifié unifiant le droit en matière de chèque.
+
+3° S'il a fait l'objet d'une condamnation prononcée par une juridiction étrangère et passée en force de chose jugée,
+constituant d'après la loi française une condamnation pour l'un des crimes ou délits mentionnés au présent article ; le
+tribunal correctionnel du domicile du condamné apprécie à la requête du ministère public la régularité et la légalité de
+cette décision, et statue en chambre du conseil, l'intéressé dûment appelé, sur l'application en France de l'interdiction.
+
+4° Si une mesure de faillite personnelle ou une autre mesure d'interdiction prévue aux articles 185 à 195 de la loi n° 85-98
+du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ou, dans le régime antérieur, à
+l'article 108 de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite
+personnelle et les banqueroutes, a été prononcée à son égard ou s'il a été déclaré en état de faillite par une juridiction
+étrangère quand le jugement déclaratif a été déclaré exécutoire en France et s'il n'a pas été réhabilité.
+
+5° S'il a fait l'objet d'une mesure de destitution de fonctions d'officier ministériel en vertu d'une décision judiciaire.
+
+Ces interdictions peuvent également être prononcées par les tribunaux à l'encontre de toute personne condamnée pour
+infractions à la législation ou à la réglementation des assurances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24
+	  - Loi n°66-1010 du 28 décembre 1966 - art. 15 (M)
+	  - Loi n°66-1010 du 28 décembre 1966 - art. 6 (M)
+	  - Loi n°67-563 du 13 juillet 1967 - art. 108 (Ab)
+	  - Loi n°72-6 du 3 janvier 1972 - art. 10 (M)
+	  - Loi n°83-1 du 3 janvier 1983 - art. 40 (M)
+	  - Loi n°84-46 1984-01-24 art. 75, art. 77 à art. 84
+	  - Loi n°85-98 1985-01-25 art. 185 à art. 195
+	  - Code pénal 150, 151, 151-1, 177, 178, 179, 405, 406, 410, 419, 420
+	  - Code des assurances - art. L310-1 (M)
+	  - Décret n°1935-10-30 art. 66
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 date d'effet
+	  - SPEC_APPLI: Code des assurances - art. L322-3 (M)
+	  - TXT_ASSOCIE: Code des assurances L328-1 sanctions pénales
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 40 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -7752,26 +7578,12 @@ réglementation des assurances.
 	  - Code des assurances - art. R362-2 (VD)
 	  - Code des assurances - art. R514-1 (V)
 
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. L322-3 (M)
-	  - TXT_ASSOCIE: Code des assurances L328-1 *sanctions pénales*
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 29
-
 
 ###### Article L322-2-1
 
-Les sociétés d'assurance à forme mutuelle, les sociétés mutuelles d'assurances et leurs unions, ainsi que les caisses
-d'assurances et de réassurances mutuelles agricoles soumises à l'agrément administratif peuvent émettre des titres
-participatifs dans les conditions prévues par les articles 283-6 et 283-7 de la loi n° 66-537 du 24 juillet 1966 sur les
-sociétés commerciales.
+Les sociétés d'assurance mutuelles ainsi que les caisses d'assurances et de réassurances mutuelles agricoles soumises à
+l'agrément administratif peuvent émettre des titres participatifs dans les conditions prévues par les articles 283-6 et 283-7
+de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
 
 Pour l'application de ces dispositions, les mots : "assemblée d'actionnaires ou de porteurs de parts" désignent l'"assemblée
 générale des sociétaires" et le mot : "actionnaires" désigne "sociétaires".
@@ -7790,9 +7602,9 @@ critère représentatif du volume d'activité de la société émettrice.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 52 () JORF 31 décembre 1988
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 54 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -7811,16 +7623,20 @@ critère représentatif du volume d'activité de la société émettrice.
 	  - Code monétaire et financier - art. L213-33 (V)
 
 
-###### Article L322-3
+###### Article L322-2-2
 
-Les dispositions de la présente section sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis et Futuna.
+Les opérations autres que celles qui sont mentionnées à l'article L. 310-1 et à l'article 3 de la loi n° 72-6 du 3 janvier
+1972 relative au démarchage financier et à des opérations de placement et d'assurance ne peuvent être effectuées par les
+entreprises mentionnées à l'article L. 310-1 que si elles demeurent d'importance limitée par rapport à l'ensemble des
+activités de l'entreprise. Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Ordonnance 45-2241 1945-09-29 art. 14
+	  - Loi n°66-537 1966-07-24 art. 283-6, art. 283-7
+	  - Loi n°72-6 du 3 janvier 1972 - art. 3 (M)
+	  - Code des assurances - art. L310-1 (M)
 
 	**Codifié par**:
 
@@ -7828,53 +7644,42 @@ française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques fr
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 39 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. L111-7 (V)
+	  - Code des assurances - art. L328-5 (V)
+
+
+###### Article L322-3
+
+Les dispositions de la présente section sont applicables dans les territoires d'outre-mer et dans la collectivité
+territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 	  - SPEC_APPLI: Code des assurances - art. L322-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
 	  - Code des assurances - art. L322-3-1 (V)
 	  - Code monétaire et financier - art. L511-46 (Ab)
-
-
-##### Section II : Sociétés anonymes d'assurance et de capitalisation.
-
-###### Article L322-4
-
-Dans les entreprises mentionnées à l'article L. 310-1 et constituées sous la forme de société anonyme, les personnes citées
-aux articles 106 et 148 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales peuvent, par dérogation à ces
-articles, contracter auprès de l'entreprise un emprunt hypothécaire, ou se faire consentir par elle des avances sur contrats
-d'assurance, sous réserve qu'il s'agisse d'opérations courantes conclues à des conditions normales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 3 bis
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 106, art. 148
-	  - Code des assurances - art. L310-1 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-16 art. 7 *modalités d'application des privatisations*
-	  - SPEC_APPLI: Loi n°66-537 du 24 juillet 1966 - art. 148 (Ab)
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. L328-5 (V)
-	  - Code des assurances - art. R*322-7 (M)
-	  - Code des assurances - art. R322-11-1 (VD)
 
 
 ##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance
@@ -8389,14 +8194,17 @@ assurés, bénéficiaires et porteurs de contrats.
 	  - Loi n°92-665 du 16 juillet 1992 - art. 2 () JORF 17 juillet 1992
 
 
-##### Section IV : Société d'assurance à forme mutuelle.
+##### Section IV : Sociétés d'assurance mutuelles.
 
 ###### Article L322-26-1
 
-En cas de dissolution non motivée par un retrait d'agrément d'une société d'assurance à forme mutuelle, l'excédent de l'actif
-net sur le passif est dévolu, par décision de l'assemblée générale, soit à d'autres sociétés d'assurance à forme mutuelle ou
-sociétés mutuelles d'assurance ou union de sociétés mutuelles d'assurance, soit à des associations reconnues d'utilité
-publique.
+Les sociétés d'assurance mutuelles ont un objet non commercial. Elles sont constituées pour assurer les risques apportés par
+leurs sociétaires. Moyennant le paiement d'une cotisation fixe ou variable, elles garantissent à ces derniers le règlement
+intégral des engagements qu'elles contractent. Toutefois, les sociétés d'assurance mutuelles pratiquant les opérations
+d'assurance sur la vie ou de capitalisation ne peuvent recevoir de cotisations variables.
+
+Ces sociétés fonctionnent sans capital social, dans des conditions fixées, pour l'ensemble des catégories mentionnées à
+l'article L. 322-26-4, par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -8404,14 +8212,9 @@ publique.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
-
-	  - Loi n°85-703 du 12 juillet 1985 - art. 15 () JORF 13 juillet 1985
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 8 *modalités d'application des privatisations*
-	  - SPEC_APPLI: Code des assurances - art. L322-26-2 (M)
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 59 *champ d'application territorial*
 
 	**Cité par**:
 
@@ -8423,17 +8226,65 @@ publique.
 	  - Code des assurances - art. L322-26-7 (V)
 	  - Code des assurances - art. R322-42 (V)
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code des assurances - art. L322-26-5 (V)
+	  - Code des assurances - art. L322-26-4 (V)
 
+	**Créé par**:
 
-##### Section V : Sociétés mutuelles d'assurance et leurs unions.
+	  - Loi n°89-1214 1989-12-31 art. 26 JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
 
 ###### Article L322-26-2
 
-Les dispositions de l'article L. 322-26-1 sont applicables en cas de dissolution non motivée par un retrait d'agrément d'une
-société mutuelle d'assurance ou d'une union de sociétés mutuelles d'assurance.
+Le conseil d'administration comprend, outre les administrateurs dont le nombre et le mode de désignation sont prévus par le
+présent code, un ou plusieurs administrateurs élus par le personnel salarié. Le nombre de ces administrateurs, qui est fixé
+par les statuts, ne peut être supérieur à quatre ni excéder le tiers de celui des autres administrateurs. Lorsque le nombre
+des administrateurs élus par les salariés est égal ou supérieur à deux, les cadres et assimilés ont un siège au moins.
+
+Pour l'application du présent article, les modalités de désignation des administrateurs élus par le personnel salarié sont
+fixées conformément aux dispositions des articles 97-2, 97-3, premier alinéa, et 97-4 à 97-8 de la loi n° 66-537 du 24
+juillet 1966 sur les sociétés commerciales.
+
+Les statuts ne peuvent subordonner à quelque condition que ce soit l'élection au conseil d'administration des sociétaires à
+jour de leurs cotisations.
+
+Toute nomination intervenue en violation du présent article est nulle. Cette nullité n'entraîne pas celle des délibérations
+auxquelles a pris part l'administrateur irrégulièrement nommé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 97-2, art. 97-3, art. 97-4 à art. 97-8
+	  - Code des assurances - art. L322-26-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 59 *champ d'application territorial*, art. 60 *date d'effet*
+	  - SPEC_APPLI: Code des assurances - art. L322-26-1 (T)
+	  - SPEC_APPLI: Code des assurances - art. L322-26-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 27 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-53 (V)
+	  - Code des assurances - art. R322-54 (V)
+	  - Code des assurances - art. R322-55-2 (VD)
+
+
+###### Article L322-26-2-1
+
+Sont nulles, à effet du 1er juillet 1991, les clauses statutaires qui subordonnent à une condition de montant de cotisation
+la participation à l'assemblée générale ou à l'élection des membres de l'assemblée générale de sociétaires à jour de leurs
+cotisations.
 
 **Liens relatifs à cet article**
 
@@ -8441,24 +8292,126 @@ société mutuelle d'assurance ou d'une union de sociétés mutuelles d'assuranc
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 59 *champ d'application territorial*, art. 60 *date d'effet*
+
 	**Créé par**:
 
-	  - Loi n°85-703 du 12 juillet 1985 - art. 16 () JORF 13 juillet 1985
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 26 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 28 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
-	**Cite**:
 
-	  - Code des assurances - art. L322-26-1 (T)
+###### Article L322-26-3
+
+Il peut être établi, entre sociétés d'assurance mutuelles pratiquant des assurances de même nature, des unions ayant
+exclusivement pour objet de réassurer intégralement les contrats souscrits par ces sociétés d'assurance mutuelles et de
+donner à celles-ci leur caution solidaire.
+
+Ces unions ne peuvent être constituées qu'entre sociétés d'assurance mutuelles s'engageant à céder à l'union, par un traité
+de réassurance, l'intégralité de leurs risques.
+
+L'union a une personnalité civile distincte de celle des sociétés adhérentes.
+
+Les unions de sociétés d'assurance mutuelles sont régies pour leur fonctionnement par les règles applicables aux sociétés
+d'assurance mutuelles, sous réserve des adaptations prévues par décret en Conseil d'Etat.
+
+Les opérations pour lesquelles les unions se portent caution solidaire sont considérées comme des opérations d'assurance
+directe pour l'application du livre III du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code des assurances - art. L322-26-1 (T)
-	  - SPEC_APPLI: Code des assurances - art. L322-26-5 (V)
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 59 *champ d'application territorial*, art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 26 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 28 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
-	  - Code des assurances - art. R322-53 (V)
-	  - Code des assurances - art. R322-54 (V)
-	  - Code des assurances - art. R322-55-2 (VD)
+	  - Code des assurances - art. L310-3-1 (VD)
+	  - Code des assurances - art. L322-1-3 (M)
+	  - Code des assurances - art. R322-100 (V)
+	  - Code des assurances - art. R322-107 (V)
+	  - Code des assurances - art. R322-116 (V)
+	  - Code des assurances - art. R334-8 (V)
+
+
+###### Article L322-26-4
+
+Les sociétés mutuelles d'assurance, les sociétés à forme tontinière et les sociétés ou caisses d'assurance et de réassurance
+mutuelles agricoles régies par l'article L771-1 du code rural constituent des formes particulières de sociétés d'assurance
+mutuelles.
+
+Un décret en Conseil d'Etat fixe les conditions particulières dans lesquelles les dispositions de la présente section leur
+sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 59, art. 60
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 26 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 28 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 54 (VD)
+	  - Code des assurances - art. L322-26-1 (V)
+	  - Code des assurances - art. R322-139 (V)
+	  - Code des assurances - art. R322-42 (V)
+	  - Code des assurances - art. R322-93 (V)
+
+	**Cite**:
+
+	  - Code rural L771-1
+
+
+###### Article L322-26-5
+
+En cas de dissolution non motivée par un retrait d'agrément d'une société d'assurance mutuelle, l'excédent de l'actif net sur
+le passif est dévolu, par décision de l'assemblée générale, soit à d'autres sociétés d'assurance mutuelles, soit à des
+associations reconnues d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des assurances l322-26-1
+	  - Code des assurances - art. L322-26-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 8 *modalités d'application des privatisations*
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 59 *champ d'application territorial*, art. 60 *date d'effet*
+	  - SPEC_APPLI: Code des assurances - art. L322-26-2 (M)
+
+	**Transféré par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 26 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 54 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Loi n°97-277 du 25 mars 1997 - art. 11 (Ab)
 
 
 ##### Section VI : Sociétés ou caisses d'assurances et de réassurances mutuelles agricoles
@@ -8552,118 +8505,10 @@ de rachat ou le versement d'avances sur contrats.
 
 ###### Article L323-2
 
-Les dispositions de la présente section sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et- Miquelon, des Terres australes et antarctiques françaises et de Wallis et Futuna.
+Les dispositions de la présente section sont applicables dans les territoires d'outre-mer et dans la collectivité
+territoriale de Mayotte.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-
-#### Chapitre III : Mesures de sauvegarde et d'assainissement
-
-##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.
-
-###### Article L323-3
-
-Lorsque dans une entreprise un déséquilibre est constaté dans le résultat des opérations mentionnées à l'article L. 211-1, ou
-lorsque cette entreprise se trouve dans une situation de nature à entraîner à son encontre l'ouverture de la procédure de
-retrait de l'agrément administratif, le ministre de l'économie et des finances fait procéder à un examen de la situation de
-l'entreprise concernée, par une commission composée de représentants de l'administration et de représentants de la profession
-désignés par lui, l'entreprise ayant été préalablement mise en demeure de présenter ses observations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°58-208 1958-02-27 art. 12-1
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_SOURCE: Code des assurances - art. R323-10 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. A323-1 (Ab)
-	  - Code des assurances - art. L323-4 (Ab)
-	  - Code des assurances - art. L326-16 (Ab)
-	  - Code des assurances - art. R*323-10 (Ab)
-	  - Code des assurances - art. R*323-16 (Ab)
-	  - Code des assurances - art. R*325-16 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-1 (M)
-
-
-###### Article L323-4
-
-Lorsque l'examen effectué par la commission mentionnée à l'article L. 323-3 révèle que la situation de l'entreprise résulte,
-totalement ou partiellement, de l'inadaptation des tarifs pratiqués aux risques assurés, le ministre de l'économie et des
-finances peut, par arrêté, enjoindre à l'entreprise de procéder à un relèvement de la tarification appliquée à la garantie
-des dommages mentionnés à l'article L. 211-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°58-208 1958-02-27 art. 12-1
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances L328-12 *sanctions pénales*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-1 (M)
-	  - Code des assurances - art. L323-3 (Ab)
-
-	**Cité par**:
-
-	  - Code des assurances - art. L323-5 (Ab)
-	  - Code des assurances - art. L328-12 (Ab)
-	  - Code des assurances - art. R*323-10 (Ab)
-	  - Code des assurances - art. R*323-16 (Ab)
-
-
-###### Article L323-5
-
-Le relèvement de la tarification prévu à l'article L. 323-4 est applicable aux contrats souscrits à partir de la date de
-l'arrêté mentionné au même article L. 323-4 et, en ce qui concerne les contrats en cours à cette date, à la portion de prime
-ou cotisation restant à courir entre cette date et la prochaine échéance de prime ou cotisation. Le relèvement de
-tarification peut être fixé à des taux différents suivant la catégorie des véhicules assurés, sans pouvoir excéder la prime
-ou cotisation résultant du tarif homologué par le ministre de l'économie et des finances conformément aux dispositions des
-articles L. 310-5 et L. 310-7.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°58-208 1958-02-27 art. 12-2
 
 	**Codifié par**:
 
@@ -8673,100 +8518,9 @@ articles L. 310-5 et L. 310-7.
 
 	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-5 (M)
-	  - Code des assurances - art. L310-7 (M)
-	  - Code des assurances - art. L323-4 (Ab)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*323-16 (Ab)
-
-
-###### Article L323-6
-
-Le ministre de l'économie et des finances peut également inviter l'entreprise à procéder, après avis favorable des
-représentants qualifiés des assurés, à un recouvrement de rappels de prime ou cotisation dans la limite du tarif homologué
-par lui conformément aux dispositions des articles L. 310-5 et L. 310-7. Toutefois, le total des rappels de prime ou
-cotisation ne peut dépasser le montant d'une annuité de prime, telle qu'elle résulte du tarif homologué pour la garantie des
-dommages mentionnés à l'article L. 211-1.
-
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles doivent être désignés les représentants des assurés appelés à
-donner un avis sur les rappels de prime ou de cotisation précités.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°58-208 1958-02-27 art. 12-1
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_SOURCE: Code des assurances - art. R*323-13 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-1 (M)
-	  - Code des assurances - art. L310-5 (M)
-	  - Code des assurances - art. L310-7 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. L324-5 (Ab)
-	  - Code des assurances - art. L325-1 (M)
-	  - Code des assurances - art. R*323-10 (Ab)
-	  - Code des assurances - art. R*323-12 (Ab)
-	  - Code des assurances - art. R*323-16 (Ab)
-	  - Code des assurances - art. R*420-48 (T)
-	  - Code des assurances - art. R*421-48 (Ab)
-
-
-###### Article L323-7
-
-Sont applicables à la Nouvelle-Calédonie, à la Polynésie française et à Saint-Pierre-et-Miquelon les dispositions des
-articles L. 323-3 à L. 323-6.
-
-Les dispositions précitées entrent en vigueur, dans le territoire de Wallis et Futuna, le premier jour du trimestre civil
-suivant la publication de l'arrêté rendant exécutoire la délibération édictant une obligation d'assurance de la
-responsabilité civile en matière de circulation automobile.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-948 du 22 décembre 1966 - art. 38, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances L323-3 à L323-6
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 
 #### Chapitre IV : Transfert de portefeuille
@@ -8782,10 +8536,13 @@ plusieurs entreprises agréées.
 La demande de transfert est portée à la connaissance des créanciers par un avis publié au Journal officiel, qui leur impartit
 un délai de trois mois au moins pour présenter leurs observations.
 
-L'autorité administrative approuve le transfert par arrêté, si elle juge que ce transfert est conforme aux intérêts des
-assurés et créanciers français. Cette approbation rend le transfert opposable aux assurés, souscripteurs et bénéficiaires de
-contrats et aux créanciers, et écarte l'application du droit de surenchère prévu par l'article 5 de la loi du 17 mars 1909,
-relative à la vente et au nantissement des fonds de commerce.
+Les assurés disposent d'un délai d'un mois à compter de la publication de cet avis au Journal officiel pour résilier leur
+contrat. Sous cette réserve, l'autorité administrative approuve le transfert par arrêté s'il lui apparaît que le transfert
+est conforme aux intérêts des créanciers et des assurés. Pour les transferts concernant les entreprises d'assurance vie ou de
+capitalisation, cette approbation est, en outre, fondée sur les données de l'état prévu à l'article L. 344-1. Cette
+approbation rend le transfert opposable aux assurés, souscripteurs et bénéficiaires de contrats et aux créanciers, et écarte
+l'application du droit de surenchère prévu par l'article 5 de la loi du 17 mars 1909, relative à la vente et au nantissement
+des fonds de commerce.
 
 **Liens relatifs à cet article**
 
@@ -8841,18 +8598,21 @@ relative à la vente et au nantissement des fonds de commerce.
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 59 *champ d'application territorial*
 	  - TXT_SOURCE: Arrêté du 30 décembre 1994
 	  - TXT_SOURCE: Arrêté du 30 décembre 1994 - art. 1 (V)
 	  - TXT_SOURCE: Code des assurances - art. R*324-1 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 25 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 57 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L344-1 (V)
 	  - Loi n°1909-03-17 art. 5
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 11
 
 
 ###### Article L324-2
@@ -8887,11 +8647,14 @@ ladite loi ne sont pas applicables.
 Lorsque les opérations de fusion ou de scission ne comportent pas de transfert de portefeuille de contrats réalisé dans les
 conditions prévues à l'article L. 324-1, les entreprises qui sont régies par le présent livre sont tenues de produire au
 ministre de l'économie et des finances une déclaration accompagnée de tous documents utiles exposant les buts et les
-modalités de l'opération projetée un mois avant sa réalisation définitive. Durant ce délai, le ministre peut s'opposer à
-l'opération s'il juge qu'elle n'est pas conforme aux intérêts des assurés et des créanciers ou demander les documents
-complémentaires nécessaires à l'appréciation de l'opération ; dans ce dernier cas, le délai d'un mois pendant lequel le
-ministre peut s'opposer à la poursuite de l'opération court de la date de production des documents demandés et la réalisation
-définitive de l'opération ne peut intervenir avant l'expiration du même délai.
+modalités de l'opération projetée un mois avant sa réalisation définitive.
+
+Durant ce délai, le ministre peut s'opposer à l'opération s'il juge qu'elle n'est pas conforme à l'intérêt des assurés ou des
+créanciers ou qu'elle a pour conséquence de diminuer la valeur de réalisation des placements correspondant à des engagements
+pris envers les assurés, déterminée conformément aux dispositions de l'article L. 344-1 ; il peut également demander les
+documents complémentaires nécessaires à l'appréciation de l'opération ; dans ce dernier cas, le délai d'un mois pendant
+lequel le ministre peut s'opposer à la poursuite de l'opération court de la date de production des documents demandés et la
+réalisation définitive de l'opération ne peut intervenir avant l'expiration du même délai.
 
 Les entreprises constituées sous la forme de société anonyme restent, en outre, assujetties, pour les opérations de fusion ou
 de scission ne comportant pas de transfert de portefeuille de contrats, à l'ensemble des dispositions de la loi du 24 juillet
@@ -8903,52 +8666,27 @@ de scission ne comportant pas de transfert de portefeuille de contrats, à l'ens
 
 	  - Loi n°66-537 1966-07-24
 	  - Code des assurances - art. L324-1 (M)
+	  - Code des assurances - art. L344-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Décret n°1938-06-14 art. 12 bis
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 59 *champ d'application territorial*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 25 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 
 ###### Article L324-4
 
-Les dispositions de la présente section sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et de Wallis et Futuna.
+Les dispositions de la présente section sont applicables dans les territoires d'outre-mer et dans la collectivité
+territoriale de Mayotte.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-
-##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur
-
-##### Transfert d'office.
-
-###### Article L324-5
-
-Le ministre de l'économie et des finances peut, faute d'un transfert amiable approuvé conformément aux dispositions de
-l'article L. 324-1, imposer à l'entreprise en cause, qui a décidé les rappels de prime ou de cotisation prévus à l'article L.
-323-6, le transfert d'office, à une autre entreprise agréée et avec l'accord de cette dernière, de la totalité de son
-portefeuille de contrats d'assurance.
-
-Ce transfert est prononcé par arrêté du ministre de l'économie et des finances qui rend le transfert opposable aux assurés,
-souscripteurs, bénéficiaires de contrats, ainsi qu'aux créanciers, et écarte l'application du droit de surenchère prévu à
-l'article 5 de la loi du 17 mars 1909 relative à la vente et au nantissement des fonds de commerce.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°58-208 1958-02-27 art. 12-1, art. 12-3
 
 	**Codifié par**:
 
@@ -8958,94 +8696,80 @@ l'article 5 de la loi du 17 mars 1909 relative à la vente et au nantissement de
 
 	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+
+##### Section III : Règles relatives à l'affectation comptable des actifs transférés avec un portefeuille de contrats.
+
+###### Article L324-7
+
+Les actifs transférés avec un portefeuille de contrats par une entreprise d'assurance vie ou de capitalisation sont affectés
+à une section comptable distincte du bilan de l'entreprise cessionnaire des contrats.
+
+Pour le calcul de la participation aux bénéfices afférents à ces actifs prévue aux articles L. 132-29 et L. 150-3, il n'est
+pas tenu compte de l'importance respective des fonds propres et des engagements pris envers les assurés figurant au bilan de
+l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art 59 *champ d'application territorial*, art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 25 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1065 (M)
-	  - Code des assurances - art. L324-6 (Ab)
-	  - Code des assurances - art. L326-16 (Ab)
-	  - Code des assurances - art. R*321-19 (M)
-	  - Code des assurances - art. R*323-10 (Ab)
-	  - Code des assurances - art. R*324-7 (Ab)
-	  - Code des assurances - art. R*420-48 (T)
-	  - Code des assurances - art. R*421-48 (Ab)
-	  - Code des assurances - art. R324-5 (V)
+	  - Décret n°2017-293 du 6 mars 2017 - art. 2
+	  - Code des assurances - art. A132-14 (V)
+	  - Code des assurances - art. A331-2 (V)
+	  - Code des assurances - art. A331-7 (M)
+	  - Code des assurances - art. R344-1 (VD)
+	  - Code monétaire et financier - art. R612-31-2 (V)
 
 	**Cite**:
 
-	  - Code des assurances - art. L323-6 (Ab)
-	  - Code des assurances - art. L324-1 (M)
-	  - Loi n°1909-03-17 art. 5
-
-
-###### Article L324-6
-
-Sont applicables à la Nouvelle-Calédonie, à la Polynésie française et à Saint-Pierre-et-Miquelon les dispositions de
-l'article L. 324-5.
-
-Les dispositions précitées entrent en vigueur, dans le territoire de Wallis et Futuna, le premier jour du trimestre civil
-suivant la publication de l'arrêté rendant exécutoire la délibération édictant une obligation d'assurance de la
-responsabilité civile en matière de circulation automobile.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-948 du 22 décembre 1966 - art. 38, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L324-5 (Ab)
+	  - Code des assurances - art. L132-29 (M)
+	  - Code des assurances - art. L150-3 (M)
 
 
 #### Chapitre V : Retrait de l'agrément administratif
 
-##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.
+##### Section I : Règles générales.
 
 ###### Article L325-1
 
-Lorsque la procédure de retrait de l'agrément administratif est engagée à l'encontre d'une entreprise qui pratique les
-opérations mentionnées à l'article L. 211-1, et s'il apparaît que la situation de cette entreprise résulte totalement ou
-partiellement de l'inadaptation des tarifs pratiqués aux risques assurés, l'arrêté de retrait d'agrément prescrit au
-liquidateur, sur avis conforme du conseil national des assurances, le recouvrement d'un rappel de prime ou de cotisation d'un
-montant approprié auprès des souscripteurs de contrats comportant la garantie des dommages mentionnés à l'article L. 211-1
-lorsque ces souscripteurs ont été garantis par l'entreprise en cause pendant au moins un an. Ce rappel ne peut excéder, pour
-les assurés dont la garantie a été en vigueur pendant deux années au plus, le montant de la dernière prime ou cotisation
-nouvelle échue correspondant à l'assurance des dommages ainsi mentionnés et, pour les assurés dont la garantie a été en
-vigueur pendant au moins un an, 50 % de ce montant. Le produit du rappel de prime ou de cotisation est intégralement affecté
-à l'indemnisation de dommages mentionnés à l'article L. 211-1.
-
-Les personnes physiques ou morales par l'intermédiaire desquelles des contrats comportant la garantie de risques prévus à
-l'article L. 211-1 ont été souscrits auprès d'une entreprise d'assurance, ne peuvent percevoir aucune commission ou
-rémunération quelconque sur le montant des rappels de prime ou de cotisation recouvrés en application de l'article L. 323-6
-et du présent article.
+Sans préjudice des dispositions de l'article L. 310-18, l'agrément administratif prévu à l'article L. 321-1 peut être retiré
+par le ministre chargé de l'économie et des finances, sur avis conforme de la commission des entreprises d'assurance
+mentionnée à l'article L. 411-4 en cas d'absence prolongée d'activité, de rupture de l'équilibre entre les moyens financiers
+de l'entreprise et son activité ou, si l'intérêt général l'exige, de modification substantielle de la composition du capital
+social ou des organes de direction.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°58-208 1958-02-27 art. 12-1
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Code des assurances - art. L325-2 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*325-15 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*325-16 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*325-18 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 23 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -9076,17 +8800,11 @@ et du présent article.
 
 	**Cite**:
 
-	  - Code des assurances - art. L211-1 (M)
-	  - Code des assurances - art. L323-6 (Ab)
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L321-1 (M)
 
-	**Liens**:
 
-	  - SPEC_APPLI: Code des assurances - art. L325-2 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*325-15 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*325-16 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*325-18 (Ab)
-	  - SPEC_APPLI: Code des assurances L325-1 *Wallis et Futuna*, L325-2
-
+##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.
 
 ###### Article L325-2
 
@@ -9130,13 +8848,13 @@ Les modalités d'application du présent article sont fixées par décret en Con
 ###### Article L326-1
 
 Le redressement judiciaire institué par la loi n° 85-98 du 25 janvier 1985 précitée ne peut être ouvert à l'égard d'une
-entreprise soumise aux dispositions du présent livre qu'à la requête du ministre de l'économie et des finances ; le tribunal
-peut également se saisir d'office ou être saisi par le procureur de la République d'une demande d'ouverture de cette
-procédure après avis conforme du ministre de l'économie et des finances.
+entreprise soumise aux dispositions du présent livre qu'à la requête de la commission de contrôle des assurances ; le
+tribunal peut également se saisir d'office ou être saisi par le procureur de la République d'une demande d'ouverture de cette
+procédure après avis conforme de la commission de contrôle des assurances.
 
 Le président du tribunal ne peut être saisi d'une demande d'ouverture du règlement amiable institué par la loi n° 84-148 du
 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises à l'égard d'une entreprise
-susmentionnée, qu'après avis conforme du ministre de l'économie et des finances.
+susmentionnée, qu'après avis conforme de la commission de contrôle des assurances.
 
 **Liens relatifs à cet article**
 
@@ -9151,11 +8869,12 @@ susmentionnée, qu'après avis conforme du ministre de l'économie et des financ
 
 	**Modifié par**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 221 () JORF 26 janvier 1985 en vigueur le 1er janvier 1986
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 33 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Nouveaux textes**:
 
 	  - Code des assurances - art. L310-25 (M)
+	  - Code des assurances L310-25 (1ère version)
 
 
 ###### Article L326-2
@@ -9354,8 +9073,9 @@ du travail sont applicables.
 ###### Article L326-8
 
 Nonobstant l'existence de toute autre créance, les créances que garantit le privilège établi à l'article L. 326-7 doivent
-être payées par le liquidateur, sur simple ordonnance du juge-commissaire, dans les dix jours de l'arrêté prononçant le
-retrait total d'agrément si le liquidateur a en main les fonds nécessaires.
+être payées par le liquidateur, sur simple ordonnance du juge-commissaire, dans les dix jours de la décision du ministre de
+l'économie et des finances ou de la commission de contrôle des assurances prononçant le retrait total d'agrément si le
+liquidateur a en main les fonds nécessaires.
 
 Toutefois, avant tout établissement du montant de ces créances, le liquidateur doit, avec l'autorisation du juge-commissaire
 et dans la mesure des fonds disponibles, verser immédiatement aux salariés, à titre provisionnel, une somme égale à un mois
@@ -9375,14 +9095,22 @@ opposition.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 33 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 6 XXIX JORF 22 avril 2001
+
 	**Cite**:
 
 	  - Code du travail - art. L143-10 (M)
 	  - Code des assurances - art. L326-7 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 22 ter
 
 
 ###### Article L326-9
@@ -9485,13 +9213,15 @@ prévues par la loi n° 85-98 du 25 janvier 1985 précitée.
 
 ###### Article L326-12
 
-En cas de retrait de l'agrément administratif accordé à une entreprise mentionnée au 5° de l'article L. 310-1, tous les
-contrats souscrits par elle cessent de plein droit d'avoir effet le quarantième jour à midi, à compter de la publication au
-Journal officiel de l'arrêté prononçant ce retrait. Les primes ou cotisations échues avant la date de l'arrêté portant
-retrait d'agrément, et non payées à cette date, sont dues en totalité à l'entreprise, mais elles ne sont définitivement
-acquises à celle-ci que proportionnellement à la période garantie jusqu'au jour de la résiliation. Les primes ou cotisations
-venant à échéance entre la date de l'arrêté portant retrait d'agrément et la date de résiliation de plein droit des contrats
-ne sont dues que proportionnellement à la période garantie.
+En cas de retrait de l'agrément administratif accordé à une entreprise mentionnée au 5° et au 7° de l'article L. 310-1, tous
+les contrats souscrits par elle cessent de plein droit d'avoir effet le quarantième jour à midi, à compter de la publication
+au Journal officiel de la décision du ministre de l'économie et des finances ou de la commission de contrôle des assurances
+prononçant le retrait. Les primes ou cotisations échues avant la date de la décision du ministre de l'économie et des
+finances ou de la commission de contrôle des assurances prononçant le retrait d'agrément, et non payées à cette date, sont
+dues en totalité à l'entreprise, mais elles ne sont définitivement acquises à celle-ci que proportionnellement à la période
+garantie jusqu'au jour de la résiliation. Les primes ou cotisations venant à échéance entre la date de la décision du
+ministre de l'économie et des finances ou de la commission de contrôle des assurances prononçant le retrait d'agrément et la
+date de résiliation de plein droit des contrats ne sont dues que proportionnellement à la période garantie.
 
 Toutefois, en ce qui concerne les contrats d'assurance maritime, un décret fixe les conditions dans lesquelles il peut être
 dérogé aux dispositions prévues au précédent alinéa.
@@ -9501,6 +9231,11 @@ dérogé aux dispositions prévues au précédent alinéa.
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 33 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 36 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -9518,31 +9253,43 @@ dérogé aux dispositions prévues au précédent alinéa.
 
 	  - TXT_SOURCE: Code des assurances - art. R*326-2 (V)
 
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 26
-
 
 ###### Article L326-13
 
-Après la publication au Journal officiel de l'arrêté prononçant le retrait de l'agrément administratif accordé à une
-entreprise mentionnée aux 1°, 2°, 3°, 4° ou 6° de l'article L. 310-1, les contrats souscrits par l'entreprise demeurent régis
-par leurs conditions générales et particulières tant que l'arrêté du ministre de l'économie et des finances prévu à l'alinéa
-suivant n'a pas été publié au Journal officiel, mais le liquidateur peut, avec l'approbation du juge-commissaire, surseoir au
-paiement des sinistres, des échéances et des valeurs de rachat. Les primes encaissées par le liquidateur sont versées à un
-compte spécial qui fait l'objet d'une liquidation distincte.
+Après la publication au Journal officiel de la décision du ministre de l'économie et des finances ou de la commission de
+contrôle des assurances prononçant le retrait de l'agrément administratif accordé à une entreprise mentionnée aux 1°, 2°, 3°,
+4° ou 6° de l'article L. 310-1, les contrats souscrits par l'entreprise demeurent régis par leurs conditions générales et
+particulières tant que l'arrêté du ministre de l'économie et des finances prévu à l'alinéa suivant n'a pas été publié au
+Journal officiel, mais le liquidateur peut, avec l'approbation du juge-commissaire, surseoir au paiement des sinistres, des
+échéances et des valeurs de rachat. Les primes encaissées par le liquidateur sont versées à un compte spécial qui fait
+l'objet d'une liquidation distincte.
 
-Le ministre de l'économie et des finances, à la demande du liquidateur et sur le support du juge-commissaire, peut, par
-arrêté, soit fixer la date à laquelle les contrats cessent d'avoir effet, soit autoriser leur transfert, en tout ou en
-partie, à une ou plusieurs entreprises, proroger leur échéance, décider la réduction des sommes payables en cas de vie ou de
-décès ainsi que des bénéfices attribués et des valeurs de rachat, de manière à ramener la valeur des engagements de
-l'entreprise au montant que la situation de la liquidation permet de couvrir.
+La commission de contrôle des assurances, à la demande du liquidateur et sur le rapport du juge-commissaire, peut proposer au
+ministre chargé de l'économie et des finances de fixer par arrêté la date à laquelle les contrats cessent d'avoir effet,
+d'autoriser leur transfert en tout ou partie à une ou plusieurs entreprises, de proroger leur échéance, de décider la
+réduction des sommes payables en cas de vie ou de décès ainsi que des bénéfices attribués et des valeurs de rachat, de
+manière à ramener la valeur des engagements de l'entreprise au montant que la situation de la liquidation permet de couvrir.
 
 Les dispositions des articles L. 326-4, L. 326-5 et L. 326-9 ne sont pas applicables tant qu'un arrêté du ministre de
 l'économie et des finances n'a pas fixé la date à laquelle les contrats cessent d'avoir effet, et le délai de dix jours,
 prévu au premier alinéa de l'article L. 326-4, ne court qu'à compter de la publication de cet arrêté au Journal officiel.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Code des assurances - art. L326-4 (M)
+	  - SPEC_APPLI: Code des assurances - art. L326-5 (Ab)
+	  - SPEC_APPLI: Code des assurances - art. L326-9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 33 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -9558,26 +9305,12 @@ prévu au premier alinéa de l'article L. 326-4, ne court qu'à compter de la pu
 	  - Code des assurances - art. L326-5 (Ab)
 	  - Code des assurances - art. L326-9 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. L326-4 (M)
-	  - SPEC_APPLI: Code des assurances - art. L326-5 (Ab)
-	  - SPEC_APPLI: Code des assurances - art. L326-9 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
 
 ###### Article L326-14
 
-A la requête du ministre de l'économie et des finances, le tribunal peut prononcer la nullité d'une ou plusieurs opérations
+A la requête de la commission de contrôle des assurances, le tribunal peut prononcer la nullité d'une ou plusieurs opérations
 réalisées par les dirigeants d'une entreprise pourvue d'un liquidateur à la suite du retrait de l'agrément administratif, à
-charge pour le ministre de l'économie et des finances, d'apporter la preuve que les personnes qui ont contracté avec
+charge pour la commission de contrôle des assurances, d'apporter la preuve que les personnes qui ont contracté avec
 l'entreprise savaient que l'actif était insuffisant pour garantir les créances privilégiées des assurés et que l'opération
 incriminée devait avoir pour effet de diminuer cette garantie.
 
@@ -9587,110 +9320,41 @@ incriminée devait avoir pour effet de diminuer cette garantie.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 33 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
 	**Cité par**:
 
 	  - Code des assurances - art. L310-25 (VD)
 	  - Code des assurances - art. R*322-128 (M)
 
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 28
-
 
 ###### Article L326-15
 
-Les dispositions de la présente section sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis et Futuna.
+Les dispositions de la présente section sont applicables dans les territoires d'outre-mer et dans la collectivité
+territoriale de Mayotte.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 14
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-
-##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.
-
-###### Article L326-16
-
-Le transfert d'office mentionné à l'article L. 324-5 entraîne la cession à l'entreprise cessionnaire de tous les éléments
-d'actif de l'entreprise cédante et la prise en charge par l'entreprise cessionnaire de tous les éléments de passif de
-l'entreprise cédante, à l'exception du capital social ou du fonds d'établissement et des réserves n'ayant pas le caractère de
-provision.
-
-L'entreprise cédante est dissoute par l'effet du transfert d'office. La liquidation de son actif et des éléments de son
-passif transférés est effectuée par l'entreprise cessionnaire sous le contrôle du ministre de l'économie et des finances.
-
-Si, à la clôture de la liquidation, l'actif de l'entreprise cédante se révèle supérieur au passif transféré, l'excédent fait
-l'objet d'une répartition entre les anciens actionnaires ou associés.
-
-Les membres du conseil d'administration de l'entreprise transférée n'acquièrent, du fait du transfert d'office, aucun droit
-dans la gestion de l'entreprise absorbante, ni aucun droit à indemnité.
-
-Les possibilités de reclassement du personnel de l'entreprise transférée dans l'entreprise absorbante font l'objet d'une
-convention entre les deux entreprises. A défaut d'accord entre les entreprises, les propositions de l'entreprise absorbante
-concernant ces possibilités de reclassement sont soumises à l'approbation du ministre de l'économie et des finances.
-
-Le transfert d'office met fin aux traités et conventions fixant les commissions et rétributions des personnes ayant apporté
-ou géré des contrats d'assurance transférés.
-
-Dans le cas de transfert d'office, le ministre de l'économie et des finances peut, après avis de la commission mentionnée à
-l'article L. 323-3, imposer au fonds de garantie institué par l'article L. 421-1 le versement à l'entreprise cessionnaire
-d'une somme dont il détermine le montant, et destinée à compléter les ressources affectées à l'indemnisation des dommages
-mentionnés à l'article L. 211-1.
-
-Comme il résulte de l'article 1065 du Code général des impôts, sont dispensés de tous droits d'enregistrement et de taxe de
-publicité foncière les transferts des portefeuilles de contrats et des provisions mobilières ou immobilières afférentes à ces
-contrats, lorsqu'ils sont fait en vertu des dispositions du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1065
-	  - Code des assurances - art. L211-1 (M)
-	  - Code des assurances - art. L323-3 (Ab)
-	  - Code des assurances - art. L324-5 (Ab)
-	  - Code des assurances - art. L421-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - SPEC_APPLI: Code des assurances - art. L326-19 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L420-1 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L420-2 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L420-3 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L420-4 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L420-5 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L420-7 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L421-1 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L421-2 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L421-3 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L421-4 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L421-5 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L421-7 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
-	**Cité par**:
 
-	  - Code des assurances - art. R*420-49 (T)
-	  - Code des assurances - art. R*421-49 (Ab)
-
+##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.
 
 ###### Article L326-17
 
@@ -9788,7 +9452,7 @@ celle-ci l'exclusivité de leurs apports de contrats.
 ###### Article L326-19
 
 Sont applicables à la Nouvelle-Calédonie, à la Polynésie française et à Saint-Pierre-et-Miquelon les dispositions des
-articles L. 326-16 à L. 326-18.
+articles L. 326-17 à L. 326-18.
 
 Les dispositions précitées entrent en vigueur, dans le territoire de Wallis et Futuna, le premier jour du trimestre civil
 suivant la publication de l'arrêté rendant exécutoire la délibération édictant une obligation d'assurance de la
@@ -9798,23 +9462,24 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°66-948 du 22 décembre 1966 - art. 38, v. init.
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 	  - SPEC_APPLI: Code des assurances - art. L326-16 (Ab)
 	  - SPEC_APPLI: Code des assurances - art. L326-17 (Ab)
 	  - SPEC_APPLI: Code des assurances - art. L326-18 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 48 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
 	**Cite**:
 
-	  - Code des assurances L326-16 à L326-18
+	  - Code des assurances L326-17 à L326-18
 
 
 #### Chapitre VII : Privilèges.
@@ -9985,18 +9650,22 @@ contrats exécutés sur le territoire de la République française.
 
 ###### Article L327-6
 
-Les dispositions du présent chapitre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis et Futuna.
+Les dispositions du présent chapitre sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale
+de Mayotte.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 14
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 
 #### Chapitre VIII : Sanctions.
@@ -10297,8 +9966,8 @@ tous autres faits faux, auront obtenu ou tenté d'obtenir des souscriptions de c
 3° Pour provoquer des souscriptions de contrats, auront publié les noms de personnes désignées contrairement à la vérité
 comme étant ou devant être attachées à l'entreprise à un titre quelconque ;
 
-4° Auront procédé à toutes autres déclarations ou dissimulations frauduleuses dans tous documents produits au ministre de
-l'économie et des finances ou portés à la connaissance du public.
+4° Auront procédé à toutes autres déclarations ou dissimulations frauduleuses dans tous documents produits au ministre chargé
+de l'économie et des finances ainsi qu'à la commission de contrôle des assurances ou portés à la connaissance du public.
 
 **Liens relatifs à cet article**
 
@@ -10313,15 +9982,20 @@ l'économie et des finances ou portés à la connaissance du public.
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 	  - TXT_ASSOCIE: Code des assurances - art. L310-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 58 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
 	  - Code des assurances - art. R342-20 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 39
 
 
 ###### Article L328-11
@@ -10369,65 +10043,6 @@ représentants légaux.
 	  - TXT_ASSOCIE: Code des assurances - art. L310-1 (M)
 
 
-###### Article L328-12
-
-Le président, les administrateurs, les directeurs généraux, les directeurs généraux adjoints, les directeurs, les membres du
-conseil de surveillance et du directoire, les gérants et tout dirigeant de fait d'une entreprise française d'assurance
-pratiquant les opérations d'assurance contre les risques mentionnés à l'article L. 211-1 et, dans le cas d'une entreprise
-étrangère, le mandataire général ou son représentant légal, sont passibles d'un emprisonnement de deux à six mois et d'une
-amende de 2.000 à 40.000 F ou de l'une de ces deux peines seulement, en cas d'inexécution du relèvement de tarification prévu
-à l'article L. 323-4 [*sanctions*].
-
-L'amende ainsi prononcée sera affectée d'une majoration de 50 % au profit du fonds de garantie.
-
-Les personnes mentionnées à l'alinéa précédent sont passibles de la déchéance du droit d'administrer, gérer ou diriger toute
-société et de l'interdiction de présenter des opérations d'assurance, de réassurance et de capitalisation, si les fautes
-lourdes, notamment celles prévues aux articles L. 328-3 et L. 328-4 sont relevées à leur charge. L'application de ces
-sanctions peut être requise par l'autorité administrative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°58-208 1958-02-27 art. 12-6
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - SPEC_APPLI: Code des assurances - art. L328-17 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L420-1 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L420-2 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L420-3 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L420-4 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L420-5 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L420-7 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. L421-1 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L421-2 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L421-3 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L421-4 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L421-5 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L421-7 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-1 (M)
-	  - Code des assurances - art. L323-4 (Ab)
-	  - Code des assurances - art. L328-3 (M)
-	  - Code des assurances - art. L328-4 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. L328-17 (Ab)
-
-
 ###### Article L328-13
 
 En cas de liquidation effectuée dans les conditions prévues à l'article L. 326-2, les dispositions suivantes sont
@@ -10468,33 +10083,31 @@ interdictions dans les conditions prévues par l'article L. 625-10 du même code
 
 ###### Article L328-14
 
-Les infractions aux dispositions de l'article L. 310-5 [*sanctions*] seront punies d'une amende de 3.000 à 30.000 F.
-
-Toute autre infraction aux dispositions des articles L. 310-4, L. 310-7 et L. 310-9 sera punie d'une amende de 300 à 3.000 F.
+Toute infraction aux dispositions des articles L. 310-7, et L. 310-9 sera punie d'une amende de 300 à 15.000 F [*sanctions*].
 En ce qui concerne les infractions aux dispositions de l'article L. 310-7, l'amende sera prononcée pour chacune des
-infractions constatées sans que le total des amendes encourues puisse excéder 30.000 F.
+infractions constatées sans que le total des amendes encourues puisse excéder 40.000 F.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 12
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Cite**:
-
-	  - Code des assurances - art. L310-4 (Ab)
-	  - Code des assurances - art. L310-5 (M)
-	  - Code des assurances - art. L310-7 (M)
-	  - Code des assurances - art. L310-9 (M)
-
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 	  - TXT_ASSOCIE: Code des assurances - art. L310-5 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. L310-9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 48 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 49 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-7 (M)
+	  - Code des assurances - art. L310-9 (M)
 
 
 ###### Article L328-15
@@ -10528,21 +10141,52 @@ d'emprisonnement de deux mois à deux ans et d'une amende de 2.000 à 40.000 F o
 	  - Décret n°1938-06-14 art. 40
 
 
-###### Article L328-16
+###### Article L328-15-1
 
-Sous réserve des dispositions de l'article L. 328-17, le présent chapitre est applicable dans les territoires de la Nouvelle-
-Calédonie, de la Polynésie française, de Saint-Pierre-et-Miquelon, les Terres australes et antarctiques françaises et de
-Wallis et Futuna.
+Tout obstacle mis à l'exercice des missions de la commission de contrôle des assurances ou des commissaires-contrôleurs des
+assurances est passible d'un emprisonnement de quinze jours à deux ans et d'une amende de 15 000 F à 2 000 000 F ou de l'une
+de ces deux peines seulement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 14
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 32 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L310-8 (M)
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L323-1 (M)
+
+
+###### Article L328-16
+
+Sous réserve des dispositions de l'article L. 328-17, le présent chapitre est applicable dans les territoires d'outre-mer et
+dans la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cite**:
 
@@ -10551,7 +10195,7 @@ Wallis et Futuna.
 
 ###### Article L328-17
 
-Sont applicables à la Nouvelle-Calédonie, à la Polynésie française et à Saint-Pierre-et-Miquelon les dispositions de
+Sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte les dispositions de
 l'article L. 328-12.
 
 Les dispositions précitées entrent en vigueur, dans le territoire de Wallis et Futuna, le premier jour du trimestre civil
@@ -10562,21 +10206,26 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°66-948 du 22 décembre 1966 - art. 38, v. init.
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Code des assurances - art. L328-12 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
 	**Cite**:
 
 	  - Code des assurances - art. L328-12 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. L328-12 (Ab)
 
 	**Cité par**:
 
@@ -10617,29 +10266,125 @@ Un décret fixe, en tant que de besoin, les conditions d'application du présent
 
 ### Titre IV : Dispositions comptables et statistiques
 
-#### Chapitre Ier : Principes généraux.
+#### Chapitre IV : Catégories d'assurance et états à produire.
 
-###### Article L341-1
+###### Article L344-1
 
-Les entreprises d'assurance de toute nature, les entreprises de capitalisation ou de réassurance ainsi que les entreprises et
-organismes qui participent directement ou indirectement à toute opération de prévoyance collective ayant pour objet
-l'acquisition ou la jouissance de droits en cas de vie sont tenus de publier au Bulletin des annonces légales obligatoires le
-relevé détaillé de l'ensemble des valeurs mobilières détenues en portefeuille à la clôture de chaque exercice.
+Les entreprises pratiquant des opérations d'assurance-vie ou de capitalisation établissent, à la clôture de chaque exercice,
+un état annexé à leurs comptes retraçant la valeur comptable et la valeur de réalisation de l'ensemble des placements
+figurant à leur actif.
 
-Ce relevé doit être publié, au plus tard, dans les quatre mois suivant la clôture de chaque exercice.
+Cet état indique, en outre, la quote-part des placements correspondant à des engagements pris envers les assurés et
+bénéficiaires de contrats, telle qu'elle serait constatée en cas de transfert de portefeuille de contrats.
 
-Les titres doivent être portés sur le relevé avec l'indication de leur nature, du nom de leur émetteur, des caractéristiques
-de leur émission, de leur nombre, de leur valeur d'inventaire et, éventuellement pour les titres cotés, de leur numéro de
-code.
-
-A titre exceptionnel, des dérogations aux obligations résultant des alinéas qui précèdent peuvent être accordées par le
-ministre de l'économie et des finances, notamment en faveur des entreprises ou organismes de faible importance.
+Les règles permettant l'application des deux alinéas précédents sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°63-1293 du 21 décembre 1963 - art. 2, v. init.
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 59, art. 60
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 25 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. L324-1 (VT)
+	  - Code des assurances - art. L324-3 (V)
+	  - Code des assurances - art. R344-1 (V)
+	  - Code monétaire et financier - art. R612-31-2 (V)
+
+
+#### Chapitre V : Comptes consolidés.
+
+###### Article L345-1
+
+Lorsque des entreprises mentionnées à l'article L. 310-1 constituent un ensemble d'entreprises d'assurance, l'une d'entre
+elles au moins doit établir et publier les comptes consolidés de cet ensemble d'entreprises d'assurance.
+
+Sont considérées comme formant un ensemble d'entreprises d'assurance les entreprises d'assurance se trouvant dans l'un des
+cas suivants :
+
+1° Une entreprise d'assurance exerce sur une ou plusieurs autres entreprises d'assurance soit un contrôle exclusif ou
+conjoint, soit une influence notable, au sens de l'article 357-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+commerciales ;
+
+2° Deux ou plusieurs entreprises d'assurance ont, en vertu d'un accord entre elles, soit une direction commune, soit des
+services communs assez étendus pour engendrer un comportement commercial, technique ou financier commun ;
+
+3° Des entreprises ont entre elles des liens de réassurance importants et durables en vertu de dispositions contractuelles,
+statutaires ou réglementaires.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article et, notamment, les critères permettant de
+déterminer l'entreprise sur laquelle pèse l'obligation de consolidation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 357-1
+	  - Code des assurances - art. L310-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 59 *champ d'application territorial*, art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 24 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-3 (T)
+	  - Code des assurances - art. A310-7 (V)
+	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. L310-15 (M)
+	  - Code des assurances - art. L310-19 (M)
+	  - Code des assurances - art. L334-1 (M)
+	  - Code des assurances - art. L345-2 (M)
+	  - Code des assurances - art. R345-1 (M)
+	  - Code des assurances - art. R345-1-1 (M)
+	  - Code des assurances - art. R345-1-2 (M)
+	  - Code des assurances - art. R345-1-3 (V)
+	  - Code des assurances - art. R345-1-4 (Ab)
+	  - Code des assurances - art. R345-11 (M)
+	  - Code des assurances - art. R345-2-1 (M)
+
+
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire en assurances de dommages
+
+#### Chapitre I : Dispositions relatives à la libre prestation de services
+
+##### Section I : Dispositions générales.
+
+###### Article L351-2
+
+Sont exclues de l'application du présent titre les opérations d'assurance afférentes :
+
+- à l'assurance sur la vie et la capitalisation ;
+
+- aux accidents du travail et aux maladies professionnelles ;
+
+- à la responsabilité civile des véhicules terrestres à moteur à l'exception de la responsabilité du transporteur ;
+
+- à la responsabilité civile des exploitants d'installations nucléaires ;
+
+- à la responsabilité civile du fait des produits pharmaceutiques.
+
+Sont en outre exclus de l'application du présent chapitre les risques des travaux de bâtiment faisant l'objet d'une
+obligation d'assurance.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -10649,16 +10394,89 @@ ministre de l'économie et des finances, notamment en faveur des entreprises ou 
 
 	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
-	  - Code des assurances - art. L341-3 (VD)
-	  - Code des assurances - art. L341-4 (V)
-	  - Code des assurances - art. R336-6 (VD)
-	  - Code des assurances - art. R341-2 (VD)
+	  - Code des assurances - art. L329-1 (VD)
+	  - Code des assurances - art. L352-3 (VD)
+	  - Code des assurances - art. R351-10 (VD)
+	  - Code des assurances - art. R351-11 (VD)
+	  - Code des assurances - art. R351-12 (VD)
+	  - Code des assurances - art. R351-13 (VD)
+	  - Code des assurances - art. R351-15 (VD)
+	  - Code des assurances - art. R351-17 (VD)
+	  - Code des assurances - art. R351-2 (VD)
+	  - Code des assurances - art. R351-9 (VD)
+	  - Code des assurances - art. R352-29 (VD)
+	  - Code des assurances - art. R352-4 (VD)
+	  - Code des assurances - art. R352-8 (V)
+	  - Code des assurances - art. R352-9 (VD)
+	  - Code des assurances - art. R353-1 (V)
+	  - Code des assurances - art. R356-14 (VD)
+
+
+##### Section II : Conditions d'exercice.
+
+###### Article L351-4
+
+Sous la seule réserve d'en informer préalablement le ministre chargé de l'économie et des finances, toute entreprise
+d'assurance peut couvrir sur le territoire de la République française les grands risques en libre prestation de services. Un
+décret en Conseil d'Etat fixe les documents à produire à l'appui de cette information.
+
+Sont regardés comme grands risques :
+
+1° Ceux qui relèvent des catégories suivantes :
+
+a) Les corps de véhicules ferroviaires, aériens, maritimes, lacustres et fluviaux ainsi que la responsabilité civile
+afférente auxdits véhicules ;
+
+b) Les marchandises transportées ;
+
+c) Le crédit et la caution, lorsque le souscripteur exerce à titre professionnel une activité industrielle, commerciale ou
+libérale, à condition que le risque se rapporte à cette activité ;
+
+2° Ceux qui concernent l'incendie et les éléments naturels, les autres dommages aux biens, la responsabilité civile générale
+et les pertes pécuniaires diverses, lorsque le souscripteur exerce une activité dont l'importance dépasse certains seuils
+définis par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. L242-1 (M)
+	  - Code des assurances - art. L321-1-1 (M)
+	  - Code des assurances - art. L351-5 (VD)
+	  - Code des assurances - art. L351-6 (V)
+	  - Code des assurances - art. L352-1 (V)
+	  - Code des assurances - art. L352-3 (VD)
+	  - Code des assurances - art. L352-9 (VD)
+	  - Code des assurances - art. L530-2-1 (VT)
+	  - Code des assurances - art. R*310-6 (Ab)
+	  - Code des assurances - art. R*321-6 (M)
+	  - Code des assurances - art. R112-2 (M)
+	  - Code des assurances - art. R321-8 (VT)
+	  - Code des assurances - art. R329-4 (VD)
+	  - Code des assurances - art. R351-1 (VD)
+	  - Code des assurances - art. R351-16 (VD)
+	  - Code des assurances - art. R351-17 (VD)
+	  - Code des assurances - art. R351-2 (V)
+	  - Code des assurances - art. R351-4 (VD)
+	  - Code des assurances - art. R351-5 (Ab)
+	  - Code des assurances - art. R351-8 (VD)
+	  - Code des assurances - art. R354-3-2 (V)
+	  - Code des assurances - art. R355-7 (VD)
+	  - Code des assurances - art. R356-43 (VD)
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
@@ -10917,17 +10735,21 @@ entreprises d'assurance ainsi que par les fédérations et syndicats nationaux g
 courtiers d'assurance.
 
 Le montant de la contribution due par chaque entreprise d'assurance, en application du 1° ci-dessus, est fixé chaque année
-par arrêté du ministre de l'économie et des finances sur proposition du conseil national des assurances.
+par arrêté du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°48-1516 1948-09-26 art. 94
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cite**:
 
@@ -11041,8 +10863,7 @@ fonds de garantie.
 ###### Article L421-2
 
 Le fonds de garantie est doté de la personnalité civile. Il groupe obligatoirement toutes les sociétés ou assureurs agréés
-pour couvrir les risques de responsabilité civile résultant de l'emploi des véhicules tels qu'ils sont définis au premier
-alinéa de l'article L. 421-1.
+pour couvrir les risques de responsabilité civile résultant de l'emploi des véhicules.
 
 **Liens relatifs à cet article**
 
@@ -11050,9 +10871,16 @@ alinéa de l'article L. 421-1.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Transféré par**:
+	**Liens**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - TXT_ASSOCIE: Code des assurances - art. L326-16 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. L326-17 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. L328-12 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 48 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -11065,19 +10893,9 @@ alinéa de l'article L. 421-1.
 	  - Code des assurances - art. R421-25 (V)
 	  - Code des assurances - art. R421-27 (M)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. L326-16 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L326-17 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-12 (Ab)
-
 	**Anciens textes**:
 
 	  - Code des assurances - art. L420-2 (T)
-
-	**Cite**:
-
-	  - Code des assurances - art. L421-1 (M)
 
 
 ###### Article L421-3
@@ -11189,14 +11007,13 @@ alors à titre principal et peut user de toutes les voies de recours ouvertes pa
 
 ###### Article L421-6
 
-Un décret en Conseil d'Etat pris après avis du conseil national des assurances fixe les conditions d'application des articles
-L. 421-1 à L. 421-5 et notamment les bases et modalités juridiques de détermination des indemnités pouvant être dues par le
-fonds de garantie, les personnes exclues du bénéfice du fonds, les obligations et droits respectifs ou réciproques du fonds
-de garantie, de l'assureur, du responsable de l'accident, de la victime ou de ses ayants droit, les délais assignés pour
-l'exercice de ces droits ou la mise en jeu de ces obligations, les conditions de fonctionnement, d'intervention en justice du
-fonds de garantie, les conditions dans lesquelles il peut être exceptionnellement mis en cause, les modalités du contrôle
-exercé sur l'ensemble de la gestion du fonds par le ministre de l'économie et des finances, les taux et assiettes des
-contributions prévues à l'article L. 421-4.
+Un décret en Conseil d'Etat fixe les conditions d'application des articles L. 421-1 à L. 421-5 et notamment les bases et
+modalités juridiques de détermination des indemnités pouvant être dues par le fonds de garantie, les personnes exclues du
+bénéfice du fonds, les obligations et droits respectifs ou réciproques du fonds de garantie, de l'assureur, du responsable de
+l'accident, de la victime ou de ses ayants droit, les délais assignés pour l'exercice de ces droits ou la mise en jeu de ces
+obligations, les conditions de fonctionnement, d'intervention en justice du fonds de garantie, les conditions dans lesquelles
+il peut être exceptionnellement mis en cause, les modalités du contrôle exercé sur l'ensemble de la gestion du fonds par le
+ministre de l'économie et des finances, les taux et assiettes des contributions prévues à l'article L. 421-4.
 
 **Liens relatifs à cet article**
 
@@ -11204,9 +11021,14 @@ contributions prévues à l'article L. 421-4.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Transféré par**:
+	**Liens**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - TXT_ASSOCIE: Code des assurances R420-1 à R420-7, R420-11 à R420-24
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -11223,10 +11045,6 @@ contributions prévues à l'article L. 421-4.
 	  - Code des assurances - art. L421-2 (M)
 	  - Code des assurances - art. L421-3 (M)
 	  - Code des assurances - art. L421-5 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R420-1 à R420-7, R420-11 à R420-24
 
 
 ###### Article L421-7
@@ -11362,19 +11180,19 @@ ou souscripteurs de contrats pour le recouvrement des indemnités qu'il a versé
 il est subrogé, à concurrence du montant de ces indemnités, aux droits des victimes sur la liquidation de l'entreprise
 d'assurance ayant fait l'objet du retrait d'agrément.
 
-Le produit du rappel de prime ou de cotisation institué à l'article L. 325-1 est affecté à la couverture des dépenses
-supportées par le fonds de garantie dont la créance éventuelle sur la liquidation est égale à la différence entre les
-indemnités versées par le fonds en application de l'article L. 326-17 et le produit du rappel qui leur a été affecté.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Transféré par**:
+	**Liens**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 48 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -11394,7 +11212,6 @@ indemnités versées par le fonds en application de l'article L. 326-17 et le pr
 	**Cite**:
 
 	  - Code des assurances - art. L211-1 (M)
-	  - Code des assurances - art. L325-1 (M)
 	  - Code des assurances - art. L326-17 (M)
 
 	**Anciens textes**:
@@ -11692,9 +11509,9 @@ placé sous l'autorité du ministre chargé de l'économie et des finances.
 
 ###### Article L431-2
 
-La caisse centrale de réassurance peut, dans les conditions fixées par décret en conseil d'Etat, pris après avis du Conseil
-national des assurances et du conseil d'administration de la caisse centrale de réassurance, conclure avec toutes les
-entreprises françaises et étrangères d'assurance et de réassurance des traités de réassurance de toute nature.
+La caisse centrale de réassurance peut, dans les conditions fixées par décret en conseil d'Etat, pris après avis du conseil
+d'administration de la caisse centrale de réassurance, conclure avec toutes les entreprises françaises et étrangères
+d'assurance et de réassurance des traités de réassurance de toute nature.
 
 Elle est autorisée à passer, dans les conditions fixées par ce décret, des traités de rétrocession sur le territoire de la
 République française ainsi qu'à l'étranger.
@@ -11707,9 +11524,18 @@ Elle est, en outre, autorisée à compromettre et à transiger par dérogation �
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - TXT_SOURCE: Code des assurances - art. R*431-2 (Ab)
+
 	**Modifié par**:
 
-	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Abrogé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 11 (V) JORF 17 juillet 1992
 
 	**Cite**:
 
@@ -11719,15 +11545,10 @@ Elle est, en outre, autorisée à compromettre et à transiger par dérogation �
 
 	  - Code des assurances - art. R*431-2 (Ab)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*431-2 (Ab)
-
 
 ###### Article L431-3
 
-Un décret en Conseil d'Etat pris après avis du conseil national des assurances fixe les conditions générales de
-fonctionnement de la caisse centrale de réassurance.
+Un décret en Conseil d'Etat fixe les conditions générales de fonctionnement de la caisse centrale de réassurance.
 
 **Liens relatifs à cet article**
 
@@ -11735,9 +11556,18 @@ fonctionnement de la caisse centrale de réassurance.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - TXT_SOURCE: Code des assurances - art. R*431-38 (M)
+
 	**Modifié par**:
 
-	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Abrogé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 11 (V) JORF 17 juillet 1992
 
 	**Cité par**:
 
@@ -11752,10 +11582,6 @@ fonctionnement de la caisse centrale de réassurance.
 	  - Code des assurances - art. R431-36 (M)
 	  - Code des assurances - art. R431-38 (M)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*431-38 (M)
-
 
 ##### Section II : Opérations effectuées avec la garantie de l'Etat
 
@@ -11766,8 +11592,7 @@ fonctionnement de la caisse centrale de réassurance.
 La caisse centrale de réassurance, agissant avec la garantie de l'Etat, est habilitée à pratiquer les opérations d'assurance
 ou de réassurance des risques résultant de faits à caractère exceptionnel, tels qu'états de guerre étrangère ou civile,
 atteintes à l'ordre public, troubles populaires, conflits du travail, lorsque ces risques naissent de l'utilisation de moyens
-de transport de toute nature, ou se rapportent à des biens en cours de transport ou stockés, et à conclure des traités de
-réassurance mentionnés à l'article L. 431-8.
+de transport de toute nature, ou se rapportent à des biens en cours de transport ou stockés.
 
 **Liens relatifs à cet article**
 
@@ -11775,9 +11600,13 @@ réassurance mentionnés à l'article L. 431-8.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
 	**Modifié par**:
 
-	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 48 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -11795,10 +11624,6 @@ réassurance mentionnés à l'article L. 431-8.
 	  - Code des assurances - art. R431-16-3 (V)
 	  - Code des assurances - art. R431-27 (V)
 	  - Code des assurances - art. R431-38 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L431-8 (M)
 
 
 ###### Article L431-5
@@ -11904,36 +11729,6 @@ mentionnées aux articles L. 431-4 et L. 431-5.
 	  - Code des assurances - art. R*431-26 (Ab)
 	  - Code des assurances - art. R*431-5 (M)
 	  - Code des assurances - art. R431-27 (V)
-
-
-###### Article L431-8
-
-Les entreprises françaises et étrangères habilitées à pratiquer sur le territoire de la République française des opérations
-d'assurance contre les risques maritimes de guerre des corps de navires et des marchandises ou facultés sont tenues de
-conclure avec la caisse centrale de réassurance des traités de réassurance conformes aux contrats types approuvés par
-l'autorité administrative.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. L431-4 (M)
 
 
 ##### Paragraphe 3 : Risques de catastrophes naturelles.
@@ -12109,9 +11904,9 @@ Le fonds contribue au financement d'actions de prévention des désordres et de 
 La gestion du fonds est confiée à la caisse centrale de réassurance.
 
 Le fonds est alimenté par une contribution des assurés assise sur les primes ou cotisations d'assurance émises à compter du
-1er janvier 1986 et correspondant aux garanties d'assurance obligatoire des dommages à la construction ainsi qu'aux garanties
-d'assurance décennale souscrites par toute personne, qu'elle soit ou non liée au maître d'ouvrage par un contrat de louage
-d'ouvrage, pour couvrir sa responsabilité dans les travaux de bâtiment.
+1er janvier 1986 et correspondant aux garanties d'assurance des dommages à la construction ainsi qu'aux garanties d'assurance
+décennale souscrites par toute personne, qu'elle soit ou non liée au maître d'ouvrage par un contrat de louage d'ouvrage,
+pour couvrir sa responsabilité dans les travaux de bâtiment.
 
 Les contrats couvrant les chantiers ouverts à compter du 1er janvier 1986 et comportant des garanties autres que celles
 visées à l'alinéa précédent doivent distinguer la partie de la prime ou cotisation afférente à ces dernières garanties.
@@ -12166,9 +11961,13 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 	  - Code des assurances - art. R431-53 (V)
 	  - Code des assurances - art. R431-59 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60
+
 	**Modifié par**:
 
-	  - Loi n°89-936 1989-12-29 art. 42 finances rectificative pour 1989 JORF 30 décembre 1989
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 47 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 
 #### Chapitre II : La Compagnie française d'assurance pour le commerce extérieur "COFACE"
@@ -13210,32 +13009,31 @@ en conformité avec les dispositions de la présente loi.
 
 ###### Article L511-2
 
-Ne peuvent exercer la profession d'agent général ou de courtier d'assurances ou de réassurances que les personnes n'ayant
-fait l'objet d'aucune condamnation pour crime de droit commun, pour vol, pour abus de confiance, pour escroquerie ou pour
-délit puni par les lois des peines de l'escroquerie, pour soustraction commise par dépositaire public, pour extorsion de
-fonds ou valeurs, pour émission de mauvaise foi de chèques sans provision, pour atteinte au crédit de l'Etat, pour recel des
-choses obtenues à l'aide de ces infractions ; toute condamnation pour tentative ou complicité des infractions ci-dessus ou
-toute condamnation à une peine d'un an de prison au moins, quelle que soit la nature du délit commis, entraîne la même
-incapacité.
+Ne peuvent exercer la profession d'agent général ou de courtier d'assurances ou de réassurances les personnes ayant fait
+l'objet d'une condamnation pour l'une des infractions visées aux 1°, 2° et 3° de l'article L. 322-2 ou de l'une des mesures
+prévues par les 4° et 5° du même article.
 
-Les condamnations mentionnées au précédent alinéa entraînent, pour les mandataires et employés des entreprises, ainsi que
-pour les mandataires et employés des agents généraux, des courtiers et entreprises de courtage, l'interdiction de présenter
-les opérations d'assurance, de réassurance et de capitalisation.
-
-Les faillis non réhabilités sont frappés des interdictions prévues aux premier et deuxième alinéas du présent article.
+Les condamnations et mesures visées au précédent alinéa entraînent pour les mandataires et employés des entreprises, les
+agents généraux, les courtiers et entreprises de courtage l'interdiction de présenter des opérations d'assurance ou de
+réassurance.
 
 Ces interdictions peuvent également être prononcées par les tribunaux à l'encontre de toute personne condamnée pour
 infraction à la législation ou à la réglementation des assurances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 29
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - TXT_ASSOCIE: Code des assurances L514-1 *sanctions pénales*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 41 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -13248,9 +13046,13 @@ infraction à la législation ou à la réglementation des assurances.
 	  - Code des assurances - art. R*514-8 (Ab)
 	  - Code des assurances - art. R*515-7 (Ab)
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TXT_ASSOCIE: Code des assurances L514-1 *sanctions pénales*
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-2 (M)
 
 
 ###### Article L511-3
@@ -13327,14 +13129,10 @@ d'entreprises dispensées de l'agrément en application des dispositions de cet 
 	  - Code des assurances - art. L321-4 (Ab)
 
 
-###### Article L514-3
+###### Article L514-4
 
-Toute personne qui présentera au public en vue de leur souscription en monnaie étrangère par des personnes mentionnées à
-l'article L. 160-3 ou fera souscrire en monnaie étrangère par ces mêmes personnes, soit directement, soit par intermédiaire,
-les contrats mentionnés à l'article L. 160-3, sera punie d'une amende de 300 à 8.000 F et, en cas de récidive, d'une amende
-de 1.500 à 20.000 F ou d'un emprisonnement d'un à six mois, ou de l'une de ces deux peines seulement.
-
-La poursuite de ces infractions ne pourra être exercée que sur plainte du ministre de l'économie et des finances.
+Les infractions aux dispositions des articles L. 530-1 et L. 530-2 seront punies d'un emprisonnement d'un mois à un an et
+d'une amende de 2 000 F à 60 000 F ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -13342,21 +13140,22 @@ La poursuite de ces infractions ne pourra être exercée que sur plainte du mini
 
 	  - Décret n°76-666 1976-07-16
 
-	**Anciens textes**:
-
-	  - Loi n°1942-04-17 art. 2
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 37 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 43 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cite**:
 
-	  - Code des assurances - art. L160-3 (M)
+	  - Code des assurances - art. L530-1 (Ab)
+	  - Code des assurances - art. L530-2 (Ab)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R512-3 (VD)
 
 
 ### Titre II : Dispositions spéciales aux agents généraux d'assurances
@@ -13416,6 +13215,180 @@ d'assurances, établit le statut valable pour tous les agents généraux d'assur
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+
+### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance
+
+#### Chapitre unique.
+
+###### Article L530-1
+
+Tout courtier ou société de courtage d'assurance qui, même à titre occasionnel, se voit confier des fonds en vue d'être
+versés à des entreprises mentionnées à l'article L. 310-1 ou à des assurés est tenu à tout moment de justifier d'une garantie
+financière spécialement affectée au remboursement de ces fonds aux assurés.
+
+Cette garantie ne peut résulter que d'un engagement de caution pris par un établissement de crédit habilité à cet effet ou
+une entreprise d'assurance régie par le code des assurances.
+
+L'obligation prévue par le présent article ne s'applique pas aux versements pour lesquels le courtier a reçu d'une entreprise
+d'assurance un mandat écrit le chargeant expressément de l'encaissement des primes et accessoirement du règlement des
+sinistres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - TXT_ASSOCIE: Code des assurances L514-4 *sanctions*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 42 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Décret n°99-776 du 8 septembre 1999 - art. 1 (Ab)
+	  - Code des assurances - art. L514-4 (M)
+	  - Code des assurances - art. L530-2-1 (M)
+	  - Code des assurances - art. L530-2-2 (Ab)
+	  - Code des assurances - art. R421-24-3 (V)
+	  - Code des assurances - art. R530-1 (Ab)
+	  - Code des assurances - art. R530-11 (Ab)
+	  - Code des assurances - art. R530-12 (Ab)
+	  - Code monétaire et financier - art. D313-26 (VD)
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+
+###### Article L530-2
+
+Tout courtier ou société de courtage d'assurance doit être en mesure de justifier à tout moment de l'existence d'un contrat
+d'assurance le couvrant contre les conséquences pécuniaires de sa responsabilité civile professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - TXT_ASSOCIE: Code des assurances L514-4 *sanctions*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 42 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. L514-4 (M)
+	  - Code des assurances - art. L530-2-2 (Ab)
+	  - Code des assurances - art. R530-11 (Ab)
+	  - Code des assurances - art. R530-12 (Ab)
+	  - Code des assurances - art. R530-8 (Ab)
+
+
+###### Article L530-2-1
+
+Les personnes non assurées mais ayant effectué, à un courtier ou à une société de courtage figurant à la liste mentionnée à
+l'article L. 530-2-2, des versements afférents à des contrats non régis par les dispositions de l'article L. 351-4 et faisant
+l'objet d'un engagement apparent de la part de l'une des entreprises mentionnées à l'article L. 310-1, seront garanties par
+ladite entreprise lorsque l'assurance de responsabilité civile du courtier ou de la société de courtage qui a reçu ces
+versements ne peut être actionnée.
+
+L'assureur qui a donné sa garantie en application des dispositions de l'alinéa précédent est subrogé dans les droits et
+actions appartenant à l'assuré en vertu de celles de l'article L. 530-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 42 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L351-4 (M)
+	  - Code des assurances - art. L530-1 (Ab)
+	  - Code des assurances - art. L530-2-2 (M)
+
+
+###### Article L530-2-2
+
+La liste des courtiers et des sociétés de courtage d'assurance établis en France est tenue annuellement par le ministre de la
+justice qui veille au respect des prescriptions prévues aux articles L. 511-1, alinéa 1, L. 511-2, L. 530-1 et L. 530-2.
+
+Cette liste est publiée chaque année au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet$
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 42 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 19 (V)
+	  - Code des assurances - art. L530-2-1 (M)
+	  - Code des assurances - art. R530-12 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L511-1 (M)
+	  - Code des assurances - art. L511-2 (M)
+	  - Code des assurances - art. L530-1 (Ab)
+	  - Code des assurances - art. L530-2 (Ab)
+
+
+###### Article L530-3
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre ainsi que les mesures complémentaires
+nécessaires pour garantir la protection des assurés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 42 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 
 # Partie réglementaire
