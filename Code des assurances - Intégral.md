@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-09-24
+Version Consolidée au 1986-10-01
 
 # Partie législative
 
@@ -14915,33 +14915,6 @@ personnes transportées, lorsque celle-ci est l'accessoire d'un accident corpore
 
 ##### Section III : Franchises, exclusions de garanties, déchéances et recours de l'assureur.
 
-###### Article R*211-12
-
-Le contrat d'assurance lorsqu'il comporte l'une des exclusions de garantie prévues à l'article R. 211-11, doit rappeler que
-si les limitations d'emploi qui justifient cette exclusion ne sont pas respectées, les peines prévues à l'article L. 211-8
-seront encourues *sanctions*.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-	  - SPEC_APPLI: Code des assurances - art. R211-11 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-8 (T)
-	  - Code des assurances - art. R*211-11 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 11
-
-
 ###### Article R211-9
 
 Nonobstant les dispositions de l'article R. 211-7, et compte tenu de celles de l'article R. 211-13, il peut être stipulé au
@@ -15065,6 +15038,34 @@ en la matière.
 
 	  - Code des assurances - art. R211-12 (V)
 	  - Code des assurances - art. R211-13 (M)
+
+
+###### Article R211-12
+
+Le contrat d'assurance, lorsqu'il comporte l'une des exclusions de garantie prévues à l'article R. 211-11, doit rappeler que
+si les limitations d'emploi qui justifient cette exclusion ne sont pas respectées, les peines prévues par l'article R. 211-29
+et la majoration prévue par l'article L. 211-8, 1er alinéa seront encourues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-1043 1986-09-18 art. 25 JORF 19 septembre 1986 en vigueur le 1er octobre 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+	  - SPEC_APPLI: Code des assurances - art. R211-11 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L211-8 (T)
+	  - Code des assurances - art. R*211-11 (M)
+	  - Code des assurances - art. R211-29 (T)
 
 
 ###### Article R211-13
@@ -15284,11 +15285,15 @@ d'Etat prévu à l'article L. 211-1.
 
 A défaut d'un de ces documents, la justification est fournie aux autorités judiciaires par tous moyens.
 
-Sera puni de la peine d'amende [*sanctions*] prévue pour les contraventions de deuxième classe tout conducteur d'un véhicule
-mentionné à l'article L. 211-1 qui ne sera pas en mesure de présenter un des documents justificatifs prévus aux articles R.
-211-15 à R. 211-18.
+Sera puni de la peine d'amende prévue pour les contraventions de deuxième classe tout conducteur d'un véhicule mentionné à
+l'article L. 211-1 qui ne sera pas en mesure de présenter un des documents justificatifs prévus aux articles R. 211-15 à R.
+211-18.
 
-Les documents justificatifs prévus au présent article n'impliquent pas une obligation de garantie à la charge de l'assureur. 
+Sera punie de la peine d'amende prévue pour les contraventions de la 4e classe toute personne qui, invitée à justifier dans
+un délai de cinq jours de la possession d'un des documents mentionnés à l'alinéa précédent, n'aura pas présenté ce document
+avant l'expiration de ce délai.
+
+Les documents justificatifs prévus au présent article n'impliquent pas une obligation de garantie à la charge de l'assureur.
 
 Les dispositions du présent article ne sont pas applicables aux conducteurs de véhicules ayant leur stationnement habituel,
 au sens de l'article L. 211-4, sur le territoire d'un des Etats membres de la Communauté économique européenne autres que la
@@ -15303,9 +15308,7 @@ et Liechtenstein.
 
 	**Modifié par**:
 
-	  - Décret n°85-879 du 22 août 1985 - art. 1 () JORF 23 août 1985
-	  - Décret n°85-879 du 22 août 1985 - art. 2 () JORF 23 août 1985
-	  - Décret n°85-879 du 22 août 1985 - art. 3 () JORF 23 août 1985
+	  - Décret n°86-1043 1986-09-18 art. 26 JORF 19 septembre 1986 en vigueur le 1er octobre 1986
 
 	**Cité par**:
 
@@ -15325,8 +15328,6 @@ et Liechtenstein.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la route. - art. R233-3 (V)
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-	  - SPEC_APPLI: Code des assurances - art. R211-15 (M)
 
 	**Cite**:
 
@@ -15981,6 +15982,46 @@ Finlande, Norvège, Suède, Suisse et Liechtenstein.
 	**Anciens textes**:
 
 	  - Décret n°59-135 1959-01-07 art. 33 bis
+
+
+##### Section VI : Pénalités.
+
+###### Article R211-29
+
+Sera punie des peines d'emprisonnement et d'amende prévues pour les contraventions de la 5ème classe toute personne qui,
+contrevenant aux dispositions de l'article L. 211-1 du présent code, aura mis ou maintenu en circulation un véhicule
+terrestre à moteur ainsi que ses remorques ou semi-remorques sans être couverte par une assurance garantissant sa
+responsabilité civile.
+
+En cas de récidive, les peines d'emprisonnement et d'amende prévues pour la récidive des contraventions de la 5ème classe
+seront applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°86-1043 1986-09-18 art. 27 JORF 19 septembre 1986 en vigueur le 1er octobre 1986
+
+	**Cité par**:
+
+	  - Code de la route - art. R266 (M)
+	  - Code des assurances - art. R211-12 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des assurances - art. L211-1 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L211-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R211-45 (Ab)
 
 
 #### Chapitre II : L'obligation d'assurer - Le bureau central de tarification.
