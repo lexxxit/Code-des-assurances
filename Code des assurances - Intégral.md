@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-09-01
+Version Consolidée au 1986-09-24
 
 # Partie législative
 
@@ -43351,6 +43351,217 @@ de personnes et lorsque les passagers sont transportés à l'intérieur de la re
 	**Cite**:
 
 	  - Code des assurances - art. R211-10 (V)
+
+
+##### Section IV : Contrôle de l'obligation d'assurance
+
+##### Paragraphe 1 : L'attestation d'assurance.
+
+###### Article A211-4
+
+Les documents justificatifs prévus aux articles R. 211-15, R. 211-17 (2e alinéa) et R. 211-18 doivent comporter
+respectivement un des intitulés suivants :
+
+- attestation d'assurance (art. R. 211-15 du code des assurances) ;
+
+- attestation provisoire d'assurance (art. R. 211-17 du code des assurances) ;
+
+- attestation de propriété d'un véhicule appartenant à l'Etat (véhicule dispensé de l'obligation d'assurance) (art. L. 211-1
+du code des assurances) ;
+
+- attestation de dérogation à l'obligation d'assurance (art. L. 211-3 du code des assurances).
+
+Cet intitulé doit figurer en haut et à droite de chacun des documents susmentionnés.
+
+Les documents justificatifs mentionnés au premier alinéa du présent article doivent comporter la signature ou le cachet de
+l'autorité ou de l'organisme d'assurance qui les a délivrés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1959-03-02 art. 1
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1986-09-05 art. 1 JORF 24 septembre 1986
+
+	**Cite**:
+
+	  - Code des assurances - art. L211-1 (M)
+	  - Code des assurances - art. L211-3 (Ab)
+	  - Code des assurances - art. R*211-17 (M)
+	  - Code des assurances - art. R*211-18 (M)
+	  - Code des assurances - art. R211-15 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R211-19
+
+
+###### Article A211-5
+
+La période de validité de l'attestation d'assurance et de l'attestation provisoire d'assurance doit être mentionnée de
+manière très apparente, selon l'une des formules suivantes :
+
+a) Valable du ... au ... .
+
+b) Valable pour ... (jours ou mois), à compter du ... .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1959-03-02 art. 2
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1986-09-05 art. 1 JORF 24 septembre 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R211-19
+
+
+###### Article A211-6
+
+En ce qui concerne le document justificatif prévu à l'article R. 211-15, doivent être indiqués au titre des caractéristiques
+du véhicule : 
+
+1° Dans tous les cas, le genre et la marque du véhicule ; 
+
+2° Lorsqu'il s'agit d'un véhicule soumis à immatriculation, son numéro d'immatriculation ; 
+
+3° Lorsqu'il s'agit d'un véhicule non soumis à immatriculation, le numéro du moteur, s'il y a lieu. 
+
+L'une au moins des caractéristiques ci-dessus énumérées doit être portée sur le document justificatif par l'entreprise
+d'assurance qui le délivre. Pour être valable, le document justificatif doit, le cas échéant, être complété par l'utilisateur
+du véhicule avant tout emploi.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1959-03-02 art. 3
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1986-09-05 art. 1 JORF 24 septembre 1986
+
+	**Cite**:
+
+	  - Code des assurances - art. R211-15 (VT)
+
+
+###### Article A211-7
+
+L'attestation d'assurance et l'attestation provisoire d'assurance doivent rappeler que, selon les dispositions de l'article
+R. 211-14, la présentation du document justificatif n'implique qu'une présomption de garantie à la charge de l'assureur.
+Elles ne doivent comporter aucune autre mention que celles prévues dans la présente section sauf, éventuellement, un acquit
+de paiement de la prime.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1959-03-02 art. 4
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1986-09-05 art. 1 JORF 24 septembre 1986
+
+	**Cite**:
+
+	  - Code des assurances - art. R211-14 (V)
+
+
+###### Article A211-8
+
+L'attestation d'assurance et l'attestation provisoire d'assurance doivent être de couleur jaune. Leurs dimensions ne doivent
+pas être inférieures à 7 x 8 cm ni supérieures à 21 x 29,5 cm.
+
+Ces documents doivent, en outre, être conformes aux normes fixées par le ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1986-09-05 art. 1 JORF 24 septembre 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R211-19
+
+
+##### Paragraphe 2 : Le certificat d'assurance.
+
+###### Article A211-8-1
+
+Le certificat d'assurance et le certificat provisoire ne doivent comporter aucune autre mention que celles prévues à
+l'article R. 211-21-2.
+
+Ces documents doivent en outre être conformes aux normes fixées par le ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1986-09-05 art. 2 JORF 24 septembre 1986
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A211-9 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R211-21-2 (M)
+
+
+###### Article A211-8-2
+
+Le certificat ou le certificat provisoire doit être apposé, à l'intérieur du véhicule, recto visible de l'extérieur, sur la
+partie inférieure droite du pare-brise.
+
+Pour les véhicules à deux ou trois roues, le certificat ou le certificat provisoire doit être apposé, recto visible à
+l'extérieur, sur une surface située à l'avant du plan formé par la fourche avant desdits véhicules.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1986-09-05 art. 2 JORF 24 septembre 1986
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A211-10 (V)
 
 
 #### Chapitre II : L'obligation d'assurer le bureau central de tarification.
