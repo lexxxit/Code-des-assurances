@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-02-26
 
 # Partie législative
 
@@ -7128,39 +7128,6 @@ impôts, sous les mêmes conditions que les sociétés anonymes d'assurance.
 	  - Code des assurances - art. R*322-12 (Ab)
 
 
-###### Article L322-6
-
-Les entreprises nationales présentent chaque année un rapport de leur conseil d'administration, ainsi qu'un rapport de leurs
-commissaires aux comptes.
-
-Elles sont tenues de publier leur bilan, la composition de leur actif et le détail de leur portefeuille, ainsi que leur
-compte d'exploitation générale et leur compte général de pertes et profits.    Ces divers documents doivent être publiés au
-Journal officiel de la République française avant le 1er juillet de chaque année.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. L322-11 (Ab)
-
-
 ###### Article L322-7
 
 A la date du 2 mai 1946, les actions des sociétés nationalisées sont transférées à l'Etat. Les mandats et les fonctions des
@@ -7331,43 +7298,6 @@ leurs parts au cours des trois exercices antérieurs au 1er janvier 1946.
 	  - Code des assurances - art. L322-9 (Ab)
 
 
-###### Article L322-11
-
-Les dispositions des articles L. 322-5, L. 322-6 et L. 322-7 à L. 322-10 sont adaptées aux sociétés Mutuelle générale
-française par décret pris en Conseil des ministres. Ce décret doit prévoir notamment :
-
-1° Le calcul de la portion des réserves de ces sociétés appartenant à leurs adhérents et la répartition à ceux-ci de ladite
-portion sous forme de parts bénéficiaires analogues à celles prévues à l'article L. 322-7 ;
-
-2° La constitution du capital social appartenant à l'Etat et la transformation desdites sociétés à forme mutuelle en sociétés
-anonymes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-5 (M)
-	  - Code des assurances - art. L322-6 (Ab)
-	  - Code des assurances L322-5, L322-6, L322-7 à L322-10
-
-
 ###### Article L322-12
 
 Il est créé, par le seul fait de la loi, dans chacun des groupes d'entreprises nationales "Assurances générales de France",
@@ -7375,15 +7305,7 @@ Il est créé, par le seul fait de la loi, dans chacun des groupes d'entreprises
 objet de détenir directement ou indirectement la totalité des actions des entreprises constituant le groupe, d'exercer les
 droits attachés à ces actions et de faire bénéficier de ces droits ses propres actionnaires.
 
-Les actions des entreprises nationales d'assurance dont l'Etat fait apport à ces sociétés ne peuvent être aliénées par elles.
-Les apports sont réalisés par le seul fait de la loi. Ils ne supportent aucun frais ou charge. Ils sont exonérés des droits
-d'enregistrement. Une entreprise nationale d'assurance peut détenir une participation dans le capital d'une autre entreprise
-du même groupe.
-
-La société centrale répartit à ses actionnaires les dividendes qui lui ont été versés par les sociétés du groupe au cours de
-l'exercice de l'encaissement.
-
-Les sociétés centrales ont le même président-directeur général que les entreprises constituant le groupe.
+Une entreprise nationale d'assurance peut détenir une participation dans la capital d'une autre entreprise du même groupe.
 
 Les dispositions des articles 95, 111 et 278 de la loi n° 66-537 du 24 juillet 1966 ne sont pas applicables aux sociétés
 centrales d'assurance. Les dispositions de la même loi ne font pas obstacle à l'application de la présente section.
@@ -7396,11 +7318,12 @@ centrales d'assurance. Les dispositions de la même loi ne font pas obstacle à 
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations* et art. 8 *champ d'application - dérogations*
+	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
+	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
 
 	**Modifié par**:
 
-	  - Loi n°86-912 1986-08-06 art. 7 I JORF 7 août 1986
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
 
 	**Cité par**:
 
@@ -7413,23 +7336,22 @@ centrales d'assurance. Les dispositions de la même loi ne font pas obstacle à 
 
 ###### Article L322-13
 
-Les sociétés centrales sont des sociétés anonymes dont le capital appartient à l'Etat. Toutefois, dans la limite d'un quart
-au plus de ce capital, les actions de ces sociétés peuvent être distribuées ou cédées dans les conditions prévues par
-l'article L. 322-22.
+Les sociétés centrales sont des société anonymes dont l'Etat détient, directement ou indirectement, les trois quarts au moins
+du capital social.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-8 1973-01-04 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
+	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
 
 	**Cité par**:
 
@@ -7443,31 +7365,35 @@ l'article L. 322-22.
 
 ###### Article L322-14
 
-Sous réserve des dispositions de l'article L. 322-16, les entreprises nationales d'assurances sont gérées par le conseil
-d'administration de la société centrale de leur groupe.
+Les entreprises nationales d'assurance mentionnées à l'article L. 322-5 peuvent être gérées par le conseil d'administration
+de la société centrale de leur groupe. Elles peuvent également avoir le même président-directeur général que la société
+centrale. 
+
+La faculté prévue au premier alinéa ci-dessus est mise en oeuvre sur décision de l'assemblée générale des actionnaires de
+l'entreprise nationale d'assurance.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - LOi 73-8 1973-01-04 art. 12
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-	  - TXT_ASSOCIE: Code des assurances - art. L322-16 (Ab)
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
 
 	**Cité par**:
 
 	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
+	  - TXT_ASSOCIE: Code des assurances - art. L322-16 (Ab)
+
 	**Cite**:
 
-	  - Code des assurances - art. L322-16 (Ab)
+	  - Code des assurances - art. L322-5 (V)
 
 
 ###### Article L322-15
@@ -7515,98 +7441,15 @@ d'Etat.
 	  - Code des assurances - art. R*322-24 (T)
 
 
-###### Article L322-16
+##### Paragraphe 3 : Distribution et cession des actions des sociétés centrales d'assurance.
 
-Le conseil d'administration des entreprises du groupe Mutuelle générale française a la même composition que le conseil
-d'administration prévu à l'article L. 322-15. Toutefois, les administrateurs mentionnés aux b et e de cet article sont
-remplacés par trois administrateurs désignés par le ministre de l'économie et des finances en raison de leur compétence
-technique, après avis du conseil national des assurances.
+###### Article L322-22
 
-**Liens relatifs à cet article**
+Sous réserve des dispositions de l'article L. 322-13, les actions des sociétés centrales d'assurance peuvent : 
 
-	**Anciens textes**:
+a) Soit être distribuées gratuitement à des membres du personnel des entreprises nationales d'assurance ; 
 
-	  - Loi n°73-8 1973-01-04 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances - art. L322-14 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. L322-14 (M)
-	  - Code des assurances - art. R*322-17 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-15 (M)
-
-
-###### Article L322-17
-
-La gestion des entreprises nationales d'assurance est soumise au contrôle de la commission de vérification des comptes des
-entreprises publiques, instituée par l'article 56 de la loi n° 48-24 du 6 janvier 1948, dans les conditions fixées par décret
-en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°48-24 du 6 janvier 1948 - art. 56, v. init.
-
-	**Anciens textes**:
-
-	  - Loi n°48-24 du 6 janvier 1948 - art. 60, v. init.
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°49-454 1949-03-30
-	  - TXT_ASSOCIE: Décret n°65-219 1965-03-22
-	  - TXT_ASSOCIE: Décret n°75-1009 1975-10-27
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
-
-
-###### Article L322-18
-
-Un collège représentant les actionnaires exerce les pouvoirs de l'assemblée générale des actionnaires pour chacune des
-sociétés centrales d'assurance.
-
-Il est composé comme suit :
-
-a) Le président de la section des finances du Conseil d'Etat, ou un conseiller d'Etat nommé à cet effet par décret,
-président ;
-
-b) Le directeur des assurances ;
-
-c) Trois représentants de l'Etat, désignés par le ministre de l'économie et des finances ;
-
-d) Un représentant du personnel, nommé par arrêté du ministre de l'économie et des finances sur proposition des organisations
-syndicales les plus représentatives ;
-
-e) Un ou deux représentants des actionnaires autres que l'Etat, selon que la part de ces actionnaires dans le capital de la
-société ne dépasse pas ou dépasse 10 % ; l'un au moins de ces membres représente les personnes physiques détentrices
-d'actions ; ces représentants sont élus selon des modalités fixées par décret en Conseil d'Etat.
-
-f) Le président du conseil d'administration de la société centrale concernée.
+b) Soit être cédées à titre onéreux.
 
 **Liens relatifs à cet article**
 
@@ -7616,152 +7459,11 @@ f) Le président du conseil d'administration de la société centrale concernée
 
 	**Modifié par**:
 
-	  - Loi n°77-574 1977-06-07 art. 37 II JORF 8 juin 1977
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
-	  - TXT_SOURCE: Code des assurances - art. R*322-22 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*322-23 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*322-24 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*322-26 (T)
-	  - TXT_SOURCE: Code des assurances - art. R*322-27 (T)
-	  - TXT_SOURCE: Code des assurances - art. R*322-28 (T)
-	  - SPEC_APPLI: Code des assurances R322-26, R322-27, R322-28
-
-	**Abrogé par**:
-
 	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
 
-	**Cité par**:
-
-	  - Code des assurances - art. L322-20 (Ab)
-	  - Code des assurances - art. R*322-25 (Ab)
-	  - Code des assurances - art. R*322-29 (T)
-
-
-###### Article L322-19
-
-Sous réserve des dispositions de l'article L. 322-20, les pouvoirs de l'assemblée générale des actionnaires sont, en ce qui
-concerne les entreprises nationales d'assurance mentionnées à l'article L. 322-12, exercés par le collège des actionnaires
-compétents pour la société centrale de leur groupe.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-8 1973-01-04 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
 	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances - art. L322-20 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-12 (M)
-	  - Code des assurances - art. L322-20 (Ab)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*322-24 (T)
-
-
-###### Article L322-20
-
-Les pouvoirs de l'assemblée générale des entreprises du groupe Mutuelle générale française sont exercés par une commission
-composée de la même manière que le collège prévu à l'article L. 322-18. Toutefois, l'administrateur mentionné au e de cet
-article est remplacé par un représentant des assurés désigné par le conseil national des assurances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-8 1973-01-04 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances - art. L322-19 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-18 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. L322-19 (Ab)
-
-
-###### Article L322-21
-
-Les actionnaires des sociétés centrales d'assurance ont le droit d'obtenir, dans les délais fixés par décret, l'envoi ou la
-communication des documents qui, dans les sociétés anonymes, sont mis à la disposition des actionnaires avant l'assemblée
-générale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-8 1973-01-04 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
-
-
-##### Paragraphe 3 : Distribution et cession des actions des sociétés centrales d'assurance.
-
-###### Article L322-22
-
-Dans la limite fixée par l'article L. 322-13, les actions des sociétés centrales d'assurance peuvent :
-
-a) Soit être distribuées gratuitement à des membres du personnel des entreprises nationales d'assurance ;
-
-b) Soit être cédées à titre onéreux à ce personnel, à la caisse des dépôts et consignations, aux organismes de retraite et de
-prévoyance agréées à cet effet, et aux agents généraux des entreprises nationales d'assurance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-8 1973-01-04 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
 	  - TXT_ASSOCIE: Code des assurances - art. L322-23 (M)
 
 	**Cité par**:
@@ -7769,66 +7471,49 @@ prévoyance agréées à cet effet, et aux agents généraux des entreprises nat
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1127 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 157 (M)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 81 (VT)
+	  - Code des assurances - art. L322-13 (M)
 	  - Code des assurances - art. L322-23 (V)
 	  - Code des assurances - art. L322-24 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-13 (M)
 
 
 ###### Article L322-23
 
-Un décret en Conseil d'Etat fixe les modalités des distributions gratuites d'actions et des offres de cession à titre onéreux
-prévues à l'article L. 322-22. Lorsque les distributions gratuites d'actions sont effectuées au profit du personnel, il est
-tenu compte de l'ancienneté des salariés et de leurs responsabilités dans l'entreprise.
+Un décret en Conseil d'Etat fixe les modalités des distributions gratuites d'actions prévues à l'article L. 322-22. Lorsque
+les distributions gratuites d'actions sont effectuées au profit du personnel, il est tenu compte de l'ancienneté des salariés
+et de leurs responsabilités dans l'entreprise.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-8 1973-01-04 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
+	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
 	  - TXT_ASSOCIE: Code des assurances - art. L322-22 (V)
 	  - TXT_SOURCE: Code des assurances - art. R*322-30 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*322-31 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*322-32 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*322-33 (Ab)
-	  - SPEC_APPLI: Code des assurances R322-30 à R322-33
 
 	**Cite**:
 
-	  - Code des assurances - art. L322-22 (M)
+	  - Code des assurances - art. L322-22 (V)
 
 
 ###### Article L322-24
 
-Les actions des sociétés centrales d'assurance sont nominatives.
+Les actions des sociétés centrales d'assurance sont nominatives. 
 
 Les actions cédées à titre onéreux ou gratuit conformément à l'article L. 322-22 sont négociables sur le marché financier au
 terme de délais et dans des conditions fixées par décret en Conseil d'Etat.
 
-Elles ne peuvent alors être acquises que par les personnes physiques de nationalité française, cette condition de nationalité
-n'étant toutefois pas applicable au personnel des entreprises nationales d'assurance, ainsi que par la Caisse des dépôts et
-consignations, le crédit foncier de France, le crédit national, la caisse centrale de crédit hôtelier, commercial et
-industriel et les personnes morales de droit français appartenant aux catégories suivantes : les sociétés d'investissement,
-les sociétés ou organismes d'assurance, de prévoyance ou de retraite, à l'exclusion de tout autre acquéreur.
-
-Les nombres maximaux de titres que peuvent posséder ces personnes, établissements, sociétés ou organismes sont également
-fixés par décret en Conseil d'Etat.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-8 1973-01-04 art. 3
 
 	**Codifié par**:
 
@@ -7837,14 +7522,19 @@ fixés par décret en Conseil d'Etat.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
+	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
 	  - TXT_SOURCE: Code des assurances - art. R*322-34 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*322-35 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*322-36 (Ab)
 	  - SPEC_APPLI: Code des assurances R322-34 à R322-36
 
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
+
 	**Cite**:
 
-	  - Code des assurances - art. L322-22 (M)
+	  - Code des assurances - art. L322-22 (V)
 
 	**Cité par**:
 
@@ -20521,87 +20211,12 @@ Si cette entreprise a fait l'objet d'une des mesures prévues aux articles R. 32
 
 ##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance
 
-##### Paragraphe 1 : Constitution.
-
-###### Article R*322-12
-
-La fusion de deux ou plusieurs des entreprises mentionnées à l'article L. 322-5 peut être prononcée par décret pris en
-conseil des ministres sur le rapport du ministre de l'économie et des finances.
-
-En cas de fusion, il peut être procédé d'office à des transferts de portefeuille dans les conditions prévues à l'article L.
-324-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 du 25 avril 1946 - art. 1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-5 (M)
-	  - Code des assurances - art. L324-1 (M)
-
-
-###### Article R*322-13
-
-Les entreprises nationales d'assurance sont dispensées des formalités légales prescrites pour l'augmentation et la libération
-du capital des sociétés anonymes, sauf de celles qui sont édictées dans l'intérêt des tiers.
-
-Sous réserve des pouvoirs accordés au conseil d'administration, l'augmentation et la libération du capital sont décidées par
-l'assemblée générale. La réalité de ces opérations est constatée par le ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°48-871 1948-05-24 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-
 ##### Paragraphe 2 : Administration.
-
-###### Article R*322-16
-
-Lorsque la part des actionnaires autres que l'Etat dans le capital d'une société centrale d'assurance vient à dépasser 10 %,
-des élections pour la désignation d'un second représentant de ces actionnaires au collège qui exerce les pouvoirs de
-l'assemblée générale ont lieu dans un délai de trois mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°84-302 1984-04-24 art. 1 JORF 26 avril 1984
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
 
 ###### Article R*322-17
 
 La rémunération des présidents des conseils d'administration des sociétés centrales des groupes d'entreprises nationales
-d'assurance et des entreprises du groupe Mutuelle générale française mentionnées à l'article L. 322-16 du présent code, est
-déterminée par le ministre de l'économie, des finances et du budget.
+d'assurance est déterminée par le ministre de l'économie, des finances et du budget.
 
 **Liens relatifs à cet article**
 
@@ -20611,7 +20226,11 @@ déterminée par le ministre de l'économie, des finances et du budget.
 
 	**Modifié par**:
 
-	  - Décret n°84-302 1984-04-24 art. 2 JORF 26 avril 1984
+	  - Décret n°90-158 du 19 février 1990 - art. 1 () JORF 21 février 1990 en vigueur le 26 février 1990
+
+	**Abrogé par**:
+
+	  - Décret n°93-234 du 22 février 1993 - art. 1 (V) JORF 24 février 1993
 
 	**Cite**:
 
@@ -20640,13 +20259,9 @@ de représentant de l'Etat.
 
 ###### Article R*322-19
 
-Dans les conseils d'administration des sociétés centrales d'assurances, un représentant des actionnaires autres que l'Etat
-est, par application du 1° du deuxième alinéa de l'article 5 de la loi n° 83-675 du 26 juillet 1983 susvisée, désigné par le
-collège qui exerce les pouvoirs de l'assemblée générale, parmi les représentants des actionnaires autres que l'Etat élus à ce
-collège dans les conditions prévues à l'article R. 322-22.
-
-Le mandat du représentant des actionnaires au conseil d'administration des sociétés centrales d'assurances prend fin en même
-temps que son mandat de membre du collège.
+Dans les conseils d'administration des sociétés centrales d'assurance, les actionnaires autres que l'Etat sont représentés
+par une personne désignée dans les conditions prévues au 1° du premier alinéa de l'article 5 de la loi du 26 juillet 1983
+modifiée relative à la démocratisation du secteur public.
 
 **Liens relatifs à cet article**
 
@@ -20657,217 +20272,14 @@ temps que son mandat de membre du collège.
 	**Cite**:
 
 	  - Loi n°83-675 1983-07-26 art. 5
-	  - Code des assurances R322-22
 
 	**Modifié par**:
 
-	  - Décret n°84-302 1984-04-24 art. 3 JORF 26 avril 1984
-
-
-###### Article R*322-21
-
-La durée des fonctions des membres du collège exerçant les pouvoirs de l'assemblée générale des actionnaires est fixée à cinq
-ans.
-
-Ces fonctions sont renouvelables par période de cinq ans.
-
-Les mêmes dispositions sont applicables à la commission exerçant les pouvoirs de l'assemblée générale des entreprises du
-groupe Mutuelle générale française.
-
-Un arrêté du ministre de l'économie et des finances fixe les règles de fonctionnement du collège mentionné au présent
-article, ainsi que de la commission compétente pour les sociétés du groupe Mutuelle générale française.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Transféré par**:
-
-	  - Décret n°84-302 1984-04-24 art. 5 JORF 26 avril 1984
+	  - Décret n°90-158 du 19 février 1990 - art. 2 () JORF 21 février 1990 en vigueur le 26 février 1990
 
 	**Abrogé par**:
 
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-
-###### Article R*322-22
-
-Les représentants des actionnaires autres que l'Etat aux collèges qui exercent les pouvoirs de l'assemblée générale sont
-désignés par élection au scrutin secret. Le vote pour ces élections se fait par correspondance ou sur le lieu de travail pour
-les membres du personnel, par correspondance pour les autres actionnaires. Chaque action donne droit à une voix. En cas de
-vacance, l'élection a lieu dans les trois mois à dater de la constatation de la vacance.
-
-Deux mois avant le scrutin, les actionnaires sont avertis soit par l'insertion d'un avis au Bulletin des Annonces légales
-obligatoires et par un affichage sur les lieux du travail, soit par l'envoi d'une lettre individuelle à l'adresse mentionnée
-dans les registres sur lesquels les actions sont immatriculées.
-
-Les candidats doivent être titulaires de six actions au moins. Ils doivent faire parvenir leur candidature au président du
-conseil d'administration ou à la personne mandatée à cet effet un mois au moins avant la date du scrutin.
-
-Le président du conseil d'administration ou son représentant arrête la liste des candidats et en assure la publication quinze
-jours au moins avant le scrutin dans l'une ou l'autre des formes mentionnées au deuxième alinéa ci-dessus.
-
-Le candidat ou, le cas échéant, les deux candidats ayant obtenu le plus grand nombre de voix sont déclarés élus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Transféré par**:
-
-	  - Décret n°84-302 1984-04-24 art. 6 JORF 26 avril 1984
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L322-18 (M)
-
-
-###### Article R*322-23
-
-L'organisation du scrutin est assurée par la société centrale intéressée. Le dépouillement des votes est effectué sous la
-surveillance d'un bureau composé d'un représentant de chaque comité d'entreprise intéressé ou, le cas échéant, de trois
-représentants du comité d'entreprise du groupe et d'un nombre égal de représentants de la société centrale, parmi lesquels
-figure le président du conseil d'administration ou son représentant, qui préside le bureau.
-
-Le contentieux électoral relève du tribunal de commerce du siège de la société centrale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Transféré par**:
-
-	  - Décret n°84-302 1984-04-24 art. 7 JORF 26 avril 1984
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L322-18 (M)
-
-
-###### Article R*322-24
-
-Lorsque la part des actionnaires autres que l'Etat dans le capital de la société centrale d'assurance ne dépasse pas 10 %,
-les personnes physiques titulaires d'actions au premier jour du mois précédant celui du vote sont seules électeurs et
-éligibles.
-
-Lorsque cette part dépasse 10 %, les personnes physiques mentionnées à l'alinéa précédent participent seules à l'élection de
-l'un des représentants des actionnaires autres que l'Etat au collège qui exerce les pouvoirs de l'assemblée générale. Elles
-peuvent seules poser leur candidature à cette élection. Tous les titulaires d'actions au premier jour du mois précédant celui
-du vote sont électeurs pour la désignation du deuxième de ces représentants et éligibles à ces postes sous réserve des
-conditions mentionnées ci-dessus.
-
-Dans le cas prévu à l'alinéa précédent, il est procédé à des scrutins séparés pour la désignation de chacun des représentants
-des actionnaires autres que l'Etat. En cas de vacance d'un des postes à pourvoir, tous les actionnaires participent au vote
-si le représentant restant en fonctions a été élu par les seuls actionnaires personnes physiques. Dans le cas contraire,
-seuls ces derniers prennent par au vote.
-
-La liste des électeurs est arrêtée, pour chaque scrutin, par la société centrale. Elle mentionne les nom, prénom usuel et
-adresse, ou la dénomination et le siège social de chacun des titulaires d'actions, et le nombre de leurs titres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Transféré par**:
-
-	  - Décret n°84-302 1984-04-24 art. 8 JORF 26 avril 1984
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L322-18 (M)
-
-
-###### Article R*322-25
-
-Les actionnaires des sociétés centrales d'assurance ont le droit d'obtenir de celles-ci, dans les quinze jours qui précèdent
-chacune des réunions du collège institué par l'article L. 322-18, l'envoi à l'adresse indiquée par eux des documents et
-renseignements mentionnés aux articles 133 et 135 du décret n° 67-236 du 23 mars 1967 et concernant les entreprises du groupe
-correspondant.
-
-Dans le même délai, ces actionnaires ont le droit de prendre au siège social connaissance et copie des documents et
-renseignements énumérés aux articles 168 de la loi du 24 juillet 1966 et 135 du décret du 23 mars 1967, et concernant les
-entreprises du groupe correspondant.
-
-Dans les quinze jours qui précèdent chacune des élections prévues aux articles R. 322-22 à R. 322-24, ils peuvent prendre au
-siège social connaissance et copie de la liste des électeurs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 168
-	  - Décret n°67-236 du 23 mars 1967 - art. 133 (M)
-	  - Décret n°67-236 du 23 mars 1967 - art. 135 (M)
-	  - Code des assurances - art. L322-18 (M)
-	  - Code des assurances L322-18, R322-22, R322-24
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Transféré par**:
-
-	  - Décret n°84-302 1984-04-24 art. 9 JORF 26 avril 1984
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-
-###### Article R*322-26
-
-Les représentants de l'Etat dans les conseils d'administration des sociétés centrales d'assurance et des entreprises du
-groupe Mutuelle générale française sont choisis, soit parmi les fonctionnaires conformément au décret n° 52-49 du 11 janvier
-1952 relatif au statut des représentants de l'Etat dans les conseils des sociétés d'économie mixte, soit parmi les agents de
-l'Etat d'un niveau équivalent à celui des fonctionnaires de catégorie A ;
-
-Ils peuvent également être choisis parmi les présidents directeurs généraux et directeurs généraux adjoints des organismes
-mentionnés à l'article 1er de la loi du 26 juillet 1983 susvisée relative à la démocratisation du secteur public ;
-
-Ils cessent leurs fonctions s'ils perdent la qualité en vertu de laquelle ils ont été nommés ;
-
-Il leur est interdit d'entrer à un titre quelconque au service de la société dont ils ont été administrateur avant
-l'expiration d'un délai de cinq ans à compter du jour où ils ont quitté son conseil d'administration, sauf autorisation
-spéciale du ministre de l'économie, des finances et du budget et du ministre qui les a proposés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°52-49 1952-01-11
-	  - Loi n°83-675 1983-07-26 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Transféré par**:
-
-	  - Décret n°84-302 1984-04-24 art. 10 JORF 26 avril 1984
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*431-6-2 (V)
+	  - Décret n°93-234 du 22 février 1993 - art. 1 (V) JORF 24 février 1993
 
 
 ###### Article R322-20
@@ -20894,186 +20306,33 @@ parmi les agents généraux d'assurance du groupe concerné.
 	  - Décret n°89-351 du 2 juin 1989 - art. 3 () JORF 4 juin 1989
 
 
-##### Paragraphe 3 : Distribution et cession des actions des sociétés centrales d'assurance.
+###### Article R322-26
 
-###### Article R*322-30
+Les représentants de l'Etat dans les conseils d'administration des sociétés centrales d'assurance sont choisis, soit parmi
+les fonctionnaires conformément au décret n° 52-49 du 11 janvier 1952 relatif au statut des représentants de l'Etat dans les
+conseils des sociétés d'économie mixte, soit parmi les agents de l'Etat d'un niveau équivalent à celui des fonctionnaires de
+catégorie A ; 
 
-Bénéficient d'une distribution gratuite d'actions les membres du personnel des entreprises nationales d'assurance mentionnées
-à l'article L. 322-12 qui, en fonction le 1er janvier 1973 comptaient, à cette date, au moins cinq ans d'ancienneté dans
-l'entreprise.
+Ils peuvent également être choisis parmi les présidents directeurs généraux et directeurs généraux adjoints des organismes
+mentionnés à l'article 1er de la loi du 26 juillet 1983 susvisée relative à la démocratisation du secteur public ; 
 
-Le personnel dont il s'agit comprend les salariés liés par un contrat de travail en cours et auxquels sont applicables les
-conventions collectives de travail des entreprises d'assurance régies par la loi du 11 février 1950, ainsi que le personnel
-de direction.
+Ils cessent leurs fonctions s'ils perdent la qualité en vertu de laquelle ils ont été nommés ; 
+
+Il leur est interdit d'entrer à un titre quelconque au service de la société dont ils ont été administrateur avant
+l'expiration d'un délai de cinq ans à compter du jour où ils ont quitté son conseil d'administration, sauf autorisation
+spéciale du ministre de l'économie, des finances et du budget et du ministre qui les a proposés.
+
+**Nota:**
+
+Décret 94-582 du 12 juillet 1994 art. 9 : L'article R. 322-26 du code des assurances est abrogé, sauf en ce qui concerne les
+territoires d'outre-mer.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°50-205 1950-02-11
-	  - Code des assurances - art. L322-12 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°73-605 1973-07-04 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L322-23 (M)
-	  - TXT_ASSOCIE: Code des assurances R322-31
-
-
-###### Article R*322-31
-
-Le nombre des actions distribuées gratuitement aux membres du personnel des entreprises nationales d'assurance est fixé en
-fonction de leur ancienneté et de leurs responsabilités dans l'entreprise à la date du 1er janvier 1973, conformément au
-tableau ci-après :
-
-Responsabilité :
-
-1) Employés et A.M. 1, échelons de base.
-
-- Ancienneté,
-
-5 ans à moins de 10 ans : 6.
-
-10 ans à moins de 15 ans : 7.
-
-15 ans à moins de 20 ans : 8.
-
-20 ans à moins de 25 ans : 10.
-
-25 ans à moins de 30 ans : 11.
-
-30 ans et plus : 12.
-
-2) A.M. 2 et A.M. 3, échelons intermédiaires :
-
-- Ancienneté,
-
-5 ans à moins de 10 ans : 8.
-
-10 ans à moins de 15 ans : 9.
-
-15 ans à moins de 20 ans : 11.
-
-20 ans à moins de 25 ans : 12.
-
-25 ans à moins de 30 ans : 14.
-
-30 ans et plus : 15.
-
-3) Sous-chefs, chefs adjoints, chefs de service, inspecteurs (1er, 2è et 3è échelon).
-
-- Ancienneté,
-
-5 ans à moins de 10 ans : 10.
-
-10 ans à moins de 15 ans : 11.
-
-15 ans à moins de 20 ans : 13.
-
-20 ans à moins de 25 ans : 15.
-
-25 ans à moins de 30 ans : 17.
-
-30 ans et plus : 18.
-
-4) Chefs de division, inspecteurs (4e échelon), fondés de pouvoirs, direction, contrôleurs généraux.
-
-- Ancienneté,
-
-5 ans à moins de 10 ans : 12.
-
-10 ans à moins de 15 ans : 13.
-
-15 ans à moins de 20 ans : 15.
-
-20 ans à moins de 25 ans : 17.
-
-25 ans à moins de 30 ans : 19.
-
-30 ans et plus : 20.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-605 1973-07-04 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L322-23 (M)
-
-
-###### Article R*322-32
-
-Des distributions gratuites d'actions sont faites chaque année, de 1974 à 1983 inclus, au membres du personnel des
-entreprises nationales d'assurance qui remplissent pour la première fois, au 1er janvier de l'année considérée, les
-conditions prévues à l'article R. 322-30, ainsi qu'à ceux qui, ayant déjà bénéficié d'une distribution, ont accédé à cette
-date à l'un des échelons d'ancienneté ou des niveaux de responsabilité prévus à l'article R. 322-31. Dans ce cas, il n'est
-distribué à l'intéressé que la différence entre le nombre d'actions auquel il peut prétendre conformément au tableau de
-l'article R. 322-31 compte tenu de l'ancienneté et du niveau de responsabilité au 1er janvier de l'année considérée, et le
-nombre d'actions précédemment distribuées.
-
-En aucun cas ces distributions ne peuvent avoir pour effet de réduire à moins de trois quarts la part du capital appartenant
-à l'Etat, compte tenu des actions cédées dans les conditions fixées à l'artice R. 322-33.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-605 1973-07-04 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L322-23 (M)
-
-	**Cite**:
-
-	  - Code des assurances R322-30, R322-31, R322-33
-
-
-###### Article R*322-33
-
-Dans la limite de 15 % du montant du capital social, des actions des sociétés centrales d'assurance sont offertes en une ou
-plusieurs fois :
-
-- aux membres du personnel et aux agents généraux des entreprises nationales qui en feront la demande. En ce qui concerne les
-membres du personnel, cette demande peut être faite individuellement ou dans le cadre des fonds communs de placement créés
-pour l'emploi de la participation des salariés aux fruits de l'expansion des entreprises ou la réalisation d'un plan
-d'épargne d'entreprise ;
-
-- à la Caisse des dépôts et consignations ;
-
-- aux organismes de retraite et de prévoyance qui auront été spécialement agréés à cet effet par le ministre de l'économie et
-des finances.
-
-**Liens relatifs à cet article**
+	  - Décret n°52-49 du 11 janvier 1952 (Ab)
+	  - Loi n°83-675 du 26 juillet 1983 - art. 1 (V)
 
 	**Codifié par**:
 
@@ -21081,126 +20340,15 @@ des finances.
 
 	**Modifié par**:
 
-	  - Décret n°80-267 1980-04-09 art. 1 JORF 15 avril 1980
+	  - Décret n°90-158 du 19 février 1990 - art. 1 () JORF 21 février 1990 en vigueur le 26 février 1990
 
 	**Abrogé par**:
 
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
+	  - Décret n°94-582 1994-07-12 art. 9 JORF 13 juillet 1994
 
-	**Liens**:
+	**Cité par**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. A322-2 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. A322-3 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. L322-23 (M)
-
-
-###### Article R*322-34
-
-Les actions distribuées gratuitement, en application de l'article R. 322-30, ne sont négociables qu'à l'expiration d'un délai
-de cinq ans à compter du 1er avril de l'année en cours au moment de la distribution, sauf dans les cas exceptionnels énumérés
-au dernier alinéa du présent article.
-
-En cas d'attribution gratuite d'actions créées par incorporation de réserves au capital des entreprises constituant le
-groupe, les actions nouvelles attribuées sont négociables à la même date que les actions qui ont donné droit à l'attribution.
-Les droits d'attribution formant rompus sont immédiatement négociables, ainsi que les actions gratuites obtenues sur
-présentation de droits d'attribution régulièrement négociés.
-
-En cas d'augmentation de capital, tous les droits de souscription sont immédiatement négociables, de même que les actions
-souscrites en numéraire.
-
-Toutefois, les actions distribuées gratuitement deviennent immédiatement négociables dans les cas suivants :
-
-- mariage du titulaire ;
-
-- licenciement ;
-
-- mise à la retraite ;
-
-- invalidité du titulaire ou de son conjoint correspondant au classement dans la deuxième ou la troisième des catégories
-prévues à l'article L. 310 du code de la sécurité sociale ;
-
-- décès du titulaire ou de son conjoint.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-605 1973-07-04 art. 5, art. 6
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L310
-	  - Code des assurances R322-30
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L322-24 (M)
-
-
-###### Article R*322-35
-
-Les actions cédées à titre onéreux en application de l'article R. 322-33, sont négociables à compter du 1er octobre 1973.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-605 1973-07-04 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L322-24 (M)
-
-	**Cite**:
-
-	  - Code des assurances R322-33
-
-
-###### Article R*322-36
-
-Aucune personne physique ne peut posséder un nombre d'actions représentant plus de 0,05 % du capital d'une société centrale
-d'assurance.
-
-Aucune des personnes morales mentionnées à l'article L. 322-24 ne peut posséder un nombre d'actions représentant plus de 1 %
-du capital d'une société d'assurance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°80-267 1980-04-09 art. 2 JORF 15 avril 1980
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-24 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L322-24 (M)
+	  - Code des assurances - art. R*431-6-2 (V)
 
 
 ##### Paragraphe 4 : Dispositions diverses.
@@ -21235,18 +20383,26 @@ sociétés d'assurance dont les actions sont inscrites à la cote officielle des
 
 ###### Article R*322-38
 
-Les commissaires aux comptes des entreprises nationales sont désignés par le président de la cour d'appel, dans le ressort de
-laquelle se trouve leur siège social.
+Les commissaires aux comptes des sociétés centrales d'assurance et des entreprises nationales d'assurance sont désignés dans
+les conditions prévues à l'article 223 de la loi n° 66-537 du 24 juillet 1966 modifiée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°46-835 1946-04-25 art. 17
+	  - Loi n°66-537 1966-07-24 art. 223
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-158 du 19 février 1990 - art. 3 () JORF 21 février 1990 en vigueur le 26 février 1990
+
+	**Abrogé par**:
+
+	  - Décret n°93-234 du 22 février 1993 - art. 1 (V) JORF 24 février 1993
 
 
 ###### Article R*322-39
@@ -21267,27 +20423,6 @@ prévoyant la participation des assurés aux bénéfices.
 	**Abrogé par**:
 
 	  - Décret n°93-234 du 22 février 1993 - art. 1 (V) JORF 24 février 1993
-
-
-###### Article R*322-40
-
-Sur autorisation du ministre de l'économie et des finances, accordée après avis du conseil national des assurances et du
-conseil national du crédit, les entreprises nationales peuvent se procurer, par voie d'emprunts, notamment auprès des banques
-nationales, les moyens nécessaires :
-
-1° Pour constituer les garanties auxquelles serait subordonné leur agrément pour de nouvelles branches ;
-
-2° Pour développer le volume de leurs opérations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
 
 
 ##### Section IV : Sociétés d'assurance à forme mutuelle
