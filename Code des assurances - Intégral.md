@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-10-30
+Version Consolidée au 1991-11-29
 
 # Partie législative
 
@@ -47297,51 +47297,6 @@ postérieure à la date à laquelle s'est produite la circonstance aggravante do
 	  - Code des assurances - art. A121-1 (V)
 	  - Code des assurances - art. A335-9-1 (V)
 	  - Code des assurances - art. A335-9-3 (Ab)
-
-
-###### Article A335-9-3
-
-En assurance de responsabilité civile automobile, la prime de référence visée à l'article 2 de l'annexe à l'article A. 121-1,
-peut faire l'objet de réductions supplémentaires, dans les cas suivants :
-
-Pour les assurés qui se soumettent, conformément aux stipulations du contrat, à des cycles de formation ou de
-perfectionnement à la conduite automobile ;
-
-Pour les assurés qui soumettent, conformément aux stipulations du contrat, leur véhicule à des contrôles techniques ;
-
-Pour les assurés qui répondent à des critères de bonne conduite automobile, distincts de ceux pris en compte pour
-l'application de la clause de réduction-majoration précitée.
-
-La réduction peut être supprimée, dans les deux premiers cas, si l'assuré ne respecte pas son engagement contractuel et, dans
-le dernier cas, s'il est responsable d'un ou plusieurs sinistres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1983-07-22 art. 2
-
-	**Modifié par**:
-
-	  - Arrêté 1991-06-28 art. 2 JORF 30 juin 1991
-
-	**Abrogé par**:
-
-	  - Arrêté 1991-11-22 art. 4 JORF 29 novembre 1991
-
-	**Cité par**:
-
-	  - Arrêté du 22 novembre 1991 - art. 4 (V)
-	  - Code des assurances - art. A335-9-2 (V)
-	  - Code des assurances - art. Annexe à l'article A121-1 (V)
-
-	**Cite**:
-
-	  - Code des assurances A121-1 annexe art. 2
 
 
 ##### Section I : Tarifs
