@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-08-17
+Version Consolidée au 2004-08-25
 
 # Partie législative
 
@@ -38753,374 +38753,65 @@ Le présent article s'applique au mandataire général du Lloyd's de Londres.
 
 ### Titre Ier : Organisations générales d'assurance.
 
-#### Chapitre I : Le conseil national des assurances
+#### Chapitre Ier : Le comité consultatif du secteur financier et le comité consultatif de la législation et de la réglementation financières
 
-###### Article R*411-4
-
-Les dépenses de fonctionnement du Conseil national des assurances sont supportées par le budget du ministère de l'économie et
-des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
-
-
-###### Article R*411-5
-
-Le secrétariat du Conseil national des assurances est assuré par des fonctionnaires mis à la disposition du conseil par le
-ministre chargé de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
-
-
-###### Article R*411-6
-
-Le secrétaire général rédige et soumet à l'approbation du conseil les procès-verbaux des séances. Il est chargé de la
-conservation des procès-verbaux et des archives ainsi que de la diffusion des convocations et des ordres du jour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
-
-
-###### Article R*411-7
-
-Le Conseil national des assurances peut, pour l'examen des affaires dont il est saisi, désigner des rapporteurs parmi ses
-membres ou parmi les professionnels de l'assurance ; il peut également demander au ministre chargé de l'économie et des
-finances de désigner des rapporteurs parmi les fonctionnaires de l'Etat de catégorie A, notamment parmi les commissaires
-contrôleurs des assurances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
-
-
-###### Article R*411-8
-
-Le Conseil national des assurances ne peut délibérer que sur les questions figurant à l'ordre du jour annexé à la
-convocation. Cette convocation est adressée aux membres du Conseil national des assurances au moins quinze jours avant la
-date de la réunion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
-
-
-###### Article R*411-9
-
-Les avis, voeux et résolutions du Conseil national des assurances sont émis à la majorité des voix des membres présents ; en
-cas de partage égal des voix, la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
-
-
-###### Article R*411-10
-
-La commission des entreprises d'assurance, instituée par l'article L. 411-3, est présidée par le ministre chargé de
-l'économie et des finances ou, en son absence, par le directeur chargé des assurances qui en est membre de droit ou par le
-représentant de ce dernier.
-
-La commission comprend en outre :
-
-1° Le président de la commission de contrôle des assurances ;
-
-2° Une personnalité choisie en raison de sa compétence ;
-
-3° Un représentant des assurés ;
-
-4° Un représentant du fonds de garantie institué par l'article L. 423-1..
-
-Les membres de la commission visés aux 2° et 3° du présent article sont nommés par arrêté du ministre chargé de l'économie et
-des finances.
-
-En cas de partage égal des voix, la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°99-688 du 3 août 1999 - art. 4 () JORF 6 août 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
-
-	**Cite**:
-
-	  - Code des assurances - art. L411-3 (M)
-	  - Code des assurances - art. L423-1 (V)
-
-
-###### Article R*411-11
-
-La commission de la réglementation, instituée par l'article L. 411-3, est présidée par le ministre chargé de l'économie et
-des finances ou, en son absence, par le directeur chargé des assurances qui en est membre de droit ou par le représentant de
-ce dernier.
-
-La commission comprend en outre :
-
-1° Le conseiller d'Etat, membre du Conseil national des assurances ;
-
-2° Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ;
-
-3° Une personnalité choisie en raison de sa compétence ;
-
-4° Trois représentants des entreprises d'assurance ;
-
-5° Un représentant des agents généraux d'assurances ou des courtiers d'assurances ;
-
-6° Un représentant des assurés.
-
-Les membres de la commission visés aux 3°, 4°, 5° et 6° du présent article sont nommés par arrêté du ministre chargé de
-l'économie et des finances.
-
-En cas de partage égal des voix, la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-993 du 7 novembre 1990 - art. 1 () JORF 8 novembre 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
-
-	**Cite**:
-
-	  - Code des assurances - art. L411-3 (M)
-
-
-###### Article R*411-12
-
-La commission consultative de l'assurance instituée par l'article L. 411-3 comprend dix-neuf membres nommés par arrêté du
-ministre chargé de l'économie et des finances.
-
-La commission est composée de la manière suivante :
-
-Une personnalité choisie en raison de sa compétence qui en assure la présidence ;
-
-Six représentants des entreprises d'assurance ;
-
-Deux représentants des agents généraux d'assurances ;
-
-Deux représentants des courtiers d'assurances ;
-
-Deux représentants du personnel des entreprises d'assurance mentionnées à l'article L. 310-1 ;
-
-Six représentants des assurés.
-
-L'ordre du jour est communiqué au ministre chargé de l'économie et des finances et au directeur chargé des assurances.
-
-La commission consultative de l'assurance élabore un rapport annuel qui est transmis au Conseil national des assurances. Le
-ministre chargé de l'économie et des finances peut le rendre public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-993 du 7 novembre 1990 - art. 1 () JORF 8 novembre 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-3 (M)
-	  - Code des assurances - art. L411-3 (M)
-
-
-###### Article R*411-13
-
-Le secrétariat des commissions constituées au sein du Conseil national des assurances, en application de l'article L. 411-3,
-est assuré par le secrétaire général du Conseil national des assurances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
-
-	**Cite**:
-
-	  - Code des assurances - art. L411-3 (M)
-
-
-###### Article R*411-14
-
-Des représentants du ministre chargé de l'économie et des finances et du président de la commission de contrôle des
-assurances peuvent assister, en qualité d'expert, aux travaux du Conseil national des assurances et des commissions
-instituées en application de l'article L. 411-3.
-
-Le président du Conseil national des assurances et le président de la commission consultative de l'assurance peuvent appeler
-à participer, avec voix consultative, aux travaux du conseil et des commissions qu'ils président respectivement toute
-personne dont l'audition leur paraît utile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
-
-	**Cite**:
-
-	  - Code des assurances - art. L411-3 (M)
-
-
-###### Article R*411-15
-
-Les membres du Conseil national des assurances et des commissions et les personnes assistant aux séances sont tenus à la
-discrétion professionnelle en ce qui concerne les renseignements d'ordre confidentiel dont ils ont connaissance en raison de
-leurs fonctions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
-
+##### Section I : Le comité consultatif du secteur financier.
 
 ###### Article R411-1
 
-I. - Les membres du Conseil national des assurances visés aux septième à onzième alinéas de l'article L. 411-1 sont désignés
-comme suit :
+La composition et les règles de fonctionnement du comité consultatif du secteur financier sont fixées à l'article D. 614-1 du
+code monétaire et financier, ci-après reproduit : 
 
-1° Les cinq membres représentant l'Etat sont :
+Art.D. 614-1-I.-Le comité consultatif du secteur financier comprend trente membres et leurs suppléants nommés par arrêté du
+ministre chargé de l'économie : 
 
-Le chef du service de la législation fiscale ou son représentant ;
+1° Un député, désigné par le président de l'Assemblée nationale ; 
 
-Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
+2° Un sénateur, désigné par le président du Sénat ; 
 
-Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ;
+3° Dix représentants des établissements de crédit, des entreprises d'investissement, des entreprises d'assurance, des agents
+généraux et courtiers d'assurance, dont :
 
-Le directeur des exploitations, de la politique sociale et de l'emploi au ministère de l'agriculture ou son représentant ;
+- quatre représentants des établissements de crédit ;
 
-Le président de la commission de contrôle des assurances.
+- un représentant des entreprises d'investissement ;
 
-2° Les trois personnalités désignées en raison de leur compétence dans le domaine des assurances sont nommées par arrêté du
-ministre chargé de l'économie et des finances.
+- trois représentants des entreprises d'assurance ;
 
-3° Les douze représentants des professions de l'assurance comprennent :
+- un représentant des agents généraux ;
 
-- huit représentants des entreprises d'assurance, dont le président du conseil de surveillance du fonds de garantie institué
-par l'article L. 423-1 et sept autres représentants désignés sur proposition des organismes représentatifs de la profession ;
+- un représentant des courtiers d'assurance ; 
 
-- deux représentants des agents généraux d'assurance et deux représentants des courtiers d'assurance désignés respectivement
-sur proposition des organisations syndicales représentatives.
+4° Cinq représentants du personnel des établissements de crédit, des entreprises d'assurance et entreprises d'investissement,
+désignés après consultation des organisations syndicales représentatives au plan national ; 
 
-4° Les cinq représentants du personnel des entreprises d'assurance mentionnées à l'article L. 310-1 sont désignés sur
-proposition des organisations syndicales les plus représentatives sur le plan national.
+5° Dix représentants des clientèles des établissements de crédit, des entreprises d'assurance et des entreprises
+d'investissement dont :
 
-5° Le représentant élu des collectivités locales est désigné sur proposition du ministre de l'intérieur ; les sept autres
-représentants des assurés sont désignés sur proposition du Conseil national de la consommation.
+- six représentants de la clientèle de particuliers ;
 
-Les représentants des assurés ne peuvent être choisis parmi les professionnels de l'assurance en activité.
+- quatre représentants de la clientèle de professionnels et d'entreprises ; 
 
-II. - Les membres du Conseil national des assurances mentionnés aux 3°, 4° et 5° du I ci-dessus sont nommés par arrêté du
-ministre chargé de l'économie et des finances.
+6° Trois personnalités nommées en raison de leur compétence. 
 
-III. - En cas d'empêchement, le directeur chargé des assurances est représenté.
+Le président du comité consultatif du secteur financier est nommé parmi les personnalités qualifiées désignées au 6° par
+arrêté du ministre chargé de l'économie. Il dispose d'un secrétariat général chargé de l'assister dans l'exercice de ses
+fonctions. 
+
+Des représentants de l'Etat et, à la demande du président, de toute autre autorité publique, dont la Banque de France,
+peuvent participer aux séances du comité. Ils ne prennent pas part au vote. 
+
+II.-Dans le cadre de ses attributions, le comité peut, à la majorité absolue de ses membres, charger certains de ses membres
+d'étudier des questions particulières et, à cette fin, constituer en son sein des groupes de travail ou d'étude. Le comité
+peut, sur proposition de son président, entendre tout expert. 
+
+III.-Le comité se réunit sur convocation de son président. Il ne peut délibérer que sur les questions inscrites à l'ordre du
+jour annexé à la convocation. En cas de partage égal des voix, celle du président est prépondérante.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -39130,10 +38821,15 @@ III. - En cas d'empêchement, le directeur chargé des assurances est représent
 
 	**Modifié par**:
 
-	  - Décret n°99-688 du 3 août 1999 - art. 3 () JORF 6 août 1999
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004 rectificatif JORF 18 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Liens**:
 
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. D614-1
 	  - TXT_SOURCE: Code des assurances - art. A411-1 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A411-10 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A411-11 (Ab)
@@ -39145,19 +38841,60 @@ III. - En cas d'empêchement, le directeur chargé des assurances est représent
 	  - TXT_SOURCE: Code des assurances - art. A411-7 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A411-8 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A411-9 (Ab)
-	  - TXT_ASSOCIE: Code des assurances A411-1 à A411-11
 
-	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L423-1 (V)
-	  - Code des assurances L310-1, L411, L423-1
-
+##### Section II : Le comité consultatif de la législation et de la réglementation financières.
 
 ###### Article R411-2
 
-En cas de vacance d'un siège, pour quelque cause que ce soit, six mois au moins avant la fin normale du mandat, il est
-procédé, dans le délai de deux mois et dans les mêmes formes, à la nomination du remplaçant pour la durée restant à courir.
+La composition et les règles de fonctionnement du comité consultatif de la législation et de la réglementation financières
+sont fixées à l'article 2 du décret n° 2004-850 du 23 août 2004 relatif au comité consultatif du secteur financier et au
+comité consultatif de la législation et de la réglementation financières, ci-après reproduit :
+
+Art. 2. - I. - Le comité consultatif de la législation et de la réglementation financières est présidé par le ministre chargé
+de l'économie ou son représentant. Le comité comprend quatorze autres membres :
+
+1° Un député, désigné par le président de l'Assemblée nationale ;
+
+2° Un sénateur, désigné par le président du Sénat ;
+
+3° Un membre du Conseil d'Etat en activité, désigné sur proposition du vice-président du Conseil d'Etat ;
+
+4° Le gouverneur de la Banque de France, président de la Commission bancaire, ou son représentant ;
+
+5° Le président de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, ou son
+représentant ;
+
+6° Le directeur des affaires civiles et du sceau au ministère de la justice, ou son représentant ;
+
+7° Deux représentants des établissements de crédit et des entreprises d'investissement ;
+
+8° Deux représentants des sociétés d'assurance régies par le code des assurances ;
+
+9° Un représentant des organisations syndicales représentatives au plan national du personnel des secteurs bancaire et de
+l'assurance, et des entreprises d'investissement ;
+
+10° Un représentant des clientèles des établissements de crédit, des entreprises d'assurance et des entreprises
+d'investissement ;
+
+11° Deux personnalités choisies en raison de leur compétence.
+
+Lorsqu'il examine des prescriptions d'ordre général touchant à l'activité des prestataires des services d'investissement, le
+comité consultatif de la législation et de la réglementation financières comprend également le président de l'Autorité des
+marchés financiers ou son représentant.
+
+Les membres désignés aux 1° et 2° participent aux travaux du comité lorsque sont examinés des projets de règlement ou de
+directive communautaires ou des projets de loi.
+
+Les membres du comité désignés aux 1°, 2°, 3°, 7°, 8°, 9°, 10° et 11° et leur suppléants sont nommés par arrêté du ministre
+chargé de l'économie.
+
+II. - Le comité consultatif de la législation et la réglementation financières dispose d'un secrétariat général dirigé par un
+secrétaire général nommé par arrêté du ministre chargé de l'économie. Le secrétaire général est assisté de deux secrétaires
+généraux adjoints nommés dans les mêmes conditions.
+
+III. - Le comité se réunit sur convocation de son président. Il ne peut délibérer que sur les questions inscrites à l'ordre
+du jour annexé à la convocation. En cas de partage égal des voix, celle du président est prépondérante.
 
 **Liens relatifs à cet article**
 
@@ -39165,9 +38902,13 @@ procédé, dans le délai de deux mois et dans les mêmes formes, à la nominati
 
 	  - Décret n°76-666 1976-07-16
 
+	**Cite**:
+
+	  - Décret n°2004-850 du 23 août 2004 - art. 2, v. init.
+
 	**Modifié par**:
 
-	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004 rectificatif JORF 18 septembre 2004
 
 	**Liens**:
 
@@ -39201,14 +38942,36 @@ procédé, dans le délai de deux mois et dans les mêmes formes, à la nominati
 	  - Code des assurances - art. R411-1 (M)
 
 
+##### Section III : Dispositions communes.
+
 ###### Article R411-3
 
-Il est pourvu au remplacement des membres du Conseil national des assurances, quinze jours au moins avant l'expiration de
-leurs fonctions.
+Les dispositions communes au comité consultatif du secteur financier et au comité consultatif de la législation et de la
+réglementation financières sont énumérées à l'article D. 614-3 du code monétaire et financier, ci-après reproduit : 
 
-Lorsque les instances chargées de transmettre des propositions au ministre chargé de l'économie et des finances en vue de la
-nomination de leurs représentants ne lui ont pas fait parvenir ces propositions au plus tard quinze jours avant la date du
-renouvellement, le ministre peut procéder directement à la nomination desdits représentants.
+Art.D. 614-3-I.-Les fonctions de membre du comité consultatif du secteur financier et de membre du comité consultatif de la
+législation et de la réglementation financières sont gratuites. 
+
+II.-La Banque de France met à disposition des secrétariats généraux des comités consultatifs des agents et des moyens
+nécessaires à l'exercice de leurs missions. 
+
+III.-Les représentants des assemblées parlementaires siègent au sein des comités consultatifs jusqu'au renouvellement du
+mandat au titre duquel ils ont été désignés. Il est procédé à leur remplacement à l'occasion de ce renouvellement. Les autres
+membres des comités, à l'exception des membres de droit, sont nommés pour une durée de trois ans. 
+
+En cas de décès ou de démission d'un membre ou de perte en cours de mandat de la qualité ayant justifié sa désignation, il
+est procédé dans les deux mois et dans les mêmes formes à son remplacement pour la durée restant à courir de son mandat. 
+
+IV.-Les membres des comités consultatifs ont un devoir de discrétion pour les informations dont ils ont connaissance à raison
+de leurs fonctions.
+
+V.-Le comité consultatif du secteur financier et le comité consultatif de la législation et de la réglementation financières
+adressent chacun un rapport annuel au Président de la République et au Parlement. Ces rapports sont publics.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -39218,7 +38981,15 @@ renouvellement, le ministre peut procéder directement à la nomination desdits 
 
 	**Modifié par**:
 
-	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. D614-3
 
 
 #### Chapitre II : L'école nationale d'assurances.
