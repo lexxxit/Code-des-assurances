@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1983-06-08
+Version Consolidée au 1983-06-14
 
 # Partie législative
 
@@ -13857,10 +13857,11 @@ objets et substances qu'il transporte ;
 	  - Décret n°76-667 1976-07-16
 
 
-###### Article R*211-7
+###### Article R211-7
 
-L'assurance doit être souscrite pour une somme d'au moins deux millions de francs par véhicule et par sinistre corporel, et
-d'au moins un million de francs par véhicule et par sinistre matériel, sans préjudice des dispositions de l'article L. 211-7.
+L'assurance doit être souscrite pour une somme d'au moins cinq millions de francs par véhicule et par sinistre corporel, et
+d'au moins trois millions de francs par véhicule et par sinistre matériel, sans préjudice des dispositions de l'article L.
+211-7.
 
 Par dérogation aux dispositions de l'alinéa précédent, l'assurance doit être souscrite sans limitation de somme en ce qui
 concerne les véhicules pour la conduite desquels est exigée la possession d'un permis entrant dans l'une des catégories C, D
@@ -13871,6 +13872,10 @@ ou E prévues à l'article R. 124 du code de la route.
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-482 1983-06-09 art. 2 JORF 14 juin 1983
 
 	**Cité par**:
 
@@ -13889,7 +13894,7 @@ ou E prévues à l'article R. 124 du code de la route.
 	  - Code de la route R124
 
 
-###### Article R*211-8
+###### Article R211-8
 
 Par dérogation aux dispositions qui précèdent, l'obligation d'assurance ne s'applique pas à la réparation :
 
@@ -13897,35 +13902,32 @@ Par dérogation aux dispositions qui précèdent, l'obligation d'assurance ne s'
 
 a) Par la personne conduisant le véhicule ;
 
-b) Lorsqu'ils sont transportés dans le véhicule, par le conjoint, les ascendants et les descendants des personnes mentionnées
-aux articles R. 211-2 et R. 211-3 et au a ci-dessus et dont la responsabilité est engagée du fait du sinistre ;
+b) (abrogé) ;
 
-c) Lorsqu'ils sont transportés dans le véhicule, par les représentants légaux de la personne morale propriétaire de ce
-véhicule ;
+c) (abrogé) ;
 
 d) Pendant leur service, par les salariés ou préposés des assurés responsables des dommages ;
 
-2° Des dommages résultant des opérations de chargement ou de déchargement du véhicule ;
+2° (abrogé) ;
 
-3° Des dommages résultant des effets directs ou indirects d'explosion, de dégagement de chaleur, d'irradiation provenant de
-transmutation de noyaux d'atome ou de la radio-activité, ainsi que des effets de radiations provoquées par l'accélération
-artificielle de particules ;
+3° Des dommages ou de l'aggravation des dommages causés par des armes ou engins destinés à exploser par modification de
+structure du noyau de l'atome ou par tout combustible nucléaire, produit ou déchet radioactif ou par tout autre source de
+rayonnements ionisants et qui engagent la responsabilité exclusive d'un exploitant d'installation nucléaire.
 
-4° Des dommages atteignant les immeubles, choses ou animaux loués ou confiés à l'assuré ou au conducteur à n'importe quel
-titre ;
+4° Des dommages atteignant les immeubles, choses ou animaux loués ou confiés au conducteur à n'importe quel titre.
 
 5° Des dommages causés aux marchandises et objets transportés, sauf en ce qui concerne la détérioration des vêtements des
 personnes transportées, lorsque celle-ci est l'accessoire d'un accident corporel.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 8
-
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-482 1983-06-09 art. 3 JORF 14 juin 1983
 
 	**Liens**:
 
@@ -13938,142 +13940,8 @@ personnes transportées, lorsque celle-ci est l'accessoire d'un accident corpore
 	  - Code des assurances - art. R*211-11 (M)
 	  - Code des assurances - art. R211-6 (Ab)
 
-	**Cite**:
-
-	  - Code des assurances - art. R*211-2 (M)
-	  - Code des assurances - art. R*211-3 (M)
-
-
-###### Article R211-6
-
-Sous réserve des dérogations prévues à l'article R. 211-8, l'obligation d'assurance s'applique à la réparation des dommages
-causés à toutes les personnes autres que celles énumérées respectivement au premier alinéa de l'article R. 211-2 et au
-premier alinéa de l'article R. 211-3, et notamment à la réparation des dommages causés aux personnes transportées à titre
-gratuit ou onéreux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°83-482 1983-06-09 art. 1 JORF 14 juin 1983
-
-	**Cité par**:
-
-	  - Code des assurances - art. A331-25 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-	  - SPEC_APPLI: Code des assurances - art. R*211-8 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*211-2 (M)
-	  - Code des assurances - art. R*211-3 (M)
-	  - Code des assurances - art. R*211-8 (M)
-
 
 ##### Section III : Franchises, exclusions de garanties, déchéances et recours de l'assureur.
-
-###### Article R*211-10
-
-Le contrat d'assurance peut, sans qu'il soit contrevenu aux dispositions de l'article L. 211-1, comporter des clauses
-prévoyant une exclusion de garantie dans les cas suivants :
-
-1° Lorsque au moment du sinistre, le conducteur n'a pas l'âge requis ou ne possède pas les certificats, en état de validité,
-exigés par la réglementation en vigueur pour la conduite du véhicule, sauf en cas de vol, de violence ou d'utilisation du
-véhicule à l'insu de l'assuré ;
-
-2° En ce qui concerne les dommages subis par les personnes transportées, lorsque le transport n'est pas effectué dans les
-conditions suffisantes de sécurité fixées par un arrêté conjoint du ministre de l'économie et des finances, du garde des
-sceaux, ministre de la justice, du ministre de l'intérieur, du ministre de la défense et du ministre chargé des transports.
-
-En outre, le contrat peut comporter des clauses de déchéance non prohibées par la loi, sous réserve qu'elles soient insérées
-aux conditions générales et que la déchéance soit motivée par des faits postérieurs au sinistre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. A211-3 (V)
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. A211-3 (V)
-	  - Code des assurances - art. R211-13 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 9
-
-
-###### Article R*211-11
-
-Sont valables, sans que la personne assujettie à l'obligation d'assurance soit dispensée de cette obligation dans les cas
-prévus ci-dessous, les clauses des contrats ayant pour objet d'exclure de la garantie la responsabilité encourue par
-l'assuré :
-
-1° Du fait des dommages subis par les personnes transportées sur un véhicule à deux roues, dans un side-car ou sur un
-triporteur ; cependant la garantie doit couvrir dans tous les cas la responsabilité civile encourue par l'assuré du fait des
-dommages subis par les personnes, autres que celles mentionnées aux articles R. 211-2 et R. 211-3 et au 1° de l'article R.
-211-8 qui, se trouvant en péril, sont transportées au lieu où des secours peuvent leur être donnés ;
-
-2° Du fait des dommages subis par les personnes transportées à titre onéreux, sauf en ce qui concerne les contrats souscrits
-par des transporteurs de personnes pour les véhicules servant à l'exercice de leur profession ;
-
-3° Du fait des dommages causés par le véhicule, lorsqu'il transporte des matières inflammables, explosives, corrosives ou
-comburantes et à l'occasion desquels lesdites matières auraient provoqué ou aggravé le sinistre ; toutefois la non-assurance
-ne saurait être invoquée du chef de transports d'huiles, d'essences minérales ou de produits similaires, ne dépassant pas 500
-kilogrammes ou 600 litres, y compris l'approvisionnement de carburant liquide ou gazeux nécessaire au moteur ;
-
-4° Du fait des dommages survenus au cours d'épreuves, courses, compétitions ou leurs essais, soumis par la réglementation en
-vigueur à l'autorisation préalable des pouvoirs publics. Toute personne participant à l'une de ces épreuves, courses,
-compétitions ou essais en qualité de concurrent ou d'organisateur n'est réputée avoir satisfait aux prescriptions du présent
-titre que si sa responsabilité est garantie par une assurance, dans les conditions exigées par la réglementation applicable
-en la matière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*211-2 (M)
-	  - Code des assurances - art. R*211-3 (M)
-	  - Code des assurances - art. R*211-8 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R211-12 (V)
-	  - Code des assurances - art. R211-13 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 10
-
 
 ###### Article R*211-12
 
@@ -14181,6 +14049,94 @@ contrat d'assurance que l'assuré conserve à sa charge une partie de l'indemnit
 	**Anciens textes**:
 
 	  - Décret n°59-135 1959-01-07 art. 7
+
+
+###### Article R211-10
+
+Le contrat d'assurance peut, sans qu'il soit contrevenu aux dispositions de l'article L. 211-1 comporter des clauses
+prévoyant une exclusion de garantie dans les cas suivants :
+
+1° Lorsque au moment du sinistre, le conducteur n'a pas l'âge requis ou ne possède pas les certificats, en état de validité,
+exigés par la réglementation en vigueur pour la conduite du véhicule, sauf en cas de vol, de violence ou d'utilisation du
+véhicule à l'insu de l'assuré ;
+
+2° En ce qui concerne les dommages subis par les personnes transportées, lorsque le transport n'est pas effectué dans les
+conditions suffisantes de sécurité fixées par un arrêté conjoint du ministre de l'économie et des finances, du garde des
+sceaux, ministre de la justice, du ministre de l'intérieur, du ministre de la défense et du ministre chargé des transports.
+
+En outre, le contrat peut comporter des clauses de déchéance non prohibées par la loi, sous réserve qu'elles soient insérées
+aux conditions générales et que la déchéance soit motivée par des faits postérieurs au sinistre.
+
+L'exclusion prévue au 1° du premier alinéa du présent article ne peut être opposée au conducteur détenteur d'un certificat
+déclaré à l'assureur lors de la souscription ou du renouvellement du contrat, lorsque ce certificat est sans validité pour
+des raisons tenant au lieu ou à la durée de résidence de son titulaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-482 1983-06-09 art. 4 JORF 14 juin 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. A211-3 (V)
+	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A211-3 (V)
+	  - Code des assurances - art. R211-13 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L211-1 (M)
+
+
+###### Article R211-11
+
+Sont valables, sans que la personne assujettie à l'obligation d'assurance soit dispensée de cette obligation dans les cas
+prévus ci-dessous, les clauses des contrats ayant pour objet d'exclure de la garantie la responsabilité encourue par
+l'assuré :
+
+1° Du fait des dommages causés par le véhicule lorsqu'il transporte des sources de rayonnements ionisants destinés à être
+utilisées hors d'une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre ;
+
+2° Du fait des dommages subis par les personnes transportées à titre onéreux, sauf en ce qui concerne les contrats souscrits
+par des transporteurs de personnes pour les véhicules servant à l'exercice de leur profession ;
+
+3° Du fait des dommages causés par le véhicule, lorsqu'il transporte des matières inflammables, explosives, corrosives ou
+comburantes et à l'occasion desquels lesdites matières auraient provoqué ou aggravé le sinistre ; toutefois la non-assurance
+ne saurait être invoquée du chef de transports d'huiles, d'essences minérales ou de produits similaires, ne dépassant pas 500
+kilogrammes ou 600 litres, y compris l'approvisionnement de carburant liquide ou gazeux nécessaire au moteur ;
+
+4° Du fait des dommages survenus au cours d'épreuves, courses, compétitions ou leurs essais, soumis par la réglementation en
+vigueur à l'autorisation préalable des pouvoirs publics. Toute personne participant à l'une de ces épreuves, courses,
+compétitions ou essais en qualité de concurrent ou d'organisateur n'est réputée avoir satisfait aux prescriptions du présent
+titre que si sa responsabilité est garantie par une assurance, dans les conditions exigées par la réglementation applicable
+en la matière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-482 1983-06-09 art. 5 JORF 14 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des assurances - art. R*211-12 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R211-12 (V)
+	  - Code des assurances - art. R211-13 (M)
 
 
 ##### Section IV : Contrôle de l'obligation d'assurance.
@@ -14566,197 +14522,6 @@ Finlande, Norvège, Suède, Suisse et Liechtenstein.
 	  - Décret n°59-135 1959-01-07 art. 33 bis
 
 
-#### Chapitre II : L'obligation d'assurer - Le bureau de tarification.
-
-###### Article R*212-1
-
-Le bureau central de tarification institué par l'article L. 212-1 comprend un président et douze membres qui sont nommés par
-arrêté du ministre de l'économie.
-
-1. Le président est choisi, sur proposition du conseil national des assurances, parmi les professeurs des disciplines
-juridiques des universités, les conseillers d'Etat, les conseillers à la Cour de cassation et les conseillers maîtres à la
-Cour des comptes.
-
-2. Six membres représentent les entreprises d'assurances françaises et étrangères agréées pour pratiquer l'assurance
-automobile et sont nommés sur proposition des organismes professionnels ; un de ces membres représente les caisses
-d'assurance et de réassurance mutuelles agricoles pratiquant l'assurance automobile.
-
-3. Six membres représentent les personnes assujetties à l'obligation d'assurance ; ils sont nommés sur proposition respective
-de l'assemblée permanente des présidents des chambres de commerce et d'industrie de France, de la fédération française des
-clubs automobiles, du collège des consommateurs du comité national de la consommation, de l'assemblée permanente des
-présidents de chambre d'agriculture, du Touring-Club de France et des organismes professionnels les plus représentatifs de
-transports publics routiers de voyageurs et de marchandises.
-
-4. Le président et les membres sont remplacés en cas d'empêchement par des suppléants nommés dans les mêmes conditions que
-les membres titulaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°80-760 du 22 septembre 1980 - art. 1 () JORF 28 septembre 1980 en vigueur le 1er novembre 1980
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°80-760 du 22 septembre 1980 - art. 4 (V)
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L212-1 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*212-3 (Ab)
-
-
-###### Article R212-4
-
-Le bureau central de tarification peut être saisi par toute personne assujettie à l'obligation d'assurance, lorsqu'un
-assureur oppose un refus à une proposition tendant soit à la souscription d'un contrat nouveau, soit à la modification d'un
-contrat déjà existant, lorsque cette proposition est faite pour satisfaire à l'obligation d'assurance.
-
-Lorsqu'il s'agit de la souscription d'un contrat nouveau, le silence de l'assureur pendant plus de dix jours après réception
-de la proposition est considéré comme un refus implicite d'assurance ; lorsqu'il s'agit de la modification d'un contrat déjà
-existant, il est fait application des dispositions du deuxième alinéa de l'article L. 112-2.
-
-Est assimilé à un refus le fait par l'assureur, saisi d'une proposition d'assurance en application de l'article L. 211-1, de
-subordonner son acceptation à la couverture de risques non mentionnés par cet article ou dont l'étendue excéderait les
-limites de l'obligation d'assurance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. L112-2 (M)
-	  - Code des assurances - art. L211-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 25
-
-
-###### Article R212-7
-
-Le bureau central de tarification décide d'abord si le risque faisant l'objet de la proposition refusée constitue ou non, en
-raison de circonstances qui lui sont propres, un risque anormalement grave.
-
-Si le risque proposé n'est pas anormalement grave, l'assureur intéressé est tenu de le garantir moyennant le paiement de la
-prime prévue au tarif de référence.
-
-Si le risque proposé est anormalement grave, le bureau fixe les conditions dans lesquelles il doit être garanti par
-l'assureur auquel il a été proposé. A cet effet, le bureau peut :
-
-- soit fixer la majoration qui doit être appliquée au tarif de référence pour le calcul de la prime ;
-
-- soit appliquer le tarif de référence et fixer le montant d'une franchise qui reste à la charge de l'assuré ;
-
-- soit fixer à la fois la majoration applicable au tarif de référence et le montant d'une franchise.
-
-Est considéré comme tarif de référence :
-
-a) Si l'assureur intéressé est partie à un accord en matière de tarifs communiqué au ministre de l'économie et des finances
-dans les conditions prévues à l'article L. 310-5, le tarif fixé par cet accord ;
-
-b) Dans le cas contraire, le tarif communiqué par l'assureur intéressé au ministre de l'économie et des finances,
-conformément à l'article R. 310-6.
-
-Au cas où le risque proposé n'entre pas dans une des catégories prévues par le tarif de référence, le bureau fixe la prime en
-tenant compte de l'usage en la matière ; à défaut d'usage, le bureau se fonde sur tous éléments d'appréciation.
-
-La décision prise par le bureau central de tarification est, dans un délai de dix jours, notifiée à l'assureur et portée à la
-connaissance de la personne assujettie à l'obligation d'assurance.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-5 (M)
-	  - Code des assurances L310-5, R310-6
-
-	**Cité par**:
-
-	  - Code des assurances - art. R211-13 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 28
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-
-###### Article R212-8
-
-Le commissaire du Gouvernement possède un droit d'investigation permanente auprès du bureau central de tarification. Il
-assiste à toutes ses réunions et peut, à la suite d'une décision du bureau central de tarification qui lui paraît
-critiquable, demander au bureau, soit immédiatement, soit dans les cinq jours qui suivent la date de la décision, un nouvel
-examen de l'affaire dans le délai qu'il fixera.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. A212-3 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R211-9 (2ème version)
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 29
-
-
-###### Article R212-9
-
-Le bureau central de tarification établit son règlement intérieur qui est soumis, avant application, à l'approbation du
-ministre de l'économie et des finances ; son secrétariat est assuré par le conseil national des assurances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R212-10
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 30
-
-
 #### Chapitre II : L'obligation d'assurer - Le bureau central de tarification.
 
 ###### Article R*212-2
@@ -14821,6 +14586,206 @@ postes devront être à nouveau pourvus dans les conditions prévues à l'articl
 	**Cite**:
 
 	  - Code des assurances - art. R212-1 (M)
+
+
+###### Article R*212-4
+
+Le bureau central de tarification peut être saisi par toute personne assujettie à l'obligation d'assurance, lorsqu'un
+assureur oppose un refus à une proposition tendant soit à la souscription d'un contrat nouveau, soit à la modification d'un
+contrat déjà existant, lorsque cette proposition est faite pour satisfaire à l'obligation d'assurance.
+
+Lorsqu'il s'agit de la souscription d'un contrat nouveau, le silence de l'assureur pendant plus de quinze jours après
+réception de la proposition est considéré comme un refus implicite d'assurance ; lorsqu'il s'agit de la modification d'un
+contrat déjà existant, il est fait application des dispositions du deuxième alinéa de l'article L. 112-2.
+
+Est assimilé à un refus le fait par l'assureur, saisi d'une proposition d'assurance en application de l'article L. 211-1, de
+subordonner son acceptation à la couverture de risques non mentionnés par cet article ou dont l'étendue excéderait les
+limites de l'obligation d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-484 1983-06-09 art. 2 JORF 14 juin 1983
+
+	**Cite**:
+
+	  - Code des assurances - art. L112-2 (M)
+	  - Code des assurances - art. L211-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+
+
+###### Article R*212-7
+
+Le bureau central de tarification fixe la prime et la franchise à partir du tarif de l'entreprise d'assurance applicable à la
+proposition établie par la personne assujettie à l'obligation d'assurance.
+
+La décision prise par le bureau central de tarification est, dans un délai de dix jours, notifiée à l'entreprise d'assurance
+et portée à la connaissance de la personne assujettie à l'obligation d'assurance.
+
+La garantie entre en vigueur le jour de l'acceptation de la personne assujettie à l'obligation d'assurance. Elle est valable
+un an et renouvelable par tacite reconduction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-484 1983-06-09 art. 3 JORF 14 juin 1983
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R211-13 (M)
+
+
+###### Article R*212-8
+
+Toute entreprise d'assurance agréée pour pratiquer le opérations de responsabilité civile résultant de l'emploi de véhicules
+terrestres automoteurs doit tenir à la disposition de toute personne qui en fait la demande, des formules de proposition
+permettant de répondre aux prescriptions de l'article R. 212-5 ; elle doit, de plus, indiquer le montant de la prime
+applicable au risque proposé et fixé par son tarif de référence, tel qu'il a été communiqué au ministre de l'économie, des
+finances et du budget, conformément à l'article R. 310-6. Dans le cas d'une entreprise à cotisations variables, la
+possibilité réglementaire d'un rappel de cotisation doit être indiquée.
+
+En outre, et si la personne le sollicite, l'entreprise d'assurance doit fournir les éléments d'information relatifs au calcul
+de cette prime en distinguant la prime normale, la surprime pour circonstances aggravantes, ainsi que les réductions ou
+majorations diverses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-484 1983-06-09 art. 5 JORF 14 juin 1983
+
+	**Cité par**:
+
+	  - Code des assurances - art. A212-3 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. R212-5 (Ab)
+	  - Code des assurances R212-5, R310-6
+
+
+###### Article R*212-9
+
+Le commissaire du Gouvernement possède un droit d'investigation permanente auprès du bureau central de tarification. Il
+assiste à toutes ses réunions et peut, à la suite d'une décision du bureau central de tarification qui lui paraît
+critiquable, demander au bureau, soit immédiatement, soit dans les cinq jours qui suivent la date de la décision, un nouvel
+examen de l'affaire dans le délai qu'il fixera.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Transféré par**:
+
+	  - Décret n°83-484 1983-06-09 art. 4 JORF 14 juin 1983
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances R212-8 (1ère version)
+
+
+###### Article R*212-10
+
+Le bureau central de tarification établit son règlement intérieur qui est soumis, avant application, à l'approbation du
+ministre de l'économie et des finances ; son secrétariat est assuré par le conseil national des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°83-484 1983-06-09 art. 4 JORF 14 juin 1983
+
+	**Anciens textes**:
+
+	  - Code des assurances R211-9 (1ère version)
+
+
+###### Article R212-1
+
+Le bureau central de tarification institué par l'article L. 212-1 comprend un président et douze membres qui sont nommés par
+arrêté du ministre de l'économie.
+
+1. Le président est choisi, sur proposition du conseil national des assurances, parmi les professeurs des disciplines
+juridiques des universités, les conseillers d'Etat, les conseillers à la Cour de cassation et les conseillers maîtres à la
+Cour des comptes.
+
+2. Six membres représentent les entreprises d'assurances françaises et étrangères agréées pour pratiquer l'assurance
+automobile et sont nommés sur proposition des organismes professionnels ; un de ces membres représente les caisses
+d'assurance et de réassurance mutuelles agricoles pratiquant l'assurance automobile.
+
+3. Six membres représentent les personnes assujetties à l'obligation d'assurance ; ils sont nommés sur proposition respective
+de l'assemblée permanente des présidents de chambres de commerce et d'industrie de France, de l'assemblée permanente des
+présidents de chambres d'agriculture, de l'assemblée permanente des présidents de chambres de métiers, de la fédération
+française des clubs automobiles, des organismes professionnels les plus représentatifs des transports publics routiers de
+voyageurs ou de marchandises et du collège des consommateurs du comité national de la consommation.
+
+4. Le président et les membres sont remplacés en cas d'empêchement par des suppléants nommés dans les mêmes conditions que
+les membres titulaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-484 1983-06-09 art. 1 JORF 14 juin 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L212-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*212-3 (Ab)
 
 
 ###### Article R212-5
@@ -31001,14 +30966,7 @@ français.
 
 Sont exclus du bénéfice du fonds de garantie :
 
-1° Lorsque les dommages ont été causés par un véhicule terrestre à moteur :
-
-a) Le propriétaire, hormis le cas où le véhicule a été volé, le conducteur et, d'une façon générale, toute personne qui a la
-garde du véhicule au moment de l'accident ;
-
-b) Lorsqu'ils sont transportés dans le véhicule, le conjoint, les ascendants et descendants des personnes mentionnées au a
-ci-dessus et dont la responsabilité est engagée du fait de l'accident ainsi que les représentants légaux de la personne
-morale propriétaire du véhicule.
+1° Lorsque les dommages ont été causés par un véhicule terrestre à moteur, les dommages causés au conducteur.
 
 2° Lorsque les dommages ont été causés par un animal ou par une chose autre qu'un véhicule terrestre à moteur.
 
@@ -31017,7 +30975,7 @@ a) Le propriétaire ou la personne qui a la garde de l'animal ou de la chose au 
 b) Le conjoint, les ascendants et descendants des personnes mentionnées au a ci-dessus et dont la responsabilité est engagée
 du fait de l'accident ainsi que les représentants légaux de la personne morale propriétaire de l'animal ou de la chose.
 
-3° Dans les cas autres que ceux mentionnés au 1° et 2° ci-dessus l'auteur de l'accident, son conjoint, ses ascendants et
+3° Dans les cas autres que ceux mentionnés aux 1° et 2° ci-dessus, l'auteur de l'accident, son conjoint, ses ascendants et
 descendants.
 
 Lorsque le véhicule, l'animal ou la chose qui ont causé l'accident ont été volés, sont également exclus du bénéfice du fonds
@@ -31025,8 +30983,8 @@ de garantie les complices du vol et d'une manière générale toutes les personn
 si elles ne peuvent justifier de leur bonne foi.
 
 Toutefois, les personnes désignées au présent article peuvent invoquer la garantie du fonds lorsque l'accident a été causé en
-tout ou en partie par la circulation d'un tiers ou d'une chose ou d'un animal appartenant à un tiers ou sous sa garde et dans
-la mesure de sa responsabilité.
+tout ou partie par la circulation d'un tiers ou d'une chose ou d'un animal appartenant à un tiers ou sous sa garde et dans la
+mesure de sa responsabilité.
 
 **Liens relatifs à cet article**
 
@@ -31036,7 +30994,7 @@ la mesure de sa responsabilité.
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°83-482 1983-06-09 art. 6 JORF 14 juin 1983
 
 	**Liens**:
 
@@ -31256,13 +31214,13 @@ recommandée avec demande d'avis de réception. A l'appui de leur demande, ils s
 1° Soit qu'ils sont français, soit qu'ils ont leur résidence principale sur le territoire de la République française ;
 
 Soit qu'ils sont ressortissants d'un Etat ayant conclu avec la France un accord de réciprocité et qu'ils remplissent les
-conditions fixées par cet accord :
+conditions fixées par cet accord ;
 
 Soit enfin, pour les accidents causés par l'emploi des véhicules définis à l'article R. 420-1, 2e alinéa, qu'ils sont
 ressortissants d'un Etat membre de la Communauté économique européenne autre que la France, du Saint-Siège, de Saint-Marin ou
 de Monaco, ou qu'ils ont leur résidence principale dans un de ces Etats.
 
-2° Que l'accident ouvre droit a réparation à leur profit dans les termes de la législation française sur la responsabilité
+2° Que l'accident ouvre droit à réparation à leur profit dans les termes de la législation française sur la responsabilité
 civile et qu'il ne peut donner droit à indemnisation complète à aucun titre. Si la victime ou ses ayants droit peuvent
 prétendre à une indemnisation partielle à un autre titre, le fonds de garantie ne prend en charge que le complément.
 
@@ -31270,9 +31228,8 @@ Les réclamants doivent également justifier soit que le responsable de l'accide
 révélé, ainsi qu'éventuellement son assureur, totalement ou partiellement insolvable après la fixation de l'indemnité par une
 transaction ou une décision de justice exécutoire.
 
-Pour le fonds de garantie, l'insolvabilité du responsable de l'accident résulte d'une sommation de payer suivie de refus ou
-demeurée sans effet pendant un délai d'un mois à compter de sa signification. Celle de l'assureur résulte du retrait de
-l'agrément administratif.
+L'insolvabilité du responsable de l'accident sera établie par une mise en demeure restée sans effet pendant un mois. Celle de
+l'assureur résulte du retrait de l'agrément administratif.
 
 **Liens relatifs à cet article**
 
@@ -31282,7 +31239,7 @@ l'agrément administratif.
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°83-482 1983-06-09 art. 8 JORF 14 juin 1983
 
 	**Liens**:
 
@@ -31396,14 +31353,8 @@ l'article R. 420-27.
 uniquement ceux qui sont causés accidentellement par un ou plusieurs véhicules terrestres à moteur ainsi que par les
 remorques ou semi-remorques de ces véhicules.
 
-Sont exclus du bénéfice du fonds de garantie :
-
-a) Le propriétaire, hormis le cas où le véhicule a été volé, le conducteur et, d'une façon générale, toute personne qui a la
-garde du véhicule au moment de l'accident ;
-
-b) Lorsqu'ils sont transportés dans le véhicule : le conjoint, les ascendants et descendants des personnes mentionnées au a
-et dont la responsabilité est engagée du fait de l'accident ainsi que les représentants légaux de la personne morale
-propriétaire du véhicule.
+Sont exclus du bénéfice du fonds de garantie les dommages subis par le véhicule qui a causé l'accident ainsi que les dommages
+aux biens du conducteur.
 
 Lorsque le véhicule qui a causé l'accident a été volé, sont également exclus du bénéfice du fonds de garantie les complices
 du vol et d'une manière générale toutes les personnes transportées dans le véhicule si elles ne peuvent justifier de leur
@@ -31421,7 +31372,7 @@ droit en précisant le numéro de la police.
 
 2. Les dispositions des articles R. 420-13 à R. 420-16 sont applicables à l'indemnisation des dommages matériels.
 
-3. Le fonds de garantie ne prend pas en charge des dommages matériels subis par l'Etat et par les collectivités publiques,
+3. Le fonds de garantie ne prend pas en charge les dommages matériels subis par l'Etat et par les collectivités publiques,
 entreprises et organismes bénéficiaires d'une dérogation à l'obligation d'assurance accordée en application de l'article L.
 211-3.
 
@@ -31433,12 +31384,13 @@ entreprises et organismes bénéficiaires d'une dérogation à l'obligation d'as
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°83-482 1983-06-09 art. 9 JORF 14 juin 1983
 
 	**Cite**:
 
 	  - Code des assurances - art. L211-3 (Ab)
-	  - Code des assurances R420-13 à R420-16, L211-3
+	  - Code des assurances - art. L420-1 (M)
+	  - Code des assurances L420-1, R420-13 à R420-16, L211-3
 
 	**Liens**:
 
@@ -31448,12 +31400,12 @@ entreprises et organismes bénéficiaires d'une dérogation à l'obligation d'as
 
 ###### Article R*420-19
 
-L'indemnisation des dommages matériels par le fonds de garantie supporte un abattement de 1.000 F par victime et ne peut
-excéder la somme de 1 million de francs par événement.
+L'indemnisation des dommages matériels par le fonds de garantie supporte un abattement de 1.500 F par victime et ne peut
+excéder la somme de 3 millions de francs par événement.
 
 Les espèces, valeurs mobilières et objets considérés comme précieux ne donnent pas lieu à indemnisation.
 
-L'indemnisation des dommages occasionnés à des effets et objets personnels ne peut excéder 3.000 F par victime.
+L'indemnisation des dommages occasionnés à des effets et objets personnels ne peut excéder 4.500 F par victime.
 
 **Liens relatifs à cet article**
 
@@ -31463,7 +31415,7 @@ L'indemnisation des dommages occasionnés à des effets et objets personnels ne 
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°83-482 1983-06-09 art. 10 JORF 14 juin 1983
 
 	**Liens**:
 
@@ -31474,12 +31426,12 @@ L'indemnisation des dommages occasionnés à des effets et objets personnels ne 
 ###### Article R*420-20
 
 1. Pour bénéficier des dispositions de l'article R. 420-18 toute victime de dommages matériels mentionnés audit article doit,
-sous peine de déchéance de ses droits éventuels à l'égard du fonds de garantie, adresser audit fond une déclaration
+sous peine de déchéance de ses droits éventuels à l'égard du fonds de garantie, adresser audit fonds une déclaration
 accompagnée de l'état descriptif des dommages et de justifications relatives à l'identité de l'adversaire, à sa
 responsabilité et à l'absence ou à l'insuffisance d'assurance ou de garantie de la personne présumée responsable des
-dommages. Cette déclaration doit être adressée au fonds dans le délai d'un mois à compter du jour où la victime a eu
+dommages. Cette déclaration doit être adressée au fonds dans le délai de deux mois à compter du jour où la victime a eu
 connaissance de l'absence ou de l'insuffisance de garantie de la personne présumée responsable des dommages notamment par le
-refus de prise en charge du sinistre par l'assureur de cette personne et au plus tard dans le délai de six mois a compter du
+refus de prise en charge du sinistre par l'assureur de cette personne et au plus tard dans le délai de six mois à compter du
 jour de l'accident, sauf si la victime est en mesure de rapporter la preuve qu'ayant fait elle-même ou par mandataire des
 diligences nécessaires pour obtenir la prise en charge de ses dommages par un assureur, il ne lui a pas été possible dans ce
 délai de six mois de déterminer si une garantie d'assurance pouvait ou non jouer à son profit.
@@ -31510,7 +31462,7 @@ d'un accident qui a subi également des dommages corporels.
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°83-482 1983-06-09 art. 11 JORF 14 juin 1983
 
 	**Liens**:
 
@@ -31553,10 +31505,7 @@ la condition que ces accidents soient survenus sur le territoire de la France m�
 
 ###### Article R*420-22
 
-Sont exclus du bénéfice du fonds de garantie l'auteur de l'accident, son conjoint, ses ascendants et ses descendants.
-
-Toutefois ces personnes peuvent invoquer la garantie du fonds lorsque l'accident occasionné par un acte de chasse ou de
-destruction des animaux nuisibles engage la responsabilité d'une autre personne et dans la mesure de cette responsabilité.
+L'auteur de l'accident est exclu du bénéfice du fonds dans la mesure de sa responsabilité.
 
 **Liens relatifs à cet article**
 
@@ -31566,7 +31515,7 @@ destruction des animaux nuisibles engage la responsabilité d'une autre personne
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°83-482 1983-06-09 art. 12 JORF 14 juin 1983
 
 	**Liens**:
 
@@ -31662,6 +31611,60 @@ réception sous peine d'une amende de 300 F à 600 F.
 
 ##### Section III : Organisation, fonctionnement et contrôle du fonds de garantie.
 
+###### Article R*420-25
+
+Le fonds de garantie groupe obligatoirement toutes les entreprises, d'une part, agréées pour pratiquer les opérations
+d'assurance contre les risques de responsabilité civile résultant de l'emploi des véhicules terrestres à moteur mentionnés au
+10 de l'article R. 321-1, d'autre part, agréées pour pratiquer les opérations d'assurance mentionnées au 13 de l'article R.
+321-1 et pratiquant effectivement les opérations d'assurance chasse.
+
+Il est administré par un conseil d'administration composé de quatorze membres :
+
+- un représentant des sociétés d'assurances mutuelles agricoles désigné par la caisse centrale des mutuelles agricoles ;
+
+- six représentants des entreprises d'assurance agréées pour pratiquer les opérations d'assurance contre les risques de
+responsabilité civile résultant de l'emploi de véhicules terrestres à moteur, désignés par ces entreprises ;
+
+- un représentant des entreprises d'assurance agréées pour pratiquer les opérations d'assurance mentionnées au 13 de
+l'article R. 321-1 et pratiquant effectivement les opérations d'assurance chasse ;
+
+- six membres désignés par arrêté du ministre de l'économie et des finances, respectivement sur la proposition du directeur
+général de la Caisse des dépôts et consignations, de l'assemblée des présidents des chambres de commerce et d'industrie de
+France, de l'assemblée permanente des présidents des chambres d'agriculture de France, de la fédération française des clubs
+automobiles, de la fédération nationale des transporteurs routiers et de l'Office national de la chasse.
+
+Le conseil élit son président parmi ses membres.
+
+Les statuts du fonds de garantie sont approuvés par décret pris sur le rapport du ministre de l'économie et des finances.
+
+Un règlement intérieur, soumis au visa du ministre de l'économie et des finances avant application, fixe les rapports du
+fonds de garantie et des entreprises, notamment les modalités de la participation des entreprises dans les instances et les
+recours pour le compte du fonds de garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-482 1983-06-09 art. 13 JORF 14 juin 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-25 (M)
+
+	**Cite**:
+
+	  - Code des assurances R321-1
+
+
 ###### Article R*420-26
 
 Le fonds de garantie est soumis au contrôle du ministre de l'économie et des finances. Un commissaire du Gouvernement désigné
@@ -31726,58 +31729,6 @@ le responsable, mettre en cause, suivant le cas, le responsable ou l'assureur.
 	**Cite**:
 
 	  - Code des assurances R420-13
-
-
-##### Section III : Organisation, fonctionnement et contrôle du fonds de garantie.
-
-###### Article R*420-25
-
-Le fonds de garantie groupe obligatoirement toutes les entreprises, d'une part, agréées pour pratiquer les opérations
-d'assurance contre les risques de responsabilité civile résultant de l'emploi des véhicules terrestres à moteur mentionnés au
-10 de l'article R. 321-1, d'autre part, agréées pour pratiquer les opérations d'assurance mentionnées au 13 de l'article R.
-321-1 et pratiquant effectivement les opérations d'assurance chasse.
-
-Il est administré par un conseil d'administration composé de quatorze membres :
-
-- un représentant des sociétés d'assurances mutuelles agricoles désigné par la caisse centrale des mutuelles agricoles ;
-
-- six représentants des entreprises d'assurance agréées pour pratiquer les opérations d'assurance contre les risques de
-responsabilité civile résultant de l'emploi de véhicules terrestres à moteur, désignées par ces entreprises ;
-
-- un représentant des entreprises d'assurance agréées pour pratiquer les opérations d'assurance mentionnées au 13 de
-l'article R. 321-1 et pratiquant effectivement les opérations d'assurance chasse ;
-
-- six membres désignés par arrêté du ministre de l'économie et des finances, respectivement sur la proposition du directeur
-général de la Caisse des dépôts et consignations, de l'assemblée des présidents des chambres de commerce et d'industrie de
-France, de l'assemblée permanente des présidents des chambres d'agriculture de France, de la fédération française des clubs
-automobiles, de la fédération nationale des transporteurs routiers et du conseil supérieur de la chasse.
-
-Le conseil élit son président parmi ses membres.
-
-Les statuts du fonds de garantie sont approuvés par décret pris sur le rapport du ministre de l'économie et des finances.
-
-Un règlement intérieur, soumis au visa du ministre de l'économie et des finances avant application, fixe les rapports du
-fonds de garantie et des entreprises, notamment les modalités de la participation des entreprises dans les instances et les
-recours pour le compte du fonds de garantie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 2 JORF 18 janvier 1981
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-	**Cite**:
-
-	  - Code des assurances R321-1
 
 
 ##### Section IV : Régime financier du fonds de garantie
@@ -32008,6 +31959,47 @@ de ces opérations puisse être dégagé et leur équilibre assuré.
 	**Nouveaux textes**:
 
 	  - Code des assurances - art. R421-43 (M)
+
+
+###### Article R420-40
+
+Les taux des contributions destinées à l'alimentation du fonds de garantie pour l'indemnisation des victimes d'accidents
+corporels de chasse sont les suivants :
+
+Contribution des entreprises d'assurances : 10 % de la totalité des charges du fonds de garantie, à compter du 1er janvier
+1977.
+
+- taux normal : 10 % des indemnités restant à leur charge ;
+
+- taux réduit lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des articles
+393 à 395 du code rural : 5 %.
+
+Contribution forfaitaire des assurés : 1,50 F par personne garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-483 1983-06-09 art. 1 JORF 14 juin 1983
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*420-39 (T)
+	  - TXT_ASSOCIE: Code des assurances - art. R421-39 (M)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+	  - TXT_SOURCE: Code des assurances R420-39
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-40 (Ab)
+
+	**Cite**:
+
+	  - Code rural 393, 394, 395
 
 
 ###### Article R420-41
@@ -32546,13 +32538,14 @@ Contribution des responsables d'accidents corporels non assurés :
 10 % des indemnités restant à leur charge. Toutefois ce taux est ramené à 5 % lorsque l'accident résulte d'une opération de
 destruction des animaux nuisibles effectuée en vertu des articles 393 à 395 du code rural ;
 
-Contribution des assurés : somme forfaitaire maximale de 1 F par personne garantie.
+Contribution des assurés : somme forfaitaire maximale de 2,50 F par personne garantie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°68-170 1968-02-19 art. 15
+	  - Code rural 393, 394, 395
+	  - Code des assurances R420-38
 
 	**Codifié par**:
 
@@ -32560,18 +32553,13 @@ Contribution des assurés : somme forfaitaire maximale de 1 F par personne garan
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
+	  - Décret n°83-482 1983-06-09 art. 14 JORF 14 juin 1983
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances - art. R420-40 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. R420-41 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16, R420-40, R420-41
-
-	**Cite**:
-
-	  - Code des assurances R420-38
-	  - Code rural 393, 394, 395
 
 
 ###### Article R*420-42
@@ -32616,48 +32604,6 @@ fonds de garantie.
 	**Modifié par**:
 
 	  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
-
-
-###### Article R420-40
-
-Les taux des contributions destinées à l'alimentation du fonds de garantie pour l'indemnisation des victimes d'accidents
-corporels de chasse sont les suivants :
-
-Contribution des entreprises d'assurances : 10 % de la totalité des charges du fonds de garantie, à compter du 1er janvier
-1977.
-
-- taux normal : 10 % des indemnités restant à leur charge ;
-
-- taux réduit lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des articles
-393 à 395 du code rural : 5 %.
-
-Contribution forfaitaire des assurés : 0,90 F par personne garantie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°76-1207 1976-12-24 art. 2 JORF 26 décembre 1976
-	  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*420-39 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. R421-39 (M)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-	  - TXT_SOURCE: Code des assurances R420-39
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. R421-40 (Ab)
-
-	**Cite**:
-
-	  - Code rural 393, 394, 395
 
 
 ##### Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile.
@@ -39615,6 +39561,53 @@ la vie en temps de guerre.
 
 #### Chapitre Ier : L'obligation de s'assurer
 
+##### Section II : Etendue de l'obligation d'assurance.
+
+###### Article A211-1-1
+
+Les contrats d'assurance afférents aux opérations mentionnées au 10 (responsabilité civile véhicules terrestres automoteurs)
+de l'article R. 321-1 du code des assurances doivent comporter la clause-type relative à la résiliation du contrat par
+l'assureur figurant à l'article suivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1983-06-09 art. 1 JORF 14 juin 1983
+
+	**Cite**:
+
+	  - Code des assurances - art. R321-1 (V)
+
+
+###### Article A211-1-2
+
+Le contrat peut être résilié, après sinistre, par l'assureur, avant sa date d'expiration normale, si le sinistre a été causé
+par un conducteur en état d'imprégnation alcoolique ou si le sinistre a été causé par infraction au code de la route
+entraînant une décision judiciaire ou administrative de suspension du permis de conduire d'au moins un mois, ou une décision
+d'annulation de ce permis.
+
+Le souscripteur peut alors résilier, dans le délai d'un mois à compter de la notification de cette résiliation, les autres
+contrats souscrits par lui auprès de l'assureur.
+
+En cas de résiliation à l'échéance ou de dénonciation de la tacite reconduction par l'assureur, le délai de préavis est fixé,
+pour l'assureur, à deux mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1983-06-09 art. 2 JORF 14 juin 1983
+
+
 ##### Section III : Franchises, exclusions de garantie et déchéances.
 
 ###### Article A211-2
@@ -39704,70 +39697,111 @@ de personnes et lorsque les passagers sont transportés à l'intérieur de la re
 
 La proposition d'assurance mentionnée à l'article R. 212-5 doit comporter les renseignements suivants :
 
-1° Les noms, prénoms, adresses et professions du souscripteur et des personnes à qui le véhicule est confié à titre
-habituel ;
+1° Les noms, prénoms, dates de naissance, adresses, professions et situations de famille du souscripteur, du titulaire de la
+carte grise et des personnes à qui le véhicule est confié à titre habituel ;
 
-2° La date de délivrance des permis de conduire dont ces personnes sont titulaires et, le cas échéant, la catégorie des
-véhicules pour laquelle ces permis sont valables ;
+2° La date de délivrance des permis de conduire dont ces personnes sont titulaires et les catégories de véhicules pour
+lesquelles ces permis sont valables ; le cas échéant, les mesures de suspension prononcées par l'autorité judiciaire ou
+l'autorité administrative depuis trois ans, à la suite d'infractions aux règles de la circulation routière ;
 
-3° Les caractéristiques (notamment : genre, type, marque, puissance fiscale pour tous les véhicules à moteur ; charge utile
+3° Les caractéristiques (notamment : genre, type, marque, puissance fiscale pour tous les véhicules à moteur : charge utile
 et poids mort pour les véhicules utilitaires ; poids total autorisé en charge pour les remorques et semi-remorques) et la
-localité du garage habituel du véhicule, ainsi que ses remorques ou semi-remorques, s'il y a lieu ;
+localité du garage habituel du véhicule, ainsi que de ses remorques ou semi-remorques, s'il y a lieu ; éventuellement, la
+zone de circulation lorsque celle-ci est différente de la localité du garage du véhicule ;
 
 4° Les conditions d'emploi du véhicule. Il y a lieu de préciser si le souscripteur désire garantir sa responsabilité à
-l'égard des personnes transportées à titre onéreux et, en ce qui concerne les véhicules à deux roues, s'il désire garantir sa
-responsabilité à l'égard des personnes transportées à titre gratuit ;
+l'égard des personnes transportées à titre onéreux ;
 
 5° Le montant de la garantie sollicitée ;
 
-6° La dénomination des entreprises d'assurances ayant garanti le véhicule au cours des deux dernières années et la cause de
-la cessation de la garantie. En cas de résiliation, le motif doit en être précisé.
+6° La dénomination des entreprises d'assurance ayant garanti le véhicule au cours de trois dernières années et la cause de la
+cessation de la garantie. En cas de résiliation ou de nullité invoquée par l'assureur, le motif doit être précisé ;
+
+7° La liste des accidents corporels ou matériels dans lesquels la responsabilité du proposant a été engagée comme conducteur
+d'un véhicule terrestre à moteur quelconque et de ceux dans lesquels a été engagée la responsabilité de l'un des conducteurs
+habituels du véhicule faisant l'objet de la présente proposition au cours des trois dernières années.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1959-02-17 art. 1
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1983-06-09 art. 1 JORF 14 juin 1983
+
+	**Abrogé par**:
+
+	  - Arrêté 1992-11-27 art. 1 JORF 28 novembre 1992
 
 	**Cité par**:
 
 	  - Code des assurances - art. A212-2 (M)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R212-5 (Ab)
-
 	**Cite**:
 
 	  - Code des assurances - art. R212-5 (Ab)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R211-19
+
 
 ###### Article A212-2
 
-Toute entreprise d'assurance agréée pour pratiquer l'assurance des risques mentionnés ci-dessus doit tenir à la disposition
-des personnes désirant souscrire un contrat des formules de proposition, d'assurance permettant de satisfaire aux
-prescriptions de l'article A. 212-1.
-
-Ces formules doivent mentionner qu'elles sont établies en vue de l'application de l'article L. 211-1 du code des assurances.
+La proposition doit indiquer qu'elle est établie en application de l'article R. 212-5 en vue de satisfaire à l'obligation
+d'assurance mentionnée à l'article L. 211-1.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1959-02-17 art. 2
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
+	**Modifié par**:
+
+	  - Arrêté 1983-06-09 art. 2 JORF 14 juin 1983
+
+	**Abrogé par**:
+
+	  - Arrêté 1992-11-27 art. 1 JORF 28 novembre 1992
+
 	**Cite**:
 
-	  - Code des assurances - art. A212-1 (M)
 	  - Code des assurances - art. L211-1 (M)
+	  - Code des assurances - art. R212-5 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R211-19
+
+
+###### Article A212-3
+
+La demande présentée au bureau central de tarification en application de l'article R. 212-5 doit comporter un double de la
+proposition adressée à l'assureur, l'avis de réception ou le récépissé et, le cas échéant, le refus de l'assureur, ainsi que
+le montant de la prime applicable au risque proposé, communiqué par l'assureur conformément aux dispositions prévues à
+l'article R. 212-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1983-06-09 art. 3 JORF 14 juin 1983
+
+	**Abrogé par**:
+
+	  - Arrêté 1992-11-27 art. 1 JORF 28 novembre 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. R212-5 (Ab)
+	  - Code des assurances - art. R212-8 (T)
 
 	**Liens**:
 
@@ -40171,34 +40205,6 @@ Ces formules doivent mentionner qu'elles sont établies en vue de l'application 
 
 ### Titre III : L'assurance de la responsabilité civile des chasseurs
 
-###### Article A230-3
-
-Sont exclus de la garantie :
-
-1° Les dommages provenant de la faute intentionnelle ou dolosive de l'assuré ;
-
-2° Les dommages causés aux ascendants, descendants et conjoint de l'assuré ou à ses préposés et salariés pendant leur
-service.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1975-06-30 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Cité par**:
-
-	  - Arrêté du 26 mars 1993 - art. 1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R213-3
-
-
 #### Chapitre unique.
 
 ###### Article A230-1
@@ -40271,6 +40277,37 @@ chiens dont l'assuré a la garde.
 	**Cite**:
 
 	  - Code rural 393 à 395
+
+
+###### Article A230-3
+
+Sont exclus de la garantie :
+
+1° Les dommages provenant de la faute intentionnelle ou dolosive de l'assuré ;
+
+2° Les dommages causés aux préposés et salariés de l'assuré pendant leur service.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1983-06-09 art. 1 JORF 14 juin 1983
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-26 art. 1 JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 1993 - art. 1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R213-3
 
 
 ###### Article A230-4
