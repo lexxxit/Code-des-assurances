@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1988-01-23
+Version Consolidée au 1988-02-24
 
 # Partie législative
 
@@ -44313,6 +44313,55 @@ A l'annexe II au présent article, en ce qui concerne l'assurance de dommages.
 ## Livre III : Les entreprises.
 
 ### Titre II : Régime administratif
+
+#### Chapitre Ier : Les agréments.
+
+##### Section VI : Dispositions spéciales concernant la coassurance communautaire.
+
+###### Article A321-1
+
+Le montant de la garantie à partir duquel un contrat d'assurance communautaire peut être souscrit est fixé à 30 millions
+d'unités de compte de la Communauté économique européenne pour les risques appartenant aux branches mentionnées aux 4, 5, 6,
+7, 11 et 12 de l'article R. 321-1.
+
+Ce montant est fixé à 50 millions d'unités de compte de la Communauté économique européenne pour les risques appartenant aux
+branches mentionnées aux 8, 9 et 16 de l'article R. 321-1.
+
+Pour les risques appartenant à la branche mentionnée au 13 de l'article R. 321-1, sont admis à la coassurance communautaire
+les assurés dont le chiffre d'affaires est supérieur ou égal à 200 millions d'unités de compte de la Communauté économique
+européenne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1988-01-22 art. 1 JORF 24 février 1988
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-3 (Ab)
+	  - Code des assurances - art. A321-2 (V)
+	  - Code des assurances - art. A321-3 (Ab)
+	  - Code des assurances - art. A321-7 (V)
+	  - Code des assurances - art. A321-8 (V)
+	  - Code des assurances - art. A362-1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R321-23 (M)
+
+	**Cite**:
+
+	  - Code des assurances R321-1
+
 
 #### Chapitre II : Règles de constitution et de fonctionnement
 
