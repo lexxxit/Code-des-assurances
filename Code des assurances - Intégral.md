@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1978-07-11
+Version Consolidée au 1978-07-19
 
 # Partie législative
 
@@ -36311,6 +36311,33 @@ de l'évolution des charges des entreprises ainsi que de leurs gains de producti
 	  - Code des assurances - art. A132-11 (Ab)
 
 
+### Titre V : Le contrat de capitalisation
+
+#### Chapitre unique
+
+##### Section II : Rachat.
+
+###### Article A150-2
+
+Lorsque le porteur d'un contrat de capitalisation cesse de verser les primes alors qu'au moins cinq primes annuelles ont été
+payées, la valeur de rachat de ce contrat porte intérêt au taux de 3,50 % jusqu'à son règlement et au plus tard jusqu'au
+terme du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1978-07-12 art. 1 JORF 19 juillet 1978
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 3 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
 
 #### Chapitre unique
@@ -38023,6 +38050,47 @@ tarif.
 	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
 
 
+###### Article A331-8
+
+Les provisions mathématiques afférentes aux contrats de capitalisation mentionnés à l'article A. 335-8 doivent être calculées
+d'après un taux au plus égal au plus faible des taux d'intérêts suivants :
+
+Soit le taux du tarif ;
+
+Soit le taux de rendement réel, diminué d'un point, de l'actif représentatif des engagements correspondants.
+
+Ces provisions mathématiques doivent comprendre en outre une provision de gestion, dans les conditions prévues au second
+alinéa de l'article A. 331-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 15 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2004 - art. 11 (Ab)
+	  - Code des assurances - art. A331-4 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-6 (T)
+
+	**Cite**:
+
+	  - Code des assurances - art. A331-6 (Ab)
+	  - Code des assurances - art. A335-8 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
+
+
 ###### Article A331-9
 
 Les provisions mathématiques des entreprises qui ont pour objet l'acquisition d'immeubles au moyen de constitution de rentes
@@ -39729,24 +39797,26 @@ raisonnable.
 
 ###### Article A335-7
 
-Les tarifs des opérations de capitalisation ne peuvent, à compter du 1er juillet 1948, être inférieurs à ceux qui seraient
-calculés sur la base du taux d'intérêt de 3,50 p. 100 et d'un chargement pour frais d'acquisition, d'encaissement et de
-gestion égal à 10 p. 100 de la prime brute pour les contrats à prime unique et 12 p. 100 de la prime brute pour les contrats
-à primes périodiques. Les tarifs ainsi déterminés doivent être communiqués au ministre de l'économie et des finances avant
-d'être employés.
+Les tarifs des opérations de capitalisation ne peuvent être inférieurs à ceux qui seraient calculés sur la base du taux
+d'intérêt de 3,50 p. 100. Ils doivent comporter des chargements permettant la récupération par l'entreprise d'un montant de
+frais justifiable et raisonnable.
 
 Il est interdit aux entreprises de capitalisation et à tous intermédiaires de consentir une réduction quelconque sur les
 primes des tarifs prévus au présent article.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté 1948-04-27 art. 3
-
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1978-07-12 art. 3 JORF 19 juillet 1978
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 13 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Cité par**:
 
@@ -39760,8 +39830,7 @@ primes des tarifs prévus au présent article.
 ###### Article A335-8
 
 Les tarifs des contrats de capitalisation à prime unique d'une durée maximale de quinze ans peuvent être établis d'après des
-taux d'intérêts supérieurs à ceux mentionnés à l'article A. 335-7 lorsque ces contrats ne comportent pas de clause de
-participation aux bénéfices.
+taux d'intérêts supérieurs à ceux mentionnés à l'article A. 335-7.
 
 En ce cas et pour chacun des tarifs le visa est subordonné aux conditions suivantes :
 
@@ -39771,13 +39840,13 @@ En ce cas et pour chacun des tarifs le visa est subordonné aux conditions suiva
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté 1974-10-31 art. 1
-
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 13 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 	**Cité par**:
 
