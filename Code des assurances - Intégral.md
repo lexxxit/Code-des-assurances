@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1995-08-27
+Version Consolidée au 1995-09-01
 
 # Partie législative
 
@@ -41680,6 +41680,38 @@ annexé.
 	**Cite**:
 
 	  - Code des assurances - art. L132-5-1 (M)
+
+
+### Titre IV : Les assurances de groupe
+
+#### Chapitre unique.
+
+###### Article A140-1
+
+L'information préalable de l'adhérent mentionnée au premier alinéa de l'article L. 140-6 du code des assurances est fournie
+sous la forme d'un document spécifique, distinct de tous autres documents contractuels ou précontractuels. Etabli en double
+exemplaire, il est signé et daté par l'adhérent, qui conserve l'original.
+
+Ce document spécifique comporte la mention des actes dont l'entreprise d'assurance entend informer l'adhérent qu'elle n'a pas
+donné pouvoir au souscripteur de les accomplir. Il doit indiquer de même qui a pouvoir d'accomplir ces actes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1995-07-13 art. 1 JORF 20 juillet 1995 en vigueur le 1er septembre 1995
+
+	**Cite**:
+
+	  - Code des assurances - art. L140-6 (T)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L140-6 (T)
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
