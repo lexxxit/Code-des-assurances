@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-08-25
+Version Consolidée au 2004-11-16
 
 # Partie législative
 
@@ -10159,11 +10159,12 @@ de la mutualité, ou une institution régie par le titre III du livre IX du code
 personne qui souhaite adhérer ou adhère à cette mutuelle, à cette union ou à cette institution, d'autre part.
 
 La commission veille également au respect, par les entreprises soumises au contrôle de l'Etat en application de l'article L.
-310-1-1, les sociétés de groupe d'assurance et les sociétés de groupe mixtes d'assurance définies à l'article L. 322-1-2, des
-dispositions législatives et réglementaires qui leur sont applicables en vertu du présent livre. Un arrêté du ministre chargé
-de l'économie détermine la nature, la périodicité et le contenu des informations et des documents que les entreprises
-mentionnées au présent alinéa sont tenues de communiquer périodiquement à la commission de contrôle des assurances pour lui
-permettre d'exercer sa mission.
+310-1-1, les sociétés de groupe d'assurance, les sociétés de groupe mixte d'assurance définies à l'article L. 322-1-2 ainsi
+que par toute entité appartenant à un conglomérat financier défini à l'article L. 334-5 dont la surveillance est coordonnée
+par la commission de contrôle dans les conditions prévues à l'article L. 334-9, des dispositions législatives et
+réglementaires qui leur sont applicables en vertu du présent livre. Un arrêté du ministre chargé de l'économie détermine la
+nature, la périodicité et le contenu des informations et des documents que les entreprises mentionnées au présent alinéa sont
+tenues de communiquer périodiquement à la commission de contrôle des assurances pour lui permettre d'exercer sa mission.
 
 La commission s'assure également que les dispositions du titre VI du livre V du code monétaire et financier sont appliquées
 par les entreprises mentionnées à l'article L. 310-1, les mutuelles régies par le code de la mutualité et les institutions
@@ -10181,6 +10182,11 @@ commission.
 Les opérations de gestion d'un régime légal d'assurance maladie et maternité et de gestion d'activités et de prestations pour
 le compte de l'Etat ou d'autres collectivités publiques visées au 4° du I de l'article L. 111-1 du code de la mutualité ne
 sont pas soumises au contrôle de la commission.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -10234,22 +10240,22 @@ sont pas soumises au contrôle de la commission.
 	  - Code monétaire et financier - art. L561-36 (VD)
 	  - Code monétaire et financier - art. L612-20 (VD)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°2001-766 du 29 août 2001 - art. 11 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 30 () JORF 2 août 2003
-
 	**Cite**:
 
+	  - Ordonnance 2004-1201 2004-11-12
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-1-1 (V)
 	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. L322-1-2 (M)
+	  - Code des assurances - art. L322-2-1 (M)
+	  - Code des assurances - art. L334-5 (V)
+	  - Code des assurances - art. L334-9 (V)
+	  - Code des assurances L310-1, L310-1-1, L310-2, L322-2-1, L334-5, L334-9, 20
 	  - Code de la mutualité - art. L111-1 (Ab)
 	  - Code rural L727-2
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 4 () JORF 16 novembre 2004
 
 
 ###### Article L310-12-1
@@ -10510,9 +10516,10 @@ présidents des fonds de garantie sont également entendus à leur demande.
 ###### Article L310-13
 
 Le contrôle des entreprises visées aux articles L. 310-1 et L. 310-1-1, des sociétés de groupe d'assurance et des sociétés de
-groupe mixtes d'assurance définies à l'article L. 322-1-2 ainsi que des personnes mentionnées au cinquième alinéa de l'
-article L. 310-12 est effectué sur pièces et sur place. La commission l'organise et en définit les modalités. Le corps des
-commissaires contrôleurs des assurances est mis à sa disposition à cette fin.
+groupe mixtes d'assurance définies à l'article L. 322-1-2 et des compagnies financières holding mixtes définies à l'article
+L. 334-2 ainsi que des personnes mentionnées au cinquième alinéa de l' article L. 310-12 est effectué sur pièces et sur
+place. La commission l'organise et en définit les modalités. Le corps des commissaires contrôleurs des assurances est mis à
+sa disposition à cette fin.
 
 Sont également mis à la disposition de la commission, les membres de l'inspection générale des affaires sociales dans des
 conditions définies par décret.
@@ -10520,33 +10527,42 @@ conditions définies par décret.
 En outre, pour l'exercice de ses attributions, la commission de contrôle peut faire appel à toute personne compétente dans le
 cadre de conventions établies à cet effet par son secrétariat général.
 
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Cite**:
+
+	  - Ordonnance 2004-1201 2004-11-12
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. L322-1-2 (M)
+	  - Code des assurances - art. L334-2 (M)
+	  - Code des assurances L310-1, L310-1-1, L322-1-2, L334-2, L310-12, 20
+
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 31 () JORF 2 août 2003
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 4 () JORF 16 novembre 2004
 
 	**Cité par**:
 
 	  - Loi n°2008-518 du 3 juin 2008 - art. 7 (V)
 
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L310-12 (M)
-	  - Code des assurances - art. L322-1-2 (M)
-
 
 ###### Article L310-14
 
-La commission peut demander aux entreprises visées aux articles L. 310-1 et L. 310-1-1, aux sociétés de groupe d'assurance et
-aux sociétés de groupes mixtes d'assurance définies à l'article L. 322-1-2 ainsi qu'aux personnes mentionnées au cinquième
-alinéa de l'article L. 310-12, toutes informations nécessaires à l'exercice de sa mission.
+La commission peut demander aux entreprises visées aux articles L. 310-1 et L. 310-1-1, aux sociétés de groupe d'assurance,
+aux sociétés de groupe mixte d'assurance définies à l'article L. 322-1-2 et aux compagnies financières holding mixtes
+définies à l'article L. 334-2 ainsi qu'aux personnes mentionnées au cinquième alinéa de l'article L. 310-12 toutes
+informations nécessaires à l'exercice de sa mission.
 
 Elle peut également leur demander la communication des rapports des commissaires aux comptes et, d'une manière générale, de
 tous documents comptables dont elle peut, en tant que de besoin, demander la certification. Elle peut demander communication
@@ -10569,6 +10585,11 @@ données ou informations nécessaires à leurs entreprises apparentées ayant le
 Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen pour l'exercice de la
 surveillance complémentaire par les autorités compétentes de cet Etat.
 
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -10583,9 +10604,20 @@ surveillance complémentaire par les autorités compétentes de cet Etat.
 	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 3 ()
 	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 4 (V)
 
+	**Cite**:
+
+	  - Ordonnance 2004-1201 2004-11-12
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L322-1-2 (M)
+	  - Code des assurances - art. L334-2 (M)
+	  - Code des assurances - art. L334-3 (M)
+
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 31 () JORF 2 août 2003
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 4 () JORF 16 novembre 2004
 
 	**Cité par**:
 
@@ -10602,15 +10634,6 @@ surveillance complémentaire par les autorités compétentes de cet Etat.
 	  - Code des assurances - art. L352-4 (VD)
 	  - Code des assurances - art. R310-17-1 (VD)
 	  - Code des assurances - art. R352-28 (VD)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L310-12 (M)
-	  - Code des assurances - art. L310-18 (M)
-	  - Code des assurances - art. L322-1-2 (M)
-	  - Code des assurances - art. L334-3 (M)
 
 
 ###### Article L310-15
@@ -10895,8 +10918,10 @@ la durée qu'elle indique.
 
 La commission de contrôle des assurances peut demander aux commissaires aux comptes d'une entreprise visée à l'article L.
 310-1, d'une entreprise visée à l'article L. 310-1-1, d'une société de groupe d'assurance ou d'une société de groupe mixte
-d'assurance définies à l'article L. 322-1-2, tout renseignement sur l'activité de l'organisme contrôlé. Les commissaires aux
-comptes sont alors déliés, à son égard, du secret professionnel.
+d'assurance définies à l'article L. 322-1-2 ou d'une compagnie financière holding mixte appartenant à un conglomérat
+financier dont la surveillance est coordonnée par la commission de contrôle dans les conditions prévues à l'article L. 334-9,
+tout renseignement sur l'activité de l'organisme contrôlé. Les commissaires aux comptes sont alors déliés, à son égard, du
+secret professionnel.
 
 La commission de contrôle peut également transmettre aux commissaires aux comptes des personnes mentionnées au premier alinéa
 les informations nécessaires à l'accomplissement de leur mission. Ces informations sont couvertes par le secret
@@ -10919,10 +10944,17 @@ des effets significatifs sur la situation financière, le résultat ou le patrim
 La même obligation s'applique aux faits et aux décisions dont ils viendraient à avoir connaissance dans l'exercice de leur
 mission de commissaire aux comptes dans une entreprise mère ou filiale de l'entreprise visée à l'article L. 310-1 ou à
 l'article L. 310-1-1 ou des sociétés mentionnées à l'article L. 322-1-2 ou d'une société entrant dans le périmètre
-d'établissement des comptes combinés au sens de l'article L. 345-2 dont ils certifient les comptes.
+d'établissement des comptes combinés au sens de l'article L. 345-2 ou d'une société appartenant à un conglomérat financier
+dont la surveillance est coordonnée par la commission de contrôle dans les conditions prévues à l'article L. 334-9  dont ils
+certifient les comptes.
 
 La responsabilité des commissaires aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
 ils procèdent en exécution des obligations imposées par le présent article.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -10930,16 +10962,18 @@ ils procèdent en exécution des obligations imposées par le présent article.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 31 () JORF 2 août 2003
-
 	**Cite**:
 
+	  - Ordonnance 2004-1201 2004-11-12
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-1-1 (V)
 	  - Code des assurances - art. L322-1-2 (M)
+	  - Code des assurances - art. L334-9 (V)
 	  - Code des assurances - art. L345-2 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 4 () JORF 16 novembre 2004
 
 	**Cité par**:
 
@@ -11054,6 +11088,13 @@ La commission de contrôle des assurances peut transmettre des informations aux 
 entreprises d'assurance dans d'autres pays, sous réserve de réciprocité, et à condition que ces autorités soient elles-mêmes
 soumises au secret professionnel avec les mêmes garanties qu'en France.
 
+La commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut transmettre aux banques
+centrales des Etats membres ou des autres Etats parties à l'accord sur l'Espace économique européen, au Système européen de
+banques centrales, à la Banque centrale européenne et aux autres organismes agissant au titre de leurs compétences
+monétaires, et, le cas échéant, à d'autres autorités publiques chargées de la surveillance des systèmes de paiement, des
+informations destinées à l'accomplissement de leur mission. Les informations reçues dans ce cadre sont soumises au secret
+professionnel.
+
 Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 relative à la communication de documents et
 renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques ou morales
 étrangères, la Commission de contrôle des assurances peut, en outre, conclure avec les autorités de contrôle des assurances
@@ -11074,7 +11115,13 @@ faits. Lorsque les autorités d'un Etat membre de la Communauté européenne ou 
 économique européen souhaitent vérifier des informations utiles à l'exercice de leur surveillance concernant une entreprise
 située en France et qui est une entreprise apparentée d'une entreprise d'assurance soumise à leur surveillance
 complémentaire, la Commission de contrôle des assurances doit répondre à leur demande soit en procédant elle-même à cette
-vérification, soit en permettant à des représentants de ces autorités d'y procéder.
+vérification, soit en permettant à des représentants de ces autorités d'y procéder. Lorsqu'elle ne procède pas elle-même à la
+vérification, l'autorité qui a présenté la demande peut, si elle le souhaite, y être associée.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -11083,20 +11130,15 @@ vérification, soit en permettant à des représentants de ces autorités d'y pr
 	  - Loi n°68-678 1968-07-26
 	  - Code pénal - art. 226-13 (M)
 	  - Code pénal - art. 226-14 (M)
+	  - Code des assurances 20
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
-	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
-	  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
-
 	**Modifié par**:
 
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 2 () JORF 31 août 2001
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 4 () JORF 16 novembre 2004
 
 
 ###### Article L310-22
@@ -11271,14 +11313,15 @@ contrats en cas de liquidation d'une entreprise d'assurance.
 
 ###### Article L310-28
 
-Le fait, pour tout dirigeant d'une société de groupe d'assurance ou société de groupe mixte d'assurance définies à l'article
-L. 322-1-2 ou d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1 ou L. 310-1-1, après mise en
-demeure, de ne pas répondre aux demandes d'information de la commission de contrôle des assurances, ou de mettre obstacle de
-quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment des
-renseignements inexacts, est puni d'un emprisonnement de deux ans et d'une amende de 300000 euros *sanctions pénales*. Les
-entraves à l'action de la commission de contrôle exercée en application de l'article L. 323-1-1 sont punies des mêmes peines.
-Les mêmes dispositions s'appliquent aux dirigeants des personnes morales et aux personnes physiques que la Commission de
-contrôle des assurances aura décidé de soumettre à son contrôle en application du cinquième alinéa de l'article L. 310-12.
+Le fait, pour tout dirigeant d'une société de groupe d'assurance ou d'une société de groupe mixte d'assurance définie à
+l'article L. 322-1-2, d'une compagnie financière holding mixte définie à l'article L. 334-2 ou d'une entreprise soumise au
+contrôle de l'Etat en vertu de l'article L. 310-1 ou L. 310-1-1,  après mise en demeure, de ne pas répondre aux demandes
+d'information de la commission de contrôle des assurances, ou de mettre obstacle de quelque manière que ce soit à l'exercice
+par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment des renseignements inexacts, est puni d'un
+emprisonnement de deux ans et d'une amende de 300 000 euros. Les mêmes dispositions s'appliquent aux dirigeants des personnes
+morales et aux personnes physiques que la Commission de contrôle des assurances aura décidé de soumettre à son contrôle en
+application du cinquième alinéa de l'article L. 310-12. Les entraves à l'action de la commission de contrôle exercée en
+application de l'article L. 323-1-1 sont punies des mêmes peines.
 
 Le fait, pour les mêmes personnes, de faire des déclarations mensongères ou de procéder à des dissimulations frauduleuses
 dans tout document produit au ministre chargé de l'économie et des finances est puni des mêmes peines.
@@ -11290,30 +11333,32 @@ Les personnes morales peuvent également être déclarées responsables pénalem
 121-2 du code pénal, des infractions définies au présent article et encourent, dans ce cas, la peine d'amende, suivant les
 modalités prévues par l'article 131-38 du code pénal.
 
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 (date d'effet), art. 8 (champ d'application à Mayotte)
-	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
-	  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Cite**:
 
+	  - Ordonnance 2004-1201 2004-11-12
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-12 (M)
 	  - Code des assurances - art. L322-1-2 (M)
 	  - Code des assurances - art. L323-1-1 (M)
+	  - Code des assurances - art. L334-2 (M)
+	  - Code des assurances L322-1-2, L334-2, L310-1, L323-1-1, L310-12, 20
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 4 () JORF 16 novembre 2004
 
 	**Cité par**:
 
@@ -11342,6 +11387,25 @@ Aucun agrément ne peut être accordé à une même entreprise pour des opérati
 310-1 et pour des opérations définies aux 1°, 2°, 3° du même article.
 
 Aucun agrément ne peut être accordé à une entreprise tontinière pour des opérations autres que tontinières.
+
+Avant l'octroi d'un agrément à une entreprise d'assurance qui est :
+
+a) Soit une filiale d'une entreprise d'assurance agréée dans un autre Etat membre ou partie à l'accord sur l'Espace
+économique européen ;
+
+b) Soit une filiale de l'entreprise mère d'une entreprise d'assurance agréée dans un autre Etat membre ou partie à l'accord
+sur l'Espace économique européen ;
+
+c) Soit une entreprise contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'assurance
+agréée dans un autre Etat membre ou partie à l'accord sur l'Espace économique européen, 
+
+les autorités compétentes de l'autre Etat membre ou partie à l'accord sur l'Espace économique européen concerné sont
+consultées.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -11436,17 +11500,11 @@ Aucun agrément ne peut être accordé à une entreprise tontinière pour des op
 
 	  - TXT_SOURCE: Arrêté du 7 janvier 1994
 	  - TXT_SOURCE: Arrêté du 7 janvier 1994 - art. 1 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-15 (M)
 	  - TXT_SOURCE: Code des assurances - art. R*321-1 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L413-1 (M)
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 3 () JORF 16 novembre 2004
 
 
 ###### Article L321-1-1
@@ -11494,6 +11552,38 @@ régulations économiques et soumises au contrôle de l'Etat en application de l
 	  - Code des assurances - art. R351-3 (M)
 	  - Code des assurances - art. R353-2 (M)
 	  - Code monétaire et financier - art. L517-2 (V)
+
+
+###### Article L321-1-2
+
+Le comité des entreprises d'assurance consulte l'autorité chargée de la surveillance des établissements de crédit ou des
+entreprises d'investissement, lorsqu'il se prononce sur une demande d'agrément présentée par une filiale d'un établissement
+de crédit agréé ou d'une entreprise d'investissement agréée dans un Etat membre ou dans un autre Etat partie à l'accord sur
+l'Espace économique européen ou une filiale de l'entreprise mère d'une entreprise d'investissement agréée ou d'un
+établissement de crédit agréé dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen ou
+contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'investissement agréée ou un
+établissement de crédit agréé dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 3 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. R321-2 (V)
+	  - Code des assurances - art. R321-5-2 (VD)
+	  - Code des assurances - art. R322-11-1 (V)
 
 
 ###### Article L321-2
@@ -11947,16 +12037,17 @@ française.
 
 Dans le présent code :
 
-1° L'expression : "sociétés de groupe d'assurance" désigne les entreprises dont l'activité principale consiste à prendre et à
-gérer des participations au sens du 2° de l'article L. 334-2 dans des entreprises soumises au contrôle de l'Etat en
-application de l'article L. 310-1 ou de l'article L. 310-1-1, ou dans des entreprises d'assurance ou de réassurance dont le
-siège social est situé hors de France, ou à nouer et à gérer des liens de solidarité financière importants et durables avec
-des mutuelles ou unions régies par le livre II du code de la mutualité, des institutions de prévoyance ou unions régies par
-le titre III du livre IX du code de la sécurité sociale, des sociétés d'assurance mutuelle régies par le code des assurances,
-ou des entreprises d'assurance ou de réassurance à forme mutuelle ou coopérative ou à gestion paritaire ayant leur siège
-social dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
-européen. L'un au moins de ces organismes est une entreprise soumise au contrôle de l'Etat en application de l'article L.
-310-1 et ayant son siège social en France ;
+1° L'expression : "sociétés de groupe d'assurance" désigne les entreprises qui ne sont pas des compagnies financières holding
+mixtes au sens de l'article L. 334-2 et dont l'activité principale consiste à prendre et à gérer des participations au sens
+du 2° de l'article L. 334-2 dans des entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 ou de
+l'article L. 310-1-1, ou dans des entreprises d'assurance ou de réassurance dont le siège social est situé hors de France, ou
+à nouer et à gérer des liens de solidarité financière importants et durables avec des mutuelles ou unions régies par le livre
+II du code de la mutualité, des institutions de prévoyance ou unions régies par le titre III du livre IX du code de la
+sécurité sociale, des sociétés d'assurance mutuelle régies par le code des assurances, ou des entreprises d'assurance ou de
+réassurance à forme mutuelle ou coopérative ou à gestion paritaire ayant leur siège social dans un Etat membre de la
+Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen. L'un au moins de ces
+organismes est une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1 et ayant son siège social en
+France ;
 
 2° L'expression : "sociétés de groupe mixtes d'assurance" désigne les entreprises mères au sens du 1° de l'article L. 334-2
 d'au moins une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1 et ayant son siège social en
@@ -11964,8 +12055,14 @@ France, autres que les sociétés de groupe d'assurance définies au précédent
 l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1, les mutuelles ou unions régies par le livre II du
 code de la mutualité, les institutions de prévoyance ou unions régies par le titre III du livre IX du code de la sécurité
 sociale ou les entreprises d'assurance ou de réassurance à forme mutuelle ou coopérative ou à gestion paritaire ayant leur
-siège social dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen et
-que les entreprises d'assurance dont le siège social est situé hors de France.
+siège social dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou
+les entreprises d'assurance dont le siège social est situé hors de France ou les compagnies financières holdings mixtes au
+sens de l'article L. 334-2.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -11973,13 +12070,9 @@ que les entreprises d'assurance dont le siège social est situé hors de France.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
-
-	**Créé par**:
-
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 3 () JORF 31 août 2001
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 3 () JORF 16 novembre 2004
 
 	**Cité par**:
 
@@ -12021,11 +12114,6 @@ que les entreprises d'assurance dont le siège social est situé hors de France.
 	  - Code monétaire et financier - art. L561-33 (V)
 	  - Code monétaire et financier - art. L561-4-1 (V)
 	  - Code monétaire et financier - art. L612-2 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
 
 
 ###### Article L322-1-3
@@ -12116,48 +12204,46 @@ fonctionnement de ces sociétés de groupe d'assurance.
 ###### Article L322-2
 
 Nul ne peut à un titre quelconque fonder, diriger, administrer une entreprise soumise au contrôle de l'Etat en vertu de
-l'article L. 310-1, ou de l'article L. 310-1-1, ni une société de groupe d'assurance définie à l'article L 322-1-2 :
+l'article L. 310-1, ou de l'article L. 310-1-1, ni une société de groupe d'assurance définie à l'article L. 322-1-2 ni une
+compagnie financière holding mixte définie à l'article L. 334-2 ;
 
 1° S'il a fait l'objet d'une condamnation :
 
 a) Pour crime ;
 
-b) Pour violation des dispositions des articles 441-1, 151-1, 432-11 et 441-8, 433-2, 433-1, 433-3, 441-8, 52-1 du code
-pénal ;
+b) Pour violation des dispositions des articles 441-1, 432-11 et 441-8, 433-2, 433-1, 433-3 du code pénal ;
 
 c) Pour vol, escroquerie ou abus de confiance ;
 
-d) Pour un délit puni par des lois spéciales, des peines prévues aux articles 313-1 à 313-3, 313-4 et 1 du code pénal ;
+d) Pour un délit puni par des lois spéciales, des peines prévues aux articles 313-1 à 313-3 du code pénal ;
 
 e) Pour soustractions commises par dépositaires publics, extorsion de fonds ou valeurs, banqueroute, atteinte au crédit de
 l'Etat ou infraction à la législation sur les changes ;
 
-f) Par application des dispositions du titre II de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, des
-articles 6 et 15 de la loi n° 66-1010 du 28 décembre 1966 relative à l'usure, aux prêts d'argent et à certaines opérations de
-démarchage et de publicité, de l'article 10 de la loi n° 72-6 du 3 janvier 1972 relative au démarchage financier et à des
-opérations de placement et d'assurance ou de l'article 40 de la loi n° 83-1 du 3 janvier 1983 sur le développement des
-investissements et la protection de l'épargne ;
+f) Par application des dispositions du livre II, titre IV du code de commerce, des articles L. 313-5 du code de la
+consommation et L. 353-1 du code monétaire et financier, aux prêts d'argent et à certaines opérations de démarchage et de
+publicité, de l'article L. 353-4 du code monétaire et financier ou de l'article 40 de la loi n° 83-1 du 3 janvier 1983 sur le
+développement des investissements et la protection de l'épargne ;
 
 g) Pour recel des choses obtenues à la suite de ces infractions ;
 
-h) Par application des dispositions des articles 75 et 77 à 84 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et
-au contrôle des établissements de crédit.
+h) Par application des dispositions des articles L. 571-3 à L. 571-9, L. 571-14 à L. 571-16 du code monétaire et financier.
 
 i) Par application des articles 222-38, 324-1 et 324-2 du code pénal ou de l'article 415 du code des douanes.
 
-2° S'il a été condamné à une peine d'emprisonnement supérieure à deux mois en application de l'article 66 du décret du 30
-octobre 1935 modifié unifiant le droit en matière de chèque.
+2° S'il a été condamné à une peine d'emprisonnement supérieure à deux mois en application de l'article L. 163-2 du code
+monétaire et financier.
 
 3° S'il a fait l'objet d'une condamnation prononcée par une juridiction étrangère et passée en force de chose jugée,
 constituant d'après la loi française une condamnation pour l'un des crimes ou délits mentionnés au présent article ; le
 tribunal correctionnel du domicile du condamné apprécie à la requête du ministère public la régularité et la légalité de
 cette décision, et statue en chambre du conseil, l'intéressé dûment appelé, sur l'application en France de l'interdiction.
 
-4° Si une mesure de faillite personnelle ou une autre mesure d'interdiction prévue aux articles 185 à 195 de la loi n° 85-98
-du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ou, dans le régime antérieur, à
-l'article 108 de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite
-personnelle et les banqueroutes, a été prononcée à son égard ou s'il a été déclaré en état de faillite par une juridiction
-étrangère quand le jugement déclaratif a été déclaré exécutoire en France et s'il n'a pas été réhabilité.
+4° Si une mesure de faillite personnelle ou une autre mesure d'interdiction prévue aux articles L. 625-1 à L. 625-10 du code
+de commerce ou, dans le régime antérieur, à l'article 108 de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire,
+la liquidation des biens, la faillite personnelle et les banqueroutes, a été prononcée à son égard ou s'il a été déclaré en
+état de faillite par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France et s'il n'a
+pas été réhabilité.
 
 5° S'il a fait l'objet d'une mesure de destitution de fonctions d'officier ministériel en vertu d'une décision judiciaire.
 
@@ -12165,26 +12251,31 @@ Ces interdictions peuvent également être prononcées par les tribunaux à l'en
 infractions à la législation ou à la réglementation des assurances.
 
 Les personnes appelées à fonder, diriger ou administrer une entreprise ou une société mentionnée au premier alinéa doivent
-posséder la compétence ainsi que l'expérience nécessaires à leur fonction.
+posséder l'honorabilité, la compétence ainsi que l'expérience nécessaires à leur fonction.
+
+Lorsqu'il est amené à apprécier l'honorabilité, la compétence et l'expérience de dirigeants et d'administrateurs qui exercent
+ces mêmes fonctions au sein d'entités autres que celles mentionnées au premier alinéa et appartenant au même groupe au sens
+de l'article L. 334-2, le comité des entreprises d'assurance consulte les autorités compétentes au titre de ces autres
+entités. Il communique à ces autorités les informations utiles à l'exercice de leurs missions.
 
 Les dispositions du présent article sont applicables au mandataire général désigné par les entreprises opérant en régime
 d'établissement.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°1935-10-30 art. 66
-	  - Loi n°66-537 1966-07-24
-	  - Loi n°66-1010 du 28 décembre 1966 - art. 15 (M)
-	  - Loi n°66-1010 du 28 décembre 1966 - art. 6 (M)
 	  - Loi n°67-563 du 13 juillet 1967 - art. 108 (Ab)
-	  - Loi n°72-6 du 3 janvier 1972 - art. 10 (M)
 	  - Loi n°83-1 du 3 janvier 1983 - art. 40 (M)
-	  - Loi n°84-46 1984-01-24 art. 75, art. 77 à 84
-	  - Loi n°85-98 1985-01-25 art. 185 à 195
+	  - Ordonnance 2004-1201 2004-11-12
+	  - Code de commerce L625-1 à L625-10
+	  - Code de la consommation - art. L313-5 (M)
 	  - Code pénal - art. 222-38 (M)
-	  - Code pénal - art. 313-4 (Ab)
 	  - Code pénal - art. 324-1 (M)
 	  - Code pénal - art. 324-2 (M)
 	  - Code pénal - art. 432-11 (M)
@@ -12193,25 +12284,20 @@ d'établissement.
 	  - Code pénal - art. 433-3 (M)
 	  - Code pénal - art. 441-1 (M)
 	  - Code pénal - art. 441-8 (M)
-	  - Code pénal 441-1, 151-1, 432-11, 441-8, 433-2, 433-1, 433-3, 52-1, 313-1 à 313-3, 313-4, 1, 222-38, 324-1, 324-2
+	  - Code pénal 441-1, 432-11, 441-8, 433-2, 433-1, 433-3, 313-1 à 313-3, 222-38, 324-1, 324-2
 	  - Code des douanes - art. 415 (T)
+	  - Code monétaire et financier - art. L163-2 (M)
+	  - Code monétaire et financier - art. L353-4 (M)
+	  - Code monétaire et financier L353-4, L571-3 à L571-9, L571-14 à L571-16, L163-2
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-1-1 (V)
 	  - Code des assurances - art. L322-1-2 (M)
+	  - Code des assurances - art. L334-2 (M)
+	  - Code des assurances L310-1, L310-1-1, L322-1-2, L334-2, 20
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 date d'effet, art. 8 champ d'application à Mayotte
-	  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001
-	  - TXT_ASSOCIE: Code des assurances L328-1 sanctions pénales
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 10 () JORF 31 août 2001
 
 	**Cité par**:
 
@@ -12236,6 +12322,10 @@ d'établissement.
 	  - Code des assurances - art. R322-167 (VD)
 	  - Code des assurances - art. R362-2 (VD)
 	  - Code des assurances - art. R514-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 3 () JORF 16 novembre 2004
 
 
 ###### Article L322-2-1
@@ -12486,6 +12576,74 @@ territoires d'outre-mer.
 
 ##### Section II : Sociétés anonymes d'assurance et de capitalisation.
 
+###### Article L322-4
+
+Les prises, extensions ou cessions de participations directes ou indirectes dans les entreprises mentionnées au 1° de
+l'article L. 310-2 peuvent être soumises, afin de préserver les intérêts des assurés, à un régime de déclaration ou
+d'autorisation préalables, dans des conditions définies par décret en Conseil d'Etat. Ces dispositions s'appliquent également
+aux prises, extensions ou cessions de participations dans des sociétés de groupe d'assurance dont le siège social est situé
+en France ainsi que dans des compagnies financières holdings mixtes dont le siège social est situé en France et appartenant à
+un conglomérat financier dont la surveillance est coordonnée par la commission de contrôle dans les conditions prévues à
+l'article L. 334-9.
+
+L'autorisation donnée à des opérations mentionnées au premier alinéa peut être subordonnée au respect d'engagements souscrits
+par une ou plusieurs des personnes ayant présenté une demande d'autorisation.
+
+En cas de manquement aux prescriptions édictées par le décret en Conseil d'Etat visé au premier alinéa du présent article et
+sans préjudice des dispositions de l'article L. 233-14 du code de commerce, à la demande du Comité des entreprises
+d'assurance, du procureur de la République, de la Commission de contrôle des assurances ou de tout actionnaire, le juge
+suspend, jusqu'à régularisation de la situation, l'exercice des droits de vote attachés aux actions ou parts sociales des
+entreprises visées au premier alinéa du présent article détenues irrégulièrement, directement ou indirectement.
+
+Toute personne envisageant de déposer un projet d'offre publique à l'Autorité des marchés financiers en application du
+chapitre III du titre III du livre IV du code monétaire et financier, en vue d'acquérir une quantité déterminée de titres
+d'une entreprise d'assurance agréée en France, est tenue d'en informer le Comité des entreprises d'assurance deux jours
+ouvrés avant le dépôt de ce projet d'offre ou son annonce publique si elle est antérieure.
+
+Dans le cadre d'une opération de concentration concernant, directement ou non, une société visée aux articles L. 310-1 ou L.
+310-1-1, le Comité des entreprises d'assurances peut, s'il l'estime nécessaire à sa complète information, rendre sa décision
+sur le fondement du présent article après la décision rendue par le ministre chargé de l'économie en application des articles
+L. 430-1 et suivants du code de commerce ou celle rendue par la Commission européenne en application du règlement (CEE) n°
+4064/89 du Conseil, du 21 décembre 1989, relatif au contrôle des opérations de concentration entre entreprises.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-537 du 24 juillet 1966 - art. 148 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Ordonnance 2004-1201 2004-11-12
+	  - Code de commerce. - art. L233-14 (M)
+	  - Code de commerce. - art. L430-1 (M)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L334-9 (V)
+	  - Code des assurances L310-2, L334-9, L310-1, L310-1-1, 20
+	  - Règlement 4064-89 CEE 1989-12-21 (Conseil)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 3 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. L328-5 (V)
+	  - Code des assurances - art. R*322-7 (M)
+	  - Code des assurances - art. R322-11-1 (VD)
+
+
 ###### Article L322-4-1
 
 Le Comité des entreprises d'assurance informe la Commission des communautés européennes de toute prise de participation
@@ -12580,69 +12738,6 @@ montant et les modalités de répartition pour l'année écoulée de la particip
 	**Cité par**:
 
 	  - Code des assurances - art. L322-26-2-4 (V)
-
-
-##### Section II : Sociétés anomymes d'assurance et de capitalisation.
-
-###### Article L322-4
-
-Les prises, extensions ou cessions de participations directes ou indirectes dans les entreprises mentionnées au 1° de
-l'article L. 310-2 peuvent être soumises, afin de préserver les intérêts des assurés, à un régime de déclaration ou
-d'autorisation préalables, dans des conditions définies par décret en Conseil d'Etat. Ces dispositions s'appliquent également
-aux prises, extensions ou cessions de participations dans des sociétés de groupe d'assurance dont le siège social est situé
-en France.
-
-L'autorisation donnée à des opérations mentionnées au premier alinéa peut être subordonnée au respect d'engagements souscrits
-par une ou plusieurs des personnes ayant présenté une demande d'autorisation.
-
-En cas de manquement aux prescriptions édictées par le décret en Conseil d'Etat visé au premier alinéa du présent article et
-sans préjudice des dispositions de l'article 356-4 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, à la
-demande du Comité des entreprises d'assurance, du procureur de la République, de la Commission de contrôle des assurances ou
-de tout actionnaire, le juge suspend, jusqu'à régularisation de la situation, l'exercice des droits de vote attachés aux
-actions ou parts sociales des entreprises visées au premier alinéa du présent article détenues irrégulièrement, directement
-ou indirectement.
-
-Toute personne envisageant de déposer un projet d'offre publique à l'Autorité des marchés financiers en application du
-chapitre III du titre III du livre IV du code monétaire et financier, en vue d'acquérir une quantité déterminée de titres
-d'une entreprise d'assurance agréée en France, est tenue d'en informer le Comité des entreprises d'assurance deux jours
-ouvrés avant le dépôt de ce projet d'offre ou son annonce publique si elle est antérieure.
-
-Dans le cadre d'une opération de concentration concernant, directement ou non, une société visée aux articles L. 310-1 ou L.
-310-1-1, le Comité des entreprises d'assurances peut, s'il l'estime nécessaire à sa complète information, rendre sa décision
-sur le fondement du présent article après la décision rendue par le ministre chargé de l'économie en application des articles
-L. 430-1 et suivants du code de commerce ou celle rendue par la Commission européenne en application du règlement (CEE) n°
-4064/89 du Conseil, du 21 décembre 1989, relatif au contrôle des opérations de concentration entre entreprises.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 356-4
-	  - Code de commerce. - art. L430-1 (M)
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L310-2 (M)
-	  - Règlement 4064-89 CEE 1989-12-21 (Conseil)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°66-537 du 24 juillet 1966 - art. 148 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 25 II, art. 29 II 2°, 5° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 25 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Code des assurances - art. L328-5 (V)
-	  - Code des assurances - art. R*322-7 (M)
-	  - Code des assurances - art. R322-11-1 (VD)
 
 
 ##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance
@@ -14961,26 +15056,25 @@ qui leur sont applicables.
 	  - Code des assurances - art. L310-7 (T)
 
 
-#### Chapitre IV : Solvabilité des entreprises.
+#### Chapitre IV : Solvabilité des entreprises et surveillance complémentaire des groupes d'assurance et des conglomérats financiers
+
+##### Section I : Dispositions générales.
 
 ###### Article L334-1
 
 Les entreprises mentionnées à l'article L. 310-1 doivent à tout moment respecter une marge de solvabilité selon des modalités
 définies par décret en Conseil d'Etat.
 
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 6 () JORF 31 août 2001
 
 	**Cité par**:
 
@@ -15004,14 +15098,15 @@ définies par décret en Conseil d'Etat.
 	  - Code monétaire et financier - art. R746-2 (V)
 	  - Code monétaire et financier - art. R756-2 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
 
 
 ###### Article L334-2
 
-Pour l'application des dispositions législatives et réglementaires relatives à la solvabilité des entreprises :
+Pour l'application des dispositions législatives et réglementaires relatives à la solvabilité des entreprises et à la
+surveillance complémentaire des groupes d'assurance et des conglomérats financiers :
 
 1° L'expression : "entreprise mère" désigne une entreprise qui contrôle de manière exclusive une entreprise au sens du II de
 l'article L. 233-16 du code de commerce ou qui exerce une influence dominante sur une entreprise en raison de l'existence de
@@ -15019,14 +15114,16 @@ liens de solidarité importants et durables résultant d'engagements financiers,
 seconde entreprise est dénommée "entreprise filiale". Toute entreprise filiale d'une entreprise filiale est considérée comme
 filiale de l'entreprise mère ;
 
-2° L'expression : "participation" désigne le fait de détenir, directement ou indirectement, 20 % ou plus des droits de vote
-ou du capital d'une entreprise ;
+2° L'expression : "participation" désigne le fait de détenir, directement ou indirectement, au moins 20 % des droits de vote
+ou du capital d'une entreprise, ou un ensemble de droits dans le capital d'une autre entreprise, qui, en créant un lien
+durable avec celle-ci, est destiné à contribuer à l'activité de la société ;
 
 3° L'expression : "entreprise participante" désigne une entreprise mère ou une entreprise qui détient une participation dans
-une entreprise ;
+une entreprise ou une entreprise liée à une autre entreprise par une relation précisée au 7° du présent article ;
 
 4° L'expression : "entreprise affiliée" désigne une entreprise qui est soit une filiale, soit une autre entreprise dans
-laquelle une participation est détenue ;
+laquelle une participation est détenue soit une entreprise liée à une autre entreprise par une relation précisée au 7° du
+présent article ;
 
 5° L'expression : "entreprise apparentée" désigne toute entreprise affiliée, participante ou affiliée des entreprises
 participantes de l'entreprise d'assurance ;
@@ -15042,7 +15139,68 @@ application de l'article L. 310-1-1, une institution de prévoyance ou union ré
 sécurité sociale, une mutuelle ou union régie par le livre II du code de la mutualité ou une entreprise d'assurance ou de
 réassurance dont le siège social est situé hors de France.
 
-Les entités désignées aux a et b doivent être liées entre elles par l'un des liens définis aux 1° à 5° ci-dessus.
+Les entités désignées aux a et b doivent être liées entre elles par l'un des liens définis aux 1° à 5° ci-dessus ;
+
+7° L'expression "groupe" désigne un ensemble d'entreprises composé d'une entreprise mère, de ses filiales et des entités dans
+lesquelles l'entreprise mère ou ses filiales détiennent des participations, ainsi que des entités liées de telle sorte que
+leurs organes d'administration, de direction ou de surveillance sont composés en majorité des mêmes personnes ou qu'elles
+sont placées sous une direction unique en vertu d'un contrat ou de clauses statutaires. Les établissements affiliés à un
+réseau et l'organe central au sens de l'article L. 511-31 du code monétaire et financier sont considérés comme faisant partie
+d'un même groupe pour l'application du présent chapitre. Il en est de même pour les entités appartenant à des groupes
+coopératifs régis par les dispositions similaires dans la législation qui leur est applicable ;
+
+8° L'expression "entité réglementée" désigne un organisme d'assurance, un établissement de crédit ou une entreprise
+d'investissement ayant son siège social dans un Etat membre ou dans un Etat partie à l'accord sur l'Espace économique
+européen ;
+
+9° L'expression "compagnie financière holding mixte" désigne une entreprise mère autre qu'une entité réglementée, qui, avec
+ses filiales, dont l'une au moins est une entité réglementée ayant son siège dans un Etat membre ou dans un autre Etat partie
+à l'accord sur l'Espace économique européen, constitue un conglomérat financier ;
+
+10° L'expression "secteur financier" désigne un secteur composé d'une ou plusieurs entités appartenant aux secteurs
+suivants :
+
+a) Le secteur bancaire et des services d'investissement, qui comprend les établissements de crédit, les entreprises
+d'investissement, les établissements financiers ou les entreprises à caractère financier dont le siège social est situé dans
+un Etat membre ou dans un Etat partie à l'accord sur l'Espace économique européen ;
+
+b) Le secteur des assurances, qui comprend les entreprises d'assurance, les sociétés de groupe d'assurance, les mutuelles,
+les unions de mutuelles, les institutions de prévoyance, les unions d'institutions de prévoyance, les groupements paritaires
+de prévoyance ou les sociétés de réassurance dont le siège social est situé dans un Etat membre ou dans un autre Etat partie
+à l'accord sur l'Espace économique européen.
+
+Le secteur financier comprend également, le cas échéant, une ou plusieurs compagnies financières holding mixtes ;
+
+11° L'expression "autorité compétente" désigne toute autorité nationale d'un Etat membre ou d'un autre Etat partie à l'accord
+sur l'Espace économique européen dotée, par une disposition législative ou réglementaire, du pouvoir de surveiller,
+individuellement ou à l'échelle du groupe, l'une ou plusieurs des catégories d'entités réglementées suivantes :
+
+a) Les entreprises d'assurances ;
+
+b) Les mutuelles ;
+
+c) Les institutions de prévoyance ;
+
+d) Les établissements de crédit ;
+
+e) Les entreprises d'investissement ;
+
+12° L'expression "autorité compétente concernée" désigne :
+
+1° Toute autorité compétente des Etats responsable de la surveillance sectorielle consolidée des entités réglementées
+appartenant à un conglomérat financier ;
+
+2° Le coordonnateur désigné conformément à l'article L. 334-9, s'il est différent des autorités mentionnées au 1° ;
+
+3° Les autres autorités compétentes lorsque les autorités mentionnées aux 1° et 2° le jugent opportun ;
+
+13° L'expression "règles sectorielles" désigne les règles concernant la surveillance prudentielle des entités réglementées et
+les règles concernant la surveillance complémentaire des entités appartenant à un groupe d'assurance.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -15050,13 +15208,9 @@ Les entités désignées aux a et b doivent être liées entre elles par l'un de
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
-
-	**Créé par**:
-
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 7 () JORF 31 août 2001
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
 
 	**Cité par**:
 
@@ -15118,12 +15272,8 @@ Les entités désignées aux a et b doivent être liées entre elles par l'un de
 	  - Code monétaire et financier - art. R612-37 (VD)
 	  - Code monétaire et financier - art. R612-38 (V)
 
-	**Cite**:
 
-	  - Code de commerce. - art. L233-16 (M)
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-
+##### Section II : Dispositions relatives à la surveillance complémentaire des groupes d'assurance.
 
 ###### Article L334-3
 
@@ -15136,10 +15286,16 @@ filiales d'une société de groupe mixte d'assurance, font également l'objet d'
 modalités prévues au présent article et aux articles L. 310-12 à L. 310-15.
 
 La surveillance complémentaire tient compte des entreprises qui sont apparentées aux entreprises précitées. La Commission de
-contrôle des assurances peut décider d'exclure une entreprise apparentée de la surveillance complémentaire si elle estime que
-cette entreprise présente un intérêt négligeable ou contraire aux objectifs de cette surveillance.
+contrôle des assurances, des mutuelles et des institutions de prévoyance peut décider d'exclure une entreprise apparentée de
+la surveillance complémentaire si elle estime que cette entreprise présente un intérêt négligeable ou contraire aux objectifs
+de cette surveillance.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -15149,16 +15305,16 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	**Liens**:
 
-	  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
 	  - TXT_SOURCE: Arrêté du 16 mai 2002
 	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 1 ()
 	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 2 ()
 	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 3 ()
 	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 4 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 8 () JORF 31 août 2001
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
 
 	**Cité par**:
 
@@ -15179,6 +15335,645 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L334-2 (M)
 	  - Code des assurances L310-1, L334-2, L310-12 à L310-15
+
+
+##### Section III : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier
+
+###### Article L334-4
+
+Les entités réglementées appartenant à un conglomérat financier font l'objet d'une surveillance complémentaire dans les
+conditions prévues par la présente section, sans préjudice des règles sectorielles qui leur sont applicables.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-7 (V)
+	  - Code des assurances - art. R334-11 (V)
+	  - Code des assurances - art. R334-3 (V)
+	  - Code des assurances - art. R334-48 (VT)
+
+
+###### Article L334-5
+
+I. - Un groupe au sens du 7° de l'article L. 334-2 constitue un conglomérat financier lorsque les conditions suivantes sont
+remplies :
+
+1° Une entité réglementée est à la tête du groupe ou l'une des filiales du groupe au moins est une entité réglementée, et :
+
+a) Dans le cas où une entité réglementée est à la tête du groupe, il s'agit soit de l'entreprise mère d'une entité du secteur
+financier, soit d'une entité qui détient une participation dans une entité du secteur financier, soit d'une entité liée à une
+entité du secteur financier au sens du 7° de l'article L. 334-2 ;
+
+b) Dans le cas où il n'y a pas d'entité réglementée à la tête du groupe, les activités de ce dernier s'exercent
+principalement dans le secteur financier ;
+
+2° L'une au moins des entités du groupe appartient au secteur des assurances et l'une au moins appartient au secteur bancaire
+et des services d'investissement ;
+
+3° Les activités consolidées ou agrégées des entités du groupe dans le secteur des assurances et les activités consolidées ou
+agrégées des entités dans le secteur bancaire et dans celui des services d'investissement sont importantes.
+
+II. - Sont fixés par voie réglementaire :
+
+1° Les seuils à partir desquels les activités d'un groupe sont considérées comme s'exerçant principalement dans le secteur
+financier ;
+
+2° Les seuils à partir desquels l'activité dans chaque secteur est considérée comme importante ;
+
+3° Les seuils, critères ou conditions en fonction desquels les autorités compétentes concernées peuvent décider d'un commun
+accord de ne pas considérer le groupe comme un conglomérat financier ou de ne pas lui appliquer les dispositions relatives à
+la surveillance complémentaire.
+
+III. - Tout sous-groupe d'un groupe qui remplit les critères figurant au I du présent article est exempté du régime de la
+surveillance complémentaire lorsqu'il appartient à un groupe identifié comme conglomérat financier soumis, à ce titre, à une
+surveillance complémentaire. Néanmoins, le coordonnateur du conglomérat ou, le cas échéant, le coordonnateur désigné
+conformément à l'article L. 334-9 pour la surveillance complémentaire du sous-groupe peut, par une décision motivée,
+soumettre le sous-groupe au régime de surveillance complémentaire dans des conditions fixées par voie réglementaire.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-11 (Ab)
+	  - Code des assurances - art. A334-7 (M)
+	  - Code des assurances - art. A334-8 (Ab)
+	  - Code des assurances - art. L310-12 (V)
+	  - Code des assurances - art. L334-7 (V)
+	  - Code des assurances - art. R334-48 (M)
+	  - Code des assurances - art. R336-1 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-2 (M)
+	  - Code des assurances - art. L334-9 (V)
+
+
+###### Article L334-6
+
+La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, la commission bancaire, l'Autorité
+des marchés financiers, en liaison, le cas échéant, avec les autorités de surveillance des entités réglementées des Etats
+membres ou autres Etats parties à l'accord sur l'Espace économique européen, identifient les groupes entrant dans le champ de
+la surveillance complémentaire des conglomérats financiers et échangent à cet effet toute information utile à
+l'accomplissement de leurs missions respectives.
+
+Lorsqu'un groupe a été identifié comme un conglomérat financier et que la commission de contrôle est désignée, conformément
+aux dispositions de l'article L. 334-9, comme le coordonnateur de la surveillance complémentaire, elle en informe l'entité
+tête de groupe ou, à défaut, l'entité réglementée qui affiche le total du bilan le plus élevé dans le secteur financier le
+plus important du groupe. Elle en informe également les autorités compétentes qui ont agréé les entités réglementées du
+groupe et les autorités compétentes de l'Etat membre ou de l'autre Etat partie à l'accord sur l'Espace économique européen
+dans lequel la compagnie financière holding mixte a son siège social, ainsi que la Commission européenne.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-9 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R334-48 (V)
+
+
+###### Article L334-7
+
+I. - La surveillance complémentaire exercée au niveau d'un conglomérat s'applique à toute entité réglementée répondant à l'un
+des critères suivants :
+
+1° Elle constitue la tête du conglomérat ;
+
+2° Elle a pour entreprise mère une compagnie financière holding mixte ayant son siège social dans un Etat membre ou dans un
+autre Etat partie à l'accord sur l'Espace économique européen ;
+
+3° Elle est liée à une autre entité du secteur financier au sens du 7° de l'article L. 334-2.
+
+II. - Dans des cas autres que ceux mentionnés au I et à l'article L. 334-18, lorsque des personnes détiennent une
+participation dans une ou plusieurs entités réglementées, ou ont un lien de participation avec ces entités ou exercent sur
+elles une influence notable qui ne résulte ni d'une participation ni d'un lien de participation, les autorités compétentes
+concernées déterminent, d'un commun accord, au regard des objectifs de la surveillance complémentaire, si et dans quelle
+mesure une surveillance complémentaire des entités réglementées comprises dans cet ensemble doit être effectuée comme s'il
+constituait un conglomérat financier.
+
+Pour appliquer cette surveillance complémentaire, les conditions énoncées à l'article L. 334-5, I, 2° et 3°, doivent être
+remplies.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-18 (M)
+	  - Code des assurances - art. L334-2 (M)
+	  - Code des assurances - art. L334-5 (V)
+
+
+###### Article L334-8
+
+Les entités réglementées appartenant à un conglomérat financier sont soumises dans des conditions précisées par voie
+réglementaire à des exigences complémentaires en matière d'adéquation des fonds propres, de transactions entre les
+différentes entités du conglomérat, de concentration et de gestion des risques et de contrôle interne.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2014-158 du 20 février 2014 - art. 6
+
+	**Cité par**:
+
+	  - Code des assurances - art. L334-10 (Ab)
+	  - Code des assurances - art. L334-16 (Ab)
+	  - Code des assurances - art. R334-49 (Ab)
+	  - Code monétaire et financier - art. L633-3 (V)
+
+
+###### Article L334-9
+
+I. - Le coordonnateur est l'autorité compétente responsable de la coordination et de l'exercice de la surveillance
+complémentaire. Celle des autorités compétentes d'un des Etats membres ou des autres Etats parties à l'accord sur l'Espace
+économique européen qui remplit les critères définis par voie réglementaire est le coordonnateur.
+
+II. - Il peut décider, après consultation des autorités compétentes concernées et du conglomérat financier, quelle méthode de
+calcul des exigences complémentaires en matière d'adéquation des fonds propres est appliquée, et décider de ne pas inclure
+une entité particulière dans le périmètre de calcul des exigences complémentaires en matière d'adéquation des fonds propres
+dans des cas précisés par voie réglementaire.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-12 (Ab)
+	  - Code des assurances - art. A334-4 (V)
+	  - Code des assurances - art. A344-14-1 (Ab)
+	  - Code des assurances - art. L310-12 (V)
+	  - Code des assurances - art. L310-19 (Ab)
+	  - Code des assurances - art. L322-4 (V)
+	  - Code des assurances - art. L334-18 (Ab)
+	  - Code des assurances - art. L334-2 (V)
+	  - Code des assurances - art. L334-5 (V)
+	  - Code des assurances - art. L334-6 (V)
+	  - Code des assurances - art. R322-11-1 (M)
+
+
+###### Article L334-10
+
+Lorsqu'elle est coordonnateur, la commission de contrôle assure, au titre de la surveillance complémentaire :
+
+1° La coordination de la collecte et de la diffusion de toute information utile dans la marche normale des affaires comme
+dans les situations d'urgence, et en particulier de toute information importante intéressant la surveillance prudentielle
+exercée par une autorité compétente en vertu des règles sectorielles ;
+
+2° Le contrôle prudentiel et l'évaluation de la situation financière d'un conglomérat financier ;
+
+3° L'évaluation de l'application des règles relatives à l'adéquation des fonds propres, à la concentration de risques et aux
+transactions entre les différentes entités du conglomérat conformément aux dispositions de l'article L. 334-8 ;
+
+4° L'évaluation de la structure, de l'organisation et des dispositifs de contrôle interne du conglomérat financier ;
+
+5° La planification et la coordination des activités prudentielles, en coopération avec les autorités compétentes concernées.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-14 (Ab)
+	  - Code des assurances - art. L334-11 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-8 (V)
+
+
+###### Article L334-11
+
+Lorsque le coordonnateur d'un conglomérat financier est une autorité d'un autre Etat membre ou partie à l'accord sur l'Espace
+économique européen, il assure, à l'égard des entités établies en France, les missions définies à l'article L. 334-10.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-14 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-10
+
+
+###### Article L334-12
+
+Afin de faciliter l'exercice de la surveillance complémentaire, la commission de contrôle conclut avec les autorités
+compétentes concernées et, en tant que de besoin, toute autre autorité compétente intéressée, des accords de coordination.
+Ces accords sont publiés au Journal officiel de la République française. Ils peuvent confier des missions supplémentaires au
+coordinateur et préciser les procédures à suivre dans le cadre de la surveillance complémentaire. Ils peuvent également
+préciser les modalités de coordination avec d'autres autorités compétentes.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. L334-19 (Ab)
+
+
+###### Article L334-13
+
+La commission de contrôle coopère avec les autorités compétentes chargées de la surveillance des entités réglementées
+appartenant à un conglomérat financier et, lorsqu'elle n'exerce pas ce rôle, avec le coordonnateur.
+
+Pour les besoins de l'exercice de leurs fonctions respectives, les autorités compétentes peuvent échanger des informations
+relatives aux entités réglementées appartenant à un conglomérat financier, conformément aux règles sectorielles, avec les
+banques centrales des Etats membres ou des autres Etats parties à l'accord sur l'Espace économique européen, le Système
+européen de banques centrales et la Banque centrale européenne.
+
+Les conditions d'application du présent article sont fixées par voie réglementaire.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-13 (Ab)
+
+
+###### Article L334-14
+
+Par dérogation à la loi n° 68-678 du 26 juillet 1968 relative à la communication de documents et renseignements d'ordre
+économique, commercial, industriel, financier ou technique à des personnes physiques ou morales étrangères, toute entité
+établie en France, appartenant à un conglomérat financier dont le coordonnateur est une autorité d'un Etat membre ou d'un
+autre Etat partie à l'accord sur l'Espace économique européen est tenue de transmettre au coordonnateur, à sa demande, toute
+information pouvant intéresser la surveillance complémentaire.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°68-678 du 26 juillet 1968
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
+
+
+###### Article L334-15
+
+Lorsque les autorités compétentes d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+souhaitent, dans des cas déterminés, vérifier les informations relatives à une entité établie en France, réglementée ou non,
+appartenant à un conglomérat financier et mentionnée à l'article L. 310-12, elles demandent à la commission de contrôle de
+faire procéder à cette vérification.
+
+La commission de contrôle y donne suite, dans le cadre de ses compétences, soit en procédant elle-même à cette vérification,
+soit en permettant à l'autorité qui a présenté la demande d'y procéder elle-même, soit en permettant qu'un commissaire aux
+comptes ou un expert y procède.
+
+Lorsqu'elle ne procède pas elle-même à la vérification, l'autorité compétente qui a présenté la demande peut, si elle le
+souhaite, y être associée.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-12
+
+
+###### Article L334-16
+
+Lorsque la commission de contrôle, dans l'exercice de ses fonctions de coordonnateur, constate que la solvabilité des entités
+réglementées appartenant à un conglomérat financier risque d'être compromise, ou que les transactions entre les différentes
+entités du conglomérat ou que les concentrations de risques menacent la situation financière de ces entités réglementées, ou
+qu'une entité réglementée ne se conforme pas aux exigences de l'article L. 334-8, ou qu'une compagnie financière holding
+mixte ne respecte pas les dispositions législatives et réglementaires afférentes à son activité, la commission de contrôle
+peut prononcer, à l'encontre de cette compagnie ou de ses dirigeants :
+
+1° Une ou plusieurs des sanctions prévues aux 1, 2, 4 et 4 bis de l'article L. 310-18 ;
+
+2° Soit à la place, soit en sus de ces sanctions, une sanction pécuniaire dont le montant doit être fonction de la gravité
+des manquements commis et ne peut excéder le plus élevé des deux montants suivants :
+
+3 % du chiffre d'affaires hors taxes réalisé, au cours du dernier exercice clos calculé sur une période de douze mois, par
+l'entité réglementée du secteur de l'assurance filiale de la compagnie financière holding mixte ayant réalisé le chiffre
+d'affaires le plus important. Ce maximum est porté à 5 % en cas de nouvelle violation de la même obligation ;
+
+Le capital minimum auquel est astreinte l'entité réglementée filiale de la compagnie financière holding mixte relevant du
+secteur bancaire et des services d'investissement. Lorsque celle-ci comprend plusieurs filiales qui sont des entités
+réglementées, le plafond de l'amende est déterminé par référence au capital de l'entité réglementée relevant de ce secteur
+qui est astreinte au capital minimum le plus élevé.
+
+Les sommes correspondantes sont versées au Trésor public et recouvrées comme des créances de l'Etat étrangères à l'impôt et
+au domaine.
+
+La commission de contrôle peut décider de reporter sa décision à l'expiration d'un délai imparti aux entités réglementées ou
+à la compagnie financière holding mixte placée à la tête du groupe pour prendre toute mesure destinée à rétablir ou renforcer
+leur équilibre financier ou à corriger leurs pratiques.
+
+Dans les cas visés aux alinéas précédents, les dispositions des trois derniers alinéas de l'article L. 310-18 sont
+applicables.
+
+La commission de contrôle informe de ces constatations les autorités compétentes chargées de la surveillance sectorielle des
+entités réglementées du conglomérat financier.
+
+Lorsque le coordonnateur est une autorité compétente d'un autre Etat membre ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen, il peut prononcer à l'encontre d'une compagnie financière holding mixte ayant son siège en France, dans
+les conditions prévues à l'alinéa précédent, les sanctions prévues au présent article ou prendre les mesures prévues par son
+droit national.
+
+Les autorités compétentes sectorielles, y compris la commission de contrôle lorsqu'elle intervient en cette qualité, peuvent
+faire usage, aux fins de la surveillance complémentaire, des pouvoirs de sanctions dont elles disposent au titre de la
+surveillance sectorielle à l'égard des entités réglementées soumises à leur contrôle.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-13 (Ab)
+	  - Code des assurances - art. R310-18 (VT)
+	  - Code des assurances - art. R334-51 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L334-8 (V)
+
+
+###### Article L334-17
+
+Lorsqu'une entité réglementée utilise son appartenance à un conglomérat financier pour se soustraire, totalement ou
+partiellement, à l'application des règles sectorielles dont elle relève, la commission de contrôle peut faire usage des
+pouvoirs prévus à la section II du chapitre unique du titre Ier du livre III ainsi qu'au chapitre III du titre II du livre
+III.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-13 (Ab)
+
+
+###### Article L334-18
+
+Lorsque des entités réglementées appartenant à un groupe exerçant des activités à la fois dans le secteur de la banque et
+dans le secteur de l'assurance ont pour entreprise mère une société dont le siège social se situe dans un Etat non membre ni
+partie à l'accord sur l'Espace économique européen, la commission de contrôle, lorsqu'elle remplit les conditions fixées par
+l'article L. 334-9 pour être coordonnateur, vérifie, de sa propre initiative ou à la demande de l'entreprise mère ou d'une
+entité réglementée agréée dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen, que
+ces entités réglementées sont soumises, par une autorité compétente du pays tiers, à une surveillance complémentaire
+équivalente à celle prévue à la présente section. Cette autorité consulte les autorités compétentes concernées. A défaut
+d'équivalence, il est appliqué à ces entités réglementées les dispositions relatives à la surveillance complémentaire.
+
+Afin d'assurer la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier dont
+l'entreprise mère a son siège social dans un Etat qui n'est pas partie à l'Espace économique européen, les autorités
+compétentes peuvent également appliquer d'autres méthodes qu'elles jugent appropriées. Ces méthodes doivent avoir été
+validées par la commission de contrôle, lorsqu'elle remplit les conditions fixées par l'article L. 334-9 pour être
+coordonnateur, après consultation des autres autorités compétentes concernées. Les autorités compétentes peuvent notamment
+exiger la constitution d'une compagnie financière holding mixte ayant son siège social dans un Etat membre ou dans un autre
+Etat partie à l'accord sur l'Espace économique européen et appliquer les dispositions relatives à la surveillance
+complémentaire aux entités réglementées du conglomérat financier coiffées par cette compagnie financière holding mixte. Les
+méthodes mentionnées au présent alinéa sont notifiées aux autorités compétentes concernées et à la Commission européenne.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-14 (Ab)
+	  - Code des assurances - art. L334-7 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-9 (V)
+
+
+###### Article L334-19
+
+Aux fins de la surveillance complémentaire prévue par le présent chapitre, la commission de contrôle peut conclure les
+accords prévus à l'article L. 334-12 avec les autorités compétentes d'un Etat non membre ou non partie à l'accord sur
+l'Espace économique européen en vue du contrôle de toute entité, réglementée ou non, appartenant à un conglomérat financier.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-12
 
 
 ### Titre IV : Dispositions comptables et statistiques
@@ -15322,10 +16117,11 @@ territoire de la République française.
 ###### Article L345-2
 
 Les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 et ayant leur siège social en France, les
-entreprises visées à l'article L. 310-1-1 et les sociétés de groupe d'assurance définies à l'article L. 322-1-2 doivent
-établir et publier des comptes consolidés dans des conditions définies par règlement du comité de la réglementation
-comptable. Les entreprises qui sont incluses par intégration globale dans les comptes consolidés d'une entreprise elle-même
-soumise à une obligation de consolidation en application du présent alinéa ne sont toutefois pas soumises à cette obligation.
+entreprises mentionnées à l'article L. 310-1-1, les sociétés de groupe d'assurance définies à l'article L. 322-1-2 et les
+compagnies financières holding mixtes définies au 9° de l'article L. 334-2 doivent établir et publier des comptes consolidés
+dans des conditions définies par règlement du Comité de la réglementation comptable. Les entreprises qui sont incluses par
+intégration globale dans les comptes consolidés d'une entreprise elle-même soumise à une obligation de consolidation en
+application du présent alinéa ne sont toutefois pas soumises à cette obligation.
 
 Lorsque la Commission de contrôle des assurances considère que les comptes consolidés d'une société de groupe d'assurance ne
 permettent pas de porter une appréciation pertinente sur le respect des règles de surveillance complémentaire posées à
@@ -15339,6 +16135,11 @@ constituent un ensemble dont la cohérence ne résulte pas de liens en capital, 
 combinés. Un décret détermine celui des organismes mentionnés au présent alinéa sur lequel pèse cette obligation. Les comptes
 combinés sont constitués par agrégation de l'ensemble des comptes des organismes concernés, établis s'il y a lieu sur une
 base consolidée, dans des conditions définies par un règlement du Comité de la réglementation comptable.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -15377,20 +16178,19 @@ base consolidée, dans des conditions définies par un règlement du Comité de 
 	  - Code du travail - art. L444-3 (AbD)
 	  - Code général des impôts, CGI. - art. 223 A (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 9 () JORF 31 août 2001
-
 	**Cite**:
 
+	  - Ordonnance 2004-1201 2004-11-12
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-1-1 (V)
 	  - Code des assurances - art. L322-1-2 (M)
+	  - Code des assurances - art. L334-2 (M)
 	  - Code des assurances - art. L334-3 (M)
+	  - Code des assurances L310-1, L310-1-1, L322-1-2, L334-2, L334-3, 20
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 2 () JORF 16 novembre 2004
 
 
 ### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des Communautés européennes
@@ -33377,15 +34177,15 @@ Rapportée à la base de dispersion constituée par la différence entre le mont
 332-10, toutes monnaies confondues, la valeur au bilan de chacune des catégories d'actif énumérées ci-après ne peut excéder,
 sauf dérogation accordée cas par cas par la commission de contrôle des assurances :
 
-1° 65 p. 100 pour l'ensemble des valeurs mentionnées du 4° au 8° de l'article R. 332-2 et des prêts mentionnés au troisième
-alinéa du 1° de l'article R. 332-13, dont 5 p. 100 au maximum pour l'ensemble formé par les actions d'entreprises étrangères
-d'assurance mentionnées au 5° bis de l'article R. 332-2 par les actions et parts mentionnées aux 6°, 7° et 7° bis de
-l'article R. 332-2 et par les prêts mentionnés ci-dessus ;
+1° 65 % pour l'ensemble des valeurs mentionnées du 4° au 8° de l'article R. 332-2 et des prêts mentionnés au troisième alinéa
+du 1° de l'article R. 332-13, dont 10 % au maximum pour l'ensemble formé par les actions d'entreprises étrangères d'assurance
+mentionnées au 5° bis de l'article R. 332-2 par les actions et parts mentionnées aux 6°, 7° et 7° bis de l'article R. 332-2
+et par les prêts mentionnés ci-dessus ;
 
-2° 40 p. 100 pour les actifs immobiliers mentionnés aux 9° et 9° bis de l'article R. 332-2 ;
+2° 40 % pour les actifs immobiliers mentionnés aux 9° et 9° bis de l'article R. 332-2 ;
 
-3° 10 p. 100 pour l'ensemble des valeurs mentionnées aux 10°, 11° et 12° de l'article R. 332-2 à l'exception des prêts
-mentionnés au 1° du présent article.
+3° 10 % pour l'ensemble des valeurs mentionnées aux 10°, 11° et 12° de l'article R. 332-2 à l'exception des prêts mentionnés
+au 1° du présent article.
 
 4° 0,5 % pour le montant total des primes ou soultes mentionnées au second alinéa du paragraphe D de l'article R. 332-2.
 
@@ -33437,7 +34237,7 @@ mentionnés au 1° du présent article.
 
 	**Modifié par**:
 
-	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
+	  - Décret n°2004-1202 2004-11-08 art. 1 1° JORF 16 novembre 2004
 
 	**Liens**:
 
@@ -33456,8 +34256,8 @@ mentionnés au 1° du présent article.
 Rapportée au montant défini à l'article R. 332-3, la valeur au bilan des actifs mentionnés ci-après ne peut excéder, sauf
 dérogation accordée cas par cas par la commission de contrôle des assurances :
 
-1° 5 p. 100 pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un même organisme et des dépôts placés auprès
-de cet organisme, à l'exception :
+1° 5 % pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un même organisme et des dépôts placés auprès de cet
+organisme, à l'exception :
 
 a) Des valeurs émises ou garanties, ou des prêts obtenus, par un Etat membre de l'O.C.D.E. ainsi que des titres émis par la
 caisse d'amortissement de la dette sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 relative
@@ -33466,17 +34266,17 @@ au remboursement de la dette sociale ;
 b) Des actions des sociétés d'investissement à capital variable et des parts des fonds communs de placement visées au 3° de
 l'article R. 332-2, dont le portefeuille est exclusivement composé des valeurs mentionnées ci-dessus.
 
-Le ratio de droit commun de 5 p. 100 peut atteindre 10 p. 100 pour les titres d'un même émetteur, à condition que la valeur
-des titres de l'ensemble des émetteurs dont les émissions sont admises au-delà du ratio de 5 p. 100 n'excède pas 40 p. 100 du
-montant défini à l'article R. 332-3.
+Le ratio de droit commun de 5 % peut atteindre 10 % pour les titres d'un même émetteur, à condition que la valeur des titres
+de l'ensemble des émetteurs dont les émissions sont admises au-delà du ratio de 5 % n'excède pas 40 % du montant défini à
+l'article R. 332-3.
 
-2° 10 p. 100 pour un même immeuble ou pour les parts ou actions d'une même société immobilière ou foncière ;
+2° 10 % pour un même immeuble ou pour les parts ou actions d'une même société immobilière ou foncière ;
 
-3° 0,5 % pour les valeurs mentionnées aux 6°, 7° et 7° bis de l'article R. 332-2 et les prêts mentionnés au troisième alinéa
-du 1 de l'article R. 332-13, respectivement émises ou obtenus par une même société ou un même organisme.
+3° 1 % pour les valeurs mentionnées aux 6°, 7° et 7° bis de l'article R. 332-2 et les prêts mentionnés au troisième alinéa du
+1 de l'article R. 332-13, respectivement émises ou obtenus par une même société ou un même organisme.
 
 Pour l'application des dispositions du 5° de l'article R. 332-2, une entreprise ne peut affecter à la représentation de ses
-engagements réglementés plus de 50 p. 100 des actions émises par une même société.
+engagements réglementés plus de 50 % des actions émises par une même société.
 
 **Liens relatifs à cet article**
 
@@ -33516,7 +34316,7 @@ engagements réglementés plus de 50 p. 100 des actions émises par une même so
 
 	**Modifié par**:
 
-	  - Décret n°2000-142 du 18 février 2000 - art. 3 () JORF 22 février 2000
+	  - Décret n°2004-1202 2004-11-08 art. 1 2° JORF 16 novembre 2004
 
 
 ###### Article R332-3-2
@@ -39138,7 +39938,12 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 ###### Article R413-4
 
 Un secrétaire général du comité des entreprises d'assurance est désigné par le ministre chargé de l'économie. Le secrétariat
-du comité est assuré par la direction du Trésor.
+du comité est assuré par la direction générale du Trésor et de la politique économique.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -39146,9 +39951,13 @@ du comité est assuré par la direction du Trésor.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-221 du 12 mars 2004 - art. 1 () JORF 14 mars 2004
+	  - Décret n°2004-1203 du 15 novembre 2004 - art. 3 () JORF 16 novembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 
 ### Titre II : Les fonds de garantie
@@ -41991,9 +42800,9 @@ garantie institué à l'article L. 423-1.
 
 ###### Article R423-3
 
-Le collège institué à l'article L. 423-2 est composé du directeur du Trésor, du président de la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance et du président du conseil de surveillance du fonds de garantie
-des assurés, ou de leurs représentants.
+Le collège institué à l'article L. 423-2 est composé du directeur général du Trésor et de la politique économique ou son
+représentant, du président de l'Autorité de contrôle des assurances et des mutuelles et du président du conseil de
+surveillance du fonds de garantie des assurés, ou de leurs représentants.
 
 **Liens relatifs à cet article**
 
@@ -42003,8 +42812,7 @@ des assurés, ou de leurs représentants.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+	  - Décret n°2004-1203 du 15 novembre 2004 - art. 3 () JORF 16 novembre 2004
 
 	**Cite**:
 
