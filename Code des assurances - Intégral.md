@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1996-05-01
+Version Consolidée au 1996-06-29
 
 # Partie législative
 
@@ -28990,81 +28990,7 @@ l'exportation pour le compte ou avec la garantie de l'Etat.
 
 ##### Section I : Eléments d'actif admis en représentation des engagements réglementés.
 
-###### Article R332-1
-
-1. Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute époque, être représentés par des actifs
-équivalents.
-
-2. Les engagements pris dans une monnaie doivent être couverts par des actifs congruents, c'est-à-dire libellés ou
-réalisables dans cette monnaie.
-
-3. Les actifs mentionnés au 1 doivent être localisés sur le territoire d'un Etat membre de la Communauté européenne.
-
-Toutefois, les engagements pris dans le cadre de la coassurance communautaire, en exécution des dispositions de l'article L.
-352-1, par une entreprise mentionnée à l'article L. 310-1 peuvent être couverts par des actifs localisés dans le pays de
-l'apériteur.
-
-4. Les engagements pris par des entreprises mentionnées à l'article L. 310-1 et résultant d'opérations réalisées en libre
-prestation de services au sens des articles L. 351-1 et L. 353-1 sont soumis aux règles du pays de situation du risque ou de
-l'engagement lorsque ce dernier subordonne l'exercice de ces opérations à agrément.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
-
-	**Cité par**:
-
-	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
-	  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
-	  - Code des assurances - art. R*332-11 (M)
-	  - Code des assurances - art. R328-1 (V)
-	  - Code des assurances - art. R332-1-1 (V)
-	  - Code des assurances - art. R332-2 (V)
-	  - Code des assurances - art. R332-9 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L351-1 (M)
-	  - Code des assurances - art. L352-1 (M)
-	  - Code des assurances - art. L353-1 (Ab)
-	  - Code des assurances - art. R*331-1 (M)
-
-
-###### Article R332-1-1
-
-I. - Par dérogation aux dispositions du 2° de l'article R. 332-1, les entreprises d'assurance peuvent, à concurrence de 20 p.
-100 de leurs engagements, ne pas couvrir ceux-ci par des actifs congruents.
-
-II. - Les entreprises peuvent également ne pas représenter leurs provisions techniques par des actifs congruents si, pour
-satisfaire aux dispositions de l'article R. 332-1, elles doivent détenir dans une monnaie des éléments d'actifs d'un montant
-ne dépassant pas 7 p. 100 des éléments d'actifs existant dans l'ensemble des autres monnaies.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°90-700 du 8 août 1990 - art. 5 () JORF 9 août 1990
-
-	**Cité par**:
-
-	  - Décret n°90-700 du 8 août 1990 - art. 10 (V)
-	  - Code des assurances - art. R332-2 (V)
-	  - Code des assurances - art. R332-61 (VT)
-	  - Code des assurances - art. R342-2 (VT)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*332-1 (M)
-
-
-###### Article R332-2
+###### Article R*332-2
 
 En application des dispositions de l'article R. 332-1 et sous réserve des dérogations prévues à ce même article, à l'article
 R. 332-1-1 ainsi qu'aux articles R. 332-3-3 à R. 332-10, les engagements réglementés mentionnés à l'article R. 331-1 sont
@@ -29073,9 +28999,10 @@ représentés par les actifs suivants :
 A. - Valeurs mobilières et titres assimilés :
 
 1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres de l'Organisation de coopération et de
-développement économique (O.C.D.E.) ; obligations émises ou garanties par un organisme international à caractère public dont
-un ou plusieurs Etats membres de la Communauté économique européenne font partie ; obligations émises ou garanties par les
-collectivités publiques territoriales d'un Etat membre de l'O.C.D.E. ;
+développement économique (O.C.D.E.) ainsi que les titres émis par la caisse d'amortissement de la dette sociale instituée par
+l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations émises ou garanties par un organisme international à
+caractère public dont un ou plusieurs Etats membres de la Communauté européenne font partie ; obligations émises ou garanties
+par les collectivités publiques territoriales d'un Etat membre de l'O.C.D.E. ;
 
 2° Obligations, parts de fonds communs de créance et titres participatifs inscrits à la cote d'une bourse de valeurs d'un
 Etat membre de l'O.C.D.E., autres que celles ou ceux visés au 1° ;
@@ -29126,8 +29053,9 @@ des Etats membres de l'O.C.D.E., dans les conditions fixées par l'article R. 33
 leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées par l'article R.
 332-13 ;
 
-13° Dépôts, dans les conditions fixées par l'article R. 332-16.    Les intérêts courus des placements énumérés ci-dessus sont
-assimilés auxdits placements.
+13° Dépôts, dans les conditions fixées par l'article R. 332-16.
+
+Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdits placements.
 
 **Liens relatifs à cet article**
 
@@ -29228,13 +29156,14 @@ assimilés auxdits placements.
 	**Cite**:
 
 	  - Loi n°88-1201 1988-12-23
+	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
 	  - Code des assurances - art. R*331-1 (M)
 	  - Code des assurances - art. R332-1-1 (V)
 	  - Code des assurances R332-1, R332-1-1, R332-3-3 à R332-10, R331-1, R332-14, R332-15, R332-12, R332-13, R332-16
 
 	**Modifié par**:
 
-	  - Décret n°90-981 du 5 novembre 1990 - art. 1 () JORF 6 novembre 1990
+	  - Décret n°96-581 du 27 juin 1996 - art. 1 () JORF 29 juin 1996
 
 	**Liens**:
 
@@ -29242,6 +29171,145 @@ assimilés auxdits placements.
 	  - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R332-16 (M)
+
+
+###### Article R*332-3-1
+
+Rapportée au montant défini à l'article R. 332-3, la valeur au bilan des actifs mentionnés ci-après ne peut excéder, sauf
+dérogation accordée cas par cas par la commission de contrôle des assurances :
+
+1° 5 p. 100 pour l'ensemble des valeurs émises et des prêts obtenus par un même organisme, à l'exception :
+
+a) Des valeurs émises ou garanties, ou des prêts obtenus, par un Etat membre de l'O.C.D.E. ainsi que des titres émis par la
+caisse d'amortissement de la dette sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 relative
+au remboursement de la dette sociale ;
+
+b) Des actions des sociétés d'investissement à capital variable et des parts des fonds communs de placement visées au 3° de
+l'article R. 332-2, dont le portefeuille est exclusivement composé des valeurs mentionnées ci-dessus.
+
+Le ratio de droit commun de 5 p. 100 peut atteindre 10 p. 100 pour les titres d'un même émetteur, à condition que la valeur
+des titres de l'ensemble des émetteurs dont les émissions sont admises au-delà du ratio de 5 p. 100 n'excède pas 40 p. 100 du
+montant défini à l'article R. 332-3.
+
+2° 10 p. 100 pour un même immeuble ou pour les parts ou actions d'une même société immobilière ou foncière ;
+
+3° 0,5 p. 100 pour les valeurs mentionnées aux 6° et 7° de l'article R. 332-2 émises par une même société ou un même fonds.
+
+Pour l'application des dispositions du 5° de l'article R. 332-2, une entreprise ne peut affecter à la représentation de ses
+engagements réglementés plus de 50 p. 100 des actions émises par une même société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cité par**:
+
+	  - Décret n°86-1111 du 15 octobre 1986 - art. 5 (Ab)
+	  - Arrêté du 17 novembre 1989 - art. 2 (V)
+	  - Décret n°92-183 du 26 février 1992 - art. 16 (Ab)
+	  - Arrêté du 22 avril 2004 - art. 19 (Ab)
+	  - Décret n°2007-243 du 23 février 2007 - art. 5 (V)
+	  - Code de la santé publique - art. R3122-16 (MMN)
+	  - Code des assurances - art. A142-3 (VT)
+	  - Code des assurances - art. A332-4 (Ab)
+	  - Code des assurances - art. R*431-17 (M)
+	  - Code des assurances - art. R*431-23 (M)
+	  - Code des assurances - art. R*431-42 (Ab)
+	  - Code des assurances - art. R332-17 (VD)
+	  - Code des assurances - art. R332-3-3 (M)
+	  - Code des assurances - art. R332-5 (V)
+	  - Code des assurances - art. R332-54 (V)
+	  - Code des assurances - art. R332-65 (VD)
+	  - Code des assurances - art. R342-2 (VT)
+	  - Code des assurances - art. R370-2 (V)
+	  - Code des assurances - art. R422-5 (M)
+	  - Code des assurances - art. R427-5 (V)
+
+	**Cite**:
+
+	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
+	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances - art. R*332-3 (M)
+
+	**Modifié par**:
+
+	  - Décret n°96-581 du 27 juin 1996 - art. 1 () JORF 29 juin 1996
+
+
+###### Article R332-1
+
+1. Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute époque, être représentés par des actifs
+équivalents.
+
+2. Les engagements pris dans une monnaie doivent être couverts par des actifs congruents, c'est-à-dire libellés ou
+réalisables dans cette monnaie.
+
+3. Les actifs mentionnés au 1 doivent être localisés sur le territoire d'un Etat membre de la Communauté européenne.
+
+Toutefois, les engagements pris dans le cadre de la coassurance communautaire, en exécution des dispositions de l'article L.
+352-1, par une entreprise mentionnée à l'article L. 310-1 peuvent être couverts par des actifs localisés dans le pays de
+l'apériteur.
+
+4. Les engagements pris par des entreprises mentionnées à l'article L. 310-1 et résultant d'opérations réalisées en libre
+prestation de services au sens des articles L. 351-1 et L. 353-1 sont soumis aux règles du pays de situation du risque ou de
+l'engagement lorsque ce dernier subordonne l'exercice de ces opérations à agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
+	  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
+	  - Code des assurances - art. R*332-11 (M)
+	  - Code des assurances - art. R328-1 (V)
+	  - Code des assurances - art. R332-1-1 (V)
+	  - Code des assurances - art. R332-2 (V)
+	  - Code des assurances - art. R332-9 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L351-1 (M)
+	  - Code des assurances - art. L352-1 (M)
+	  - Code des assurances - art. L353-1 (Ab)
+	  - Code des assurances - art. R*331-1 (M)
+
+
+###### Article R332-1-1
+
+I. - Par dérogation aux dispositions du 2° de l'article R. 332-1, les entreprises d'assurance peuvent, à concurrence de 20 p.
+100 de leurs engagements, ne pas couvrir ceux-ci par des actifs congruents.
+
+II. - Les entreprises peuvent également ne pas représenter leurs provisions techniques par des actifs congruents si, pour
+satisfaire aux dispositions de l'article R. 332-1, elles doivent détenir dans une monnaie des éléments d'actifs d'un montant
+ne dépassant pas 7 p. 100 des éléments d'actifs existant dans l'ensemble des autres monnaies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 5 () JORF 9 août 1990
+
+	**Cité par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 10 (V)
+	  - Code des assurances - art. R332-2 (V)
+	  - Code des assurances - art. R332-61 (VT)
+	  - Code des assurances - art. R342-2 (VT)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-1 (M)
 
 
 ###### Article R332-3
@@ -29318,68 +29386,6 @@ actions et parts mentionnées aux 6° et 7° de l'article R. 332-2 ;
 	  - Code des assurances - art. R*331-1 (M)
 	  - Code des assurances - art. R*332-2 (M)
 	  - Code des assurances R331-1, R332-3-4 à R332-10, R332-2
-
-
-###### Article R332-3-1
-
-Rapportée au montant défini à l'article R. 332-3, la valeur au bilan des actifs mentionnés ci-après ne peut excéder, sauf
-dérogation accordée cas par cas par la commission de contrôle des assurances :
-
-1° 5 p. 100 pour l'ensemble des valeurs émises et des prêts obtenus par un même organisme, à l'exception :
-
-a) Des valeurs émises ou garanties, ou des prêts obtenus, par un Etat membre de l'O.C.D.E. ;
-
-b) Des actions des sociétés d'investissement à capital variable et des parts des fonds communs de placement visées au 3° de
-l'article R. 332-2, dont le portefeuille est exclusivement composé des valeurs mentionnées ci-dessus.
-
-Le ratio de droit commun de 5 p. 100 peut atteindre 10 p. 100 pour les titres d'un même émetteur, à condition que la valeur
-des titres de l'ensemble des émetteurs dont les émissions sont admises au-delà du ratio de 5 p. 100 n'excède pas 40 p. 100 du
-montant défini à l'article R. 332-3.
-
-2° 10 p. 100 pour un même immeuble ou pour les parts ou actions d'une même société immobilière ou foncière ;
-
-3° 0,5 p. 100 pour les valeurs mentionnées aux 6° et 7° de l'article R. 332-2 émises par une même société ou un même fonds.
-
-Pour l'application des dispositions du 5° de l'article R. 332-2, une entreprise ne peut affecter à la représentation de ses
-engagements réglementés plus de 50 p. 100 des actions émises par une même société.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Décret n°86-1111 du 15 octobre 1986 - art. 5 (Ab)
-	  - Arrêté du 17 novembre 1989 - art. 2 (V)
-	  - Décret n°92-183 du 26 février 1992 - art. 16 (Ab)
-	  - Arrêté du 22 avril 2004 - art. 19 (Ab)
-	  - Décret n°2007-243 du 23 février 2007 - art. 5 (V)
-	  - Code de la santé publique - art. R3122-16 (MMN)
-	  - Code des assurances - art. A142-3 (VT)
-	  - Code des assurances - art. A332-4 (Ab)
-	  - Code des assurances - art. R*431-17 (M)
-	  - Code des assurances - art. R*431-23 (M)
-	  - Code des assurances - art. R*431-42 (Ab)
-	  - Code des assurances - art. R332-17 (VD)
-	  - Code des assurances - art. R332-3-3 (M)
-	  - Code des assurances - art. R332-5 (V)
-	  - Code des assurances - art. R332-54 (V)
-	  - Code des assurances - art. R332-65 (VD)
-	  - Code des assurances - art. R342-2 (VT)
-	  - Code des assurances - art. R370-2 (V)
-	  - Code des assurances - art. R422-5 (M)
-	  - Code des assurances - art. R427-5 (V)
-
-	**Modifié par**:
-
-	  - Décret n°90-981 du 5 novembre 1990 - art. 3 () JORF 6 novembre 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. R*332-2 (M)
-	  - Code des assurances - art. R*332-3 (M)
 
 
 ###### Article R332-3-2
