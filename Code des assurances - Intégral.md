@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1999-01-13
+Version Consolidée au 1999-01-20
 
 # Partie législative
 
@@ -23448,7 +23448,8 @@ garantir les engagements de la société, et préciser que le fonds d'établisse
 préalablement à la déclaration prévue à l'article R. 322-51 ou au dépôt des statuts en mairie pour les organismes mentionnés
 à l'article 1235 du code rural ;
 
-6° (paragraphe abrogé).
+6° Préciser si, en vue de l'alimentation ultérieure du fonds d'établissement, chaque nouvel adhérent devra lors de la
+souscription du premier contrat d'assurance s'acquitter d'un droit d'entrée ou droit d'adhésion.
 
 7° Prévoir le mode de répartition des excédents de recettes ;
 
@@ -23456,12 +23457,6 @@ préalablement à la déclaration prévue à l'article R. 322-51 ou au dépôt d
 cotisations fixes.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1235
-	  - Code des assurances - art. R*322-55 (M)
-	  - Code des assurances R321-1, R322-51, R322-55
 
 	**Codifié par**:
 
@@ -23474,7 +23469,7 @@ cotisations fixes.
 
 	**Modifié par**:
 
-	  - Décret n°94-799 du 9 septembre 1994 - art. 3 () JORF 15 septembre 1994
+	  - Décret n°99-37 du 19 janvier 1999 - art. 1 () JORF 20 janvier 1999
 
 	**Cité par**:
 
@@ -23483,6 +23478,12 @@ cotisations fixes.
 	  - Code des assurances - art. R322-140 (V)
 	  - Code des assurances - art. R322-161 (V)
 	  - Code des assurances - art. R322-74 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*322-55 (M)
+	  - Code des assurances R321-1, R322-51, R322-55
+	  - Code rural 1235
 
 
 ###### Article R*322-48
@@ -24593,23 +24594,6 @@ Signature
 
 ##### Paragraphe 3 : Obligations des sociétaires et de la société.
 
-###### Article R*322-72
-
-Le conseil d'administration décide de l'admissibilité et de la tarification de tout risque prévu par les statuts, sous
-réserve de l'application des lois et règlements en vigueur. Aucun traitement préférentiel ne peut être accordé à un
-sociétaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-
-
 ###### Article R322-71
 
 Le sociétaire ne peut être tenu en aucun cas, sauf par application des dispositions du premier alinéa de l'article R. 322-65,
@@ -24652,6 +24636,36 @@ Les dispositions du présent article ne s'appliquent pas aux sociétés pratiqua
 
 	  - Code des assurances - art. R*322-65 (M)
 	  - Code des assurances R322-65, R321-1
+
+
+###### Article R322-72
+
+Le conseil d'administration décide de l'admissibilité et de la tarification de tout risque prévu par les statuts, sous
+réserve de l'application des lois et règlements en vigueur. Aucun traitement préférentiel ne peut être accordé à un
+sociétaire.
+
+Il fixe, à l'issue de l'assemblée générale ordinaire approuvant les comptes annuels, le montant du droit d'entrée ou droit
+d'adhésion applicable jusqu'à l'assemblée générale ordinaire d'approbation des comptes suivante. Ce montant ne peut dépasser
+le rapport entre la marge de solvabilité mentionnée aux articles R. 334-5, R. 334-13 et R. 334-19 et le nombre de sociétaires
+constaté à la clôture de l'exercice sur lequel portent les comptes approuvés. Toutefois, lorsque la marge de solvabilité
+effectivement constituée est inférieure au montant minimal réglementaire, le premier terme de ce rapport est majoré du
+montant de cette insuffisance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°99-37 du 19 janvier 1999 - art. 2 () JORF 20 janvier 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-13 (M)
+	  - Code des assurances - art. R*334-19 (M)
+	  - Code des assurances - art. R*334-5 (M)
 
 
 ###### Article R322-73
