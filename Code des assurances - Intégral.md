@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2002-10-09
+Version Consolidée au 2002-10-30
 
 # Partie législative
 
@@ -11958,6 +11958,35 @@ territoires d'outre-mer.
 
 	  - Code des assurances - art. L322-3-1 (V)
 	  - Code monétaire et financier - art. L511-46 (Ab)
+
+
+##### Section II : Sociétés anonymes d'assurance et de capitalisation.
+
+###### Article L322-4-2
+
+Pour l'application de l'article L. 225-21 du code de commerce, les mandats d'administrateur d'une société anonyme appartenant
+à un groupe d'assurance contrôlé, au sens du 1° de l'article L. 334-2 du présent code, par une société d'assurance mutuelle
+ou une société de réassurance mutuelle comptent pour un seul mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2002-1303 du 29 octobre 2002 - art. 3 () JORF 30 octobre 2002
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-21 (M)
+	  - Code des assurances - art. L334-2 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-55-1 (Ab)
+	  - Code des assurances - art. R322-55-5 (V)
 
 
 ##### Section II : Sociétés anomymes d'assurance et de capitalisation.
