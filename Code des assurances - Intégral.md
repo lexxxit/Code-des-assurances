@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-07-01
+Version Consolidée au 1994-07-13
 
 # Partie législative
 
@@ -36944,11 +36944,16 @@ Le nombre des représentants des salariés au conseil d'administration de la cai
 	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
 
 
-###### Article R431-6-2
+###### Article R*431-6-2
 
 Les dispositions de l'article R. 322-26 sont applicables aux représentants de l'Etat dans le conseil d'administration de la
-Caisse centrale de réassurance. Le mandat de membre du conseil d'administration représentant l'Etat est gratuit, sans
+Caisse centrale de réassurance (1). Le mandat de membre du conseil d'administration représentant l'Etat est gratuit, sans
 préjudice du remboursement par la société des frais exposés pour l'exercice dudit mandat.
+
+**Nota:**
+
+décret 94-582 du 12 juillet 1994 art. 9 : La première phrase de l'article R. 431-6-2 du code des assurances est abrogée, sauf
+en ce qui concerne les territoires d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -36958,7 +36963,7 @@ préjudice du remboursement par la société des frais exposés pour l'exercice 
 
 	**Modifié par**:
 
-	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+	  - Décret n°94-582 1994-07-12 art. 9 JORF 13 juillet 1994
 
 	**Cité par**:
 
@@ -36966,7 +36971,7 @@ préjudice du remboursement par la société des frais exposés pour l'exercice 
 
 	**Cite**:
 
-	  - Code des assurances R322-26
+	  - Code des assurances - art. R322-26 (V)
 
 
 ##### Section II : Opérations effectuées avec la garantie de l'Etat
