@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-07-13
+Version Consolidée au 1985-07-31
 
 # Partie législative
 
@@ -14998,7 +14998,7 @@ d'information relatifs à l'affaire dont celui-ci est saisi et qui lui sont néc
 
 ###### Article R*213-1
 
-Le taux de la cotisation d'assurance maladie institué par l'article L. 213-1 est fixé à 12 % du montant des primes,
+Le taux de la cotisation d'assurance maladie instituée par l'article L. 213-1 est fixé à 15 % du montant des primes,
 cotisations ou fractions de prime ou de cotisation versées par les personnes mentionnées par le premier alinéa dudit article
 L. 213-1 à leurs assureurs pour la couverture des risques mentionnés par l'article L. 211-1 instituant une obligation
 d'assurance en matière de circulation des véhicules terrestres à moteur.
@@ -15011,11 +15011,12 @@ d'assurance en matière de circulation des véhicules terrestres à moteur.
 
 	**Modifié par**:
 
-	  - Décret n°81-1165 du 30 décembre 1981 - art. 1 () JORF 31 décembre 1981
+	  - Décret n°85-805 du 30 juillet 1985 - art. 1 () JORF 31 juillet 1985
+	  - Décret n°2002-657 du 29 avril 2002 - art. 1 () JORF 2 mai 2002
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°81-1165 du 30 décembre 1981 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°85-805 du 30 juillet 1985 - art. 6 (V)
 	  - TXT_SOURCE: Code des assurances - art. L213-1 (M)
 
 	**Cite**:
@@ -15030,7 +15031,7 @@ La cotisation est recouvrée par l'assureur et calculée sur la prime, cotisatio
 d'assurance et reversée par l'assureur à l'agence centrale des organismes de sécurité sociale sous déduction d'un prélèvement
 destiné à compenser les frais de recouvrement.
 
-Le taux du prélèvement prévu à l'alinéa ci-dessus est fixé à 1 %.
+Le taux du prélèvement prévu à l'alinéa ci-dessus est fixé à 0,8 %.
 
 **Liens relatifs à cet article**
 
@@ -15040,46 +15041,49 @@ Le taux du prélèvement prévu à l'alinéa ci-dessus est fixé à 1 %.
 
 	**Modifié par**:
 
-	  - Décret n°81-1165 du 30 décembre 1981 - art. 2 () JORF 31 décembre 1981
+	  - Décret n°85-805 du 30 juillet 1985 - art. 2 () JORF 31 juillet 1985
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°81-1165 du 30 décembre 1981 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°85-805 du 30 juillet 1985 - art. 6 (V)
 	  - TXT_SOURCE: Code des assurances - art. L213-1 (M)
 
 
 ###### Article R*213-3
 
-Les entreprises d'assurance versent dans les dix premiers jours de chaque trimestre, à l'agence centrale des organismes de
-sécurité sociale, une somme forfaitaire égale au quart de la somme à laquelle a été liquidé le produit net des cotisations
-afférentes au dernier exercice réglé.
+La cotisation d'assurance maladie instituée par l'article L. 213-1 du code des assurances est liquidée sur le montant des
+primes ou cotisations d'assurance qui ont fait l'objet d'une émission au cours d'une période de deux mois, déduction faite
+des annulations et remboursements constatés durant la même période.
 
-Le 15 juin de chaque année au plus tard, il est procédé pour chaque entreprise d'assurance, à une liquidation générale du
-produit de la cotisation. Cette liquidation est effectuée sur la base du montant des primes d'assurance encaissées au cours
-de l'année précédente.
-
-Si, de cette liquidation et compte tenu des versements trimestriels forfaitaires, il résulte un complément de cotisation au
-profit de l'agence centrale des organismes de sécurité sociale, le solde est acquitté au plus tard le 15 juin. Dans le cas
-contraire, l'excédent versé est imputé sur l'année en cours et vient en déduction du ou des prochains versements forfaitaires
-à effectuer.
+Les assureurs sont tenus de verser le produit de cette cotisation à l'agence centrale des organismes de sécurité sociale dans
+les quarante-cinq jours qui suivent la fin de chaque période de deux mois.
 
 Un arrêté conjoint du ministre de l'économie et des finances et du ministre chargé de la sécurité sociale fixe les modalités
 d'application du présent article et précise notamment les pièces justificatives qui doivent être produites par les assureurs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°67-1211 1967-12-22 art. 3
-
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-805 du 30 juillet 1985 - art. 3 () JORF 31 juillet 1985
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°81-1165 du 30 décembre 1981 - art. 3 (V)
+	  - SPEC_APPLI: Décret n°85-805 du 30 juillet 1985 - art. 5 (V)
+	  - SPEC_APPLI: Décret n°85-805 du 30 juillet 1985 - art. 7 (V)
 	  - TXT_SOURCE: Code des assurances - art. L213-1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
+
+	**Cite**:
+
+	  - Code des assurances - art. L213-1 (M)
 
 
 ###### Article R*213-4
@@ -15112,10 +15116,10 @@ tous renseignements de nature à permettre la vérification de l'application des
 
 ###### Article R*213-5
 
-Les employeurs dispensés de l'obligation d'assurance en vertu de l'article L. 211-3 versent, avant le 31 mars de chaque année
-à l'agence centrale des organismes de sécurité sociale, une cotisation proportionnelle au montant, majoré de 30 %, des
+Les employeurs dispensés de l'obligation d'assurance en vertu de l'article L. 211-3 versent, avant le 31 mars de chaque
+année, à l'agence centrale des organismes de sécurité sociale, une cotisation proportionnelle au montant, majoré de 30 %, des
 indemnités acquittées au cours de l'année précédente par eux, à titre de réparation des dommages résultant d'accidents
-provoqués par des véhicules terrestres à moteur. Le taux de cette cotisation est fixé à 12 %.
+provoqués par des véhicules terrestres à moteur. Le taux de cette cotisation est fixé à 15 %.
 
 **Liens relatifs à cet article**
 
@@ -15125,15 +15129,20 @@ provoqués par des véhicules terrestres à moteur. Le taux de cette cotisation 
 
 	**Modifié par**:
 
-	  - Décret n°85-254 1985-02-15 art. 1 JORF 22 février 1985
+	  - Décret n°85-805 du 30 juillet 1985 - art. 1 () JORF 31 juillet 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-805 du 30 juillet 1985 - art. 6 (V)
+	  - TXT_SOURCE: Code des assurances - art. L213-1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
 
 	**Cite**:
 
 	  - Code des assurances - art. L211-3 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L213-1 (M)
 
 
 ###### Article R*213-6
@@ -15190,6 +15199,43 @@ Une majoration supplémentaire de 5 % est due pour chaque trimestre de retard.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances R213-8
+
+
+###### Article R*213-8
+
+Les assureurs peuvent adresser à l'agence centrale des organismes de sécurité sociale une demande gracieuse en réduction ou
+en remise intégrale des majorations résultant de l'article R. 213-7 ci-dessus. Cette demande ne peut être examinée qu'après
+règlement de la totalité des cotisations ayant donné lieu à application desdites majorations.
+
+Les réductions et remises ne peuvent être accordées qu'en cas de bonne foi prouvée du débiteur.
+
+Un minimum de majoration de 1,5 p. 100 des cotisations arriérées doit être laissé à la charge du débiteur lorsque les
+cotisations ont été acquittées avec un retard de quinze jours ou plus à compter de la date d'exigibilité.
+
+Les décisions sont prises par le conseil d'administration de l'agence centrale des organismes de sécurité sociale et
+notifiées aux entreprises intéressées. Elles doivent être motivées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-805 du 30 juillet 1985 - art. 4 () JORF 31 juillet 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-805 du 30 juillet 1985 - art. 8 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°97-635 du 31 mai 1997 - art. 3 () JORF 1er juin 1997
+
+	**Cite**:
+
+	  - Code des assurances R213-7
 
 
 #### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer
