@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-04-30
+Version Consolidée au 1985-06-20
 
 # Partie législative
 
@@ -102,11 +102,18 @@ contrat d'assurance, maintenue en vigueur par l'article 66 de la loi du 1er juin
 l'article 10 de la loi du 24 juillet 1921 prévenant et réglant les conflits entre la loi française et la loi locale d'Alsace
 et Lorraine en matière de droit privé.
 
+L'assureur doit informer l'assuré par écrit, préalablement à la conclusion du contrat, que les parties peuvent, par une
+simple déclaration de leur volonté, le soustraire à l'application de la loi locale, sous réserve des dispositions impératives
+que celle-ci contient, et le soumettre au droit commun.
+
+Il doit également l'informer de la différence existant entre les deux législations au regard de la possibilité de résiliation
+périodique du contrat.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Loi n°85-608 1985-06-11 art. 12 JORF 20 juin 1985
 
 	**Cité par**:
 
@@ -2384,58 +2391,6 @@ réalisent, dans les conditions fixées par arrêté du ministre de l'économie 
 ### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation
 
 #### Chapitre II : Les assurances sur la vie et les opérations de capitalisation
-
-##### Section II : Les assurances populaires.
-
-###### Article L132-28
-
-Sont considérées comme assurances populaires, les assurances sur la vie à primes périodiques, sans examen médical
-obligatoire, dont le montant ne dépasse pas, sur la même tête, le plafond fixé par décret, et dans lesquelles en l'absence
-d'examen médical, le capital stipulé n'est intégralement payable en cas de décès que si le décès survient après un délai
-spécifié au contrat.
-
-Les dispositions du premier alinéa de l'article L.113-3 et celles des deuxième et sixième alinéas de l'article L. 132-20 ne
-sont pas applicables. Lorsqu'une prime ou fraction de prime n'est pas payée dans les dix jours de son échéance, le défaut de
-paiement, à l'assureur ou au mandataire désigné par lui, de la prime ou fraction de prime échue ainsi que des primes
-éventuellement venues à échéance, entraîne, à l'expiration d'un délai de quarante jours :
-
-- soit la résiliation du contrat en cas d'inexistence ou d'insuffisance de la valeur de rachat ;
-
-- soit l'avance par l'assureur de la prime ou fraction de prime non payée, dans la limite de la valeur de rachat du contrat,
-selon des modalités déterminées par un règlement général mentionné dans la police et établi par l'assureur, après avis de
-l'autorité administrative ;
-
-- soit la réduction du contrat dans le cas où le contractant renonce expressément à l'avance ci-dessus, avant l'expiration du
-délai de quarante jours précité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 24 (V) JORF 8 janvier 1981 rectificatif JORF 8 février 1981
-
-	**Cité par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 24 (V)
-	  - Code des assurances - art. A335-12 (Ab)
-	  - Code des assurances - art. R132-5-1 (V)
-	  - Code des assurances - art. R132-5-2 (V)
-	  - Code des assurances - art. R513-2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°85-608 1985-06-11 art. 7 I JORF 20 juin 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-608 1985-06-11 art. 7 II *date d'effet - prorogation pour les contrats antérieurs*
-	  - TXT_SOURCE: Code des assurances - art. R132-1 (T)
-	  - TXT_SOURCE: Code des assurances - art. R331-5 (M)
-
 
 ##### Section IV : Les assurances ayant pour objet l'acquisition d'immeubles au moyen de constitution de rentes viagères.
 
@@ -5745,8 +5700,13 @@ ne peut pratiquer que les opérations pour lesquelles elle est agréée.
 Aucun agrément ne peut être accordé à une même entreprise pour des opérations définies aux 1°, 2°, 3°, 4° et 6° de l'article
 L. 310-1 et pour les opérations définies aux 5° et 7° dudit article.
 
-Sont nuls les contrats souscrits en infraction au présent article. Toutefois, cette nullité n'est pas opposable, lorsqu'ils
-sont de bonne foi, aux associés, aux souscripteurs et aux bénéficiaires.
+Aucun agrément ne peut être accordé à une même entreprise pour des opérations définies aux 1°, 2°, 3° et 4° de l'article L.
+310-1 et pour des opérations définies aux 5° et 7° du même article.
+
+Aucun agrément ne peut être accordé à une même entreprise pour des opérations définies au 6° de l'article L. 310-1 et pour
+des opérations définies aux 1°, 2°, 3°, 4°, 5° et 7° du même article.
+
+Aucun agrément ne peut être accordé à une entreprise tontinière pour des opérations autres que tontinières.
 
 **Liens relatifs à cet article**
 
@@ -5839,7 +5799,7 @@ sont de bonne foi, aux associés, aux souscripteurs et aux bénéficiaires.
 
 	**Modifié par**:
 
-	  - Loi n°83-453 du 7 juin 1983 - art. 2 () JORF 8 juin 1983
+	  - Loi n°85-608 1985-06-11 art. 11 JORF 20 juin 1985
 
 	**Liens**:
 
