@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1978-10-04
+Version Consolidée au 1978-11-21
 
 # Partie législative
 
@@ -14893,13 +14893,19 @@ suspension de la garantie, soit après l'expiration de la durée de validation d
 	  - Décret n°93-581 du 26 mars 1993 - art. 1 (V) JORF 28 mars 1993
 
 
-### Titre IV : Dispositions diverses.
+### Titre IV : L'assurance des travaux de bâtiment.
 
-###### Article R*240-1
+###### Article R241-1
 
-Lorsque l'exercice d'une activité ou d'une profession est subordonné à une obligation d'assurance, il est satisfait à cette
-obligation par la souscription d'un contrat conforme aux dispositions du livre Ier du présent code et aux dispositions
-particulières concernant ladite obligation.
+Les dérogations prévues à l'article L. 243-1 sont accordées par arrêté du ministre  de l'économie après avis du ministre
+chargé de la construction. S'il s'agit de collectivités locales ou d'établissements publics, ces dérogations sont accordées,
+après avis du ministre chargé de la construction, par arrêté conjoint du ministre de l'économie et du ministre de tutelle de
+ces collectivités ou établissements.
+
+Les dérogations prévues à l'article L. 243-1 sont accordées par arrêté du ministre  de l'économie après avis du ministre
+chargé de la construction. S'il s'agit de collectivités locales ou d'établissements publics, ces dérogations sont accordées,
+après avis du ministre chargé de la construction, par arrêté conjoint du ministre de l'économie et du ministre de tutelle de
+ces collectivités ou établissements.
 
 **Liens relatifs à cet article**
 
@@ -14907,9 +14913,349 @@ particulières concernant ladite obligation.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Cite**:
+
+	  - Code des assurances - art. L243-1 (M)
+
+
+###### Article R241-2
+
+Les justifications prévues à l'article L. 243-2, doivent être apportées, lors de la déclaration d'ouverture du chantier, à
+l'autorité compétente pour recevoir cette déclaration.
+
+En outre, pendant l'exécution des travaux, le maître de l'ouvrage peut demander à tout intervenant à l'acte de construire de
+justifier qu'il satisfait aux obligations prévues par les articles L. 241-1 et L. 241-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Cite**:
+
+	  - Code des assurances - art. L241-1 (M)
+	  - Code des assurances - art. L241-2 (M)
+	  - Code des assurances - art. L243-2 (M)
+
 	**Nouveaux textes**:
 
-	  - Code des assurances R243-1 à R243-14
+	  - Code des assurances - art. R*243-2 (V)
+	  - Code des assurances R243-2
+
+
+###### Article R241-3
+
+Le bureau central de tarification, lorsqu'il est compétent pour les contrats d'assurance de responsabilité, comprend six
+représentants des entreprises d'assurance françaises et étrangères agréées et six représentants des assujettis à l'obligation
+d'assurance, à savoir : les bureaux d'études, les contrôleurs techniques, les architectes, les entrepreneurs, les fabricants
+de matériaux préfabriqués et les maîtres d'ouvrage, désignés sur proposition des organisations nationales les plus
+représentatives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*243-3 (Ab)
+	  - Code des assurances R243-3
+
+
+###### Article R241-4
+
+Le bureau central de tarification, lorsqu'il est compétent pour les contrats d'assurance de dommages, comprend quatre
+représentants des entreprises d'assurance françaises et étrangères agréées et quatre représentants des assujettis à
+l'obligation d'assurance, à savoir : les maîtres d'ouvrage publics, les promoteurs constructeurs, les maîtres d'ouvrage
+industriels et les maîtres d'ouvrage individuels, désignés sur proposition des organisations les plus représentatives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*243-4 (Ab)
+	  - Code des assurances R243-4
+
+
+###### Article R241-5
+
+Le bureau central de tarification est présidé par un membre du Conseil d'Etat ayant au moins le grade de conseiller ou un
+magistrat de la Cour des comptes ayant au moins le grade de conseiller maître.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*243-5 (Ab)
+	  - Code des assurances R243-5
+
+
+###### Article R241-6
+
+Le président et les membres du bureau central de tarification sont nommés pour une période de trois ans renouvelable, par
+arrêté conjoint du ministre de l'économie et du ministre chargé de la construction.
+
+Il est nommé en même temps et suivant la même procédure un nombre égal de suppléants, qui sont appelés à siéger lorsque le
+titulaire est empêché ou intéressé dans l'affaire qui doit être examinée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*243-6 (Ab)
+	  - Code des assurances R243-6
+
+
+###### Article R241-7
+
+Les décisions du bureau central de tarification sont prises à la majorité des membres présents. En cas de partage, la voix du
+président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*243-7 (Ab)
+	  - Code des assurances R243-7
+
+
+###### Article R241-8
+
+Le bureau central de tarification peut être saisi par toute personne assujettie à l'obligation d'assurance, lorsqu'un
+assureur oppose un refus à une proposition tendant soit à la souscription d'un contrat nouveau, soit à la modification d'un
+contrat déjà existant, lorsque cette proposition est faite pour satisfaire à l'obligation d'assurance.
+
+Lorsqu'il s'agit de la souscription d'un contrat nouveau, l'absence d'acceptation par l'assureur pendant plus de 90 jours
+après réception de la proposition initiale est considérée comme un refus implicite d'assurance. Lorsqu'il s'agit de la
+modification d'un contrat déjà existant, il est fait application des dispositions du 2e alinéa de l'article L. 112-2.
+
+Est assimilé à un refus le fait par l'assureur, saisi d'une proposition d'assurance en application du titre IV du livre II,
+de subordonner son acceptation à la couverture de risques non visés par ces dispositions ou dont l'étendue excéderait les
+limites de l'obligation d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Cite**:
+
+	  - Code des assurances - art. L112-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*243-8 (Ab)
+	  - Code des assurances R243-8
+
+
+###### Article R241-9
+
+Pour pouvoir donner lieu à l'intervention du bureau central de tarification, la proposition d'assurance doit être adressée,
+par lettre recommandée avec demande d'avis de réception, au siège social ou au siège spécial pour la France de l'entreprise
+d'assurance, ou y être déposée contre récépissé.
+
+Le bureau central de tarification est saisi par lettre recommandée avec demande d'avis de réception. Ne sont recevables que
+les demandes formulées pendant la période de 30 jours suivant le refus de l'assureur.
+
+Un arrêté du ministre de l'économie détermine les renseignements que doit comporter la proposition d'assurance à utiliser
+pour l'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. A241-3 (T)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A241-3 (T)
+	  - Code des assurances - art. A243-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*243-9 (Ab)
+	  - Code des assurances R243-9
+
+
+###### Article R241-10
+
+L'assureur sollicité et éventuellement le ou les assureurs qui ont précédemment couvert le même risque, ainsi que la personne
+assujettie à l'obligation d'assurance, sont tenus de fournir au bureau central de tarification les éléments d'information
+relatifs à l'affaire dont celui-ci est saisi et qui lui sont nécessaires pour prendre une décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*243-10 (Ab)
+	  - Code des assurances R243-10
+
+
+###### Article R241-11
+
+Le bureau central de tarification décide d'abord si le risque faisant l'objet de la proposition refusée constitue ou non, en
+raison de circonstances qui lui sont propres, un risque anormalement grave.
+
+Si le risque proposé n'est pas anormalement grave, l'assureur intéressé est tenu de le garantir moyennant le paiement de la
+prime qui résulte de l'application des critères de tarification à son tarif habituel pour des risques équivalents.
+
+Si le risque proposé est anormalement grave, le bureau fixe les conditions dans lesquelles il devra être garanti par
+l'assureur auquel il a été proposé. A cet effet, il fixe la prime et, s'il y a lieu, le montant de la franchise qui restera à
+la charge de l'assuré.    Au cas où la prime ne peut être calculée à partir des critères de tarification prévus par le tarif
+de la société, le bureau en fixe le montant en tenant compte de tous les éléments d'appréciation.
+
+Si le risque, en raison de son importance ou de ses caractéristiques particulières, ne peut être couvert intégralement par
+l'assureur, ce dernier peut n'être tenu d'en garantir qu'une partie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*243-11 (Ab)
+	  - Code des assurances R243-11
+
+
+###### Article R241-12
+
+La décision prise par le bureau central de tarification est, dans un délai de dix jours, notifiée au demandeur et à
+l'assureur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*243-12 (Ab)
+	  - Code des assurances R243-12
+
+
+###### Article R241-13
+
+Le bureau central de tarification est assisté d'un commissaire du Gouvernement, suppléé éventuellement par un commissaire du
+Gouvernement adjoint. Le commissaire du Gouvernement et son suppléant sont nommés par le ministre de l'économie.
+
+Le commissaire du Gouvernement possède un droit d'investigation permanente sur le fonctionnement du bureau central de
+tarification. Il assiste à toutes ses réunions et peut, à la suite d'une décision du bureau central de tarification qui lui
+paraît critiquable, demander au bureau, soit immédiatement, soit dans les cinq jours qui suivent la date de décision, un
+nouvel examen de l'affaire dans le délai qu'il fixera.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*243-13 (Ab)
+	  - Code des assurances R243-13
+
+
+###### Article R241-14
+
+Le bureau central de tarification établit son règlement intérieur qui est soumis, avant son application, à l'approbation du
+ministre de l'économie. Son secrétariat est assuré par le conseil national des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*243-14 (Ab)
+	  - Code des assurances R243-14
 
 
 ## Livre III : Les entreprises
@@ -37345,6 +37691,96 @@ présent article.
 	**Cite**:
 
 	  - Code rural 366 bis
+
+
+### Titre IV : L'assurance des travaux de bâtiment
+
+#### Chapitre III : Dispositions communes.
+
+###### Article A241-2
+
+Pour l'application des clauses obligatoires instituées à l'article A. 241-1, on entend par :
+
+a) Travaux de bâtiment, au sens des articles L. 241-1 et L. 242-1 : les travaux dont l'objet est de réaliser ou de modifier
+les constructions élevées sur le sol à l'intérieur desquelles l'homme est appelé à se mouvoir et qui offrent une protection
+au moins partielle contre les aggressions des éléments naturels extérieurs ;
+
+b) Ouvrages, au sens de l'article 1792-2 du code civil :
+
+Ouvrages de viabilité : les réseaux divers et les ouvrages de voirie dont la destination est la desserte privative du
+bâtiment, à l'exclusion des couches d'usure de chaussées et des voies piétonnières ;
+
+Ouvrages de fondation : les éléments qui assurent le report au sol des charges nouvelles apportées par le bâtiment ;
+
+Ouvrages d'ossature : les parties du bâtiment qui ont été conçues pour recevoir et transmettre aux fondations les efforts dus
+aux charges de toute nature ;
+
+Ouvrages de clos et de couvert : les ouvrages fixes ou mobiles qui offrent une protection, au moins partielle, contre les
+agressions des éléments naturels extérieurs ;
+
+c) Ouvrages, parties d'ouvrages et éléments d'équipement, au sens de l'article 1792-4 du code civil : les parties de la
+construction dénommées Composants, conçues et fabriquées pour remplir dans un bâtiment un ou plusieurs rôles déterminés avant
+toute mise en oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Cite**:
+
+	  - Code civil - art. 1792-2 (M)
+	  - Code civil - art. 1792-4 (V)
+	  - Code des assurances - art. A241-1 (T)
+	  - Code des assurances - art. L241-1 (M)
+	  - Code des assurances - art. L242-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R213-3
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°15935, 17366 1979-11-30 Rec. Lebon
+
+
+###### Article A241-3
+
+La proposition d'assurance mentionnée à l'article R. 241-9 doit comporter les renseignements correspondant aux indications
+figurant :
+
+A l'annexe I au présent article, en ce qui concerne l'assurance de responsabilité ;
+
+A l'annexe II au présent article, en ce qui concerne l'assurance de dommages.
+
+(annexe non reproduite, voir au Journal officiel).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1978-11-17 art. 1 JORF 21 novembre 1978
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A243-2 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R241-9 (T)
+
+	**Cite**:
+
+	  - Code des assurances - art. R241-9 (T)
 
 
 ## Livre III : Les entreprises.
