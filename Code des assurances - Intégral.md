@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-08-01
+Version Consolidée au 1990-08-08
 
 # Partie législative
 
@@ -14224,6 +14224,104 @@ acte de terrorisme ou un attentat.
 	  - Décret n°88-261 du 18 mars 1988 - art. 1 () JORF 20 mars 1988
 
 
+#### Chapitre VII : L'assurance de protection juridique.
+
+###### Article R127-1
+
+Les documents contractuels relatifs à l'assurance de protection juridique, mentionnés à l'article L. 127-2 du présent code,
+doivent, lorsque l'entreprise d'assurance a opté pour la modalité de gestion prévue au premier tiret du premier alinéa de
+l'article L. 321-6, indiquer ce choix.
+
+L'assuré doit, dès la première demande de mise en jeu de la garantie de protection juridique, être informé sans délai, par
+l'entreprise d'assurance, de l'adresse du ou des services distincts assurant le traitement des sinistres de la branche de
+protection juridique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°90-697 1990-08-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-697 1990-08-01 art. 3 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°90-697 du 1 août 1990 - art. 1 () JORF 8 août 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L127-2 (V)
+	  - Code des assurances - art. L321-6 (T)
+
+
+###### Article R127-2
+
+Les documents contractuels relatifs à l'assurance de protection juridique, mentionnés à l'article L. 127-2, doivent, lorsque
+l'entreprise d'assurance a opté pour la modalité de gestion prévue au deuxième tiret du premier alinéa de l'article L. 321-6,
+indiquer la dénomination et le siège de l'entreprise juridiquement distincte à qui est confiée la gestion des sinistres de la
+branche de protection juridique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°90-697 1990-08-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-697 1990-08-01 art. 3 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°90-697 du 1 août 1990 - art. 1 () JORF 8 août 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L127-2 (V)
+	  - Code des assurances - art. L321-6 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R127-1 (2ème version)
+
+
+###### Article R127-3
+
+Les documents contractuels relatifs à l'assurance de protection juridique mentionnés à l'article L. 127-2 doivent, lorsque
+l'entreprise d'assurance a opté pour la modalité de gestion prévue au troisième tiret du premier alinéa de l'article L.
+321-6, comporter une mention indiquant, en caractères très apparents, que lorsque l'assuré est en droit de réclamer
+l'intervention de l'assurance de protection juridique au titre de la police, il a le droit de confier la défense de ses
+intérêts à un avocat ou à une personne qualifiée de son choix.
+
+En outre, dès la réception d'une déclaration de sinistre, l'assureur de protection juridique dont la garantie intervient
+informe l'assuré du droit mentionné à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°90-697 1990-08-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-697 1990-08-01 art. 3 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°90-697 du 1 août 1990 - art. 1 () JORF 8 août 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L127-2 (V)
+	  - Code des assurances - art. L321-6 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R127-1 (2ème version)
+
+
 ### Titre III : Règles relatives aux assurances de personnes
 
 #### Chapitre I : Dispositions générales.
@@ -20869,18 +20967,26 @@ considérée.
 	  - Décret n°1938-12-30 art. 141
 
 
-##### Section VI : Dispositions spéciales concernant la coassurance communautaire.
+##### Section VII : Dispositions spéciales concernant les entreprises pratiquant l'assurance de protection juridique.
 
 ###### Article R321-22
 
-En application de l'article L. 321-4, l'agrément administratif n'est pas exigé des entreprises étrangères d'assurance dont le
-siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne, couvert par le traité
-instituant cette Communauté, pour pratiquer des opérations de coassurance définies au même article portant sur une ou
-plusieurs des branches d'assurance mentionnées aux 4, 5, 6, 7, 8, 9, 11, 12, 13 et 16 de l'article R. 321-1.
+Toute entreprise d'assurance soumise aux dispositions des articles R. 321-6, R. 321-7, R. 321-8, R. 351-3 doit, lorsqu'elle
+sollicite un agrément pour la branche de protection juridique, indiquer, lors de la présentation des documents prévus à ces
+quatre articles, la modalité de gestion adoptée, parmi celles qui sont énoncées à l'article L. 321-6.
 
-Toutefois, l'agrément reste exigé pour les opérations de coassurance définies à l'article L. 321-4 portant sur les risques
-relevant de la branche 13 précitée et concernant des responsabilités encourues par suite de dommages d'origine nucléaire ou
-médicamenteuse.
+Lorsque l'entreprise choisit de confier les sinistres de la branche de protection juridique à une entreprise juridiquement
+distincte, conformément aux dispositions du deuxième tiret du premier alinéa de l'article L. 321-6, elle doit adresser copie
+des statuts de cette entreprise au ministre chargé de l'économie et des finances.
+
+Si cette entreprise juridiquement distincte a des liens de la nature de ceux qui sont définis à l'article L. 310-15 avec une
+autre entreprise qui pratique l'assurance d'une ou plusieurs autres branches mentionnées à l'article R. 321-1, l'entreprise
+qui sollicite l'agrément doit s'assurer et, en outre, attester :
+
+1° Que les membres de son personnel chargés de la gestion des sinistres ou des conseils juridiques relatifs à cette gestion
+n'exercent pas la même activité pour le compte de l'autre entreprise ;
+
+2° Que ses dirigeants ne sont pas aussi des dirigeants de l'autre entreprise.
 
 **Liens relatifs à cet article**
 
@@ -20888,13 +20994,14 @@ médicamenteuse.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-443 du 7 mai 1981 - art. 1 () JORF 9 mai 1981
+	  - Décret n°90-697 du 1 août 1990 - art. 2 () JORF 8 août 1990
+	  - Décret n°90-700 du 8 août 1990 - art. 9 () JORF 9 août 1990
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°81-443 du 7 mai 1981 - art. 6, v. init.
+	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
 	  - TXT_SOURCE: Code des assurances - art. L321-4 (Ab)
 
 	**Cité par**:
@@ -20904,26 +21011,25 @@ médicamenteuse.
 
 	**Cite**:
 
-	  - Code des assurances - art. L321-4 (Ab)
-	  - Code des assurances L321-4, R321-1
-	  - Traité CEE 1957-03-25, signé à Rome
+	  - Code des assurances - art. L310-15 (M)
+	  - Code des assurances - art. L321-6 (T)
+	  - Code des assurances - art. R351-3 (M)
+	  - Code des assurances R321-6, R321-7, R321-8, R351-3, L321-6, L310-15, R321-1
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R322-1 (3ème version)
 
 
 ###### Article R321-23
 
-Les risques entrant dans les branches d'assurance mentionnées à l'article R. 321-22 ne peuvent faire l'objet d'un contrat de
-coassurance communautaire que lorsque l'assuré exerce à titre professionnel une activité indépendante, de nature commerciale,
-industrielle ou libérale et que le risque à couvrir est relatif à cette activité professionnelle.
+Lorsqu'une entreprise agréée dans la branche de protection juridique désire opter pour une autre modalité de gestion que
+celle qu'elle a précédemment choisie, elle est tenue d'en informer le ministre chargé de l'économie et des finances.
 
-En outre, pour chacun de ces risques, à l'exclusion de ceux appartenant à la branche 13, le montant de la garantie à partir
-duquel un contrat d'assurance communautaire peut être souscrit est fixé par arrêté du ministre de l'économie par référence à
-un nombre d'unités de compte de la Communauté économique européenne. Ce nombre ne peut, pour les risques appartenant aux
-branches 8, 9 et 16, être supérieur à 50 millions d'unités de compte et pour les risques appartenant aux branches 4, 5, 6, 7,
-11 et 12 à 30 millions d'unités de compte.
+La nouvelle modalité choisie prend effet un mois après sa notification au ministre, sauf opposition par ce dernier dans le
+même délai pour un motif de nature à remettre en cause la décision d'agrément.
 
-Pour les risques appartenant à la branche 13, l'admission à la coassurance communautaire est déterminée par référence au
-chiffre d'affaires de l'assuré. L'arrêté susvisé du ministre de l'économie fixe le montant de ce chiffre d'affaires. Ce
-montant ne peut être supérieur à 200 millions d'unités de compte de la Communauté économique européenne.
+Les deuxième et troisième alinéas de l'article R. 321-22 sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -20931,28 +21037,30 @@ montant ne peut être supérieur à 200 millions d'unités de compte de la Commu
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-443 du 7 mai 1981 - art. 1 () JORF 9 mai 1981
+	  - Décret n°90-697 du 1 août 1990 - art. 2 () JORF 8 août 1990
+	  - Décret n°90-700 du 8 août 1990 - art. 9 () JORF 9 août 1990
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°81-443 du 7 mai 1981 - art. 6, v. init.
+	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
 	  - TXT_SOURCE: Code des assurances - art. A321-1 (Ab)
 
 	**Cite**:
 
 	  - Code des assurances - art. R321-22 (M)
-	  - Code des assurances R321-1, R321-22
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R322-1-1 (1ère version)
 
 
 ###### Article R321-24
 
-L'apériteur doit remplir les conditions énumérées à l'article L. 321-4. Il doit, en outre, assumer pleinement le rôle dévolu
-à l'apériteur selon les usages professionnels. Il détermine, notamment, les conditions d'assurance et de tarification du
-risque, il répartit la prime entre les coassureurs, il reçoit les déclarations de sinistres et procède à la liquidation de
-ceux-ci. Il fixe, enfin, le montant minimal de la provision pour sinistres restant à payer que chaque entreprise participant
-à la coassurance doit constituer et en fait connaître le montant aux entreprises intéressées.
+Pour l'application des dispositions du deuxième tiret du premier alinéa de l'article L. 321-6, l'entreprise juridiquement
+distincte à qui est confiée la gestion des sinistres de la branche de protection juridique est soit une entreprise régie par
+le code des assurances, soit une société civile, soit une société commerciale, soit un groupement d'intérêt économique.
 
 **Liens relatifs à cet article**
 
@@ -20960,17 +21068,22 @@ ceux-ci. Il fixe, enfin, le montant minimal de la provision pour sinistres resta
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-443 du 7 mai 1981 - art. 1 () JORF 9 mai 1981
+	  - Décret n°90-697 du 1 août 1990 - art. 2 () JORF 8 août 1990
+	  - Décret n°90-700 du 8 août 1990 - art. 9 () JORF 9 août 1990
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°81-443 du 7 mai 1981 - art. 6, v. init.
+	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
 
 	**Cite**:
 
-	  - Code des assurances - art. L321-4 (Ab)
+	  - Code des assurances - art. L321-6 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R322-1-2 (1ère version)
 
 
 #### Chapitre II : Règles de constitution et de fonctionnement
