@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1983-06-07
+Version Consolidée au 1983-06-08
 
 # Partie législative
 
@@ -4922,6 +4922,10 @@ Lorsque des entreprises d'assurance ou de réassurance concluent un accord quelc
 générales des contrats, d'organisation professionnelle, de concurrence ou de gestion financière, les signataires doivent
 porter cet accord à la connaissance de l'autorité administrative par lettre recommandée.
 
+Il en est également ainsi lorsque des entreprises mentionnées aux 1°, 2°, 3°, 4° et 6° de l'article L. 310-1 et des
+entreprises mentionnées aux 5° et 7° dudit article, ayant entre elles des liens financiers, commerciaux ou administratifs,
+concluent un accord de la réassurance.
+
 L'accord ne peut être mis en application que si, dans le délai d'un mois, ladite autorité n'y fait pas opposition.
 
 Passé ce délai, l'autorité administrative, après avoir pris l'avis du conseil national des assurances, conserve la faculté de
@@ -4929,14 +4933,19 @@ s'opposer à l'application de l'accord.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 9
-	  - Code des assurances - art. L353-3 (T)
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°83-453 du 7 juin 1983 - art. 1 () JORF 8 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-453 du 7 juin 1983 - art. 7 (V)
+	  - TXT_ASSOCIE: Code des assurances - art. R*322-2 (V)
+	  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
 
 	**Cité par**:
 
@@ -4949,10 +4958,13 @@ s'opposer à l'application de l'accord.
 	  - Code des assurances - art. R342-21 (Ab)
 	  - Code des assurances - art. R342-22 (Ab)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. L328-14 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R*322-2 (V)
+	  - Code des assurances - art. L310-1 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L353-3 (T)
 
 
 #### Chapitre unique
@@ -5730,6 +5742,9 @@ d'un Etat membre de la Communauté économique européenne.
 L'agrément est accordé sur demande de l'entreprise, pour les opérations d'une ou plusieurs branches d'assurance. L'entreprise
 ne peut pratiquer que les opérations pour lesquelles elle est agréée.
 
+Aucun agrément ne peut être accordé à une même entreprise pour des opérations définies aux 1°, 2°, 3°, 4° et 6° de l'article
+L. 310-1 et pour les opérations définies aux 5° et 7° dudit article.
+
 Sont nuls les contrats souscrits en infraction au présent article. Toutefois, cette nullité n'est pas opposable, lorsqu'ils
 sont de bonne foi, aux associés, aux souscripteurs et aux bénéficiaires.
 
@@ -5822,20 +5837,20 @@ sont de bonne foi, aux associés, aux souscripteurs et aux bénéficiaires.
 	  - Code monétaire et financier - art. L612-20 (VD)
 	  - Code rural et de la pêche maritime - art. R752-39 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°83-453 du 7 juin 1983 - art. 2 () JORF 8 juin 1983
+
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 7 janvier 1994
 	  - TXT_SOURCE: Arrêté du 7 janvier 1994 - art. 1 (V)
+	  - TXT_ASSOCIE: Code des assurances - art. L328-15 (M)
 	  - TXT_SOURCE: Code des assurances - art. R*321-1 (V)
-	  - TXT_ASSOCIE: Code des assurances L328-15 *sanctions pénales*
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 7
 
 
 ##### Section II : Agrément spécial.
@@ -5850,14 +5865,26 @@ ou des garanties si leur pays a pris ou prenait des mesures analogues à l'égar
 Un décret en Conseil d'Etat, pris après avis du conseil national des assurances, détermine les modalités d'application de
 l'alinéa précédent et fixe notamment les conditions que doit remplir le mandataire général.
 
-les dispositions du présent article ne sont pas applicables aux entreprises mentionnées au 5° de l'article L. 310-1 et dont
-le siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne.
+Les dispositions du présent article ne sont pas applicables aux entreprises mentionnées à l'article L. 310-1 et dont le siège
+social est établi sur le territoire d'un Etat membre de la Communauté économique européenne.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°83-453 du 7 juin 1983 - art. 3 () JORF 8 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-453 du 7 juin 1983 - art. 7 (V)
+	  - TXT_ASSOCIE: Code des assurances - art. L328-2 (MMN)
+	  - TXT_SOURCE: Code des assurances - art. R*321-12 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*321-16 (T)
+	  - SPEC_APPLI: Code des assurances R321-16
 
 	**Cité par**:
 
@@ -5882,18 +5909,10 @@ le siège social est établi sur le territoire d'un Etat membre de la Communaut�
 	**Anciens textes**:
 
 	  - Code des assurances - art. L321-1 (T)
-	  - Loi n°1917-02-15 art. 2
 
 	**Nouveaux textes**:
 
 	  - Code des assurances - art. L321-9 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*321-12 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*321-16 (T)
-	  - TXT_ASSOCIE: Code des assurances L328-2 *sanctions pénales*
-	  - SPEC_APPLI: Code des assurances R321-16
 
 
 ##### Section IV : Dispositions particulières aux départements et territoires d'outre-mer.
@@ -10460,13 +10479,13 @@ consignations.
 Sont applicables à la caisse nationale de prévoyance les dispositions suivantes de la première partie "législative" du
 présent code :
 
-a) Titre Ier du livre Ier à l'exception de l'article L. 111-4 ;
+a) Titre Ier du livre Ier, à l'exception de l'article L. 111-4 ;
 
 b) Titre III du livre Ier ;
 
-c) Section II et III du titre VI du livre Ier ;
+c) Sections II et III du titre VI du livre Ier ;
 
-d) Article L. 310-8.
+d) Articles L. 310-3, L. 310-8 et L. 310-9.
 
 e) Titre IV du livre III.
 
@@ -10478,18 +10497,25 @@ e) Titre IV du livre III.
 
 	**Modifié par**:
 
-	  - Loi n°81-5 du 7 janvier 1981 - art. 25 () JORF 8 janvier 1981
+	  - Loi n°83-453 du 7 juin 1983 - art. 5 () JORF 8 juin 1983
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
 	  - TXT_ASSOCIE: Code des assurances - art. L111-1 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. L160-17 (Ab)
 	  - TXT_ASSOCIE: Code des assurances L111-1, L160-17, L441-1 à L441-11
 
+	**Abrogé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
+
 	**Cite**:
 
 	  - Code des assurances - art. L111-4 (M)
+	  - Code des assurances - art. L310-3 (M)
 	  - Code des assurances - art. L310-8 (M)
+	  - Code des assurances - art. L310-9 (M)
 
 
 ##### Section II : La commission supérieure.
@@ -11033,40 +11059,6 @@ b) D'un privilège mobilier qui prime le privilège prévu au premier alinéa de
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances L441-6 *sanctions pénales*
-
-
-##### Section III : Règles relatives à l'agrément particulier.
-
-###### Article L441-9
-
-Lorsqu'une entreprise d'assurance entend, par application des articles L. 441-2 et L. 441-3, pratiquer des opérations
-relevant de l'article L. 441-1, elle doit, pour ces opérations, recevoir un agrément particulier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-75 1959-01-07 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Loi n°83-453 du 7 juin 1983 - art. 6 () JORF 8 juin 1983
-
-	**Cité par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 2 (V)
-	  - Code des assurances - art. A441-7 (Ab)
-	  - Code des assurances - art. R*441-25 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L441-1 (M)
-	  - Code des assurances - art. L441-2 (M)
-	  - Code des assurances - art. L441-3 (M)
 
 
 ##### Section IV : Dispositions transitoires.
