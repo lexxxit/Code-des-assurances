@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-06-30
+Version Consolidée au 1991-07-01
 
 # Partie législative
 
@@ -22764,63 +22764,6 @@ litige tenant à la fixation du montant des honoraires.
 	  - Décret n°1938-12-30 art. 37 quater
 
 
-###### Article R322-58
-
-Les statuts déterminent la composition de l'assemblée générale. Ils peuvent fixer le montant minimal de cotisation nécessaire
-pour en faire partie qui peut varier selon la nature du contrat souscrit.
-
-Ils peuvent également fixer le nombre de sociétaires titulaires des contrats comportant les cotisations les plus élevées qui
-la composent ou prévoir l'élection de ses membres par les sociétaires, la participation à ces élections pouvant être
-subordonnée à un montant minimal de cotisation.
-
-Les statuts peuvent prévoir que pour l'application de l'alinéa précédent les sociétaires sont répartis en groupements suivant
-la nature du contrat qu'ils ont souscrits ou selon des critères régionaux ou professionnels.
-
-Le nombre de sociétaires faisant partie de l'assemblée générale ne peut être fixé à moins de cinquante.
-
-Ne peuvent faire partie de l'assemblée que les sociétaires à jour de leurs cotisations.
-
-La liste des sociétaires pouvant prendre part à une assemblée générale est arrêtée au quinzième jour précédant cette
-assemblée par les soins du conseil d'administration. Tout sociétaire peut, par lui-même ou par un mandataire, prendre
-connaissance de cette liste au siège social.
-
-Tout membre de l'assemblée générale peut s'y faire représenter par un autre sociétaire ou, si les statuts le permettent, par
-un tiers. Les statuts peuvent interdire de confier ce mandat à une personne employée par la société ; ils doivent fixer le
-nombre maximal de pouvoirs susceptibles d'être confiés à un même mandataire, sans que ce nombre puisse être supérieur à cinq.
-
-Toutefois, ce nombre peut être augmenté dans la mesure nécessaire, pour que la réalisation du quorum réglementaire le plus
-faible ne nécessite pas la présence effective de plus de cent mandataires.
-
-Les sociétaires qui ne remplissent pas individuellement les conditions prévues par les statuts pour prendre part à
-l'assemblée générale peuvent, de leur propre initiative, se réunir pour former des groupements satisfaisant auxdites
-conditions et se faire représenter par un sociétaire.
-
-Le sociétaire ou le tiers porteur de pouvoirs doit les déposer au siège de la société et les y faire enregistrer cinq jours
-au moins avant la réunion de l'assemblée générale, faute de quoi ces pouvoirs sont nuls et de nul effet.
-
-Tout sociétaire présent ou représenté ou tout groupement de sociétaires formé en vertu des dispositions du neuvième alinéa du
-présent article ne peut avoir droit qu'à une voix, sans qu'il puisse être dérogé à cette règle par les statuts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Loi n°85-703 du 12 juillet 1985 - art. 14 (V)
-	  - Décret n°91-1050 du 30 septembre 1991 - art. Annexe I (V)
-	  - Code des assurances - art. Annexe I art. R*322-58 (V)
-	  - Code des assurances - art. R*322-65 (M)
-	  - Code des assurances - art. R322-119-2 (V)
-	  - Code des assurances - art. R322-156 (V)
-
-	**Modifié par**:
-
-	  - Décret n°87-332 1987-05-13 art. 1, art. 2 JORF 20 mai 1987
-
-
 ##### Paragraphe 3 : Obligations des sociétaires et de la société.
 
 ###### Article R*322-71
@@ -23462,6 +23405,78 @@ finances lui accordant l'agrément administratif mentionné à l'article L. 321-
 
 
 ##### Section IV : Sociétés d'assurance mutuelles
+
+##### Paragraphe 2 : Administration.
+
+###### Article R322-58
+
+Les statuts déterminent la composition de l'assemblée générale. Cette dernière se compose soit de tous les sociétaires à jour
+de leurs cotisations, soit de délégués élus par ces sociétaires. Pour l'application de cette seconde faculté, les sociétaires
+peuvent être répartis en groupements suivant la nature du contrat souscrit ou selon des critères régionaux ou professionnels.
+Le nombre de ces délégués ne peut être fixé à moins de cinquante.
+
+Les statuts peuvent rendre applicables aux sociétaires les dispositions relatives au vote par correspondance prévues pour les
+actionnaires par l'article 161-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et par les articles
+131-1, 131-3 (premier alinéa), 132 et 133 (1°, 2°, 3°, 7° et 8°) du décret n° 67-236 du 23 mars 1967 sur les sociétés
+commerciales. Pour l'application de ces dispositions, il y a lieu d'entendre le "sociétaire" là où est mentionné
+l'"actionnaire" et le formulaire de vote par correspondance est conforme au modèle annexé au présent code. Pour toute
+procuration d'un sociétaire sans indication de mandataire, le président émet un vote favorable à l'adoption des projets de
+résolution présentés ou agréés par le conseil d'administration, et un vote défavorable à l'adoption de tous les autres
+projets de résolution. Pour émettre tout autre vote, le sociétaire doit faire choix d'un mandataire qui accepte de voter dans
+le sens indiqué par le mandant.
+
+La liste des sociétaires pouvant prendre part à une assemblée générale est arrêtée au quinzième jour précédant cette
+assemblée par les soins du conseil d'administration. Tout sociétaire peut, par lui-même ou par un mandataire, prendre
+connaissance de cette liste au siège social.
+
+Tout membre de l'assemblée générale peut s'y faire représenter par un autre sociétaire ou, si les statuts le permettent, par
+un tiers. Les statuts peuvent interdire de confier ce mandat à une personne employée par la société ; ils doivent fixer le
+nombre maximal de pouvoirs susceptibles d'être confiés à un même mandataire, sans que ce nombre puisse être supérieur à cinq.
+
+Toutefois, ce nombre peut être augmenté dans la mesure nécessaire, pour que la réalisation du quorum réglementaire le plus
+faible ne nécessite pas la présence effective de plus de cent mandataires.
+
+Les statuts doivent alors indiquer le montant maximal de pouvoirs susceptibles d'être confiés à un même mandataire au-delà
+des cinq mandats réglementaires.
+
+Le sociétaire ou le tiers porteur de pouvoirs doit les déposer au siège de la société et les y faire enregistrer cinq jours
+au moins avant la réunion de l'assemblée générale, faute de quoi ces pouvoirs sont nuls et de nul effet.
+
+Tout sociétaire a droit à une voix et une seule, sans qu'il puisse être dérogé à cette règle par les statuts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 161-1
+	  - Décret n°67-236 1967-03-23 art. 131-1, art. 131-3, art. 132, art. 133
+	  - Décret n°67-236 du 23 mars 1967 - art. 131-1 (M)
+	  - Décret n°67-236 du 23 mars 1967 - art. 131-3 (M)
+	  - Décret n°67-236 du 23 mars 1967 - art. 133 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Cité par**:
+
+	  - Loi n°85-703 du 12 juillet 1985 - art. 14 (V)
+	  - Décret n°91-1050 du 30 septembre 1991 - art. Annexe I (V)
+	  - Code des assurances - art. Annexe I art. R*322-58 (V)
+	  - Code des assurances - art. R*322-65 (M)
+	  - Code des assurances - art. R322-119-2 (V)
+	  - Code des assurances - art. R322-156 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-1050 1991-09-30 annexe *formulaire de vote*
+
+	**Modifié par**:
+
+	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991 en vigueur le 1er juillet 1991
+	  - Décret n°91-1050 du 30 septembre 1991 - art. 11 () JORF 15 octobre 1991 en vigueur le 1er juillet 1991
+	  - Décret n°91-1050 du 30 septembre 1991 - art. 48 (V) JORF 15 octobre 1991 en vigueur le 1er juillet 1991
+
 
 ##### Sous-section 2 : Direction et administration
 
