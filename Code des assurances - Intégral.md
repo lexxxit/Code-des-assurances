@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2002-05-17
+Version Consolidée au 2002-06-28
 
 # Partie législative
 
@@ -24867,57 +24867,6 @@ La société n'est définitivement constituée qu'à partir de cette acceptation
 
 ##### Paragraphe 2 : Administration.
 
-###### Article R*322-53
-
-L'administration de la société est confiée à un conseil d'administration nommé par l'assemblée générale et composé de cinq
-membres au moins, non compris les administrateurs élus par les salariés conformément aux dispositions de l'article L.
-322-26-2 et dont le nombre doit figurer dans les statuts.
-
-Les administrateurs sont choisis parmi les sociétaires à jour de leurs cotisations, à l'exception de ceux qui sont élus par
-les salariés. Ils doivent être remplacés lorsqu'ils ne remplissent plus cette condition.
-
-Ils ne peuvent être nommés pour plus de six ans ; ils sont rééligibles, sauf stipulation contraire des statuts.
-
-Ils sont révocables pour faute grave par l'assemblée générale.
-
-Les statuts doivent prévoir, pour l'exercice des fonctions d'administrateur, une limite d'âge s'appliquant soit à l'ensemble
-des administrateurs, soit à un pourcentage déterminé d'entre eux.
-
-A défaut de disposition expresse dans les statuts, le nombre des administrateurs ayant dépassé l'âge de soixante-dix ans ne
-peut être supérieur au tiers des administrateurs en fonctions.
-
-Toute nomination intervenue en violation des dispositions prévues à l'alinéa précédent est nulle.
-
-A défaut de disposition expresse dans les statuts prévoyant une autre procédure, lorsque la limitation statutaire ou légale
-fixée pour l'âge des administrateurs est dépassée, l'administrateur le plus âgé est réputé démissionnaire d'office.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 9 () JORF 15 octobre 1991
-
-	**Cité par**:
-
-	  - Décret n°94-799 du 9 septembre 1994 - art. 27 (V)
-	  - Décret n°2005-7 du 3 janvier 2005 - art. 4 (V)
-	  - Code des assurances - art. R322-132 (V)
-	  - Code des assurances - art. R322-162 (M)
-	  - Code des assurances - art. R322-54-3 (Ab)
-	  - Code des assurances - art. R322-55 (V)
-	  - Code des assurances - art. R322-55-2 (VD)
-	  - Code des assurances - art. R391-1 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-26-2 (M)
-
-
 ###### Article R*322-54
 
 Le conseil d'administration élit parmi ses membres un président et au moins un vice-président, dont les fonctions durent un
@@ -24979,31 +24928,6 @@ législatives en vigueur.
 
 	  - Code des assurances - art. R322-162 (M)
 	  - Code des assurances - art. R332-2 (V)
-
-
-###### Article R*322-57
-
-Il est interdit aux administrateurs et aux directeurs de prendre ou de conserver un intérêt direct ou indirect dans une
-entreprise, un marché, un traité ou une opération commerciale ou financière faits avec la société ou pour son compte, à moins
-qu'ils n'y soient autorisés par l'assemblée générale.
-
-Il est, chaque année, rendu à l'assemblée générale un compte spécial de l'exécution des marchés, entreprises, traités ou
-opérations commerciales ou financières par elle autorisés, aux termes du précédent alinéa. Ce compte rendu spécial doit faire
-l'objet d'un rapport des commissaires aux comptes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-
-	**Cité par**:
-
-	  - Code des assurances - art. R322-162 (M)
 
 
 ###### Article R*322-59
@@ -25213,42 +25137,233 @@ litige tenant à la fixation du montant des honoraires.
 	  - TXT_SOURCE: Code des assurances - art. L322-1 (Ab)
 
 
-###### Article R322-55
+###### Article R322-53
 
-Les administrateurs peuvent choisir parmi eux ou, si les statuts le permettent, en dehors d'eux, un ou plusieurs directeurs ;
-ils sont responsables envers la société de la gestion de ces directeurs.
+L'administration de la société est confiée à un conseil d'administration nommé par l'assemblée générale et composé de cinq
+membres au moins, non compris les administrateurs élus par les salariés conformément aux dispositions de l'article L.
+322-26-2 et dont le nombre doit figurer dans les statuts.
 
-Les statuts doivent prévoir pour l'exercice des fonctions de directeur une limite d'âge qui, à défaut d'une disposition
-expresse, est fixée à soixante-cinq ans.
+Les administrateurs sont choisis parmi les sociétaires à jour de leurs cotisations, à l'exception de ceux qui sont élus par
+les salariés. Ils doivent être remplacés lorsqu'ils ne remplissent plus cette condition.
+
+Ils ne peuvent être nommés pour plus de six ans ; ils sont rééligibles, sauf stipulation contraire des statuts.
+
+Ils sont révocables pour faute grave par l'assemblée générale.
+
+Les statuts doivent prévoir, pour l'exercice des fonctions d'administrateur, une limite d'âge s'appliquant soit à l'ensemble
+des administrateurs, soit à un pourcentage déterminé d'entre eux.
+
+A défaut de disposition expresse dans les statuts, le nombre des administrateurs ayant dépassé l'âge de soixante-dix ans ne
+peut être supérieur au tiers des administrateurs en fonctions.
 
 Toute nomination intervenue en violation des dispositions prévues à l'alinéa précédent est nulle.
 
-Lorsqu'un directeur atteint la limite d'âge, il est réputé démissionnaire d'office.
+A défaut de disposition expresse dans les statuts prévoyant une autre procédure, lorsque la limitation statutaire ou légale
+fixée pour l'âge des administrateurs est dépassée, l'administrateur le plus âgé est réputé démissionnaire d'office.
 
-Le total des rémunérations que les administrateurs peuvent percevoir en une année de la société, à quelque titre que ce soit,
-ne peut excéder ni le traitement annuel fixe du directeur, ni le pourcentage des frais de gestion déterminé par l'assemblée
-générale.
+Les sociétés d'assurance mutuelles ne peuvent, en aucun cas, attribuer à forfait leur gestion à quelque personne ou à
+quelqu'organisme que ce soit.
 
-Aucune rémunération liée d'une manière directe ou indirecte au chiffre d'affaires de la société ne peut être allouée à
-quelque titre que ce soit à un administrateur ou à un directeur.
+**Liens relatifs à cet article**
 
-Le directeur et les employés, autres que le personnel directement chargé de la commercialisation, ne peuvent être rémunérés
-que par un traitement fixe et par des avantages accessoires ayant le caractère soit d'aide et d'assistance à eux-mêmes ou aux
-membres de leur famille, soit de contribution à la constitution de pensions de retraite en leur faveur. Ces avantages ne
-peuvent en aucun cas consister en allocations variables avec l'activité de la société, notamment avec le montant des
-cotisations, le montant des valeurs assurées, ou le nombre des sociétaires.
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Cité par**:
+
+	  - Décret n°94-799 du 9 septembre 1994 - art. 27 (V)
+	  - Décret n°2005-7 du 3 janvier 2005 - art. 4 (V)
+	  - Code des assurances - art. R322-132 (V)
+	  - Code des assurances - art. R322-162 (M)
+	  - Code des assurances - art. R322-54-3 (Ab)
+	  - Code des assurances - art. R322-55 (V)
+	  - Code des assurances - art. R322-55-2 (VD)
+	  - Code des assurances - art. R391-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2002-942 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-7 2005-01-03 art. 3 9° JORF 7 janvier 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-26-2 (M)
+
+
+###### Article R322-54-1
+
+I. - Une même personne ne peut appartenir simultanément à plus de cinq conseils d'administration de sociétés d'assurance
+mutuelles, d'unions de sociétés d'assurance mutuelles, de sociétés de réassurance mutuelle et de sociétés de groupe
+d'assurance mutuelle.
+
+II. - Le président du conseil d'administration ne peut exercer simultanément, en plus de son mandat de président, que quatre
+mandats d'administrateur, dont au plus deux mandats de président du conseil d'administration d'une société d'assurance
+mutuelle, d'une union, d'une société de réassurance mutuelle ou d'une société de groupe d'assurance mutuelle.
+
+III. - Dans le décompte des mandats mentionnés aux I et II ne sont pris en compte que pour un seul ceux détenus dans les
+sociétés appartenant à un même groupe d'assurance tel que défini au 6° de l'article L. 334-2 du présent code.
+
+IV. - Toute personne qui, lorsqu'elle accède à un nouveau mandat, se trouve en infraction avec les dispositions des I et II
+doit, dans les trois mois de sa nomination, se démettre de l'un de ses mandats. A défaut de démission expresse à l'expiration
+de ce délai, elle est réputée s'être démise de son mandat le plus récent, sans que soit, de ce fait, remise en cause la
+validité des délibérations auxquelles elle a pris part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-942 du 26 juin 2002 - art. 2 () JORF 28 juin 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-2 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-162 (M)
+	  - Code des assurances - art. R322-55-1 (Ab)
+
+
+###### Article R322-54-2
+
+Les sociétés d'assurance mutuelles proposent à leurs administrateurs, lors de leur première année d'exercice, un programme de
+formation à leurs fonctions et aux responsabilités mutualistes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-942 du 26 juin 2002 - art. 2 () JORF 28 juin 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-7 2005-01-03 art. 3 9° JORF 7 janvier 2005
+
+
+###### Article R322-54-3
+
+Le terme mandataire mutualiste désigne toute personne physique, autre que l'administrateur visé à l'article R. 322-53,
+adhérente à une société d'assurance mutuelle ou représentante d'une personne morale adhérente à une société d'assurance
+mutuelle, qui apporte à celle-ci, en dehors de tout contrat de travail, un concours personnel et bénévole, dans le cadre du
+ou des mandats pour lesquels elle a été statutairement désignée ou élue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-942 du 26 juin 2002 - art. 2 () JORF 28 juin 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-7 2005-01-03 art. 3 9° JORF 7 janvier 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. R*322-53 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-163 (V)
+
+
+###### Article R322-55
+
+Les fonctions d'administrateur et de mandataires mutualistes sont gratuites.
+
+Cependant, si les statuts le prévoient, le conseil d'administration peut décider d'allouer aux administrateurs, dans des
+limites fixées par l'assemblée générale, des indemnités compensatrices du temps passé pour l'exercice de leurs fonctions et
+de rembourser leurs frais de déplacement, de séjour et de garde d'enfants.
+
+Le conseil d'administration peut également décider d'allouer, dans les mêmes conditions, aux mandataires mutualistes des
+indemnités au titre des contraintes afférentes aux missions qui leur ont été confiées dans l'exercice de leur mandat et de
+rembourser leurs frais de déplacement, de séjour et de garde d'enfants.
+
+Les indemnités mentionnées aux deux alinéas précédents ont le caractère de rémunération au sens de l'article L. 242-1 du code
+de la sécurité sociale.
+
+Le présent article est applicable aux agents publics dans les conditions fixées par les dispositions statutaires ou
+réglementaires qui les régissent.
+
+L'assemblée générale est informée chaque année du montant des indemnités effectivement allouées et des frais remboursés aux
+administrateurs et aux mandataires mutualistes. Ces indemnités et frais sont portés en charges d'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°2002-942 du 26 juin 2002 - art. 3 () JORF 28 juin 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-7 2005-01-03 art. 3 9° JORF 7 janvier 2005
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L242-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-2-1 (VT)
+	  - Code des assurances - art. A321-1 (M)
+	  - Code des assurances - art. R322-162 (M)
+	  - Code des assurances - art. R322-47 (V)
+	  - Code des assurances - art. R322-55-2 (Ab)
+
+
+###### Article R322-55-1
+
+I. - La direction générale de la société est assumée, sous le contrôle du conseil d'administration et dans le cadre des
+orientations arrêtées par celui-ci, par une personne physique nommée par le conseil et portant le titre de directeur général.
+Cependant, si les statuts de la société le prévoient, la direction générale peut être assumée par le président du conseil
+d'administration.
+
+Avant sa nomination, la personne pressentie pour exercer les fonctions de directeur général est tenue de déclarer l'ensemble
+des activités professionnelles et fonctions électives qu'elle entend conserver. Le conseil d'administration se prononce sur
+la compatibilité de la poursuite de l'exercice de ces activités ou fonctions avec les fonctions de directeur général.
+Ultérieurement, il se prononce également sur les autres activités ou fonctions que le directeur général entend exercer.
+
+II. - Les statuts doivent prévoir pour l'exercice des fonctions de directeur général une limite d'âge qui, à défaut d'une
+disposition expresse, est fixée à soixante-cinq ans.
+
+Toute nomination intervenue en violation des dispositions prévues à l'alinéa précédent est nulle.
+
+Lorsqu'un directeur général atteint la limite d'âge, il est réputé démissionnaire d'office, au plus tard lors de l'assemblée
+générale qui clôture les comptes de l'exercice.
+
+III. - Le conseil d'administration détermine la rémunération du directeur général ou fixe les modalités de son contrat de
+travail s'il s'agit d'un dirigeant salarié.
+
+Aucune rémunération liée de manière directe ou indirecte à l'activité de la société, notamment au montant des cotisations, ne
+peut être allouée, à quelque titre que ce soit, au directeur général ou à des salariés autres que le personnel directement
+chargé de la commercialisation.
 
 Les dispositions précédentes ne font pas obstacle à l'institution d'un intéressement collectif des salariés de l'entreprise
 dans les conditions prévues par l'ordonnance n° 86-1134 du 21 octobre 1986 modifiée relative à l'intéressement et à la
 participation des salariés aux résultats de l'entreprise et à l'actionnariat.
-
-Les avantages accessoires qui seraient accordés au directeur ou à l'un quelconque des employés, autres que ceux qui sont
-chargés du placement et de la souscription des contrats et que ceux qui dirigent cette activité ou en assurent l'encadrement,
-ne peuvent représenter plus de 20 % du total des sommes affectées par la société à de tels avantages, ni plus de 25 % du
-montant du traitement de l'intéressé.
-
-Les sociétés d'assurance mutuelles ne peuvent, en aucun cas, attribuer à forfait leur gestion à quelque personne ou à quelque
-organisme que ce soit.
 
 **Liens relatifs à cet article**
 
@@ -25260,21 +25375,142 @@ organisme que ce soit.
 
 	  - Ordonnance 86-1134 1986-10-21
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
-
-	**Modifié par**:
-
-	  - Décret n°94-799 du 9 septembre 1994 - art. 4 () JORF 15 septembre 1994
+	  - Décret n°2002-942 du 26 juin 2002 - art. 3 () JORF 28 juin 2002
 
 	**Cité par**:
 
-	  - Code des assurances - art. A310-2-1 (VT)
-	  - Code des assurances - art. A321-1 (M)
 	  - Code des assurances - art. R322-162 (M)
-	  - Code des assurances - art. R322-47 (V)
-	  - Code des assurances - art. R322-55-2 (Ab)
+	  - Code des assurances - art. R322-53 (V)
+	  - Code des assurances - art. R322-55-2 (VD)
+
+
+###### Article R322-55-2
+
+Sous réserve des dispositions de l'article L. 322-26-2, il est interdit aux administrateurs et mandataires mutualistes de
+faire partie du personnel rétribué par la société d'assurance mutuelle, l'union de sociétés d'assurance mutuelles, la société
+de réassurance mutuelle ou la société de groupe d'assurance mutuelle ou de recevoir, à l'occasion de l'exercice de leurs
+fonctions, toute rémunération ou avantage autre que ceux prévus à l'article R. 322-55.
+
+Ces dispositions ne s'appliquent pas au président du conseil d'administration lorsqu'il exerce les fonctions de directeur
+général de la société d'assurance mutuelle dans le cas prévu à l'article R. 322-55-1.
+
+Les administrateurs et mandataires mutualistes ne peuvent exercer de fonctions donnant lieu à une rémunération de la société
+d'assurance mutuelle, de l'union, de la société de réassurance mutuelle ou de la société de groupe d'assurance mutuelle qu'à
+l'expiration d'un délai d'un an à compter de la fin de leur mandat.
+
+La nullité des nominations intervenues en méconnaissance des dispositions du présent article n'entraîne pas celle des
+délibérations auxquelles l'administrateur ou le mandataire mutualiste irrégulièrement nommé a pris part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-942 du 26 juin 2002 - art. 3 () JORF 28 juin 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-7 2005-01-03 art. 3 9° JORF 7 janvier 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-26-2 (M)
+	  - Code des assurances - art. R*322-55 (M)
+	  - Code des assurances - art. R322-55-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-53 (V)
+	  - Code des assurances - art. R391-1 (V)
+
+
+###### Article R322-57
+
+I. - Toute convention intervenant directement ou par personne interposée entre la société d'assurance mutuelle et l'un de ses
+administrateurs ou dirigeants salariés doit être soumise à l'autorisation préalable du conseil d'administration.
+
+Il en est de même des conventions auxquelles une des personnes visées à l'alinéa précédent est indirectement intéressée.
+
+Sont également soumises à autorisation préalable les conventions intervenant entre la société d'assurance mutuelle et une
+entreprise, si l'un des administrateurs ou dirigeants salariés de la société d'assurance mutuelle est propriétaire, associé
+indéfiniment responsable, gérant, administrateur, membre du conseil de surveillance ou, de façon générale, dirigeant de cette
+entreprise.
+
+Lorsque le conseil d'administration de la société d'assurance mutuelle est composé, pour plus du tiers de ses membres,
+d'administrateurs, de dirigeants ou d'associés d'une seule personne morale de droit privé ne relevant pas des dispositions du
+présent code, les conventions intervenant entre cette personne morale et un administrateur ou un dirigeant salarié de la
+société d'assurance mutuelle sont soumises aux dispositions du premier alinéa.
+
+II. - Les dispositions du I ne sont pas applicables aux conventions portant sur des opérations courantes et conclues à des
+conditions normales.
+
+Cependant, ces conventions sont communiquées par l'intéressé au président du conseil d'administration. La liste et l'objet
+desdites conventions sont communiqués par le président aux membres du conseil d'administration et aux commissaires aux
+comptes.
+
+III. - L'administrateur ou le dirigeant salarié intéressé est tenu d'informer le conseil, dès qu'il a connaissance d'une
+convention à laquelle le I du présent article est applicable. Il ne peut, lorsqu'il s'agit d'un administrateur, prendre part
+au vote sur l'autorisation sollicitée.
+
+IV. - L'assemblée générale est, chaque année, appelée à statuer sur :
+
+1° Un rapport spécial des commissaires aux comptes sur toutes les conventions autorisées aux termes du I du présent article ;
+
+2° Un rapport spécial des commissaires aux comptes concernant les contrats d'assurance de toute nature souscrits auprès de la
+société par ses administrateurs, ses dirigeants salariés et leurs conjoints, ascendants et descendants. Le président du
+conseil d'administration communique ces contrats aux commissaires aux comptes en indiquant ceux qui ont été souscrits à des
+conditions préférentielles par rapport à celles pratiquées pour les autres sociétaires. Pour l'établissement de leur rapport,
+les commissaires aux comptes analysent les caractéristiques des contrats souscrits, notamment, pour l'assurance vie, les
+sommes versées par la société dans l'année par bénéficiaire ainsi que les conditions de rémunération obtenues par lui.
+
+V. - Les conventions autorisées par le conseil d'administration, qu'elles aient été ou non approuvées par l'assemblée
+générale, produisent leurs effets à l'égard des tiers, sauf lorsqu'elles sont annulées dans le cas de fraude.
+
+Même en l'absence de fraude, les conséquences, préjudiciables à la société, des conventions désapprouvées peuvent être mises
+à la charge de l'intéressé et, éventuellement, des autres membres du conseil d'administration.
+
+VI. - Sans préjudice de la responsabilité de l'administrateur ou du dirigeant salarié intéressé, les conventions mentionnées
+au I du présent article et conclues sans autorisation préalable du conseil d'administration peuvent être annulées si elles
+ont eu des conséquences dommageables pour la société.
+
+L'action en nullité se prescrit par trois ans à compter de la date de la convention. Toutefois, si la convention a été
+dissimulée, le point de départ du délai de la prescription est reporté au jour où elle a été révélée.
+
+La nullité peut être couverte par un vote de l'assemblée générale intervenant sur rapport spécial des commissaires aux
+comptes exposant les circonstances en raison desquelles la procédure d'autorisation n'a pas été suivie. Le ou les intéressés
+ne prennent pas part au vote.
+
+VII. - A peine de nullité du contrat et, en ce qui concerne les administrateurs élus par les salariés, sous réserve des
+dispositions de l'article L. 313-1 du code de la construction et de l'habitation, il est interdit aux administrateurs et
+dirigeants salariés de contracter, sous quelque forme que ce soit, des emprunts auprès de la société ou de se faire consentir
+par celle-ci un découvert en compte courant ou autrement, ainsi que de faire cautionner ou avaliser par elle leurs
+engagements envers les tiers.
+
+La même interdiction s'applique aux conjoints, ascendants et descendants des personnes mentionnées au présent article ainsi
+qu'à toute personne interposée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2002-942 du 26 juin 2002 - art. 4 () JORF 28 juin 2002
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-162 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L313-1 (M)
 
 
 ###### Article R322-58
@@ -25527,6 +25763,33 @@ opposables.
 	**Cité par**:
 
 	  - Code des assurances - art. R322-65 (V)
+
+
+###### Article R322-66-1
+
+La décision de s'affilier à une société de groupe d'assurance ou de résilier cette affiliation est prise en assemblée
+générale de chaque société d'assurance mutuelle statuant dans les conditions prévues à l'article R. 322-65. La même assemblée
+générale procède aux éventuelles modifications des statuts liées à cette décision et à l'approbation de la convention
+d'affiliation décrite à l'article R. 322-165.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-943 du 26 juin 2002 - art. 2 () JORF 28 juin 2002
+
+	**Cité par**:
+
+	  - Code des assurances - art. A322-8 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*322-65 (M)
+	  - Code des assurances - art. R322-165 (V)
 
 
 ##### Sous-section 2 : Direction et administration
@@ -25919,8 +26182,8 @@ R. 113-10.
 ###### Article R322-77
 
 Les sociétés d'assurance mutuelles ne peuvent emprunter que pour financer le développement des activités d'assurance ou
-renforcer leur marge de solvabilité et dans les conditions et selon les modalités définies par les articles R. 322-78 à R.
-322-80-1, sous réserve des dispositions de l'article R. 322-105.
+renforcer leur marge de solvabilité ou leur solvabilité ajustée mentionnée à l' article R. 334-41 et dans les conditions et
+selon les modalités définies par les articles R. 322-78 à R. 322-80-1, sous réserve des dispositions de l'article R. 322-105.
 
 **Liens relatifs à cet article**
 
@@ -25928,14 +26191,15 @@ renforcer leur marge de solvabilité et dans les conditions et selon les modalit
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-248 du 14 mars 1997 - art. 2 () JORF 20 mars 1997
+	  - Décret n°2002-943 du 26 juin 2002 - art. 2 () JORF 28 juin 2002
 
 	**Cite**:
 
 	  - Code des assurances - art. R*322-105 (M)
-	  - Code des assurances R322-78 à R322-80-1, R322-105
+	  - Code des assurances - art. R334-41 (M)
+	  - Code des assurances R334-41, R322-78 à R322-80-1, R322-105
 
 	**Cité par**:
 
@@ -26198,15 +26462,15 @@ Les dispositions du présent article ne s'appliquent pas aux sociétés pratiqua
 
 ###### Article R322-84
 
-Il peut être formé, entre sociétés régies par la présente section ou par la section V, des sociétés de réassurance mutuelles
-ayant pour objet la réassurance des risques garantis directement par les sociétés qui en font partie.
-
-Ces sociétés de réassurance peuvent, sur autorisation du ministre de l'économie et des finances, procéder à des échanges de
-risques avec les sociétés non adhérentes.
+Il peut être formé, entre sociétés d'assurance mutuelle ou leurs unions ou entre entreprises affiliées par convention à une
+même société de groupe d'assurance mutuelle, des sociétés de réassurance mutuelles ayant pour objet la réassurance des
+sociétés qui en font partie.
 
 Ces sociétés de réassurance sont soumises aux dispositions de la présente section. Toutefois, elles sont valablement
-constituées lorsqu'elles réunissent au moins sept sociétés adhérentes ; leurs statuts fixent, sans condition de montant
-minimal, le montant de leur fonds d'établissement ; l'assemblée générale est composée de toutes les sociétés adhérentes.
+constituées lorsqu'elles réunissent au moins sept sociétés adhérentes, ce nombre minimum n'étant pas requis lorsqu'elles ne
+comprennent que des entreprises relevant d'une même société de groupe d'assurance mutuelle ; leurs statuts fixent, sans être
+tenus par un minimum, le montant de leur fonds d'établissement ; l'assemblée générale est composée de toutes les sociétés
+adhérentes.
 
 **Liens relatifs à cet article**
 
@@ -26220,7 +26484,7 @@ minimal, le montant de leur fonds d'établissement ; l'assemblée générale est
 
 	**Modifié par**:
 
-	  - Décret n°94-799 du 9 septembre 1994 - art. 10 () JORF 15 septembre 1994
+	  - Décret n°2002-943 du 26 juin 2002 - art. 2 () JORF 28 juin 2002
 
 	**Cité par**:
 
@@ -28519,6 +28783,305 @@ nullités ci-dessus prévues.
 	**Cité par**:
 
 	  - Code des assurances - art. R322-90 (V)
+
+
+##### Section VIII : Les sociétés de groupe d'assurance mutuelle et les conventions d'affiliation
+
+###### Article R322-160
+
+I.-La constitution des sociétés de groupe d'assurance mutuelle mentionnées au troisième alinéa de l'article L. 322-1-3 est
+soumise aux dispositions des articles R. 322-46 et R. 322-52 du présent code. 
+
+II.-Les signataires de l'acte de constitution de la société mentionné à l'article R. 322-46 ou leurs fondés de pouvoirs
+constatent sa création par une déclaration devant notaire. A cette déclaration sont annexés : 
+
+a) La liste dûment certifiée des entreprises signataires mentionnant, pour chacune d'elles, leur dénomination, leur siège
+social, le montant de leurs engagements techniques et leurs chiffres d'affaires par branche ; 
+
+b) Un exemplaire des statuts ; 
+
+c) Les documents prévus aux 2,4 et 5 de l'article R. 322-51. 
+
+III.-Les dispositions des articles R. 322-85 à R. 322-89 relatives à la publicité sont applicables aux sociétés régies par la
+présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-1-3 (V)
+	  - Code des assurances - art. R*322-46 (V)
+	  - Code des assurances - art. R*322-51 (V)
+	  - Code des assurances - art. R322-52 (V)
+	  - Code des assurances - art. R322-85 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-164 (V)
+
+
+###### Article R322-161
+
+I. - 1° Les statuts des sociétés de groupe d'assurance mutuelle doivent fixer les conditions d'admission de retrait ou
+d'exclusion des entreprises affiliées par convention à la société de groupe d'assurance.
+
+Ils doivent prévoir que l'admission ou l'exclusion d'une entreprise affiliée par convention fait l'objet d'une déclaration
+préalable auprès du ministre chargé de l'économie, accompagnée d'un dossier dont la composition est fixée par arrêté de
+celui-ci. Le ministre peut, dans un délai de trois mois à compter de la réception du dossier, s'opposer à l'opération, si
+celle-ci apparaît contraire aux intérêts des assurés des entreprises affiliées par convention, par une décision motivée prise
+après avis de la commission des entreprises d'assurances mentionnée à l'article L. 411-4 et adressée à la ou aux personnes
+intéressées par lettre recommandée avec accusé de réception. A défaut d'opposition du ministre, l'opération peut être
+réalisée à l'expiration de ce délai.
+
+2° Les statuts des sociétés de groupe d'assurance mutuelle doivent également :
+
+a) Fixer, sans être tenus par un minimum, le montant de leur fonds d'établissement ;
+
+b) Prévoir que l'assemblée générale est composée de toutes les entreprises affiliées par convention, représentées chacune
+exclusivement par un de ses dirigeants ou administrateurs dûment mandaté ou par un représentant directement nommé soit par
+l'assemblée générale, soit par des délégués eux-mêmes nommés par l'assemblée générale de l'entreprise affiliée par
+convention ;
+
+c) Déterminer le nombre de voix dont dispose chacune de ces entreprises, ce nombre pouvant être proportionnel au montant de
+ses encaissements ou du nombre de ses sociétaires, directs ou indirects.
+
+II. 1° Les statuts peuvent conférer à la société de groupe d'assurance mutuelle des pouvoirs de contrôle à l'égard des
+entreprises affiliées par convention, à condition que les statuts de celles-ci le permettent, y compris en ce qui concerne
+leur gestion. Ils peuvent notamment, à la même condition :
+
+a) Subordonner à l'autorisation préalable du conseil d'administration de la société la conclusion par ces entreprises
+d'opérations énumérées par les statuts, notamment la cession d'immeubles par nature, la cession totale ou partielle d'actifs
+ou de participations, la constitution de sûretés et l'octroi de cautions, avals ou garanties ;
+
+b) Prévoir des pouvoirs de sanction de la société à l'égard de ces entreprises.
+
+2° Les statuts peuvent également prévoir que toute entreprise demandant son admission à la société de groupe d'assurance
+mutuelle modifie au préalable ses propres statuts afin de reconnaître à la société de groupe d'assurance mutuelle le droit de
+demander la convocation de l'assemblée générale de ladite entreprise et de proposer lors de celle-ci l'élection de nouveaux
+candidats au poste d'administrateur.
+
+III. - Les dispositions du 4° de l'article R. 332-47 et de l'article R. 332-48 sont applicables aux statuts des sociétés de
+groupe d'assurance mutuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 23 octobre 2002
+	  - TXT_SOURCE: Arrêté du 23 octobre 2002 - art. 1 ()
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 22 (V)
+	  - Code des assurances - art. A322-8 (Ab)
+	  - Code des assurances - art. R322-165 (V)
+	  - Code des assurances - art. R322-166 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L411-4 (M)
+	  - Code des assurances - art. R332-47 (V)
+	  - Code des assurances - art. R332-48 (M)
+
+
+###### Article R322-162
+
+I. - L'administration de la société de groupe d'assurance mutuelle est confiée à un conseil d'administration composé de
+membres nommés par l'assemblée générale et dont le nombre, qui ne peut être inférieur à cinq, doit figurer dans les statuts.
+
+II. - Les dispositions des alinéas 3 à 8 de l'article R. 322-53 et des articles R. 322-54, R. 322-54-1, R. 322-55, R.
+322-55-1, R. 322-56 et R. 322-57 sont applicables aux administrateurs et aux directeurs des sociétés de groupe d'assurance
+mutuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
+
+	**Cité par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 22 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*322-53 (M)
+	  - Code des assurances - art. R*322-54 (M)
+	  - Code des assurances - art. R*322-55 (M)
+	  - Code des assurances - art. R*322-56 (M)
+	  - Code des assurances - art. R*322-57 (M)
+	  - Code des assurances - art. R322-54-1 (M)
+	  - Code des assurances - art. R322-55-1 (M)
+
+
+###### Article R322-163
+
+I. - Il est tenu chaque année au moins une assemblée générale dans les conditions prévues par les statuts. A cette assemblée
+sont présentés par le conseil d'administration le bilan, le compte de résultat et l'annexe de l'exercice écoulé.
+
+L'assemblée générale peut, en outre, être convoquée, à toute époque, par le conseil d'administration.
+
+II. - 1° La convocation à l'assemblée générale doit être faite par lettre recommandée adressée aux entreprises affiliées par
+convention, quinze jours au moins avant la date fixée pour la réunion de l'assemblée, en mentionnant l'ordre du jour ;
+l'assemblée ne peut délibérer que sur les questions figurant à cet ordre du jour.
+
+2° L'ordre du jour comporte les propositions du conseil d'administration et celles qui lui auront été communiquées par toute
+entreprise affiliée par convention vingt jours au moins avant la réunion de l'assemblée générale.
+
+III. - Toute entreprise affiliée par convention peut, dans les quinze jours qui précèdent la réunion d'une assemblée
+générale, prendre, au siège social, communication par elle-même ou par un mandataire, du bilan, du compte de résultat et de
+l'annexe de la société de groupe d'assurance mutuelle qui seront présentés à l'assemblée générale ainsi que tous les
+documents qui doivent être communiqués à l'assemblée parmi lesquels doivent se trouver le bilan, les comptes de résultat
+technique et non technique et l'annexe de chacune des entreprises affiliées par convention à la société de groupe d'assurance
+mutuelle.
+
+IV. - L'assemblée générale délibère valablement si les entreprises affiliées par convention présentes ou représentées sont au
+nombre de la moitié au moins à la fois du nombre total d'entreprises affiliées et des voix dont elles disposent. A défaut,
+une nouvelle assemblée est convoquée dans les formes et délais prescrits par les statuts ; cette assemblée délibère
+valablement quel que soit le nombre des membres présents ou représentés.
+
+V. - L'assemblée générale, à condition de délibérer à la majorité des deux tiers au moins, en nombre et en voix, des
+entreprises affiliées par convention, peut modifier les statuts dans toutes leurs dispositions à l'exception de la
+nationalité de la société ; elle peut, dans les mêmes conditions, autoriser la fusion de la société avec une autre société de
+groupe d'assurance mutuelle.
+
+VI. - Les dispositions prévues aux articles R. 322-67 à R. 322-70 sont applicables aux sociétés de groupe d'assurance
+mutuelle.
+
+Les dispositions de l'article R. 322-68 se référant aux sociétaires s'appliquent aux entreprises affiliées par convention, le
+droit de récusation prévu au deuxième alinéa étant ouvert à ces entreprises à condition qu'elles représentent, en nombre ou
+en voix, le dixième de l'ensemble.
+
+VII. - Dans le cas prévu à l'article R. 322-76, l'assemblée générale délibère dans les conditions fixées au V.
+
+VIII. - Toute décision d'emprunter doit être autorisée par l'assemblée générale délibérant dans les conditions prévues au V
+et faire l'objet d'une résolution spéciale dont la teneur est préalablement soumise à l'approbation de la commission de
+contrôle des assurances. Celle-ci se prononce, en veillant à la sauvegarde des intérêts des assurés des entreprises affiliées
+par convention, au vu d'un dossier comportant une présentation détaillée des objectifs poursuivis, des conséquences de
+l'emprunt sur la situation financière de la société et des entreprises affiliées, ainsi que, le cas échéant, une description
+précise des cas de remboursement anticipé.
+
+A l'expiration d'un délai de deux mois à compter du dépôt du texte de la résolution et du dossier mentionné ci-dessus et en
+l'absence de décision expresse de la commission, l'autorisation est considérée comme accordée. En cas de décision expresse,
+celle-ci est communiquée à l'assemblée générale.
+
+IX. - Les dispositions de l'article R. 322-54-3 sont applicables aux sociétés de groupe d'assurance mutuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. R322-54-3 (Ab)
+	  - Code des assurances R322-67 à R322-70, R322-68, R322-76, R322-54-3
+
+
+###### Article R322-164
+
+Toute société de groupe d'assurance mutuelle constituée en violation des articles R. 322-160 à R. 322-163 est nulle. 
+
+Les dispositions du deuxième alinéa de l'article R. 322-90 et celles de l'article R. 322-91 lui sont alors applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. R322-160 (V)
+	  - Code des assurances - art. R322-90 (V)
+	  - Code des assurances - art. R322-91 (V)
+
+
+###### Article R322-165
+
+Les dispositions du deuxième alinéa du 1° du I de l'article R. 322-161 sont applicables aux sociétés de groupe d'assurance
+mentionnées à l'article L. 322-1-3 qui n'ont pas la qualité de sociétés de groupe d'assurance mutuelle définies au troisième
+alinéa de cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code des assurances - art. R322-66-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-1-3 (V)
+	  - Code des assurances - art. R322-161 (V)
+
+
+###### Article R322-166
+
+I.-La convention d'affiliation mentionnée au premier alinéa de l'article L. 322-1-3 contient la description des liens, des
+obligations, des engagements et des modalités de partage des coûts ou de toute autre forme de coopération entre une société
+de groupe d'assurance et l'entreprise affiliée. Elle doit comporter l'engagement de celle-ci de subordonner son retrait
+éventuel au respect des conditions posées au deuxième alinéa du 1° du I de l'article R. 322-161.
+
+II.-Les conventions d'affiliation, leurs modifications et leur résiliation éventuelle doivent être approuvées par les
+assemblées générales de la société de groupe d'assurance et de l'entreprise affiliée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
+
+	**Cité par**:
+
+	  - Code des assurances - art. A322-8 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-1-3 (V)
+	  - Code des assurances - art. R322-161 (V)
 
 
 #### Chapitre III : Procédures de redressement et de sauvegarde
