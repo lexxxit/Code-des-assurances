@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-02-12
+Version Consolidée au 2005-04-03
 
 # Partie législative
 
@@ -43683,29 +43683,6 @@ montant cumulé des produits financiers des cotisations et les autres ressources
 #### Chapitre Ier : La caisse centrale de réassurance.
 
 ##### Section I : Dispositions générales.
-
-###### Article R*431-6
-
-Le nombre des représentants des salariés au conseil d'administration de la caisse centrale de réassurance est fixé à trois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°93-176 du 5 février 1993 - art. 1 () JORF 7 février 1993 en vigueur le 1er janvier 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2005-312 du 25 mars 2005 - art. 1 () JORF 3 avril 2005
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
-
 
 ###### Article R*431-6-2
 
