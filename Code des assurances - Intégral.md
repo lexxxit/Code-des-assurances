@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-07-16
+Version Consolidée au 2004-08-05
 
 # Partie législative
 
@@ -99851,52 +99851,26 @@ des assujettis par la direction générale des impôts.
 	  - TXT_SOURCE: Code des assurances R420-35
 
 
-#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse
-
-##### Section V : Régime financier du fonds de garantie
-
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.
-
 ###### Article A421-3
 
-Le montant de la contribution prévue à l'article R. 420-35 est fixé comme suit :
+Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
+application des articles R. 421-27 et R. 421-28 du code des assurances sont fixées comme suit :
 
-1° Véhicules terrestres à moteur pour lesquels, aux termes de l'article R. 211-7, l'assurance doit être souscrite sans
-limitation de somme :
+Contribution des entreprises d'assurance au titre du 1° de l'article R. 421-27 : 1 % de la totalité des charges de la section
+relative aux opérations résultant de la défaillance d'entreprises d'assurance dommages ;
 
-Pour une garantie limitée à huit jours : 10 F.
+Contribution des entreprises d'assurance au titre du 3° de l'article R. 421-27 : 1 % de la totalité des charges de la section
+automobile ;
 
-Pour une garantie limitée à quinze jours : 20 F.
+Contribution des responsables d'accidents non assurés au titre du 4° de l'article R. 421-27 :
 
-Pour une garantie limitée à trente jours : 40 F.
+- taux normal : 10 % des indemnités restant à leur charge ;
 
-2° Véhicules terrestres à moteur à deux roues ainsi que tricycles et triporteurs à moteur d'une cylindrée n'excédant pas 125
-centimètres cubes :
+- taux réduit : 5 % ;
 
-Pour une garantie limitée à huit jours : 2 F.
+Contribution des assurés au titre du 5° de l'article R. 421-27 :
 
-Pour une garantie limitée à quinze jours : 3 F.
-
-Pour une garantie limitée à trente jours : 6 F.
-
-3° Autres véhicules terrestres à moteur :
-
-Pour une garantie limitée à huit jours : 3 F.
-
-Pour une garantie limitée à quinze jours : 6 F.
-
-Pour une garantie limitée à trente jours : 10 F.
-
-4° Autres véhicules, notamment remorque :
-
-Pour une garantie limitée à huit jours : 4 F.
-
-Pour une garantie limitée à quinze jours : 7 F.
-
-Pour une garantie limitée à trente jours : 10 F.
-
-Le montant de la contribution est intégralement reversée par l'organisme d'assurance mentionné à l'article R. 211-24, suivant
-les modalités prévues à l'article A. 421-2.
+0,1 % des primes.
 
 **Liens relatifs à cet article**
 
@@ -99906,7 +99880,7 @@ les modalités prévues à l'article A. 421-2.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
+	  - Arrêté 2004-07-16 art. 1 JORF 5 août 2004
 
 	**Liens**:
 
@@ -99915,14 +99889,50 @@ les modalités prévues à l'article A. 421-2.
 
 	**Cite**:
 
-	  - Code des assurances - art. A421-2 (M)
-	  - Code des assurances - art. R*211-7 (M)
-	  - Code des assurances - art. R211-24 (M)
-	  - Code des assurances R211-7, R211-24, R420-35, A421-2
+	  - Code des assurances - art. R421-27 (M)
+	  - Code des assurances - art. R421-28 (M)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
+
+
+##### Paragraphe 2 : Dispositions spéciales aux accidents de chasse.
+
+###### Article A421-4
+
+Les taux des contributions prévus pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
+application des articles R. 421-38 et R. 421-39 sont fixés comme suit : 
+
+Contribution des entreprises d'assurance au titre du 1° de l'article R. 421-38 : 1 % de la totalité des charges des
+opérations du fonds de garantie afférentes à la chasse et à la destruction des animaux nuisibles ; 
+
+Contribution des responsables d'accidents corporels non assurés au titre du 2° de l'article R. 421-38 :
+
+- taux normal : 10 % des indemnités restant à leur charge ;
+
+- taux réduit, lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des
+articles 393 à 395 du code rural : 5 % ; 
+
+Contribution forfaitaire des assurés au titre du 3° de l'article R. 421-38 : 0,02 euro par personne garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2004-07-16 art. 2 JORF 5 août 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. R421-38 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 B (P)
 
 
 #### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
