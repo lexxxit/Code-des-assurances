@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-01-22 00:00:02 +0100
+Version Consolidée au 1992-03-20
 
 # Partie législative
 
@@ -5324,6 +5324,71 @@ déclaration, sera puni d'une amende de 1.000 F à 15.000 F.
 	**Cite**:
 
 	  - Code des assurances - art. L213-1 (M)
+
+
+#### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer et à la collectivité territoriale de Mayotte
+
+##### Section III : Dispositions particulières à la collectivité territoriale de Mayotte.
+
+###### Article L214-3
+
+Les dispositions du titre Ier du livre II sont applicables à la collectivité territoriale de Mayotte à l'exception des
+articles L. 211-2, L. 211-4, L. 213-1, L. 214-1 et L. 214-2.
+
+**Nota:**
+
+- Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à
+la " collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
+territoriale " est remplacée par la référence à la " collectivité départementale ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance no 92-255 du 4 mars 1992 portant extens - art. 3 () JORF 20 mars 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L211-2 (V)
+	  - Code des assurances - art. L211-4 (M)
+	  - Code des assurances - art. L213-1 (M)
+	  - Code des assurances - art. L214-1 (M)
+	  - Code des assurances - art. L214-2 (M)
+
+
+###### Article L214-4
+
+Pour l'application des articles L. 211-11, L. 211-12 et L. 211-25, les dispositions du chapitre II de la loi n° 85-677 du 5
+juillet 1985 sont étendues à la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°85-677 1985-07-05
+	  - Code des assurances - art. L211-11 (M)
+	  - Code des assurances - art. L211-12 (V)
+	  - Code des assurances - art. L211-25 (V)
+
+	**Créé par**:
+
+	  - Ordonnance no 92-255 du 4 mars 1992 portant extens - art. 3 () JORF 20 mars 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance no 92-1067 du 1er octobre 1992 portant  - art. 15 (Ab) JORF 3 octobre 1992 en vigueur le 15 octobre 1992
+
+	**Cité par**:
+
+	  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 15 (Ab)
 
 
 #### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer
