@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1978-11-21
+Version Consolidée au 1979-01-01
 
 # Partie législative
 
@@ -4211,6 +4211,491 @@ comporter des garanties au moins équivalentes à celles qui sont fixées par l'
 	**Abrogé par**:
 
 	  - Loi n°93-1444 du 31 décembre 1993 - art. 20 () JORF 5 janvier 1994
+
+
+### Titre IV : L'assurance des travaux du bâtiment
+
+#### Chapitre I : L'assurance de responsabilité obligatoire.
+
+###### Article L241-1
+
+Toute personne physique ou morale, dont la responsabilité peut être engagée sur le fondement de la présomption établie par
+les articles 1792 et suivants du code civil à propos de travaux de bâtiment, doit être couverte par une assurance.
+
+A l'ouverture de tout chantier, elle doit être en mesure de justifier qu'elle a souscrit un contrat d'assurance la couvrant
+pour cette responsabilité.
+
+Tout contrat d'assurance souscrit en vertu du présent article est, nonobstant toute stipulation contraire, réputé comporter
+une clause assurant le maintien de la garantie pour la durée de la responsabilité pesant sur la personne assujettie à
+l'obligation d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
+	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+	  - SPEC_APPLI: Code des assurances - art. L243-1 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. L243-3 (M)
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Arrêté du 27 décembre 1982 - art. 2 (V)
+	  - Loi n°84-595 du 12 juillet 1984 - art. 31 (V)
+	  - Loi n°84-595 du 12 juillet 1984 - art. 5 (V)
+	  - Arrêté du 2 octobre 1995 - art. 7 (V)
+	  - Arrêté du 29 avril 1997 - art. 8 (V)
+	  - Décret n°2008-1466 du 22 décembre 2008 (V)
+	  - Arrêté du 7 janvier 1987 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. L111-30 (M)
+	  - Code de la construction et de l'habitation. - art. L111-32-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-33 (V)
+	  - Code de la construction et de l'habitation. - art. L111-34 (V)
+	  - Code de la construction et de l'habitation. - art. R31-10-8 (V)
+	  - Code de la construction et de l'habitation. - art. R318-11 (V)
+	  - Code des assurances - art. A241-2 (An)
+	  - Code des assurances - art. A243-3 (VD)
+	  - Code des assurances - art. A243-4 (VD)
+	  - Code des assurances - art. A243-5 (VD)
+	  - Code des assurances - art. A250-2 (V)
+	  - Code des assurances - art. Annexe III art A243-1 (V)
+	  - Code des assurances - art. L242-1 (V)
+	  - Code des assurances - art. L243-1-1 (V)
+	  - Code des assurances - art. L243-2 (M)
+	  - Code des assurances - art. L243-3 (V)
+	  - Code des assurances - art. R241-2 (T)
+	  - Code des assurances - art. R243-1 (V)
+	  - Code des assurances - art. R243-2 (V)
+	  - Code des assurances - art. R243-3 (V)
+	  - Code des assurances - art. R250-1 (V)
+	  - Code des assurances - art. R250-2 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+
+
+###### Article L241-2
+
+Celui qui fait réaliser pour le compte d'autrui des travaux de bâtiment mentionnés à l'article précédent doit être couvert
+par une assurance de responsabilité garantissant les dommages visés aux articles 1792 et 1792-2 du code civil et résultant de
+son fait.
+
+Il en est de même lorsque les bâtiments sont construits en vue de la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
+	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+	  - TXT_ASSOCIE: Code des assurances - art. L243-3 (M)
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Arrêté du 27 décembre 1982 - art. 2 (V)
+	  - Arrêté du 2 octobre 1995 - art. 7 (V)
+	  - Arrêté du 7 janvier 1987 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. L111-30 (M)
+	  - Code de la construction et de l'habitation. - art. L111-31 (V)
+	  - Code de la construction et de l'habitation. - art. L111-32-1 (V)
+	  - Code de la construction et de l'habitation. - art. L262-4 (V)
+	  - Code de la construction et de l'habitation. - art. R138-3 (V)
+	  - Code des assurances - art. Annexe III art A243-1 (V)
+	  - Code des assurances - art. L242-1 (M)
+	  - Code des assurances - art. L242-2 (V)
+	  - Code des assurances - art. L243-1-1 (V)
+	  - Code des assurances - art. L243-2 (V)
+	  - Code des assurances - art. R241-2 (T)
+	  - Code des assurances - art. R243-2 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-2 (M)
+
+
+#### Chapitre II : L'assurance de dommages obligatoire.
+
+###### Article L242-2
+
+Dans les cas prévus par les articles 1831-1 à 1831-5 du code civil relatifs au contrat de promotion immobilière, ainsi que
+par les articles L. 222-1 à L. 222-5 du code de la construction et de l'habitation les obligations définies aux articles L.
+241-2 et L. 242-1 incombent au promoteur immobilier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
+	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Arrêté du 30 mai 1997 - art. 3 (V)
+	  - Arrêté du 7 février 2001 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code civil 1831-1 à 1831-5
+	  - Code des assurances - art. L241-2 (M)
+	  - Code des assurances - art. L242-1 (M)
+	  - Code de la construction et de l'habitation L222-1 à L222-5
+
+
+#### Chapitre III : Dispositions communes.
+
+###### Article L243-2
+
+Les personnes soumises aux obligations prévues par les articles L. 241-1 à L. 242-1 du présent code doivent être en mesure de
+justifier qu'elles ont satisfait auxdites obligations.
+
+Lorsqu'un acte intervenant avant l'expiration du délai de dix ans prévu à l'article 2270 du code civil a pour effet de
+transférer la propriété ou la jouissance du bien, quelle que soit la nature du contrat destiné à conférer ces droits, à
+l'exception toutefois des baux à loyer, mention doit être faite dans le corps de l'acte ou en annexe de l'existence ou de
+l'absence d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
+	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cite**:
+
+	  - Code civil - art. 2270 (M)
+	  - Code des assurances L241-1 à L242-1
+
+	**Cité par**:
+
+	  - Code des assurances - art. A243-2 (VD)
+	  - Code des assurances - art. A243-3 (VD)
+	  - Code des assurances - art. A243-4 (VD)
+	  - Code des assurances - art. R241-2 (T)
+	  - Code des assurances - art. R243-2 (V)
+
+
+###### Article L243-4
+
+Toute personne assujettie à l'obligation de s'assurer qui, ayant sollicité la souscription d'un contrat auprès d'une
+entreprise d'assurance dont les statuts n'interdisent pas la prise en charge du risque en cause en raison de sa nature, se
+voit opposer un refus, peut saisir un bureau central de tarification dont les conditions de constitution et les règles de
+fonctionnement sont fixées par décret en Conseil d'Etat.
+
+Le bureau central de tarification a pour rôle exclusif de fixer le montant de la prime moyennant laquelle l'entreprise
+d'assurance intéressée est tenue de garantir le risque qui lui a été proposé. Il peut déterminer le montant d'une franchise
+qui reste à la charge de l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
+	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Décret n°2008-1466 du 22 décembre 2008 (V)
+	  - Décret n°2015-518 du 11 mai 2015 (V)
+	  - Code des assurances - art. R250-1 (V)
+	  - Code des assurances - art. R250-2 (V)
+
+
+###### Article L243-5
+
+Est nulle toute clause des traités de réassurance tendant à exclure certains risques de la garantie de réassurance en raison
+de la tarification adoptée par le bureau central de tarification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
+	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-36 (V)
+
+
+###### Article L243-6
+
+Toute entreprise d'assurance qui maintient son refus de garantir un risque dont la prime a été fixée par le bureau central de
+tarification est considérée comme ne fonctionnant plus conformément à la réglementation en vigueur et encourt le retrait de
+l'agrément administratif prévu par l'article L. 321-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
+
+
+###### Article L243-7
+
+Les dispositions de l'article L. 113-16 et du deuxième alinéa de l'article L. 121-10 du présent code ne sont pas applicables
+aux assurances obligatoires prévues par le présent titre.
+
+Les victimes des dommages prévus par la loi n° 78-12 du 4 janvier 1978 ont la possibilité d'agir directement contre
+l'assureur du responsable desdits dommages si ce dernier est en règlement judiciaire ou en liquidation de biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°78-12 1978-01-04
+	  - Code des assurances - art. L113-16 (M)
+	  - Code des assurances - art. L121-10 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
+	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+	  - SPEC_APPLI: Code des assurances - art. L113-16 (M)
+	  - SPEC_APPLI: Code des assurances - art. L121-10 (M)
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+
+###### Article L243-8
+
+Tout contrat d'assurance souscrit par une personne assujettie à l'obligation d'assurance en vertu du présent titre est,
+nonobstant toute clause contraire, réputé comporter des garanties au moins équivalentes à celles figurant dans les clauses
+types prévues par l'article L. 310-7 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
+	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 27 décembre 1982
+	  - TXT_SOURCE: Arrêté du 27 décembre 1982 - art. 2 (V)
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-7 (M)
+
+
+### Titre IV : L'assurance des travaux du bâtiment
+
+#### Chapitre II : L'assurance de dommages obligatoire.
+
+###### Article L242-1
+
+Toute personne physique ou morale qui, agissant en qualité de propriétaire de l'ouvrage, de vendeur ou de mandataire du
+propriétaire de l'ouvrage, fait réaliser des travaux de bâtiment, doit souscrire avant l'ouverture du chantier, pour son
+compte ou pour celui des propriétaires successifs, une assurance garantissant, en dehors de toute recherche des
+responsabilités, le paiement des travaux de réparation des dommages de la nature de ceux dont sont responsables les
+constructeurs au sens de l'article 1792-1, les fabricants et importateurs ou le contrôleur technique sur le fondement de
+l'article 1792 du code civil.
+
+Cette assurance prend effet après l'expiration du délai de garantie de parfait achèvement visé à l'article 1792-6 du code
+civil. Toutefois, elle garantit le paiement des réparations nécessaires lorsque :
+
+Avant la réception, après mise en demeure restée infructueuse, le contrat de louage d'ouvrage conclu avec l'entrepreneur est
+résilié pour inexécution, par celui-ci, de ses obligations ;
+
+Après la réception, après mise en demeure restée infructueuse, l'entrepreneur n'a pas exécuté ses obligations.
+
+Toute entreprise d'assurance agréée dans les conditions fixées par l'article L. 321-1 du présent code, même si elle ne gère
+pas les risques régis par les articles L. 241-1 et L. 241-2 ci-dessus, est habilitée à prendre en charge les risques prévus
+au présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
+	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L111-30 (V)
+	  - TXT_ASSOCIE: Code des assurances - art. L243-3 (M)
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Loi n°82-600 du 13 juillet 1982 - art. 7 (V)
+	  - Loi n°84-595 du 12 juillet 1984 - art. 31 (V)
+	  - Loi n°84-595 du 12 juillet 1984 - art. 5 (V)
+	  - Arrêté du 30 mai 1997 - art. 3 (V)
+	  - Arrêté du 7 février 2001 - art. 3 (V)
+	  - Décret n°2008-1466 du 22 décembre 2008 (V)
+	  - Code de l'urbanisme - art. A424-9 (V)
+	  - Code de l'éducation - art. R211-6 (V)
+	  - Code de la construction et de l'habitation. - art. L111-30 (V)
+	  - Code de la construction et de l'habitation. - art. L111-31 (M)
+	  - Code de la construction et de l'habitation. - art. L111-32-1 (V)
+	  - Code de la construction et de l'habitation. - art. L231-2 (V)
+	  - Code de la construction et de l'habitation. - art. L232-1 (V)
+	  - Code de la construction et de l'habitation. - art. L262-4 (V)
+	  - Code de la construction et de l'habitation. - art. R138-3 (V)
+	  - Code de la construction et de l'habitation. - art. R31-10-8 (V)
+	  - Code de la construction et de l'habitation. - art. R318-11 (V)
+	  - Code des assurances - art. A125-2 (M)
+	  - Code des assurances - art. A241-2 (An)
+	  - Code des assurances - art. A250-2 (V)
+	  - Code des assurances - art. Annexe II art A243-1 (V)
+	  - Code des assurances - art. L125-5 (V)
+	  - Code des assurances - art. L191-7 (V)
+	  - Code des assurances - art. L194-1 (VD)
+	  - Code des assurances - art. L242-2 (V)
+	  - Code des assurances - art. L243-1-1 (V)
+	  - Code des assurances - art. R243-2 (V)
+	  - Code des assurances - art. R243-3 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-1 (V)
+	  - Code civil - art. 1792-6 (V)
+	  - Code des assurances - art. L241-1 (M)
+	  - Code des assurances - art. L241-2 (M)
+	  - Code des assurances - art. L321-1 (M)
+
+
+#### Chapitre III : Dispositions communes.
+
+###### Article L243-1
+
+Les obligations d'assurance ne s'appliquent pas à l'Etat lorsqu'il construit pour son compte. Des dérogations totales ou
+partielles peuvent être accordées par l'autorité administrative aux collectivités locales et à leurs groupements, ainsi
+qu'aux établissements publics, justifiant de moyens permettant la réparation rapide et complète des dommages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
+	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+	  - SPEC_APPLI: Code des assurances - art. L241-1 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*243-1 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-32 (V)
+	  - Code des assurances - art. R*241-1 (T)
+	  - Code des assurances - art. R*243-1 (M)
+
+
+###### Article L243-3
+
+Quiconque contrevient aux dispositions des articles L. 241-1 à L. 242-1 du présent code sera puni d'un emprisonnement de dix
+jours à six mois et d'une amende de 2.000 F à 500.000 F ou de l'une de ces deux peines seulement [*sanctions*].
+
+Les dispositions de l'alinéa précédent ne s'appliquent pas à la personne physique construisant un logement pour l'occuper
+elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants ou ceux de son conjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
+	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+	  - TXT_ASSOCIE: Code des assurances - art. L241-1 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. L241-2 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. L242-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cite**:
+
+	  - Code des assurances L241-1 à L242-1
 
 
 ## Livre III : Les entreprises.
