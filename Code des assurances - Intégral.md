@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-08-11
+Version Consolidée au 1985-08-15
 
 # Partie législative
 
@@ -129,8 +129,8 @@ périodique du contrat.
 
 ###### Article L111-5
 
-Les dispositions des titres Ier, II et III du présent livre, à l'exclusion des articles L. 124-4 et L. 132-29 à L. 132-31,
-sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+Les dispositions des titres Ier, II et III du présent livre, à l'exclusion des articles L. 124-4, L. 125-1 à L. 125-6, et L.
+132-29 à L. 132-31, sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
 
 Toutefois, dans l'hypothèse prévue par le dernier alinéa de l'article L. 132-22, le décret est remplacé par un arrêté du
 représentant du Gouvernement.
@@ -139,13 +139,13 @@ représentant du Gouvernement.
 
 	**Modifié par**:
 
-	  - Loi n°81-5 du 7 janvier 1981 - art. 26 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Décret n°85-863 1985-08-02 art. 1 II JORF 15 août 1985
 
 	**Cite**:
 
 	  - Code des assurances - art. L124-4 (V)
 	  - Code des assurances - art. L132-22 (M)
-	  - Code des assurances L124-4, L132-29 à L132-31, L132-22
+	  - Code des assurances L124-4, L125-1 à L125-6, L132-22
 
 
 #### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.
@@ -1634,6 +1634,287 @@ loi n° 57-1424 du 31 décembre 1957".
 	**Cité par**:
 
 	  - Code des assurances - art. L111-5 (Ab)
+
+
+#### Chapitre V : L'assurance des risques de catastrophes naturelles.
+
+###### Article L125-1
+
+Les contrats d'assurance, souscrits par toute personne physique ou morale autre que l'Etat et garantissant les dommages
+d'incendie ou tous autres dommages à des biens situés en France, ainsi que les dommages aux corps de véhicules terrestres à
+moteur, ouvrent droit à la garantie de l'assuré contre les effets des catastrophes naturelles sur les biens faisant l'objet
+de tels contrats.
+
+En outre, si l'assuré est couvert contre les pertes d'exploitation, cette garantie est étendue aux effets des catastrophes
+naturelles, dans les conditions prévues au contrat correspondant.
+
+Sont considérés comme les effets des catastrophes naturelles, au sens du présent chapitre, les dommages matériels directs
+ayant eu pour cause déterminante l'intensité anormale d'un agent naturel, lorsque les mesures habituelles à prendre pour
+prévenir ces dommages n'ont pu empêcher leur survenance ou n'ont pu être prises.
+
+L'état de catastrophe naturelle est constaté par arrêté interministériel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-863 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Cité par**:
+
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 66 (V)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 110 (V)
+	  - Décret n°2007-1689 du 29 novembre 2007 - art. 1
+	  - Arrêté du 1er août 2014 - art. Annexe (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 38 sexdecies J (V)
+	  - Code de l'environnement - art. L125-2 (VD)
+	  - Code de l'environnement - art. L561-3 (V)
+	  - Code de la construction et de l'habitation. - art. R321-18 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25-1 (V)
+	  - Code des assurances - art. A125-1 (V)
+	  - Code des assurances - art. A125-2 (M)
+	  - Code des assurances - art. A125-3 (M)
+	  - Code des assurances - art. A250-2 (V)
+	  - Code des assurances - art. Annexe I art. A125-1 (V)
+	  - Code des assurances - art. Annexe II art. A125-1 (V)
+	  - Code des assurances - art. L121-16 (V)
+	  - Code des assurances - art. L122-7 (V)
+	  - Code des assurances - art. L125-2 (V)
+	  - Code des assurances - art. L125-3 (V)
+	  - Code des assurances - art. L125-4 (V)
+	  - Code des assurances - art. L125-6 (V)
+	  - Code des assurances - art. L193-2 (V)
+	  - Code des assurances - art. L194-1 (VD)
+	  - Code des assurances - art. R*125-4 (Ab)
+	  - Code des assurances - art. R250-2 (V)
+	  - Code des assurances - art. R431-30 (V)
+	  - Code des assurances - art. R431-31 (V)
+	  - Code du tourisme. - art. L422-3 (M)
+	  - Code général des collectivités territoriales - art. L2333-46-1 (V)
+	  - Code général des impôts, CGI. - art. 237 quater (V)
+	  - Code rural et de la pêche maritime - art. L151-37 (V)
+
+
+###### Article L125-2
+
+Les entreprises d'assurance doivent insérer dans les contrats mentionnés à l'article L. 125-1 une clause étendant leur
+garantie aux dommages visés au troisième alinéa dudit article.
+
+La garantie ainsi instituée ne peut excepter aucun des biens mentionnés au contrat ni opérer d'autre abattement que ceux qui
+seront fixés dans les clauses types prévues à l'article L. 125-3.
+
+Elle est couverte par une prime ou cotisation additionnelle, individualisée dans l'avis d'échéance du contrat visé à
+l'article L. 125-1 et calculée à partir d'un taux unique défini par arrêté pour chaque catégorie de contrat. Ce taux est
+appliqué au montant de la prime ou cotisation principale ou au montant des capitaux assurés, selon la catégorie de contrat.
+
+Les indemnisations résultant de cette garantie doivent être attribuées dans un délai de trois mois à compter de la date de
+remise de l'état estimatif des biens endommagés ou des pertes subies, sans préjudice de dispositions contractuelles plus
+favorables, ou de la date de publication, lorsque celle-ci est postérieure, de la décision administrative constatant l'état
+de catastrophe naturelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-863 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Cité par**:
+
+	  - Loi n°95-101 du 2 février 1995 - art. 13 (Ab)
+	  - Loi - art. 75 (V)
+	  - Décret n°2003-350 du 14 avril 2003 - art. 1 (V)
+	  - Décret n°2003-350 du 14 avril 2003 - art. 2 (V)
+	  - Arrêté du 12 août 2008 - art. 1 (Ab)
+	  - Arrêté du 4 mars 2009 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1635 bis AD (M)
+	  - Code de l'environnement - art. L125-5 (VD)
+	  - Code de l'environnement - art. L561-1 (V)
+	  - Code de l'environnement - art. L561-3 (V)
+	  - Code des assurances - art. L125-6 (V)
+	  - Code des assurances - art. L194-1 (VD)
+	  - Code des assurances - art. R*125-4 (Ab)
+	  - Code des assurances - art. R*125-7 (Ab)
+	  - Code des assurances - art. R250-2 (V)
+	  - Code des assurances - art. R250-3 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L125-1 (M)
+	  - Code des assurances - art. L125-3 (V)
+
+
+###### Article L125-3
+
+Les contrats mentionnés à l'article L. 125-1 sont réputés, nonobstant toute disposition contraire, contenir une telle
+clause. 
+
+Des clauses types réputées écrites dans ces contrats sont déterminées par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-863 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Cité par**:
+
+	  - Loi n°97-277 du 25 mars 1997 - art. 11 (Ab)
+	  - Code des assurances - art. L125-2 (V)
+	  - Code des assurances - art. R*125-8 (Ab)
+	  - Code des assurances - art. R250-3 (V)
+	  - Code des assurances - art. R431-31 (V)
+	  - Code rural - art. L151-37 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L125-1 (V)
+
+
+###### Article L125-4
+
+Les dispositions du présent chapitre ne sont pas applicables aux départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-863 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Loi n°90-509 du 25 juin 1990 - art. 2 () JORF 27 juin 1990 en vigueur le 1er août 1990
+
+
+###### Article L125-5
+
+Sont exclus du champ d'application du présent chapitre les dommages causés aux récoltes non engrangées, aux cultures, aux
+sols et au cheptel vif hors bâtiment, dont l'indemnisation reste régie par les dispositions des articles L. 361-1 à L. 361-21
+du code rural.
+
+Sont exclus également du champ d'application du présent chapitre les dommages subis par les corps de véhicules aériens,
+maritimes, lacustres et fluviaux, ainsi que les marchandises transportées et les dommages mentionnés à l'article L. 242-1.
+
+Les contrats d'assurance garantissant les dommages mentionnés aux alinéas précédents ne sont pas soumis au versement de la
+prime ou cotisation additionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-863 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Cité par**:
+
+	  - Code des assurances - art. L111-5 (Ab)
+	  - Code des assurances - art. L193-2 (V)
+	  - Code des assurances - art. L194-1 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L242-1 (M)
+	  - Code rural L361-1 à L361-21
+
+
+###### Article L125-6
+
+Dans les terrains classés inconstructibles par un plan d'exposition aux risques naturels prévisibles, défini par le premier
+alinéa de l'article 5-I de la loi n° 82-600 du 13 juillet 1982, l'obligation prévue au premier alinéa de l'article L. 125-2
+ne s'impose pas aux entreprises d'assurance à l'égard des biens et activités mentionnés à l'article L. 125-1, à l'exception,
+toutefois, des biens et des activités existant antérieurement à la publication de ce plan.
+
+Cette obligation ne s'impose pas non plus aux entreprises d'assurance à l'égard des biens immobiliers construits et des
+activités exercées en violation des règles administratives en vigueur lors de leur mise en place et tendant à prévenir les
+dommages causés par une catastrophe naturelle.
+
+Les entreprises d'assurance ne peuvent toutefois se soustraire à cette obligation que lors de la conclusion initiale ou du
+renouvellement du contrat.
+
+A l'égard des biens et des activités situés dans les terrains couverts par un plan d'exposition, qui n'ont cependant pas été
+classés inconstructibles à ce titre, les entreprises d'assurance peuvent exceptionnellement déroger aux dispositions de
+l'article L. 125-2, deuxième alinéa, sur décision d'un bureau central de tarification, dont les conditions de constitution et
+les règles de fonctionnement sont fixées par décret en Conseil d'Etat.
+
+A l'égard des biens et activités couverts par un plan d'exposition et implantés antérieurement à sa publication, la même
+possibilité de dérogation pourra être ouverte aux entreprises d'assurance lorsque le propriétaire ou l'exploitant ne se sera
+pas conformé dans un délai de cinq ans aux prescriptions visées au premier alinéa de l'article 5-I de la loi n° 82-600 du 13
+juillet 1982.
+
+Le bureau central de tarification fixe des abattements spéciaux dont les montants maxima sont déterminés par arrêté, par
+catégorie de contrat.
+
+Lorsqu'un assuré s'est vu refuser par trois entreprises d'assurance l'application des dispositions du présent chapitre, il
+peut saisir le bureau central de tarification, qui impose à l'une des entreprises d'assurance concernées, que choisit
+l'assuré, de le garantir contre les effets des catastrophes naturelles.
+
+Toute entreprise d'assurance ayant maintenu son refus de garantir un assuré dans les conditions fixées par le bureau central
+de tarification est considérée comme ne fonctionnant plus conformément à la réglementation en vigueur et encourt le retrait
+de l'agrément administratif prévu à l'article L. 321-1.
+
+Est nulle toute clause des traités de réassurance tendant à exclure le risque de catastrophe naturelle de la garantie de
+réassurance en raison des conditions d'assurance fixées par le bureau central de tarification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°82-600 du 13 juillet 1982 - art. 5, v. init.
+	  - Code des assurances - art. L125-1 (M)
+	  - Code des assurances - art. L125-2 (M)
+	  - Code des assurances - art. L321-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°85-863 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Cité par**:
+
+	  - Décret n°2015-518 du 11 mai 2015 (V)
+	  - Code des assurances - art. A125-3 (T)
+	  - Code des assurances - art. L194-1 (VD)
+	  - Code des assurances - art. R*125-1 (Ab)
+	  - Code des assurances - art. R*125-4 (Ab)
+	  - Code des assurances - art. R*125-7 (Ab)
+	  - Code des assurances - art. R250-1 (V)
+	  - Code des assurances - art. R250-2 (V)
+	  - Code des assurances - art. R250-3 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*125-1 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-10 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-11 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-2 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-3 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-4 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-5 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-6 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-7 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-8 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-9 (Ab)
 
 
 ### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation.
@@ -9175,6 +9456,38 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	  - Code des assurances - art. L328-16 (M)
 
 
+### Titre III : Régime financier
+
+#### Chapitre Ier : Les engagements réglementés.
+
+##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.
+
+###### Article L331-1
+
+Les provisions mathématiques constituées par les entreprises d'assurance-vie et de capitalisation sont calculées en tenant
+compte, dans la détermination de l'engagement de l'assuré ou du souscripteur, de la partie des primes devant être versée par
+l'intéressé et représentative des frais d'acquisition du contrat, lorsque ces frais ont été portés en charge déductible par
+l'entreprise avant la fin de l'exercice à la clôture duquel la provision est constituée.
+
+Un décret fixe, en tant que de besoin, les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-863 1985-08-02 art. 3 JORF 15 août 1985
+
+	**Cité par**:
+
+	  - Code des assurances - art. L132-21-1 (V)
+	  - Code des assurances - art. L331-2 (Ab)
+	  - Code des assurances - art. R332-35 (VD)
+
+
 ### Titre IV : Dispositions comptables et statistiques
 
 #### Chapitre Ier : Principes généraux.
@@ -9910,46 +10223,48 @@ Un décret en Conseil d'Etat fixe les conditions d'adaptation de la présente se
 
 #### Chapitre Ier : La caisse centrale de réassurance
 
-##### Section I : Règles de constitution et d'administration
-
-##### Paragraphe I : Constitution.
+##### Section I : Dispositions générales.
 
 ###### Article L431-1
 
 La caisse centrale de réassurance est un établissement public, de caractère commercial, doté de l'autonomie financière et
-placé sous l'autorité du ministre de l'économie et des finances.
+placé sous l'autorité du ministre chargé de l'économie et des finances.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 24
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 11 (V) JORF 17 juillet 1992
+
 
 ###### Article L431-2
 
-La caisse centrale de réassurance peut, dans les conditions fixées par le décret en Conseil d'Etat, pris après avis du
-conseil national des assurances et du conseil d'administration de la caisse centrale de réassurance, conclure avec toutes les
+La caisse centrale de réassurance peut, dans les conditions fixées par décret en conseil d'Etat, pris après avis du Conseil
+national des assurances et du conseil d'administration de la caisse centrale de réassurance, conclure avec toutes les
 entreprises françaises et étrangères d'assurance et de réassurance des traités de réassurance de toute nature.
 
-Elle est autorisée à passer, dans des conditions fixées par ce décret en Conseil d'Etat, des traités de rétrocession sur le
-territoire de la République française ainsi qu'à l'étranger.
+Elle est autorisée à passer, dans les conditions fixées par ce décret, des traités de rétrocession sur le territoire de la
+République française ainsi qu'à l'étranger.
 
 Elle est, en outre, autorisée à compromettre et à transiger par dérogation à l'article 2060 du code civil.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 28
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
 
 	**Cite**:
 
@@ -9966,17 +10281,8 @@ Elle est, en outre, autorisée à compromettre et à transiger par dérogation �
 
 ###### Article L431-3
 
-La caisse centrale de réassurance, agissant avec la garantie de l'Etat, est habilitée à pratiquer les opérations d'assurance
-ou de réassurance des risques résultant de faits à caractère exceptionnel, tels qu'états de guerre étrangère ou civile,
-atteintes à l'ordre public, troubles populaires, conflits du travail, lorsque ces risques naissent de l'utilisation de moyens
-de transports de toute nature, ou se rapportent à des biens en cours de transport ou stockés, et à conclure les traités de
-réassurance mentionnés à l'article L. 431-12.
-
-La caisse centrale de réassurance est habilitée à pratiquer les opérations de réassurance des risques résultant des
-catastrophes naturelles, avec la garantie de l'Etat, dans des conditions fixées par décret en Conseil d'Etat.
-
-La caisse centrale de réassurance est également habilitée à pratiquer, avec la garantie de l'Etat, les opérations de
-réassurance des risques résultant d'attentats ou d'actes de terrorisme.
+Un décret en Conseil d'Etat pris après avis du conseil national des assurances fixe les conditions générales de
+fonctionnement de la caisse centrale de réassurance.
 
 **Liens relatifs à cet article**
 
@@ -9986,11 +10292,7 @@ réassurance des risques résultant d'attentats ou d'actes de terrorisme.
 
 	**Modifié par**:
 
-	  - Loi n°82-1152 du 30 décembre 1982 - art. 36 () JORF 31 décembre 1982
-
-	**Cite**:
-
-	  - Code des assurances - art. L431-12 (M)
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
 
 	**Cité par**:
 
@@ -10010,26 +10312,27 @@ réassurance des risques résultant d'attentats ou d'actes de terrorisme.
 	  - TXT_SOURCE: Code des assurances - art. R*431-38 (M)
 
 
+##### Section II : Opérations effectuées avec la garantie de l'Etat
+
+##### Paragraphe 2 : Risques exceptionnels et nucléaires.
+
 ###### Article L431-4
 
-La caisse centrale de réassurance, agissant avec la garantie de l'Etat, est chargée d'octroyer aux exploitants de navires et
-d'installations nucléaires les couvertures pour lesquelles des interventions de l'Etat sont prévues par les lois n° 65-956 du
-12 novembre 1965 et n° 68-943 du 30 octobre 1968.
+La caisse centrale de réassurance, agissant avec la garantie de l'Etat, est habilitée à pratiquer les opérations d'assurance
+ou de réassurance des risques résultant de faits à caractère exceptionnel, tels qu'états de guerre étrangère ou civile,
+atteintes à l'ordre public, troubles populaires, conflits du travail, lorsque ces risques naissent de l'utilisation de moyens
+de transport de toute nature, ou se rapportent à des biens en cours de transport ou stockés, et à conclure des traités de
+réassurance mentionnés à l'article L. 431-8.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°65-956 1965-11-12
-	  - Loi n°68-943 1968-10-30
-
-	**Anciens textes**:
-
-	  - Loi n°72-1147 1972-12-23 art. 18 III
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
 
 	**Cité par**:
 
@@ -10048,31 +10351,36 @@ d'installations nucléaires les couvertures pour lesquelles des interventions de
 	  - Code des assurances - art. R431-27 (V)
 	  - Code des assurances - art. R431-38 (M)
 
+	**Cite**:
+
+	  - Code des assurances - art. L431-8 (M)
+
 
 ###### Article L431-5
 
-Un décret en Conseil d'Etat fixe les modalités d'application des articles L. 431-3 et L. 431-4, notamment les conditions dans
-lesquelles sont établis les traités ou contrats et fixés les tarifs relatifs aux opérations mentionnées auxdits articles.
+La caisse centrale de réassurance, agissant avec la garantie de l'Etat, est chargée d'octroyer aux exploitants de navires et
+d'installations nucléaires les couvertures pour lesquelles des interventions de l'Etat sont prévues par les lois n° 65-956 du
+12 novembre 1965 et n° 68-943 du 30 octobre 1968.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°72-1147 1972-12-23 art. 18 V
+	  - Loi n°65-956 du 12 novembre 1965 (VT)
+	  - Loi n°68-943 du 30 octobre 1968 (V)
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+
 	**Cité par**:
 
 	  - Loi - art. 80 (M)
 	  - Code des assurances - art. R*431-24 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L431-3 (M)
-	  - Code des assurances - art. L431-4 (M)
 
 	**Liens**:
 
@@ -10090,28 +10398,26 @@ lesquelles sont établis les traités ou contrats et fixés les tarifs relatifs 
 	  - TXT_SOURCE: Code des assurances - art. R431-36 (M)
 	  - TXT_SOURCE: Code des assurances - art. R431-37 (V)
 	  - TXT_SOURCE: Code des assurances - art. R431-38 (M)
-	  - TXT_ASSOCIE: Code des assurances R431-33 à R431-46
 
 
 ###### Article L431-6
 
-Un compte distinct ouvert dans les écritures de la caisse retrace l'ensemble des opérations d'assurance et de réassurance
-mentionnées aux articles L. 431-3 et L. 431-4.
+Un décret en Conseil d'Etat fixe les modalités d'application des articles L. 431-4 et L. 431-5, notamment les conditions dans
+lesquelles sont établis les traités ou contrats et fixés les tarifs relatifs aux opérations mentionnées auxdits articles.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1147 1972-12-23 art. 18 IV
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+
 	**Cite**:
 
-	  - Code des assurances - art. L431-3 (M)
-	  - Code des assurances - art. L431-4 (M)
+	  - Code des assurances - art. L431-4 (V)
 
 	**Cité par**:
 
@@ -10119,22 +10425,24 @@ mentionnées aux articles L. 431-3 et L. 431-4.
 	  - Code des assurances - art. R*431-44 (M)
 
 
-##### Paragraphe II : Administration.
-
 ###### Article L431-7
 
-Un décret en Conseil d'Etat pris après avis du conseil national des assurances fixe les conditions générales de
-fonctionnement de la caisse centrale de réassurance.
+Un compte distinct ouvert dans les écritures de la caisse retrace l'ensemble des opérations d'assurance et de réassurance
+mentionnées aux articles L. 431-4 et L. 431-5.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 27
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-4 (V)
 
 	**Liens**:
 
@@ -10145,7 +10453,6 @@ fonctionnement de la caisse centrale de réassurance.
 	  - TXT_SOURCE: Code des assurances - art. R*431-14 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*431-8 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R*431-9 (Ab)
-	  - TXT_ASSOCIE: Code des assurances R431-8 à R431-14
 
 	**Cité par**:
 
@@ -10156,36 +10463,94 @@ fonctionnement de la caisse centrale de réassurance.
 
 ###### Article L431-8
 
-La gestion de la caisse centrale de réassurance est soumise au contrôle de la commission de vérification des comptes des
-entreprises publiques, instituée par l'article 56 de la loi n° 48-24 du 6 janvier 1948, dans les conditions fixées par décret
-en Conseil d'Etat.
+Les entreprises françaises et étrangères habilitées à pratiquer sur le territoire de la République française des opérations
+d'assurance contre les risques maritimes de guerre des corps de navires et des marchandises ou facultés sont tenues de
+conclure avec la caisse centrale de réassurance des traités de réassurance conformes aux contrats types approuvés par
+l'autorité administrative.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°48-24 du 6 janvier 1948 - art. 56, v. init.
-
-	**Anciens textes**:
-
-	  - Loi n°48-24 du 6 janvier 1948 - art. 60, v. init.
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°49-454 1949-03-30
-	  - TXT_ASSOCIE: Décret n°65-219 1965-03-22
-	  - TXT_ASSOCIE: Décret n°75-1009 1975-10-27
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Abrogé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
 	  - Code des assurances - art. L431-4 (M)
 
 
+##### Paragraphe 3 : Risques de catastrophes naturelles.
+
 ###### Article L431-9
+
+La caisse centrale de réassurance est habilitée à pratiquer des opérations de réassurance des risques résultant de
+catastrophes naturelles, avec la garantie de l'Etat, dans des conditions fixées par décret en Conseil d'Etat.
+
+Les dispositions du présent article ne sont pas applicables aux départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+
+	**Cité par**:
+
+	  - Loi - art. 80 (M)
+	  - Code des assurances - art. R431-16-2 (V)
+	  - Code des assurances - art. R431-16-3 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*431-18 (Ab)
+
+
+##### Paragraphe 4 : Risques d'attentats.
+
+###### Article L431-10
+
+La caisse centrale de réassurance est habilitée à pratiquer, avec la garantie de l'Etat, les opérations de réassurance des
+risques résultant d'attentats ou d'actes de terrorisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+
+	**Cité par**:
+
+	  - Loi - art. 80 (M)
+	  - Code des assurances - art. A431-5 (V)
+	  - Code des assurances - art. A431-6 (V)
+	  - Code des assurances - art. R431-16-3 (V)
+
+
+##### Section III : Opérations de gestion
+
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.
+
+###### Article L431-11
 
 La gestion comptable et financière du fonds national de garantie des calamités agricoles mentionné à l'article L. 442-1 est
 assurée par la caisse centrale de réassurance dans un compte distinct de ceux qui retracent les autres opérations pratiquées
@@ -10196,77 +10561,6 @@ fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°64-706 1964-07-10 art. 3 II
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Loi - art. 80 (M)
-	  - Code des assurances - art. R431-16-2 (V)
-	  - Code des assurances - art. R431-16-3 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L442-1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*431-18 (Ab)
-	  - TXT_ASSOCIE: Code des assurances R431-18
-
-
-###### Article L431-10
-
-La gestion comptable et financière du fonds de garantie des calamités agricoles dans les départements d'outre-mer mentionné à
-l'article L. 442-2 est assurée par la caisse centrale de réassurance dans un compte distinct de ceux qui retracent les autres
-opérations pratiquées par cet établissement.
-
-Les frais exposés par la caisse centrale de réassurance pour la gestion du fonds lui sont remboursés dans des conditions
-fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°74-1170 1974-12-31 art. 3 II
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Loi - art. 80 (M)
-	  - Code des assurances - art. A431-5 (V)
-	  - Code des assurances - art. A431-6 (V)
-	  - Code des assurances - art. R431-16-3 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L442-2 (V)
-
-
-###### Article L431-11
-
-La caisse centrale de réassurance assure la gestion comptable et financière du fonds constitué par l'article 2 de la loi n°
-74-1118 du 27 décembre 1974 relative à la revalorisation de certaines rentes allouées en réparation du préjudice causé par un
-véhicule terrestre à moteur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°74-1118 du 27 décembre 1974 - art. 2 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°74-1118 du 27 décembre 1974 - art. 2 (M)
-
 	**Liens**:
 
 	  - TXT_ASSOCIE: Loi n°74-1118 du 27 décembre 1974 - art. 2 (V)
@@ -10275,6 +10569,10 @@ véhicule terrestre à moteur.
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
 
 	**Cité par**:
 
@@ -10286,30 +10584,125 @@ véhicule terrestre à moteur.
 	  - Code rural - art. L362-5 (M)
 	  - Code rural et de la pêche maritime - art. L361-1 (V)
 
+	**Cite**:
 
-##### Section III : Assurance et réassurance des risques exceptionnels et nucléaires.
+	  - Code des assurances - art. L442-1 (V)
+
+
+##### Paragraphe 2 : Fonds de garantie des calamités agricoles dans les départements d'outre-mer.
 
 ###### Article L431-12
 
-Les entreprises françaises et étrangères habilitées à pratiquer sur le territoire de la République française des opérations
-d'assurance contre les risques maritimes de guerre des corps de navires et des marchandises ou facultés, sont tenues de
-conclure avec la caisse centrale de réassurance des traités de réassurance conformes aux contrats types approuvés par
-l'autorité administrative.
+La gestion comptable et financière du fonds de garantie des calamités agricoles dans les départements d'outre-mer mentionné à
+l'article L. 442-2 est assurée par la caisse centrale de réassurance dans un compte distinct de ceux qui retracent les autres
+opérations pratiquées par cet établissement.
+
+Les frais exposés par la caisse centrale de réassurance pour la gestion du fonds lui sont remboursés dans des conditions
+fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-123 1945-01-23 art. 8
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+
 	**Cité par**:
 
 	  - Code des assurances - art. L431-3 (M)
 	  - Code des assurances - art. R*431-35 (M)
+
+
+##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.
+
+###### Article L431-13
+
+La caisse centrale de réassurance assure la gestion comptable et financière du fonds institué par l'article 2 de la loi n°
+74-1118 du 27 décembre 1974 relative à la revalorisation de certaines rentes allouées en réparation du préjudice causé par un
+véhicule terrestre à moteur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°74-1118 du 27 décembre 1974 - art. 2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Loi n°96-314 du 12 avril 1996 - art. 85 () JORF 13 avril 1996
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*431-39 (Ab)
+
+
+##### Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction.
+
+###### Article L431-14
+
+Il est institué un fonds de compensation des risques de l'assurance de la construction chargé de contribuer, dans le cadre de
+conventions qui pourront être conclues à cet effet avec les entreprises d'assurance concernées, à l'indemnisation de
+sinistres affectant des bâtiments dont les chantiers ont été ouverts avant une date fixée par décret en Conseil d'Etat, à
+partir de laquelle les primes correspondantes ne seront plus perçues.
+
+Le fonds pourra conclure des conventions avec les entreprises d'assurance afin de compenser les incidences financières de
+l'évolution des coûts de construction sur leurs garanties d'assurance décennale.
+
+Le fonds contribue au financement d'actions de prévention des désordres et de promotion de la qualité dans la construction.
+
+La gestion du fonds est confiée à la caisse centrale de réassurance.
+
+Le fonds est alimenté par une contribution à la charge des entreprises d'assurance. Son assiette est constituée par les
+primes ou cotisations d'assurance correspondant aux garanties d'assurance obligatoire des dommages à la construction, ainsi
+qu'aux garanties d'assurance décennale souscrites par toute personne, qu'elle soit ou non liée au maître de l'ouvrage par un
+contrat de louage d'ouvrage, pour couvrir sa responsabilité dans des travaux de bâtiment.
+
+Le taux de la contribution est de 5 % en ce qui concerne les primes ou cotisations d'assurance des entreprises artisanales et
+de 15 % pour les autres primes ou cotisations d'assurance.
+
+Cette contribution est recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur
+les conventions d'assurance prévue aux articles 991 et suivants du code général des impôts.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 991
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+
+	**Cité par**:
+
+	  - Loi n°88-1193 du 29 décembre 1988 - art. 38 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 3 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1635 bis AB (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1635 bis AC (P)
+	  - Code des assurances - art. L461-1 (V)
+	  - Code des assurances - art. R332-3-4 (V)
+	  - Code des assurances - art. R431-48 (V)
+	  - Code des assurances - art. R431-49 (V)
+	  - Code des assurances - art. R431-52 (V)
+	  - Code des assurances - art. R431-53 (V)
+	  - Code des assurances - art. R431-59 (V)
 
 
 #### Chapitre II : La Compagnie française d'assurance pour le commerce extérieur "COFACE"
@@ -11985,6 +12378,383 @@ convention contraire.
 	**Anciens textes**:
 
 	  - Loi n°1930-07-13 art. 51
+
+
+#### Chapitre V : L'assurance des risques de catastrophes naturelles.
+
+###### Article R125-1
+
+Le Bureau central de tarification institué par l'article L. 125-6 comprend un président et douze membres qui sont nommés par
+arrêté du ministre chargé de l'économie et des finances.
+
+Le président est choisi, sur proposition du Conseil national des assurances, parmi les conseillers d'Etat, les conseillers à
+la Cour de cassation, les conseillers-maîtres à la Cour des comptes et les professeurs des disciplines juridiques des
+universités.
+
+Six membres représentent les assurés. Ils sont nommés sur proposition des organismes mentionnés ci-après :
+
+Un par l'assemblée permanente des chambres de commerce et d'industrie ;
+
+Un par l'assemblée permanente des chambres de métiers ;
+
+Un par l'assemblée permanente des chambres d'agriculture ;
+
+Deux par le collège des consommateurs du Comité national de la consommation ;
+
+Un par l'union des associations familiales.
+
+Cinq membres représentent les entreprises d'assurance opérant en France. Ils sont nommés sur proposition des organisations
+professionnelles représentatives à raison de :
+
+Trois par la fédération française des sociétés d'assurances ;
+
+Un par le groupement des sociétés d'assurances à caractère mutuel ;
+
+Un par la caisse centrale des mutuelles agricoles.
+
+Des suppléants, en nombre égal, désignés dans les mêmes conditions, sont appelés à siéger toutes les fois que le titulaire
+est empêché ou intéressé dans l'affaire qui doit être examinée.
+
+Le président du conseil d'administration, directeur général de la caisse centrale de réassurance, ou son représentant, est
+également membre de droit du bureau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L125-6 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L125-6 (M)
+
+
+###### Article R125-2
+
+Les membres du Bureau central de tarification sont nommés pour une période de trois ans, renouvelable.
+
+Un commissaire du Gouvernement est placé auprès du Bureau central de tarification. Le commissaire du Gouvernement et le
+commissaire du Gouvernement adjoint, qui le supplée éventuellement, sont nommés par le ministre chargé de l'économie et des
+finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L125-6 (M)
+
+
+###### Article R125-3
+
+Les décisions du Bureau central de tarification sont prises à la majorité des membres présents. En cas de partage, la voix du
+président est prépondérante.
+
+Le Bureau central de tarification ne peut délibérer que si six au moins de ses membres sont présents.
+
+L'absence simultanée d'un membre titulaire et de son suppléant au cours de deux séances consécutives du bureau ou de trois
+séances pendant une période de douze mois est considérée, sauf motif légitime apprécié par le ministre chargé de l'économie
+et des finances et après que les intéressés auront été invités à présenter leurs explications, comme une démission de ce
+membre et de ce suppléant, dont les postes devront être à nouveau pourvus dans les conditions prévues à l'article R. 125-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L125-6 (M)
+
+	**Cite**:
+
+	  - Code des assurances R125-1
+
+
+###### Article R125-4
+
+Dans le cas prévu au septième alinéa de l'article L. 125-6, le Bureau central de tarification peut être saisi par toute
+personne physique ou morale à qui trois entreprises d'assurance ont refusé l'application des articles L. 125-1 et L. 125-2, à
+l'occasion soit de la souscription d'un contrat nouveau, soit de la modification ou du renouvellement d'un contrat existant.
+
+Pour donner lieu à l'intervention du Bureau central de tarification, la proposition d'assurance doit être adressée par lettre
+recommandée avec demande d'avis de réception au siège social de l'entreprise française ou, s'il s'agit d'une entreprise dont
+le siège social n'est pas établi sur le territoire français, à la succursale mentionnée aux articles R. 321-7 et R. 321-8.
+
+Lorsqu'il s'agit de la souscription d'un contrat nouveau, le silence de l'assureur pendant plus de quinze jours après
+réception de la proposition d'assurance est considéré comme un refus implicite d'assurance portant sur les effets des
+catastrophes naturelles.
+
+Lorsqu'il s'agit de la modification ou du renouvellement d'un contrat existant, il est fait application de l'article L.
+112-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L112-2 (M)
+	  - Code des assurances - art. L125-1 (M)
+	  - Code des assurances - art. L125-2 (M)
+	  - Code des assurances - art. L125-6 (M)
+	  - Code des assurances L112-2, L125-1, L125-2, L125-6, R321-7, R321-8
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L125-6 (M)
+
+
+###### Article R125-5
+
+Le Bureau central de tarification est saisi par lettre recommandée avec demande d'avis de réception. Ne sont recevables que
+les demandes formulées pendant la période de quinze jours suivant le refus du dernier assureur sollicité.
+
+Lorsqu'un assuré a fait usage du droit de résiliation prévu au deuxième alinéa de l'article R. 113-10, il ne peut, pendant le
+délai d'un an, saisir le Bureau central de tarification du refus opposé, par l'entreprise d'assurance qui le garantissait, à
+une proposition formulée en application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L125-6 (M)
+
+	**Cite**:
+
+	  - Code des assurances R113-10
+
+
+###### Article R125-6
+
+L'assuré choisit celui des trois assureurs qui sera tenu de le garantir contre les risques des effets des catastrophes
+naturelles.
+
+Le Bureau central de tarification notifie à l'assureur ainsi désigné la décision par laquelle il lui impose de garantir les
+risques des effets des catastrophes naturelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L125-6 (M)
+
+
+###### Article R125-7
+
+Dans les cas prévus aux quatrième et cinquième alinéas de l'article L. 125-6, l'entreprise d'assurance ne peut saisir le
+Bureau central de tarification aux fins d'apporter au contrat d'assurance une dérogation aux dispositions du second alinéa de
+l'article L. 125-2 qu'après avoir notifié cette proposition de dérogation à l'assuré par lettre recommandée avec avis de
+réception.
+
+La saisine du bureau doit intervenir dans un délai de vingt et un jours à compter de la date de notification de la
+proposition de dérogation à l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L125-2 (M)
+	  - Code des assurances - art. L125-6 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L125-6 (M)
+
+
+###### Article R125-8
+
+La dérogation peut porter soit sur l'exclusion d'un bien mentionné au contrat, soit sur le montant de la franchise qui en cas
+de sinistre demeure à la charge de l'assuré, soit sur l'un et l'autre de ces éléments du contrat. Le montant de la franchise
+objet de la dérogation peut être supérieur à celui mentionné dans les clauses types prévues à l'article L. 125-3 sans pouvoir
+excéder une limite fixée pour chaque catégorie de contrats par arrêté du ministre chargé de l'économie et des finances.
+
+Pour l'application de l'alinéa précédent, les contrats sont rangés en quatre catégories énumérées ci-après :
+
+Dommages aux corps de véhicules terrestres à moteur ;
+
+Dommages aux biens à usage non professionnel ;
+
+Dommages aux biens à usage professionnel ;
+
+Pertes d'exploitation.
+
+Le Bureau central de tarification peut accorder la dérogation sollicitée s'il estime, compte tenu des circonstances de
+l'espèce, que les risques concernés présentent une gravité exceptionnelle.
+
+La décision du Bureau central de tarification est notifiée à l'assureur et à l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L125-3 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L125-6 (M)
+
+
+###### Article R125-9
+
+La personne ou l'entreprise d'assurance qui sollicite l'intervention du bureau central de tarification ainsi que les
+assureurs concernés sont tenus de fournir au bureau tous éléments d'information nécessaires à l'instruction de la demande.
+
+Un arrêté du ministre chargé de l'économie et des finances détermine les modalités d'application de l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L125-6 (M)
+
+
+###### Article R125-10
+
+Le commissaire du Gouvernement possède un droit d'investigation permanente auprès du bureau central de tarification. Il
+assiste à toutes ses réunions et peut, à la suite d'une décision du bureau qui lui paraît critiquable, demander au bureau,
+soit immédiatement, soit dans les cinq jours qui suivent la date de la décision, un nouvel examen de l'affaire dans le délai
+qu'il fixera.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L125-6 (M)
+
+
+###### Article R125-11
+
+Le bureau central de tarification établit son règlement intérieur qui est soumis, avant application, à l'approbation du
+ministre chargé de l'économie et des finances ; son secrétariat est assuré par la caisse centrale de réassurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 1 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L125-6 (M)
 
 
 ### Titre III : Règles relatives aux assurances de personnes
@@ -15823,7 +16593,7 @@ suspension de la garantie, soit après l'expiration de la durée de validation d
 
 ### Titre IV : L'assurance des travaux de bâtiment.
 
-###### Article R*241-1
+###### Article R243-1
 
 Une décision conjointe du ministre de l'économie et du ministre de tutelle peut accorder, après avis du ministre chargé de la
 construction, une dérogation à l'obligation d'assurance de dommages obligatoire, aux collectivités locales et aux
@@ -15834,54 +16604,49 @@ dérogations limitées à des ouvrages déterminés.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
-	**Modifié par**:
+	**Cité par**:
 
-	  - Décret n°81-617 1981-05-18 art. 1 JORF 21 mai 1981
+	  - Code des assurances - art. Annexe I art A243-1 (V)
+	  - Code des assurances - art. R243-3 (V)
 
 	**Cite**:
 
 	  - Code des assurances - art. L243-1 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances R243-1
+	  - Code des assurances R241-1 (2ème version)
 
 
-###### Article R241-2
+###### Article R243-2
 
-Les justifications prévues à l'article L. 243-2, doivent être apportées, lors de la déclaration d'ouverture du chantier, à
-l'autorité compétente pour recevoir cette déclaration.
+Les justifications prévues à l'article L. 243-2 doivent être apportées, lors de la déclaration d'ouverture du chantier, à
+l'autorité compétente pour recevoir cette déclaration. 
 
 En outre, pendant l'exécution des travaux, le maître de l'ouvrage peut demander à tout intervenant à l'acte de construire de
 justifier qu'il satisfait aux obligations prévues par les articles L. 241-1 et L. 241-2.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
 	**Cite**:
 
-	  - Code des assurances - art. L241-1 (M)
-	  - Code des assurances - art. L241-2 (M)
-	  - Code des assurances - art. L243-2 (M)
+	  - Code des assurances - art. L241-1 (V)
+	  - Code des assurances - art. L243-2 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. R*243-2 (V)
-	  - Code des assurances R243-2
+	  - Code des assurances - art. R241-2 (T)
 
 
-###### Article R241-3
+###### Article R243-3
 
 Le bureau central de tarification, lorsqu'il est compétent pour les contrats d'assurance de responsabilité, comprend six
 représentants des entreprises d'assurance françaises et étrangères agréées et six représentants des assujettis à l'obligation
@@ -15891,21 +16656,28 @@ représentatives.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code des assurances - art. R*243-3 (Ab)
-	  - Code des assurances R243-3
+	  - Code des assurances - art. A243-3 (VD)
+	  - Code des assurances - art. A243-4 (VD)
+	  - Code des assurances - art. Annexe I art A243-1 (V)
+	  - Code des assurances - art. Annexe II art A243-1 (V)
+	  - Code des assurances - art. R243-2 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. R241-3 (T)
 
 
-###### Article R241-4
+###### Article R243-4
 
 Le bureau central de tarification, lorsqu'il est compétent pour les contrats d'assurance de dommages, comprend quatre
 représentants des entreprises d'assurance françaises et étrangères agréées et quatre représentants des assujettis à
@@ -15914,42 +16686,40 @@ industriels et les maîtres d'ouvrage individuels, désignés sur proposition de
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. R*243-4 (Ab)
-	  - Code des assurances R243-4
+	  - Code des assurances - art. R241-4 (T)
 
 
-###### Article R241-5
+###### Article R243-5
 
 Le bureau central de tarification est présidé par un membre du Conseil d'Etat ayant au moins le grade de conseiller ou un
 magistrat de la Cour des comptes ayant au moins le grade de conseiller maître.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. R*243-5 (Ab)
-	  - Code des assurances R243-5
+	  - Code des assurances - art. R241-5 (T)
 
 
-###### Article R241-6
+###### Article R243-6
 
 Le président et les membres du bureau central de tarification sont nommés pour une période de trois ans renouvelable, par
 arrêté conjoint du ministre de l'économie et du ministre chargé de la construction.
@@ -15959,42 +16729,40 @@ titulaire est empêché ou intéressé dans l'affaire qui doit être examinée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. R*243-6 (Ab)
-	  - Code des assurances R243-6
+	  - Code des assurances - art. R241-6 (T)
 
 
-###### Article R241-7
+###### Article R243-7
 
 Les décisions du bureau central de tarification sont prises à la majorité des membres présents. En cas de partage, la voix du
 président est prépondérante.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. R*243-7 (Ab)
-	  - Code des assurances R243-7
+	  - Code des assurances - art. R241-7 (T)
 
 
-###### Article R241-8
+###### Article R243-8
 
 Le bureau central de tarification peut être saisi par toute personne assujettie à l'obligation d'assurance, lorsqu'un
 assureur oppose un refus à une proposition tendant soit à la souscription d'un contrat nouveau, soit à la modification d'un
@@ -16010,25 +16778,20 @@ limites de l'obligation d'assurance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
 	**Cite**:
 
 	  - Code des assurances - art. L112-2 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. R*243-8 (Ab)
-	  - Code des assurances R243-8
+	  - Code des assurances - art. R241-8 (T)
 
 
-###### Article R241-9
+###### Article R243-9
 
 Pour pouvoir donner lieu à l'intervention du bureau central de tarification, la proposition d'assurance doit être adressée,
 par lettre recommandée avec demande d'avis de réception, au siège social ou au siège spécial pour la France de l'entreprise
@@ -16042,30 +16805,20 @@ pour l'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TXT_SOURCE: Code des assurances - art. A241-3 (T)
-
-	**Cité par**:
-
-	  - Code des assurances - art. A241-3 (T)
-	  - Code des assurances - art. A243-2 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. R*243-9 (Ab)
-	  - Code des assurances R243-9
+	  - Code des assurances - art. R241-9 (T)
 
 
-###### Article R241-10
+###### Article R243-10
 
 L'assureur sollicité et éventuellement le ou les assureurs qui ont précédemment couvert le même risque, ainsi que la personne
 assujettie à l'obligation d'assurance, sont tenus de fournir au bureau central de tarification les éléments d'information
@@ -16073,21 +16826,20 @@ relatifs à l'affaire dont celui-ci est saisi et qui lui sont nécessaires pour 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. R*243-10 (Ab)
-	  - Code des assurances R243-10
+	  - Code des assurances - art. R241-10 (T)
 
 
-###### Article R241-11
+###### Article R243-11
 
 Le bureau central de tarification décide d'abord si le risque faisant l'objet de la proposition refusée constitue ou non, en
 raison de circonstances qui lui sont propres, un risque anormalement grave.
@@ -16097,50 +16849,50 @@ prime qui résulte de l'application des critères de tarification à son tarif h
 
 Si le risque proposé est anormalement grave, le bureau fixe les conditions dans lesquelles il devra être garanti par
 l'assureur auquel il a été proposé. A cet effet, il fixe la prime et, s'il y a lieu, le montant de la franchise qui restera à
-la charge de l'assuré.    Au cas où la prime ne peut être calculée à partir des critères de tarification prévus par le tarif
-de la société, le bureau en fixe le montant en tenant compte de tous les éléments d'appréciation.
+la charge de l'assuré.
+
+Au cas où la prime ne peut être calculée à partir des critères de tarification prévus par le tarif de la société, le bureau
+en fixe le montant en tenant compte de tous les éléments d'appréciation.
 
 Si le risque, en raison de son importance ou de ses caractéristiques particulières, ne peut être couvert intégralement par
 l'assureur, ce dernier peut n'être tenu d'en garantir qu'une partie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. R*243-11 (Ab)
-	  - Code des assurances R243-11
+	  - Code des assurances - art. R241-11 (T)
 
 
-###### Article R241-12
+###### Article R243-12
 
 La décision prise par le bureau central de tarification est, dans un délai de dix jours, notifiée au demandeur et à
 l'assureur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. R*243-12 (Ab)
-	  - Code des assurances R243-12
+	  - Code des assurances - art. R241-12 (T)
 
 
-###### Article R241-13
+###### Article R243-13
 
 Le bureau central de tarification est assisté d'un commissaire du Gouvernement, suppléé éventuellement par un commissaire du
 Gouvernement adjoint. Le commissaire du Gouvernement et son suppléant sont nommés par le ministre de l'économie.
@@ -16152,39 +16904,37 @@ nouvel examen de l'affaire dans le délai qu'il fixera.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. R*243-13 (Ab)
-	  - Code des assurances R243-13
+	  - Code des assurances - art. R241-13 (T)
 
 
-###### Article R241-14
+###### Article R243-14
 
 Le bureau central de tarification établit son règlement intérieur qui est soumis, avant son application, à l'approbation du
 ministre de l'économie. Son secrétariat est assuré par le conseil national des assurances.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Transféré par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°78-1093 1978-11-17 art. 1 JORF 21 novembre 1978
+	  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. R*243-14 (Ab)
-	  - Code des assurances R243-14
+	  - Code des assurances - art. R241-14 (T)
 
 
 ## Livre III : Les entreprises
@@ -31711,7 +32461,7 @@ Le directeur du Trésor au ministère de l'économie et des finances ;
 
 Le directeur général de la caisse des dépôts et consignations ;
 
-Le directeur général de la caisse centrale de réassurance ;
+Le président du conseil d'administration, directeur général de la caisse centrale de réassurance ;
 
 Un professeur d'une unité de droit d'une université de Paris, désigné par le ministre de l'économie et des finances ;
 
@@ -31745,7 +32495,7 @@ Deux par les organisations syndicales représentatives des travailleurs, désign
 finances et du ministre du travail ;
 
 Un représentant des organisations de consommateurs, désigné sur proposition du collège des consommateurs du comité national
-de la consommation.
+de la consommation ;
 
 Ces huit représentants des assurés ne peuvent être choisis parmi les professionnels de l'assurance en activité ;
 
@@ -31771,7 +32521,7 @@ d'assurances ;
 Sept représentants des sociétés d'assurance opérant en France, désignés par l'organisation professionnelle la plus
 représentative de ces entreprises ;
 
-Un représentant des sociétés adhérant au groupement des sociétés d'assurances à caractère mutuel, désigné par cet organisme.
+Un représentant des sociétés adhérant au groupement des sociétés d'assurances à caractère mutuel, désigné par cet organisme ;
 
 Un professionnel de l'assurance mutuelle agricole, désigné par le conseil d'administration de la caisse centrale des
 mutuelles agricoles.
@@ -31808,7 +32558,7 @@ assurances.
 
 	**Modifié par**:
 
-	  - Décret n°79-226 1979-03-13 art. 1, art. 2 JORF 21 mars 1979
+	  - Décret n°85-864 1985-08-02 art. 3 JORF 15 août 1985
 
 	**Liens**:
 
@@ -32017,10 +32767,10 @@ droit.
 Dans le cas où, par suite de l'insuffisance du montant de la garantie stipulée au contrat, une part de l'indemnité due à la
 victime ou à ses ayants droit pour les dommages résultant de l'accident corporel reste à la charge du responsable et si
 celui-ci n'accepte pas de se libérer en même temps que son assureur de la part d'indemnité restant à sa charge, ce dernier
-lui envoie au nom de la victime ou de ses ayants droit la sommation prévue à l'article R. 420-13. Si cette sommation n'a pas
-été suivie d'effet à l'expiration d'un délai d'un mois, l'assureur, après avoir recueilli, en cas de règlement
-transactionnel, l'accord du fonds de garantie, verse pour le compte de ce dernier le reliquat de l'indemnité et l'avise de ce
-versement.
+lui envoie au nom de la victime ou de ses ayants droit la mise en demeure mentionnée au dernier alinéa de l'article R.
+420-13. Si cette mise en demeure n'a pas été suivie d'effet à l'expiration d'un délai d'un mois, l'assureur, après avoir
+recueilli, en cas de règlement transactionnel, l'accord du fonds de garantie, verse pour le compte de ce dernier le reliquat
+de l'indemnité et l'avise de ce versement.
 
 **Liens relatifs à cet article**
 
@@ -32030,7 +32780,7 @@ versement.
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°85-864 1985-08-02 art. 4 JORF 15 août 1985
 
 	**Liens**:
 
@@ -34408,9 +35158,7 @@ alinéa de l'article R. 420-13.
 
 #### Chapitre Ier : La caisse centrale de réassurance.
 
-##### Section I : Règles de constitution et d'administration
-
-##### Paragraphe 1 : Constitution.
+##### Section I : Dispositions générales.
 
 ###### Article R*431-1
 
@@ -34418,13 +35166,17 @@ La caisse centrale de réassurance est soumise au contrôle de l'Etat institué 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 26
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
 
 	**Cite**:
 
@@ -34433,25 +35185,29 @@ La caisse centrale de réassurance est soumise au contrôle de l'Etat institué 
 
 ###### Article R*431-2
 
-Le décret mentionné à l'article L. 431-2 est pris sur le rapport du ministre de l'économie et des finances.
+Le décret en conseil d'Etat mentionné à l'article L. 431-2 est pris sur le rapport du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 28
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Code des assurances - art. L431-2 (M)
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
 
 	**Cite**:
 
 	  - Code des assurances - art. L431-2 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L431-2 (M)
 
 
 ###### Article R*431-3
@@ -34459,55 +35215,70 @@ Le décret mentionné à l'article L. 431-2 est pris sur le rapport du ministre 
 La caisse centrale de réassurance est dotée d'un fonds d'établissement qui peut être constitué par une dotation du Trésor et
 par un prélèvement sur les réserves disponibles de ladite caisse.
 
-Le montant de ce fonds est fixé par décret en Conseil d'Etat, pris sur le rapport du ministre de l'économie et des finances,
-après avis du conseil national des assurances.
+Le montant de ce fonds est fixé par décret en Conseil d'Etat, pris sur le rapport du ministre chargé de l'économie et des
+finances, après avis du Conseil national des assurances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°46-835 1946-04-25 art. 29
+	  - TXT_ASSOCIE: Décret n°1961-05-02 art. 1 *montant du fonds d'établissement*
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
 
 
 ###### Article R*431-4
 
-Le siège social de la caisse central de réassurance est à Paris. Il peut être transféré en tout autre point du territoire de
-la République française par décision du ministre de l'économie et des finances.
+Le siège social de la caisse centrale de réassurance est à Paris. Il peut être transféré en tout autre point du territoire de
+la République française par décision du ministre chargé de l'économie et des finances.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-21 1947-01-06 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
 
-##### Paragraphe 2 : Administration.
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
 
 ###### Article R*431-5
 
-Le décret en Conseil d'Etat mentionné à l'article L. 431-7 est pris sur le rapport du ministre de l'économie et des finances.
+Le décret en Conseil d'Etat mentionné à l'article L. 431-3 est pris sur le rapport du ministre chargé de l'économie et des
+finances.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 27
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
 	**Cite**:
 
-	  - Code des assurances - art. L431-7 (M)
+	  - Code des assurances - art. L431-3 (M)
 
 	**Liens**:
 
@@ -34516,51 +35287,31 @@ Le décret en Conseil d'Etat mentionné à l'article L. 431-7 est pris sur le ra
 
 ###### Article R*431-6
 
-Le conseil d'administration de la caisse centrale de réassurance fixe les conditions techniques de fonctionnement de cette
-caisse.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
-
-
-###### Article R*431-7
-
 La caisse centrale de réassurance est gérée par un conseil d'administration comprenant :
 
-a) Cinq représentants de l'Etat nommés par décret sur proposition du ministre de l'économie, des finances et du budget ;
+a) Cinq représentants de l'Etat nommés par décret sur proposition du ministre chargé de l'économie et des finances ;
 
 b) Cinq personnalités nommées par décret sur proposition du ministre, dont :
 
-Deux, représentant les entreprises d'assurance ;
+- deux, représentant les entreprises d'assurance ;
 
-Une, représentant les assurés, choisie après consultation des organisations les plus représentatives au niveau national de
+- une, représentant les assurés, choisie après consultation des organisations les plus représentatives au niveau national de
 producteurs et de consommateurs ou d'organismes regroupant de telles organisations ;
 
-Deux personnalités choisies en raison de leur compétence, dont l'une désignée après consultation des organisations syndicales
-les plus représentatives parmi les agents généraux d'assurance ou les courtiers d'assurance et de réassurance ;
+- deux personnalités choisies en raison de leur compétence, dont l'une désignée après consultation des organisations
+syndicales les plus représentatives parmi les agents généraux d'assurance ou les courtiers d'assurance et de réassurance ;
 
 c) Cinq représentants des salariés élus dans les conditions prévues au chapitre II du titre II de la loi n° 83-675 du 26
-juillet 1983 susvisée.
+juillet 1983.
 
 Pour l'application de l'article 26 de ladite loi, chacun de ces représentants bénéficie d'un crédit d'heures fixé à quinze
 heures par mois.
 
 Les dispositions de l'article R. 322-26 sont applicables aux représentants de l'Etat dans le conseil d'administration de la
-Caisse centrale de réassurance.
+caisse centrale de réassurance.
 
-Le président du conseil d'administration, désigné dans les conditions prévues à l'article 10 de la loi du 26 juillet 1983
-susvisée, assure la direction générale de l'établissement.
+Le président du conseil d'administration, désigné dans les conditions prévues à l'article 10 de la loi n° 83-675 du 26
+juillet 1983 assure la direction générale de l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -34576,50 +35327,30 @@ susvisée, assure la direction générale de l'établissement.
 
 	**Modifié par**:
 
-	  - Décret n°84-302 1984-04-24 art. 11 JORF 26 avril 1984
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
 
 
-###### Article R*431-9
+###### Article R*431-7
 
-En cas d'absence du président, le conseil désigne un président de séance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-21 1947-01-06 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-7 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
-
-
-###### Article R*431-10
-
-Le conseil d'administration se réunit au siège de la caisse centrale de réassurance, sur convocation du ministre de
+Le conseil d'administration se réunit au siège de la caisse centrale de réassurance sur convocation du ministre chargé de
 l'économie et des finances ou de son président, aussi souvent que l'intérêt de la caisse centrale de réassurance l'exige et
 au moins une fois par mois. Il ne peut délibérer valablement que lorsque la moitié au moins de ses membres est présente.
 
-Dans tous les cas, les délibérations sont prises à la majorité des voix des membres présents. En cas d'égalité des voix,
-celle du président de séance est prépondérante.
+En cas d'absence du président, le conseil désigne un président de séance.
 
-Le directeur assiste aux séances du conseil d'administration avec voix consultative.
+Dans tous les cas, les délibérations sont prises à la majorité des suffrages exprimés. En cas d'égalité des voix, celle du
+président est prépondérante.
 
-Le conseil désigne la personne devant remplir les fonctions de secrétaire qui peut être choisie en dehors des administrateurs
-parmi les membres du personnel de la caisse centrale de réassurance.
+Le conseil désigne son secrétaire, qui peut être choisi, en dehors des administrateurs, parmi les membres du personnel de la
+caisse centrale de réassurance.
 
-Les délibérations du conseil d'administration sont constatées dans les procès-verbaux inscrits sur un registre tenu au siège
-de la Caisse centrale de réassurance, signés par le président directeur général ou par le président de séance et par le
-secrétaire.
+Les délibérations du conseil d'administration sont constatées dans des procès-verbaux inscrits sur un registre tenu au siège
+de la caisse centrale de réassurance, signés par le président du conseil d'administration, directeur général, ou par le
+président de séance et par le secrétaire.
 
 **Liens relatifs à cet article**
 
@@ -34629,15 +35360,14 @@ secrétaire.
 
 	**Modifié par**:
 
-	  - Décret n°84-302 1984-04-24 art. 13 JORF 26 avril 1984
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
 
 	**Liens**:
 
-	  - TXT_SOURCE: Code des assurances - art. L431-7 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
 
 
-###### Article R*431-11
+###### Article R*431-8
 
 Le conseil d'administration, sous réserve de l'application des lois et règlements en vigueur en matière d'assurance et de
 réassurance :
@@ -34658,9 +35388,87 @@ Le président du conseil d'administration, directeur général, exécute les dé
 
 	  - Décret n°76-666 1976-07-16
 
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L431-7 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+
+###### Article R*431-9
+
+Les opérations non mentionnées à l'article R. 431-8 sont engagées et conduites, sous l'autorité du ministre chargé de
+l'économie et des finances, par le président du conseil d'administration, directeur général. Ce dernier signe notamment les
+traités de réassurance et de rétrocession ; il nomme et licencie les membres du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
 	**Modifié par**:
 
-	  - Décret n°84-302 1984-04-24 art. 14 JORF 26 avril 1984
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L431-7 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+	**Cite**:
+
+	  - Code des assurances R431-8
+
+
+###### Article R*431-10
+
+La cession de toute participation financière détenue par la caisse centrale de réassurance doit, nonobstant toutes
+dispositions contraires, faire l'objet d'une approbation par arrêté du ministre chargé de l'économie et des finances dans
+tous les cas où la cession a pour effet de faire perdre à la caisse centrale de réassurance la majorité dans le capital de
+l'entreprise qui a bénéficié de sa participation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L431-7 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+
+###### Article R*431-11
+
+La caisse centrale de réassurance a pour objet la réassurance de tous organismes français ou étrangers d'assurance et de
+réassurance, la rétrocession aux mêmes organismes, ainsi que toutes les opérations se rattachant à ces activités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
 
 	**Liens**:
 
@@ -34670,10 +35478,8 @@ Le président du conseil d'administration, directeur général, exécute les dé
 
 ###### Article R*431-12
 
-Les opérations non mentionnées à l'article R. 431-11, sont engagées et conduites par le président du conseil
-d'administration, directeur général, sous l'autorité du ministre de l'économie et des finances. Le directeur général signe
-notamment les traités de réassurance et de rétrocession ; il nomme et licencie le personnel de direction, le personnel des
-cadres, le personnel de maîtrise et les employés.
+Les cessions faites à la caisse centrale de réassurance et les rétrocessions de celle-ci résultent de traités ou d'accords
+passés suivant les méthodes et usages de la réassurance privée.
 
 **Liens relatifs à cet article**
 
@@ -34683,35 +35489,40 @@ cadres, le personnel de maîtrise et les employés.
 
 	**Modifié par**:
 
-	  - Décret n°84-302 1984-04-24 art. 15 JORF 26 avril 1984
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L431-7 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
 
-	**Cite**:
-
-	  - Code des assurances R431-11
-
 
 ###### Article R*431-13
 
-La caisse centrale de réassurance est gérée financièrement en application des règles fixées par le livre III du présent code.
+Les règles fixées par le livre III du présent code sont applicables à la gestion financière de la caisse centrale de
+réassurance.
 
-Les comptes font l'objet d'un compte rendu annuel au ministre de l'économie et des finances, qui est communiqué au conseil
-national des assurances. Le bilan, le compte d'exploitation générale et le compte général de pertes et profits sont publiés
-au Journal officiel de la République française.
+Les comptes font l'objet d'un compte rendu annuel au ministre chargé de l'économie et des finances, qui est communiqué au
+Conseil national des assurances. Le bilan, le compte d'exploitation générale et le compte général de pertes et profits sont
+publiés au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-21 1947-01-06 art. 9
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
 
 	**Liens**:
 
@@ -34724,7 +35535,7 @@ au Journal officiel de la République française.
 Une fois les amortissements pratiqués et les réserves réglementaires constituées, les bénéfices disponibles à la clôture de
 chaque exercice sont versés, après prélèvement éventuel au profit de l'Etat, à une réserve spéciale de garantie.
 
-Tout prélèvement opéré sur ladite réserve est soumis à autorisation du ministre de l'économie et des finances.
+Tout prélèvement opéré sur ladite réserve est soumis à autorisation du ministre chargé de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
@@ -34734,7 +35545,11 @@ Tout prélèvement opéré sur ladite réserve est soumis à autorisation du min
 
 	**Modifié par**:
 
-	  - Décret n°83-839 1983-09-20 art. 1 JORF 24 septembre 1983
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
 
 	**Liens**:
 
@@ -34744,23 +35559,7 @@ Tout prélèvement opéré sur ladite réserve est soumis à autorisation du min
 
 ###### Article R*431-15
 
-Les opérations financières du fonds national de garantie des calamités agricoles sont effectuées par le président du conseil
-d'administration, directeur général, de la caisse centrale de réassurance, assisté d'une commission comprenant trois
-représentants du ministre de l'économie et des finances et trois représentants du ministre de l'agriculture.
-
-Dans le cadre de ces opérations, le directeur général de la caisse centrale de réassurance :
-
-- fournit à la commission nationale des calamités agricoles, sur sa demande, les éléments comptables et financiers qui sont
-nécessaires à l'accomplissement de sa mission ;
-
-- arrête les comptes du fonds pour l'exercice écoulé ;
-
-- adresse au ministre de l'économie et des finances et au ministre chargé de l'agriculture ainsi qu'à la commission nationale
-des calamités agricoles un rapport sur les opérations dudit exercice ;
-
-- propose le cas échéant, l'exercice de poursuites contre des sinistrés ayant indûment perçu une indemnité, ou contre les
-tiers responsables du sinistre, et met à exécution les actions nécessaires au recouvrement desdites indemnités, ou des sommes
-dues par des tiers responsables, après avis du ministre de l'économie et des finances.
+Le personnel de la caisse centrale de réassurance a le même statut que le personnel de l'assurance.
 
 **Liens relatifs à cet article**
 
@@ -34770,36 +35569,610 @@ dues par des tiers responsables, après avis du ministre de l'économie et des f
 
 	**Modifié par**:
 
-	  - Décret n°84-302 1984-04-24 art. 15 JORF 26 avril 1984
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
 
 
+##### Section II : Opérations effectuées avec la garantie de l'Etat
+
+##### Paragraphe 1 : Dispositions communes.
+
 ###### Article R*431-16
 
-Le contrôle des opérations effectuées par la caisse centrale de réassurance pour le compte du fonds national de garantie des
-calamités agricoles est exercé dans les mêmes conditions que celui qui porte sur les autres opérations de ladite caisse.
+Pour les opérations effectuées avec la garantie de l'Etat, les conditions générales des traités de réassurance sont soumises
+par la caisse centrale de réassurance à l'approbation du ministre chargé de l'économie et des finances. Les commissions qui
+peuvent être allouées aux intermédiaires et aux cédants sont fixées par la caisse centrale de réassurance, sans pouvoir
+excéder les limites autorisées par le ministre chargé de l'économie et des finances.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-271 1976-03-19 art. 6
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+	  - SPEC_APPLI: Code des assurances R431-23
+
+
+##### Paragraphe 2 : Risques exceptionnels et nucléaires.
+
+###### Article R*431-17
+
+La caisse centrale de réassurance peut accepter d'assurer ou de réassurer, avec la garantie de l'Etat, les risques mentionnés
+à l'article L. 431-4 lorsque les biens concernés sont propriété française ou immatriculés en France ou lorsque le
+souscripteur de la police ou le bénéficiaire de l'indemnité est de nationalité française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-4 (M)
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
 
 
-###### Article R*431-17
+###### Article R*431-18
 
-Les avoirs disponibles du fonds national de garantie des calamités agricoles sont placés par la caisse centrale de
+La caisse centrale de réassurance, agissant avec la garantie de l'Etat, peut réassurer les risques mentionnés à l'article L.
+431-4 lorsque les biens ou intérêts concernés donnent lieu à une garantie pour la souscription de laquelle intervient une
+entreprise agréée en France pour pratiquer les risques correspondants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-4 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L431-9 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+
+###### Article R*431-19
+
+La caisse centrale de réassurance, agissant avec la garantie de l'Etat, peut accorder sa couverture aux risques mentionnés à
+l'article L. 431-4 lorsque les biens ou intérêts concernés sont réassurés par une entreprise dont le siège social est établi
+sur le territoire d'un Etat membre de la communauté économique européenne. Les opérations effectuées à ce titre par la caisse
+centrale de réassurance font l'objet d'un compte rendu au ministre chargé de l'économie et des finances selon les modalités
+qu'il définit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-4 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+	  - TXT_ASSOCIE: Code des assurances R411-2, A431-1 *liste et forme des comptes*
+
+
+###### Article R*431-20
+
+Il est constitué auprès de la caisse centrale de réassurance une commission consultative des garanties des risques
+exceptionnels et nucléaires, qui comprend :
+
+1° Un magistrat de la Cour des comptes désigné par le premier président de la Cour des comptes, président, suppléé en cas
+d'empêchement par un autre magistrat de la Cour des comptes, désigné dans les mêmes conditions ;
+
+2° Un représentant du ministre chargé de l'économie et des finances, du ministre chargé des transports, du ministre chargé de
+l'industrie, du secrétaire d'Etat chargé du budget et du ministre chargé de la mer ;
+
+3° Un représentant de la fédération française des sociétés d'assurances et le président du conseil d'administration,
+directeur général de la caisse centrale de réassurance, ou son représentant chargé de la présentation des dossiers soumis à
+la commission.
+
+Le président peut inviter à participer aux travaux de la commission toute personne dont il lui paraît utile de recueillir
+l'avis sur une question à l'ordre du jour.
+
+Le secrétariat de la commission est assuré par la caisse centrale de réassurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+
+###### Article R*431-21
+
+La commission consultative des garanties se réunit soit à l'initiative de son président, soit à la demande du ministre chargé
+de l'économie et des finances, soit à la demande du président du conseil d'administration, directeur général de la caisse
+centrale de réassurance.
+
+Outre les questions dont elle connaît obligatoirement, la commission peut être consultée sur toutes questions sur lesquelles
+le ministre chargé de l'économie et des finances ou le président du conseil d'administration, directeur général de la caisse
+centrale de réassurance, souhaitent recueillir son avis.
+
+Les avis de la commission sont pris à la majorité des voix ; en cas de partage, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+
+###### Article R*431-22
+
+A titre exceptionnel, la caisse centrale de réassurance peut accepter d'assurer ou de réassurer les risques visés à l'article
+L. 431-4 ne répondant pas aux exigences des articles R. 431-17, R. 431-18 et R. 431-19, après avoir recueilli l'avis de la
+commission consultative des garanties et obtenu l'accord du ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-4 (M)
+	  - Code des assurances L431-4, R431-17, R431-18, R431-19
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+
+###### Article R*431-23
+
+La caisse centrale de réassurance recueille l'avis de la commission consultative des garanties sur les conditions générales
+des traités de réassurance, avant de les soumettre à l'approbation mentionnée par l'article R. 431-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+	**Cite**:
+
+	  - Code des assurances R431-16
+
+
+###### Article R*431-24
+
+Après avoir recueilli l'avis de la commission consultative des garanties sur les principes généraux de la tarification, la
+caisse centrale de réassurance détermine le tarif destiné à lui permettre de faire face aux charges des opérations qu'elle
+effectue au titre des article L. 431-4 et L. 431-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-4 (M)
+	  - Code des assurances - art. L431-5 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+
+###### Article R*431-25
+
+La garantie de l'Etat donne lieu, de la part de la caisse centrale de réassurance, au versement d'une rémunération. Les
+conditions et modalités de la mise en jeu de la garantie et du versement de cette rémunération font l'objet de conventions
+passées entre le ministre chargé de l'économie et des finances et le président du conseil d'administration, directeur général
+de la caisse centrale de réassurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+
+###### Article R*431-26
+
+Le compte distinct ouvert dans les écritures de la caisse centrale de réassurance en application de l'article L. 431-7 fait
+notamment apparaître les recettes de primes et de commissions et, le cas échéant, les versements effectués par l'Etat au
+titre de la mise en jeu de la garantie, ainsi que la part des produits correspondant au placement des fonds gérés par la
+caisse au titre des opérations mentionnées par le présent paragraphe. Il retrace, en dépenses, outre les versements opérés au
+titre desdites opérations, la part des frais de gestion, commissions, impôts, taxes et frais annexes de toute nature qui leur
+sont imputables. Il comptabilise les provisions et les réserves propres à ces risques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-7 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+
+###### Article R*431-28
+
+En ce qui concerne les risques définis à l'article L. 431-4 autres que de responsabilité civile, une assurance contre les
+risques ordinaires doit avoir été préalablement souscrite pour un montant au moins égal à celui pour lequel la garantie est
+demandée. La caisse centrale de réassurance peut déroger à cette obligation après consultation, sauf urgence, de la
+commission consultative des garanties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-4 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+
+
+###### Article R431-27
+
+La caisse centrale de réassurance constitue une provision spéciale pour charges exceptionnelles afférentes aux opérations
+garantissant les risques mentionnés à l'article L. 431-4. 
+
+Cette provision est alimentée par un prélèvement sur les primes égal à 0,10 % de l'estimation de la somme des valeurs
+garanties par la caisse centrale de réassurance au cours de l'exercice considéré, sans que ce prélèvement puisse excéder le
+tiers du montant des primes nettes conservées correspondant aux opérations visées ci-dessus. 
+
+Ce prélèvement cesse d'être obligatoire lorsque la provision spéciale pour charges exceptionnelles atteint un montant égal à
+la moyenne des cinq risques les plus élevés garantis. 
+
+Le montant de la provision inscrite dans le compte distinct ouvert dans les écritures de la caisse centrale de réassurance,
+en application de l'article L. 431-7, est affecté à la provision spéciale pour charges exceptionnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-4 (V)
+	  - Code des assurances - art. L431-7 (V)
+
+
+###### Article R431-29
+
+Les dispositions du présent paragraphe sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
+française, des Terres australes et antarctiques françaises et de Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+
+##### Paragraphe 3 : Risques de catastrophes naturelles.
+
+###### Article R*431-32
+
+Les opérations mentionnées à l'article R. 431-30 sont retracées au sein de la comptabilité de la caisse centrale de
+réassurance dans un compte distinct.
+
+Ce compte fait notamment apparaître les recettes de primes et de commissions et, le cas échéant, les versements effectués par
+l'Etat au titre de la mise en jeu de la garantie, ainsi que la part des produits correspondant au placement des fonds gérés
+par la caisse au titre des opérations mentionnées à l'article R. 431-30. Il retrace, en dépenses, outre les versements opérés
+au titre desdites opérations, la part de frais de gestion, commissions, impôts, taxes et frais annexes de toute nature qui
+leur sont imputables.
+
+Une convention passée entre le ministre chargé de l'économie et des finances et la caisse centrale de réassurance fixe les
+relations financières entre l'Etat et la caisse pour les opérations mentionnées à l'article R. 431-30, et notamment les
+conditions de mise en jeu de la garantie de l'Etat.
+
+Chaque année, les excédents éventuels restant après rémunération de la garantie de l'Etat sont inscrits à un compte de
+réserves affectées à la couverture des opérations mentionnées à l'article R. 431-30.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. R*431-30 (M)
+
+
+###### Article R431-30
+
+La caisse centrale de réassurance est habilitée à couvrir en réassurance, avec la garantie de l'Etat, les risques résultant
+des effets des catastrophes naturelles mentionnées aux deux premiers alinéas de l'article L. 125-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Cite**:
+
+	  - Code des assurances - art. L125-1 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*431-32 (Ab)
+	  - Code des assurances - art. R431-31 (V)
+
+
+###### Article R431-31
+
+La caisse centrale de réassurance ne peut apporter sa couverture au titre de l'article R. 431-30 que si les conditions
+suivantes sont remplies :
+
+a) Les biens et activités sont situés en France métropolitaine ;
+
+b) L'état de catastrophe naturelle a été constaté par un arrêté interministériel pris en application de l'article L. 125-1 ;
+
+c) La garantie contre les effets des catastrophes naturelles incluse dans les contrats d'assurance est conforme à celle
+définie par les clauses types mentionnées à l'article L. 125-3 ;
+
+d) Les biens ou activités concernés sont garantis contre les effets des catastrophes naturelles par une entreprise
+d'assurance agréée en France ou dispensée de l'agrément administratif en application de l'article L. 321-4.
+
+Si la condition prévue au c n'est pas remplie, la caisse centrale de réassurance peut, par dérogation aux dispositions de
+l'alinéa ci-dessus, apporter sa couverture au titre de l'article R. 431-30 avec l'accord du ministre chargé de l'économie et
+de finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Cite**:
+
+	  - Code des assurances - art. L125-1 (M)
+	  - Code des assurances - art. L125-3 (V)
+	  - Code des assurances - art. L321-4 (Ab)
+	  - Code des assurances - art. R*431-30 (M)
+
+
+##### Section III : Opérations de gestion
+
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.
+
+###### Article R431-33
+
+Les opérations financières et comptables du Fonds national de garantie des calamités agricoles sont effectuées par le
+président du conseil d'administration, directeur général de la caisse centrale de réassurance, assisté d'une commission
+comprenant trois représentants du ministre chargé de l'économie et des finances et trois représentants du ministre de
+l'agriculture.
+
+Dans le cadre de ces opérations, le président du conseil d'administration, directeur général de la caisse centrale de
+réassurance :
+
+Fournit à la commission nationale des calamités agricoles, sur sa demande, les éléments comptables et financiers qui sont
+nécessaires à l'accomplissement de sa mission ;
+
+Arrête les comptes du fonds pour l'exercice écoulé ;
+
+Adresse au ministre chargé de l'économie et des finances et au ministre de l'agriculture ainsi qu'à la commission nationale
+des calamités agricoles, un rapport sur les opérations dudit exercice ;
+
+Propose, le cas échéant, l'exercice de poursuites contre les sinistrés ayant indûment perçu une indemnisation, ou contre les
+tiers responsables du sinistre, et met à exécution les actions nécessaires au recouvrement desdites indemnités ou des sommes
+dues par des tiers responsables, après avis du ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*431-45 (M)
+	  - Code des assurances - art. R431-36 (M)
+	  - Code des assurances - art. R471-1 (V)
+
+
+###### Article R431-34
+
+Le contrôle des opérations effectuées par la caisse centrale de réassurance pour le compte du Fonds national de garantie des
+calamités agricoles est exercé dans les mêmes conditions que celui qui porte sur les autres opérations de ladite caisse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*431-45 (M)
+	  - Code des assurances - art. R431-36 (M)
+
+
+###### Article R431-35
+
+Les avoirs disponibles du Fonds national de garantie des calamités agricoles sont placés sur la caisse centrale de
 réassurance en actifs mentionnés à l'article R. 332-2. Ces actifs sont soumis aux limitations prévues aux articles R. 332-3
 et R. 332-3-1 ; toutefois, pour le calcul de ces limitations, le montant de chacune des catégories d'actifs est rapporté au
 montant des avoirs disponibles du fonds.
@@ -34812,20 +36185,19 @@ montant des avoirs disponibles du fonds.
 
 	**Modifié par**:
 
-	  - Décret n°84-1023 1984-11-14 art. 35 JORF 23 novembre 1984
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
 
 	**Cite**:
 
-	  - Code des assurances - art. R*332-2 (M)
-	  - Code des assurances - art. R*332-3 (M)
-	  - Code des assurances - art. R332-3-1 (M)
+	  - Code des assurances - art. R332-2 (V)
+	  - Code des assurances - art. R332-3 (V)
 
-	**Liens**:
+	**Cité par**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+	  - Code des assurances - art. R431-36 (M)
 
 
-###### Article R*431-18
+###### Article R431-36
 
 Les frais exposés par la caisse centrale de réassurance pour la gestion du fonds national de garantie des calamités agricoles
 lui sont remboursés sur justifications après l'expiration de chaque exercice.
@@ -34834,75 +36206,104 @@ Des avances sur ces remboursements peuvent lui être allouées.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°76-271 1976-03-19 art. 4
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Code des assurances - art. L431-9 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*431-37 (M)
 
 
-###### Article R*431-19
+###### Article R431-37
 
 Les opérations du fonds national de garantie des calamités agricoles sont retracées tant en recettes qu'en dépenses dans une
 comptabilité distincte tenue par la caisse centrale de réassurance.
 
-Un arrêté du ministre de l'économie et des finances détermine la liste et la forme des comptes retraçant ces opérations,
-ainsi que la manière dont leurs résultats sont centralisés.
+Un arrêté du ministre chargé de l'économie et des finances détermine la liste et la forme des comptes retraçant ces
+opérations, ainsi que la manière dont leurs résultats sont centralisés.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-271 1976-03-19 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
-	  - TXT_ASSOCIE: Code des assurances R411-2, A431-1 *liste et forme des comptes*
+	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
 
-###### Article R*431-20
+###### Article R431-38
 
-Le fonds institué pour la revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule
-terrestre à moteur et mentionné à l'article L. 431-11 fait l'objet d'une comptabilité spéciale dans les écritures de la
-caisse centrale de réassurance, tenue dans les conditions prévues aux articles R. 431-21 à R. 431-28.
+Pour l'application du 1° de l'article 13 de la loi n° 64-706 du 10 juillet 1964, la caisse centrale de réassurance est
+chargée de dresser les statistiques dont la connaissance apparaît nécessaire pour mener à bien l'action d'information et de
+prévention confiée au Fonds national de garantie des calamités agricoles.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-107 1975-02-20 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
 
 	**Cite**:
 
-	  - Code des assurances - art. L431-11 (M)
-	  - Code des assurances L431-11, R431-21 à R431-28
+	  - Loi n°64-706 du 10 juillet 1964 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*431-44 (M)
+
+
+##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.
+
+###### Article R*431-39
+
+Le fonds institué pour la revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule
+terrestre à moteur et mentionné à l'article L. 431-13 fait l'objet d'une comptabilité spéciale dans les écritures de la
+caisse centrale de réassurance, tenue dans les conditions prévues aux articles R. 431-40 à R. 431-47.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°90-125 du 6 février 1990 - art. 5 (V) JORF 8 février 1990 en vigueur le 1er janvier 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-13 (Ab)
+	  - Code des assurances L431-13, R431-40 à R431-47
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
 
-###### Article R*431-21
+###### Article R*431-40
 
 Les opérations effectuées par ce fonds comprennent :
 
-En recettes :
+- en recettes :
 
 a) Le produit de la contribution additionnelle prévue à l'article 2 du décret n° 75-107 du 20 février 1975 ;
 
@@ -34910,9 +36311,9 @@ b) Les revenus des fonds placés ;
 
 c) Les bénéfices sur remboursements et réalisations de valeurs mobilières et immobilières ;
 
-d) Toute autre ressource éventuelle.
+d) Toute autre ressource éventuelle ;
 
-En dépenses :
+- en dépenses :
 
 a) Les majorations de rentes payables par les entreprises d'assurance ;
 
@@ -34930,44 +36331,51 @@ e) Le remboursement des avances consenties au fonds.
 
 	  - Décret n°75-107 1975-02-20 art. 2
 
-	**Anciens textes**:
-
-	  - Décret n°75-107 1975-02-20 art. 6
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°90-125 du 6 février 1990 - art. 5 (V) JORF 8 février 1990 en vigueur le 1er janvier 1990
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
 
-###### Article R*431-22
+###### Article R*431-41
 
 La liste et la forme des comptes, ainsi que la manière dont leurs résultats sont centralisés, sont déterminées par arrêté du
-ministre de l'économie et des finances.
+ministre chargé de l'économie et des finances.
 
 En garantie des majorations de rentes à verser, le fonds constitue annuellement des provisions ou réserves calculées sur les
 bases fixées par arrêté du même ministre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-107 1975-02-20 art. 7
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°90-125 du 6 février 1990 - art. 5 (V) JORF 8 février 1990 en vigueur le 1er janvier 1990
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
-	  - TXT_ASSOCIE: Code des assurances R411-2, A431-2 *liste et forme des comptes*
+	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
 
-###### Article R*431-23
+###### Article R*431-42
 
 Les avoirs disponibles du fonds sont placés par la caisse centrale de réassurance en actifs mentionnés à l'article R. 332-2.
 Ces actifs sont soumis aux limitations prévues aux articles R. 332-3 et R. 332-3-1 ; toutefois, pour le calcul de ces
@@ -34981,7 +36389,15 @@ limitations, le montant de chacune des catégories d'actifs est rapporté au mon
 
 	**Modifié par**:
 
-	  - Décret n°84-1023 1984-11-14 art. 36 JORF 23 novembre 1984
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°90-125 du 6 février 1990 - art. 5 (V) JORF 8 février 1990 en vigueur le 1er janvier 1990
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
 	**Cite**:
 
@@ -34989,52 +36405,56 @@ limitations, le montant de chacune des catégories d'actifs est rapporté au mon
 	  - Code des assurances - art. R*332-3 (M)
 	  - Code des assurances - art. R332-3-1 (M)
 
-	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
-
-
-###### Article R*431-24
+###### Article R*431-43
 
 Les frais de gestion exposés par la caisse centrale de réassurance lui sont remboursés sur justifications après l'expiration
 de chaque exercice.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-107 1975-02-20 art. 9
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°90-125 du 6 février 1990 - art. 5 (V) JORF 8 février 1990 en vigueur le 1er janvier 1990
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
 
-###### Article R*431-25
+###### Article R*431-44
 
 Le contrôle des opérations ainsi que l'approbation des comptes relatifs au fonds sont effectués dans les mêmes conditions que
 pour les autres activités de la caisse centrale de réassurance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-107 1975-02-20 art. 10
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°90-125 du 6 février 1990 - art. 5 (V) JORF 8 février 1990 en vigueur le 1er janvier 1990
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
 
-###### Article R*431-26
+###### Article R*431-45
 
 Le fonds rembourse annuellement aux entreprises d'assurance les majorations payées en application de l'article 1er du décret
 n° 75-107 du 20 février 1975. Les dépenses de gestion occasionnées aux entreprises d'assurance par le service des majorations
@@ -35046,20 +36466,24 @@ restent à leur charge.
 
 	  - Décret n°75-107 1975-02-20 art. 1
 
-	**Anciens textes**:
-
-	  - Décret n°75-107 1975-02-20 art. 11
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°90-125 du 6 février 1990 - art. 5 (V) JORF 8 février 1990 en vigueur le 1er janvier 1990
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
 
-###### Article R*431-27
+###### Article R*431-46
 
 Avant le 15 mars de chaque année, les entreprises d'assurance adressent à la caisse centrale de réassurance, aux fins de
 remboursement, un état récapitulatif faisant apparaître le montant des majorations payées au cours de l'année civile
@@ -35067,115 +36491,49 @@ précédente.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-107 1975-02-20 art. 12
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Abrogé par**:
+
+	  - Décret n°90-125 du 6 février 1990 - art. 5 (V) JORF 8 février 1990 en vigueur le 1er janvier 1990
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
 
-###### Article R*431-28
+###### Article R*431-47
 
 Pour leur permettre de faire face au paiement des majorations à leur charge, la caisse centrale de réassurance peut, sur
 justifications, consentir des avances aux entreprises d'assurance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-107 1975-02-20 art. 13
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
 
+	**Abrogé par**:
 
-##### Section II : Opérations de réassurance.
-
-###### Article R*431-29
-
-La caisse centrale de réassurance a pour objet la réassurance de tous organismes français ou étrangers d'assurance et de
-réassurance, la rétrocession aux mêmes organismes, ainsi que toutes opérations se rattachant à ces activités.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°90-125 du 6 février 1990 - art. 5 (V) JORF 8 février 1990 en vigueur le 1er janvier 1990
 
 
-###### Article R*431-30
+##### Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction.
 
-Les cessions faites à la caisse centrale de réassurance par les entreprises d'assurance ou de réassurance ou de toute nature,
-françaises ou étrangères, résultent de traités ou d'accords passés suivant les méthodes et usages de la réassurance privée.
-Ces traités et accords font la loi des parties.
+###### Article R431-48
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*431-32 (Ab)
-	  - Code des assurances - art. R431-31 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°47-545 1947-03-24 art. 1
-
-
-###### Article R*431-31
-
-Les primes cédées à la caisse centrale de réassurance, les sinistres à la charge de celle-ci, ainsi que les divers autres
-éléments techniques, donnent lieu à inscription comptable en compte courant et à paiement dans les conditions habituelles de
-la réassurance et suivant les conventions conclues entre les parties.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-545 1947-03-24 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-
-###### Article R*431-32
-
-Les rétrocessions de la caisse centrale de réassurance résultent de traités passés, suivant les méthodes et usages de la
-réassurance privée, avec les entreprises d'assurance ou de réassurance de toute nature, françaises ou étrangères. Ces traités
-font la loi des parties.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-545 1947-03-24 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-
-##### Section III : Assurance et réassurance des risques exceptionnels et nucléaires.
-
-###### Article R*431-39
-
-Les commissions qui peuvent être allouées aux intermédiaires et aux cédants sont fixées par la caisse centrale de réassurance
-sans pouvoir excéder les limites autorisées par le ministre de l'économie, des finances et du budget.
+Le fonds de compensation institué par l'article L. 431-14 contribue, dans le cadre des conventions prévues audit article, à
+l'indemnisation de sinistres affectant des bâtiments dont les chantiers ont été ouverts avant le 1er janvier 1983.
 
 **Liens relatifs à cet article**
 
@@ -35185,399 +36543,261 @@ sans pouvoir excéder les limites autorisées par le ministre de l'économie, de
 
 	**Modifié par**:
 
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-
-###### Article R*431-40
-
-Il est constitué auprès de la Caisse centrale de réassurance une commission consultative des garanties des risques
-exceptionnels et nucléaires qui comprend :
-
-1° Un magistrat de la Cour des comptes désigné par le premier président de la Cour des comptes, président, suppléé en cas
-d'empêchement par un autre magistrat de la Cour des comptes désigné dans les mêmes conditions ;
-
-2° Un représentant du ministre de l'économie, des finances et du budget, du ministre des transports, du ministre de
-l'industrie et de la recherche, du secrétaire d'Etat du ministre de l'économie, des finances et du budget, chargé du budget,
-et du secrétaire d'Etat auprès du ministre des transports, chargé de la mer ;
-
-3° Un représentant de la fédération française des sociétés d'assurances et le directeur général de la Caisse centrale de
-réassurance, ou son représentant, chargé de la présentation des dossiers soumis à la commission.
-
-Le président peut inviter à participer aux travaux de la commission toute personne dont il lui paraît utile de recueillir
-l'avis sur une question à l'ordre du jour.
-
-Le secrétariat de la commission est assuré par la Caisse centrale de réassurance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-
-###### Article R*431-41
-
-La commission consultative des garanties se réunit, soit à l'initiative de son président, soit à la demande du ministre de
-l'économie, des finances et du budget, soit à la demande du directeur général de la Caisse centrale de réassurance.
-
-Outre les questions dont elle connaît obligatoirement, la commission peut être consultée sur toutes questions sur lesquelles
-le ministre de l'économie, des finances et du budget ou le directeur général de la Caisse centrale de réassurance souhaitent
-recueillir son avis.
-
-Les avis de la commission sont pris à la majorité des voix ; en cas de partage, la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-
-###### Article R*431-42
-
-La garantie de l'Etat donne lieu de la part de la caisse centrale de réassurance au versement d'une rémunération. Les
-conditions et modalités de la mise en jeu de la garantie et du versement de cette rémunération font l'objet de conventions
-passées entre le ministre de l'économie, des finances et du budget et le directeur général de la caisse centrale de
-réassurance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-
-###### Article R*431-43
-
-Le compte distinct ouvert dans les écritures de la caisse centrale de réassurance en application de l'article L. 431-6 fait
-notamment apparaître les recettes de primes et de commissions et, le cas échéant, les versements effectués par l'Etat au
-titre de la mise en jeu de la garantie, ainsi que la part des produits correspondant au placement des fonds gérés par la
-caisse au titre des opérations mentionnées par la présente section. Il retrace, en dépenses, outre les versements opérés au
-titre desdites opérations, la part des frais de gestion, commissions, impôts, taxes et frais annexes de toute nature, qui
-leur sont imputables. Il comptabilise les provisions et les réserves propres à ces risques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
 
 	**Cite**:
 
-	  - Code des assurances - art. L431-6 (M)
-
-
-###### Article R*431-44
-
-La Caisse centrale de réassurance constitue une provision spéciale pour charges exceptionnelles afférentes aux opérations
-garantissant les risques mentionnés à l'article L. 431-3, alinéa 1.
-
-Cette provision est alimentée par un prélèvement sur les primes égal à 0,10 % de l'estimation de la somme des valeurs
-garanties par la Caisse centrale de réassurance au cours de l'exercice considéré, sans que ce prélèvement puisse excéder le
-tiers du montant des primes nettes conservées correspondant aux opérations visées ci-dessus.
-
-Ce prélèvement cesse d'être obligatoire lorsque la provision spéciale pour charges exceptionnelles atteint un montant égal à
-la moyenne des cinq risques les plus élevés garantis.
-
-Le montant de la provision inscrite dans le compte distinct ouvert dans les écritures de la Caisse centrale de réassurance,
-en application de l'article L. 431-6, est affecté à la provision spéciale pour charges exceptionnelles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Cite**:
-
-	  - Code des assurances - art. L431-3 (M)
-	  - Code des assurances - art. L431-6 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-
-###### Article R*431-45
-
-En ce qui concerne les risques définis à l'article L. 431-3, alinéa 1, autres que de responsabilité civile, une assurance
-contre les risques ordinaires doit avoir été préalablement souscrite pour un montant au moins égal à celui pour lequel la
-garantie est demandée. La caisse centrale de réassurance peut déroger à cette obligation après accord de la commission
-consultative des garanties prévue à l'article R. 431-40.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Cite**:
-
-	  - Code des assurances - art. L431-3 (M)
-	  - Code des assurances L431-3, R431-40
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-
-###### Article R431-33
-
-La Caisse centrale de réassurance peut accepter d'assurer ou de réassurer, avec la garantie de l'Etat, les risques mentionnés
-à l'article L. 431-3, alinéa 1, lorsque les biens concernés sont propriété française ou immatriculés en France ou lorsque le
-souscripteur de la police ou le bénéficiaire de l'indemnité est de nationalité française.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Cite**:
-
-	  - Code des assurances - art. L431-3 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*431-45 (M)
-	  - Code des assurances - art. R431-36 (M)
-	  - Code des assurances - art. R471-1 (V)
-
-
-###### Article R431-34
-
-La Caisse centrale de réassurance, agissant avec la garantie de l'Etat, peut réassurer les risques mentionnés à l'article L.
-431-3, alinéa 1, lorsque les biens ou intérêts concernés donnent lieu à une garantie pour la souscription de laquelle
-intervient une entreprise agréée en France pour pratiquer les risques correspondants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Cite**:
-
-	  - Code des assurances - art. L431-3 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*431-45 (M)
-	  - Code des assurances - art. R431-36 (M)
-
-
-###### Article R431-35
-
-La Caisse centrale de réassurance, agissant avec la garantie de l'Etat, peut accorder sa couverture aux risques mentionnés à
-l'article L. 431-3, alinéa 1, lorsque les biens ou intérêts concernés sont réassurés par une entreprise dont le siège social
-est établi sur le territoire d'un Etat membre de la Communauté économique européenne. Les opérations effectuées à ce titre
-par la Caisse centrale de réassurance font l'objet d'un compte rendu au ministre de l'économie, des finances et du budget
-selon les modalités qu'il définit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Cite**:
-
-	  - Code des assurances - art. L431-3 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R431-36 (M)
-
-
-###### Article R431-36
-
-A titre exceptionnel, la Caisse centrale de réassurance peut accepter d'assurer ou de réassurer les risques visés à l'article
-L. 431-3, alinéa 1, ne répondant pas aux exigences des articles R. 431-33, R. 431-34, R. 431-35 après avoir recueilli l'avis
-de la commission consultative des garanties des risques exceptionnels et nucléaires prévue par l'article R. 431-40 et obtenu
-l'accord du ministre de l'économie, des finances et du budget.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Cite**:
-
-	  - Code des assurances - art. L431-3 (M)
-	  - Code des assurances - art. R*431-33 (M)
-	  - Code des assurances - art. R*431-34 (M)
-	  - Code des assurances - art. R*431-35 (M)
-	  - Code des assurances L431-3, R431-33, R431-34, R431-35, R431-40
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*431-37 (M)
-
-
-###### Article R431-37
-
-Les conditions générales des traités de réassurance sont soumises par la Caisse centrale de réassurance à l'approbation du
-ministre de l'économie, des finances et du budget, après avis de la commission consultative des garanties.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-
-###### Article R431-38
-
-Après avoir recueilli l'avis de la commission consultative des garanties sur les principes généraux de la tarification, la
-caisse centrale de réassurance détermine le tarif destiné à lui permettre de faire face aux charges des opérations qu'elle
-effectue au titre des articles L. 431-3, alinéa 1, et L. 431-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Cite**:
-
-	  - Code des assurances - art. L431-3 (M)
-	  - Code des assurances - art. L431-4 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*431-44 (M)
-
-
-##### Section IV : Dispositions diverses.
-
-###### Article R*431-47
-
-La cession de toute participation financière détenue par la caisse centrale de réassurance doit, nonobstant toutes
-dispositions contraires, faire l'objet d'une approbation par arrêté du ministre de l'économie et des finances dans tous les
-cas où la cession a pour effet de faire perdre à la caisse centrale de réassurance la majorité dans le capital de
-l'entreprise qui a bénéficié de sa participation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1206 1962-10-15 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-
-###### Article R*431-48
-
-Le personnel de la caisse centrale de réassurance a le même statut que le personnel de l'assurance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 31
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
+	  - Code des assurances - art. L431-14 (V)
 
 	**Cité par**:
 
 	  - Code des assurances - art. R471-1 (V)
+
+
+###### Article R431-49
+
+Pour les sinistres déclarés avant le 1er janvier 1983 et non réglés à cette date, la contribution du fonds de compensation
+est limitée à la prise en charge de 95 % au plus des insuffisances éventuelles du montant total des provisions pour sinistres
+à payer constituées au 31 décembre 1982, augmentées de leurs produits, par rapport au montant total des règlements
+correspondants. 
+
+Pour les sinistres déclarés à compter du 1er janvier 1983, la contribution du fonds s'opère en tenant compte des provisions
+pour risques en cours ou assimilées éventuellement constituées par les entreprises d'assurance. 
+
+La compensation des incidences financières de l'évolution des coûts de la construction prévue au deuxième alinéa de l'article
+L. 431-14 s'opère en tenant compte du rendement des placements des entreprises d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-14 (V)
+
+
+###### Article R431-50
+
+Le fonds de compensation des risques de l'assurance de la construction fait l'objet, dans les écritures de la caisse centrale
+de réassurance, d'une comptabilité spéciale.
+
+Les frais de gestion du fonds sont couverts par un prélèvement de la caisse centrale de réassurance sur les recettes du
+fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+
+###### Article R431-51
+
+Il est institué auprès du président du conseil d'administration, directeur général de la caisse centrale de réassurance, pour
+la gestion du fonds de compensation, un comité consultatif présidé par un magistrat de la Cour des comptes ayant au moins le
+grade de conseiller-maître et composé du président du conseil d'administration, directeur général de la caisse centrale de
+réassurance et de trois représentants de l'Etat nommés, l'un par le ministre chargé de l'économie et des finances, l'autre
+par le secrétaire d'Etat chargé du budget, le troisième par le ministre chargé de l'urbanisme.
+
+Siègent au comité cinq représentants des entreprises d'assurance nommés par le ministre chargé de l'économie et des finances
+sur proposition des organisations professionnelles des entreprises d'assurance et dix représentants des assurés nommés par le
+ministre chargé de l'urbanisme, dans les conditions suivantes :
+
+1° Six représentants proposés par les organisations professionnelles du bâtiment, soit :
+
+- un au titre des entreprises artisanales ;
+
+- un au titre des autres entreprises ;
+
+- deux au titre des concepteurs, dont un architecte ;
+
+- un au titre des contrôleurs techniques ;
+
+- un au titre des fabricants de matériaux visés à l'article 1792-4 du code civil.
+
+2° Quatre représentants des maîtres d'ouvrage, dont deux sont proposés par des organisations professionnelles des maîtres
+d'ouvrages publics et privés et deux par les organisations de consommateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Cite**:
+
+	  - Code civil - art. 1792-4 (V)
+
+
+###### Article R431-52
+
+Le comité est obligatoirement consulté sur les conventions prévues à l'article L. 431-14, ainsi que sur les comptes annuels
+du fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-14 (V)
+
+
+###### Article R431-53
+
+Un plan de financement des actions prévues au troisième alinéa de l'article L. 431-14 est présenté au comité par le président
+du conseil d'administration, directeur général de la caisse centrale de réassurance et soumis pour approbation aux ministres
+intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Cite**:
+
+	  - Code des assurances - art. L431-14 (M)
+
+
+###### Article R431-54
+
+Le président du conseil d'administration, directeur général de la caisse centrale de réassurance, peut soumettre au comité
+des affaires d'ordre général ou individuel sur lesquelles il veut solliciter son avis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+
+###### Article R431-55
+
+Le comité se réunit sur convocation de son président, à l'initiative de ce dernier ou à la demande du président du conseil
+d'administration, directeur général de la caisse centrale de réassurance. Il peut faire appel à des rapporteurs. Le
+secrétariat du comité est assuré par la caisse centrale de réassurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+
+###### Article R431-56
+
+Le président du conseil d'administration, directeur général de la caisse centrale de réassurance, présente chaque année au
+ministre chargé de l'économie et des finances, après accord du comité, un rapport sur la gestion du fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+
+###### Article R431-57
+
+Les avoirs disponibles du fonds de compensation des risques de l'assurance de la construction sont placés par la caisse
+centrale de réassurance en actifs mentionnés à l'article R. 332-2. Ces actifs sont soumis aux limitations prévues aux
+articles R. 332-3 et R. 332-3-1 ; toutefois, pour le calcul de ces limitations, le montant de chacune des catégories d'actifs
+est rapporté au montant des avoirs disponibles du fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Cite**:
+
+	  - Code des assurances - art. R332-2 (V)
+	  - Code des assurances - art. R332-3 (V)
+
+
+###### Article R431-58
+
+Le contrôle des opérations ainsi que l'approbation des comptes du fonds sont effectués dans les mêmes conditions que pour les
+autres activités de la caisse centrale de réassurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+
+###### Article R431-59
+
+Les entreprises artisanales mentionnées au sixième alinéa de l'article L. 431-14 sont définies au premier alinéa de l'article
+1er du décret n° 62-235 du 1er mars 1962 modifié par l'article 1er du décret n° 76-879 du 21 septembre 1976, et pour les
+départements du Bas-Rhin, du Haut-Rhin et de la Moselle, à l'article 3 du décret n° 73-942 du 3 octobre 1973.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-235 1962-03-01 art. 1
+	  - Décret n°73-942 1973-10-03 art. 3
+	  - Décret n°76-879 1976-09-21 art. 1
+	  - Code des assurances - art. L431-14 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1635 bis AB (M)
 
 
 #### Chapitre II : La compagnie française d'assurance pour le commerce extérieur "coface"
@@ -37270,32 +38490,6 @@ déduit de la mortalité spéciale constatée au cours des précédentes années
 	**Abrogé par**:
 
 	  - Décret n°87-833 1987-10-12 art. 3 JORF 13 octobre 1987
-
-
-### Titres III : Organismes particuliers d'assurance
-
-#### Chapitre I : La caisse centrale de réassurance
-
-##### Section III : Assurance et réassurance des risques exceptionnels et nucléaires.
-
-###### Article R*431-46
-
-Les dispositions de la présente section sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, des Terres australes et antarctiques françaises et de Wallis-et-Futuna.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
 
 ### Titre IV : Régimes particuliers d'assurance
