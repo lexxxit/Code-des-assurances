@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-02-16
+Version Consolidée au 1986-02-19
 
 # Partie législative
 
@@ -32873,6 +32873,241 @@ Le compte 08 donne lieu, au pied du bilan, aux mêmes mentions que le compte 06.
 	**Cite**:
 
 	  - Code des assurances R322-135
+
+
+#### Chapitre V : Comptes consolidés.
+
+###### Article R345-1
+
+Les comptes des entreprises d'assurance et de capitalisation qui ont le statut de société commerciale sont consolidés suivant
+les règles fixées aux articles 248 à 248-13 du décret n° 67-236 du 23 mars 1967 modifié sous réserve des dispositions du
+présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°67-236 1967-03-23 art. 248 à 248-13
+
+	**Anciens textes**:
+
+	  - Décret n°69-836 1969-08-29
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 9 () JORF 19 février 1986
+
+	**Cité par**:
+
+	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
+	  - Code des assurances - art. R334-42 (M)
+
+
+##### Section I : Méthodes de consolidation.
+
+###### Article R345-2
+
+Le chiffre d'affaires consolidé est constitué après retraitements, d'une part, du montant des primes d'assurance directe sans
+déduction des cessions de réassurance, d'autre part, du montant des acceptations en réassurance sans déduction des
+rétrocessions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-836 1969-08-29
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 9 () JORF 19 février 1986
+
+	**Cité par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
+	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
+
+
+###### Article R345-3
+
+Dans la consolidation par intégration globale ou proportionnelle, le retraitement qui résulte de l'élimination générale des
+créances et des dettes réciproques peut n'être que partiel en ce qui concerne les recours sur sinistres entre sociétés
+consolidées.
+
+En outre, les suppléments de valeur dégagés à l'occasion de transactions portant sur des placements représentatifs de
+provisions techniques sont maintenus dans les comptes consolidés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 9 () JORF 19 février 1986
+
+	**Cité par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
+	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
+
+
+###### Article R345-4
+
+Les modes et méthodes d'évaluation sont ceux qui sont utilisés en application du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 9 () JORF 19 février 1986
+
+
+###### Article R345-5
+
+Les règles de conversion applicables aux éléments exprimés en monnaie étrangère sont celles qui sont définies par le présent
+livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 9 () JORF 19 février 1986
+
+	**Cité par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+
+###### Article R345-6
+
+Lorsqu'une entreprise consolidable clôture ses comptes à une date autre que celle qui est retenue pour les comptes
+consolidés, la consolidation, en ce qui concerne cette entreprise, s'effectue sur la base de la situation à la clôture du
+dernier exercice connu, corrigée des effets des opérations réciproques exceptionnelles réalisées dans l'intervalle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 9 () JORF 19 février 1986
+
+	**Cité par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+
+##### Section II : Présentation des comptes consolidés.
+
+###### Article R345-7
+
+Lorsque la société consolidante est une entreprise régie par le présent code, la présentation du bilan ainsi que le compte de
+résultat consolidés comprend les postes, éventuellement agrégés, des modèles définis par le présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 9 () JORF 19 février 1986
+
+	**Cité par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+
+###### Article R345-8
+
+Le compte de résultat consolidé est établi en faisant apparaître distinctement les branches Dommages et Vie, au moins pour
+les primes, sinistres et commissions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 9 () JORF 19 février 1986
+
+	**Cité par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+
+###### Article R345-9
+
+Les entreprises d'assurance et de capitalisation ne sont pas tenues de faire figurer dans l'annexe prévue à l'article 248-12
+du décret n° 67-236 du 23 mars 1967 modifié les renseignements mentionnés au 13° dudit article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 248-12 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 9 () JORF 19 février 1986
+
+	**Cité par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
