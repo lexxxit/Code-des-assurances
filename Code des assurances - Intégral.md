@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-03-30
+Version Consolidée au 1990-05-01
 
 # Partie législative
 
@@ -183,8 +183,18 @@ qu'il soit.
 
 ###### Article L112-2
 
+L'assureur doit obligatoirement fournir une fiche d'information sur le prix et les garanties avant la conclusion du contrat.
+
+Avant la conclusion du contrat, l'assureur remet à l'assuré un exemplaire du projet de contrat et de ses pièces annexes ou
+une notice d'information sur le contrat qui décrit précisément les garanties assorties des exclusions, ainsi que les
+obligations de l'assuré.
+
+Un décret en Conseil d'Etat définit les moyens de constater la remise effective des documents mentionnés à l'alinéa
+précédent. Il détermine, en outre, les dérogations justifiées par la nature du contrat ou les circonstances de sa
+souscription.
+
 La proposition d'assurance n'engage ni l'assuré, ni l'assureur ; seule la police ou la note de couverture constate leur
-engagement réciproque. 
+engagement réciproque.
 
 Est considérée comme acceptée la proposition faite, par lettre recommandée, de prolonger ou de modifier un contrat ou de
 remettre en vigueur un contrat suspendu, si l'assureur ne refuse pas cette proposition dans les dix jours après qu'elle lui
@@ -194,9 +204,13 @@ Les dispositions de l'alinéa précédent ne sont pas applicables aux assurances
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°76-666 1976-07-16
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 8 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
 
 	**Cité par**:
 
@@ -217,15 +231,14 @@ Les dispositions de l'alinéa précédent ne sont pas applicables aux assurances
 	  - Code des assurances - art. R220-10 (Ab)
 	  - Code des assurances - art. R241-8 (T)
 
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 7
-
 
 ###### Article L112-3
 
-Le contrat d'assurance est rédigé par écrit, en caractères apparents. Il peut être passé devant notaire ou fait sous seing
-privé.
+Le contrat d'assurance est rédigé par écrit, en français, en caractères apparents.
+
+Lorsque, avant la conclusion du contrat, l'assureur a posé des questions par écrit à l'assuré, notamment par un formulaire de
+déclaration du risque ou par tout autre moyen, il ne peut se prévaloir du fait qu'une question exprimée en termes généraux
+n'a reçu qu'une réponse imprécise.
 
 Toute addition ou modification au contrat d'assurance primitif doit être constatée par un avenant signé des parties.
 
@@ -238,6 +251,14 @@ et l'assuré ne soient engagés l'un à l'égard de l'autre par la remise d'une 
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 9 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
 	**Cité par**:
 
 	  - Code des assurances - art. L145-1 (V)
@@ -245,10 +266,6 @@ et l'assuré ne soient engagés l'un à l'égard de l'autre par la remise d'une 
 	  - Code des assurances - art. L160-11 (V)
 	  - Code général des impôts, CGI. - art. 806 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 292 B (VD)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 8
 
 
 ###### Article L112-4
@@ -364,28 +381,43 @@ L'assuré est obligé :
 
 1° De payer la prime ou cotisation aux époques convenues ;
 
-2° De déclarer exactement lors de la conclusion du contrat toutes les circonstances connues de lui qui sont de nature à faire
-apprécier par l'assureur les risques qu'il prend à sa charge ;
+2° De répondre exactement aux questions posées par l'assureur, notamment dans le formulaire de déclaration du risque par
+lequel l'assureur l'interroge lors de la conclusion du contrat, sur les circonstances qui sont de nature à faire apprécier
+par l'assureur les risques qu'il prend en charge ;
 
-3° De déclarer à l'assureur, conformément à l'article L. 113-4, les circonstances spécifiées dans la police qui ont pour
-conséquence d'aggraver les risques ;
+3° De déclarer, en cours de contrat, les circonstances nouvelles qui ont pour conséquence soit d'aggraver les risques, soit
+d'en créer de nouveaux et rendent de ce fait inexactes ou caduques les réponses faites à l'assureur, notamment dans le
+formulaire mentionné au 2° ci-dessus.
 
-4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans les cinq jours, de tout sinistre de
-nature à entraîner la garantie de l'assureur.
+L'assuré doit, par lettre recommandée, déclarer ces circonstances à l'assureur dans un délai de quinze jours à partir du
+moment où il en a eu connaissance ;
 
-Les délais de la déclaration ci-dessus peuvent être prolongés d'un commun accord entre les parties contractantes.
+4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai fixé par le contrat, de tout
+sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés.
 
-La déchéance résultant d'une clause du contrat ne peut être opposée à l'assuré qui justifie qu'il a été mis, par suite d'un
-cas fortuit ou de force majeure, dans l'impossibilité de faire sa déclaration dans le délai imparti.
+Ce délai minimal est ramené à deux jours ouvrés en cas de vol et à vingt-quatre heures en cas de mortalité du bétail.
 
-Les dispositions des 1°, 3° et 4° ci-dessus ne sont pas applicables aux assurances sur la vie. Le délai prévu au 4° n'est pas
-applicable aux assurances contre la grêle, la mortalité du bétail et le vol.
+Les délais ci-dessus peuvent être prolongés d'un commun accord entre les parties contractantes.
+
+Lorsqu'elle est prévue par une clause du contrat, la déchéance pour déclaration tardive au regard des délais prévus au 3° et
+au 4° ci-dessus ne peut être opposée à l'assuré que si l'assureur établit que le retard dans la déclaration lui a causé un
+préjudice. Elle ne peut également être opposée dans tous les cas où le retard est dû à un cas fortuit ou de force majeure.
+
+Les dispositions mentionnées aux 1°, 3° et 4° ci-dessus ne sont pas applicables aux assurances sur la vie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 10 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
 
 	**Cité par**:
 
@@ -395,10 +427,6 @@ applicable aux assurances contre la grêle, la mortalité du bétail et le vol.
 	  - Code des assurances - art. L145-1 (V)
 	  - Code des assurances - art. L326-4 (V)
 	  - Code des assurances - art. R113-13 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L113-4 (M)
 
 
 ###### Article L113-3
@@ -460,26 +488,45 @@ Les dispositions des alinéas 2 à 4 du présent article ne sont pas applicables
 
 ###### Article L113-4
 
-Quand, par son fait, l'assuré aggrave les risques de telle façon que, si le nouvel état de choses avait existé lors du
-contrat, l'assureur n'aurait pas contracté ou ne l'aurait fait que moyennant une prime plus élevée, l'assuré doit en faire
-préalablement la déclaration à l'assureur par lettre recommandée.
+En cas d'aggravation du risque en cours de contrat, telle que, si les circonstances nouvelles avaient été déclarées lors de
+la conclusion ou du renouvellement du contrat, l'assureur n'aurait pas contracté ou ne l'aurait fait que moyennant une prime
+plus élevée, l'assureur a la faculté soit de dénoncer le contrat, soit de proposer un nouveau montant de prime.
 
-Quand les risques sont aggravés sans le fait de l'assuré, celui-ci doit en faire la déclaration par lettre recommandée, dans
-un délai maximal de huit jours à partir du moment où il a eu connaissance du fait de l'aggravation.
-
-Dans l'un et l'autre cas, l'assureur a la faculté, soit de résilier le contrat, soit de proposer un nouveau taux de prime. Si
-l'assuré n'accepte pas ce nouveau taux, le contrat est résilié, et l'assureur, dans le cas du premier alinéa ci-dessus,
-conserve le droit de réclamer une indemnité devant les tribunaux.
+Dans le premier cas, la résiliation ne peut prendre effet que dix jours après notification et l'assureur doit alors
+rembourser à l'assuré la portion de prime ou de cotisation afférente à la période pendant laquelle le risque n'a pas couru.
+Dans le second cas, si l'assuré ne donne pas suite à la proposition de l'assureur ou s'il refuse expressément le nouveau
+montant, dans le délai de trente jours à compter de la proposition, l'assureur peut résilier le contrat au terme de ce délai,
+à condition d'avoir informé l'assuré de cette faculté, en la faisant figurer en caractères apparents dans la lettre de
+proposition.
 
 Toutefois, l'assureur ne peut plus se prévaloir de l'aggravation des risques quand, après en avoir été informé de quelque
 manière que ce soit, il a manifesté son consentement au maintien de l'assurance, spécialement en continuant à recevoir les
 primes ou en payant, après un sinistre, une indemnité.
+
+L'assuré a droit en cas de diminution du risque en cours de contrat à une diminution du montant de la prime. Si l'assureur
+n'y consent pas, l'assuré peut dénoncer le contrat. La résiliation prend alors effet trente jours après la dénonciation.
+L'assureur doit alors rembourser à l'assuré la portion de prime ou cotisation afférente à la période pendant laquelle le
+risque n'a pas couru.
+
+L'assureur doit rappeler les dispositions du présent article à l'assuré, lorsque celui-ci l'informe soit d'une aggravation,
+soit d'une diminution de risques.
+
+Les dispositions du présent article ne sont applicables ni aux assurances sur la vie, ni à l'assurance maladie lorsque l'état
+de santé de l'assuré se trouve modifié.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 11 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
 
 	**Cité par**:
 
@@ -488,10 +535,6 @@ primes ou en payant, après un sinistre, une indemnité.
 	  - Code des assurances - art. L113-2 (M)
 	  - Code des assurances - art. L160-7 (V)
 	  - Code des assurances - art. R211-4 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-30 art. 17
 
 
 ###### Article L113-5
@@ -687,27 +730,28 @@ dommage que ce retard lui a causé.
 
 La durée du contrat et les conditions de résiliation sont fixées par la police.
 
-Toutefois, et sous réserve des dispositions relatives aux assurances sur la vie, l'assuré a le droit de se retirer tous les
-trois ans en prévenant l'assureur au cours de la période d'engagement, au moins trois mois à l'avance dans les formes
-indiquées à l'article L. 113-14. Ce droit appartient dans les mêmes conditions à l'assureur.
+Toutefois, l'assuré a le droit de résilier le contrat à l'expiration d'un délai d'un an, en envoyant une lettre recommandée à
+l'assureur au moins deux mois avant la date d'échéance. Ce droit appartient, dans les mêmes conditions, à l'assureur. Il peut
+être dérogé à cette règle pour les contrats individuels d'assurance maladie et pour la couverture des risques autres que ceux
+des particuliers. Le droit de résilier le contrat tous les ans doit être rappelé dans chaque police. Le délai de résiliation
+court à partir de la date figurant sur le cachet de la poste.
 
-Après la seconde période de trois ans, la résiliation peut être demandée annuellement par l'une ou l'autre des parties dans
-les délais fixés ci-dessus.
-
-En ce qui concerne les contrats souscrits avant le 15 juillet 1972, le délai à l'expiration duquel l'assuré peut exercer son
-droit de résiliation annuel est celui qui est fixé par la convention, sans pouvoir excéder six ans à compter de la
-souscription du contrat.
+Les dispositions du présent article ne sont pas applicables aux assurances sur la vie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-647 1972-07-11 art. 3
-	  - Loi n°1930-07-13 art. 5
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 12 *modalités d'application application aux contrats en cours*, art. 60 *date d'effet*
+	  - TXT_ASSOCIE: Code des assurances L113-13 *délais particuliers de résiliation pour certaines branches d'assurance*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 12 (V) JORF 3 janvier 1990 en vigueur le 1er mai 1990
 
 	**Cité par**:
 
@@ -718,14 +762,6 @@ souscription du contrat.
 	  - Code des assurances - art. L113-12-1 (V)
 	  - Code des assurances - art. L113-12-2 (V)
 	  - Code des assurances - art. L113-13 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L113-14 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances L113-13 *délais particuliers de résiliation pour certaines branches d'assurance*
 
 
 ###### Article L113-13
@@ -829,10 +865,7 @@ La résiliation prend effet un mois après que l'autre partie au contrat en a re
 L'assureur doit rembourser à l'assuré la partie de prime ou de cotisation correspondant à la période pendant laquelle le
 risque n'a pas couru, période calculée à compter de la date d'effet de la résiliation.
 
-Il peut être stipulé le paiement d'une indemnité à l'assureur par l'assuré dans tous les cas de résiliation susmentionnés
-lorsqu'elle est le fait de l'assuré. Le paiement d'une indemnité doit, à peine de nullité, faire l'objet d'une clause
-expresse rédigée en caractères très apparents dans la police et rappelée aux conditions particulières de celle-ci. Ladite
-indemnité ne peut dépasser la moitié d'une prime ou d'une cotisation annuelle.
+Il ne peut être prévu le paiement d'une indemnité à l'assureur dans les cas de résiliation susmentionnés.
 
 Les dispositions du présent article ne sont pas applicables aux assurances sur la vie. Elles sont applicables à compter du 9
 juillet 1973 aux contrats souscrits antérieurement au 15 juillet 1972.
@@ -846,6 +879,18 @@ cas énumérés au premier alinéa, est retenue comme point de départ du délai
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - TXT_SOURCE: Code des assurances - art. R*113-10 (V)
+	  - TXT_SOURCE: Code des assurances - art. R*113-7 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*113-8 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*113-9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 13 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. L111-38 (V)
@@ -853,17 +898,28 @@ cas énumérés au premier alinéa, est retenue comme point de départ du délai
 	  - Code des assurances - art. R*113-7 (Ab)
 	  - Code des assurances - art. R113-6 (V)
 
+
+###### Article L113-17
+
+L'assureur qui prend la direction d'un procès intenté à l'assuré est censé aussi renoncer à toutes les exceptions dont il
+avait connaissance lorsqu'il a pris la direction du procès.
+
+L'assuré n'encourt aucune déchéance ni aucune autre sanction du fait de son immixtion dans la direction du procès s'il avait
+intérêt à le faire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
 	**Liens**:
 
-	  - SPEC_APPLI: Code des assurances - art. L243-7 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*113-10 (V)
-	  - TXT_SOURCE: Code des assurances - art. R*113-7 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*113-8 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*113-9 (Ab)
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°1930-07-13 art. 5 bis
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 14 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
 
 
 #### Chapitre IV : Compétence et prescription.
@@ -882,21 +938,29 @@ connaissance ;
 Quand l'action de l'assuré contre l'assureur a pour cause le recours d'un tiers, le délai de la prescription ne court que du
 jour où ce tiers a exercé une action en justice contre l'assuré ou a été indemnisé par ce dernier.
 
+La prescription est portée à dix ans dans les contrats d'assurance sur la vie lorsque le bénéficiaire est une personne
+distincte du souscripteur et, dans les contrats d'assurance contre les accidents atteignant les personnes, lorsque les
+bénéficiaires sont les ayants droit de l'assuré décédé.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 15 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
 	**Cité par**:
 
 	  - Code des assurances - art. L145-9 (V)
 	  - Code des assurances - art. L192-1 (V)
 	  - Code général des impôts, CGI. - art. 154 bis-0 A (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 25
 
 
 ###### Article L114-2
@@ -1173,9 +1237,7 @@ lettre recommandée.
 Lorsqu'il y a plusieurs héritiers ou plusieurs acquéreurs, si l'assurance continue, ils sont tenus solidairement du paiement
 des primes.
 
-Est nulle toute clause par laquelle serait stipulée au profit de l'assureur, à titre de dommages et intérêts, une somme
-excédant le montant de la prime d'une année dans l'hypothèse de décès de l'assuré ou d'aliénation de la chose assurée, si
-l'héritier ou l'acquéreur opte pour la résiliation du contrat.
+Il ne peut être prévu le paiement d'une indemnité à l'assureur dans les cas de résiliation susmentionnés.
 
 Les dispositions du présent article ne sont pas applicables au cas d'aliénation d'un véhicule terrestre à moteur.
 
@@ -1185,18 +1247,18 @@ Les dispositions du présent article ne sont pas applicables au cas d'aliénatio
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 13 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. L111-38 (V)
 	  - Code des assurances - art. L243-7 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. L243-7 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 19
 
 
 ###### Article L121-11
@@ -1210,13 +1272,7 @@ intervient de plein droit à l'expiration d'un délai de six mois à compter de 
 
 L'assuré doit informer l'assureur, par lettre recommandée, de la date d'aliénation.
 
-Il peut être stipulé au contrat qu'à défaut de cette notification, l'assureur a droit à une indemnité d'un montant égal à la
-portion de prime échue ou à échoir correspondant au temps écoulé entre la date de l'aliénation et le jour où il en a eu
-connaissance. Le montant de cette indemnité ne peut dépasser la moitié d'une prime annuelle.
-
-Il peut également être stipulé une indemnité au profit de l'assureur lorsque la résiliation est le fait de l'assuré ou
-intervient de plein droit par application du présent article. Le montant maximal de cette indemnité est également fixé à la
-moitié d'une prime annuelle.
+Il ne peut être prévu le paiement d'une indemnité à l'assureur, dans les cas de résiliation susmentionnés.
 
 L'ensemble des dispositions du présent article est applicable en cas d'aliénation de navires ou de bateaux de plaisance quel
 que soit le mode de déplacement ou de propulsion utilisé.
@@ -1227,9 +1283,13 @@ que soit le mode de déplacement ou de propulsion utilisé.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
 	**Modifié par**:
 
-	  - Loi n°81-5 du 7 janvier 1981 - art. 34 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 13 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
 
 	**Cité par**:
 
@@ -2734,9 +2794,12 @@ par tout intéressé et par le ministère public.
 
 ###### Article L140-1
 
-Par dérogation aux dispositions des articles L. 132-2 et L. 132-3, le représentant légal d'un majeur en tutelle peut adhérer
-au nom de celui-ci à un contrat d'assurance de groupe en cas de décès, conclu par l'exécution d'une convention de travail ou
-d'un accord d'entreprise.
+Est un contrat d'assurance de groupe le contrat souscrit par une personne morale ou un chef d'entreprise en vue de l'adhésion
+d'un ensemble de personnes répondant à des conditions définies au contrat, pour la couverture des risques dépendant de la
+durée de la vie humaine, des risques portant atteinte à l'intégrité physique de la personne ou liés à la maternité, des
+risques d'incapacité de travail ou d'invalidité ou du risque de chômage.
+
+Les adhérents doivent avoir un lien de même nature avec le souscripteur.
 
 **Liens relatifs à cet article**
 
@@ -2744,9 +2807,14 @@ d'un accord d'entreprise.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°81-5 du 7 janvier 1981 - art. 35 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 (date d'effet)
+	  - SPEC_APPLI: Code des assurances L132-7 (dérogations)
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 16 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
 
 	**Cité par**:
 
@@ -2757,15 +2825,169 @@ d'un accord d'entreprise.
 	  - Code des assurances - art. L141-6 (M)
 	  - Code général des collectivités territoriales - art. L2223-35-1 (M)
 
+	**Transféré par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L140-5 (T)
+	  - Code des assurances - art. L141-1 (M)
+	  - Code des assurances - art. L141-1 (V)
+
+
+###### Article L140-2
+
+Les sommes dues par l'adhérent au souscripteur au titre de l'assurance doivent lui être décomptées distinctement de celles
+qu'il peut lui devoir, par ailleurs, au titre d'un autre contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 16 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
+	**Transféré par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L141-2 (M)
+	  - Code des assurances - art. L141-2 (V)
+
+
+###### Article L140-3
+
+Le souscripteur ne peut exclure un adhérent du bénéfice du contrat d'assurance de groupe que si le lien qui les unit est
+rompu ou si l'adhérent cesse de payer la prime.
+
+L'exclusion ne peut intervenir qu'au terme d'un délai de quarante jours à compter de l'envoi, par le souscripteur, d'une
+lettre recommandée de mise en demeure. Cette lettre ne peut être envoyée que dix jours au plus tôt après la date à laquelle
+les sommes dues doivent être payées.
+
+Lors de la mise en demeure, le souscripteur informe l'adhérent qu'à l'expiration du délai prévu à l'alinéa précédent, le
+défaut de paiement de la prime est susceptible d'entraîner son exclusion du contrat.
+
+Cette exclusion ne peut faire obstacle, le cas échéant, au versement des prestations acquises en contrepartie des primes ou
+cotisations versées antérieurement par l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 16 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
+	**Transféré par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L141-3 (M)
+	  - Code des assurances - art. L141-3 (V)
+
+
+###### Article L140-4
+
+Le souscripteur est tenu :
+
+- de remettre à l'adhérent une notice établie par l'assureur qui définit les garanties et leurs modalités d'entrée en vigueur
+ainsi que les formalités à accomplir en cas de sinistre ;
+
+- d'informer par écrit les adhérents des modifications qu'il est prévu, le cas échéant, d'apporter à leurs droits et
+obligations.
+
+La preuve de la remise de la notice à l'adhérent et de l'information relative aux modifications contractuelles incombe au
+souscripteur.
+
+L'adhérent peut dénoncer son adhésion en raison de ces modifications.
+
+Toutefois, la faculté de dénonciation n'est pas offerte à l'adhérent lorsque le lien qui l'unit au souscripteur rend
+obligatoire l'adhésion au contrat.
+
+Les assurances de groupe ayant pour objet la garantie de remboursement d'un emprunt et qui sont régies par des lois spéciales
+ne sont pas soumises aux dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cité par**:
+
+	  - Loi n°84-610 du 16 juillet 1984 - art. 38 (M)
+	  - Code de la sécurité sociale. - art. D242-1 (V)
+	  - Code rural et de la pêche maritime - art. D741-39 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 16 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
+	**Transféré par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L141-4 (M)
+	  - Code des assurances - art. L141-4 (V)
+
+
+###### Article L140-5
+
+Par dérogation aux dispositions des articles L. 132-2 et L. 132-3, le représentant légal d'un majeur en tutelle peut adhérer
+au nom de celui-ci à un contrat d'assurance de groupe en cas de décès, conclu pour l'exécution d'une convention de travail ou
+d'un accord d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Transféré par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 16 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+
 	**Cite**:
 
 	  - Code des assurances - art. L132-2 (M)
 	  - Code des assurances - art. L132-3 (M)
 
+	**Anciens textes**:
+
+	  - Code des assurances - art. L140-1 (T)
+
 	**Nouveaux textes**:
 
-	  - Code des assurances - art. L140-5 (T)
-	  - Code des assurances - art. L141-1 (V)
+	  - Code des assurances - art. L141-5 (M)
 
 
 ### Titre V : Le contrat de capitalisation
@@ -9876,6 +10098,244 @@ ministre de l'économie et des finances, notamment en faveur des entreprises ou 
 ## Livre IV : Organisations et régimes particuliers d'assurance
 
 ### Titre Ier : Organisations générales d'assurance.
+
+#### Chapitre I : Le conseil national des assurances
+
+##### Section I : Organisation et attributions.
+
+###### Article L411-1
+
+Il est institué un Conseil national des assurances.
+
+Ce conseil est présidé par le ministre chargé de l'économie et des finances ou, en son absence, par le directeur des
+assurances qui en est membre de droit.
+
+Le conseil comprend en outre :
+
+- un député désigné par l'Assemblée nationale ;
+
+- un sénateur désigné par le Sénat ;
+
+- un membre du Conseil d'Etat ayant le grade de conseiller, désigné par le vice-président du Conseil d'Etat ;
+
+- cinq représentants de l'Etat ;
+
+- trois personnalités choisies en raison de leurs compétences, dont un professeur des facultés de droit ;
+
+- douze représentants des professions de l'assurance ;
+
+- cinq représentants du personnel des entreprises d'assurance mentionnées à l'article L. 310-1 ;
+
+- huit représentants des assurés dont un représentant élu des collectivités locales.
+
+Hormis le président et le directeur des assurances, les membres du Conseil national des assurances sont nommés pour une
+période de trois ans renouvelable.
+
+Le Conseil national des assurances se réunit au moins deux fois par an en séance plénière.
+
+Un décret en Conseil d'Etat fixe les modalités de désignation des membres visés aux septième à onzième alinéas ci-dessus,
+ainsi que les conditions de fonctionnement du Conseil national des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 17 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R211-9 (VD)
+	  - Code des assurances - art. L411-6 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+
+###### Article L411-2
+
+Le Conseil national des assurances est consulté sur toutes les questions relatives aux assurances, à la réassurance, à la
+capitalisation et à l'assistance. Il peut être saisi à la demande soit du ministre chargé de l'économie et des finances, soit
+de la majorité de ses membres.
+
+Il est saisi pour avis par le ministre chargé de l'économie et des finances de tout projet de loi avant son examen par le
+Conseil d'Etat, de tout projet de directive européenne avant son examen par le Conseil des communautés européennes, ainsi que
+de tous les projets de décrets entrant dans son champ de compétence.
+
+Il peut soumettre au ministre chargé de l'économie et des finances toutes propositions relatives à l'activité et à la
+législation de l'assurance, ainsi qu'à la prévention.
+
+Il adresse chaque année au Président de la République et au Parlement un rapport relatif aux assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 17 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-9 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L411-5 (Ab)
+
+
+###### Article L411-3
+
+Sont instituées, au sein du Conseil national des assurances, une commission des entreprises d'assurance, une commission de la
+réglementation et une commission consultative de l'assurance.
+
+Sous réserve des dispositions des articles L. 411-4 à L. 411-6, la composition et les conditions de fonctionnement de ces
+commissions sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 17 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*411-10 (Ab)
+	  - Code des assurances - art. R*411-11 (Ab)
+	  - Code des assurances - art. R*411-12 (Ab)
+	  - Code des assurances - art. R*411-13 (Ab)
+	  - Code des assurances - art. R*411-14 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances L411-4 à L411-6
+
+
+###### Article L411-4
+
+La commission des entreprises d'assurance est consultée préalablement aux décisions relatives à l'agrément des entreprises
+d'assurance prévues aux articles L. 321-1, L. 325-1 et L. 351-5.
+
+La commission des entreprises d'assurance est présidée par le ministre de l'économie et des finances ou son représentant
+désigné à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 17 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L351-5 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L325-1 (M)
+	  - Code des assurances - art. R*321-13 (T)
+	  - Code des assurances - art. R*321-14 (M)
+	  - Code des assurances - art. R*321-2 (T)
+	  - Code des assurances - art. R*321-4 (M)
+	  - Code des assurances - art. R*322-161 (M)
+	  - Code des assurances - art. R322-11-1 (M)
+	  - Code des assurances - art. R325-12 (V)
+
+
+###### Article L411-5
+
+La commission de la réglementation émet un avis, pour le compte du Conseil national des assurances, sur les projets de
+décrets dont celui-ci est saisi en application de l'article L. 411-2.
+
+La commission de la réglementation est présidée par le ministre de l'économie et des finances ou son représentant désigné à
+cet effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 17 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
+	**Abrogé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 22 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. L411-2 (M)
+
+
+###### Article L411-6
+
+La commission consultative de l'assurance est chargée d'étudier les problèmes liés aux relations entre les entreprises
+mentionnées à l'article L. 310-1 et leur clientèle et de proposer toutes mesures appropriées dans ce domaine, notamment sous
+forme d'avis ou de recommandation d'ordre général.
+
+La commission consultative de l'assurance peut se saisir de sa propre initiative à la demande de la majorité de ses membres.
+Elle peut être saisie par le ministre chargé de l'économie et des finances et par les organisations de consommateurs agréées
+au plan national.
+
+La commission consultative de l'assurance est composée au moins pour les deux tiers de représentants des professions de
+l'assurance et de représentants des assurés. Sur décision de la majorité de ses membres, elle peut s'adjoindre des membres
+extérieurs pour les besoins de ses travaux.
+
+La commission consultative de l'assurance est présidée par l'une des personnalités mentionnées au huitième alinéa de
+l'article L. 411-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 17 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+
+	**Abrogé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 22 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L411-1 (M)
+
 
 #### Chapitre II : L'école nationale d'assurances.
 
