@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1979-03-21
+Version Consolidée au 1979-04-18
 
 # Partie législative
 
@@ -42540,6 +42540,82 @@ août 1949, doit être donné par le directeur général des impôts.
 #### Chapitre III : La caisse nationale de prévoyance
 
 ##### Section V : Tarifs.
+
+###### Article A433-4
+
+Les tarifs des contrats de rente viagère immédiate souscrits par des personnes âgées d'au moins soixante-cinq ans, ainsi que
+des contrats à prime unique d'une durée maximale de dix ans, peuvent être établis d'après un taux d'intérêt supérieur aux
+taux mentionnés à l'article A. 433-2.
+
+En ce cas et pour chacun des tarifs, les conditions suivantes doivent être remplies.
+
+1° L'actif représentatif des engagements correspondant à ces contrats doit être isolé dans la comptabilité de l'entreprise ;
+
+2° Cet actif doit pouvoir procurer un taux de rendement supérieur d'au moins un tiers au taux d'intérêt du tarif.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1975-05-28 art. 3
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1979-03-29 art. 3 JORF 18 avril 1979
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
+
+	**Cité par**:
+
+	  - Code des assurances - art. A433-2 (Ab)
+	  - Code des assurances - art. A433-2-1 (Ab)
+	  - Code des assurances - art. A433-3 (Ab)
+	  - Code des assurances - art. A433-5 (Ab)
+	  - Code des assurances - art. A433-6 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R433-2
+
+
+###### Article A433-5
+
+Les provisions mathématiques afférentes aux contrats mentionnés à l'article A. 433-4 doivent être calculées d'après un taux
+au plus égal au plus faible des taux d'intérêt suivants : soit le taux du tarif, soit le taux de rendement réel, diminué d'un
+cinquième de l'actif représentatif des engagements correspondants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1975-05-28 art. 4
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1979-03-29 art. 4 JORF 18 avril 1979
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. A433-4 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R433-2
+
 
 ###### Article A433-6
 
