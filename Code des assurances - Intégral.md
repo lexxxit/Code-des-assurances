@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-05-12
+Version Consolidée au 2004-06-10
 
 # Partie législative
 
@@ -13155,7 +13155,7 @@ prévues par leurs statuts.
 	  - TXT_SOURCE: Code des assurances - art. R322-137 (M)
 
 
-#### Chapitre III : Procédures de redressement et de sauvegarde
+#### Chapitre III : Mesures de sauvegarde et d'assainissement
 
 ##### Section I : Règles générales.
 
@@ -13170,6 +13170,14 @@ de rachat ou le versement d'avances sur contrats.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 1 () JORF 10 juin 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
+
 	**Cité par**:
 
 	  - Code des assurances - art. L323-8 (V)
@@ -13180,8 +13188,8 @@ de rachat ou le versement d'avances sur contrats.
 
 	**Liens**:
 
+	  - TXT_ASSOCIE: Code des assurances - art. L328-15 (M)
 	  - TXT_SOURCE: Code des assurances - art. R*323-9 (M)
-	  - TXT_ASSOCIE: Code des assurances L328-15 *sanctions pénales*
 
 	**Anciens textes**:
 
@@ -13190,15 +13198,16 @@ de rachat ou le versement d'avances sur contrats.
 
 ###### Article L323-1-1
 
-Lorsque la situation financière d'un organisme contrôlé par la commission de contrôle en vertu de l'article L. 310-12, ou que
-ses conditions de fonctionnement sont telles que les intérêts des assurés et bénéficiaires des contrats sont compromis ou
-susceptibles de l'être, la commission de contrôle des assurances prend les mesures d'urgence nécessaires à la sauvegarde de
+Lorsque la situation financière d'un organisme contrôlé par la commission de contrôle des assurances, des mutuelles et des
+institutions de prévoyance en vertu de l'article L. 310-12, ou que ses conditions de fonctionnement sont telles que les
+intérêts des assurés et bénéficiaires des contrats sont compromis ou susceptibles de l'être, la commission de contrôle des
+assurances, des mutuelles et des institutions de prévoyance prend les mesures d'urgence nécessaires à la sauvegarde de
 l'intérêt des assurés, membres et ayants droit.
 
 Elle peut, à ce titre, mettre l'entreprise sous surveillance spéciale.
 
 Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie des actifs de l'entreprise, limiter ou
-suspendre temporairement certaines opérations ou désigner un ou plusieurs administrateurs provisoires à qui sont transférés
+suspendre temporairement certaines opérations, ou désigner un ou plusieurs administrateurs provisoires à qui sont transférés
 les pouvoirs nécessaires à l'administration et à la direction de l'entreprise. Cette désignation est faite soit à la demande
 des dirigeants lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs fonctions, soit à l'initiative de la
 commission lorsque la gestion de l'établissement ne peut plus être assurée dans des conditions normales, ou lorsque a été
@@ -13225,7 +13234,8 @@ Ce même décret précise les modalités d'application du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 32 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 1 () JORF 10 juin 2004
 
 	**Cite**:
 
@@ -13268,13 +13278,60 @@ territoires d'outre-mer.
 
 	  - Loi n°91-716 1991-07-26
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 1 () JORF 10 juin 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+
+##### Section II : Mesures d'assainissement des entreprises communautaires.
+
+###### Article L323-8
+
+Les mesures d'assainissement mentionnées à la présente section sont les mesures prises, en France ou dans tout Etat membre,
+par une autorité administrative ou judiciaire, destinées à préserver ou rétablir la situation financière d'une entreprise
+d'assurance et qui affectent les droits préexistants des parties autres que l'entreprise d'assurance elle-même.
+
+Lorsqu'elles sont prises en France, ces mesures sont, lorsqu'elles affectent ces droits :
+
+1° Les mesures mentionnées à l'article L. 323-1 et au troisième alinéa de l'article L. 323-1-1, à l'exception de la
+nomination d'un administrateur provisoire ;
+
+2° La sanction prévue au 3° de l'article L. 310-18, le retrait partiel d'agrément prévu au 5° ou le transfert partiel de
+portefeuille prévu au 6° du même article ;
+
+3° La procédure de règlement amiable mentionnée au titre Ier du livre VI du code de commerce ;
+
+4° La procédure de redressement judiciaire mentionnée au titre II du livre VI du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 1 () JORF 10 juin 2004
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 26 (V)
+	  - Code des assurances - art. L326-20 (VD)
+	  - Code des assurances - art. L326-21 (V)
+	  - Code des assurances - art. L326-22 (V)
+	  - Code des assurances - art. L326-23 (V)
+	  - Code des assurances - art. L390-1 (V)
+	  - Code des assurances - art. R*323-11 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L323-1 (M)
+	  - Code des assurances - art. L323-1-1 (M)
 
 
 #### Chapitre IV : Transfert de portefeuille
@@ -13991,6 +14048,267 @@ territoires d'outre-mer.
 	**Abrogé par**:
 
 	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+
+##### Section III : Effets des procédures de liquidation des entreprises communautaires.
+
+###### Article L326-20
+
+Sous réserve des dispositions des articles L. 326-21 à L. 326-29, les mesures d'assainissement définies à l'article L. 323-8
+et les décisions concernant l'ouverture d'une procédure de liquidation prises par les autorités compétentes d'un Etat membre
+de la Communauté européenne autre que la France à l'égard d'une entreprise d'assurance ayant son siège sur le territoire de
+cet Etat produisent tous leurs effets sur le territoire de la République française sans aucune autre formalité, y compris à
+l'égard des tiers, dès qu'elles produisent leurs effets dans cet Etat. Ces dispositions s'appliquent également lorsque les
+mesures d'assainissement ou les décisions ouvrant une procédure de liquidation sont prises à l'égard d'une succursale d'une
+entreprise d'assurance dont le siège est situé en dehors de la Communauté européenne.
+
+Il en est de même des décisions intervenant dans un Etat membre autre que la France dans le cadre d'une liquidation
+volontaire d'une entreprise d'assurance impliquant une intervention administrative ou judiciaire.
+
+Les mesures d'assainissement définies à l'article L. 323-8 et les décisions ouvrant une procédure de liquidation prises par
+l'autorité publique française compétente à l'égard d'une entreprise ayant reçu l'agrément visé aux articles L. 321-1, L.
+321-7 et L. 321-9 produisent tous leurs effets sur le territoire des autres Etats membres de la Communauté européenne, sous
+réserve de dispositions contraires prévues par les lois de ces Etats, ainsi que le prévoit la directive 2001/17/CE du
+Parlement européen et du Conseil du 19 mars 2001 concernant l'assainissement et la liquidation des entreprises d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 2 () JORF 10 juin 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L321-9 (M)
+	  - Code des assurances - art. L323-8 (M)
+	  - Code des assurances L326-21 à L326-29, L323-8, L321-1, L321-7, L321-9
+	  - Directive 2001-17 CE 2001-03-19
+
+	**Cité par**:
+
+	  - Code des assurances - art. L326-21 (V)
+	  - Code des assurances - art. R*323-11 (VD)
+	  - Code des assurances - art. R325-13 (V)
+
+
+###### Article L326-21
+
+Par dérogation aux dispositions de l'article L. 326-20, les effets d'une mesure d'assainissement définie à l'article L. 323-8
+ou d'une procédure de liquidation sur les contrats et les droits énumérés ci-après sont déterminés par les règles suivantes :
+
+a) Les contrats de travail et les relations de travail sont exclusivement régis par la loi de l'Etat applicable à ce contrat
+ou à cette relation ;
+
+b) Un contrat donnant le droit de jouir d'un bien immobilier ou de l'acquérir est exclusivement régi par la loi française si
+ce bien est situé sur le territoire de la République française ;
+
+c) Les droits qu'une entreprise d'assurance communautaire détient sur un bien immobilier, un navire ou un aéronef qui sont
+soumis à inscription sur un registre public tenu par une autorité publique française sont régis par la loi française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 2 () JORF 10 juin 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L323-8 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L326-20 (V)
+
+
+###### Article L326-22
+
+L'adoption d'une mesure d'assainissement définie à l'article L. 323-8 ou l'ouverture d'une procédure de liquidation dans un
+autre Etat membre à l'égard d'une entreprise d'assurance communautaire n'affecte pas les droits réels, au sens du droit
+applicable, d'un créancier ou d'un tiers sur des biens corporels ou incorporels, meubles ou immeubles, appartenant à
+l'entreprise d'assurance et qui se trouvent, au moment de l'ouverture d'une telle procédure, sur le territoire français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 2 () JORF 10 juin 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L323-8 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L326-26 (V)
+
+
+###### Article L326-23
+
+L'adoption d'une mesure d'assainissement définie à l'article L. 323-8 ou l'ouverture d'une procédure de liquidation dans un
+Etat membre de la Communauté européenne autre que la France à l'égard d'une entreprise d'assurance communautaire qui a acheté
+un bien n'affecte pas les droits du vendeur fondés sur une réserve de propriété, lorsque ce bien se trouvait, au moment de
+l'adoption des mesures ou de l'ouverture de la procédure, sur le territoire français.
+
+Lorsqu'une telle entreprise vend un bien, l'adoption de mesures d'assainissement ou l'ouverture d'une procédure de
+liquidation à son égard dans un autre Etat membre ne fait pas obstacle à l'acquisition par l'acheteur de ce bien lorsqu'il se
+trouvait au moment de l'ouverture d'une telle procédure sur le territoire de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 2 () JORF 10 juin 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L323-8 (M)
+
+
+###### Article L326-24
+
+Les dispositions de la loi de l'Etat membre dans lequel la mesure d'assainissement a été prise ou la procédure de liquidation
+a été ouverte à l'égard d'une entreprise d'assurance communautaire relatives à la nullité, à l'annulation ou à
+l'inopposabilité des actes préjudiciables à l'ensemble des créanciers ne sont pas applicables, si le bénéficiaire d'un tel
+acte apporte la preuve que ce dernier est soumis à la loi d'un autre Etat membre et que cette loi ne permet par aucun moyen
+d'attaquer cet acte dans l'affaire en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 2 () JORF 10 juin 2004
+
+
+###### Article L326-25
+
+L'adoption d'une mesure d'assainissement ou l'ouverture d'une procédure de liquidation dans un Etat membre de la Communauté
+européenne autre que la France n'affecte pas le droit d'un créancier d'invoquer la compensation de sa créance avec la créance
+de l'entreprise d'assurance, lorsque cette compensation est permise par la loi applicable à la créance de l'entreprise
+d'assurance.
+
+Cette disposition ne fait pas obstacle à l'exercice des actions en nullité, en annulation ou en inopposabilité des actes
+préjudiciables à l'ensemble des créanciers prévues par la loi de l'Etat d'origine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 2 () JORF 10 juin 2004
+
+
+###### Article L326-26
+
+Sous réserve des dispositions de l'article L. 326-22, les effets de l'adoption d'une mesure d'assainissement ou de
+l'ouverture d'une procédure de liquidation sur les droits et obligations des participants à un marché réglementé sont régis
+exclusivement par la loi applicable audit marché. 
+
+Cette disposition ne fait pas obstacle à l'exercice des actions en nullité, en annulation ou en inopposabilité des actes
+préjudiciables à l'ensemble des créanciers prévues par la loi de l'Etat d'origine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 2 () JORF 10 juin 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L326-22 (V)
+
+
+###### Article L326-27
+
+Lorsqu'une entreprise d'assurance aliène à titre onéreux, par un acte conclu après l'adoption d'une mesure d'assainissement
+ou l'ouverture d'une procédure de liquidation :
+
+1° Un bien immobilier ;
+
+2° Un navire ou un aéronef soumis à inscription sur un registre public ;
+
+3° Des instruments financiers dont l'existence ou le transfert suppose une inscription en compte ;
+
+La validité de cet acte est régie par la loi française si ce bien est situé sur le territoire de la République française ou
+si ce registre, ou ce compte, est tenu sous son autorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 2 () JORF 10 juin 2004
+
+
+###### Article L326-28
+
+Les effets de la mesure d'assainissement ou de l'ouverture de la procédure de liquidation sur une instance en cours en France
+concernant un bien ou un droit dont l'entreprise d'assurance est dessaisie sont régis exclusivement par les dispositions du
+nouveau code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 2 () JORF 10 juin 2004
+
+
+###### Article L326-29
+
+L'administrateur ou le liquidateur désigné par l'autorité compétente d'un autre Etat membre est habilité à exercer sur le
+territoire de la République française tous les pouvoirs qu'il est habilité à exercer sur le territoire de cet Etat.
+
+Dans l'exercice de ces pouvoirs, l'administrateur ou le liquidateur respecte la loi française, en particulier pour ce qui
+concerne les modalités de réalisation des biens ou l'information des salariés. Ces pouvoirs ne peuvent pas inclure des
+mesures d'exécution nécessitant l'emploi de la force ou le droit de statuer sur un litige ou un différend.
+
+Des personnes chargées d'assister l'administrateur ou le liquidateur peuvent être désignées conformément à la législation de
+la loi de l'Etat membre d'origine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 2 () JORF 10 juin 2004
 
 
 #### Chapitre VII : Privilèges.
