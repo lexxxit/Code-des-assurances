@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1993-05-20
 
 # Partie législative
 
@@ -351,24 +351,32 @@ souscripteur originaire.
 
 ###### Article L112-7
 
-Lorsqu'un contrat d'assurance est proposé en libre prestation de services au sens de l'article L. 351-1, le souscripteur,
-avant la conclusion de tout engagement, est informé du nom de l'Etat membre des communautés européennes où est situé
-l'établissement de l'assureur avec lequel le contrat pourrait être conclu.
+Lorsqu'un contrat d'assurance est proposé en libre prestation de services au sens de l'article L. 351-1 et de l'article L.
+353-1, (1) le souscripteur, avant la conclusion de tout engagement, est informé du nom de l'Etat membre des communautés
+européennes où est situé l'établissement de l'assureur avec lequel le contrat pourrait être conclu.
 
-Les informations mentionnées à l'alinéa précédent doivent figurer sur tous documents remis au souscripteur.
+Les informations mentionnées à l'alinéa précédent doivent figurer sur tous documents remis au souscripteur ou à l'assuré.
 
 Le contrat ou la note de couverture doit indiquer l'adresse de l'établissement qui accorde la couverture, le cas échéant
 celle du siège social, ainsi que le nom et l'adresse du représentant mentionné à l'article L. 351-6-1.
 
+**Nota:**
+
+L'article L. 353-1 à été abrogé par l'article 30 III de la loi n° 94-5 du 4 janvier 1994.
+
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+	  - Décret n°76-666 1976-07-16
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19, art. 20
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 18 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
 
 	**Cité par**:
 
@@ -381,6 +389,7 @@ celle du siège social, ainsi que le nom et l'adresse du représentant mentionn�
 
 	  - Code des assurances - art. L351-1 (M)
 	  - Code des assurances - art. L351-6-1 (V)
+	  - Code des assurances - art. L353-1 (Ab)
 
 
 #### Chapitre III : Obligations de l'assureur et de l'assuré.
@@ -5753,23 +5762,40 @@ responsabilité de l'assuré.
 	  - Ordonnance n°2011-839 du 15 juillet 2011 - art. 10
 
 
-### Titre VIII : Loi applicable aux contrats d'assurance de dommages pour les risques situés sur le territoire d'un ou plusieurs Etats membres des communautés européennes
+### Titre VIII : Loi applicable aux contrats d'assurance pour les risques situés sur le territoire d'un ou plusieurs Etats membres des communautés européennes et pour les engagements qui y sont pris
 
-#### Chapitre I : Assurances non obligatoires.
+#### Chapitre I : Assurances de dommages non obligatoires.
 
-###### Article L181-3
+###### Article L181-1
 
-Les articles L. 181-1 et L. 181-2 ne peuvent faire obstacle aux dispositions d'ordre public de la loi française applicables
-quelle que soit la loi régissant le contrat.
+1° Lorsque le risque est situé au sens de l'article L. 351-3 sur le territoire de la République française et que le
+souscripteur y a sa résidence principale ou son siège de direction, la loi applicable est la loi française, à l'exclusion de
+toute autre.
 
-Toutefois, le juge peut donner effet sur le territoire de la République française aux dispositions d'ordre public de la loi
-de l'Etat membre des communautés européennes où le risque est situé ou d'un Etat membre qui impose l'obligation d'assurance,
-si et dans la mesure où, selon le droit de ces pays, ces dispositions sont applicables quelle que soit la loi régissant le
-contrat.
+2° Lorsque le risque est situé au sens de l'article L. 351-3 sur le territoire de la République française et que le
+souscripteur n'y a pas sa résidence principale ou son siège de direction, les parties au contrat d'assurance peuvent choisir
+d'appliquer soit la loi française, soit la loi du pays où le souscripteur a sa résidence principale ou son siège de
+direction.
 
-Lorsque le contrat couvre des risques situés dans plusieurs Etats membres des communautés européennes, le contrat est
-considéré, pour l'application du présent article, comme constituant plusieurs contrats dont chacun ne se rapporte qu'à un
-seul Etat.
+De même, lorsque le souscripteur a sa résidence principale ou son siège de direction sur le territoire de la République
+française et que le risque n'y est pas situé au sens de l'article L. 351-3, les parties au contrat d'assurance peuvent
+choisir d'appliquer soit la loi française, soit la loi du pays où le risque est situé.
+
+3° Lorsque le souscripteur exerce une activité commerciale, industrielle ou libérale et que le contrat couvre deux ou
+plusieurs risques relatifs à ces activités situés sur le territoire de la République française et dans un ou plusieurs autres
+Etats membres des communautés européennes, les parties au contrat peuvent choisir la loi d'un des Etats où ces risques sont
+situés ou celle du pays où le souscripteur a sa résidence principale ou son siège de direction.
+
+4° Lorsque la garantie des risques situés dans le ou les Etats mentionnés aux 1°, 2° et 3° ci-dessus est limitée à des
+sinistres qui peuvent survenir dans un autre Etat membre des communautés européennes, les parties au contrat d'assurance
+peuvent choisir la loi de l'Etat où se produit le sinistre.
+
+5° Pour les corps de véhicules ferroviaires, aériens, maritimes, lacustres et fluviaux, les marchandises transportées et la
+responsabilité civile afférente auxdits véhicules, les parties au contrat ont le libre choix de la loi applicable.
+
+En ce cas, le choix par les parties d'une loi autre que la loi française ne peut, lorsque tous les éléments du contrat sont
+localisés au moment de ce choix sur le territoire de la République française, porter atteinte aux dispositions impératives du
+présent livre.
 
 **Liens relatifs à cet article**
 
@@ -5781,6 +5807,51 @@ seul Etat.
 
 	  - Loi n°89-1014 du 31 décembre 1989 - art. 2 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
+	**Modifié par**:
+
+	  - Loi n°92-665 1992-07-16 art. 17 I, II JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°92-665 du 16 juillet 1992 - art. 17 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Cité par**:
+
+	  - Code des assurances - art. L112-3 (V)
+	  - Code des assurances - art. L181-2 (V)
+	  - Code des assurances - art. L181-3 (V)
+	  - Code des assurances - art. L181-4 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L351-3 (T)
+
+
+###### Article L181-3
+
+Les articles L. 181-1 et L. 181-2 ne peuvent faire obstacle aux dispositions d'ordre public de la loi française applicables
+quelle que soit la loi régissant le contrat.
+
+Toutefois, le juge peut donner effet sur le territoire de la République française aux dispositions d'ordre public de la loi
+de l'Etat membre des communautés européennes où le risque est situé ou d'un Etat membre qui impose l'obligation d'assurance,
+si, selon le droit de ces pays, ces dispositions sont applicables quelle que soit la loi régissant le contrat.
+
+Lorsque le contrat couvre des risques situés dans plusieurs Etats membres des communautés européennes, le contrat est
+considéré, pour l'application du présent article, comme constituant plusieurs contrats dont chacun ne se rapporte qu'à un
+seul Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 1992-07-16 art. 17 I, II JORF 17 juillet 1992 en vigueur le 20 mai 1993
+	  - Loi n°92-665 du 16 juillet 1992 - art. 17 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
@@ -5789,6 +5860,41 @@ seul Etat.
 
 	  - Code des assurances - art. L181-1 (M)
 	  - Code des assurances - art. L181-2 (V)
+
+
+#### Chapitre III : Assurance sur la vie et capitalisation.
+
+###### Article L183-1
+
+Lorsque l'engagement est pris, au sens de l'article L. 353-3, sur le territoire de la République française, la loi applicable
+au contrat est la loi française, à l'exclusion de toute autre.
+
+Toutefois, si le souscripteur est une personne physique et est ressortissant d'un autre Etat membre des communautés
+européennes, les parties au contrat d'assurance peuvent choisir d'appliquer soit la loi française soit la loi de l'Etat dont
+le souscripteur est ressortissant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 17 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Cité par**:
+
+	  - Code des assurances - art. L112-3 (V)
+	  - Code des assurances - art. L183-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L353-3 (T)
 
 
 ### Titre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle
@@ -9361,9 +9467,9 @@ commerce, elle en informe le ministre chargé de l'économie et des finances.
 
 ###### Article L321-1-1
 
-Les entreprises étrangères ne peuvent couvrir, sur le territoire de la République française en libre prestation de services,
-les risques autres que ceux mentionnés à l'article L. 351-4, qu'après avoir obtenu l'agrément de libre prestation de services
-mentionné à l'article L. 351-5.
+Les entreprises étrangères ne peuvent couvrir ou prendre, sur le territoire de la République française, en libre prestation
+de services, les risques mentionnés à l'article L. 351-5 ou les engagements visés à l'article L. 353-5 sans avoir obtenu
+l'agrément de libre prestation de services mentionné à chacun des deux articles précités.
 
 Un décret en Conseil d'Etat fixe les documents à produire à l'appui de la demande d'agrément ainsi que les modalités de
 calcul des provisions techniques afférentes à ces contrats, les règles de représentation de ces provisions et de localisation
@@ -9375,14 +9481,17 @@ des actifs qui les représentent.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 19 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 20 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 16 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 17 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -9410,10 +9519,6 @@ des actifs qui les représentent.
 	  - Code des assurances - art. R351-3 (M)
 	  - Code des assurances - art. R353-2 (M)
 	  - Code monétaire et financier - art. L517-2 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L351-4 (M)
 
 
 ##### Section I : Agrément administratif.
@@ -12441,6 +12546,759 @@ déterminer l'entreprise sur laquelle pèse l'obligation de consolidation.
 	  - Code des assurances - art. R345-2-1 (M)
 
 
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire
+
+#### Chapitre I : Dispositions relatives à la libre prestation de services en assurances de dommages
+
+##### Section I : Dispositions générales.
+
+###### Article L351-1
+
+Le mot "Etat" et l'expression "Etat membre", dans le présent titre, désignent un Etat membre des communautés européennes.
+
+Est une opération réalisée en libre prestation de services l'opération par laquelle une entreprise d'assurance d'un Etat
+membre couvre à partir de son siège social ou d'un établissement situé dans un des Etats membres un risque situé sur le
+territoire d'un autre de ces Etats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Cité par**:
+
+	  - Code des assurances - art. L112-7 (V)
+	  - Code des assurances - art. L172-10-1 (Ab)
+	  - Code des assurances - art. L329-1 (VD)
+	  - Code des assurances - art. L351-2 (V)
+	  - Code des assurances - art. L351-3 (VD)
+	  - Code des assurances - art. L354-1 (V)
+	  - Code des assurances - art. L354-1-1 (VT)
+	  - Code des assurances - art. L354-2 (VD)
+	  - Code des assurances - art. R332-1 (V)
+	  - Code des assurances - art. R332-9 (M)
+	  - Code des assurances - art. R351-19 (VD)
+	  - Code des assurances - art. R351-4 (VD)
+	  - Code des assurances - art. R351-5 (VD)
+	  - Code des assurances - art. R352-33 (VD)
+	  - Code des assurances - art. R356-14 (VD)
+
+
+###### Article L351-3
+
+Pour l'application du présent titre, est regardé comme Etat de situation de risque :
+
+1° L'Etat où les biens sont situés, lorsque l'assurance est relative soit à des immeubles, soit à des immeubles et à leur
+contenu dans la mesure où ce dernier est couvert par la même police d'assurance ;
+
+2° L'Etat d'immatriculation, lorsque l'assurance est relative à des véhicules de toute nature ;
+
+3° L'Etat où a été souscrit le contrat, s'il s'agit d'un contrat d'une durée inférieure ou égale à quatre mois, relatif à des
+risques encourus au cours d'un déplacement, quelle que soit la branche dont ceux-ci relèvent ;
+
+4° Dans tous les autres cas que ceux mentionnés aux 1°, 2° et 3° ci-dessus, l'Etat dans lequel le souscripteur a sa résidence
+principale ou, si le souscripteur est une personne morale, l'Etat où est situé l'établissement de cette personne morale
+auquel le contrat se rapporte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Cité par**:
+
+	  - Code des assurances - art. L181-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L310-4 (Ab)
+
+
+##### Section II : Conditions d'exercice.
+
+###### Article L351-4
+
+Sous la seule réserve d'en informer préalablement le ministre chargé de l'économie et des finances, toute entreprise
+d'assurance peut couvrir sur le territoire de la République française les grands risques en libre prestation de services. Un
+décret en Conseil d'Etat fixe les documents à produire à l'appui de cette information.
+
+Sont regardés comme grands risques :
+
+1° Ceux qui relèvent des catégories suivantes :
+
+a) Les corps de véhicules ferroviaires, aériens, maritimes, lacustres et fluviaux ainsi que la responsabilité civile
+afférente auxdits véhicules ;
+
+b) Les marchandises transportées ;
+
+c) Le crédit et la caution, lorsque le souscripteur exerce à titre professionnel une activité industrielle, commerciale ou
+libérale, à condition que le risque se rapporte à cette activité ;
+
+2° Ceux qui concernent l'incendie et les élements naturels, les autres dommages aux biens, la responsabilité civile générale,
+les pertes pécuniaires diverses, les corps de véhicules terrestres à moteur ainsi que la responsabilité civile, y compris
+celle du transporteur, afférente à ces véhicules, lorsque le souscripteur exerce une activité dont l'importance dépasse
+certains seuils définis par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 1 (V) JORF 27 juillet 1991 en vigueur le 20 novembre 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*
+
+	**Cité par**:
+
+	  - Code des assurances - art. L242-1 (M)
+	  - Code des assurances - art. L321-1-1 (M)
+	  - Code des assurances - art. L351-5 (VD)
+	  - Code des assurances - art. L351-6 (V)
+	  - Code des assurances - art. L352-1 (V)
+	  - Code des assurances - art. L352-3 (VD)
+	  - Code des assurances - art. L352-9 (VD)
+	  - Code des assurances - art. L530-2-1 (VT)
+	  - Code des assurances - art. R*310-6 (Ab)
+	  - Code des assurances - art. R*321-6 (M)
+	  - Code des assurances - art. R112-2 (M)
+	  - Code des assurances - art. R321-8 (VT)
+	  - Code des assurances - art. R329-4 (VD)
+	  - Code des assurances - art. R351-1 (VD)
+	  - Code des assurances - art. R351-16 (VD)
+	  - Code des assurances - art. R351-17 (VD)
+	  - Code des assurances - art. R351-2 (V)
+	  - Code des assurances - art. R351-4 (VD)
+	  - Code des assurances - art. R351-5 (Ab)
+	  - Code des assurances - art. R351-8 (VD)
+	  - Code des assurances - art. R354-3-2 (V)
+	  - Code des assurances - art. R355-7 (VD)
+	  - Code des assurances - art. R356-43 (VD)
+
+
+###### Article L351-5
+
+Toute entreprise d'assurance peut couvrir sur le territoire de la République française en libre prestation de services les
+risques autres que ceux qui sont mentionnés à l'article L. 351-4 lorsqu'elle ne dispose pas, en France, d'un établissement
+ayant obtenu pour les branches concernées l'agrément prévu à l'article L. 321-1.
+
+Toutefois, une telle entreprise ne peut opérer en France en libre prestation de services qu'après avoir obtenu un agrément
+délivré par le ministre chargé de l'économie et des finances dans les conditions prévues à l'article L. 321-1-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Cité par**:
+
+	  - Code des assurances - art. L212-3 (M)
+	  - Code des assurances - art. L321-1-1 (Ab)
+	  - Code des assurances - art. L321-8 (VT)
+	  - Code des assurances - art. L352-9 (VD)
+	  - Code des assurances - art. L411-4 (M)
+	  - Code des assurances - art. R332-25 (VT)
+	  - Code des assurances - art. R351-16 (VD)
+	  - Code des assurances - art. R351-17 (VD)
+	  - Code des assurances - art. R351-3 (V)
+	  - Code des assurances - art. R355-7 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L351-4 (M)
+
+
+##### Section III : Sanctions administratives.
+
+###### Article L351-9
+
+Lorsque la commission de contrôle des assurances est informée par l'autorité de contrôle de l'un des Etats qu'une entreprise
+opérant en France en libre prestation de services a fait l'objet d'un plan de redressement ou d'un plan de financement à
+court terme ou d'une mesure ayant restreint ou interdit la libre disposition de ses actifs, elle prend les mesures de
+restriction ou d'interdiction concernant les actifs de cette entreprise situés sur le territoire de la République française
+propres à sauvegarder les intérêts des assurés et bénéficiaires de contrats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+
+##### Section IV : Transferts de portefeuilles de contrats souscrits en libre prestation de services.
+
+###### Article L351-10
+
+Les entreprises établies sur le territoire de la République française pratiquant des opérations d'assurance en libre
+prestation de services peuvent être autorisées, dans les conditions prévues à l'article L. 324-1, à transférer tout ou partie
+de leur portefeuille de contrats conclus en libre prestation de services à un cessionnaire établi en France, si les autorités
+de contrôle de l'Etat du siège social du cessionnaire attestent que celui-ci possède, compte tenu du transfert, la marge de
+solvabilité nécessaire.
+
+Le transfert ne peut être autorisé par le ministre chargé de l'économie et des finances que s'il a reçu l'accord des
+autorités de contrôle du ou des Etats où les risques sont situés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L324-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L353-7 (VT)
+
+
+###### Article L351-11
+
+Les entreprises établies sur le territoire de la République française peuvent être autorisées, dans les conditions prévues à
+l'article L. 324-1, à transférer tout ou partie de leur portefeuille de contrats conclus en libre prestation de services à un
+cessionnaire établi dans l'Etat où les risques sont situés si les autorités de contrôle de l'Etat du siège social du
+cessionnaire attestent que celui-ci possède, compte tenu du transfert, la marge de solvabilité nécessaire.
+
+Le transfert ne peut être autorisé par le ministre chargé de l'économie et des finances que s'il a reçu l'accord des
+autorités de contrôle de l'Etat où les risques sont situés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L324-1 (M)
+
+
+###### Article L351-12
+
+Les entreprises établies sur le territoire de la République française peuvent être autorisées par le ministre chargé de
+l'économie et des finances, dans les conditions prévues à l'article L. 324-1, à transférer tout ou partie de leur
+portefeuille de contrats à un cessionnaire établi dans un Etat membre autre que celui de situation du risque, si les
+conditions suivantes sont remplies :
+
+1° les autorités de contrôle de l'Etat du siège social du cessionnaire attestent que celui-ci possède, compte tenu du
+transfert, la marge de solvabilité nécessaire ;
+
+2° L'autorité de contrôle de l'Etat où est établi le cessionnaire a donné son accord ;
+
+3° Le cessionnaire établit avoir satisfait dans l'Etat membre où le risque est situé aux conditions exigées par cet Etat pour
+y opérer en libre prestation de services ;
+
+4° L'autorité de contrôle de cet Etat a donné son accord sur ce transfert.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L324-1 (M)
+
+
+###### Article L351-13
+
+Le transfert de tout ou partie d'un portefeuille de contrats conclus en libre prestation de services, afférents à des risques
+situés sur le territoire de la République française, d'une entreprise établie dans un Etat autre que la France à un
+cessionnaire établi dans un des Etats est opposable aux assurés, souscripteurs, bénéficiaires de contrats et créanciers pour
+autant que les dispositions du deuxième alinéa de l'article L. 324-1 ont été respectées et que le ministre chargé de
+l'économie et des finances n'a pas fait opposition au transfert projeté.
+
+Le transfert est opposable à partir du jour où la décision l'autorisant a été rendue publique par un avis inséré au Journal
+officiel. Toutefois, il n'est opposable aux assurés qu'à l'expiration d'un délai d'un mois suivant la date de cette
+publication. Au cours de ce délai, les assurés ont la faculté de résilier le contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L324-1 (M)
+
+
+##### Section V : Interdiction d'activité.
+
+###### Article L351-14
+
+Lorsqu'elle est informée du retrait de l'agrément d'une entreprise opérant en France en régime de libre prestation de
+services par l'autorité de contrôle d'un autre Etat, la commission de contrôle des assurances prend les mesures appropriées
+pour lui interdire de poursuivre son activité et pour sauvegarder les intérêts des assurés et bénéficiaires de contrats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L351-10 (V)
+	  - Code des assurances L351-10 (2ème version)
+
+
+#### Chapitre II : Dispositions relatives à la coassurance communautaire.
+
+###### Article L352-1
+
+Une opération de coassurance communautaire est celle qui couvre des risques situés sur le territoire d'un ou plusieurs Etats
+à laquelle participent plusieurs entreprises d'assurance établies sur le territoire d'un Etat et dont l'une au moins n'est
+pas établie dans le même Etat que l'apériteur.
+
+Les risques situés sur le territoire de la République française qui peuvent être couverts en coassurance communautaire sont
+les mêmes que ceux qui peuvent être couverts en libre prestation de services en vertu de l'article L. 351-4 ainsi que les
+risques des travaux de bâtiment faisant l'objet d'une obligation d'assurance.    Toute entreprise d'assurance dont le siège
+social est situé sur le territoire d'un Etat et qui satisfait aux dispositions de la législation du pays où elle est établie
+est dispensée des obligations prévues aux articles L. 321-1 et L. 351-4 pour participer sans être apériteur à la couverture
+d'un risque situé en France dans le cadre d'une opération de coassurance communautaire.
+
+L'apériteur d'une opération de coassurance communautaire non établi en France est soumis aux obligations prévues à l'article
+L. 351-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 1 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 14 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 19 (V)
+	  - Code de la mutualité - art. L111-3 (VD)
+	  - Code de la mutualité - art. L111-4 (VD)
+	  - Code de la sécurité sociale. - art. L931-16 (VD)
+	  - Code des assurances - art. L321-10 (VD)
+	  - Code des assurances - art. L321-10-1 (V)
+	  - Code des assurances - art. L324-1 (VD)
+	  - Code des assurances - art. L324-1-2 (VD)
+	  - Code des assurances - art. L329-1 (VD)
+	  - Code des assurances - art. L352-3 (VD)
+	  - Code des assurances - art. L352-7 (VD)
+	  - Code des assurances - art. L352-9 (VD)
+	  - Code des assurances - art. R322-144 (VD)
+	  - Code des assurances - art. R322-72 (VD)
+	  - Code des assurances - art. R329-3 (VD)
+	  - Code des assurances - art. R329-4 (VD)
+	  - Code des assurances - art. R331-31 (VT)
+	  - Code des assurances - art. R332-1 (V)
+	  - Code des assurances - art. R351-26 (VD)
+	  - Code des assurances - art. R352-14 (VD)
+	  - Code des assurances - art. R352-15 (VD)
+	  - Code des assurances - art. R352-16 (VD)
+	  - Code des assurances - art. R352-26 (V)
+	  - Code des assurances - art. R352-27 (VD)
+	  - Code des assurances - art. R352-28 (VD)
+	  - Code des assurances - art. R352-35 (VD)
+	  - Code des assurances - art. R354-2-5 (VD)
+	  - Code des assurances - art. R356-19 (VD)
+	  - Code des assurances - art. R356-20-2 (VD)
+	  - Code des assurances - art. R356-8 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L351-4 (M)
+
+
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation
+
+##### Section I : Dispositions générales.
+
+###### Article L353-1
+
+Est une opération réalisée en libre prestation de services l'opération par laquelle une entreprise d'assurance d'un Etat
+membre prend, à partir de son siège social ou d'un établissement situé dans un des Etats membres, un engagement dans un autre
+de ces Etats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 30 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. L112-7 (V)
+	  - Code des assurances - art. R332-1 (V)
+	  - Code des assurances - art. R332-9 (M)
+
+
+###### Article L353-3
+
+Pour l'application du présent chapitre, est regardé comme Etat de l'engagement l'Etat où le souscripteur a sa résidence
+principale ou, si le souscripteur est une personne morale, l'Etat où est situé le siège social ou l'établissement de cette
+personne morale auquel le contrat se rapporte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Cité par**:
+
+	  - Code des assurances - art. L183-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L310-5 (M)
+	  - Code des assurances - art. L310-5 (V)
+
+
+##### Section II : Conditions d'exercice.
+
+###### Article L353-5
+
+Toute entreprise d'assurance peut prendre, sur le territoire de la République française, des engagements en libre prestation
+de services qui ne sont pas souscrits selon les modalités définies à l'article L. 353-4, lorsqu'elle ne dispose pas, en
+France, d'un établissement ayant obtenu, pour les branches concernées, l'agrément prévu à l'article L. 321-1.
+
+Toutefois, une telle entreprise ne peut opérer en France en libre prestation de services qu'après avoir obtenu un agrément
+délivré par le ministre chargé de l'économie et des finances dans les conditions prévues à l'article L. 321-1-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L353-4 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L321-1-1 (Ab)
+	  - Code des assurances - art. L321-8 (V)
+	  - Code des assurances - art. L353-6 (VT)
+	  - Code des assurances - art. R332-25 (VT)
+	  - Code des assurances - art. R353-2 (VD)
+	  - Code des assurances - art. R353-3 (V)
+
+
+##### Section IV : Transferts de portefeuilles de contrats souscrits en libre prestation de services.
+
+###### Article L353-8
+
+Les entreprises établies sur le territoire de la République française pratiquant des opérations d'assurance en libre
+prestation de services peuvent être autorisées, dans les conditions prévues à l'article L. 324-1, à transférer tout ou partie
+de leur portefeuille de contrats conclus en libre prestation de services à un cessionnaire établi en France si les autorités
+de contrôle de l'Etat du siège social du cessionnaire attestent que celui-ci possède, compte tenu du transfert, la marge de
+solvabilité nécessaire.
+
+Le transfert ne peut être autorisé par le ministre chargé de l'économie et des finances que s'il a reçu l'accord des
+autorités de contrôle de l'Etat de l'engagement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L324-1 (M)
+
+
+###### Article L353-9
+
+Les entreprises établies sur le territoire de la République française peuvent être autorisées, dans les conditions prévues à
+l'article L. 324-1, à transférer tout ou partie de leur portefeuille de contrats conclus en libre prestation de services à un
+cessionnaire établi dans l'Etat de l'engagement si les autorités de contrôle de l'Etat du siège social du cessionnaire
+attestent que celui-ci possède, compte tenu du transfert, la marge de solvabilité nécessaire.
+
+Le transfert ne peut être autorisé par le ministre chargé de l'économie et des finances que s'il a reçu l'accord des
+autorités de contrôle de l'Etat de l'engagement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L324-1 (M)
+
+
+###### Article L353-10
+
+Les entreprises établies sur le territoire de la République française peuvent être autorisées par le ministre chargé de
+l'économie et des finances, dans les conditions prévues à l'article L. 324-1, à transférer tout ou partie de leur
+portefeuille de contrats à un cessionnaire établi dans un Etat membre autre que celui de l'engagement, si les conditions
+suivantes sont remplies :
+
+1° L'autorité de contrôle de l'Etat du siège social du cessionnaire atteste que celui-ci possède, compte tenu du transfert,
+la marge de solvabilité nécessaire ;
+
+2° L'autorité de contrôle de l'Etat où est établi le cessionnaire a donné son accord ;
+
+3° Le cessionnaire établit avoir satisfait dans l'Etat membre de l'engagement aux conditions exigées par cet Etat pour y
+opérer en libre prestation de services ;
+
+4° L'autorité de contrôle de l'Etat membre de l'engagement a donné son accord sur ce transfert.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L324-1 (M)
+
+
+###### Article L353-11
+
+Le transfert de tout ou partie d'un portefeuille de contrats conclus en libre prestation de services, afférents à des
+engagements pris sur le territoire de la République française, d'une entreprise établie dans un Etat membre autre que la
+France à un cessionnaire établi dans un des Etats membres des communautés européennes est opposable aux assurés,
+souscripteurs, bénéficiaires de contrats et créanciers pour autant que les dispositions du deuxième alinéa de l'article L.
+324-1 ont été respectées et que le ministre chargé de l'économie et des finances n'a pas fait opposition au transfert
+projeté.
+
+Le transfert est opposable à partir du jour où la décision l'autorisant a été rendue publique par un avis inséré au Journal
+officiel. Toutefois, il n'est opposable aux assurés qu'à l'expiration d'un délai d'un mois suivant la date de cette
+publication. Au cours de ce délai, les assurés ont la faculté de résilier le contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 15 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L324-1 (M)
+
+
 ### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire en assurances de dommages
 
 #### Chapitre I : Dispositions relatives à la libre prestation de services
@@ -12636,7 +13494,7 @@ commissions sont fixées par décret en Conseil d'Etat.
 ###### Article L411-4
 
 La commission des entreprises d'assurance est consultée préalablement aux décisions relatives à l'agrément des entreprises
-d'assurance prévues aux articles L. 321-1, L. 325-1 et L. 351-5.
+d'assurance prévues aux articles L. 321-1, L. 321-1-1 et L. 325-1.
 
 La commission des entreprises d'assurance est présidée par le ministre de l'économie et des finances ou son représentant
 désigné à cet effet.
@@ -12647,18 +13505,18 @@ désigné à cet effet.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 17 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 19 *dispositions applicables à la collectivité territorial de Mayotte*, art. 20 *date d'effet*
 
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 16 () JORF 17 juillet 1992 en vigueur le 20 mai 1993
+
 	**Cite**:
 
 	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L351-5 (M)
+	  - Code des assurances - art. L321-1-1 (M)
 
 	**Cité par**:
 
@@ -18518,41 +19376,6 @@ notifiées aux entreprises intéressées. Elles doivent être motivées.
 	**Cite**:
 
 	  - Code des assurances R213-7
-
-
-#### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer
-
-##### Section I : Dispositions particulières aux départements d'outre-mer.
-
-###### Article R*214-2
-
-Les documents justificatifs prévus aux articles R. 211-15 à R. 211-21 ne sont exigibles, dans chacun des départements
-d'outre-mer, qu'en ce qui concerne les véhicules immatriculés dans ce département et les véhicules non soumis à
-immatriculation dont le lieu de stationnement habituel est situé dans ledit département.
-
-Les dispositions du dernier alinéa de l'article R. 211-17 ne sont pas applicables dans les départements d'outre-mer.
-
-Le contrôle de l'obligation d'assurance est exercé conformément aux dispositions des articles R. 211-15 à R. 211-21.
-Toutefois, l'attestation d'assurance délivrée en vertu du présent chapitre doit comporter une mention spécifiant que ladite
-attestation n'est valable que dans le département où elle a été délivrée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1493 1962-11-28 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*214-3 (V)
-
-	**Cite**:
-
-	  - Code des assurances R211-15 à R211-21
 
 
 ### Titre II : L'assurance des engins de remontée mécanique
@@ -26586,8 +27409,8 @@ Toutefois, les engagements pris dans le cadre de la coassurance communautaire, e
 l'apériteur.
 
 4. Les engagements pris par des entreprises mentionnées à l'article L. 310-1 et résultant d'opérations réalisées en libre
-prestation de services au sens de l'article L. 351-1 sont soumis aux règles du pays de situation du risque lorsque ce dernier
-subordonne l'exercice de ces opérations à agrément.
+prestation de services au sens des articles L. 351-1 et L. 353-1 sont soumis aux règles du pays de situation du risque ou de
+l'engagement lorsque ce dernier subordonne l'exercice de ces opérations à agrément.
 
 **Liens relatifs à cet article**
 
@@ -26597,12 +27420,12 @@ subordonne l'exercice de ces opérations à agrément.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
 	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
 
 	**Modifié par**:
 
-	  - Décret n°90-700 du 8 août 1990 - art. 4 () JORF 9 août 1990
+	  - Décret n°93-469 du 23 mars 1993 - art. 4 () JORF 26 mars 1993 en vigueur le 20 mai 1993
 
 	**Cité par**:
 
@@ -26619,6 +27442,7 @@ subordonne l'exercice de ces opérations à agrément.
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L351-1 (M)
 	  - Code des assurances - art. L352-1 (M)
+	  - Code des assurances - art. L353-1 (Ab)
 	  - Code des assurances - art. R*331-1 (M)
 
 
@@ -27241,8 +28065,8 @@ l'étranger, par l'intermédiaire de succursales, par les éléments d'actif adm
 et localisés sur le territoire de ces pays.
 
 Il en est de même lorsque les engagements réglementés des entreprises établies en France résultent d'opérations réalisées en
-libre prestation de services au sens de l'article L. 351-1 et que le pays de situation du risque subordonne l'exercice de ces
-opérations à agrément.
+libre prestation de services au sens des articles L. 351-1 et L. 353-1 et que le pays de situation du risque ou de
+l'engagement subordonne l'exercice de ces opérations à agrément.
 
 Les cautionnements ou garanties qui pourraient être exigés par lesdits pays ou par les sociétés cédantes desdits pays peuvent
 être représentés dans les conditions énumérées au premier alinéa.
@@ -27255,7 +28079,7 @@ Les cautionnements ou garanties qui pourraient être exigés par lesdits pays ou
 
 	**Modifié par**:
 
-	  - Décret n°90-981 du 5 novembre 1990 - art. 5 () JORF 6 novembre 1990
+	  - Décret n°93-469 du 23 mars 1993 - art. 4 () JORF 26 mars 1993 en vigueur le 20 mai 1993
 
 	**Cité par**:
 
@@ -27266,6 +28090,7 @@ Les cautionnements ou garanties qui pourraient être exigés par lesdits pays ou
 
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L351-1 (M)
+	  - Code des assurances - art. L353-1 (Ab)
 
 
 ###### Article R332-10
@@ -33526,16 +34351,16 @@ l'objet d'une information dans l'annexe des comptes consolidés.
 	  - Code des assurances - art. L345-1 (M)
 
 
-### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire en assurances de dommages
+### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des communautés européennes
 
-#### Chapitre I : Dispositions relatives à la libre prestation de services
+#### Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages.
 
-##### Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française.
+##### Section I : Dispositions générales.
 
 ###### Article R351-1
 
-Une opération relevant des branches mentionnées aux 8, 9, 13 et 16 de l'article R. 321-1 est considérée comme couvrant un
-grand risque pour l'application du 2° de l'article L. 351-4 si le souscripteur remplit au moins deux des trois conditions
+Une opération relevant des branches mentionnées aux 3, 8, 9, 10, 13 et 16 de l'article R. 321-1 est considérée comme couvrant
+un grand risque pour l'application du 2° de l'article L. 351-4 si le souscripteur remplit au moins deux des trois conditions
 suivantes :
 
 1° Le total de son dernier bilan est supérieur à 6,2 millions d'unités de compte de la Communauté économique européenne ;
@@ -33554,13 +34379,12 @@ mentionnés aux 1°, 2° et 3° ci-dessus sont appliqués sur une base consolid�
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°90-700 du 8 août 1990 - art. 1 () JORF 9 août 1990
+	  - Décret n°92-308 du 31 mars 1992 - art. 13 (V) JORF 1er avril 1992 en vigueur le 20 novembre 1992
+	  - Décret n°92-308 du 31 mars 1992 - art. 7 () JORF 1er avril 1992 en vigueur le 20 novembre 1992
+	  - Décret n°93-469 1993-03-23 art. 9 I, II JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°93-469 du 23 mars 1993 - art. 9 () JORF 26 mars 1993 en vigueur le 20 mai 1993
 
 	**Cite**:
 
@@ -33572,6 +34396,16 @@ mentionnés aux 1°, 2° et 3° ci-dessus sont appliqués sur une base consolid�
 	  - Code des assurances - art. R*310-6 (Ab)
 	  - Code des assurances - art. R*321-6 (M)
 
+	**Nouveaux textes**:
+
+	  - Code des assurances R111-1 (2ème version)
+
+
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire
+
+#### Chapitre I : Dispositions relatives à la libre prestation de services en assurances de dommages
+
+##### Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française.
 
 ###### Article R351-2
 
@@ -33591,7 +34425,12 @@ où cette succursale est établie indiquant les branches que l'entreprise intér
 ces autorités ne formulent pas d'objection à ce que l'entreprise effectue une activité en libre prestation de services ;
 
 3° Une liste des branches ou sous-branches que l'entreprise se propose de pratiquer ainsi que la nature des risques qu'elle
-se propose de garantir sur le territoire de la République française.
+se propose de garantir sur le territoire de la République française ;
+
+4° La désignation du représentant pour la gestion des sinistres mentionné à l'article L. 351-6-1 ainsi que les déclarations
+d'adhésion au fonds de garantie mentionné à l'article L. 421-2 et au bureau central français, lorsque l'entreprise se propose
+de couvrir, sur le territoire de la République française, les risques de responsabilité civile résultant de l'emploi de
+véhicules terrestres à moteur autre que la responsabilité civile du transporteur.
 
 II. - Lorsqu'une entreprise d'assurance ayant son siège dans un Etat membre des communautés européennes et couvrant sur le
 territoire de la République française des grands risques en libre prestation de services entend étendre son activité à des
@@ -33604,17 +34443,22 @@ susénoncées.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°92-308 du 31 mars 1992 - art. 13 (V) JORF 1er avril 1992 en vigueur le 20 novembre 1992
+	  - Décret n°92-308 du 31 mars 1992 - art. 8 () JORF 1er avril 1992 en vigueur le 20 novembre 1992
+	  - Décret n°93-469 1993-03-23 art. 9 I, II JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°93-469 du 23 mars 1993 - art. 9 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°90-700 du 8 août 1990 - art. 1 () JORF 9 août 1990
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
 
 	**Cite**:
 
 	  - Code des assurances - art. L351-4 (M)
+	  - Code des assurances - art. L351-6-1 (V)
+	  - Code des assurances - art. L421-2 (M)
 
 	**Cité par**:
 
@@ -33641,7 +34485,7 @@ a) La liste des branches et sous-branches que l'entreprise se propose de pratiqu
 propose de garantir en libre prestation de services ;
 
 b) Les conditions générales et spéciales des polices d'assurance ainsi que les formulaires et autres imprimés qu'elle se
-propose de diffuser auprès du service public ;
+propose de diffuser auprès du public ;
 
 c) Les bases tarifaires que l'entreprise envisage d'appliquer pour chaque catégorie d'opérations.
 
@@ -33658,12 +34502,13 @@ véhicules terrestres à moteur autre que la responsabilité civile du transport
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°92-308 1992-03-31 art. 12 *champ d'application*
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
 
 	**Modifié par**:
 
-	  - Décret n°92-308 du 31 mars 1992 - art. 13 (V) JORF 1er avril 1992 en vigueur le 20 novembre 1992
-	  - Décret n°92-308 du 31 mars 1992 - art. 8 () JORF 1er avril 1992 en vigueur le 20 novembre 1992
+	  - Décret n°93-469 1993-03-23 art. 8, art. 9 I, II JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°93-469 du 23 mars 1993 - art. 8 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°93-469 du 23 mars 1993 - art. 9 () JORF 26 mars 1993 en vigueur le 20 mai 1993
 
 	**Cite**:
 
@@ -33680,6 +34525,339 @@ véhicules terrestres à moteur autre que la responsabilité civile du transport
 	  - Code des assurances - art. R351-6 (VD)
 	  - Code des assurances - art. R354-2-1 (VD)
 	  - Code des assurances - art. R356-36 (VD)
+
+
+###### Article R351-4
+
+Toute entreprise d'assurance ayant son siège sur le territoire d'un Etat membre des communautés européennes, qui souhaite
+couvrir sur le territoire de la République française en libre prestation de services les risques autres que ceux qui sont
+mentionnés à l'article L. 351-4, peut se voir refuser l'agrément de libre prestation de services dans les conditions prévues
+à l'article R. 321-13, en cas de non-conformité du programme d'activités mentionné à l'article R. 351-3 avec les dispositions
+législatives ou réglementaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 1 () JORF 9 août 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+
+	**Modifié par**:
+
+	  - Décret n°93-469 1993-03-23 art. 9 I, II JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°93-469 du 23 mars 1993 - art. 9 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L351-4 (M)
+	  - Code des assurances - art. R351-3 (M)
+	  - Code des assurances L351-4, R321-13, R351-3
+
+	**Cité par**:
+
+	  - Code des assurances - art. R351-16 (VD)
+	  - Code des assurances - art. R351-5 (VD)
+	  - Code des assurances - art. R351-6 (V)
+	  - Code des assurances - art. R354-2 (VD)
+	  - Code des assurances - art. R354-2-1 (VD)
+	  - Code des assurances - art. R354-3-2 (VD)
+	  - Code des assurances - art. R355-7 (VD)
+	  - Code des assurances - art. R356-35 (VD)
+	  - Code des assurances - art. R356-36 (VD)
+	  - Code des assurances - art. R356-43 (VD)
+
+
+###### Article R351-5
+
+Les provisions techniques afférentes aux contrats garantissant des risques situés sur le territoire de la République
+française, autres que ceux mentionnés à l'article L. 351-4, sont calculées et représentées selon les règles du titre III du
+présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 1 () JORF 9 août 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+
+	**Modifié par**:
+
+	  - Décret n°93-469 1993-03-23 art. 9 I, II JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°93-469 du 23 mars 1993 - art. 9 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 17 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L351-4 (M)
+
+
+##### Section II : Règles relatives aux entreprises établies en France et couvrant des risques dans un ou plusieurs Etats membres des communautés européennes.
+
+###### Article R351-6
+
+Toute entreprise établie sur le territoire de la République française qui entend effectuer des opérations en libre prestation
+de services sur le territoire d'un ou plusieurs Etats membres des communautés européennes est tenue d'informer au préalable
+la commission de contrôle des assurances en indiquant l'Etat ou les Etats membres sur le territoire desquels elle envisage
+d'opérer en libre prestation de services, la nature des risques qu'elle se propose d'y couvrir, ainsi qu'un programme
+d'activités comprenant les pièces demandées au g du I de l'article R. 321-6 ou au d du I de l'article R. 321-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-700 du 8 août 1990 - art. 1 () JORF 9 août 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°93-469 1993-03-23 art. 9 I, II JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°93-469 du 23 mars 1993 - art. 9 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+
+	**Cité par**:
+
+	  - Code des assurances - art. R351-16 (VD)
+	  - Code des assurances - art. R351-17 (VD)
+	  - Code des assurances - art. R351-4 (VD)
+	  - Code des assurances - art. R351-7 (VD)
+	  - Code des assurances - art. R354-2 (V)
+	  - Code des assurances - art. R354-2-1 (VD)
+	  - Code des assurances - art. R354-3-2 (V)
+	  - Code des assurances - art. R355-7 (VD)
+	  - Code des assurances - art. R356-35 (VD)
+	  - Code des assurances - art. R356-36 (VD)
+	  - Code des assurances - art. R356-43 (VD)
+
+	**Cite**:
+
+	  - Code des assurances R321-6, R321-7
+
+
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation
+
+##### Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française.
+
+###### Article R353-1
+
+I. - Une entreprise d'assurance ne peut prendre sur le territoire de la République française des engagements en libre
+prestation de services dans les conditions définies à l'article L. 353-4 qu'à partir du moment où elle a reçu du ministre de
+l'économie et des finances un document attestant qu'il est en possession des documents suivants, que l'entreprise doit lui
+adresser :
+
+1° Un certificat de solvabilité délivré par l'autorité de contrôle de l'Etat du siège social énumérant les branches que
+l'entreprise est habilitée à pratiquer ainsi que les engagements qu'elle garantit effectivement, attestant qu'elle dispose
+pour l'ensemble de ses activités du montant minimal du fonds de garantie ou, s'il est plus élevé, du montant réglementaire de
+la marge de solvabilité et indiquant que l'agrément permet à l'entreprise de travailler hors de l'Etat membre des communautés
+où elle est établie ;
+
+2° En outre, si l'entreprise opère à partir d'une succursale, un certificat délivré par les autorités compétentes de l'Etat
+où cette succursale est établie indiquant les branches que l'entreprise intéressée est habilitée à pratiquer et attestant que
+ces autorités ne formulent pas d'objection à ce que l'entreprise effectue une activité en libre prestation de services ;
+
+3° Une liste des branches ou sous-branches que l'entreprise se propose de pratiquer ainsi que la nature des engagements
+qu'elle se propose de prendre sur le territoire de la République française.
+
+II. - Lorsqu'une entreprise d'assurance prenant sur le territoire de la République française des engagements en libre
+prestation de services dans les conditions fixées à l'article L. 353-4 entend étendre son activité à des branches ou sous-
+branches qui n'avaient pas été mentionnées au 3° du I du présent article, elle est soumise aux obligations susénoncées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+
+	**Créé par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L353-4 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R353-2 (V)
+
+
+###### Article R353-2
+
+Toute demande d'agrément ou d'extension d'agrément de libre prestation de services prévue au deuxième alinéa de l'article L.
+353-5 et à l'article L. 321-1-1 doit être produite en double exemplaire auprès du ministre chargé de l'économie et des
+finances et comporter :
+
+1° Les certificats mentionnés aux 1° et 2° du I de l'article R. 353-1 ;
+
+2° Un programme d'activités rédigé en langue française et contenant :
+
+a) La liste des branches et sous-branches que l'entreprise se propose de pratiquer et la nature des engagements qu'elle se
+propose de prendre en libre prestation de services ;
+
+b) Les conditions générales et spéciales des polices d'assurance ainsi que les formulaires et autres imprimés qu'elle se
+propose de diffuser auprès du public ;
+
+c) Les bases tarifaires que l'entreprise envisage d'appliquer pour chaque catégorie d'opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+
+	**Créé par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1-1 (M)
+	  - Code des assurances - art. L353-5 (M)
+	  - Code des assurances - art. R353-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R353-3 (V)
+
+
+###### Article R353-3
+
+Toute entreprise d'assurance qui souhaite prendre sur le territoire de la République française en libre prestation de
+services des engagements dans les conditions prévues à l'article L. 353-5 peut se voir refuser l'agrément de libre prestation
+de services dans les conditions prévues à l'article R. 321-13, en cas de non-conformité du programme d'activités mentionné à
+l'article R. 353-2 avec les dispositions législatives ou réglementaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+
+	**Créé par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+
+	**Cité par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 18 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L353-5 (M)
+	  - Code des assurances - art. R353-2 (M)
+	  - Code des assurances L353-5, R321-13, R353-2
+
+
+###### Article R353-4
+
+Les provisions techniques afférentes aux contrats garantissant des engagements pris sur le territoire de la République
+française, autres que ceux mentionnés à l'article L. 353-4, sont calculées et représentées selon les règles du titre III du
+présent livre.
+
+Les dispositions du livre Ier du présent code relatives à la participation aux bénéfices et aux valeurs de rachat et de
+réduction sont également applicables aux engagements mentionnés au premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+
+	**Créé par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 18 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L353-4 (M)
+
+
+##### Section II : Règles relatives aux entreprises établies en France et prenant des engagements dans un ou plusieurs autres Etats membres des communautés européennes.
+
+###### Article R353-5
+
+Toute entreprise établie sur le territoire de la République française qui entend effectuer des opérations en libre prestation
+de services sur le territoire d'un ou de plusieurs Etats membres des communautés européennes est tenue d'informer au
+préalable la Commission de contrôle des assurances en indiquant l'Etat ou les Etats membres sur le territoire desquels elle
+envisage d'opérer en libre prestation de services et la nature des engagements qu'elle se propose d'y prendre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+
+	**Créé par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+
+
+###### Article R353-6
+
+Les dispositions du livre Ier du présent code relatives à la participation aux bénéfices et aux valeurs de rachat et de
+réduction sont applicables aux engagements des entreprises établies sur le territoire de la République française, souscrits
+en libre prestation de services sur le territoire d'un autre Etat membre des communautés européennes, lorsque ce dernier ne
+subordonne pas l'exercice de ces opérations à agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+
+	**Créé par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
