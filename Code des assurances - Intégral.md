@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-08-23
+Version Consolidée au 1985-09-03
 
 # Partie législative
 
@@ -33970,6 +33970,59 @@ Son montant et les modalités de son recouvrement sont fixés par arrêté du mi
 	  - Code des assurances R421-35
 
 
+###### Article R420-30
+
+Les taux des contributions prévues pour l'alimentation du fonds de garantie en application de l'article L. 420-4 sont fixés
+comme suit :
+
+Contribution des entreprises d'assurance : 10 % de la totalité des charges du fonds de garantie.
+
+Contribution des responsables d'accidents non assurés :
+
+- taux normal : 10 % des indemnités restant à leur charge ;
+
+- taux réduit : 5 % ;
+
+Contribution des assurés : 1,9 % des primes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cité par**:
+
+	  - Décret n°83-1073 du 13 décembre 1983 - art. 1 (V)
+	  - Décret n°85-926 du 30 août 1985 - art. 1 (V)
+	  - Code des assurances - art. R420-31 (T)
+	  - Code des assurances - art. R421-31 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-926 du 30 août 1985 - art. 1 (V)
+	  - TXT_SOURCE: Code des assurances - art. L420-4 (T)
+	  - TXT_ASSOCIE: Code des assurances - art. R*420-28 (T)
+	  - TXT_SOURCE: Code des assurances - art. R420-31 (T)
+	  - TXT_ASSOCIE: Code des assurances - art. R421-28 (M)
+	  - TXT_SOURCE: Code des assurances - art. R421-31 (Ab)
+	  - TXT_SOURCE: Code des assurances L420-4, R420-28
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Modifié par**:
+
+	  - Décret n°85-926 du 30 août 1985 - art. 1 (V) JORF 3 septembre 1985
+	  - Décret n°85-926 du 30 août 1985 - art. 2 () JORF 3 septembre 1985
+
+	**Cite**:
+
+	  - Code des assurances - art. L420-4 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-30 (Ab)
+
+
 ###### Article R420-31
 
 Pour l'application de l'article R. 420-30, le versement d'acomptes sur leur contribution peut être demandé aux entreprises
@@ -34509,58 +34562,6 @@ la section I du présent chapitre.
 	**Cite**:
 
 	  - Code des assurances R420-27, R420-28
-
-
-###### Article R420-30
-
-Les taux des contributions prévues pour l'alimentation du fonds de garantie en application de l'article L. 420-4 sont fixés
-comme suit :
-
-Contribution des entreprises d'assurance : 10 % de la totalité des charges du fonds de garantie.
-
-Contribution des responsables d'accidents corporels non assurés :
-
-- taux normal : 10 % des indemnités restant à leur charge ;
-
-- taux réduit : 5 % ;
-
-Contribution des assurés : 1,40 % des primes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1073 du 13 décembre 1983 - art. 1 (V)
-	  - TXT_SOURCE: Code des assurances - art. L420-4 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. R*420-28 (T)
-	  - TXT_SOURCE: Code des assurances - art. R420-31 (T)
-	  - TXT_ASSOCIE: Code des assurances - art. R421-28 (M)
-	  - TXT_SOURCE: Code des assurances - art. R421-31 (Ab)
-	  - TXT_SOURCE: Code des assurances L420-4, R420-28
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-	**Modifié par**:
-
-	  - Décret n°83-1073 du 13 décembre 1983 - art. 1 (V) JORF 15 décembre 1983
-
-	**Cité par**:
-
-	  - Décret n°83-1073 du 13 décembre 1983 - art. 1 (V)
-	  - Décret n°85-926 du 30 août 1985 - art. 1 (V)
-	  - Code des assurances - art. R420-31 (T)
-	  - Code des assurances - art. R421-31 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L420-4 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. R421-30 (Ab)
 
 
 ###### Article R420-37
