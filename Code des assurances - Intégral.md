@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-03-18
+Version Consolidée au 1986-03-20
 
 # Partie législative
 
@@ -26422,7 +26422,7 @@ autorisation donnée cas par cas par le ministre chargé de l'économie et des f
 13° Parts ou actions de sociétés immobilières non inscrites à la cote officielle ou à la cote du second marché des bourses
 françaises de valeurs, dans les conditions déterminées dans chaque cas par le ministre chargé de l'économie et des finances.
 
-C. - Prêts, bons et dépôts
+C. - Prêts, bons et dépôts.
 
 14° Prêts aux collectivités territoriales et à leurs établissements publics administratifs ;
 
@@ -26442,9 +26442,10 @@ les prêts aux établissements de crédit sont autorisés cas par cas par le min
 
 20° Prêts immobiliers aux personnes physiques, dans les conditions fixées à l'article R. 332-15 ;
 
-21° Billets négociables sur le marché hypothécaire ;
+21° Billets négociables sur le marché hypothécaire, billets de trésorerie, certificats de dépôt ;
 
-22° Bons figurant sur une liste établie par le ministre chargé de l'économie et des finances ;
+22° Bons émis par les institutions financières  spécialisées et bons figurant sur une liste établie par le ministre chargé de
+l'économie et des finances ;
 
 23° Bons du Trésor ;
 
@@ -26551,16 +26552,16 @@ Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdi
 
 	**Modifié par**:
 
-	  - Décret n°85-847 1985-08-08 art. 1, art. 2 JORF 11 août 1985
+	  - Décret n°86-618 1986-03-13 art. 1 JORF 20 mars 1986
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. A332-2 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A332-2 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
 	  - TXT_ASSOCIE: Code des assurances - art. A332-3 (M)
 	  - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
 	  - TXT_ASSOCIE: Code des assurances - art. A332-4 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R332-16 (M)
+	  - TXT_SOURCE: Code des assurances - art. R332-16 (M)
 
 	**Cite**:
 
@@ -27906,26 +27907,35 @@ représentation des provisions techniques.
 
 ###### Article R332-38
 
-Les valeurs mobilières, les grosses des prêts hypothécaires, les billets hypothécaires, les bons et les espèces affectés à la
-représentation des provisions techniques des entreprises mentionnées à l'article R. 332-37 doivent être inscrits en compte ou
-déposés à la Caisse des dépôts et consignations ou à la Banque de France, dans les conditions fixées aux articles R. 332-39
-et R. 332-43.
+Les valeurs mobilières, les grosses des prêts hypothécaires, les billets hypothécaires, les billets de trésorerie, les
+certificats de dépôt, les bons et les espèces affectés à la représentation des provisions techniques des entreprises
+mentionnées à l'article R. 332-37 doivent être inscrits en compte ou déposés à la Caisse des dépôts et consignations ou à la
+Banque de France, dans les conditions fixées aux articles R. 332-39 et R. 332-43.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Modifié par**:
 
-	  - Décret n°84-1023 1984-11-14 art. 23 JORF 23 novembre 1984
+	  - Décret n°86-618 1986-03-13 art. 1 JORF 20 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Cite**:
 
-	  - Code des assurances - art. R*332-37 (M)
+	  - Code des assurances - art. R*332-37
+
+	**Cité par**:
+
 	  - Code des assurances - art. R*332-39 (M)
 	  - Code des assurances - art. R*332-43 (M)
+	  - Code des assurances - art. R328-1 (V)
+	  - Code des assurances - art. R332-42 (VT)
 
 	**Liens**:
 
@@ -27938,11 +27948,6 @@ et R. 332-43.
 	  - TXT_SOURCE: Code des assurances - art. R332-43 (VT)
 	  - TXT_SOURCE: Code des assurances - art. R332-44 (M)
 	  - TXT_SOURCE: Code des assurances - art. R332-59 (T)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R328-1 (V)
-	  - Code des assurances - art. R332-42 (V)
 
 
 ###### Article R332-39
