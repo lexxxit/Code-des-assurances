@@ -1,5 +1,47 @@
 # Code des assurances  
-Version Consolidée au 1976-07-11
+Version Consolidée au 1976-07-16
+
+# Partie législative
+
+## Livre III : Les entreprises.
+
+### Titre Ier : Dispositions générales et contrôle de l'Etat.
+
+#### Chapitre unique
+
+##### Section I : Dispositions générales.
+
+###### Article L310-6
+
+L'autorité administrative peut faire procéder à toutes vérifications et constatations utiles auprès des groupements
+professionnels institués entre entreprises d'assurance ou de capitalisation, agents ou courtiers d'assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Abrogé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. L300-1 (VD)
+	  - Code des assurances - art. L310-11 (M)
+	  - Code des assurances - art. L310-27 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L310-2 (T)
+	  - Décret n°1938-06-14 art. 34
+
 
 # Partie réglementaire
 
@@ -48,5 +90,41 @@ ter du code rural.
 
 	  - TXT_SOURCE: Code des assurances - art. L420-8 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+
+### Titre III : Organismes particuliers d'assurance
+
+#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur "coface"
+
+##### Section II : Administration et fonctionnement.
+
+###### Article R*432-11
+
+Le ministre de l'économie et des finances désigne auprès de la compagnie française d'assurance pour le commerce extérieur
+deux fonctionnaires de son département pour exercer les fonctions de commissaire du Gouvernement.
+
+Les commissaires du Gouvernement assistent à toutes les séances du conseil d'administration ou des comités qui pourraient
+être institués par lui. Ils peuvent prendre connaissance, à tout moment, de la comptabilité de l'établissement, ainsi que de
+la correspondance.
+
+Ils peuvent opposer leur veto à toute décision du conseil d'administration ou des comités institués par lui, qui serait
+contraire à l'intérêt national.
+
+La compagnie peut, dans un délai de huit jours, faire appel de la décision d'un commissaire du Gouvernement devant le
+ministre de l'économie et des finances, qui est tenu de se prononcer dans les dix jours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°46-1332 1946-06-01 art. 15
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Abrogé par**:
+
+	  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 
