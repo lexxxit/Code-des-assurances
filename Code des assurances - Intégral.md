@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1981-12-31
+Version Consolidée au 1982-07-14
 
 # Partie législative
 
@@ -45,21 +45,21 @@ Les opérations d'assurance-crédit ne sont pas régies par les titres mentionn�
 ###### Article L111-2
 
 Ne peuvent être modifiées par convention les prescriptions des titres Ier, II et III du présent livre, sauf celles qui
-donnent aux parties une simple faculté et qui sont contenues dans les articles L. 112-1, L. 112-5, L. 112-6, L. 113-10, L.
-121-4 à L. 121-8, L. 121-12, L. 121-14, L. 122-1, L. 122-2, L. 122-6, L. 124-1, L. 124-2, L. 132-1, L. 132-10, L. 132-15 et
+donnent aux parties une simple faculté et qui sont contenues dans les articles L. 112-1, L. 112-5, L. 112-8, L. 113-10, L.
+121-5 à L. 121-6, L. 121-12, L. 121-14, L. 122-1, L. 122-2, L. 122-6, L. 124-1, L. 124-2, L. 132-1, L. 132-10, L. 132-15 et
 L. 132-19.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°81-5 1981-01-07 art. 28-1 JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°82-600 du 13 juillet 1982 - art. 9 () JORF 14 juillet 1982
 
 	**Cite**:
 
 	  - Code des assurances - art. L112-1 (V)
 	  - Code des assurances - art. L112-5 (V)
-	  - Code des assurances - art. L112-6 (V)
+	  - Code des assurances - art. L112-8 (V)
 	  - Code des assurances - art. L113-10 (V)
 	  - Code des assurances - art. L121-12 (V)
 	  - Code des assurances - art. L121-14 (V)
@@ -72,7 +72,7 @@ L. 132-19.
 	  - Code des assurances - art. L132-10 (M)
 	  - Code des assurances - art. L132-15 (M)
 	  - Code des assurances - art. L132-19 (V)
-	  - Code des assurances L112-1, L112-5, L112-6, L113-10, L121-4 à L121-8, L121-12, L121-14, L122-1, L122-2, L122-6, L124-1, L124-2, L132-1, L132-10, L132-15, L132-19
+	  - Code des assurances L112-1, L112-5, L112-8, L113-10, L121-5 à L121-6, L121-12, L121-14, L122-1, L122-2, L122-6, L124-1, L124-2, L132-1, L132-10, L132-15, L132-19
 
 	**Cité par**:
 
@@ -990,6 +990,52 @@ ainsi que la prime de l'année courante quand elle est à terme échu.
 	**Anciens textes**:
 
 	  - Loi n°1930-07-13 art. 29
+
+
+###### Article L121-4
+
+Celui qui est assuré auprès de plusieurs assureurs par plusieurs polices, pour un même intérêt, contre un même risque, doit
+donner immédiatement à chaque assureur connaissance des autres assureurs. 
+
+L'assuré doit, lors de cette communication, faire connaître le nom de l'assureur avec lequel une autre assurance a été
+contractée et indiquer la somme assurée. 
+
+Quand plusieurs assurances contre un même risque sont contractées de manière dolosive ou frauduleuse, les sanctions prévues à
+l'article L. 121-3, premier alinéa, sont applicables. 
+
+Quand elles sont contractées sans fraude, chacune d'elles produit ses effets dans les limites des garanties du contrat et
+dans le respect des dispositions de l'article L. 121-1, quelle que soit la date à laquelle l'assurance aura été souscrite.
+Dans ces limites, le bénéficiaire du contrat peut obtenir l'indemnisation de ses dommages en s'adressant à l'assureur de son
+choix. 
+
+Dans les rapports entre assureurs, la contribution de chacun d'eux est déterminée en appliquant au montant du dommage le
+rapport existant entre l'indemnité qu'il aurait versée s'il avait été seul et le montant cumulé des indemnités qui auraient
+été à la charge de chaque assureur s'il avait été seul.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-600 1982-07-13 art. 10 *les deux derniers alinéas du présent article sont applicables aux contrats en cours, nonobstant toute disposition contraire*
+
+	**Modifié par**:
+
+	  - Loi n°82-600 du 13 juillet 1982 - art. 8 () JORF 14 juillet 1982
+
+	**Cité par**:
+
+	  - Loi n°82-600 du 13 juillet 1982 - art. 10 (V)
+	  - Code des assurances - art. L124-5 (V)
+	  - Code des assurances - art. L251-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L121-1 (V)
+	  - Code des assurances - art. L121-3 (V)
 
 
 ###### Article L121-5
@@ -3324,44 +3370,6 @@ les mêmes droits.
 	**Cité par**:
 
 	  - Code des assurances - art. L171-2 (V)
-
-
-## Livre I : Contrat
-
-### Titre II : Règles relatives aux assurances de dommages non maritimes
-
-#### Chapitre I : Dispositions générales.
-
-###### Article L121-4
-
-Celui qui s'assure pour un même intérêt, contre un même risque, auprès de plusieurs assureurs doit, sauf stipulation
-contraire, donner immédiatement à chaque assureur connaissance de l'autre assurance.
-
-L'assuré doit, lors de cette communication, faire connaître le nom de l'assureur avec lequel une autre assurance a été
-contractée et indiquer la somme assurée.
-
-Quand plusieurs assurances sont contractées sans fraude, soit à la même date, soit à des dates différentes, pour une somme
-totale supérieure à la valeur de la chose assurée, elles sont toutes valables et chacune d'elles produit ses effets en
-proportion de la somme à laquelle elle s'applique, jusqu'à concurrence de l'entière valeur de la chose assurée.
-
-Cette disposition peut être écartée par une clause du contrat adoptant la règle de l'ordre des dates ou stipulant la
-solidarité entre les assureurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 30
-
-	**Cité par**:
-
-	  - Loi n°82-600 du 13 juillet 1982 - art. 10 (V)
-	  - Code des assurances - art. L124-5 (V)
-	  - Code des assurances - art. L251-2 (V)
 
 
 ## Livre II : Assurances obligatoires
@@ -9913,15 +9921,18 @@ atteintes à l'ordre public, troubles populaires, conflits du travail, lorsque c
 de transports de toute nature, ou se rapportent à des biens en cours de transport ou stockés, et à conclure les traités de
 réassurance mentionnés à l'article L. 431-12.
 
+La caisse centrale de réassurance est habilitée à pratiquer les opérations de réassurance des risques résultant de
+catastrophes naturelles, avec la garantie de l'Etat, dans des conditions fixées par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1147 1972-12-23 art. 18 II
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°82-600 du 13 juillet 1982 - art. 4 () JORF 14 juillet 1982
 
 	**Cite**:
 
