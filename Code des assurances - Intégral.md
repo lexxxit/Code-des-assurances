@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-11-30
+Version Consolidée au 1995-01-01
 
 # Partie législative
 
@@ -8436,20 +8436,20 @@ elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants
 ###### Article L310-1
 
 Le contrôle de l'Etat s'exerce dans l'intérêt des assurés, souscripteurs et bénéficiaires de contrats d'assurance et de
-capitalisation. Sont soumises à ce contrôle :
+capitalisation. Sont soumises à ce contrôle : 
 
-1° les entreprises qui contractent des engagements dont l'exécution dépend de la durée de la vie humaine, s'engagent à verser
-un capital en cas de mariage ou de naissance d'enfants, ou font appel à l'épargne en vue de la capitalisation et contractent
-à cet effet des engagements déterminés ;
+1° les entreprises qui sous forme d'assurance directe contractent des engagements dont l'exécution dépend de la durée de la
+vie humaine, s'engagent à verser un capital en cas de mariage ou de naissance d'enfants, ou font appel à l'épargne en vue de
+la capitalisation et contractent à cet effet des engagements déterminés ; 
 
-2° les entreprises qui couvrent les risques de dommages corporels liés aux accidents et à la maladie ;
+2° les entreprises qui sous forme d'assurance directe couvrent les risques de dommages corporels liés aux accidents et à la
+maladie ; 
 
-3° les entreprises qui couvrent d'autres risques y compris ceux liés à une activité d'assistance.
-
-Les entreprises ayant exclusivement pour objet la réassurance ne sont pas soumises au contrôle de l'Etat.
+3° les entreprises qui sous forme d'assurance directe couvrent d'autres risques y compris ceux liés à une activité
+d'assistance. 
 
 Les mutuelles régies par le code de la mutualité, les institutions régies par le livre IX du code de la sécurité sociale et à
-l'article 1050 du code rural ne sont pas soumises aux dispositions du présent code.
+l'article L. 727-2 du code rural ne sont pas soumises aux dispositions du présent code. 
 
 Sont également soumises au contrôle de l'Etat les entreprises agréées à la date du 1er janvier 1993 qui font appel à
 l'épargne en vue de la capitalisation sans souscrire d'engagements déterminés.
@@ -8724,25 +8724,172 @@ l'épargne en vue de la capitalisation sans souscrire d'engagements déterminés
 
 	**Modifié par**:
 
-	  - Loi n°94-678 du 8 août 1994 - art. 14 () JORF 10 août 1994
-
-	**Cite**:
-
-	  - Code de la sécurité sociale
-	  - Code rural 1050
+	  - Loi n°94-679 du 8 août 1994 - art. 1 () JORF 10 août 1994 en vigueur le 1er janvier 1995
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. L328-10 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L328-11 (Ab)
+	  - SPEC_APPLI: Loi n°94-679 du 8 août 1994 - art. 8 (V)
 	  - TXT_SOURCE: Code des assurances - art. R*310-1 (T)
 	  - TXT_SOURCE: Code des assurances - art. R*322-1 (Ab)
+
+	**Cite**:
+
+	  - Code rural - art. L727-2 (V)
+
+
+###### Article L310-1-1
+
+Les entreprises pratiquant la réassurance mais ne pratiquant pas l'assurance directe, dont le siège social est situé en
+France, sont soumises au contrôle de l'Etat dans les conditions particulières définies au présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
+	  - TXT_SOURCE: Code des assurances - art. A344-6 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 1 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Décret n°95-883 du 31 juillet 1995 - art. 6 (V)
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 16 (V)
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 13 (V)
+	  - Décret n°2008-1154 du 7 novembre 2008 - art. 30 (V)
+	  - Arrêté du 3 novembre 2014 - art. 5 (V)
+	  - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 19 (V)
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 2
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 3
+	  - Arrêté du 23 juin 2016 - art. 1
+	  - Code de commerce - art. A123-68-1 (V)
+	  - Code de la construction et de l'habitation. - art. L313-20 (M)
+	  - Code de la mutualité - art. L111-1-1 (VD)
+	  - Code de la mutualité - art. L111-4-2 (V)
+	  - Code de la mutualité - art. R213-5 (V)
+	  - Code de la sécurité sociale. - art. Annexe à l'article A931-11-9 (3e alinéa)  Annex... (V)
+	  - Code de la sécurité sociale. - art. D931-34 (Ab)
+	  - Code de la sécurité sociale. - art. L931-2-2 (V)
+	  - Code de la sécurité sociale. - art. L931-34 (V)
+	  - Code de la sécurité sociale. - art. R933-5 (VT)
+	  - Code des assurances - art. A332-7 (M)
+	  - Code des assurances - art. A343-1 (M)
+	  - Code des assurances - art. A344-10 (Ab)
+	  - Code des assurances - art. A344-2 (V)
+	  - Code des assurances - art. A344-3 (Ab)
+	  - Code des assurances - art. A344-6 (Ab)
+	  - Code des assurances - art. Annexe A344-10 ETAT C1 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C10 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C11 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C12 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C13 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C21 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C4 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C6 (V)
+	  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
+	  - Code des assurances - art. Annexe art. A344-3 (suite 3) (V)
+	  - Code des assurances - art. Annexe art. A344-3 (suite 4) (Ab)
+	  - Code des assurances - art. Annexe art. A344-9 (Ab)
+	  - Code des assurances - art. L310-12 (V)
+	  - Code des assurances - art. L310-13 (V)
+	  - Code des assurances - art. L310-14 (M)
+	  - Code des assurances - art. L310-15 (Ab)
+	  - Code des assurances - art. L310-18 (V)
+	  - Code des assurances - art. L310-18-1 (M)
+	  - Code des assurances - art. L310-18-2 (Ab)
+	  - Code des assurances - art. L310-19 (Ab)
+	  - Code des assurances - art. L310-19-1 (Ab)
+	  - Code des assurances - art. L310-25 (V)
+	  - Code des assurances - art. L310-25-1 (V)
+	  - Code des assurances - art. L310-27 (V)
+	  - Code des assurances - art. L310-28 (V)
+	  - Code des assurances - art. L310-3-1 (VD)
+	  - Code des assurances - art. L310-7 (V)
+	  - Code des assurances - art. L321-1-1 (V)
+	  - Code des assurances - art. L321-11 (V)
+	  - Code des assurances - art. L322-1 (V)
+	  - Code des assurances - art. L322-1-2 (V)
+	  - Code des assurances - art. L322-2 (V)
+	  - Code des assurances - art. L322-2-2 (V)
+	  - Code des assurances - art. L322-2-4 (VT)
+	  - Code des assurances - art. L322-4 (VD)
+	  - Code des assurances - art. L322-4-1 (VD)
+	  - Code des assurances - art. L322-4-4 (V)
+	  - Code des assurances - art. L322-4-5 (V)
+	  - Code des assurances - art. L322-4-6 (V)
+	  - Code des assurances - art. L322-4-7 (V)
+	  - Code des assurances - art. L323-1-2 (Ab)
+	  - Code des assurances - art. L324-1-2 (VD)
+	  - Code des assurances - art. L326-30 (V)
+	  - Code des assurances - art. L334-1 (V)
+	  - Code des assurances - art. L334-2 (V)
+	  - Code des assurances - art. L334-3 (V)
+	  - Code des assurances - art. L341-1 (V)
+	  - Code des assurances - art. L342-1 (VT)
+	  - Code des assurances - art. L345-1 (Ab)
+	  - Code des assurances - art. L345-2 (V)
+	  - Code des assurances - art. L350-2 (VD)
+	  - Code des assurances - art. L355-8 (VD)
+	  - Code des assurances - art. L356-26 (V)
+	  - Code des assurances - art. L413-1 (V)
+	  - Code des assurances - art. L413-3 (V)
+	  - Code des assurances - art. L514-2 (V)
+	  - Code des assurances - art. R310-10-3 (V)
+	  - Code des assurances - art. R310-10-4 (V)
+	  - Code des assurances - art. R310-13 (VT)
+	  - Code des assurances - art. R310-14 (VT)
+	  - Code des assurances - art. R310-17 (VT)
+	  - Code des assurances - art. R310-22 (V)
+	  - Code des assurances - art. R310-6-1 (VD)
+	  - Code des assurances - art. R310-7 (Ab)
+	  - Code des assurances - art. R321-25 (V)
+	  - Code des assurances - art. R321-28 (VT)
+	  - Code des assurances - art. R321-32 (V)
+	  - Code des assurances - art. R322-10 (V)
+	  - Code des assurances - art. R322-11-1 (VD)
+	  - Code des assurances - art. R322-11-2 (V)
+	  - Code des assurances - art. R322-11-4 (V)
+	  - Code des assurances - art. R322-120 (V)
+	  - Code des assurances - art. R322-4-1 (VD)
+	  - Code des assurances - art. R323-10-4 (VT)
+	  - Code des assurances - art. R323-10-5 (VT)
+	  - Code des assurances - art. R325-5 (VT)
+	  - Code des assurances - art. R328-1 (VD)
+	  - Code des assurances - art. R331-1 (V)
+	  - Code des assurances - art. R334-27 (VT)
+	  - Code des assurances - art. R334-28 (VT)
+	  - Code des assurances - art. R334-40 (VT)
+	  - Code des assurances - art. R334-44 (VT)
+	  - Code des assurances - art. R334-45 (VT)
+	  - Code des assurances - art. R336-1 (V)
+	  - Code des assurances - art. R336-5 (V)
+	  - Code des assurances - art. R341-1 (VT)
+	  - Code des assurances - art. R341-9 (VD)
+	  - Code des assurances - art. R343-1 (VD)
+	  - Code des assurances - art. R344-4 (VT)
+	  - Code des assurances - art. R345-1-1 (V)
+	  - Code des assurances - art. R345-1-3 (V)
+	  - Code des assurances - art. R354-8 (VD)
+	  - Code des assurances - art. R355-3 (VD)
+	  - Code des assurances - art. R355-4 (VD)
+	  - Code monétaire et financier - art. D411-1 (V)
+	  - Code monétaire et financier - art. D533-11 (M)
+	  - Code monétaire et financier - art. D533-13 (V)
+	  - Code monétaire et financier - art. L517-2 (V)
+	  - Code monétaire et financier - art. L612-43 (V)
 
 
 ###### Article L310-2
 
-Sous réserve des dispositions de l'article L. 310-10, les opérations définies à l'article L. 310-1 ne peuvent être pratiquées
-sur le territoire de la République française que :
+Sous réserve des dispositions de l'article L. 310-10, les opérations d'assurance directe définies à l'article L. 310-1 ne
+peuvent être pratiquées sur le territoire de la République française que :
 
 1° par les entreprises ayant leur siège social en France, à partir de leur siège ou de leurs succursales régulièrement
 établies dans un Etat membre des Communautés européennes, lorsqu'elles sont agréées conformément aux dispositions de
@@ -8888,14 +9035,13 @@ sont de bonne foi, aux assurés, aux souscripteurs et aux bénéficiaires.
 	  - Code des assurances - art. R515-3 (Ab)
 	  - Code monétaire et financier - art. L561-2 (VT)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-	  - TXT_SOURCE: Code des assurances - art. A344-6 (V)
-
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 9 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-679 du 8 août 1994 - art. 1 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. A344-6 (V)
 
 	**Cite**:
 
@@ -9430,8 +9576,8 @@ sont applicables dans les territoires d'outre-mer.
 
 ###### Article L310-12
 
-Il est institué une commission de contrôle des assurances chargée de contrôler les entreprises mentionnées à l'article L.
-310-1, à l'exception de celles qui ont pour objet exclusif la réassurance.
+Il est institué une commission de contrôle des assurances chargée de contrôler les entreprises soumises au contrôle de l'Etat
+en application de l'article L. 310-1.
 
 La commission veille au respect, par les entreprises d'assurance, des dispositions législatives ou réglementaires relatives à
 l'assurance. Elle s'assure que ces entreprises tiennent les engagements qu'elles ont contractés à l'égard des assurés.
@@ -9451,6 +9597,12 @@ présent alinéa, notamment les modalités du contrôle préalable et les délai
 La commission peut décider de soumettre au contrôle toute personne physique ou morale ayant reçu d'une entreprise mentionnée
 à l'article L. 310-1 un mandat de souscription ou de gestion, ou exerçant, à quelque titre que ce soit, le courtage
 d'assurance.
+
+La commission veille également au respect, par les entreprises soumises au contrôle de l'Etat en application de l'article L.
+310-1-1 et les sociétés de participations d'assurance définies à l'article L. 345-1, des dispositions législatives et
+réglementaires qui leur sont applicables en vertu du présent livre. Un arrêté du ministre chargé de l'économie détermine la
+nature, la périodicité et le contenu des informations et des documents que les entreprises mentionnées au présent alinéa sont
+tenues de communiquer périodiquement à la commission de contrôle des assurances pour lui permettre d'exercer sa mission.
 
 **Liens relatifs à cet article**
 
@@ -9506,17 +9658,19 @@ d'assurance.
 
 	**Modifié par**:
 
-	  - Loi n°94-5 1994-01-04 art. 15 I, II JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-	  - Loi n°94-5 du 4 janvier 1994 - art. 15 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-679 1994-08-08 art. 1 IV, V JORF 10 août 1994 en vigueur le 1er janvier 1995
+	  - Loi n°94-679 du 8 août 1994 - art. 1 () JORF 10 août 1994 en vigueur le 1er janvier 1995
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
 	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L345-1 (M)
 
 
 ###### Article L310-12-1
@@ -9582,8 +9736,9 @@ Le secrétariat général de la commission est assuré par le chef du service de
 
 ###### Article L310-13
 
-Le contrôle des entreprises d'assurance est effectué sur pièces et sur place. La commission l'organise et en définit les
-modalités. Le corps des commissaires contrôleurs des assurances est mis à sa disposition à cette fin.
+Le contrôle des entreprises visées aux articles L. 310-1 et L. 310-1-1 et des sociétés de participations d'assurance est
+effectué sur pièces et sur place. La commission l'organise et en définit les modalités. Le corps des commissaires contrôleurs
+des assurances est mis à sa disposition à cette fin.
 
 Sont également mis à la disposition de la commission, en tant que de besoin, les membres de l'inspection générale des
 affaires sociales dans des conditions définies par décret.
@@ -9594,26 +9749,36 @@ affaires sociales dans des conditions définies par décret.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
+
 	**Modifié par**:
 
-	  - Loi n°94-678 du 8 août 1994 - art. 14 () JORF 10 août 1994
+	  - Loi n°94-679 du 8 août 1994 - art. 2 () JORF 10 août 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
 	  - Loi n°2008-518 du 3 juin 2008 - art. 7 (V)
 
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+
 
 ###### Article L310-14
 
-La commission peut demander aux entreprises d'assurance toutes informations nécessaires à l'exercice de sa mission.
+La commission peut demander aux entreprises visées aux articles L. 310-1 et L. 310-1-1 et aux sociétés de participations
+d'assurance toutes informations nécessaires à l'exercice de sa mission.
 
 Elle peut également leur demander la communication des rapports des commissaires aux comptes et, d'une manière générale, de
 tous documents comptables dont elle peut, en tant que de besoin, demander la certification.
 
-Elle vérifie que les publications auxquelles sont astreintes les entreprises d'assurance sont régulièrement effectuées. Elle
-peut ordonner aux entreprises concernées de procéder à des publications rectificatives dans le cas où des inexactitudes ou
-des omissions auraient été relevées. Elle peut porter à la connaissance du public toutes informations qu'elle estime
-nécessaires.
+Elle vérifie que les publications auxquelles sont astreintes les entreprises visées aux articles L. 310-1 et L. 310-1-1 et
+les sociétés de participations d'assurance sont régulièrement effectuées. Elle peut ordonner aux entreprises concernées de
+procéder à des publications rectificatives dans le cas où des inexactitudes ou des omissions auraient été relevées. Elle peut
+porter à la connaissance du public toutes informations qu'elle estime nécessaires.
 
 **Liens relatifs à cet article**
 
@@ -9621,18 +9786,18 @@ nécessaires.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
 	  - TXT_SOURCE: Arrêté du 16 mai 2002
 	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 1 ()
 	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 2 ()
 	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 3 ()
 	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 2 () JORF 10 août 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -9649,6 +9814,11 @@ nécessaires.
 	  - Code des assurances - art. L352-4 (VD)
 	  - Code des assurances - art. R310-17-1 (VD)
 	  - Code des assurances - art. R352-28 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
 
 
 ###### Article L310-15
@@ -9873,11 +10043,24 @@ l'affichage dans les lieux et pour la durée qu'elle indique.
 	  - Code des assurances - art. L310-2 (M)
 
 
-###### Article L310-19
+###### Article L310-18-1
 
-La commission de contrôle des assurances peut demander aux commissaires aux comptes d'une entreprise d'assurance tout
-renseignement sur l'activité de l'organisme contrôlé. Les commissaires aux comptes sont alors déliés, à son égard, du secret
-professionnel.
+Lorsqu'une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1-1 ou une société de participations
+d'assurance enfreint une disposition législative ou réglementaire qui lui est applicable en vertu du présent livre, la
+commission de contrôle des assurances peut, après avoir mis ses dirigeants en mesure de lui présenter leurs observations, lui
+adresser une mise en garde. Elle peut, dans les mêmes conditions, lui adresser une injonction à l'effet de prendre, dans un
+délai déterminé, toutes mesures destinées à se mettre en conformité avec les règles applicables.
+
+La commission peut également, lorsque l'entreprise enfreint une disposition législative ou réglementaire qui lui est
+applicable, ou ne défère pas à une injonction, prononcer, dans les conditions définies à l'article L. 310-18, soit un
+avertissement, soit un blâme. La commission peut décider la publication de la sanction prononcée, dans les conditions prévues
+par le dernier alinéa de l'article L. 310-18.
+
+En outre, la commission peut, dans les conditions définies à l'article L. 310-18, prononcer, soit à la place, soit en sus de
+ces sanctions, une sanction pécuniaire. Le montant de la sanction pécuniaire est calculé conformément aux dispositions de
+l'article L. 310-18. Pour une société de participations d'assurance, le montant maximum de la sanction pécuniaire est défini
+par référence au chiffre d'affaires de celle des entreprises d'assurance incluses par intégration globale dans la
+consolidation dont le total des primes émises au cours du dernier exercice clos est le plus élevé.
 
 **Liens relatifs à cet article**
 
@@ -9887,11 +10070,48 @@ professionnel.
 
 	**Créé par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+	  - Loi n°94-679 du 8 août 1994 - art. 2 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R510-11 (Ab)
+	  - Code de la sécurité sociale. - art. R951-2-2 (Ab)
+	  - Code des assurances - art. L310-22 (Ab)
+	  - Code des assurances - art. L514-4 (V)
+	  - Code des assurances - art. R310-18 (VT)
+	  - Code des assurances - art. R512-5 (V)
+	  - Code monétaire et financier - art. L523-2 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L310-18 (M)
+
+
+###### Article L310-19
+
+La commission de contrôle des assurances peut demander aux commissaires aux comptes d'une entreprise visée à l'article L.
+310-1, d'une entreprise visée à l'article L. 310-1-1 ou d'une société de participations d'assurance tout renseignement sur
+l'activité de l'organisme contrôlé. Les commissaires aux comptes sont alors déliés, à son égard, du secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 2 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
 
 	**Cité par**:
 
@@ -9956,7 +10176,7 @@ soumises au secret professionnel avec les mêmes garanties qu'en France.
 
 Lorsque la commission relève des faits de nature à justifier des poursuites pénales, elle transmet le dossier avec un avis
 motivé au procureur de la République territorialement compétent, sans préjudice des sanctions qu'elle peut prononcer en
-application de l'article L. 310-18.
+application de l'article L. 310-18 ou de l'article L. 310-18-1.
 
 **Liens relatifs à cet article**
 
@@ -9964,17 +10184,18 @@ application de l'article L. 310-18.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 2 () JORF 10 août 1994 en vigueur le 1er janvier 1995
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L310-18-1 (M)
 
 	**Cité par**:
 
@@ -10009,7 +10230,7 @@ commerce, elle en informe le ministre chargé de l'économie et des finances.
 ###### Article L310-25
 
 Le redressement ou la liquidation judiciaires institué par la loi n° 85-98 du 25 janvier 1985 précitée ne peut être ouvert à
-l'égard d'une entreprise soumise aux dispositions du présent livre qu'à la requête de la commission de contrôle des
+l'égard d'une entreprise visée aux articles L. 310-1 ou L. 310-1-1 qu'à la requête de la commission de contrôle des
 assurances ; le tribunal peut également se saisir d'office ou être saisi par le procureur de la République d'une demande
 d'ouverture de cette procédure après avis conforme de la commission de contrôle des assurances.
 
@@ -10027,10 +10248,16 @@ susmentionnée, qu'après avis conforme de la commission de contrôle des assura
 
 	  - Loi n°84-148 1984-03-01
 	  - Loi n°85-98 1985-01-25
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 8 *champ d'application à Mayotte*
 
 	**Modifié par**:
 
-	  - Loi n°94-475 du 10 juin 1994 - art. 95 () JORF 11 juin 1994 en vigueur le 1er octobre 1994
+	  - Loi n°94-679 du 8 août 1994 - art. 2 () JORF 10 août 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -10132,10 +10359,11 @@ contrats en cas de liquidation d'une entreprise d'assurance.
 
 ###### Article L310-28
 
-Le fait, pour tout dirigeant d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1, après mise en
-demeure, de ne pas répondre aux demandes d'information de la commission de contrôle des assurances, ou de mettre obstacle de
-quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment des
-renseignements inexacts, est puni d'un emprisonnement de deux ans et d'une amende de 2 000 000 F.
+Le fait, pour tout dirigeant d'une société de participations d'assurance ou d'une entreprise soumise au contrôle de l'Etat en
+vertu de l'article L. 310-1 ou L. 310-1-1, après mise en demeure, de ne pas répondre aux demandes d'information de la
+commission de contrôle des assurances, ou de mettre obstacle de quelque manière que ce soit à l'exercice par celle-ci de sa
+mission de contrôle, ou de lui communiquer sciemment des renseignements inexacts, est puni d'un emprisonnement de deux ans et
+d'une amende de 2 000 000 F *sanctions*.
 
 Le fait, pour les mêmes personnes, de faire des déclarations mensongères ou de procéder à des dissimulations frauduleuses
 dans tout document produit au ministre chargé de l'économie et des finances est puni des mêmes peines.
@@ -10155,18 +10383,18 @@ modalités prévues par l'article 131-38 du code pénal.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 16 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-679 du 8 août 1994 - art. 3 () JORF 10 août 1994 en vigueur le 1er janvier 1995
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
 
 	**Cité par**:
 
@@ -10816,7 +11044,7 @@ d'assurance mutuelle.
 ###### Article L322-2
 
 Nul ne peut à un titre quelconque fonder, diriger, administrer une entreprise soumise au contrôle de l'Etat en vertu de
-l'article L. 310-1, ni une entreprise de réassurance :
+l'article L. 310-1, ou de l'article L. 310-1-1, ni une société de participations d'assurance :
 
 1° S'il a fait l'objet d'une condamnation :
 
@@ -10827,7 +11055,7 @@ pénal ;
 
 c) Pour vol, escroquerie ou abus de confiance ;
 
-d) Pour un délit puni par des lois spéciales, des peines prévues aux articles 313-1 à 313-3, 313-4, et 1 du code pénal ;
+d) Pour un délit puni par des lois spéciales, des peines prévues aux articles 313-1 à 313-3, 313-4 et 1 du code pénal ;
 
 e) Pour soustractions commises par dépositaires publics, extorsion de fonds ou valeurs, banqueroute, atteinte au crédit de
 l'Etat ou infraction à la législation sur les changes ;
@@ -10883,26 +11111,27 @@ d'établissement.
 	  - Code pénal - art. 432-11 (M)
 	  - Code pénal - art. 433-2 (M)
 	  - Code pénal - art. 441-1 (M)
-	  - Code pénal 1, 52-1, 313-1 à 313-3, 313-4, 432-11, 433-2, 441-1, 441-1
+	  - Code pénal - art. 441-8 (M)
+	  - Code pénal 1, 52-1, 313-1 à 313-3, 313-4, 432-11, 433-2, 441-1, 441-8
 	  - Code des douanes - art. 415 (T)
 	  - Code du travail - art. L152-6 (M)
 	  - Code de la santé publique - art. L627 (M)
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
 	  - Décret n°1935-10-30 art. 66
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°94-5 du 4 janvier 1994 - art. 21 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 champ d'application à Mayotte
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 date d'effet, art. 8 champ d'application à Mayotte
 	  - TXT_ASSOCIE: Code des assurances L328-1 sanctions pénales
+
+	**Modifié par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 3 () JORF 10 août 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -10975,18 +11204,18 @@ critère représentatif du volume d'activité de la société émettrice.
 
 ###### Article L322-2-2
 
-Les opérations autres que celles qui sont mentionnées à l'article L. 310-1 et à l'article 3 de la loi n° 72-6 du 3 janvier
-1972 relative au démarchage financier et à des opérations de placement et d'assurance ne peuvent être effectuées par les
-entreprises mentionnées à l'article L. 310-1 que si elles demeurent d'importance limitée par rapport à l'ensemble des
-activités de l'entreprise. Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+Les opérations autres que celles qui sont mentionnées aux articles L. 310-1 et L. 310-1-1 et à l'article 3 de la loi n° 72-6
+du 3 janvier 1972 relative au démarchage financier et à des opérations de placement et d'assurance ne peuvent être effectuées
+par les entreprises mentionnées aux articles L. 310-1 et L. 310-1-1 que si elles demeurent d'importance limitée par rapport à
+l'ensemble des activités de l'entreprise. Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°66-537 1966-07-24 art. 283-6, art. 283-7
 	  - Loi n°72-6 du 3 janvier 1972 - art. 3 (M)
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
 
 	**Codifié par**:
 
@@ -10994,11 +11223,11 @@ activités de l'entreprise. Un décret en Conseil d'Etat fixe les modalités d'a
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 39 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-679 du 8 août 1994 - art. 1 () JORF 10 août 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -13081,12 +13310,12 @@ La méconnaissance des incapacités prévues à l'article L. 322-2 est punie d'u
 ###### Article L328-2
 
 Quiconque a été condamné en application de l'article L. 328-1 ne peut être employé à quelque titre que ce soit dans
-l'entreprise d'assurance dans laquelle il exerçait des fonctions de direction, de gestion, ou dont il était membre du conseil
+l'entreprise dans laquelle il exerçait des fonctions de direction, de gestion, ou dont il était membre du conseil
 d'administration ou de surveillance ou dont il avait la signature, ni dans les filiales de cette entreprise soumises au
-contrôle de l'Etat en vertu de l'article L. 310-1.
+contrôle de l'Etat en vertu de l'article L. 310-1. 
 
-Toute personne qui méconnaît l'interdiction prévue à l'alinéa précédent et son employeur sont punis des peines [*sanctions*]
-prévues à l'article L. 328-1.
+Toute personne qui méconnaît l'interdiction prévue à l'alinéa précédent et son employeur sont punis des peines prévues à
+l'article L. 328-1.
 
 **Liens relatifs à cet article**
 
@@ -13096,18 +13325,18 @@ prévues à l'article L. 328-1.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
 	  - TXT_ASSOCIE: Code des assurances - art. L310-10 (V)
 	  - TXT_ASSOCIE: Code des assurances - art. L321-2 (M)
 
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-679 du 8 août 1994 - art. 3 () JORF 10 août 1994 en vigueur le 1er janvier 1995
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L328-1 (M)
+	  - Code des assurances - art. L310-1 (V)
+	  - Code des assurances - art. L328-1 (V)
 
 	**Nouveaux textes**:
 
@@ -13404,6 +13633,56 @@ qui leur sont applicables.
 	  - Code des assurances - art. L310-7 (T)
 
 
+#### Chapitre IV : Solvabilité des entreprises.
+
+###### Article L334-1
+
+Un arrêté du ministre chargé de l'économie détermine les règles de solvabilité que doivent respecter, sur la base de leurs
+comptes consolidés ou combinés, les entreprises visées à l'article L. 310-1 et les sociétés de participations d'assurance
+visées à l'article L. 345-1, qui sont soumises à l'obligation prévue à l'article L. 345-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 4 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Décret n°2004-342 du 21 avril 2004 - art. 27 (Ab)
+	  - Code de la mutualité - art. L111-3 (VD)
+	  - Code de la mutualité - art. L111-4 (VD)
+	  - Code des assurances - art. A334-1 (V)
+	  - Code des assurances - art. A334-3 (Ab)
+	  - Code des assurances - art. L345-2 (M)
+	  - Code des assurances - art. R144-19 (VD)
+	  - Code des assurances - art. R334-1 (V)
+	  - Code des assurances - art. R334-11 (VD)
+	  - Code des assurances - art. R334-17 (V)
+	  - Code des assurances - art. R334-26 (VT)
+	  - Code des assurances - art. R334-3 (VD)
+	  - Code des assurances - art. R334-4 (VT)
+	  - Code monétaire et financier - art. L612-39 (V)
+	  - Code monétaire et financier - art. L746-2 (V)
+	  - Code monétaire et financier - art. L756-2 (V)
+	  - Code monétaire et financier - art. R612-7 (V)
+	  - Code monétaire et financier - art. R746-2 (V)
+	  - Code monétaire et financier - art. R756-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L345-1 (M)
+
+
 ### Titre IV : Dispositions comptables et statistiques
 
 #### Chapitre Ier : Principes généraux.
@@ -13438,6 +13717,43 @@ d'assurer une gestion distincte pour la protection des intérêts des assurés d
 	  - Code des assurances - art. L341-4 (V)
 	  - Code des assurances - art. R336-6 (VD)
 	  - Code des assurances - art. R341-2 (VD)
+
+
+#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation.
+
+###### Article L342-1
+
+Les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1-1 évaluent leurs actifs et leurs
+engagements, tiennent leur comptabilité, présentent et publient leurs comptes dans les mêmes conditions que les entreprises
+soumises au contrôle de l'Etat en application de l'article L. 310-1 et ayant leur siège social en France, sous réserve des
+adaptations fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet - modalités*, art. 8 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 4 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 7
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1
+	  - Code des assurances - art. L310-1-1
 
 
 #### Chapitre IV : Catégories d'assurance et états à produire.
@@ -13479,31 +13795,12 @@ Les règles permettant l'application des deux alinéas précédents sont fixées
 
 ###### Article L345-1
 
-Lorsque des entreprises mentionnées à l'article L. 310-1 constituent un ensemble d'entreprises d'assurance, l'une d'entre
-elles au moins doit établir et publier les comptes consolidés de cet ensemble d'entreprises d'assurance.
-
-Sont considérées comme formant un ensemble d'entreprises d'assurance les entreprises d'assurance se trouvant dans l'un des
-cas suivants :
-
-1° Une entreprise d'assurance exerce sur une ou plusieurs autres entreprises d'assurance soit un contrôle exclusif ou
-conjoint, soit une influence notable, au sens de l'article 357-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales ;
-
-2° Deux ou plusieurs entreprises d'assurance ont, en vertu d'un accord entre elles, soit une direction commune, soit des
-services communs assez étendus pour engendrer un comportement commercial, technique ou financier commun ;
-
-3° Des entreprises ont entre elles des liens de réassurance importants et durables en vertu de dispositions contractuelles,
-statutaires ou réglementaires.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article et, notamment, les critères permettant de
-déterminer l'entreprise sur laquelle pèse l'obligation de consolidation.
+Les entreprises dont l'activité principale consiste à prendre et à gérer des participations dans des entreprises soumises au
+contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1 et qui détiennent, directement ou
+indirectement, un pouvoir effectif de contrôle sur une ou plusieurs entreprises soumises au contrôle de l'Etat en application
+de l'article L. 310-1 et ayant leur siège social en France, sont dénommées sociétés de participations d'assurance.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 357-1
-	  - Code des assurances - art. L310-1 (M)
 
 	**Codifié par**:
 
@@ -13511,11 +13808,11 @@ déterminer l'entreprise sur laquelle pèse l'obligation de consolidation.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 59 *champ d'application territorial*, art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet - modalités*, art. 8 *champ d'application à Mayotte*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 24 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°94-679 du 8 août 1994 - art. 4 () JORF 10 août 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -13533,6 +13830,83 @@ déterminer l'entreprise sur laquelle pèse l'obligation de consolidation.
 	  - Code des assurances - art. R345-1-4 (Ab)
 	  - Code des assurances - art. R345-11 (M)
 	  - Code des assurances - art. R345-2-1 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+
+
+###### Article L345-2
+
+Les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 et ayant leur siège social en France, les
+entreprises visées à l'article L. 310-1-1 et les sociétés de participations d'assurance telles que définies à l'article L.
+345-1 doivent établir et publier des comptes consolidés dans des conditions définies par décret en Conseil d'Etat. Les
+entreprises qui sont incluses par intégration globale dans les comptes consolidés d'une entreprise elle-même soumise à une
+obligation de consolidation en application du présent alinéa ne sont toutefois pas soumises à cette obligation.
+
+Lorsque la commission de contrôle des assurances considère que les comptes consolidés d'une société de participations
+d'assurance ne permettent pas de porter une appréciation pertinente sur le respect des règles de solvabilité posées à
+l'article L. 334-1, ladite commission dispense cette société de participations d'assurance de l'obligation définie au
+précédent alinéa.
+
+Lorsque deux ou plusieurs entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L.
+310-1-1 constituent un ensemble dont la cohésion ne résulte pas de liens en capital, l'une d'elles établit et publie des
+comptes combinés, constitués par agrégation de l'ensemble des comptes, établis s'il y a lieu sur une base consolidée, des
+entreprises concernées. Les modalités d'application du présent alinéa sont définies par décret en Conseil d'Etat. Ce décret
+détermine notamment celle des entreprises sur laquelle pèse l'obligation d'établissement et de publication des comptes
+combinés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet - modalités*, art. 8 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 4 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 6 (V)
+	  - Loi n°2003-775 du 21 août 2003 - art. 108 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 9 (Ab)
+	  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 1 (V)
+	  - Arrêté du 28 décembre 2007 - art.
+	  - Code de la sécurité sociale. - art. L931-34 (MMN)
+	  - Code des assurances - art. A322-8 (Ab)
+	  - Code des assurances - art. A334-15 (Ab)
+	  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
+	  - Code des assurances - art. L310-19 (Ab)
+	  - Code des assurances - art. L322-26-7 (V)
+	  - Code des assurances - art. L334-1 (M)
+	  - Code des assurances - art. L341-4 (V)
+	  - Code des assurances - art. L345-3 (V)
+	  - Code des assurances - art. R322-55-1 (Ab)
+	  - Code des assurances - art. R322-55-5 (V)
+	  - Code des assurances - art. R332-13 (VD)
+	  - Code des assurances - art. R332-2-1 (V)
+	  - Code des assurances - art. R334-41 (VT)
+	  - Code des assurances - art. R334-43 (VT)
+	  - Code des assurances - art. R334-49 (Ab)
+	  - Code des assurances - art. R343-12 (V)
+	  - Code des assurances - art. R345-1 (V)
+	  - Code des assurances - art. R345-1-2 (V)
+	  - Code des assurances - art. R345-11 (Ab)
+	  - Code du travail - art. L3344-1 (VD)
+	  - Code du travail - art. L444-3 (AbD)
+	  - Code général des impôts, CGI. - art. 223 A (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L345-1 (M)
 
 
 ### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des Communautés européennes
@@ -27890,8 +28264,12 @@ et à la diminution de leur revenu ;
 
 5° Provision pour aléas financiers : destinée à compenser la baisse de rendement de l'actif ;
 
-6° Toutes autres provisions techniques qui peuvent être fixées par décret en Conseil d'Etat après avis du Conseil national
-des assurances.
+6° Provision pour risque d'exigibilité des engagements techniques : provision destinée à faire face à une insuffisante
+liquidité des placements, notamment en cas de modification du rythme de règlement des sinistres, calculée dans les conditions
+définies au premier alinéa de l'article R. 331-5-1.
+
+7° Provision pour frais d'acquisition reportés : provision destinée à couvrir les charges résultant du report des frais
+d'acquisition constaté en application de l'article R. 332-35.
 
 Un engagement ne peut être provisionné qu'au titre d'une seule des catégories mentionnées au présent article.
 
@@ -27943,11 +28321,17 @@ Un engagement ne peut être provisionné qu'au titre d'une seule des catégories
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
 
 	**Modifié par**:
 
-	  - Décret n°93-384 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+	  - Décret n°94-481 du 8 juin 1994 - art. 6 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+	  - Décret n°94-481 du 8 juin 1994 - art. 7 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+
+	**Cite**:
+
+	  - Code des assurances - art. R331-5-1 (M)
+	  - Code des assurances - art. R332-35 (Ab)
 
 
 ###### Article R331-4
@@ -28020,6 +28404,52 @@ clairement distinguées de la garantie qui en est l'objet principal.
 	**Modifié par**:
 
 	  - Décret n°94-635 du 25 juillet 1994 - art. 12 () JORF 26 juillet 1994
+
+
+###### Article R331-5-1
+
+La provision pour risque d'exigibilité des engagements techniques doit être constituée lorsque la valeur globale inscrite au
+bilan des placements visés à l'article R. 332-20 est supérieure à la valeur globale de ces mêmes placements évalués selon les
+règles prévues à l'article R. 332-20-1. La provision à constituer est égale à la différence constatée entre les deux
+évaluations. La commission de contrôle des assurances peut, à titre exceptionnel et en imposant toutes les conditions que
+comporte un tel ajournement, accorder aux entreprises dont la gestion n'est entachée d'aucune faute lourde, le délai
+strictement nécessaire pour constituer cette provision.
+
+La provision pour frais d'acquisition reportés doit être constituée pour un montant égal au montant des frais d'acquisitions
+reportés en application des dispositions de l'article R. 332-35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
+	  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
+
+	**Créé par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 6 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 20 (V)
+	  - Code des assurances - art. A331-27 (V)
+	  - Code des assurances - art. R331-3 (V)
+	  - Code des assurances - art. R331-36 (V)
+	  - Code des assurances - art. R331-5-4 (VT)
+	  - Code des assurances - art. R331-6 (VT)
+	  - Code des assurances - art. R332-63 (M)
+	  - Code des assurances - art. R342-14 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-20 (M)
+	  - Code des assurances - art. R332-20-1 (M)
+	  - Code des assurances - art. R332-35 (Ab)
 
 
 ###### Article R331-5-2
@@ -29185,9 +29615,9 @@ réglementation, du non-recouvrement éventuel de ces primes ou cotisations sur 
 
 ###### Article R332-5
 
-Les provisions mathématiques des contrats d'assurance sur la vie à capital variable, dans lesquels la somme assurée est
-déterminée par rapport à une valeur de référence, doivent être représentées à l'actif du bilan par des placements entrant
-dans la composition de cette valeur de référence et dans les proportions fixées par ladite composition.
+Les provisions mathématiques des contrats d'assurance sur la vie ou de capitalisation à capital variable, dans lesquels la
+somme assurée est déterminée par rapport à une valeur de référence, doivent être représentées à l'actif du bilan par des
+placements entrant dans la composition de cette valeur de référence et dans les proportions fixées par ladite composition.
 
 Ces placements ne sont pas soumis aux limitations prévues aux articles R. 332-3 et R. 332-3-1.
 
@@ -29200,9 +29630,14 @@ inscrits au bilan pour leur valeur au jour de l'inventaire.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
+	  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
+
 	**Modifié par**:
 
-	  - Décret n°84-1023 1984-11-14 art. 6 JORF 23 novembre 1984
+	  - Décret n°94-481 du 8 juin 1994 - art. 5 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -29654,6 +30089,38 @@ garant répondent aux conditions fixées par le même arrêté.
 	  - Code des assurances - art. R332-16 (V)
 
 
+###### Article R332-18
+
+En ce qui concerne les acceptations en réassurance, les entreprises enregistrent immédiatement en comptabilité tous les
+éléments reçus de leurs cédantes. En l'absence d'informations suffisantes, elles estiment les comptes non reçus des cédantes
+à la clôture de l'exercice avec pour contrepartie des comptes de régularisation qui seront soldés à l'ouverture de l'exercice
+suivant ou à réception des comptes des cédantes, ou elles compensent provisoirement les soldes de tous les comptes incomplets
+d'un même exercice par une écriture d'attente qui sera contrepassée à l'ouverture de l'exercice suivant.
+
+En tout état de cause et quel que soit le mode de comptabilisation retenu, lorsque le réassureur connaît l'existence d'une
+perte, celle-ci doit être provisionnée pour son montant prévisible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 8 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
+	  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
+	  - Code des assurances - art. R*328-1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+
 ##### Section III : Estimation des éléments d'actif.
 
 ###### Article R332-19
@@ -29673,8 +30140,11 @@ Le prix d'achat et le prix de remboursement s'entendent hors intérêt couru.
 
 Lors de l'arrêté comptable, les moins-values latentes ressortant de la différence entre la valeur comptable, diminuée des
 amortissements et majorée des produits mentionnés aux deuxième et troisième alinéas du présent article, et la valeur de
-réalisation des titres correspondants évaluée conformément au 2°, a ou b de l'article R. 332-20, ne font pas l'objet d'une
-provision.
+réalisation des titres correspondants évaluée conformément à l'article R. 332-20-1, ne font pas l'objet d'une provision.
+
+Néanmoins, lorsqu'il y a lieu de considérer que le débiteur ne sera pas en mesure de respecter ses engagements, soit pour le
+paiement des intérêts, soit pour le remboursement du principal, une provision pour dépréciation doit être constituée à
+l'inventaire.
 
 **Liens relatifs à cet article**
 
@@ -29684,7 +30154,8 @@ provision.
 
 	**Modifié par**:
 
-	  - Décret n°91-1419 du 28 décembre 1991 - art. 1 () JORF 22 janvier 1992
+	  - Décret n°94-481 du 8 juin 1994 - art. 1 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+	  - Décret n°94-481 du 8 juin 1994 - art. 3 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -29715,48 +30186,31 @@ provision.
 
 ###### Article R332-20
 
-A l'exception des valeurs évaluées comme il est dit à l'article R. 332-19, les actifs mentionnés à l'article R. 332-2 font
-l'objet d'une double évaluation :
+A l'exception des valeurs inscrites comme il est dit à l'article R. 332-19, les actifs mentionnés à l'article R. 332-2 et les
+autres placements financiers et immobiliers sont inscrits au bilan sur la base du prix d'achat ou de revient, dans les
+conditions ci-après :
 
-1° Il est d'abord procédé à une évaluation sur la base du prix d'achat ou de revient ;
-
-a) Les valeurs mobilières et les parts de fonds communs de placement sont retenues pour leur prix d'achat ;
+a) Les valeurs mobilières et les parts de fonds communs de placement sont retenues pour leur prix d'achat. Le prix d'achat
+s'entend hors intérêt couru ;
 
 b) Les immeubles et les parts ou actions des sociétés immobilières ou foncières non inscrites à la cote d'une bourse de
-valeurs d'un Etat membre de l'O.C.D.E. sont retenus pour leur prix d'achat ou de revient ou, dans les conditions fixées dans
-chaque cas par la commission de contrôle des assurances, pour une valeur déterminée après expertise effectuée conformément à
-l'article R. 332-23. Les valeurs sont diminuées des amortissements pratiqués. Le prix de revient des immeubles est celui qui
-ressort des travaux de construction et d'amélioration, à l'exclusion des travaux d'entretien proprement dits.
+valeurs d'un Etat membre de l'organisation de coopération et de développement économiques sont retenus pour leur prix d'achat
+ou de revient ou, dans les conditions fixées dans chaque cas par la commission de contrôle des assurances, pour une valeur
+déterminée après expertise effectuée conformément à l'article R. 332-23. Les valeurs sont diminuées des amortissements
+pratiqués. Le prix de revient des immeubles est celui qui ressort des travaux de construction et d'amélioration, à
+l'exclusion des travaux d'entretien proprement dits ;
 
 c) Les prêts sont évalués d'après les actes qui en font foi ;
 
-d) Les nues propriétés et les usufruits sont évalués suivant les règles déterminées par arrêté du ministre chargé de
-l'économie et des finances.
+d) Les nues-propriétés et les usufruits sont évalués suivant les règles déterminées par arrêté du ministre chargé de
+l'économie.
 
-Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et les provisions pour dépréciation.
-
-2° Il est ensuite procédé à une évaluation de la valeur de réalisation des placements :
-
-a) Les valeurs mobilières cotées sont retenues pour le dernier cours coté au jour de l'inventaire ;
-
-b) Les titres non cotés sont retenus pour leur valeur vénale correspondant au prix qui en serait obtenu dans des conditions
-normales de marché et en fonction de l'utilité du bien pour l'entreprise ;
-
-c) Les actions de sociétés d'investissement à capital variable et les parts de fonds communs de placement sont retenues pour
-le dernier prix de rachat publié au jour de l'inventaire ;
-
-d) La valeur de réalisation des immeubles et des parts ou actions des sociétés immobilières ou foncières non inscrites à la
-cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E. est déterminée sur la base d'une expertise quinquennale effectuée
-par un expert accepté par la commission de contrôle des assurances. Entre deux expertises, la valeur fait l'objet d'une
-estimation annuelle, certifiée par un expert accepté par la commission de contrôle des assurances.
-
-e) Les autres placements sont retenus pour leur valeur déterminée comme il est prévu au 1° ci-dessus, sauf dans le cas où une
-autre valeur résulte soit d'une expertise effectuée dans les conditions prévues à l'article R. 332-23, soit d'un accord entre
-la commission de contrôle des assurances et l'entreprise.
-
-3° La valeur inscrite au bilan est celle qui résulte de l'application du 1° du présent article. Dans le cas où la valeur de
-réalisation de l'ensemble des placements estimée comme il est dit au 2° lui est inférieure, il est constitué une provision
-pour dépréciation égale à la différence entre ces deux valeurs.
+Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et les provisions pour dépréciation, lesquelles
+ne peuvent être constatées que lorsqu'il y a lieu de considérer que la dépréciation a un caractère durable. Toutefois, les
+entreprises qui, au bilan du dernier exercice clos avant le 1er janvier 1993, constataient les dépréciations, même lorsque
+celles-ci n'avaient pas un caractère durable, peuvent continuer à faire application de cette méthode jusqu'au dernier
+exercice clos avant le 1er janvier 1999 ; elles peuvent y renoncer à tout moment, en le notifiant préalablement à la
+commission de contrôle des assurances, cette renonciation étant alors définitive.
 
 **Liens relatifs à cet article**
 
@@ -29764,9 +30218,16 @@ pour dépréciation égale à la différence entre ces deux valeurs.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
+	  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
+	  - TXT_SOURCE: Code des assurances - art. A332-5 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A332-6 (Ab)
+
 	**Modifié par**:
 
-	  - Décret n°91-1419 du 28 décembre 1991 - art. 3 () JORF 22 janvier 1992
+	  - Décret n°94-481 du 8 juin 1994 - art. 2 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -29801,22 +30262,156 @@ pour dépréciation égale à la différence entre ces deux valeurs.
 	  - Code des assurances - art. R343-4 (M)
 	  - Code des assurances - art. R344-1 (M)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. A332-5 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A332-6 (Ab)
-
 	**Cite**:
 
 	  - Code des assurances - art. R*332-2 (M)
 
 
+###### Article R332-20-1
+
+Les valeurs énumérées à l'article R. 332-2 et les autres placements financiers et immobiliers font l'objet, aux fins
+notamment d'effectuer le calcul prévu au premier alinéa de l'article R. 344-1, d'une évaluation sur la base de leur valeur de
+réalisation, dans les conditions ci-après :
+
+a) Les valeurs mobilières cotées et les titres cotés de toute nature sont retenus pour le dernier cours coté au jour de
+l'inventaire ;
+
+b) Les titres non cotés sont retenus pour leur valeur vénale correspondant au prix qui en serait obtenu dans des conditions
+normales de marché et en fonction de leur utilité pour l'entreprise ;
+
+c) Les actions de sociétés d'investissement à capital variable et les parts de fonds communs de placement sont retenues pour
+le dernier prix de rachat publié au jour de l'inventaire ;
+
+d) La valeur de réalisation des immeubles et des parts ou actions des sociétés immobilières ou foncières non inscrites à la
+cote d'une bourse de valeurs d'un Etat membre de l'organisation de coopération et de développement économiques est déterminée
+sur la base d'une expertise quinquennale effectuée par un expert accepté par la commission de contrôle des assurances. Entre
+deux expertises, la valeur fait l'objet d'une estimation annuelle, certifiée par un expert accepté par la commission de
+contrôle des assurances ;
+
+e) Les autres placements sont retenus pour leur valeur comptable déterminée comme il est prévu aux articles R. 332-19 et R.
+332-20 ci-dessus, sauf dans le cas où une autre valeur résulte soit d'une expertise effectuée dans les conditions prévues à
+l'article R. 332-23, soit d'un accord entre la commission de contrôle des assurances et l'entreprise.
+
+Pour les titres inscrits en comptabilité hors coupon couru en application des articles R. 332-19 et R. 332-20, il y a lieu de
+déduire de l'évaluation prévue au présent article les proratas d'intérêt courus depuis la dernière échéance jusqu'à la date
+de l'inventaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 3 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 35 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 54 (Ab)
+	  - Code des assurances - art. A134-4 (M)
+	  - Code des assurances - art. A142-4 (VT)
+	  - Code des assurances - art. A332-7 (M)
+	  - Code des assurances - art. Annexe art. A344-3 (suite 3) (Ab)
+	  - Code des assurances - art. D441-22 (V)
+	  - Code des assurances - art. R134-3 (VD)
+	  - Code des assurances - art. R134-4 (VD)
+	  - Code des assurances - art. R142-3 (Ab)
+	  - Code des assurances - art. R142-4 (Ab)
+	  - Code des assurances - art. R331-5-1 (VT)
+	  - Code des assurances - art. R332-14-2 (M)
+	  - Code des assurances - art. R332-19 (VT)
+	  - Code des assurances - art. R332-21 (VT)
+	  - Code des assurances - art. R332-23 (VT)
+	  - Code des assurances - art. R332-30 (VT)
+	  - Code des assurances - art. R332-63 (VT)
+	  - Code des assurances - art. R342-3 (VD)
+	  - Code des assurances - art. R344-1 (V)
+	  - Code des assurances - art. R441-7-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances - art. R*332-20 (M)
+
+
+###### Article R332-20-2
+
+La valeur de réalisation des instruments financiers à terme mentionnés aux articles R. 332-45 à R. 332-48 est :
+
+a) Pour les instruments financiers à terme échangés sur des marchés reconnus au sens du dernier alinéa du A de l'article R.
+332-2, la valeur de la dernière cotation ;
+
+b) Pour les instruments échangés de gré à gré, le coût de remplacement, évalué par au moins deux organismes n'appartenant pas
+à un même groupe au sens de l'article R. 332-13. Un des organismes peut être l'entreprise d'assurance elle-même, sauf
+opposition de la Commission de contrôle des assurances. Les organismes habilités à cette évaluation sont les établissements
+de crédit, les entreprises d'investissement ou, sur accord de la Commission de contrôle des assurances, des organismes
+spécialisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
+
+	**Cité par**:
+
+	  - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 35 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 54 (Ab)
+	  - Code des assurances - art. A142-4 (VT)
+	  - Code des assurances - art. Annexe art. A344-3 (suite 3) (Ab)
+	  - Code des assurances - art. D441-22 (V)
+	  - Code des assurances - art. R142-3 (Ab)
+	  - Code des assurances - art. R142-4 (Ab)
+	  - Code des assurances - art. R332-23 (VT)
+	  - Code des assurances - art. R332-63 (M)
+	  - Code des assurances - art. R342-3 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-13 (M)
+	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances R332-45 à R332-48, R332-2, R332-13
+
+
 ###### Article R332-21
 
-A l'exception des valeurs évaluées comme il est dit à l'article R. 332-19, les entreprises qui, à la date du dernier bilan,
-constataient valeur par valeur les moins-values éventuelles, continuent à faire application de cette méthode. Elles peuvent y
-renoncer à tout moment en le notifiant à la commission de contrôle des assurances et faire désormais application des règles
-d'estimation fixées par l'article R. 332-20. Cette renonciation est définitive.
+I. Les cessions de titres en portefeuille sont réputées porter par priorité sur les titres de même nature acquis ou souscrits
+à la date la plus ancienne. Lorsque des titres de même nature ont été acquis de manière successive en fonction d'un même
+ordre d'achat ou au cours d'un même exercice, la détermination du prix unitaire d'achat de chacun de ces titres peut
+s'effectuer en prix d'achat unitaire pondéré.
+
+Toutefois, les entreprises qui, avant le 1er janvier 1988, déterminaient les plus-values ou les moins-values de cession en
+fonction de la valeur d'origine unitaire moyenne pondérée des titres de même nature figurant dans leur patrimoine doivent
+continuer de faire application de cette méthode en cas de cessions de titres figurant dans leur portefeuille au 31 décembre
+1987. Dans ce cas, le prix de revient unitaire des titres de même nature détenus à cette date est égal au prix unitaire moyen
+pondéré de l'ensemble de ces titres calculé à cette même date.
+
+II. Lorsque des placements détenus par l'entreprise et évalués conformément à l'article R. 332-19 ou à l'article R. 332-20
+changent de destination et sont affectés en représentation d'engagements à capital variable tels que définis au premier
+alinéa de l'article R. 332-5, ils sont inscrits au bilan à la valeur estimée conformément aux dispositions du troisième
+alinéa du même article ; la différence entre cette valeur et la valeur comptable antérieure est constatée en compte de
+résultat.
+
+De même, la variation de valeur, d'un exercice à l'autre, des placements affectés en représentation d'engagements à capital
+variable, telle qu'elle résulte de l'application des règles d'évaluation prévues par l'article R. 332-5, est constatée en
+compte de résultat.
+
+III. Les actifs visés aux articles R. 332-19 et R. 332-20 inscrits dans une devise autre que l'euro en application des
+dispositions de l'article R. 341-7 sont évalués dans cette même devise pour l'application de l'article R. 332-20-1.
+
+IV. La provision pour pertes de change est calculée après compensation de l'ensemble des différences de conversion actif et
+passif.
 
 **Liens relatifs à cet article**
 
@@ -29826,7 +30421,7 @@ d'estimation fixées par l'article R. 332-20. Cette renonciation est définitive
 
 	**Modifié par**:
 
-	  - Décret n°90-981 du 5 novembre 1990 - art. 24 () JORF 6 novembre 1990
+	  - Décret n°94-481 du 8 juin 1994 - art. 4 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -29842,6 +30437,9 @@ d'estimation fixées par l'article R. 332-20. Cette renonciation est définitive
 
 	  - Code des assurances - art. R*332-19 (M)
 	  - Code des assurances - art. R*332-20 (M)
+	  - Code des assurances - art. R*332-5 (M)
+	  - Code des assurances - art. R*341-7 (M)
+	  - Code des assurances - art. R332-20-1 (M)
 
 
 ###### Article R332-23
@@ -29853,8 +30451,9 @@ lesquels elles ont consenti un prêt ou une ouverture de crédit hypothécaire.
 Cette expertise peut être également demandée à la commission de contrôle des assurances par les entreprises.
 
 La valeur résultant de l'expertise doit figurer dans l'évaluation de la valeur de réalisation des placements prévue à
-l'article R. 332-20 (2°). Elle peut également être inscrite à l'actif du bilan dans les limites et les conditions fixées dans
-chaque cas par la commission de contrôle des assurances.
+l'article R. 332-20-1. Elle peut également être inscrite à l'actif du bilan dans les limites et les conditions fixées dans
+chaque cas par la commission de contrôle des assurances. Elle constitue alors le nouveau prix d'achat mentionné à l'article
+R. 332-20, la différence entre cette valeur et la valeur comptable antérieure étant constatée en compte de résultat.
 
 Les conditions de l'expertise sont fixées par décret et les frais en sont à la charge des entreprises.
 
@@ -29866,7 +30465,8 @@ Les conditions de l'expertise sont fixées par décret et les frais en sont à l
 
 	**Modifié par**:
 
-	  - Décret n°90-981 du 5 novembre 1990 - art. 16 () JORF 6 novembre 1990
+	  - Décret n°94-481 du 8 juin 1994 - art. 3 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+	  - Décret n°94-481 du 8 juin 1994 - art. 5 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -30169,6 +30769,50 @@ exercice où sont inscrites les primes ou cotisations ayant donné lieu à l'ava
 	**Cite**:
 
 	  - Code des assurances R321-1
+
+
+###### Article R332-35
+
+Les entreprises pratiquant les opérations mentionnées au 1° de l'article L. 310-1 inscrivent à l'actif du bilan les frais
+d'acquisition à reporter en fonction de la durée de vie résiduelle des contrats. La méthode retenue est décrite dans l'annexe
+visée à l'article R. 341-6 du présent code. Le montant des frais d'acquisition ainsi reportés est au plus égal à l'écart
+entre les montants de provisions mathématiques inscrites au bilan conformément à l'article L. 331-1 et le montant des
+provisions mathématiques qui seraient à inscrire si les chargements d'acquisition n'étaient pas pris en compte dans les
+engagements des assurés. Le montant de cet écart ainsi que le calcul des frais d'acquisition reportés doivent pouvoir être
+justifiés à tout moment auprès de la commission de contrôle des assurances. Les frais d'acquisition reportés sont admis en
+représentation des provisions techniques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
+	  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
+	  - TXT_ASSOCIE: Code des assurances - art. R332-33 (M)
+
+	**Créé par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 7 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
+	  - Code des assurances - art. A332-11 (Ab)
+	  - Code des assurances - art. A332-12 (Ab)
+	  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
+	  - Code des assurances - art. R331-3 (V)
+	  - Code des assurances - art. R331-5-1 (VT)
+	  - Code des assurances - art. R332-36 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L331-1 (M)
+	  - Code des assurances R341-6, L310-1, L331-1
 
 
 ##### Section V : Règles particulières à certaines entreprises étrangères.
@@ -31681,123 +32325,57 @@ l'article R. 334-18.
 
 #### Chapitre Ier : Principes généraux.
 
-###### Article R*341-2
-
-L'inventaire qui doit être établi chaque année doit comprendre l'estimation détaillée de tous les éléments qui entrent dans
-la composition des postes de l'actif et du passif.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
-	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
-	  - Code des assurances - art. R*341-6 (Ab)
-	  - Code des assurances - art. R341-1 (VT)
-	  - Code des assurances - art. R341-3 (VT)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. R*341-7 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 184
-
-
-###### Article R*341-4
-
-Les entreprises doivent conserver pendant dix ans au moins leurs livres de comptabilité, les lettres qu'elles reçoivent, les
-copies des lettres qu'elles adressent, ainsi que toutes pièces justificatives de leurs opérations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. R*341-7 (M)
-	  - TXT_ASSOCIE: Code des assurances R328-1 *sanctions pénales*
-
-	**Cité par**:
-
-	  - Code des assurances - art. R328-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 186
-
-
 ###### Article R*341-6
 
-Le décret mentionné à l'article R. 341-1 fixe les conditions de publicité auxquelles sont soumis les comptes des entreprises.
+Les articles 9 à 18, 24 et 26 du décret n° 83-1020 du 29 novembre 1983 mentionné à l'article R. 341-2 ne sont pas applicables
+aux entreprises d'assurance visées à l'article R. 341-1. Un arrêté du ministre chargé de l'économie, pris après avis du
+Conseil national de la comptabilité, détermine des modèles types auxquels les entreprises d'assurance doivent se conformer
+pour la présentation du bilan incluant, en pied de bilan, un tableau des engagements reçus et donnés, du compte de résultat
+et de l'annexe.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Cite**:
+
+	  - Décret n°83-1020 1983-11-29 art. 9 à 18, art. 24, art. 26
+	  - Décret n°83-1020 du 29 novembre 1983 - art. 24 (M)
+	  - Décret n°83-1020 du 29 novembre 1983 - art. 26 (M)
+	  - Code des assurances - art. R*341-1 (M)
+	  - Code des assurances - art. R*341-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
+
+	**Modifié par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 14 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
 	  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
 
-	**Cite**:
-
-	  - Code des assurances - art. R*341-1 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. R*341-7 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 188
-
-
-###### Article R*341-8
-
-Le décret prévu par l'article R. 341-1 détermine les conditions dans lesquelles les entreprises qui acceptent des contrats en
-réassurance doivent tenir des comptes détaillés pour ces opérations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. A344-4 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*341-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R341-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 190
-
 
 ###### Article R341-1
 
-Les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1 doivent établir leur comptabilité dans la forme
-prévue par un décret portant application des dispositions du plan comptable général aux opérations effectuées par les
-entreprises d'assurances de toute nature et de capitalisation.
+Les dispositions des articles R. 341-2 à R. 341-8 sont applicables :
 
-Cette comptabilité doit notamment faire apparaître, par exercice et pour chacune des catégories fixées par arrêté du ministre
-de l'économie et des finances, les éléments suivants de leurs affaires brutes de cessions et de leurs affaires cédées :
-primes, sinistres, commissions, provisions techniques.
+1° Aux entreprises françaises soumises au contrôle de l'Etat en vertu de l'article L. 310-1, pour l'ensemble de leurs
+opérations, y compris celles de leurs succursales établies à l'étranger ; toutefois, la comptabilité des opérations des
+succursales établies hors de la Communauté européenne peut être tenue conformément aux réglementations locales applicables,
+dès lors qu'elle fait l'objet d'un contrôle par une autorité publique ou d'une certification légale : dans ce cas,
+l'information comptable est retraitée lors de l'élaboration des comptes annuels pour être mise en cohérence avec les
+principes d'évaluation et de présentation des comptes annuels, tels que définis par le présent code ;
+
+2° Aux entreprises étrangères soumises au contrôle de l'Etat en vertu de l'article L. 310-1, autres que celles dont le siège
+social se trouve dans un Etat membre de la Communauté européenne, pour leurs opérations sur le territoire de la République
+française ou, lorsqu'elles sont soumises à une vérification de solvabilité globale exercée par la commission de contrôle des
+assurances, en vertu de la section IV du chapitre IV du titre III du présent livre, pour les opérations effectuées dans
+l'ensemble des pays auxquels s'étend cette vérification.
 
 **Liens relatifs à cet article**
 
@@ -31807,9 +32385,7 @@ primes, sinistres, commissions, provisions techniques.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R*341-8 (M)
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
 	  - TXT_SOURCE: Code des assurances - art. R342-1 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R342-10 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R342-11 (Ab)
@@ -31834,11 +32410,10 @@ primes, sinistres, commissions, provisions techniques.
 	  - TXT_SOURCE: Code des assurances - art. R342-7 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R342-8 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R342-9 (Ab)
-	  - TXT_ASSOCIE: Code des assurances R341-6, R341-8, R342-1 à R342-24, R328-1, A344-1 à A344-8
 
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 31 () JORF 28 juin 1991
+	  - Décret n°94-481 du 8 juin 1994 - art. 9 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -31856,15 +32431,15 @@ primes, sinistres, commissions, provisions techniques.
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances R341-2 à R341-8, L310-1
 
 
-###### Article R341-3
+###### Article R341-2
 
-Sauf impossibilité reconnue par la commission de contrôle des assurances, l'exercice comptable commence le 1er janvier et
-finit le 31 décembre de chaque année.
-
-Exceptionnellement, le premier exercice comptable des entreprises françaises qui commencent leurs opérations au cours d'une
-année civile peut être clôturé à l'expiration de l'année suivante.
+Les entreprises d'assurance définies à l'article R. 341-1 sont soumises aux dispositions des articles 8 à 16 du code de
+commerce et aux dispositions du décret n° 83-1020 du 29 novembre 1983 pris en application de la loi n° 83-353 du 30 avril
+1983 et relatif aux obligations comptables des commerçants et de certaines sociétés, sous réserve des dispositions
+particulières prévues au présent code.
 
 **Liens relatifs à cet article**
 
@@ -31872,13 +32447,75 @@ année civile peut être clôturé à l'expiration de l'année suivante.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Cite**:
+
+	  - Loi n°83-353 1983-04-30
+	  - Décret n°83-1020 1983-11-29
+	  - Code de commerce 8 à 16
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
 
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 32 () JORF 28 juin 1991
+	  - Décret n°94-481 du 8 juin 1994 - art. 10 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
+	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
+	  - Code des assurances - art. R*341-6 (Ab)
+	  - Code des assurances - art. R341-1 (VT)
+	  - Code des assurances - art. R341-3 (VT)
+
+
+###### Article R341-3
+
+Un arrêté du ministre chargé de l'économie, pris après avis du Conseil national de la comptabilité, fixe la structure et les
+principaux éléments de la nomenclature du plan de comptes prévu à l'article 4 du décret n° 83-1020 du 29 novembre 1983
+mentionné à l'article R. 341-2, ainsi que les règles spécifiques d'utilisation des comptes et les principes généraux
+d'organisation et de fonctionnement du système comptable. Le même arrêté peut en outre prescrire, lorsque ceci est nécessaire
+pour la justification des comptes ou l'exercice du contrôle de l'Etat, des modalités spécifiques d'enregistrement et de suivi
+extra comptable des placements, des contrats, des sinistres et des opérations de réassurance, de coassurance et de
+coréassurance.
+
+Les soldes des comptes utilisés par l'entreprise se raccordent, par voie directe ou par regroupement, aux postes et sous-
+postes du bilan et du compte de résultat, ainsi qu'aux informations contenues dans l'annexe et dans les états, tableaux et
+documents visés à l'article R. 341-5. Par exception, le solde d'un compte peut être raccordé par éclatement, à condition de
+pouvoir en justifier, de respecter les règles de sécurité et de contrôle adéquates et de décrire la méthode utilisée dans le
+document prévu à l'article 1er du décret précité.
+
+Les montants figurant aux postes et sous-postes du bilan et du compte de résultat, ainsi que dans l'annexe et les états,
+tableaux et documents visés à l'article R. 341-5, doivent être contrôlables, notamment à partir du détail des éléments qui
+composent ces montants.
+
+Les entreprises pratiquant à la fois les risques visés au 1° et au 2° de l'article L. 310-1 tiennent une comptabilité
+distincte pour chacune de ces deux catégories de risques dans des conditions fixées par arrêté du ministre chargé de
+l'économie, pris après avis du Conseil national de la comptabilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Cite**:
+
+	  - Décret n°83-1020 1983-11-29 art. 1, art. 4
+	  - Décret n°83-1020 du 29 novembre 1983 - art. 4 (Ab)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R*341-2 (M)
+	  - Code des assurances - art. R*341-5 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
+	  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
+
+	**Modifié par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 11 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -31888,23 +32525,11 @@ année civile peut être clôturé à l'expiration de l'année suivante.
 	  - Code des assurances - art. R345-7 (V)
 
 
-###### Article R341-5
+###### Article R341-4
 
-Les entreprises doivent produire chaque année à la commission de contrôle des assurances, à une date fixée par le décret
-mentionné à l'article R. 341-1, le compte rendu détaillé annuel de leurs opérations et, en outre, à une date et selon la
-liste fixée par le décret précité, tous états, tableaux ou documents de nature à permettre de contrôler leur situation
-financière, la marche de leurs opérations, l'encaissement des primes ou cotisations, le règlement des sinistres, l'évaluation
-et la représentation des provisions et des réserves. La forme des états compris dans le compte rendu détaillé annuel et des
-autres états, tableaux et documents prévus ci-dessus est fixée par arrêté ministériel.
-
-Les entreprises doivent communiquer à la commission de contrôle des assurances, sur sa demande, tous renseignements et
-documents permettant d'apprécier la valeur des immeubles, prêts, titres ou créances quelconques figurant dans leur bilan à
-quelque titre que ce soit et sous quelque forme que ce soit, et tous autres renseignements sur leurs opérations que le
-ministre de l'économie et des finances estime nécessaires à l'exercice du contrôle.
-
-La commission de contrôle des assurances peut demander que le compte d'exploitation générale, le compte général de pertes et
-profits et le bilan lui soient communiqués avant d'être soumis à l'assemblée générale au plus tard à la date à laquelle ils
-doivent être tenus à la disposition des commissaires aux comptes.
+Sauf impossibilité reconnue par la commission de contrôle des assurances, l'exercice comptable commence le 1er janvier et
+finit le 31 décembre de chaque année. Exceptionnellement, le premier exercice comptable des entreprises françaises qui
+commencent leurs opérations au cours d'une année civile peut être clôturé à l'expiration de l'année suivante.
 
 **Liens relatifs à cet article**
 
@@ -31912,15 +32537,44 @@ doivent être tenus à la disposition des commissaires aux comptes.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
+	  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
+	  - TXT_ASSOCIE: Code des assurances R328-1 *sanctions pénales*
+
 	**Modifié par**:
 
-	  - Décret n°91-603 1991-06-27 art. 31, art. 32 II, III JORF 28 juin 1991
-	  - Décret n°91-603 du 27 juin 1991 - art. 31 () JORF 28 juin 1991
-	  - Décret n°91-603 du 27 juin 1991 - art. 32 () JORF 28 juin 1991
+	  - Décret n°94-481 du 8 juin 1994 - art. 12 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Code des assurances - art. R328-1 (M)
+
+
+###### Article R341-5
+
+Les entreprises doivent produire chaque année à la commission de contrôle des assurances, à des dates fixées par arrêté du
+ministre chargé de l'économie, le compte rendu détaillé annuel de leurs opérations et tous états, tableaux ou documents de
+nature à permettre de contrôler leur situation financière, la marche de leurs opérations, l'encaissement des primes ou
+cotisations, le règlement des sinistres, l'évaluation et la représentation des provisions et des réserves. La liste et la
+forme des états compris dans le compte rendu détaillé annuel et des autres états, tableaux et documents prévus ci-dessus sont
+fixées par arrêté du ministre chargé de l'économie.
+
+Les entreprises doivent communiquer à la commission de contrôle des assurances, sur sa demande, tous renseignements et
+documents permettant d'apprécier la valeur des immeubles, prêts, titres ou créances figurant dans leur bilan à quelque titre
+que ce soit et sous quelque forme que ce soit ainsi que tous autres renseignements sur les opérations que la commission
+estime nécessaires à l'exercice du contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
 	  - TXT_SOURCE: Arrêté du 11 mars 1999
 	  - TXT_SOURCE: Arrêté du 11 mars 1999 - art. 1 ()
 	  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
@@ -31940,6 +32594,10 @@ doivent être tenus à la disposition des commissaires aux comptes.
 	  - TXT_SOURCE: Code des assurances - art. A344-9 (Ab)
 	  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
 
+	**Modifié par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 13 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+
 	**Cité par**:
 
 	  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
@@ -31949,19 +32607,17 @@ doivent être tenus à la disposition des commissaires aux comptes.
 	  - Code des assurances - art. R341-3 (VT)
 	  - Code des assurances - art. R341-8 (V)
 
-	**Cite**:
-
-	  - Code des assurances - art. R*341-1 (M)
-
 
 ###### Article R341-7
 
-Les dispositions des articles R. 341-1 à R. 341-6 sont applicables aux entreprises étrangères pour leurs opérations sur le
-territoire de la République française dans les conditions fixées par le décret mentionné à l'article R. 341-1.
+Les documents comptables relatifs aux opérations en devises doivent être tenus dans chacune des devises utilisées, dans les
+conditions fixées par arrêté du ministre chargé de l'économie, pris après avis du Conseil national de la comptabilité.
+Toutefois, les entreprises dont les opérations en devises ne sont pas significatives peuvent tenir leurs documents comptables
+uniquement en francs français.
 
-Pour les entreprises soumises à une vérification de solvabilité globale exercée par la commission de contrôle des assurances,
-en vertu de la section IV du chapitre IV du titre III du présent livre, les mêmes dispositions sont applicables aux
-opérations effectuées dans l'ensemble des pays auxquels s'étend cette vérification.
+Les comptes annuels sont établis en francs français. Pour l'établissement des comptes annuels, les opérations en devises sont
+converties en francs français d'après les cours de change constatés à la date de la clôture des comptes ou, à défaut, à la
+date antérieure la plus proche.
 
 **Liens relatifs à cet article**
 
@@ -31971,7 +32627,8 @@ opérations effectuées dans l'ensemble des pays auxquels s'étend cette vérifi
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
+	  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
 	  - SPEC_APPLI: Code des assurances - art. R*341-2 (M)
 	  - SPEC_APPLI: Code des assurances - art. R*341-3 (M)
 	  - SPEC_APPLI: Code des assurances - art. R*341-4 (M)
@@ -31980,16 +32637,51 @@ opérations effectuées dans l'ensemble des pays auxquels s'étend cette vérifi
 
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 32 () JORF 28 juin 1991
+	  - Décret n°94-481 du 8 juin 1994 - art. 15 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
 	  - Code des assurances - art. A342-3 (V)
 	  - Code des assurances - art. R332-21 (VT)
 
+
+###### Article R341-8
+
+Sans préjudice de l'application des règles de publicité prévues par les textes législatifs et réglementaires en vigueur, les
+comptes annuels sont délivrés par l'entreprise à toute personne qui en fait la demande, moyennant le paiement d'une somme qui
+ne peut dépasser le montant fixé par arrêté du ministre chargé de l'économie.
+
+Le ministre chargé de l'économie peut prendre annuellement un arrêté, publié au plus tard le 31 décembre de l'année de la
+clôture de l'exercice, déterminant ceux des états, tableaux et documents, mentionnés à l'article R. 341-5 et relatifs à cet
+exercice, qui devront être délivrés par les entreprises en même temps que les comptes annuels, dans les conditions définies
+au présent article. Cet arrêté doit concerner l'ensemble des entreprises pratiquant une même catégorie d'opérations.
+
+La commission de contrôle des assurances peut demander que les comptes annuels lui soient communiqués avant d'être soumis à
+l'assemblée générale, à partir de la date à laquelle ils doivent être tenus à la disposition des commissaires aux comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
+	  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
+	  - TXT_ASSOCIE: Code des assurances - art. R341-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°94-481 du 8 juin 1994 - art. 16 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Code des assurances - art. A344-4 (V)
+
 	**Cite**:
 
-	  - Code des assurances R341-1 à R341-6
+	  - Code des assurances - art. R*341-5 (M)
 
 
 #### Chapitre IV : Catégories d'assurances et états à produire.
@@ -45081,81 +45773,322 @@ Résultat technique brut de réassurance
 
 
 
+#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation
+
+##### Section I : Dispositions générales.
+
+###### Article A342-1
+
+Pour l'application des règles comptables, les opérations des sociétés d'épargne et des entreprises tontinières sont
+assimilées aux opérations mentionnées au 1° de l'article L. 310-1, sous réserve des règles spécifiques qui leur sont
+applicables en vertu du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-06-20 art. 1 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (V)
+
+
+##### Section II : Documents et registres comptables.
+
+###### Article A342-2
+
+Outre les documents prévus par le code de commerce, les entreprises doivent tenir le livre des balances trimestrielles
+donnant avant la fin du mois suivant chaque trimestre civil la récapitulation des soldes de tous les comptes ouverts au grand
+livre général, arrêtés au dernier jour du trimestre civil écoulé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-06-20 art. 2 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Code des assurances - art. A343-1 (M)
+
+
+###### Article A342-4
+
+Un inventaire permanent des placements doit être tenu, dans les conditions suivantes :
+
+a) Les entrées et les sorties de placements doivent y être enregistrées, indépendamment de leur enregistrement comptable, au
+plus tard le lendemain de la naissance de l'engagement (pour les prêts et les immeubles) ou de la réception de l'avis d'achat
+ou de vente (pour les valeurs mobilières) ;
+
+b) Chaque intitulé de valeur doit être suivi individuellement et comporter la désignation de la valeur et son imputation
+comptable, la désignation précise du dépositaire et du lieu de dépôt, le détail de chaque mouvement (nature, quantité, date
+et prix unitaire), la date, la nature et le montant des encaissements et décaissements afférents à l'achat, à la cession ou à
+l'amortissement partiel du placement ; et, pour les prêts, le taux d'intérêt, l'échéancier d'amortissement et la nature des
+garanties reçues ;
+
+c) Les informations définies au b ci-dessus doivent pouvoir être consultées à tout moment, pour chaque intitulé de valeur ;
+
+d) Au moins mensuellement, doit être établie une liste chronologique des mouvements du mois par compte divisionnaire du plan
+comptable, comportant pour chaque mouvement l'intitulé de la valeur, la quantité ainsi que la nature et la date du mouvement
+et le montant enregistré en comptabilité, ainsi que le solde en valeur du compte divisionnaire en début et en fin de mois et
+le solde général en valeur en début et en fin de mois. Pour les opérations non encore enregistrées en comptabilité (promesses
+d'achat ou de vente par exemple), les montants sont indiqués pour mémoire et récapitulés dans des soldes pour mémoire
+rattachés aux soldes en valeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-06-20 art. 2 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
+
+
+##### Section II : Documents et registres comptables.
+
+###### Article A342-3
+
+Pour l'application de l'article R. 341-7, sont considérés comme opérations en devises :
+
+- les mouvements d'actifs monétaires et règlements en devises ;
+
+- les charges facturées ou contractuellement libellées en devises ;
+
+- les produits facturés ou contractuellement libellés en devises ;
+
+- les provisions techniques libellées en devises en application de l'article R. 331-1-1 ;
+
+- les dettes et emprunts de toute nature libellés en devises ;
+
+- les créances et prêts de toute nature libellés en devises ;
+
+- les acquisitions, cessions et autres opérations sur immeubles localisés dans des Etats où les transactions s'effectuent
+normalement dans une monnaie autre que le franc français, et sur parts de sociétés immobilières non cotées détenant de tels
+immeubles, à proportion de la valeur de ces immeubles ;
+
+- les opérations sur titres de créance non amortissables, et titres de propriété ou assimilés autres que les titres de
+propriétés immobilières mentionnés ci-dessus lorsque la monnaie de négociation n'est pas le franc français ;
+
+- les engagements pris ou reçus lorsque la réalisation de l'engagement constituerait une opération en devises au sens du
+présent article ;
+
+- les amortissements et provisions pour dépréciation ou risques et charges ainsi que les remboursements se rapportant à des
+opérations en devises au sens du présent article.
+
+Les dispositions du précédent alinéa ne s'appliquent pas aux opérations sur éléments d'actif ou de passif inscrits en francs
+français au bilan du premier exercice ouvert à compter du 1er janvier 1994.
+
+Les opérations portant sur des titres représentatifs d'une participation au sens de l'article 20 du décret n° 83-1020 du 29
+novembre 1983 peuvent être considérées comme opérations en francs, même si la monnaie de négociation est une devise, lorsque
+les titres ont vocation à être détenus de manière durable en raison de liens à caractère stratégique existant avec la société
+émettrice, et que la possession de ces titres permet d'exercer une influence notable sur la société émettrice ou d'en assurer
+le contrôle.
+
+Les dotations et reprises sur la réserve de capitalisation sont toujours des opérations en francs français y compris lorsque
+la cession qui donne lieu à la dotation ou à la reprise est une opération en devises. La conversion est effectuée d'après les
+cours de change au comptant constatés à la date de la clôture des comptes ou, à défaut, à la date antérieure la plus proche.
+La dotation et la reprise annuelle sur la provision pour exigibilité des engagements techniques sont toujours des opérations
+en francs. Pour le calcul de la provision pour perte de change, les situations par devise des différences de conversion actif
+et passif peuvent être compensées entre toutes devises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-06-20 art. 2 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
+
+	**Cite**:
+
+	  - Décret n°83-1020 du 29 novembre 1983 - art. 20 (Ab)
+	  - Code des assurances - art. R*341-7 (M)
+	  - Code des assurances - art. R331-1-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*331-17 (Ab)
+
+
+##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.
+
+###### Article A342-5
+
+Les entreprises doivent soit délivrer les contrats sous un numérotage continu pouvant comprendre plusieurs séries, sans
+omission ni double emploi, les avenants successifs étant rattachés au contrat d'origine, soit affecter aux assurés ou
+sociétaires des numéros continus répondant aux mêmes exigences. 
+
+Les informations relatives à ces documents doivent être à tout moment d'un accès facile et comporter au moins les éléments
+suivants :
+
+- soit numéro du contrat ou de l'avenant, soit numéro de l'assuré ou du sociétaire avec tous les contrats ou avenants le
+concernant ;
+
+- date de souscription, durée du contrat ;
+
+- nom du souscripteur, de l'assuré ;
+
+- éventuellement nom ou code de l'intermédiaire ;
+
+- date et heure de la prise d'effet stipulée au contrat ;
+
+- date et motif de la sortie éventuelle ;
+
+- monnaie dans laquelle le contrat est libellé ;
+
+- type de garantie par référence aux catégories d'assurance définies à l'article A. 344-2 ;
+
+- montant des limites de garantie, du capital ou de la rente assurée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-06-20 art. 3 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
+
+	**Cite**:
+
+	  - Code des assurances - art. A344-2 (V)
+
+
+###### Article A342-6
+
+Les événements et les sinistres faisant jouer ou susceptibles de faire jouer au moins une des garanties prévues au contrat ou
+les sorties sont enregistrés dès qu'ils sont connus, sous un numérotage continu pouvant comprendre plusieurs séries. Cet
+enregistrement est effectué par exercice de survenance ou, en transports, par exercice de souscription. Il comporte les
+renseignements suivants : date et numéro de l'enregistrement, numéro de contrat et, en tant que de besoin, date de la
+souscription, nom de l'assuré, date de l'événement. Il en est établi au moins une fois par mois une liste à lecture directe. 
+
+Par ailleurs, pour chaque sinistre, un document facilement accessible à partir du numéro d'enregistrement doit donner
+notamment la description des principaux éléments du sinistre et des réclamations et contentieux, le détail des décaissements
+et encaissements et, sauf si l'entreprise est dispensée de la méthode dossier par dossier, les évaluations successives des
+sommes à payer ou à recouvrer. 
+
+A la clôture de l'exercice, il est établi pour chaque catégorie définie à l'article A. 344-2 ci-après une liste à lecture
+directe comportant pour chaque sinistre survenu dans l'exercice, outre le numéro d'enregistrement, les sommes payées au cours
+de l'exercice, l'évaluation des sommes restant à payer (sauf si l'entreprise est dispensée de la méthode dossier par dossier)
+et le total de ces éléments ; les sinistres survenus au cours des exercices antérieurs et qui n'étaient pas réglés à
+l'ouverture de l'exercice font l'objet de listes analogues comportant en outre les évaluations à la fin de l'exercice
+précédent. Ces listes fournissent enfin, s'il y a lieu, les indications analogues concernant les recours ou sauvetages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-06-20 art. 3 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
+
+	**Cite**:
+
+	  - Code des assurances - art. A344-2 (V)
+
+
+###### Article A342-7
+
+Les traités de réassurance, acceptations, d'une part, cessions et rétrocessions, d'autre part, sont enregistrés par ordre
+chronologique sous un numérotage continu.
+
+Les informations suivantes doivent être portées sur un document pouvant être facilement consulté :
+
+- numéro d'ordre du traité ;
+
+- date de signature ;
+
+- date d'effet ;
+
+- durée ;
+
+- nom du cédant, du cessionnaire ou du rétrocessionnaire ;
+
+- nature des risques objets du traité ;
+
+- date à laquelle l'effet prend fin ;
+
+- nature du traité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-06-20 art. 3 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
+
+
+##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance.
+
+###### Article A342-8
+
+Les entreprises qui participent à des groupements de coassurance ou de coréassurance doivent établir, pour chacun de ces
+groupements, un document facilement accessible indiquant de manière détaillée le fonctionnement du groupement et le mode de
+traitement comptable des opérations effectuées par l'entreprise dans le cadre du groupement.
+
+L'entreprise doit être en mesure de justifier de toutes les écritures comptables relatives aux opérations effectuées dans le
+cadre du groupement, notamment du calcul des provisions.
+
+Toutefois, si le groupement s'engage, à l'égard de la Commission de contrôle des assurances et à l'égard de ses adhérents, à
+tenir sa comptabilité et à évaluer les provisions techniques conformément aux règles applicables aux entreprises d'assurance,
+et à se soumettre au contrôle de la Commission de contrôle des assurances, les chiffres transmis à l'entreprise par le
+groupement constituent une justification suffisante. La Commission de contrôle des assurances peut à tout moment retirer le
+bénéfice de cette disposition aux entreprises adhérentes à un groupement, notamment lorsque celui-ci n'a pas respecté ses
+engagements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-06-20 art. 4 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
+
+
 #### Chapitre IV : Catégories d'assurance et états à produire
 
 ##### Section I : Dispositions générales.
 
 ###### Article A344-1
 
-Les catégories d'assurance mentionnées à l'article R. 341-1 et la forme des états institués par l'article R. 342-17 sont
-fixées par le présent chapitre.
+Les sociétés d'épargne et les entreprises tontinières peuvent, sous réserve de l'accord de la Commission de contrôle des
+assurances, adapter à leur situation particulière les modèles prévus pour les entreprises agréées pour les opérations
+mentionnées au 1° de l'article L. 310-1.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1969-09-01 art. 1
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1994-06-20 art. 6 I JORF 19 juillet 1994 en vigueur le 1er janvier 1995
 
 	**Cite**:
 
-	  - Code des assurances - art. R*341-1 (M)
-	  - Code des assurances - art. R342-17 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
-	  - TXT_SOURCE: Code des assurances - art. R342-17 (M)
-
-
-###### Article A344-2
-
-Les sommes portées dans les états-modèles sont arrondies au franc inférieur. Le ministre de l'économie et des finances peut
-décider que certains états sont produits en milliers de francs par suppression des trois derniers chiffres ; lorsque dans un
-tableau l'unité monétaire employée n'est pas le franc, elle est indiquée en tête de ce tableau.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1969-09-01 annexe
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Cité par**:
-
-	  - Arrêté du 11 septembre 1995 - art. 6 (V)
-	  - Code des assurances - art. A125-2 (V)
-	  - Code des assurances - art. A132-11 (V)
-	  - Code des assurances - art. A132-14 (V)
-	  - Code des assurances - art. A132-3 (V)
-	  - Code des assurances - art. A132-5 (M)
-	  - Code des assurances - art. A132-7 (V)
-	  - Code des assurances - art. A331-16 (V)
-	  - Code des assurances - art. A331-17 (V)
-	  - Code des assurances - art. A331-2 (V)
-	  - Code des assurances - art. A331-4 (M)
-	  - Code des assurances - art. A331-7 (V)
-	  - Code des assurances - art. A342-5 (V)
-	  - Code des assurances - art. A342-6 (V)
-	  - Code des assurances - art. A343-1 (M)
-	  - Code des assurances - art. A343-4-2 (V)
-	  - Code des assurances - art. A344-10 (Ab)
-	  - Code des assurances - art. A344-3 (Ab)
-	  - Code des assurances - art. Annexe A344-10 ETAT C1 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C10 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C11 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C12 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C13 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C21 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C4 (V)
-	  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
-	  - Code des assurances - art. Annexe art. A344-3 (suite 4) (V)
+	  - Code des assurances - art. L310-1 (M)
 
 	**Liens**:
 
@@ -45201,141 +46134,83 @@ résultats sous la forme de tableaux spéciaux dont elles auront fait agréer le
 
 ##### Section II : Définition des catégories et sous-catégories.
 
-###### Article A344-4
+###### Article A344-2
 
-Il est défini, pour les assurances directes en France, des catégories (un chiffre) et des sous-catégories (deux chiffres)
-d'opération.
+Les opérations effectuées par les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1 ou de l'article
+L. 310-1-1 sont réparties entre les catégories d'opérations suivantes :
 
-La liste des catégories et sous-catégories est la suivante :
+1 Contrats de capitalisation à prime unique (ou versements libres) ;
 
-0. Capitalisation, dépôt et autres affaires.
+2 Contrats de capitalisation à prime périodique ;
 
-00. Capitalisation.
+3 Contrats individuels d'assurance temporaire décès (y compris groupes ouverts) ;
 
-01. Capitalisation à capital variable.
+4 Autres contrats individuels d'assurance vie à prime unique (ou versements libres) (y compris groupes ouverts) ;
 
-05. Dépôt (6° de l'article L. 310-1).
+5 Autres contrats individuels d'assurance vie à prime périodique (y compris groupes ouverts) ;
 
-08. Autres affaires.
+6 Contrats collectifs d'assurance en cas de décès ;
 
-1. Vie.
+7 Contrats collectifs d'assurance en cas de vie ;
 
-10. Assurances grande branche.
+8 Contrats d'assurance vie ou de capitalisation en unités de compte à prime unique (ou versements libres) ;
 
-11. Assurances grande branche à capital variable.
+9 Contrats d'assurance vie ou de capitalisation en unités de compte à prime périodique ;
 
-12. Assurances populaires et autres assurances à primes mensuelles ou plus fréquentes.
+10 Contrats collectifs relevant de l'article L. 441-1 du code des assurances ;
 
-13. Assurances populaires à capital variable.
+19 Acceptations en réassurance (Vie) ;
 
-14. Assurances collectives en cas de décès.
+20 Dommages corporels (contrats individuels) (y compris garanties accessoires aux contrats d'assurance vie individuels) ;
 
-15. Assurances collectives à capital variable.
+21 Dommages corporels (contrats collectifs) (y compris garanties accessoires aux contrats d'assurance vie collectifs) ;
 
-16. Assurances complémentaires.
+22 Automobile (responsabilité civile) ;
 
-17. Nuptialité, natalité.
+23 Automobile (dommages) ;
 
-18. Assurances collectives en cas de vie.
+24 Dommages aux biens des particuliers ;
 
-19. Opérations tontinières.
+25 Dommages aux biens professionnels ;
 
-20. Arrêts de travail, invalidité, décès accidentel : assurances individuelles.
+26 Dommages aux biens agricoles ;
 
-21. Arrêts de travail, invalidité, décès accidentel : assurances collectives.
+27 Catastrophes naturelles ;
 
-22. Frais de soins : assurances individuelles.
+28 Responsabilité civile générale ;
 
-23. Frais de soins : assurances collectives.
+29 Protection juridique ;
 
-3. Dommages aux biens.
+30 Assistance ;
 
-30. Dommages aux biens des particuliers : incendie et autres dommages aux biens.
+31 Pertes pécuniaires diverses ;
 
-31. Dommages aux biens des particuliers : vol.
+34 Transports ;
 
-32. Dommages aux biens des particuliers : R.C. des multirisques.
+35 Assurance construction (dommages) ;
 
-33. Dommages aux biens professionnels : incendie et autres dommages aux biens.
+36 Assurance construction (responsabilité civile) ;
 
-34. Dommages aux biens professionnels : vol.
+37 Crédit ;
 
-35. Dommages aux biens professionnels : R.C. des multirisques.
+38 Caution ;
 
-36. Dommages aux biens agricoles : incendie et autres dommages aux biens.
+39 Acceptations en réassurance (Non-vie).
 
-37. Dommages aux biens agricoles : grêle.
+Les garanties nuptialité - natalité sont à inclure, selon le cas, dans les catégories 4 à 9.
 
-38. Dommages aux biens agricoles : vol.
+Les entreprises qui pratiquent plusieurs catégories d'opérations doivent, dans leur comptabilité, ventiler par exercice et
+par catégorie les éléments suivants de leurs affaires brutes de cessions et de leurs affaires cédées : primes, sinistres,
+commissions, provisions techniques. Ces mêmes éléments doivent être ventilés, dans la comptabilité, pour chaque catégorie :
 
-39. Dommages aux biens agricoles : R.C. des multirisques.
+- par Etat de situation du risque ou de l'engagement ;
 
-4. Assurance automobile (a).
+- entre les affaires du siège et les affaires de chacune des succursales établies à l'étranger.
 
-40. Dommages subis par les véhicules à quatre roues de moins de 3,5 tonnes.
-
-41. Dommages subis par les véhicules de 3,5 tonnes et plus et véhicules spéciaux.
-
-42. Dommages subis par les véhicules de moins de quatre roues.
-
-43. Accidents corporels des personnes transportées dans un véhicule terrestre à moteur.
-
-45. R.C. des véhicules à quatre roues de moins de 3,5 tonnes.
-
-46. R.C. des véhicules de 3,5 tonnes et plus et véhicules spéciaux.
-
-47. R.C. des véhicules de moins de quatre roues.
-
-5. Transports.
-
-50. Maritime.
-
-51. Aviation.
-
-52. Spatial.
-
-53. Marchandises transportées.
-
-6. Responsabilité civile générale.
-
-60. Particuliers.
-
-61. Professionnels.
-
-62. Agricole.
-
-7. Divers.
-
-70. Crédit.
-
-71. Caution.
-
-72. Pertes pécuniaires diverses.
-
-73. Protection juridique générale.
-
-74. Assistance.
-
-8. Assurance construction.
-
-80. Assurance construction : dommages ouvrages.
-
-81. Assurance construction : R-C décennale.
-
-9. Garantie légale des catastrophes naturelles.
-
-90. Dommages subis par les véhicules terrestres à moteur.
-
-91. Autres dommages.
-
-(a) En assurance automobile, les garanties incendie, vol, bris de glace, protection juridique sont classées dans les sous-
-catégories dommages (40 à 42).
+Toutefois, les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1-1 peuvent ne pas procéder à la
+ventilation des primes, sinistres, commissions et provisions techniques par état de situation du risque ou de l'engagement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1969-09-01 annexe
 
 	**Codifié par**:
 
@@ -45343,26 +46218,44 @@ catégories dommages (40 à 42).
 
 	**Modifié par**:
 
-	  - Arrêté 1982-07-23 art. 2 JORF 7 septembre 1982
-	  - Arrêté 1982-11-04 art. 1 JORF 16 novembre 1982 en vigueur le 31 décembre 1982
-	  - Arrêté 1983-07-11 art. 1 JORF 27 juillet 1983 en vigueur le 1er janvier 1984
-	  - Arrêté 1984-12-21 art. 1 JORF 26 décembre 1984
-	  - Arrêté 1984-12-29 art. 1 JORF 4 janvier 1985
-	  - Arrêté 1987-02-17 art. 1 JORF 20 février 1987
+	  - Arrêté 1994-06-20 art. 1, art. 6 III JORF 19 juillet 1994 en vigueur le 1er janvier 1995
+	  - Arrêté 1995-09-11 art. 2 III JORF 1er octobre 1995
 
 	**Cité par**:
 
-	  - Code des assurances - art. A125-2 (M)
-	  - Code des assurances - art. A331-24 (V)
+	  - Arrêté du 11 septembre 1995 - art. 6 (V)
+	  - Code des assurances - art. A125-2 (V)
+	  - Code des assurances - art. A132-11 (V)
+	  - Code des assurances - art. A132-14 (V)
+	  - Code des assurances - art. A132-3 (V)
+	  - Code des assurances - art. A132-5 (M)
+	  - Code des assurances - art. A132-7 (V)
+	  - Code des assurances - art. A331-16 (V)
+	  - Code des assurances - art. A331-17 (V)
+	  - Code des assurances - art. A331-2 (V)
+	  - Code des assurances - art. A331-4 (M)
+	  - Code des assurances - art. A331-7 (V)
+	  - Code des assurances - art. A342-5 (V)
+	  - Code des assurances - art. A342-6 (V)
+	  - Code des assurances - art. A343-1 (M)
+	  - Code des assurances - art. A343-4-2 (V)
+	  - Code des assurances - art. A344-10 (Ab)
+	  - Code des assurances - art. A344-3 (Ab)
+	  - Code des assurances - art. Annexe A344-10 ETAT C1 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C10 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C11 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C12 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C13 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C21 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C4 (V)
+	  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
+	  - Code des assurances - art. Annexe art. A344-3 (suite 4) (V)
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
-	  - TXT_SOURCE: Code des assurances - art. R342-17 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L441-1 (M)
 
 
 ##### Section III : Etats à produire.
@@ -45605,6 +46498,31 @@ Opérations sur le MATIF (hors bilan) :
 
 
 ##### Section III : Etats à produire.
+
+###### Article A344-4
+
+La somme mentionnée au premier alinéa de l'article R. 341-8 du présent code est fixée à 0,46 euro. Elle couvre la fourniture
+de l'état détaillé des placements lorsque celui-ci n'est pas inclus dans l'annexe aux comptes annuels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1994-06-20 art. 6 IV JORF 19 juillet 1994 en vigueur le 1er janvier 1995
+
+	**Cité par**:
+
+	  - Code des assurances - art. A125-2 (M)
+	  - Code des assurances - art. A331-24 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*341-8 (M)
+
 
 ###### Article Annexe art. A344-3 (suite 1)
 
