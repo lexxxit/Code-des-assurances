@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-08-10
+Version Consolidée au 1994-08-18
 
 # Partie législative
 
@@ -18276,63 +18276,6 @@ dépossession du bien réquisitionné.
 
 	  - Code des assurances - art. L160-8 (V)
 	  - Code des assurances - art. L160-9 (V)
-
-
-###### Article R160-10
-
-En cas de réquisition de services au sens de l'article 2 de l'ordonnance n° 59-63 du 6 janvier 1959, l'assureur de dommages,
-subrogé totalement ou partiellement dans les droits du prestataire, doit fournir, à l'appui de sa demande, tous éléments et
-documents lui ayant permis de déterminer l'indemnité allouée par ses soins à l'assuré.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°59-63 du 6 janvier 1959 - art. 2 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°62-367 1962-03-26 art. 50
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°94-700 du 10 août 1994 - art. 1 (V) JORF 18 août 1994
-
-	**Cité par**:
-
-	  - Décret n°94-700 du 10 août 1994 - art. 1 (V)
-
-
-###### Article R160-12
-
-En cas de réquisition de services, y compris le logement et le cantonnement, le prestataire dont les biens ont été endommagés
-doit, avant de réclamer une indemnité à l'Etat, s'adresser à l'assureur auprès duquel il a souscrit un contrat.
-
-L'Etat ne peut être tenu à indemnisation directe vis-à-vis du prestataire que pour les dommages, ou partie des dommages, non
-couverts par une assurance ; le prestataire doit alors faire connaître le règlement intervenu avec son assureur et
-communiquer sa police à l'administration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-367 du 26 mars 1962 - art. 75 (V)
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°94-700 du 10 août 1994 - art. 1 (V) JORF 18 août 1994
-
-	**Cité par**:
-
-	  - Décret n°94-700 du 10 août 1994 - art. 1 (V)
 
 
 ### Titre VII : Le contrat d'assurance maritime
