@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1984-12-26
+Version Consolidée au 1985-01-01
 
 # Partie législative
 
@@ -40348,6 +40348,31 @@ dernier taux de rendement global connu des actifs, déterminé dans les conditio
 
 ##### Section II : Rachat.
 
+###### Article A150-1
+
+La valeur de rachat d'un contrat de capitalisation est égale à la provision mathématique diminuée, éventuellement, d'une
+indemnité qui ne peut dépasser 5 p. 100 de la provision mathématique du contrat. Cette indemnité doit être nulle à l'issue
+d'une période de dix ans à compter de la date d'effet du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1984-12-21 art. 1 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1984-12-21 art. 2
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 3 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+
 ###### Article A150-2
 
 Lorsque le porteur d'un contrat de capitalisation cesse de verser les primes alors qu'au moins cinq primes annuelles ont été
@@ -40367,46 +40392,6 @@ terme du contrat.
 	**Abrogé par**:
 
 	  - Arrêté 1993-03-19 art. 3 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
-
-
-##### Section II : Rachat.
-
-###### Article A150-1
-
-La valeur de rachat d'un contrat de capitalisation est égale à la provision mathématique diminuée, le cas échéant, d'une
-indemnité fixée dans les conditions suivantes :
-
-Pour les contrats à primes périodiques, l'indemnité ne peut pas dépasser :
-
-6 % de la valeur actuelle des primes brutes restant à percevoir si la durée totale du paiement des primes est inférieure ou
-égale à quinze ans ;
-
-5,5 % si elle est supérieure à quinze ans et inférieure ou égale à dix-sept ans ;
-
-5 % si elle est supérieure à dix-sept ans et inférieure ou égale à vingt ans ;
-
-4,5 % si elle est supérieure à vingt ans et inférieure ou égale à vingt-cinq ans ;
-
-4 % si elle est supérieure à vingt-cinq ans et inférieure ou égale à trente ans.
-
-Ces pourcentages sont réduits dans la proportion qui existe, au moment du rachat, entre le montant de la partie non encore
-échue de la commission d'acquisition et la commission d'acquisition totale. Le calcul est effectué sur le montant maximal de
-la commission d'acquisition en appliquant les règles relatives à l'échelonnement et à la limitation des dépenses
-d'acquisition.
-
-Pour les contrats à prime unique, l'indemnité ne peut pas dépasser 6 % du montant de la prime brute pendant les quatre
-premières années, 4,5 % de la cinquième à la huitième année, 3 % de la neuvième à la douzième année et 1,5 % de la treizième
-à la seizième. Elle doit être nulle ensuite.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1983-04-21 art. 3 JORF 22 avril 1983
 
 
 ##### Section V : Participation des porteurs de titres aux bénéfices.
@@ -40602,54 +40587,62 @@ De la délivrance du duplicata
 
 ##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.
 
-###### Article A160-2
-
-Les entreprises d'assurance sur la vie peuvent, dans les conditions spécifiées aux articles A. 160-3 et A. 160-4, procéder au
-rachat des rentes et des majorations de rentes concernant les contrats qui ont été souscrits auprès d'elles, lorsque les
-quittances d'arrérages correspondantes ne dépassent pas 200 F, en y incluant le montant des majorations légales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. A160-3 (V)
-	  - Code des assurances - art. A160-4 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L160-5 (V)
-
-
 ###### Article A160-3
 
-La valeur de rachat ne peut être inférieure à celle qui découle du barème annexé au présent article et qui donne, pour l'âge
-atteint par l'intéressé, la valeur de rachat d'une rente de 1 F par an, payable annuellement. Il est ajouté au chiffre
-indiqué par le barème, avant de le multiplier par le montant annuel de la rente, 0,25 F si les arrérages sont payables
-semestriellement et 0,375 F si les arrérages sont payables trimestriellement.
+Le barème fixant la valeur de rachat des rentes visées à l'article A. 160-2 est celui des provisions mathématiques établies
+d'après les tables et taux d'intérêt fixés par l'article A. 331-1-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1984-12-21 art. 14 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
 
 	**Cité par**:
 
 	  - Code des assurances - art. A160-1 (V)
 	  - Code des assurances - art. A160-2 (V)
 
+	**Cite**:
+
+	  - Code des assurances - art. A331-1-1 (V)
+
+
+##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.
+
+###### Article A160-2
+
+Les entreprises d'assurance sur la vie peuvent, dans les conditions spécifiées aux articles A. 160-3 et A. 160-4, procéder au
+rachat des rentes et des majorations de rentes concernant les contrats qui ont été souscrits auprès d'elles, lorsque les
+quittances d'arrérages correspondantes ne dépassent pas 500 F, en y incluant le montant des majorations légales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1984-12-21 art. 13 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
+
 	**Liens**:
 
-	  - TXT_SOURCE: Code des assurances - art. L160-5 (V)
+	  - SPEC_APPLI: Arrêté 1984-12-21 art. 16
+
+	**Cité par**:
+
+	  - Code des assurances - art. A160-3 (V)
+	  - Code des assurances - art. A160-4 (V)
 
 
 ###### Article A160-4
 
-Dans le cas où chaque quittance d'arrérage inférieure à 200 F peut être amenée à ce montant ou à un montant supérieur par
+Dans le cas où chaque quittance d'arrérage inférieure à 500 F peut être amenée à ce montant ou à un montant supérieur par
 transformation du ou des contrats en modifiant la périodicité du paiement des arrérages ou en groupant, le cas échéant, en un
 seul les différents contrats de rentes souscrits à la même entreprise par l'intéressé, ce dernier doit être mis à même
 d'opter entre le rachat et cette transformation.
@@ -40660,13 +40653,17 @@ d'opter entre le rachat et cette transformation.
 
 	  - Arrêté 1976-07-16
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code des assurances - art. A160-2 (V)
+	  - Arrêté 1984-12-21 art. 13 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
 
 	**Liens**:
 
-	  - TXT_SOURCE: Code des assurances - art. L160-5 (V)
+	  - SPEC_APPLI: Arrêté 1984-12-21 art. 16
+
+	**Cité par**:
+
+	  - Code des assurances - art. A160-2 (V)
 
 
 ##### Section VI : Assurances sur la vie en temps de guerre.
@@ -42739,46 +42736,6 @@ calculées d'après un taux au plus égal au plus faible des taux d'intérêts s
 	  - SPEC_APPLI: Code des assurances A331-3 *champ d'application*
 
 
-###### Article A331-3
-
-Les provisions mathématiques des contrats d'assurance vie exprimées en unités de compte doivent être calculées dans les
-conditions définies à l'article A. 331-1-1 et à l'article A. 331-1-2 à l'exception des dispositions relatives aux taux
-d'intérêt retenus pour l'établissement des tarifs telles qu'elles figurent à la fin du premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1974-10-31 art. 7
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1983-02-17 art. 2 JORF 3 mars 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1984-12-21 art. 15
-	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
-
-	**Abrogé par**:
-
-	  - Arrêté 1984-12-26 art. 7 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
-
-	**Cite**:
-
-	  - Code des assurances - art. A331-1-1 (T)
-	  - Code des assurances - art. A331-1-2 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. A331-4 (M)
-	  - Code des assurances - art. A331-7 (M)
-
-
 ###### Article A331-4
 
 Les primes des contrats d'assurances sur la vie payées d'avance à la date de l'inventaire en sus des fractions échues doivent
@@ -42851,6 +42808,62 @@ mentionnées à l'article A. 331-1-1.
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances R331-14
+
+
+###### Article A331-6
+
+Les provisions mathématiques de tous les contrats de capitalisation dont les tarifs ont été établis selon les dispositions de
+l'arrêté du 27 avril 1948 ou de textes postérieurs doivent être calculées, à compter du 31 décembre 1982, en prenant en
+compte les chargements destinés aux frais d'acquisition dans l'engagement du porteur de contrat.
+
+Lorsque ces chargements ne sont pas connus, ceux-ci sont évalués au niveau retenu pour le calcul des valeurs de rachat tel
+qu'il a pu être exposé dans la note technique déposée pour le visa du tarif. Dans l'éventualité où, pour un contrat, ce
+niveau n'est pas déterminé, il est évalué en fonction soit de la totalité des chargements, soit de la pénalité appliquée lors
+du rachat.
+
+La provision résultant du calcul précédent ne peut être négative, ni inférieure à la valeur de rachat du contrat.
+
+Les provisions mathématiques des contrats de capitalisation souscrits postérieurement au 30 juin 1948 ne doivent pas être
+inférieures à celles qui correspondent aux primes pures calculées en prenant pour base le taux d'intérêt annuel de 3,50 p.
+100.
+
+Lorsque la durée de paiement des primes est inférieure à la durée du contrat, elles doivent comprendre, en outre, une
+provision de gestion permettant de couvrir les frais de gestion pendant la période au cours de laquelle les primes ne sont
+plus payées. Ces frais doivent être estimés à un montant justifiable et raisonnable, sans pouvoir être inférieurs, chaque
+année, à 0,75 pour 1.000 du capital garanti.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1948-04-27
+
+	**Anciens textes**:
+
+	  - Arrêté 1948-04-27 art. 1
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1983-02-17 art. 3 JORF 3 mars 1983
+	  - Arrêté 1984-12-21 art. 9 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 15 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+	**Cité par**:
+
+	  - Code des assurances - art. A331-4 (V)
+	  - Code des assurances - art. A331-7 (V)
+	  - Code des assurances - art. A331-8 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
 
 
 ###### Article A331-7
@@ -44314,35 +44327,6 @@ tarif majoré de 33 p. 100 les contrats cessent d'être présentés au public.
 	**Cite**:
 
 	  - Code des assurances - art. A335-3 (M)
-
-
-###### Article A335-5
-
-Les dispositions de l'article A. 335-1, à l'exclusion de celles figurant au 2°, sont applicables aux contrats d'assurance vie
-exprimées en unités de compte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1983-02-17 art. 4 JORF 3 mars 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1984-12-21 art. 15
-	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
-
-	**Abrogé par**:
-
-	  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
-
-	**Cite**:
-
-	  - Code des assurances - art. A335-1 (M)
 
 
 ###### Article A335-5-1
