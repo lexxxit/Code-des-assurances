@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1981-01-28
+Version Consolidée au 1981-05-09
 
 # Partie législative
 
@@ -17084,6 +17084,110 @@ considérée.
 	  - Décret n°1938-12-30 art. 141
 
 
+##### Section VI : Dispositions spéciales concernant la coassurance communautaire.
+
+###### Article R321-22
+
+En application de l'article L. 321-4, l'agrément administratif n'est pas exigé des entreprises étrangères d'assurance dont le
+siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne, couvert par le traité
+instituant cette Communauté, pour pratiquer des opérations de coassurance définies au même article portant sur une ou
+plusieurs des branches d'assurance mentionnées aux 4, 5, 6, 7, 8, 9, 11, 12, 13 et 16 de l'article R. 321-1.
+
+Toutefois, l'agrément reste exigé pour les opérations de coassurance définies à l'article L. 321-4 portant sur les risques
+relevant de la branche 13 précitée et concernant des responsabilités encourues par suite de dommages d'origine nucléaire ou
+médicamenteuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°81-443 du 7 mai 1981 - art. 1 () JORF 9 mai 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-443 du 7 mai 1981 - art. 6, v. init.
+	  - TXT_SOURCE: Code des assurances - art. L321-4 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2008-1154 du 7 novembre 2008 - art. 30 (V)
+	  - Code des assurances - art. R321-23 (T)
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-4 (Ab)
+	  - Code des assurances L321-4, R321-1
+	  - Traité CEE 1957-03-25, signé à Rome
+
+
+###### Article R321-23
+
+Les risques entrant dans les branches d'assurance mentionnées à l'article R. 321-22 ne peuvent faire l'objet d'un contrat de
+coassurance communautaire que lorsque l'assuré exerce à titre professionnel une activité indépendante, de nature commerciale,
+industrielle ou libérale et que le risque à couvrir est relatif à cette activité professionnelle.
+
+En outre, pour chacun de ces risques, à l'exclusion de ceux appartenant à la branche 13, le montant de la garantie à partir
+duquel un contrat d'assurance communautaire peut être souscrit est fixé par arrêté du ministre de l'économie par référence à
+un nombre d'unités de compte de la Communauté économique européenne. Ce nombre ne peut, pour les risques appartenant aux
+branches 8, 9 et 16, être supérieur à 50 millions d'unités de compte et pour les risques appartenant aux branches 4, 5, 6, 7,
+11 et 12 à 30 millions d'unités de compte.
+
+Pour les risques appartenant à la branche 13, l'admission à la coassurance communautaire est déterminée par référence au
+chiffre d'affaires de l'assuré. L'arrêté susvisé du ministre de l'économie fixe le montant de ce chiffre d'affaires. Ce
+montant ne peut être supérieur à 200 millions d'unités de compte de la Communauté économique européenne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°81-443 du 7 mai 1981 - art. 1 () JORF 9 mai 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-443 du 7 mai 1981 - art. 6, v. init.
+	  - TXT_SOURCE: Code des assurances - art. A321-1 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. R321-22 (M)
+	  - Code des assurances R321-1, R321-22
+
+
+###### Article R321-24
+
+L'apériteur doit remplir les conditions énumérées à l'article L. 321-4. Il doit, en outre, assumer pleinement le rôle dévolu
+à l'apériteur selon les usages professionnels. Il détermine, notamment, les conditions d'assurance et de tarification du
+risque, il répartit la prime entre les coassureurs, il reçoit les déclarations de sinistres et procède à la liquidation de
+ceux-ci. Il fixe, enfin, le montant minimal de la provision pour sinistres restant à payer que chaque entreprise participant
+à la coassurance doit constituer et en fait connaître le montant aux entreprises intéressées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°81-443 du 7 mai 1981 - art. 1 () JORF 9 mai 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-443 du 7 mai 1981 - art. 6, v. init.
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-4 (Ab)
+
+
 #### Chapitre II : Règles de constitution et de fonctionnement
 
 ##### Section I : Dispositions communes.
@@ -24385,48 +24489,35 @@ le règlement des sinistres en suspens.
 	  - Code des assurances R343-3
 
 
-#### Chapitre II : Réglementation des placements et autres éléments d'actif
+##### Paragraphe 5 : Dispositions supplémentaires concernant la coassurance communautaire.
 
-##### Section I : Eléments d'actif admis en représentation des engagements réglementés.
+###### Article R331-31
 
-###### Article R*332-1
-
-Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute époque, être représentés par des actifs
-équivalents.
-
-Les engagements pris dans chaque monnaie doivent être couverts, soit par des valeurs libellées dans la même monnaie, soit par
-des valeurs admises à la cote officielle d'une bourse de valeurs et dont la cotation est effectuée dans cette monnaie.
-Toutefois, les engagements peuvent également être couverts dans les conditions prévues à l'article R. 332-2, 5°, et à
-l'article R. 332-16, dernier alinéa.
-
-Les engagements afférents à des risques concernant des personnes, des biens ou des responsabilités sur le territoire de la
-République française doivent être représentés par des actifs localisés dans ce même territoire.
+Dans le cas où des entreprises agréées dans les conditions fixées à l'article L. 321-1 participent à une opération de
+coassurance définie à l'article L. 321-4 sur le territoire couvert par le traité instituant la Communauté économique
+européenne des  Etats membres de cette Communauté autres que la France, la provision pour sinistres restant à payer que
+chacune de ces entreprises doit constituer est au moins égale au montant calculé par l'apériteur, compte tenu des règles ou
+pratiques en usage dans le pays où est établi ce dernier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
 
-	**Cité par**:
+	**Créé par**:
 
-	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
-	  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
-	  - Code des assurances - art. R*332-11 (M)
-	  - Code des assurances - art. R328-1 (V)
-	  - Code des assurances - art. R332-1-1 (V)
-	  - Code des assurances - art. R332-2 (V)
-	  - Code des assurances - art. R332-9 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
+	  - Décret n°81-443 du 7 mai 1981 - art. 2 () JORF 9 mai 1981
 
 	**Cite**:
 
-	  - Code des assurances - art. R*331-1 (M)
-	  - Code des assurances - art. R332-16 (M)
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-4 (Ab)
 
+
+#### Chapitre II : Réglementation des placements et autres éléments d'actif
+
+##### Section I : Eléments d'actif admis en représentation des engagements réglementés.
 
 ###### Article R*332-4
 
@@ -24596,37 +24687,6 @@ article pour un montant égal à la valeur des titres remis calculée conformém
 	  - Décret n°1938-12-30 art. 158
 
 
-###### Article R*332-9
-
-Nonobstant les limitations prévues à la présente section, les entreprises mentionnées à l'article L. 310-1 peuvent employer
-les portions de leur actif correspondant aux engagements respectivement afférents aux opérations réalisées dans chacun des
-pays étrangers où elles opèrent, ainsi que tous cautionnements ou garanties qui pourraient être exigés par lesdits pays ou
-par les sociétés cédantes desdits pays, en immeubles situés dans ces pays, en prêts, avoirs en espèces ou valeurs mobilières
-admises par les législations des pays susmentionnés.
-
-Un décret, pris après avis du conseil national des assurances, fixe les conditions d'application du présent article, pour les
-opérations pratiquées dans les pays étrangers où aucune législation de contrôle n'est en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
-	  - Code des assurances - art. R343-2 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 164
-
-
 ###### Article R*332-10
 
 Le passif mentionné aux 2°, 4° et 5° de l'article R. 333-1 est représenté à l'actif dans les mêmes conditions que les
@@ -24742,6 +24802,52 @@ l'article R. 331-1 peuvent être placés conformément aux statuts et aux règle
 	**Anciens textes**:
 
 	  - Décret n°1938-12-30 art. 163
+
+
+###### Article R332-1
+
+Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute époque, être représentés par des actifs
+équivalents.
+
+Les engagements pris dans chaque monnaie doivent être couverts, soit par des valeurs libellées dans la même monnaie, soit par
+des valeurs admises à la cote officielle d'une bourse de valeurs et dont la cotation est effectuée dans cette monnaie.
+Toutefois, les engagements peuvent également être couverts dans les conditions prévues à l'article R. 332-2, 5°, et à
+l'article R. 332-16, dernier alinéa.
+
+Toutefois, les engagements pris dans le cadre de la coassurance communautaire par un coassureur, en exécution des
+dispositions de l'article L. 321-4, peuvent être couverts par des actifs répondant aux conditions énumérées au deuxième
+alinéa du présent article et localisés dans le pays de ce coassureur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°81-443 du 7 mai 1981 - art. 3 () JORF 9 mai 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-443 du 7 mai 1981 - art. 6, v. init.
+	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
+
+	**Cité par**:
+
+	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
+	  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
+	  - Code des assurances - art. R*332-11 (M)
+	  - Code des assurances - art. R328-1 (V)
+	  - Code des assurances - art. R332-1-1 (V)
+	  - Code des assurances - art. R332-2 (V)
+	  - Code des assurances - art. R332-9 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-4 (Ab)
+	  - Code des assurances - art. R*331-1 (M)
+	  - Code des assurances - art. R332-16 (M)
 
 
 ###### Article R332-2
@@ -25055,6 +25161,49 @@ Il peut de même, à titre exceptionnel, accorder aux entreprises des dérogatio
 	**Cite**:
 
 	  - Code des assurances - art. R*332-2 (M)
+
+
+###### Article R332-9
+
+Nonobstant les limitations prévues à la présente section, les entreprises mentionnées à l'article L. 310-1 peuvent employer
+les portions de leur actif correspondant aux engagements respectivement afférents aux opérations réalisées dans chacun des
+pays étrangers où elles opèrent, ainsi que tous cautionnements ou garanties qui pourraient être exigés par lesdits pays ou
+par les sociétés cédantes desdits pays, en immeubles situés dans ces pays, en prêts, avoirs en espèces ou valeurs mobilières
+admises par les législations des pays susmentionnés.
+
+Un décret, pris après avis du conseil national des assurances, fixe les conditions d'application du premier alinéa du présent
+article, pour les opérations pratiquées dans les pays étrangers où aucune législation de contrôle n'est en vigueur.
+
+Dans le cas où des entreprises participent à des opérations de coassurance communautaire définies à l'article L. 321-4 sur le
+territoire couvert par le traité instituant la Communauté économique européenne des Etats membres de cette Communauté autres
+que la France, les actifs correspondant aux engagements résultant de ces opérations sont localisés soit sur le territoire de
+la République française, soit dans l'Etat membre où est établi l'apériteur. Ces actifs doivent répondre aux conditions
+énumérées au deuxième alinéa de l'article R. 332-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°81-443 du 7 mai 1981 - art. 4 () JORF 9 mai 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-443 du 7 mai 1981 - art. 6, v. init.
+
+	**Cité par**:
+
+	  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
+	  - Code des assurances - art. R343-2 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L321-4 (Ab)
+	  - Code des assurances - art. R*332-1 (M)
 
 
 ##### Section II : Réglementations particulières concernant certains éléments d'actif.
@@ -28200,7 +28349,7 @@ cautionnements.
 
 A 5 Liste détaillée des placements.
 
-B 6 Récapitulations de placements.
+B 6 Récapitulations des placements.
 
 B 7 Avoirs et engagements en France.
 
@@ -28225,11 +28374,11 @@ A 25 Participation des assurés aux résultats techniques et aux produits financ
 
 B 26 Etat justificatif de la participation minimale des assurés aux bénéfices des entreprises d'assurance sur la vie.
 
-Les entreprises doivent ajouter des rubriques à celles des tableaux modèles chaque fois qu'une telle addition est utile à la
-sincérité des comptes rendus ; elles ont la faculté de le faire chaque fois que cela est utile à la clarté de ces comptes.
-Toutefois, les postes complémentaires doivent toujours être présentés comme des subdivisions des rubriques plus générales
-figurant au tableau modèle, et le total de ces postes complémentaires doit toujours être porté sous la rubrique réglementaire
-à laquelle lesdits postes sont rattachés.
+B 27 Etat concernant les opérations de coassurance communautaire.    Les entreprises doivent ajouter des rubriques à celles
+des tableaux modèles chaque fois qu'une telle addition est utile à la sincérité des comptes rendus ; elles ont la faculté de
+le faire chaque fois que cela est utile à la clarté de ces comptes. Toutefois, les postes complémentaires doivent toujours
+être présentés comme des subdivisions des rubriques plus générales figurant au tableau modèle, et le total de ces postes
+complémentaires doit toujours être porté sous la rubrique réglementaire à laquelle lesdits postes sont rattachés.
 
 Les lignes et les colonnes "néant" peuvent être supprimées.
 
@@ -28237,7 +28386,11 @@ Les lignes et les colonnes "néant" peuvent être supprimées.
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°81-443 du 7 mai 1981 - art. 5 () JORF 9 mai 1981
 
 	**Cité par**:
 
