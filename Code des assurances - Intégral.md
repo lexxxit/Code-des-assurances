@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1993-01-01
+Version Consolidée au 1993-02-24
 
 # Partie législative
 
@@ -21149,75 +21149,6 @@ Si cette entreprise a fait l'objet d'une des mesures prévues aux articles R. 32
 
 ##### Paragraphe 2 : Administration.
 
-###### Article R*322-17
-
-La rémunération des présidents des conseils d'administration des sociétés centrales des groupes d'entreprises nationales
-d'assurance est déterminée par le ministre de l'économie, des finances et du budget.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 1 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Abrogé par**:
-
-	  - Décret n°93-234 du 22 février 1993 - art. 1 (V) JORF 24 février 1993
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-16 (Ab)
-
-
-###### Article R*322-18
-
-Aucun fonctionnaire en service ne peut être nommé administrateur d'une entreprise nationale, sauf s'il est désigné au titre
-de représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°93-234 du 22 février 1993 - art. 1 (V) JORF 24 février 1993
-
-
-###### Article R*322-19
-
-Dans les conseils d'administration des sociétés centrales d'assurance, les actionnaires autres que l'Etat sont représentés
-par une personne désignée dans les conditions prévues au 1° du premier alinéa de l'article 5 de la loi du 26 juillet 1983
-modifiée relative à la démocratisation du secteur public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°83-675 1983-07-26 art. 5
-
-	**Modifié par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 2 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Abrogé par**:
-
-	  - Décret n°93-234 du 22 février 1993 - art. 1 (V) JORF 24 février 1993
-
-
 ###### Article R322-20
 
 Dans le conseil d'administration des sociétés centrales d'assurances, les personnalités mentionnées au 2° du deuxième alinéa
@@ -21285,80 +21216,6 @@ territoires d'outre-mer.
 	**Cité par**:
 
 	  - Code des assurances - art. R*431-6-2 (V)
-
-
-##### Paragraphe 4 : Dispositions diverses.
-
-###### Article R*322-37
-
-Les dispositions de l'article 125 du décret n° 69-810 du 12 août 1969 s'appliquent aux sociétés centrales d'assurance.
-
-Pour l'application des règles de publication prévues par les articles 293 à 299 du décret n° 67-236 du 23 mars 1967, les
-sociétés centrales d'assurance publient les comptes des entreprises d'assurance du groupe dans les conditions applicables aux
-sociétés d'assurance dont les actions sont inscrites à la cote officielle des bourses de valeurs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-236 1967-03-23 art. 293 à art. 299
-	  - Décret n°69-810 du 12 août 1969 - art. 125 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°73-605 1973-07-04 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°93-234 du 22 février 1993 - art. 1 (V) JORF 24 février 1993
-
-
-###### Article R*322-38
-
-Les commissaires aux comptes des sociétés centrales d'assurance et des entreprises nationales d'assurance sont désignés dans
-les conditions prévues à l'article 223 de la loi n° 66-537 du 24 juillet 1966 modifiée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 223
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°90-158 du 19 février 1990 - art. 3 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-	**Abrogé par**:
-
-	  - Décret n°93-234 du 22 février 1993 - art. 1 (V) JORF 24 février 1993
-
-
-###### Article R*322-39
-
-Les entreprises nationales peuvent insérer, dans les conditions générales des contrats qu'elles font souscrire, des clauses
-prévoyant la participation des assurés aux bénéfices.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 18
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°93-234 du 22 février 1993 - art. 1 (V) JORF 24 février 1993
 
 
 ##### Section IV : Sociétés d'assurance mutuelles
@@ -25882,21 +25739,25 @@ acceptations.
 
 #### Chapitre VIII : Sanctions.
 
-###### Article R*328-1
+###### Article R328-1
 
-Sont passibles d'un emprisonnement de huit à quinze jours et d'une amende de 3.000 à 6.000 F ou de l'une de ces deux peines
+Sont passibles d'un emprisonnement de dix jours à un mois et d'une amende de 3.000 à 6.000 F ou de l'une de ces deux peines
 seulement les dirigeants d'entreprise qui méconnaissent les obligations ou interdictions résultant des articles R. 310-2, R.
-310-5, R. 310-7, R. 322-3, R. 322-8 (1er alinéa), R. 322-77 (1er alinéa), R. 323-1 (dernier alinéa), R. 323-2 (dernier
-alinéa), R. 323-3 (dernier alinéa), R. 323-4 (dernier alinéa), R. 323-5 (dernier alinéa), R. 323-8 (dernier alinéa), R.
-326-1, R. 331-1, R. 332-1, R. 332-18 (dernier alinéa), R. 332-38, R. 341-1 et R. 341-4.
+310-5, R. 322-3, R. 322-8 (1er alinéa), R. 322-77 (1er alinéa), R. 323-1 (dernier alinéa), R. 323-2 (dernier alinéa), R.
+323-3 (dernier alinéa), R. 323-4 (dernier alinéa), R. 323-5 (dernier alinéa), R. 323-8 (dernier alinéa), R. 326-1, R. 331-1,
+R. 332-1, R. 332-38, R. 341-1 et R. 341-4.
 
-En cas de récidive, la peine d'emprisonnement pourra être portée à un mois et celle d'amende à 12.000 F.
+En cas de récidive, la peine d'emprisonnement pourra être portée à deux mois et celle d'amende à 12.000 F.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°93-234 du 22 février 1993 - art. 2 () JORF 24 février 1993
 
 	**Liens**:
 
@@ -25911,7 +25772,6 @@ En cas de récidive, la peine d'emprisonnement pourra être portée à un mois e
 	  - TXT_ASSOCIE: Code des assurances - art. R*332-38 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. R332-1 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. R341-1 (M)
-	  - SPEC_APPLI: Code des assurances R328-2
 
 	**Cité par**:
 
@@ -25934,7 +25794,7 @@ En cas de récidive, la peine d'emprisonnement pourra être portée à un mois e
 	  - Code des assurances - art. R*332-38 (M)
 	  - Code des assurances - art. R*341-1 (M)
 	  - Code des assurances - art. R*341-4 (M)
-	  - Code des assurances R310-2, R310-5, R310-6, R310-7, R322-3, R322-8, R322-77, R323-1, R323-2, R323-3, R323-4, R323-5, R323-8, R326-1, R331-1, R332-1, R332-18, R332-38, R341-1, R341-4
+	  - Code des assurances R310-2, R310-5, R322-3, R322-8, R322-77, R323-1, R323-2, R323-3, R323-4, R323-5, R323-8, R326-1, R331-1, R332-1, R332-38, R341-1, R341-4
 
 
 ###### Article R328-2
@@ -27339,13 +27199,19 @@ commission de contrôle des assurances de la République française et par le mi
 
 2° Pour ce qui concerne les opérations réalisées dans les départements et territoires d'outre-mer et dans la collectivité
 territoriale de Mayotte, la commission de contrôle des assurances peut, sur proposition du représentant de l'Etat dans la
-collectivité concernée, consentir des dérogations aux règles de l'article R. 332-3. Il peut de même, à titre exceptionnel,
+collectivité concernée, consentir des dérogations aux règles de l'article R. 332-3. Elle peut de même, à titre exceptionnel,
 accorder aux entreprises des dérogations à la réglementation de contrôle ;
 
-3° La limitation prévue au 5° de l'article R. 332-3 pour les actifs immobiliers est ramenée à 10 % pour la représentation des
+3° La limitation prévue au 2° de l'article R. 332-3 pour les actifs immobiliers est ramenée à 10 % pour la représentation des
 provisions techniques afférentes aux opérations tontinières, sauf dérogation accordée par la commission de contrôle des
 assurances ; cette même limitation ne s'applique pas pour la représentation des provisions techniques afférentes aux
 opérations d'acquisition d'immeubles au moyen du versement de rentes viagères.
+
+**Nota:**
+
+- Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à
+la " collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
+territoriale " est remplacée par la référence à la " collectivité départementale ".
 
 **Liens relatifs à cet article**
 
@@ -27355,7 +27221,7 @@ opérations d'acquisition d'immeubles au moyen du versement de rentes viagères.
 
 	**Modifié par**:
 
-	  - Décret n°90-981 du 5 novembre 1990 - art. 24 () JORF 6 novembre 1990
+	  - Décret n°93-234 du 22 février 1993 - art. 2 () JORF 24 février 1993
 
 	**Cité par**:
 
