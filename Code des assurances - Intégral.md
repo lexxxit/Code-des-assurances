@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-07-28
+Version Consolidée au 1991-07-28 00:00:01 +0200
 
 # Partie législative
 
@@ -32456,7 +32456,7 @@ Les éléments constitutifs des coûts et résultats font l'objet d'états ou ta
 
 4619 Titres de placement autres que ceux énumérés aux articles R. 332-2 et R. 332-9.
 
-462 Institutions de prévoyance régies par l'article L. 4 du code de la sécurité sociale.
+462 Institutions de prévoyance régies par l'article L. 732-1 du code de la sécurité sociale.
 
 4620 U.N.I.R.S.
 
@@ -32536,11 +32536,11 @@ Les éléments constitutifs des coûts et résultats font l'objet d'états ou ta
 
 	**Modifié par**:
 
-	  - Décret n°85-460 1985-04-25 art. 1 à art. 10 JORF 30 avril 1985
+	  - Décret n°91-723 du 26 juillet 1991 - art. 12 () JORF 28 juillet 1991
 
 	**Cite**:
 
-	  - Code de la sécurité sociale L4
+	  - Code de la sécurité sociale. - art. L732-1 (T)
 	  - Code des assurances - art. R*332-2 (M)
 	  - Code des assurances - art. R*332-9 (M)
 
