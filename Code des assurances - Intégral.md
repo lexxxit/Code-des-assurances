@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-07-11
+Version Consolidée au 1990-07-17
 
 # Partie législative
 
@@ -34602,43 +34602,400 @@ du décret n° 67-236 du 23 mars 1967 modifié les renseignements mentionnés au
 
 #### Chapitre I : Le conseil national des assurances
 
-##### Section I : Organisation et attributions.
+###### Article R*411-4
 
-###### Article R*411-2
-
-Le conseil national des assurances délibère sur toutes les questions qui lui sont soumises par le ministre de l'économie et
-des finances concernant les entreprises d'assurance, de réassurance et de capitalisation. Il exerce en outre les attributions
-à lui dévolues par les dispositions du présent code qui prévoient sa consultation.
-
-Il soumet au ministre de l'économie et des finances toutes propositions tendant à mettre en oeuvre dans le cadre de la
-législation en vigueur les mesures propres à rationaliser le fonctionnement de l'industrie des assurances.
-
-Il peut également soumettre au ministre toutes propositions concernant :
-
-1° Les règles et directives techniques et financières à imposer, dans le cadre de la législation en vigueur, à toutes les
-entreprises d'assurance, de réassurance et de capitalisation, en ce qui concerne les conditions générales de leur activité ;
-
-2° Les mesures permettant la coordination de la caisse nationale de prévoyance avec les entreprises d'assurance nationalisées
-et l'unification des règles de contrôle et de comptabilité, ainsi que les dispositions fiscales applicables à cet organisme
-et à ses assurés ;
-
-3° Les conditions générales des contrats et des tarifs dans le cadre de la législation en vigueur ;
-
-4° Les règles et directives techniques et financières à suivre par la caisse centrale de réassurance.
-
-Il étudie et propose toutes mesures propres à diminuer la gravité des risques et à organiser la prévention.
-
-Il adresse chaque année au ministre de l'économie et des finances un rapport sur son activité.
+Les dépenses de fonctionnement du Conseil national des assurances sont supportées par le budget du ministère de l'économie et
+des finances.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 15
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
+
+
+###### Article R*411-5
+
+Le secrétariat du Conseil national des assurances est assuré par des fonctionnaires mis à la disposition du conseil par le
+ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
+
+
+###### Article R*411-6
+
+Le secrétaire général rédige et soumet à l'approbation du conseil les procès-verbaux des séances. Il est chargé de la
+conservation des procès-verbaux et des archives ainsi que de la diffusion des convocations et des ordres du jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
+
+
+###### Article R*411-7
+
+Le Conseil national des assurances peut, pour l'examen des affaires dont il est saisi, désigner des rapporteurs parmi ses
+membres ou parmi les professionnels de l'assurance ; il peut également demander au ministre chargé de l'économie et des
+finances de désigner des rapporteurs parmi les fonctionnaires de l'Etat de catégorie A, notamment parmi les commissaires
+contrôleurs des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
+
+
+###### Article R*411-8
+
+Le Conseil national des assurances ne peut délibérer que sur les questions figurant à l'ordre du jour annexé à la
+convocation. Cette convocation est adressée aux membres du Conseil national des assurances au moins quinze jours avant la
+date de la réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
+
+
+###### Article R*411-9
+
+Les avis, voeux et résolutions du Conseil national des assurances sont émis à la majorité des voix des membres présents ; en
+cas de partage égal des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
+
+
+###### Article R*411-10
+
+La commission des entreprises d'assurance instituée par l'article L. 411-3 est présidée par le ministre chargé de l'économie
+et des finances ou, en son absence, par le directeur des assurances qui en est membre de droit.
+
+La commission comprend en outre :
+
+Le directeur du Trésor ;
+
+Le président de la commission de contrôle des assurances ;
+
+Une personnalité choisie en raison de sa compétence ;
+
+Un représentant des assurés.
+
+Hormis le président et le directeur des assurances, les membres de la commission des entreprises d'assurance sont nommés par
+arrêté du ministre chargé de l'économie et des finances.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L411-3 (M)
+
+
+###### Article R*411-11
+
+La commission de la réglementation, instituée par l'article L. 411-3, est présidée par le ministre chargé de l'économie et
+des finances ou, en son absence, par le directeur des assurances qui en est membre de droit.
+
+La commission comprend en outre :
+
+Le conseiller d'Etat, membre du Conseil national des assurances ;
+
+Le directeur des affaires civiles et du sceau au ministère de la justice ;
+
+Une personnalité choisie en raison de sa compétence ;
+
+Trois représentants des entreprises d'assurance ;
+
+Un représentant des agents généraux d'assurances ou des courtiers d'assurances ;
+
+Un représentant des assurés.
+
+Hormis le président et le directeur des assurances, les membres de la commission de la réglementation sont nommés par arrêté
+du ministre chargé de l'économie et des finances.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L411-3 (M)
+
+
+###### Article R*411-12
+
+La commission consultative de l'assurance instituée par l'article L. 411-3 comprend dix-neuf membres nommés par arrêté du
+ministre chargé de l'économie et des finances.
+
+La commission est composée de la manière suivante :
+
+Une personnalité choisie en raison de sa compétence qui en assure la présidence ;
+
+Six représentants des entreprises d'assurance ;
+
+Deux représentants des agents généraux d'assurances ;
+
+Deux représentants des courtiers d'assurances ;
+
+Deux représentants du personnel des entreprises d'assurance mentionnées à l'article L. 310-1 ;
+
+Six représentants des assurés.
+
+L'ordre du jour est communiqué au ministre chargé de l'économie et des finances et au directeur des assurances.
+
+La commission consultative de l'assurance élabore un rapport annuel qui est transmis au Conseil national des assurances. Le
+ministre chargé de l'économie et des finances peut le rendre public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-3 (M)
+	  - Code des assurances - art. L411-3 (M)
+
+
+###### Article R*411-13
+
+Le secrétariat des commissions constituées au sein du Conseil national des assurances, en application de l'article L. 411-3,
+est assuré par le secrétaire général du Conseil national des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L411-3 (M)
+
+
+###### Article R*411-14
+
+Des représentants du ministre chargé de l'économie et des finances et du président de la commission de contrôle des
+assurances peuvent assister, en qualité d'expert, aux travaux du Conseil national des assurances et des commissions
+instituées en application de l'article L. 411-3.
+
+Le président du Conseil national des assurances et le président de la commission consultative de l'assurance peuvent appeler
+à participer, avec voix consultative, aux travaux du conseil et des commissions qu'ils président respectivement toute
+personne dont l'audition leur paraît utile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L411-3 (M)
+
+
+###### Article R*411-15
+
+Les membres du Conseil national des assurances et des commissions et les personnes assistant aux séances sont tenus à la
+discrétion professionnelle en ce qui concerne les renseignements d'ordre confidentiel dont ils ont connaissance en raison de
+leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
+
+
+###### Article R411-1
+
+I. - Les membres du Conseil national des assurances visés aux septième à onzième alinéas de l'article L. 411-1 sont désignés
+comme suit :
+
+1° Les cinq membres représentant l'Etat sont :
+
+Le directeur du Trésor ou son représentant ;
+
+Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
+
+Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ;
+
+Le directeur des exploitations, de la politique sociale et de l'emploi au ministère de l'agriculture ou son représentant ;
+
+Le président de la commission de contrôle des assurances.
+
+2° Les trois personnalités désignées en raison de leur compétence dans le domaine des assurances sont nommées par arrêté du
+ministre chargé de l'économie et des finances.
+
+3° Les douze représentants des professions de l'assurance comprennent :
+
+- huit représentants des entreprises d'assurance désignés sur proposition des organismes représentatifs de la profession ;
+
+- deux représentants des agents généraux d'assurance et deux représentants des courtiers d'assurance désignés respectivement
+sur proposition des organisations syndicales représentatives.
+
+4° Les cinq représentants du personnel des entreprises d'assurance mentionnées à l'article L. 310-1 sont désignés sur
+proposition des organisations syndicales les plus représentatives sur le plan national.
+
+5° Le représentant élu des collectivités locales est désigné sur proposition du ministre de l'intérieur ; les sept autres
+représentants des assurés sont désignés sur proposition du Conseil national de la consommation.
+
+Les représentants des assurés ne peuvent être choisis parmi les professionnels de l'assurance en activité.
+
+II. - Les membres du Conseil national des assurances mentionnés aux 3°, 4° et 5° du I ci-dessus sont nommés par arrêté du
+ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. A411-1 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A411-10 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A411-11 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A411-2 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A411-3 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A411-4 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A411-5 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A411-6 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A411-7 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A411-8 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A411-9 (Ab)
+	  - TXT_ASSOCIE: Code des assurances A411-1 à A411-11
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances L310-1, L411
+
+
+###### Article R411-2
+
+En cas de vacance d'un siège, pour quelque cause que ce soit, six mois au moins avant la fin normale du mandat, il est
+procédé, dans le délai de deux mois et dans les mêmes formes, à la nomination du remplaçant pour la durée restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
 
 	**Liens**:
 
@@ -34672,124 +35029,14 @@ Il adresse chaque année au ministre de l'économie et des finances un rapport s
 	  - Code des assurances - art. R411-1 (M)
 
 
-###### Article R411-1
+###### Article R411-3
 
-Il est créé un conseil national des assurances, dont les attributions sont définies à l'article R. 411-2.
+Il est pourvu au remplacement des membres du Conseil national des assurances, quinze jours au moins avant l'expiration de
+leurs fonctions.
 
-Ce conseil, placé sous la présidence du ministre de l'économie et des finances, comprend, indépendamment de son président :
-
-Un vice-président, désigné par le ministre de l'économie et des finances sur proposition du garde des sceaux, ministre de la
-justice, parmi les membres du Conseil d'Etat ayant au moins le rang de conseiller, en activité ou honoraire, et quarante et
-un membres ainsi répartis :
-
-Un membre de la Cour de cassation ayant au moins le rang de conseiller, en activité ou honoraire, désigné par le ministre de
-l'économie et des finances sur proposition du garde des sceaux, ministre de la justice, et suppléant le vice-président en cas
-d'absence ou d'empêchement de celui-ci ;
-
-Le directeur du Trésor au ministère de l'économie et des finances ;
-
-Le directeur général de la caisse des dépôts et consignations ;
-
-Le président du conseil d'administration, directeur général de la caisse centrale de réassurance ;
-
-Un professeur d'une unité de droit d'une université de Paris, désigné par le ministre de l'économie et des finances ;
-
-Au titre du ministère de l'économie, des finances et du budget :
-
-- le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
-
-- le directeur de la comptabilité publique ;
-
-- le chef du service de la législation fiscale ;
-
-Au titre du ministère de la justice :
-
-- le directeur des affaires civiles et du sceau ;
-
-Au titre du ministère de l'intérieur et de la décentralisation :
-
-- le directeur des libertés publiques et des affaires juridiques ;
-
-Au titre du ministère de l'agriculture :
-
-- le directeur des affaires sociales.
-
-Le délégué général du comité national pour la prévention et la protection ;
-
-Un représentant de la fédération nationale de la mutualité, de la coopération et du crédit agricole ;
-
-Un membre du comité français de la chambre de commerce internationale, désigné par ce comité ;
-
-Huit représentants des assurés, désignés à raison de :
-
-Un par l'assemblée permanente des présidents de chambre de commerce et d'industrie ;
-
-Un par l'assemblée des présidents de chambres de métiers ;
-
-Un par l'assemblée des présidents de chambres d'agriculture ;
-
-Un par l'union nationale des associations familiales ;
-
-Un par l'union nationale de la propriété bâtie de France ;
-
-Deux par les organisations syndicales représentatives des travailleurs, désignées par arrêté du ministre de l'économie et des
-finances et du ministre du travail ;
-
-Un représentant des organisations de consommateurs, désigné sur proposition du collège des consommateurs du comité national
-de la consommation ;
-
-Ces huit représentants des assurés ne peuvent être choisis parmi les professionnels de l'assurance en activité ;
-
-Cinq représentants du personnel des entreprises d'assurance et de capitalisation, désignés par les fédérations ou syndicats
-représentatifs à raison de :
-
-Un pour le personnel de direction ;
-
-Un pour le personnel des cadres ;
-
-Un pour les inspecteurs ;
-
-Deux pour les employés.
-
-Aucun syndicat ou fédération ne peut désigner plus d'un représentant ;
-
-Trois représentants des agents généraux d'assurances, désignés par l'organisation syndicale la plus représentative des agents
-généraux d'assurances ;
-
-Deux représentants des courtiers d'assurances désignés par les organisations les plus représentatives des courtiers
-d'assurances ;
-
-Sept représentants des sociétés d'assurance opérant en France, désignés par l'organisation professionnelle la plus
-représentative de ces entreprises ;
-
-Un représentant des sociétés adhérant au groupement des sociétés d'assurances à caractère mutuel, désigné par cet organisme ;
-
-Un professionnel de l'assurance mutuelle agricole, désigné par le conseil d'administration de la caisse centrale des
-mutuelles agricoles.
-
-Le directeur des assurances au ministère de l'économie et des finances, ou son représentant, participe avec voix consultative
-aux séances du conseil national des assurances. En cas d'absence du ministre, il a voix délibérative.
-
-Le ministre de l'économie et des finances et le conseil national des assurances peuvent appeler à prendre part aux séances du
-conseil, avec voix consultative, les personnes que leurs connaissances mettent en mesure d'éclairer la discussion : le
-conseil national des assurances peut aussi constituer dans son sein des commissions d'études auxquelles peuvent être appelées
-à participer toutes personnes compétentes ou intéressées par l'objet des travaux de la commission.
-
-En vue de coordonner l'action du conseil national des assurances et du conseil national du crédit, le directeur des
-assurances au ministère de l'économie et des finances, ou son représentant, assiste avec voix consultative à toutes les
-séances du conseil national du crédit ainsi qu'à celles des comités constitués dans son sein.
-
-Les membres du conseil national des assurances sont désignés pour une période de trois ans, renouvelable.
-
-Le secrétariat du conseil national des assurances est assuré par des fonctionnaires mis à la disposition du conseil par le
-ministre de l'économie et des finances.
-
-Les dépenses de fonctionnement du conseil national des assurances sont supportées par le budget du ministère de l'économie et
-des finances. Elles sont couvertes au moyen de contributions proportionnelles au montant des primes ou cotisations encaissées
-par les entreprises régies par l'article L. 310-1 et dans les conditions prévues à l'article L. 310-9.
-
-Un arrêté du ministre de l'économie et des finances détermine les conditions de fonctionnement du conseil national des
-assurances.
+Lorsque les instances chargées de transmettre des propositions au ministre chargé de l'économie et des finances en vue de la
+nomination de leurs représentants ne lui ont pas fait parvenir ces propositions au plus tard quinze jours avant la date du
+renouvellement, le ministre peut procéder directement à la nomination desdits représentants.
 
 **Liens relatifs à cet article**
 
@@ -34799,28 +35046,7 @@ assurances.
 
 	**Modifié par**:
 
-	  - Décret n°86-209 1986-02-11 art. 1, art. 2, art. 3 JORF 16 février 1986
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. A411-1 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A411-10 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A411-11 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A411-2 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A411-3 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A411-4 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A411-5 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A411-6 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A411-7 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A411-8 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A411-9 (Ab)
-	  - TXT_ASSOCIE: Code des assurances A411-1 à A411-11
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-9 (M)
-	  - Code des assurances - art. R*411-2 (M)
+	  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
 
 
 #### Chapitre II : L'école nationale d'assurances.
@@ -48329,325 +48555,6 @@ immédiatement avant la ligne "Valeurs remises par les réassureurs".
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
-
-### Titre Ier : Organisations générales d'assurance
-
-#### Chapitre Ier : Le conseil national des assurances
-
-##### Section II : Fonctionnement.
-
-###### Article A411-1
-
-Les membres du conseil national des assurances sont, en cas d'absence ou d'empêchement, remplacés par un suppléant désigné
-dans les mêmes conditions que le membre titulaire, et qui a seul qualité pour le représenter.
-
-Le directeur du Trésor, le directeur général de la concurrence, de la consommation et de la répression des fraudes, le
-directeur de la comptabilité publique, le chef du service de la législation fiscale au ministère de l'économie, des finances
-et de la privatisation et le directeur général de la Caisse des dépôts et consignations peuvent se faire représenter par un
-fonctionnaire ayant au moins le grade d'administrateur civil.
-
-Le directeur des affaires civiles et du sceau au ministère de la justice peut se faire représenter par un fonctionnaire ayant
-au moins le grade de magistrat à l'administration centrale du ministère de la justice.
-
-Le directeur des libertés publiques et des affaires juridiques au ministère de l'intérieur peut se faire représenter par un
-fonctionnaire ayant au moins le grade d'administrateur civil au ministère de l'intérieur.
-
-Le directeur des affaires sociales au ministère de l'agriculture peut se faire représenter par un fonctionnaire ayant au
-moins le grade d'administrateur civil au ministère de l'agriculture ou par un fonctionnaire du corps de l'inspection du
-travail affecté au ministère de l'agriculture et ayant au moins le grade de directeur adjoint de classe fonctionnelle.
-
-Le président du conseil d'administration, directeur général de la caisse centrale de réassurance, peut être suppléé par un
-membre du personnel de direction de cet établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1986-07-31 art. 1 JORF 8 août 1986
-
-	**Abrogé par**:
-
-	  - Arrêté 1990-07-13 art. 1 JORF 17 juillet 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*411-1 (M)
-
-
-###### Article A411-2
-
-Au cas où un membre du conseil national des assurances cesse d'appartenir au conseil au cours de la période de trois ans pour
-laquelle il est désigné, il est pourvu à son remplacement dans le délai d'un mois. Le remplaçant est désigné dans les mêmes
-conditions que son prédécesseur, pour le temps restant à courir jusqu'à l'expiration de ladite période.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-06-28 art. 2
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1990-07-13 art. 1 JORF 17 juillet 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*411-1 (M)
-
-
-###### Article A411-3
-
-Les fonctions de secrétaire général du conseil national des assurances sont exercées par un fonctionnaire du ministère de
-l'économie et des finances ayant au moins le grade d'administrateur civil ; il peut être adjoint au secrétaire général du
-conseil national des assurances, un ou plusieurs secrétaires-adjoints chargés d'assister le secrétaire général et de le
-suppléer en cas d'absence ou d'empêchement.
-
-Le secrétaire général et les secrétaires-adjoints du conseil national des assurances sont désignés par le ministre de
-l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-06-28 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1990-07-13 art. 1 JORF 17 juillet 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*411-1 (M)
-
-
-###### Article A411-4
-
-Le secrétaire général rédige et soumet à l'approbation du conseil les procès-verbaux des séances. Il est chargé de la
-conservation des procès-verbaux et des archives ainsi que la diffusion des convocations et des ordres du jour.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-06-28 art. 4
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1990-07-13 art. 1 JORF 17 juillet 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*411-1 (M)
-
-
-###### Article A411-5
-
-Le conseil national des assurances peut, pour l'examen des affaires qui lui sont soumises, ou dont il se saisit lui-même,
-désigner des rapporteurs parmi ses membres ou parmi les professionnels de l'assurance ; il peut également demander au
-ministre de l'économie et des finances de désigner des rapporteurs parmi les auditeurs au Conseil d'Etat, les auditeurs à la
-Cour des comptes, les fonctionnaires de l'administration centrale du ministère de l'économie et des finances ou les
-commissaires contrôleurs des assurances. Un rapporteur choisi parmi l'une de ces catégories de fonctionnaires est
-obligatoirement désigné lorsque le conseil national des assurances est saisi par le ministre de l'économie et des finances,
-conformément aux articles R. 321-13 et R. 325-12, d'une demande d'avis sur un refus ou un retrait de l'agrément
-administratif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-06-28 art. 5
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1990-07-13 art. 1 JORF 17 juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. R*325-12 (M)
-	  - Code des assurances R321-13, R325-12
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*411-1 (M)
-
-
-###### Article A411-6
-
-Les membres du conseil national des assurances et les personnes assistant à ses séances sont tenus à la discrétion
-professionnelle en ce qui concerne les renseignements d'ordre confidentiel dont ils ont eu connaissance en raison de leurs
-fonctions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-06-28 art. 6
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1990-07-13 art. 1 JORF 17 juillet 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*411-1 (M)
-
-
-###### Article A411-7
-
-Le conseil national des assurances se réunit sur convocation de son vice-président.
-
-Il peut être, d'autre part, convoqué à tout moment à la demande de la moitié de ses membres pour exercer les attributions qui
-lui sont dévolues par le présent code.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-06-28 art. 7
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1990-07-13 art. 1 JORF 17 juillet 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*411-1 (M)
-
-
-###### Article A411-8
-
-Le conseil national des assurances ne peut délibérer que sur les questions figurant à l'odre du jour annexé à la convocation.
-Cette convocation est adressée aux membres du conseil national des assurances au moins huit jours avant la date de la
-réunion. Au cas où un membre du conseil national des assurances désirerait qu'une question soit inscrite à l'ordre du jour,
-il doit en demander l'inscription au vice-président. Ne peuvent être inscrites à l'ordre du jour de la séance prévue les
-questions dont l'inscription a été demandée après l'envoi de la convocation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-06-28 art. 8
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1990-07-13 art. 1 JORF 17 juillet 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*411-1 (M)
-
-
-###### Article A411-9
-
-Les avis, voeux et résolutions du conseil national des assurances sont émis à la majorité des voix des membres présents ; en
-cas de partage égal des voix, la voix du président de séance est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-06-28 art. 9
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1990-07-13 art. 1 JORF 17 juillet 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*411-1 (M)
-
-
-###### Article A411-10
-
-Le conseil national des assurances est présidé, en cas d'absence du ministre de l'économie et des finances, par son vice-
-président ; en cas d'absence de celui-ci, la séance est présidée par le membre de la Cour de cassation désigné comme vice-
-président suppléant. Au cas où celui-ci serait lui-même absent, la séance est présidée par le plus âgé des membres titulaires
-présents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-06-28 art. 10
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1990-07-13 art. 1 JORF 17 juillet 1990
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*411-1 (M)
-
-
-###### Article A411-11
-
-Lorsque le conseil national des assurances est saisi par le ministre de l'économie et des finances, conformément aux articles
-R. 321-13 et R. 325-12, d'une demande d'avis sur un retrait ou un refus d'agrément, il peut, s'il le juge utile, autoriser un
-représentant de l'entreprise intéressée à présenter oralement ses observations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1954-06-28 art. 11
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1990-07-13 art. 1 JORF 17 juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. R*325-12 (M)
-	  - Code des assurances R321-13, R325-12
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*411-1 (M)
-
 
 ### Titre II : Le fonds de garantie
 
