@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2002-03-05
+Version Consolidée au 2002-03-17
 
 # Partie législative
 
@@ -25991,10 +25991,11 @@ sociétaire.
 
 Il fixe, à l'issue de l'assemblée générale ordinaire approuvant les comptes annuels, le montant du droit d'entrée ou droit
 d'adhésion applicable jusqu'à l'assemblée générale ordinaire d'approbation des comptes suivante. Ce montant ne peut dépasser
-le rapport entre la marge de solvabilité mentionnée aux articles R. 334-5, R. 334-13 et R. 334-19 et le nombre de sociétaires
-constaté à la clôture de l'exercice sur lequel portent les comptes approuvés. Toutefois, lorsque la marge de solvabilité
-effectivement constituée est inférieure au montant minimal réglementaire, le premier terme de ce rapport est majoré du
-montant de cette insuffisance.
+le rapport entre d'une part la marge de solvabilité mentionnée aux articles R. 334-5, R. 334-13 et R. 334-19 et la
+solvabilité ajustée mentionnée aux articles R. 334-41 à R. 334-44 et d'autre part le nombre de sociétaires constaté à la
+clôture de l'exercice sur lequel portent les comptes approuvés. Toutefois, lorsque la marge de solvabilité effectivement
+constituée est inférieure au montant minimal réglementaire, le premier terme de ce rapport est majoré du montant de cette
+insuffisance.
 
 **Liens relatifs à cet article**
 
@@ -26004,20 +26005,21 @@ montant de cette insuffisance.
 
 	**Modifié par**:
 
-	  - Décret n°99-37 du 19 janvier 1999 - art. 2 () JORF 20 janvier 1999
+	  - Décret n°2002-360 du 14 mars 2002 - art. 4 () JORF 17 mars 2002
 
 	**Cite**:
 
 	  - Code des assurances - art. R*334-13 (M)
 	  - Code des assurances - art. R*334-19 (M)
 	  - Code des assurances - art. R*334-5 (M)
+	  - Code des assurances R334-5, R334-13, R334-19, R334-41 à R334-44
 
 
 ###### Article R322-73
 
 Il ne peut être procédé à des répartitions d'excédents de recettes qu'après constitution des réserves et provisions
 prescrites par les lois et règlements en vigueur, après amortissement intégral des dépenses d'établissement et après que les
-dispositions réglementaires concernant la marge de solvabilité aient été satisfaites.
+dispositions réglementaires concernant la marge de solvabilité et la solvabilité ajustée aient été satisfaites.
 
 La commission de contrôle des assurances peut s'opposer à une affectation d'excédents aux réserves libres.
 
@@ -26036,9 +26038,9 @@ La commission de contrôle des assurances peut s'opposer à une affectation d'ex
 	  - Code des assurances - art. R322-43 (V)
 	  - Code des assurances - art. R328-1 (V)
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Décret n°97-248 du 14 mars 1997 - art. 1 () JORF 20 mars 1997
+	  - Décret n°2002-360 du 14 mars 2002 - art. 5 () JORF 17 mars 2002
 
 	**Liens**:
 
@@ -26724,34 +26726,6 @@ par les administrateurs et dont le remboursement a été obtenu ou demandé par 
 	  - TXT_SOURCE: Code des assurances - art. L322-1 (Ab)
 
 
-###### Article R*322-106
-
-Il ne peut être procédé à des répartitions d'excédents de recettes qu'après constitution des réserves prescrites par les lois
-et règlements en vigueur, après remboursement, le cas échéant, des emprunts contractés et après que les dispositions
-réglementaires concernant la marge de solvabilité aient été satisfaites.
-
-Les premiers excédents de recettes doivent être employés, par priorité, à des remboursements proportionnels des droits
-d'adhésion versés en vue de la constitution de la société.
-
-Aucune dépense d'établissement à amortir ne peut être inscrite à l'actif du bilan.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 25 () JORF 15 octobre 1991
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*322-77-1 (T)
-	  - Code des assurances - art. R322-74 (V)
-
-
 ###### Article R*322-106-1
 
 Sans préjudice des nullités prévues à l'article R. 322-90, est nulle toute société mutuelle d'assurance constituée
@@ -27032,6 +27006,33 @@ exposés par eux pour le compte de la société.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances R322-117 *sanctions civiles*
+
+
+###### Article R322-106
+
+Il ne peut être procédé à des répartitions d'excédents de recettes qu'après constitution des réserves prescrites par les lois
+et règlements en vigueur, après remboursement, le cas échéant, des emprunts contractés et après que les dispositions
+réglementaires concernant la marge de solvabilité et la solvabilité ajustée aient été satisfaites.
+
+Les premiers excédents de recettes doivent être employés, par priorité, à des remboursements proportionnels des droits
+d'adhésion versés en vue de la constitution de la société.
+
+Aucune dépense d'établissement à amortir ne peut être inscrite à l'actif du bilan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2002-360 du 14 mars 2002 - art. 5 () JORF 17 mars 2002
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*322-77-1 (T)
+	  - Code des assurances - art. R322-74 (V)
 
 
 ###### Article R332-105
@@ -28701,6 +28702,32 @@ nullités ci-dessus prévues.
 
 
 #### Chapitre III : Procédures de redressement et de sauvegarde
+
+###### Article R323-10
+
+Les mesures prévues aux articles R. 323-1 à R. 323-9 peuvent être appliquées à une entreprise soumise à surveillance
+complémentaire lorsqu'elle présente une situation de solvabilité ajustée négative ou que la surveillance complémentaire a
+révélé que la solvabilité de cette entreprise apparaît compromise ou susceptible de l'être.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2002-360 du 14 mars 2002 - art. 8 () JORF 17 mars 2002
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*323-11 (Ab)
+	  - Code des assurances - art. R391-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances R323-1 à R323-9
+
 
 ##### Section I : Règles générales.
 
@@ -32604,34 +32631,28 @@ Les dispositions du présent chapitre sont applicables dans les territoires d'ou
 
 ###### Article R334-1
 
-Toute entreprise visée au 1° de l'article L. 310-2 doit justifier de l'existence d'une marge de solvabilité suffisante,
-relative à l'ensemble de ses activités.
-
-Cette disposition dispense les sociétés anonymes du prélèvement prescrit par l'article 345 de la loi n° 66-537 du 24 juillet
-1966 sur les sociétés commerciales.
+Les sociétés anonymes soumises aux dispositions de l'article L. 334-1 sont dispensées du prélèvement prescrit par l'article
+L. 232-10 du code de commerce.
 
 Sous réserve des dispositions de la section V du présent chapitre, toute entreprise visée au 3° ou au 4° de l'article L.
-310-2, doit justifier de l'existence d'une marge de solvabilité suffisante relative à ses activités sur le territoire de la
+310-2 doit justifier de l'existence d'une marge de solvabilité suffisante relative à ses activités sur le territoire de la
 République française.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 345
-	  - Code des assurances - art. L310-2 (M)
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 7 () JORF 25 octobre 1995
+	  - Décret n°2002-360 du 14 mars 2002 - art. 1 () JORF 17 mars 2002
+
+	**Cite**:
+
+	  - Code de commerce. - art. L232-10 (V)
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L334-1 (M)
 
 	**Cité par**:
 
@@ -32649,7 +32670,7 @@ République française.
 
 ###### Article R334-3
 
-La marge de solvabilité mentionnée à l'article R. 334-1 est constituée, après déduction des pertes, de la part des frais
+La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, après déduction des pertes, de la part des frais
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
@@ -32701,7 +32722,7 @@ prévue à l'article R. 423-13, à hauteur de la part de cotisation versée par 
 
 	**Modifié par**:
 
-	  - Décret n°99-688 du 3 août 1999 - art. 2 () JORF 6 août 1999
+	  - Décret n°2002-360 du 14 mars 2002 - art. 1 () JORF 17 mars 2002
 
 	**Cité par**:
 
@@ -32729,15 +32750,15 @@ prévue à l'article R. 423-13, à hauteur de la part de cotisation versée par 
 	**Cite**:
 
 	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L334-1 (M)
 	  - Code des assurances - art. L423-1 (V)
-	  - Code des assurances - art. R*334-1 (M)
 	  - Code des assurances - art. R*334-5 (M)
 	  - Code des assurances - art. R423-13 (M)
 
 
 ###### Article R334-4
 
-La marge de solvabilité applicable aux entreprises visées au 4° de l'article L. 310-2, mentionnée à l'article R. 334-1, est
+La marge de solvabilité applicable aux entreprises visées au 4° de l'article L. 310-2, mentionnée à l'article L. 334-1, est
 constituée par des actifs dont le montant, afférent aux opérations réalisées sur le territoire de la République française,
 est égal, après déduction des pertes, de la part des frais d'acquisition non admise en représentation des engagements
 réglementés et des autres éléments incorporels, au total des éléments définis aux 4, 5 et 7 de l'article R. 334-3.
@@ -32754,12 +32775,12 @@ réglementés et des autres éléments incorporels, au total des éléments déf
 
 	**Modifié par**:
 
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 8 () JORF 25 octobre 1995
+	  - Décret n°2002-360 du 14 mars 2002 - art. 1 () JORF 17 mars 2002
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. R*334-1 (M)
+	  - Code des assurances - art. L334-1 (M)
 
 	**Cité par**:
 
@@ -33123,7 +33144,7 @@ Le cautionnement initial déposé conformément à l'article R. 321-12 s'impute 
 
 ###### Article R334-11
 
-La marge de solvabilité mentionnée à l'article R. 334-1 est constituée, après déduction des pertes, de la part des frais
+La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, après déduction des pertes, de la part des frais
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
@@ -33172,7 +33193,7 @@ et non utilisée par le fonds.
 
 	**Modifié par**:
 
-	  - Décret n°99-688 du 3 août 1999 - art. 2 () JORF 6 août 1999
+	  - Décret n°2002-360 du 14 mars 2002 - art. 1 () JORF 17 mars 2002
 
 	**Cité par**:
 
@@ -33205,7 +33226,7 @@ et non utilisée par le fonds.
 	**Cite**:
 
 	  - Code des assurances - art. L310-18 (M)
-	  - Code des assurances - art. R*334-1 (M)
+	  - Code des assurances - art. L334-1 (M)
 	  - Code des assurances - art. R423-13 (M)
 
 
@@ -33498,7 +33519,7 @@ Le cautionnement initial déposé conformément à l'article R. 321-12 s'impute 
 
 ###### Article R334-17
 
-La marge de solvabilité mentionnée à l'article R. 334-1 est constituée, après déduction des pertes, de la part des frais
+La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, après déduction des pertes, de la part des frais
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
@@ -33524,7 +33545,7 @@ de l'article R. 334-19.
 
 	**Modifié par**:
 
-	  - Décret n°99-688 du 3 août 1999 - art. 2 () JORF 6 août 1999
+	  - Décret n°2002-360 du 14 mars 2002 - art. 1 () JORF 17 mars 2002
 
 	**Cité par**:
 
@@ -33540,7 +33561,7 @@ de l'article R. 334-19.
 
 	**Cite**:
 
-	  - Code des assurances - art. R*334-1 (M)
+	  - Code des assurances - art. L334-1 (M)
 	  - Code des assurances - art. R*334-11 (M)
 	  - Code des assurances - art. R*334-3 (M)
 
@@ -34009,29 +34030,309 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 ###### Article R334-39
 
-Les dispositions du présent chapitre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, des Terres australes et antarctiques françaises et de Wallis et Futuna ainsi que dans la collectivité territoriale
-de Mayotte.
+Les dispositions du présent chapitre à l'exception de la section VIII sont applicables dans les territoires de la Nouvelle-
+Calédonie, de la Polynésie française, des Terres australes et antarctiques françaises et de Wallis et Futuna ainsi qu'à
+Mayotte.
 
-**Nota:**
+**Liens relatifs à cet article**
 
-- Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à
-la " collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
-territoriale " est remplacée par la référence à la " collectivité départementale ".
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2002-360 du 14 mars 2002 - art. 2 () JORF 17 mars 2002
+
+
+##### Section VIII : La surveillance complémentaire.
+
+###### Article R334-40
+
+Les entreprises agréées en France et soumises au contrôle de l'Etat en application de l'article L. 310-1 qui sont des
+entreprises participantes, au sens du 3° de l'article L. 334-2, d'au moins une entreprise soumise au contrôle de l'Etat en
+application des articles L. 310-1 ou L. 310-1-1, une mutuelle ou union régie par le livre II du code de la mutualité, une
+institution de prévoyance ou union régie par le titre III du livre IX du code de la sécurité sociale, une entreprise de
+réassurance ou d'assurance dont le siège social est situé hors de France, disposent d'un système de contrôle interne pour la
+production des données et informations destinées à permettre la surveillance complémentaire de leur situation financière.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°2002-360 du 14 mars 2002 - art. 3 () JORF 17 mars 2002
 
-	**Liens**:
+	**Cité par**:
 
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+	  - Code des assurances - art. A334-4 (V)
+	  - Code des assurances - art. A344-14 (Ab)
+	  - Code des assurances - art. R334-41 (M)
+	  - Code des assurances - art. R336-1 (M)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 1 () JORF 25 octobre 1995
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L334-2 (M)
+
+
+###### Article R334-41
+
+Les entreprises mentionnées à l'article R. 334-40 doivent présenter une solvabilité ajustée positive déterminée selon les
+modalités précisées à l'article R. 334-42 sur la base des comptes consolidés ou combinés établis conformément aux
+dispositions de l'article L. 345-2.
+
+Toutefois, la commission de contrôle des assurances peut dispenser du calcul de la solvabilité ajustée une entreprise
+d'assurance :
+
+1. S'il s'agit d'une entreprise apparentée à une autre entreprise d'assurance participante agréée en France, à une union de
+groupe mutualiste ou à un groupement paritaire de prévoyance et si cette entreprise apparentée est prise en compte dans le
+calcul de la solvabilité ajustée de l'entreprise d'assurance participante ;
+
+2. S'il s'agit d'une entreprise apparentée à une société de groupe d'assurance, à une union de groupe mutualiste, à un
+groupement paritaire de prévoyance ou à une entreprise de réassurance qui a son siège en France et si cette société de groupe
+d'assurance, union de groupe mutualiste, groupement paritaire de prévoyance ou entreprise de réassurance et cette entreprise
+d'assurance apparentée sont prises en compte dans le calcul effectué pour une autre entreprise apparentée.
+
+La commission de contrôle des assurances peut également dispenser du calcul de la solvabilité ajustée une entreprise
+d'assurance s'il s'agit d'une entreprise d'assurance apparentée soit à une entreprise d'assurance, soit à une entreprise de
+réassurance, soit à une société de groupe d'assurance qui ont leur siège social dans un Etat membre de la Communauté
+européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen lorsque ladite commission a conclu un
+accord avec l'autorité compétente de cet Etat pour lui attribuer l'exercice de la surveillance complémentaire.
+
+Dans tous ces cas de dispense du calcul de la solvabilité ajustée, la commission de contrôle s'assure au préalable que les
+éléments admissibles pour la marge de solvabilité des entreprises d'assurance prises en compte dans le calcul sont répartis
+de manière adéquate entre ces entreprises.
+
+Lorsqu'elle vérifie le calcul de la solvabilité ajustée d'une entreprise d'assurance, la commission de contrôle des
+assurances peut prendre en compte l'évaluation par une autre autorité compétente de la situation de solvabilité d'une
+entreprise apparentée dont le siège est situé dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur
+l'Espace économique européen.
+
+En cas de solvabilité ajustée négative, la commission de contrôle des assurances exige de l'entreprise d'assurance concernée
+qu'elle prenne les mesures nécessaires au rétablissement d'une solvabilité ajustée positive.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-360 du 14 mars 2002 - art. 3 () JORF 17 mars 2002
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code des assurances - art. A334-4 (V)
+	  - Code des assurances - art. Annexe art. A344-14-1 (Ab)
+	  - Code des assurances - art. R322-72 (V)
+	  - Code des assurances - art. R322-77 (V)
+	  - Code des assurances - art. R391-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L345-2 (M)
+	  - Code des assurances - art. R334-40 (M)
+	  - Code des assurances - art. R334-42 (M)
+
+
+###### Article R334-42
+
+La solvabilité ajustée d'une entreprise d'assurance participante est la différence entre les éléments admissibles pour la
+marge de solvabilité calculés à partir des données consolidées ou combinées établies conformément aux dispositions de
+l'article R. 345-1 et l'exigence de solvabilité calculée à partir des données consolidées ou combinées des entreprises
+entrant dans le champ de la surveillance complémentaire établies en application de ces mêmes dispositions.
+
+Les éléments admissibles pour la marge de solvabilité de l'entreprise d'assurance participante pour laquelle la solvabilité
+ajustée est calculée et ceux pris en compte au titre des entreprises apparentées sont ceux mentionnés aux articles R. 334-3,
+R. 334-4, R. 334-11, R. 334-12, R. 334-17 et R. 334-18. Toutefois, des éléments admissibles, notamment les plus-values
+latentes, les emprunts subordonnés, les intérêts minoritaires et les rappels de cotisations des sociétés d'assurance mutuelle
+ne sont pris en compte, selon des modalités précisées par arrêté du ministre chargé de l'économie, que dans la mesure où ils
+peuvent être effectivement rendus disponibles pour couvrir la marge de solvabilité de l'entreprise d'assurance participante
+pour laquelle la solvabilité ajustée est calculée.
+
+L'exigence de solvabilité des entreprises incluses dans le calcul de solvabilité ajustée se définit de la manière suivante :
+
+1. Pour une entreprise d'assurance agréée en France et soumise au contrôle de l'Etat en application de l'article L. 310-1,
+elle correspond au montant réglementaire de la marge de solvabilité décrit aux articles R. 334-5, R. 334-6, R. 334-13, R.
+334-14, R. 334-19 et R. 334-20 ;
+
+2. Pour une institution de prévoyance ou union régie par le titre III du livre IX du code de la sécurité sociale et pour une
+mutuelle ou union régie par le livre III du code de la mutualité, elle correspond aux exigences de marge de solvabilité
+mentionnées respectivement aux articles L. 931-31 du code de la sécurité sociale et L. 212-1 du code de la mutualité ;
+
+3. Pour une entreprise de réassurance ou pour une entreprise d'assurance dont le siège est situé hors de France, elle
+correspond à une exigence de solvabilité calculée dans les mêmes conditions que la marge de solvabilité pour des risques
+assimilables, le résultat ainsi obtenu ne pouvant être inférieur à celui qui serait résulté de l'application de ces règles à
+une entreprise d'assurance agréée en France ;
+
+4. Pour une entreprise d'assurance participante dont les participations sont détenues au travers d'une société de groupe
+d'assurance, l'exigence de solvabilité de cette dernière est égale à zéro.
+
+La commission de contrôle des assurances peut prendre en compte les exigences de solvabilité et les éléments admissibles pour
+satisfaire ces exigences, retenus par les autorités d'un Etat non membre de la Communauté européenne ou qui n'est pas partie
+au traité sur l'Espace économique européen dans lequel une entreprise apparentée d'assurance ou de réassurance a son siège et
+dont les exigences sont considérées comme équivalentes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-360 du 14 mars 2002 - art. 3 () JORF 17 mars 2002
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 9 (V)
+	  - Code des assurances - art. A334-15 (Ab)
+	  - Code des assurances - art. A334-5 (V)
+	  - Code des assurances - art. A344-14 (V)
+	  - Code des assurances - art. Annexe I art. A344-14 (Ab)
+	  - Code des assurances - art. R334-41 (VT)
+	  - Code des assurances - art. R334-43 (M)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L931-31 (M)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R*334-12 (M)
+	  - Code des assurances - art. R*334-13 (M)
+	  - Code des assurances - art. R*334-14 (M)
+	  - Code des assurances - art. R*334-17 (M)
+	  - Code des assurances - art. R*334-18 (M)
+	  - Code des assurances - art. R*334-19 (M)
+	  - Code des assurances - art. R*334-20 (M)
+	  - Code des assurances - art. R*334-3 (M)
+	  - Code des assurances - art. R*334-4 (M)
+	  - Code des assurances - art. R*334-5 (M)
+	  - Code des assurances - art. R*334-6 (M)
+	  - Code des assurances - art. R345-1 (M)
+
+
+###### Article R334-43
+
+Lorsque la méthode décrite à l'article R. 334-42 ne permet pas d'obtenir un résultat satisfaisant en raison des structures du
+groupe concerné, la commission de contrôle des assurances est autorisée à appliquer, à titre exceptionnel et dérogatoire,
+l'une des deux méthodes suivantes :
+
+1. Méthode n° 1 : La solvabilité ajustée de l'entreprise d'assurance participante est la différence entre :
+
+a) La somme des éléments admissibles pour la marge de solvabilité de l'entreprise d'assurance participante et de la part
+proportionnelle de cette dernière dans les éléments admissibles pour la marge de solvabilité de l'entreprise apparentée ;
+
+b) La somme de la valeur comptable de l'entreprise d'assurance apparentée dans l'entreprise d'assurance participante, de
+l'exigence de solvabilité de l'entreprise d'assurance participante et de la part proportionnelle de l'exigence de solvabilité
+de l'entreprise d'assurance apparentée.
+
+2. Méthode n° 2 : La solvabilité ajustée de l'entreprise d'assurance participante est la différence entre :
+
+a) La somme des éléments admissibles pour la marge de solvabilité de l'entreprise d'assurance participante ;
+
+b) La somme de l'exigence de solvabilité de l'entreprise d'assurance participante et de la part proportionnelle de l'exigence
+de solvabilité de l'entreprise d'assurance apparentée.
+
+Lorsque l'entreprise apparentée est une entreprise filiale et qu'elle présente un déficit de solvabilité, ce déficit de
+solvabilité doit être pris en compte en totalité dans le calcul de la solvabilité ajustée de l'entreprise mère. Toutefois,
+dans le cas où la responsabilité de l'entreprise mère détenant une part de capital est limitée, strictement et sans
+ambiguïté, à cette part de capital, la commission de contrôle des assurances peut décider d'admettre que le déficit de
+l'entreprise filiale est pris en compte sur une base proportionnelle.
+
+Pour le calcul de la solvabilité ajustée en application de ces deux méthodes, les opérations intragroupe sont éliminées d'une
+manière équivalente à celle définie à l'article R. 341-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-360 du 14 mars 2002 - art. 3 () JORF 17 mars 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. R*341-1 (M)
+	  - Code des assurances - art. R334-42 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R391-1 (V)
+
+
+###### Article R334-44
+
+Les entreprises d'assurance agréées en France et soumises au contrôle de l'Etat en application de l'article L. 310-1 dont
+l'entreprise mère est une société de groupe d'assurance, une entreprise soumise au contrôle de l'Etat en application de
+l'article L. 310-1-1 ou une entreprise d'assurance ou de réassurance dont le siège social est situé hors d'un Etat membre de
+la Communauté européenne ou partie à l'accord sur l'Espace économique européen doivent justifier d'une solvabilité ajustée
+positive selon les modalités définies aux articles R. 334-41 à R. 334-43. Dans ce but, elles procèdent à un calcul de la
+solvabilité de leur entreprise mère dans les mêmes conditions que celles permettant de déterminer la marge de solvabilité
+d'une entreprise d'assurance participante agréée en France et pratiquant les mêmes opérations.
+
+La commission de contrôle des assurances peut dispenser du calcul de la solvabilité ajustée une entreprise d'assurance s'il
+s'agit :
+
+1. D'une entreprise apparentée à une autre entreprise d'assurance et si cette entreprise apparentée est déjà prise en compte
+dans le calcul effectué pour cette autre entreprise d'assurance ;
+
+2. D'une entreprise dont l'entreprise mère est une société de groupe d'assurance, entreprise d'assurance ou de réassurance
+dont le siège social est situé hors d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen et est, à la fois, commune avec une ou plusieurs autres entreprises d'assurance agréées en France et déjà prise en
+compte dans le calcul effectué pour l'une de ces autres entreprises d'assurance ;
+
+3. D'une entreprise dont l'entreprise mère est une société de groupe d'assurance, entreprise d'assurance ou de réassurance
+dont le siège social est situé dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen et est commune avec une ou plusieurs autres entreprises d'assurance agréées dans d'autres Etats membres de la
+Communauté européenne ou parties à l'accord sur l'Espace économique européen dès lors que la commission de contrôle des
+assurances a conclu un accord avec une autorité compétente d'un Etat membre de la Communauté européenne ou partie à l'accord
+sur l'Espace économique européen pour attribuer à cette autorité l'exercice de la surveillance complémentaire.
+
+Si la commission de contrôle des assurances estime, à partir de ce calcul de solvabilité ajustée, que la solvabilité de
+l'entreprise d'assurance concernée est compromise ou susceptible de l'être, elle exige de celle-ci qu'elle prenne les mesures
+nécessaires au rétablissement ou au maintien de sa solvabilité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-360 du 14 mars 2002 - art. 3 () JORF 17 mars 2002
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code des assurances - art. A334-4 (V)
+	  - Code des assurances - art. A344-14 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances L310-1, L310-1-1, R334-41 à R334-43
+
+
+###### Article R334-45
+
+Les opérations qu'une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1 et ayant son siège social
+en France effectue avec ses entreprises apparentées, ou avec une personne physique possédant une participation dans l'une de
+ces entreprises, sont soumises au contrôle de la commission de contrôle des assurances, notamment celles qui portent sur les
+prêts, les garanties et les opérations hors bilan, les éléments admissibles pour la marge de solvabilité, les
+investissements, les opérations de réassurance et les accords de répartition des coûts. L'entreprise déclare au moins une
+fois par an à cette commission les opérations importantes mentionnées ci-dessus. Un arrêté du ministre chargé de l'économie
+précise les conditions dans lesquelles ces opérations doivent être déclarées.
+
+Si la commission de contrôle des assurances estime, à partir de l'examen de ces déclarations, que la solvabilité de
+l'entreprise d'assurance est compromise ou susceptible de l'être, elle exige de cette entreprise qu'elle prenne les mesures
+nécessaires au rétablissement ou au maintien de sa solvabilité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-360 du 14 mars 2002 - art. 3 () JORF 17 mars 2002
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-5 (M)
+	  - Code des assurances - art. A334-6 (V)
+	  - Code des assurances - art. A344-14 (V)
+	  - Code des assurances - art. Annexe II art. A344-14 (Ab)
+	  - Code des assurances - art. R336-1 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
 
 
 ### Titre IV : Dispositions comptables et statistiques
@@ -34533,8 +34834,8 @@ mars 1967, sous réserve des dispositions du présent chapitre.
 ###### Article R345-1-1
 
 Constituent un ensemble soumis à obligation d'établir des comptes combinés deux ou plusieurs entreprises soumises au contrôle
-de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1, sociétés de participations d'assurance mentionnées
-à l'article L. 345-1, institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale ou par
+de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1, sociétés de groupe d'assurance mentionnées à
+l'article L. 322-1-2, institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale ou par
 l'article 1050 du code rural se trouvant dans l'un des cas suivants :
 
 1° Ces entités ont, en vertu d'un accord entre elles, soit une direction commune, soit des services communs assez étendus
@@ -34544,14 +34845,6 @@ pour engendrer un comportement commercial, technique ou financier commun ;
 statutaires ou réglementaires.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1050
-	  - Code de la sécurité sociale
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L345-1 (M)
 
 	**Codifié par**:
 
@@ -34564,7 +34857,14 @@ statutaires ou réglementaires.
 
 	**Modifié par**:
 
-	  - Décret n°2001-51 du 17 janvier 2001 - art. 4 () JORF 19 janvier 2001
+	  - Décret n°2002-360 du 14 mars 2002 - art. 6 () JORF 17 mars 2002
+
+	**Cite**:
+
+	  - Code de la sécurité sociale
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L322-1-2 (M)
 
 
 ###### Article R345-1-2
@@ -34619,10 +34919,10 @@ agrégés conformément aux dispositions de l'article R. 345-2-1 aux comptes de 
 ###### Article R345-1-3
 
 Lorsque l'entité désignée conformément aux dispositions du premier alinéa de l'article R. 345-1-2 est une entreprise soumise
-au contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1 ou une société de participations
-d'assurance mentionnée à l'article L. 345-1, l'accord est transmis à la commission de contrôle des assurances dans les quinze
-jours de sa signature. Il est porté dans les mêmes délais à la connaissance des commissaires aux comptes de toutes les
-entités incluses dans le périmètre de la combinaison.
+au contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1 ou une société de groupe d'assurance
+mentionnée à l'article L. 322-1-2, l'accord est transmis à la commission de contrôle des assurances dans les quinze jours de
+sa signature. Il est porté dans les mêmes délais à la connaissance des commissaires aux comptes de toutes les entités
+incluses dans le périmètre de la combinaison.
 
 **Liens relatifs à cet article**
 
@@ -34630,16 +34930,16 @@ entités incluses dans le périmètre de la combinaison.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-51 du 17 janvier 2001 - art. 6 () JORF 19 janvier 2001
+	  - Décret n°2002-360 du 14 mars 2002 - art. 7 () JORF 17 mars 2002
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L322-1-2 (M)
 	  - Code des assurances - art. L345-1 (M)
-	  - Code des assurances - art. R345-1-2 (M)
 
 
 ###### Article R345-1-4
