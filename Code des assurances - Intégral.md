@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1981-01-14
+Version Consolidée au 1981-01-16
 
 # Partie législative
 
@@ -24755,23 +24755,23 @@ règles de l'article R. 332-19, courues à la clôture de chaque exercice ;
 
 2° Autres obligations inscrites à la cote officielle des bourses françaises de valeurs ou en instance d'inscription, ainsi
 que les portions de coupons attachés aux mêmes obligations évaluées selon les règles de l'article R. 332-19, courues à la
-clotûre de chaque exercice ;
+clôture de chaque exercice ;
 
-3° Actions des sociétés d'investissement à capital variable dont l'objet est limité à la gestion d'un portefeuille de valeurs
-mentionnées aux 1° et 2° ci-dessus ;
+3° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement dont l'objet est limité à
+la gestion d'un portefeuille de valeurs mentionnées aux 1° et 2° ci-dessus.
 
 4° Actions, parts et autres valeurs mobilières inscrites à la cote officielle ou au compartiment spécial du marché hors cote
-des bourses françaises de valeurs ;
+des bourses françaises de valeurs.
 
 5° Valeurs mobilières étrangères ayant fait l'objet d'une émission publique ou inscrites à la cote d'une bourse de valeurs,
 dans les conditions déterminées par arrêté du ministre de l'économie et des finances ;
 
-6° Actions de sociétés d'investissement à capital variable, dans les conditions déterminées par arrêté du ministre de
-l'économie et des finances ;
+6° Actions de sociétés d'investissement à capital variable et parts de fonds communs de placement, dans les conditions
+déterminées par arrêté du ministre de l'économie.
 
 7° Immeubles bâtis en France métropolitaine.
 
-Tous autres immeubles situés en France métropolitaine et dans les départements et territoires d'outre-mer, sur autorisation
+Tous autres immeubles situés en France métropolitaine et dans les départements et territoires d'outre mer, sur autorisation
 donnée dans chaque cas par le ministre de l'économie et des finances.
 
 Parts ou actions de sociétés immobilières non inscrites à la cote officielle des bourses françaises de valeurs, dans les
@@ -24816,7 +24816,7 @@ chaque cas, par le ministre de l'économie et des finances ;
 14° Créances nettes sur le fonds de garantie prévu par la législation sur les accidents du travail, sur le fonds de garantie
 institué par l'article L. 420-1 et sur le fonds institué par l'article 2 de la loi n° 74-1118 du 27 décembre 1974 ;
 
-15° Bons du Trésor et autres valeurs, à court ou moyen terme, figurant sur un liste fixée par arrêté du ministre de
+15° Bons du Trésor et autres valeurs, à court ou moyen terme, figurant sur une liste fixée par arrêté du ministre de
 l'économie et des finances ;
 
 16° Fonds déposés chez les comptables du Trésor, aux chèques postaux et dans les banques.
@@ -24929,12 +24929,11 @@ l'économie et des finances ;
 
 	**Modifié par**:
 
-	  - Décret n°80-759 du 22 septembre 1980 - art. 1 () JORF 28 septembre 1980
+	  - Décret n°81-26 1981-01-13 art. 1, art. 2 JORF 16 janvier 1981
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°80-759 du 22 septembre 1980 - art. 3 (V)
-	  - TXT_SOURCE: Code des assurances - art. A332-2 (Ab)
+	  - TXT_ASSOCIE: Code des assurances - art. A332-2 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
 	  - TXT_ASSOCIE: Code des assurances - art. A332-3 (M)
 	  - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
@@ -30659,49 +30658,6 @@ des finances et du ministre de l'éducation.
 	**Abrogé par**:
 
 	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
-
-
-### Titre II : Le fonds de garantie Section I : Dispositions spéciales aux accidents d'automobile survenus en France métropolitaine et dans les départements d'outre-mer.
-
-###### Article R*420-1
-
-Sont prises en charge par le fonds de garantie les indemnités dues aux victimes d'accidents corporels ou à leurs ayants droit
-à la condition que ces accidents soient survenus en France métropolitaine ou dans les départements d'outre-mer et aient été
-causés par un ou plusieurs des véhicules définis à l'article L. 420-1 ou par leurs remorques ou semi-remorques.
-
-Sont également prises en charge par le fonds de garantie les indemnités dues à la suite de dommages matériels causés aux
-tiers par un ou plusieurs véhicules définis à l'article L. 420-1 lorsque l'auteur identifié de ces dommages n'est pas assuré
-et se révèle totalement ou partiellement insolvable.
-
-Toutefois, lorsque l'indemnisation des victimes incombe au bureau central français, ne sont pas prises en charge par le fonds
-de garantie les indemnités dues aux victimes d'accidents causés par des véhicules ayant leur stationnement habituel sur le
-territoire d'un des Etats membres de la Communauté économique européenne autres que la France, ou sur le territoire d'un des
-Etats suivants :
-
-Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et Liechtenstein.
-
-Le bureau central français est le bureau national d'assurance constitué en France dans les conditions mentionnées au deuxième
-alinéa de l'article R. 211-22.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°52-763 1952-06-30 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. L420-1 (M)
-	  - Code des assurances L420-1, R211-22
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
 
 ### Titre II : Le fonds de garantie
