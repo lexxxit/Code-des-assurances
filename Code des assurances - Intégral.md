@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1977-06-08
+Version Consolidée au 1977-06-30
 
 # Partie législative
 
@@ -38671,6 +38671,33 @@ article R. 211-6, des taux d'incapacité permanente dont la somme atteint 40 p. 
 #### Chapitre II : Réglementation des placements et autres éléments d'actif
 
 ##### Section I : Eléments d'actif admis en représentation des engagements réglementés.
+
+###### Article A332-1 bis
+
+En application des dispositions du 5° de l'article R. 332-3, les actions d'une même société d'investissement à capital
+variable dont l'objet est limité à la gestion d'un portefeuille de valeurs mentionnées aux 1° et 2° de l'article R. 332-2
+peuvent représenter jusqu'à 10 p. 100 du montant du bilan des valeurs énumérées à l'article précité et affectées à la
+représentation des provisions techniques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1977-06-15 art. 1 JORF 30 juin 1977
+
+	**Abrogé par**:
+
+	  - Arrêté 1990-11-05 art. 1 JORF 6 novembre 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances - art. R*332-3 (M)
+
 
 ###### Article A332-3
 
