@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-04-03
+Version Consolidée au 2005-04-06
 
 # Partie législative
 
@@ -24099,49 +24099,6 @@ la victime et, le cas échéant, au médecin qui a assisté celle-ci.
 	**Créé par**:
 
 	  - Décret n°88-261 1988-03-18 art. 2 2° JORF 20 mars 1988
-
-
-##### Section VII : Pénalités.
-
-###### Article R211-45
-
-Sera punie des peines d'emprisonnement et d'amende prévues pour les contraventions de la 5ème classe toute personne qui,
-contrevenant aux dispositions de l'article L. 211-1 du présent code, aura mis ou maintenu en circulation un véhicule
-terrestre à moteur ainsi que ses remorques ou semi-remorques sans être couverte par une assurance garantissant sa
-responsabilité civile.
-
-En cas de récidive, les peines d'emprisonnement et d'amende prévues pour la récidive des contraventions de la 5ème classe
-seront applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°88-261 1988-03-18
-
-	**Créé par**:
-
-	  - Décret n°88-261 du 18 mars 1988 - art. 2 () JORF 20 mars 1988
-
-	**Abrogé par**:
-
-	  - Décret n°2005-320 du 30 mars 2005 - art. 4 () JORF 6 avril 2005
-
-	**Cité par**:
-
-	  - Code de la route - art. R266 (Ab)
-	  - Code de la route. - art. R324-1 (Ab)
-	  - Code de la route. - art. R324-2 (Ab)
-	  - Code des assurances - art. R211-12 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-1 (M)
-
-	**Anciens textes**:
-
-	  - Code des assurances - art. R211-29 (T)
-	  - Code des assurances R211-29 (1ère version)
 
 
 #### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer et à Mayotte
