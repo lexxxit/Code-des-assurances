@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1999-06-19
+Version Consolidée au 1999-06-29
 
 # Partie législative
 
@@ -9252,6 +9252,34 @@ l'article L. 310-1 ou des opérations de réassurance que si elle satisfait aux 
 	  - Code des assurances L310-2 II (1ère phrase), III
 
 
+###### Article L310-6-1
+
+L'administration centrale des entreprises françaises de réassurance doit être située sur le territoire de la République
+française.
+
+L'administration centrale des entreprises étrangères d'assurance agréées en vertu des articles L. 321-7 ou L. 321-9 doit être
+située sur le même territoire que leur siège statutaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 53 () JORF 29 juin 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 1
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-7
+	  - Code des assurances - art. L321-9
+
+
 ###### Article L310-7
 
 Un décret en Conseil d'Etat détermine les conditions de constitution des entreprises soumises au contrôle de l'Etat en vertu
@@ -9334,9 +9362,8 @@ fonctionnement et de l'exercice du contrôle de l'Etat.
 
 ###### Article L310-8
 
-Lorsqu'elles commercialisent pour la première fois en France un modèle de contrat d'assurance, les entreprises d'assurance ou
-de capitalisation en informent le ministre chargé de l'économie et des finances, dans des conditions fixées par arrêté de
-celui-ci.
+Dans les trois mois suivant la commercialisation d'un nouveau modèle de contrat d'assurance, les entreprises d'assurance ou
+de capitalisation en informent le ministre chargé de l'économie, sous une forme définie par arrêté de celui-ci.
 
 Le ministre peut exiger la communication des documents à caractère contractuel ou publicitaire ayant pour objet une opération
 d'assurance ou de capitalisation.
@@ -9353,12 +9380,9 @@ commission consultative de l'assurance n'est pas requis.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 (champ d'application à Mayotte)
+	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
 	  - TXT_ASSOCIE: Code des assurances L328-15 *sanctions pénales*
-
-	**Modifié par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 11 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -9378,33 +9402,27 @@ commission consultative de l'assurance n'est pas requis.
 	  - Code des assurances - art. R322-137 (V)
 	  - Code des assurances - art. R322-98 (M)
 
+	**Modifié par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 91 () JORF 29 juin 1999
+
 
 ###### Article L310-9
 
 Les frais de toute nature résultant de l'application des dispositions du présent code relatives au contrôle et à la
-surveillance de l'Etat en matière d'assurance, sont couverts au moyen de contributions proportionnelles au montant des primes
-ou cotisations définies ci-après et fixées annuellement, pour chaque entreprise, par l'autorité administrative.
+surveillance de l'Etat en matière d'assurance et de réassurance, sont couverts au moyen de contributions proportionnelles au
+montant des primes ou cotisations définies ci-après et fixées annuellement, pour chaque entreprise, par l'autorité
+administrative.
 
-Les primes ou cotisations retenues se calculent en ajoutant au montant des primes ou cotisations émises, y compris les
-accessoires de primes et coûts de polices, nettes d'impôts, nettes d'annulations de l'exercice et de tous les exercices
-antérieurs, le total des primes ou cotisations acquises à l'exercice et non émises ; le montant des primes ou cotisations
-acceptées en réassurance ou en rétrocession n'intervient que pour moitié dans ce calcul. Les cessions ou rétrocessions ne
-sont pas déduites.
+Les primes ou cotisations retenues se calculent en ajoutant au montant des primes ou cotisations émises et acceptées, y
+compris les accessoires de primes et coûts de police, nettes d'impôts, de cessions et d'annulations de l'exercice et de tous
+les exercices antérieurs, le total des primes ou cotisations acquises à l'exercice et non émises .
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -9417,6 +9435,18 @@ sont pas déduites.
 	  - Code des assurances - art. L433-3 (Ab)
 	  - Code des assurances - art. R310-10 (Ab)
 	  - Code des assurances - art. R411-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 41 (V) JORF 29 juin 1999
+
+	**Abrogé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 30 () JORF 2 août 2003
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. L328-14 (M)
 
 
 ###### Article L310-9-1
@@ -9593,7 +9623,7 @@ présent alinéa, notamment les modalités du contrôle préalable et les délai
 
 La commission peut décider de soumettre au contrôle toute personne physique ou morale ayant reçu d'une entreprise mentionnée
 à l'article L. 310-1 un mandat de souscription ou de gestion, ou exerçant, à quelque titre que ce soit, le courtage
-d'assurance.
+d'assurance ou la présentation d'opérations d'assurance.
 
 La commission veille également au respect, par les entreprises soumises au contrôle de l'Etat en application de l'article L.
 310-1-1 et les sociétés de participations d'assurance définies à l'article L. 345-1, des dispositions législatives et
@@ -9666,7 +9696,7 @@ d'épargne retraite est prolongé jusqu'au 31 décembre 2000.
 
 	**Modifié par**:
 
-	  - Loi n°97-277 du 25 mars 1997 - art. 19 () JORF 26 mars 1997
+	  - Loi n°99-532 du 25 juin 1999 - art. 43 () JORF 29 juin 1999
 
 
 ###### Article L310-12-1
@@ -9932,10 +9962,9 @@ toutes mesures destinées à rétablir ou renforcer son équilibre financier ou 
 
 ###### Article L310-18
 
-Lorsqu'une entreprise mentionnée aux 1°, 3° ou 4° de l'article L. 310-2 n'a pas respecté une disposition législative ou
-réglementaire dans le domaine relevant du contrôle de la commission ou n'a pas déféré à une injonction, la commission peut
-prononcer, à son encontre ou à celle de ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes, en
-fonction de la gravité du manquement :
+Si une entreprise mentionnée aux 1°, 3° ou 4° de l'article L. 310-2 a enfreint une disposition législative ou réglementaire
+afférente à son activité, la commission peut prononcer à son encontre, ou à celle de ses dirigeants, l'une ou plusieurs des
+sanctions disciplinaires suivantes, en fonction de la gravité du manquement :
 
 1° L'avertissement ;
 
@@ -9948,6 +9977,8 @@ fonction de la gravité du manquement :
 5° Le retrait total ou partiel d'agrément ;
 
 6° Le transfert d'office de tout ou partie du portefeuille des contrats.
+
+Il en va de même si elle n'a pas déféré à l'injonction de l'article L. 310-17.
 
 En outre, la commission peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction pécuniaire. Le montant de
 cette sanction pécuniaire doit être fonction de la gravité des manquements commis, sans pouvoir excéder 3 p. 100 du chiffre
@@ -9974,11 +10005,12 @@ l'affichage dans les lieux et pour la durée qu'elle indique.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 (champ d'application à Mayotte)
+	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
 
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 15 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°99-532 1999-06-25 art. 91 2° JORF 29 juin 1999
 
 	**Cité par**:
 
@@ -10036,6 +10068,7 @@ l'affichage dans les lieux et pour la durée qu'elle indique.
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-17 (M)
 	  - Code des assurances - art. L310-2 (M)
 
 
@@ -10090,6 +10123,24 @@ La commission de contrôle des assurances peut demander aux commissaires aux com
 310-1, d'une entreprise visée à l'article L. 310-1-1 ou d'une société de participations d'assurance tout renseignement sur
 l'activité de l'organisme contrôlé. Les commissaires aux comptes sont alors déliés, à son égard, du secret professionnel.
 
+Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais à la Commission de contrôle des assurances tout
+fait concernant l'entreprise ou la société visée à l'alinéa précédent ou toute décision prise par ses dirigeants, dont ils
+ont eu connaissance dans l'exercice de leur mission, de nature :
+
+- à constituer une violation aux dispositions des titres II à IV du livre III et du chapitre Ier du titre IV du livre IV du
+présent code, susceptible d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ;
+
+- à porter atteinte à la continuité de son exploitation ;
+
+- à entraîner le refus de la certification de ses comptes ou l'émission de réserves.
+
+La même obligation s'applique aux faits et aux décisions dont ils viendraient à avoir connaissance dans l'exercice de leur
+mission de commissaire aux comptes dans une entreprise mère ou filiale de l'entreprise visée à l'article L. 310-1 ou à
+l'article L. 310-1-1 ou de la société visée à l'article L. 345-1 dont ils certifient les comptes.
+
+La responsabilité des commissaires aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
+ils procèdent en exécution des obligations imposées par le présent article.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -10102,12 +10153,13 @@ l'activité de l'organisme contrôlé. Les commissaires aux comptes sont alors d
 
 	**Modifié par**:
 
-	  - Loi n°94-679 du 8 août 1994 - art. 2 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+	  - Loi n°99-532 du 25 juin 1999 - art. 55 () JORF 29 juin 1999
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L345-1 (M)
 
 	**Cité par**:
 
@@ -10116,18 +10168,62 @@ l'activité de l'organisme contrôlé. Les commissaires aux comptes sont alors d
 	  - Code des assurances - art. R345-1-4 (V)
 
 
+###### Article L310-19-1
+
+Lorsqu'elle a connaissance d'une infraction aux dispositions de la section 6 du chapitre IV du titre Ier de la loi n° 66-537
+du 24 juillet 1966 sur les sociétés commerciales et de l'article L. 310-19 du présent code commise par un commissaire aux
+comptes d'une entreprise soumise à son contrôle, la Commission de contrôle des assurances peut demander au tribunal compétent
+de relever ce commissaire aux comptes de ses fonctions selon les modalités prévues à l'article 227 de la loi n° 66-537 du 24
+juillet 1966 précitée.
+
+La Commission de contrôle des assurances peut également dénoncer cette infraction à l'autorité disciplinaire compétente. Elle
+peut, à cette fin, communiquer les informations qu'elle estime nécessaires à la bonne information de cette autorité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 227
+	  - Code des assurances - art. L310-19 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 55 () JORF 29 juin 1999
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R510-2-1 (Ab)
+	  - Code de la sécurité sociale. - art. R951-3-3 (V)
+	  - Code des assurances - art. R310-16 (VT)
+
+
 ###### Article L310-20
 
-La commission de contrôle des assurances, le conseil de la concurrence, la commission bancaire, le conseil de discipline de
-la gestion financière et la commission des opérations de bourse sont autorisés, nonobstant toutes dispositions contraires, à
-se communiquer les renseignements nécessaires à l'accomplissement de leurs missions respectives. Les renseignements ainsi
-recueillis sont soumis aux règles du secret professionnel en vigueur dans l'organisme qui les a communiqués.
+La Commission de contrôle des assurances, la commission de contrôle instituée à l'article L. 951-1 du code de la sécurité
+sociale, la Commission des opérations de bourse, la Commission bancaire, le Conseil des marchés financiers, le Conseil de
+discipline de la gestion financière, le Conseil de la concurrence, les entreprises de marché et les chambres de compensation
+visées à l'article 68 de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières, le fonds de garantie
+des dépôts institué par l'article 52-1 de la loi n° 84-46 du 24 janvier 1984 précitée, le fonds de garantie des assurés
+institué par l'article L. 423-1 du présent code sont autorisés à se communiquer les renseignements nécessaires à
+l'accomplissement de leurs missions respectives. Les renseignements ainsi recueillis sont couverts par le secret
+professionnel en vigueur dans les conditions applicables à l'organisme qui les a communiqués, et à l'organisme destinataire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°84-46 du 24 janvier 1984 - art. 52-1 (M)
+	  - Loi n°96-597 du 2 juillet 1996 - art. 68 (M)
+	  - Code de la sécurité sociale. - art. L951-1 (M)
+	  - Code des assurances - art. L423-1 (V)
 
 	**Liens**:
 
@@ -10135,43 +10231,65 @@ recueillis sont soumis aux règles du secret professionnel en vigueur dans l'org
 
 	**Modifié par**:
 
-	  - Loi n°98-546 du 2 juillet 1998 - art. 40 (V) JORF 3 juillet 1998
+	  - Loi n°99-532 du 25 juin 1999 - art. 54 () JORF 29 juin 1999
 
 
 ###### Article L310-21
 
 Les membres ainsi que les agents de la commission de contrôle des assurances sont tenus au secret professionnel sous les
-peines fixées par les articles 226-13 et 226-14 du code pénal. Ce secret n'est pas opposable à l'autorité judiciaire.
+peines fixées par les articles 226-13 et 226-14 du code pénal. Ce secret n'est pas opposable à l'autorité judiciaire agissant
+dans le cadre d'une procédure pénale.
 
 La commission de contrôle des assurances peut transmettre des informations aux autorités chargées de la surveillance des
 entreprises d'assurance dans d'autres pays, sous réserve de réciprocité, et à condition que ces autorités soient elles-mêmes
 soumises au secret professionnel avec les mêmes garanties qu'en France.
 
+Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 relative à la communication de documents et
+renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques ou morales
+étrangères, la Commission de contrôle des assurances peut, en outre, conclure avec les autorités de contrôle des assurances
+des pays qui ne sont pas parties à l'accord sur l'Espace économique européen, à condition que ces autorités soient elles-
+mêmes soumises au secret professionnel, des conventions bilatérales ayant pour objet, outre les échanges d'information prévus
+à l'alinéa précédent, d'étendre les contrôles sur place de la Commission aux succursales ou aux filiales d'entreprises
+d'assurance soumises à son contrôle qui sont situées sur le territoire de compétence de l'autorité cocontractante et,
+réciproquement, de permettre à cette autorité de participer à des contrôles sur place de succursales ou de filiales
+françaises d'entreprises d'assurance soumises à son contrôle. A la demande de cette autorité, la Commission de contrôle des
+assurances effectue les contrôles sur place de succursales ou filiales françaises d'entreprises d'assurance soumises au
+contrôle de cette autorité étrangère ou, le cas échéant, conjointement avec elle. Seule la Commission de contrôle des
+assurances peut prononcer des sanctions à l'égard de la succursale ou de la filiale contrôlée en France. L'assistance
+demandée par une autorité étrangère à la Commission de contrôle des assurances est refusée par celle-ci lorsque l'exécution
+de la demande est de nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques essentiels ou à
+l'ordre public français ou lorsqu'une procédure pénale quelconque a déjà été engagée en France sur la base des mêmes faits et
+contre les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une décision définitive pour les mêmes
+faits.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°68-678 1968-07-26
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
+	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
+	  - Loi n°99-532 du 25 juin 1999 - art. 64 () JORF 29 juin 1999
 
 
 ###### Article L310-22
 
 Lorsque la commission relève des faits de nature à justifier des poursuites pénales, elle transmet le dossier avec un avis
 motivé au procureur de la République territorialement compétent, sans préjudice des sanctions qu'elle peut prononcer en
-application de l'article L. 310-18 ou de l'article L. 310-18-1.
+application de l'article L. 310-18 ou de l'article L. 310-18-1. Si la gravité des faits relevés le justifie, la transmission
+a lieu avant établissement du rapport contradictoire mentionné à l'article L. 310-16.
 
 **Liens relatifs à cet article**
 
@@ -10181,14 +10299,16 @@ application de l'article L. 310-18 ou de l'article L. 310-18-1.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 (date d'effet), art. 8 (champ d'application à Mayotte)
+	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
 
 	**Modifié par**:
 
-	  - Loi n°94-679 du 8 août 1994 - art. 2 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+	  - Loi n°99-532 1999-06-25 art. 91 4° JORF 29 juin 1999
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-16 (M)
 	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. L310-18-1 (M)
 
@@ -10353,7 +10473,10 @@ Le fait, pour tout dirigeant d'une société de participations d'assurance ou d'
 vertu de l'article L. 310-1 ou L. 310-1-1, après mise en demeure, de ne pas répondre aux demandes d'information de la
 commission de contrôle des assurances, ou de mettre obstacle de quelque manière que ce soit à l'exercice par celle-ci de sa
 mission de contrôle, ou de lui communiquer sciemment des renseignements inexacts, est puni d'un emprisonnement de deux ans et
-d'une amende de 2 000 000 F *sanctions*.
+d'une amende de 2 000 000 F *sanctions pénales*. Les entraves à l'action de la commission de contrôle exercée en application
+de l'article L. 323-1-1 sont punies des mêmes peines. Les mêmes dispositions s'appliquent aux dirigeants des personnes
+morales et aux personnes physiques que la Commission de contrôle des assurances aura décidé de soumettre à son contrôle en
+application du cinquième alinéa de l'article L. 310-12.
 
 Le fait, pour les mêmes personnes, de faire des déclarations mensongères ou de procéder à des dissimulations frauduleuses
 dans tout document produit au ministre chargé de l'économie et des finances est puni des mêmes peines.
@@ -10373,11 +10496,12 @@ modalités prévues par l'article 131-38 du code pénal.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 (date d'effet), art. 8 (champ d'application à Mayotte)
+	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
 
 	**Modifié par**:
 
-	  - Loi n°94-679 du 8 août 1994 - art. 3 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+	  - Loi n°99-532 du 25 juin 1999 - art. 44 () JORF 29 juin 1999
 
 	**Cite**:
 
@@ -10385,6 +10509,8 @@ modalités prévues par l'article 131-38 du code pénal.
 	  - Code pénal - art. 131-38 (M)
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. L323-1-1 (M)
 
 	**Cité par**:
 
@@ -10905,6 +11031,12 @@ l'entreprise ;
 - la répartition de son capital et la qualité des actionnaires ou, pour les sociétés mentionnées à l'article L. 322-26-1, les
 modalités de constitution du fonds d'établissement.
 
+Le ministre refuse l'agrément, après avis de la Commission de contrôle des assurances, lorsque l'exercice de la mission de
+surveillance de l'entreprise est susceptible d'être entravé, soit par l'existence de liens de capital ou de contrôle directs
+ou indirects entre l'entreprise requérante et d'autres personnes physiques ou morales, soit par l'existence de dispositions
+législatives, réglementaires ou administratives d'un Etat qui n'est pas partie à l'accord sur l'Espace économique européen et
+dont relèvent une ou plusieurs de ces personnes.
+
 La liste des documents à produire à l'appui d'une demande d'agrément présentée conformément aux dispositions des articles L.
 321-1, L. 321-7, L. 321-8 et L. 321-9 du code des assurances est, pour chaque type d'agrément, fixée par arrêté du ministre
 de l'économie et des finances.
@@ -10915,16 +11047,14 @@ de l'économie et des finances.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Transféré par**:
-
-	  - Loi n°94-5 1994-01-04 art. 1 I, III, art. 20 JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-	  - Loi n°94-5 du 4 janvier 1994 - art. 1 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-	  - Loi n°94-5 du 4 janvier 1994 - art. 20 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
 	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
+
+	**Modifié par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 53 () JORF 29 juin 1999
 
 	**Cité par**:
 
@@ -11029,6 +11159,22 @@ d'assurance mutuelle.
 
 	  - Code des assurances - art. L328-5 (V)
 	  - Code des assurances - art. R322-1-1 (V)
+
+
+###### Article L322-1-1
+
+L'administration centrale des entreprises françaises d'assurance doit être située sur le territoire de la République
+française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 53 () JORF 29 juin 1999
 
 
 ###### Article L322-2
@@ -11305,7 +11451,8 @@ obtenus et indique si la marge de solvabilité est constituée conformément à 
 solvabilité contient obligatoirement une analyse des conditions dans lesquelles l'entreprise est en mesure, à moyen et long
 terme, de faire face à l'ensemble de ses engagements.
 
-Le rapport de solvabilité mentionné au précédent alinéa est communiqué aux commissaires aux comptes.
+Le rapport de solvabilité mentionné au précédent alinéa est communiqué aux commissaires aux comptes et à la Commission de
+contrôle des assurances.
 
 **Liens relatifs à cet article**
 
@@ -11313,9 +11460,9 @@ Le rapport de solvabilité mentionné au précédent alinéa est communiqué aux
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-546 du 2 juillet 1998 - art. 67 () JORF 3 juillet 1998
+	  - Loi n°99-532 du 25 juin 1999 - art. 42 () JORF 29 juin 1999
 
 	**Cité par**:
 
@@ -12111,11 +12258,12 @@ des assurances prend les mesures d'urgence nécessaires à la sauvegarde de l'in
 
 Elle peut, à ce titre, mettre l'entreprise sous surveillance spéciale.
 
-Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie des actifs de l'entreprise ou désigner un
-administrateur provisoire à qui sont transférés les pouvoirs nécessaires à l'administration et à la direction de
-l'entreprise. Cette désignation est faite soit à la demande des dirigeants lorsqu'ils estiment ne plus être en mesure
-d'exercer normalement leurs fonctions, soit à l'initiative de la commission lorsque la gestion de l'établissement ne peut
-plus être assurée dans des conditions normales, ou lorsque a été prise la sanction prévue au 4° de l'article L. 310-18.
+Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie des actifs de l'entreprise, limiter ou
+suspendre temporairement certaines opérations ou désigner un administrateur provisoire à qui sont transférés les pouvoirs
+nécessaires à l'administration et à la direction de l'entreprise. Cette désignation est faite soit à la demande des
+dirigeants lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs fonctions, soit à l'initiative de la
+commission lorsque la gestion de l'établissement ne peut plus être assurée dans des conditions normales, ou lorsque a été
+prise la sanction prévue au 4° de l'article L. 310-18.
 
 Les mesures mentionnées au troisième alinéa sont levées ou confirmées par la commission, après procédure contradictoire, dans
 un délai prévu par décret en Conseil d'Etat.
@@ -12130,11 +12278,12 @@ Ce même décret précise les modalités d'application du présent article.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 (champ d'application à Mayotte)
+	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 23 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°99-532 1999-06-25 art. 91 6° JORF 29 juin 1999
 
 	**Cite**:
 
@@ -12420,6 +12569,48 @@ européen, sont applicables dans les territoires d'outre-mer.
 	**Abrogé par**:
 
 	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+
+##### Section II : Transfert d'office
+
+###### Article L324-5
+
+Lorsqu'une entreprise fait l'objet d'une procédure de transfert d'office de portefeuille, la Commission de contrôle des
+assurances peut, si elle estime que les personnes physiques ou morales, autres que les mandataires et salariés d'entreprises
+d'assurance, par l'intermédiaire desquelles des contrats comportant la garantie de risques mentionnés à l'article L. 423-1
+ont été présentés ou souscrits ont eu un comportement ayant contribué aux difficultés de cette entreprise, décider à l'issue
+d'une procédure contradictoire que les personnes susmentionnées doivent reverser au cessionnaire du portefeuille ou, à
+défaut, au fonds de garantie tout ou partie des commissions ou rémunérations de toutes natures, directes ou indirectes,
+encaissées à l'occasion de la présentation ou de la souscription de ces contrats, au cours des dix-huit mois précédant le
+mois au cours duquel la procédure de transfert de portefeuille est lancée.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 45 () JORF 29 juin 1999
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1065 (M)
+	  - Code des assurances - art. L324-6 (Ab)
+	  - Code des assurances - art. L326-16 (Ab)
+	  - Code des assurances - art. R*321-19 (M)
+	  - Code des assurances - art. R*323-10 (Ab)
+	  - Code des assurances - art. R*324-7 (Ab)
+	  - Code des assurances - art. R*420-48 (T)
+	  - Code des assurances - art. R*421-48 (Ab)
+	  - Code des assurances - art. R324-5 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L423-1 (V)
 
 
 ##### Section III : Règles relatives à l'affectation comptable des actifs transférés avec un portefeuille de contrats.
@@ -12787,25 +12978,33 @@ compétente dans le délai prescrit seront tenues en réserve jusqu'à ce qu'il 
 créances ; les créanciers auront le droit de prélever sur les sommes mises en réserve les dividendes afférents à leurs
 créances dans les premières répartitions, sans préjudice de leurs droits dans les répartitions ultérieures.
 
+Le liquidateur procède, s'il y a lieu, à la restitution par préférence des primes versées par les personnes ayant exercé leur
+droit à renonciation en application de l'article L. 132-5-1. .
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 23
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°99-532 1999-06-25 art. 91 7° JORF 29 juin 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
+	  - SPEC_APPLI: Code des assurances - art. L326-13 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-5-1 (M)
 
 	**Cité par**:
 
 	  - Code des assurances - art. L310-25 (VD)
 	  - Code des assurances - art. L326-13 (M)
 	  - Code des assurances - art. R326-1 (VD)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. L326-13 (M)
 
 
 ###### Article L326-10
@@ -12912,23 +13111,24 @@ dérogé aux dispositions prévues au précédent alinéa.
 
 ###### Article L326-13
 
-Après la publication au Journal officiel de la décision du ministre de l'économie et des finances ou de la commission de
-contrôle des assurances prononçant le retrait de l'agrément administratif accordé à une entreprise mentionnée au 1° et au
-dernier alinéa de l'article L. 310-1, les contrats souscrits par l'entreprise demeurent régis par leurs conditions générales
-et particulières tant que l'arrêté du ministre de l'économie et des finances prévu à l'alinéa suivant n'a pas été publié au
-Journal officiel, mais le liquidateur peut, avec l'approbation du juge-commissaire, surseoir au paiement des sinistres, des
-échéances et des valeurs de rachat. Les primes encaissées par le liquidateur sont versées à un compte spécial qui fait
-l'objet d'une liquidation distincte.
+Après la publication au Journal officiel de la décision du ministre chargé de l'économie ou de la Commission de contrôle des
+assurances prononçant le retrait de l'agrément administratif accordé à une entreprise mentionnée au 1° et au dernier alinéa
+de l'article L. 310-1, les contrats souscrits par l'entreprise demeurent régis par leurs conditions générales et
+particulières tant que la décision de la Commission de contrôle des assurances prévue à l'alinéa suivant n'a pas été publiée
+au Journal officiel, mais le liquidateur peut, avec l'approbation du juge-commissaire, surseoir au paiement de toutes sommes
+dues au titre des contrats. Les primes encaissées par le liquidateur sont versées à un compte spécial qui fait l'objet d'une
+liquidation distincte.
 
-La commission de contrôle des assurances, à la demande du liquidateur et sur le rapport du juge-commissaire, peut proposer au
-ministre chargé de l'économie et des finances de fixer par arrêté la date à laquelle les contrats cessent d'avoir effet,
-d'autoriser leur transfert en tout ou partie à une ou plusieurs entreprises, de proroger leur échéance, de décider la
-réduction des sommes payables en cas de vie ou de décès ainsi que des bénéfices attribués et des valeurs de rachat, de
-manière à ramener la valeur des engagements de l'entreprise au montant que la situation de la liquidation permet de couvrir.
+La Commission de contrôle des assurances, à la demande du liquidateur et sur le rapport du juge-commissaire, peut fixer la
+date à laquelle les contrats cessent d'avoir effet, autoriser leur transfert en tout ou partie à une ou plusieurs
+entreprises, proroger leur échéance, décider la réduction des sommes payables en cas de vie ou de décès ainsi que des
+bénéfices attribués et des valeurs de rachat, de manière à ramener la valeur des engagements de l'entreprise au montant que
+la situation de la liquidation permet de couvrir.
 
-Les dispositions des articles L. 326-4, L. 326-5 et L. 326-9 ne sont pas applicables tant qu'un arrêté du ministre de
-l'économie et des finances n'a pas fixé la date à laquelle les contrats cessent d'avoir effet, et le délai de dix jours,
-prévu au premier alinéa de l'article L. 326-4, ne court qu'à compter de la publication de cet arrêté au Journal officiel.
+Le versement des primes périodiques est suspendu dix jours après la nomination du liquidateur, et jusqu'à la publication de
+la décision de la Commission de contrôle des assurances fixant la date à laquelle les contrats cessent d'avoir effet. En cas
+de transfert du portefeuille, les versements suspendus sont effectués au profit de l'entreprise cessionnaire, abattus du taux
+de réduction défini par la Commission de contrôle des assurances.
 
 **Liens relatifs à cet article**
 
@@ -12938,14 +13138,15 @@ prévu au premier alinéa de l'article L. 326-4, ne court qu'à compter de la pu
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 (champ d'application à Mayotte)
+	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
 	  - SPEC_APPLI: Code des assurances - art. L326-4 (M)
 	  - SPEC_APPLI: Code des assurances - art. L326-5 (Ab)
 	  - SPEC_APPLI: Code des assurances - art. L326-9 (V)
 
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 8 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°99-532 1999-06-25 art. 91 8° JORF 29 juin 1999
 
 	**Cité par**:
 
@@ -12957,9 +13158,6 @@ prévu au premier alinéa de l'article L. 326-4, ne court qu'à compter de la pu
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L326-4 (M)
-	  - Code des assurances - art. L326-5 (Ab)
-	  - Code des assurances - art. L326-9 (M)
 
 
 ###### Article L326-14
@@ -13181,8 +13379,9 @@ général institué au premier alinéa de l'article L. 327-2.
 ###### Article L327-2
 
 L'actif mobilier des entreprises françaises soumises au contrôle de l'Etat par l'article L. 310-1 est affecté par un
-privilège général au règlement de leurs engagements envers les assurés et bénéficiaires de contrats. Ce privilège prend rang
-après le 6° de l'article 2101 du code civil.
+privilège général au règlement de leurs engagements envers les assurés et bénéficiaires de contrats et au remboursement par
+préférence des primes payées par les personnes ayant exercé leur droit à renonciation en application de l'article L. 132-5-1.
+Ce privilège prend rang après le 6° de l'article 2101 du code civil.
 
 Il en est de même de l'actif immobilier. Ce privilège prend rang après le 2° de l'article 2104 du code civil.
 
@@ -13196,21 +13395,22 @@ opérations d'assurance directes pour les contrats souscrits ou exécutés sur l
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°94-5 1994-01-04 art. 26 I, II JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-	  - Loi n°94-5 du 4 janvier 1994 - art. 26 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 (champ d'application à Mayotte)
+	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
 	  - TXT_ASSOCIE: Code des assurances - art. L327-1 (V)
 	  - TXT_ASSOCIE: Code des assurances - art. L327-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°99-532 1999-06-25 art. 91 9° JORF 29 juin 1999
 
 	**Cite**:
 
 	  - Code civil - art. 2101 (M)
 	  - Code civil - art. 2104 (M)
+	  - Code des assurances - art. L132-5-1 (M)
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-2 (M)
 
@@ -13258,10 +13458,10 @@ fait l'objet d'un retrait d'agrément, cette hypothèque est prise de plein droi
 ###### Article L327-4
 
 Pour les entreprises pratiquant les opérations mentionnées au 1° et au dernier alinéa de l'article L. 310-1, la créance
-garantie par le privilège ou l'hypothèque légale est arrêtée au montant de la provision mathématique diminuée, s'il y a lieu,
-des avances sur polices, y compris les intérêts, et augmentée, le cas échéant, du montant du compte individuel de
-participation aux bénéfices, ouvert au nom de l'assuré, lorsque ces bénéfices ne sont pas payables immédiatement après la
-liquidation de l'exercice qui les a produits.
+garantie par le privilège ou l'hypothèque légale est arrêtée au montant des primes à rembourser par préférence en cas de
+renonciation au contrat et de la provision mathématique diminuée, s'il y a lieu, des avances sur polices, y compris les
+intérêts, et augmentée, le cas échéant, du montant du compte individuel de participation aux bénéfices, ouvert au nom de
+l'assuré, lorsque ces bénéfices ne sont pas payables immédiatement après la liquidation de l'exercice qui les a produits.
 
 Pour les autres assurances, la créance garantie est arrêtée, en ce qui concerne les assurances directes, au montant des
 indemnités dues à la suite de sinistres et au montant des portions de primes payées d'avance ou provisions de primes
@@ -13279,12 +13479,12 @@ qu'elles sont définies par le décret en Conseil d'Etat prévu à l'article L. 
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 (champ d'application à Mayotte)
+	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
 
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 4 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-	  - Loi n°94-5 du 4 janvier 1994 - art. 8 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°99-532 1999-06-25 art. 91 10° JORF 29 juin 1999
 
 	**Cité par**:
 
@@ -13873,7 +14073,8 @@ Les règles permettant l'application des deux alinéas précédents sont fixées
 Les entreprises dont l'activité principale consiste à prendre et à gérer des participations dans des entreprises soumises au
 contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1 et qui détiennent, directement ou
 indirectement, un pouvoir effectif de contrôle sur une ou plusieurs entreprises soumises au contrôle de l'Etat en application
-de l'article L. 310-1 et ayant leur siège social en France, sont dénommées sociétés de participations d'assurance.
+de l'article L. 310-1 et ayant leur siège social en France, ou sur une ou plusieurs institutions de prévoyance régies par le
+titre III du livre IX du code de la sécurité sociale, sont dénommées "sociétés de participations d'assurance".
 
 **Liens relatifs à cet article**
 
@@ -13887,7 +14088,7 @@ de l'article L. 310-1 et ayant leur siège social en France, sont dénommées so
 
 	**Modifié par**:
 
-	  - Loi n°94-679 du 8 août 1994 - art. 4 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+	  - Loi n°99-532 du 25 juin 1999 - art. 52 () JORF 29 juin 1999
 
 	**Cité par**:
 
@@ -13912,6 +14113,22 @@ de l'article L. 310-1 et ayant leur siège social en France, sont dénommées so
 	  - Code des assurances - art. L310-1-1 (V)
 
 
+###### Article L345-1-1
+
+L'administration centrale des sociétés de participations d'assurance doit être située sur le territoire de la République
+française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 53 () JORF 29 juin 1999
+
+
 ###### Article L345-2
 
 Les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 et ayant leur siège social en France, les
@@ -13927,10 +14144,12 @@ l'article L. 334-1, ladite commission dispense cette société de participations
 précédent alinéa.
 
 Lorsque deux ou plusieurs entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L.
-310-1-1 constituent un ensemble dont la cohésion ne résulte pas de liens en capital, l'une d'elles établit et publie des
-comptes combinés. Un décret détermine celle des entreprises sur laquelle pèse cette obligation. Les comptes combinés sont
-constitués par agrégation de l'ensemble des comptes des entreprises concernées, établis s'il y a lieu sur une base
-consolidée, dans des conditions définies par un règlement du comité de la réglementation comptable.
+310-1-1, sociétés de participations d'assurance mentionnées à l'article L. 345-1, ou institutions de prévoyance régies par le
+titre III du livre IX du code de la sécurité sociale constituent un ensemble dont la cohésion ne résulte pas de liens en
+capital, l'une d'elles établit et publie des comptes combinés. Un décret détermine celle des entreprises ou institutions sur
+laquelle pèse cette obligation. Les comptes combinés sont constitués par agrégation de l'ensemble des comptes des entreprises
+ou institutions concernées, établis s'il y a lieu sur une base consolidée, dans des conditions définies par un règlement du
+Comité de la réglementation comptable.
 
 **Liens relatifs à cet article**
 
@@ -13971,11 +14190,11 @@ consolidée, dans des conditions définies par un règlement du comité de la r�
 
 	**Modifié par**:
 
-	  - Loi n°98-261 1998-04-06 art. 8 II, III JORF 7 avril 1998
-	  - Loi n°98-261 du 6 avril 1998 - art. 8 () JORF 7 avril 1998
+	  - Loi n°99-532 du 25 juin 1999 - art. 52 () JORF 29 juin 1999
 
 	**Cite**:
 
+	  - Code de la sécurité sociale
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-1-1 (V)
 	  - Code des assurances - art. L345-1 (M)
@@ -16251,6 +16470,350 @@ procédure pénale.
 	  - Loi n°92-665 du 16 juillet 1992 - art. 36 () JORF 17 juillet 1992
 
 
+#### Chapitre III : Le fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes.
+
+###### Article L423-1
+
+Les entreprises agréées en France soumises au contrôle de l'Etat en vertu de l'article L. 310-1, à l'exception de celles qui
+sont agréées pour des opérations citées au 3° du même article, adhèrent à un fonds de garantie destiné à préserver les droits
+de leurs assurés, et des souscripteurs, adhérents et bénéficiaires de leurs contrats d'assurance-vie, de capitalisation,
+couvrant des dommages corporels, ou prévus à l'article L. 441-1.
+
+Sont exclus de toute indemnisation par le fonds de garantie les contrats d'assurance, bons ou contrats de capitalisation et
+contrats visés à l'article L. 441-1, souscrits par les personnes suivantes :
+
+a) Administrateurs, dirigeants, associés personnellement responsables détenteurs, directement ou indirectement, d'au moins 5
+% du capital de l'entreprise, commissaires aux comptes et assurés ayant les mêmes qualités dans d'autres sociétés du groupe ;
+
+b) Tiers agissant pour le compte des assurés, souscripteurs de contrats, adhérents et bénéficiaires de prestations, cités au
+a ci-dessus ;
+
+c) Entreprises d'assurance relevant du présent code, institutions de prévoyance régies par le code de la sécurité sociale ou
+le code rural ainsi que les mutuelles régies par le code de la mutualité, sauf lorsqu'il s'agit de contrats souscrits au
+profit de leurs salariés ou de leurs clients ;
+
+d) Sociétés entrant dans le périmètre de consolidation défini à l'article L. 233-16 du code de commerce dont relève
+l'entreprise d'assurance, sauf s'il s'agit de contrats souscrits au profit de leurs salariés ou de leurs clients ;
+
+e) Etablissements de crédit et personnes mentionnées à l'article L. 518-1 du code monétaire et financier, sauf pour les
+contrats souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ;
+
+f) Organismes de placement collectifs ;
+
+g) Organismes de retraite, sauf lorsqu'il s'agit de contrats souscrits pour le compte des salariés ou retraités de leurs
+adhérents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Cité par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 45 (Ab)
+	  - Code de la sécurité sociale. - art. L951-12 (Ab)
+	  - Code des assurances - art. L310-20 (Ab)
+	  - Code des assurances - art. L324-5 (V)
+	  - Code des assurances - art. L326-4 (V)
+	  - Code des assurances - art. L423-2 (M)
+	  - Code des assurances - art. R*411-10 (Ab)
+	  - Code des assurances - art. R334-3 (V)
+	  - Code des assurances - art. R411-1 (M)
+	  - Code des assurances - art. R423-1 (VD)
+	  - Code des assurances - art. R423-13 (V)
+	  - Code des assurances - art. R423-2 (V)
+	  - Code monétaire et financier - art. L612-46 (V)
+	  - Code monétaire et financier - art. L631-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 68 () JORF 29 juin 1999
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-16 (M)
+	  - Code monétaire et financier - art. L518-1 (M)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L441-1 (M)
+
+
+###### Article L423-2
+
+I. - Lorsque à l'occasion de la procédure prévue à l'article L. 310-18 la Commission de contrôle des assurances estime qu'une
+des entreprises mentionnées à l'article L. 423-1 n'est plus en mesure de faire face à ses engagements envers les personnes
+mentionnées au même article, elle décide de recourir au fonds de garantie après avoir consulté par écrit le président du
+directoire de celui-ci.
+
+S'il conteste la décision de la commission, le président du directoire peut, dans un délai de quinze jours à compter de
+celle-ci, saisir le ministre chargé de l'économie. Celui-ci peut alors, dans l'intérêt des assurés et des souscripteurs,
+adhérents et bénéficiaires des contrats et dans un délai de quinze jours, demander à la commission une nouvelle délibération
+après avoir recueilli l'avis écrit d'un collège arbitral dont la composition est fixée par décret en Conseil d'Etat.
+
+La décision de la commission de recourir au fonds de garantie est immédiatement notifiée à l'entreprise concernée. En cas de
+mise en oeuvre de la procédure décrite à l'alinéa précédent, seule la nouvelle délibération de la commission est notifiée à
+l'entreprise.
+
+II. - Dès cette notification, la Commission de contrôle des assurances lance un appel d'offres en vue du transfert du
+portefeuille de contrats de cette entreprise dans les conditions prévues à l'article L. 310-18. Cet appel d'offres est
+communiqué au fonds de garantie.
+
+III. - La commission retient la ou les offres qui lui paraissent le mieux préserver l'intérêt des assurés, souscripteurs de
+contrats, adhérents et bénéficiaires de prestations, eu égard notamment à la solvabilité des entreprises candidates et aux
+taux de réduction des engagements qu'elles proposent.
+
+La décision de la commission qui prononce le transfert du portefeuille de contrats au profit de la ou des entreprises qu'elle
+a désignées et qui mentionne, le cas échéant, le taux de réduction pour chaque type de contrats transférés est publiée au
+Journal officiel. Cette décision libère l'entreprise cédante de tout engagement envers les assurés, souscripteurs de
+contrats, adhérents et bénéficiaires de prestations, dont les contrats ont été transférés en vertu des dispositions du
+présent article.
+
+Lorsque la procédure de transfert du portefeuille n'a pas abouti, la Commission de contrôle des assurances en informe le
+fonds de garantie.
+
+IV. - Les engagements et les actifs transférés font l'objet d'une comptabilité distincte. Les bénéfices éventuels, dus à une
+sous-estimation des actifs ou à une surestimation des engagements dans le bilan de transfert, reviennent aux assurés,
+souscripteurs de contrats, adhérents et bénéficiaires de prestations, dont les contrats ont été transférés.
+
+V. - Le transfert de tout ou partie du portefeuille ou le constat de l'échec de la procédure de transfert emporte retrait,
+par la Commission de contrôle des assurances, de tous les agréments administratifs de l'entreprise défaillante. Le fonds de
+garantie accomplit, jusqu'à la nomination du liquidateur, les actes nécessaires à la gestion de la partie du portefeuille de
+contrats qui n'a pas été transférée. L'administrateur provisoire nommé le cas échéant par la Commission de contrôle des
+assurances peut accomplir ces actes de gestion pour le compte du fonds de garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 68 () JORF 29 juin 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L423-1 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R423-3 (V)
+	  - Code des assurances - art. R423-7 (V)
+	  - Code des assurances - art. R423-8 (V)
+	  - Code monétaire et financier - art. L612-33-2 (V)
+
+
+###### Article L423-3
+
+En cas de transfert de portefeuille, la partie des droits des assurés, souscripteurs de contrats, adhérents et bénéficiaires
+de prestations éventuellement non couverte par le cessionnaire est garantie dans les limites prévues par décret en Conseil
+d'Etat par un versement du fonds de garantie au cessionnaire.
+
+Lorsque la procédure de transfert de portefeuille n'a pas abouti, les droits des assurés, souscripteurs de contrats,
+adhérents et bénéficiaires de prestations sont garantis par un versement, à leur profit, du fonds de garantie, dans les
+limites prévues par décret en Conseil d'Etat.
+
+Le fonds de garantie dispose d'un droit d'accès aux documents justificatifs du calcul de sa contribution, dont le montant est
+arrêté par la Commission de contrôle des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 68 () JORF 29 juin 1999
+
+	**Cité par**:
+
+	  - Code des assurances - art. R423-14 (V)
+	  - Code des assurances - art. R423-15 (V)
+	  - Code des assurances - art. R423-5 (V)
+	  - Code des assurances - art. R423-6 (V)
+	  - Code des assurances - art. R423-8 (V)
+
+
+###### Article L423-4
+
+Le fonds de garantie est une personne morale de droit privé. Il est géré par un directoire agissant sous le contrôle d'un
+conseil de surveillance. Les membres du directoire et du conseil de surveillance doivent remplir les conditions énoncées à
+l'article L. 322-2.
+
+Le conseil de surveillance exerce le contrôle permanent de la gestion du fonds de garantie. Il élabore les statuts et le
+règlement intérieur du fonds de garantie, qui sont homologués par un arrêté du ministre chargé de l'économie. Il élit en son
+sein son président.
+
+Le conseil de surveillance approuve les comptes et nomme les commissaires aux comptes. A la fin de chaque exercice, il est
+remis au ministre chargé de l'économie un exemplaire des comptes approuvés. Le fonds de garantie est soumis au contrôle de
+l'inspection générale des finances.
+
+Le conseil de surveillance comprend douze membres désignés par les entreprises adhérentes, chacun des membres représentant
+une ou plusieurs de ces entreprises. La composition du conseil de surveillance, précisée par les statuts du fonds de
+garantie, doit être représentative des différentes catégories d'entreprises d'assurance soumises au présent code.
+
+Les décisions du conseil de surveillance sont prises à la majorité simple. Chaque membre siégeant au conseil de surveillance
+dispose d'un nombre de voix dépendant de sa contribution financière totale au fonds de garantie et de celles des entreprises
+qui l'ont désigné comme leur représentant. En cas de partage égal des voix, le vote du président est prépondérant.
+
+Le directoire est composé de trois membres nommés par le conseil de surveillance, qui confère à l'un d'eux la qualité de
+président. Les membres du directoire ne peuvent exercer en même temps des fonctions au sein des entreprises adhérentes au
+fonds de garantie, ni recevoir de rétribution de l'une d'elles. Son président ne peut exercer ses fonctions qu'après agrément
+du ministre chargé de l'économie.
+
+Le ministre chargé de l'économie ou son représentant ainsi que le président de la Commission de contrôle des assurances ou
+son représentant peuvent, à leur demande, être entendus par le conseil de surveillance et le directoire.
+
+La Commission de contrôle des assurances entend le président du directoire du fonds de garantie pour toute question
+concernant une entreprise d'assurance pour laquelle elle envisage de mettre en oeuvre les dispositions du présent chapitre.
+
+Le président du directoire est également entendu, à sa demande, par la Commission de contrôle des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 68 () JORF 29 juin 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-2 (M)
+
+
+###### Article L423-5
+
+Le fonds de garantie est subrogé dans les droits des assurés, souscripteurs de contrats, adhérents et bénéficiaires de
+prestations, à concurrence du montant des sommes qu'il a versées.
+
+Le fonds de garantie est également subrogé dans les mêmes limites dans les droits de l'entreprise défaillante à concurrence
+des sommes exigibles en vertu de l'exécution des traités de réassurance en cours.
+
+Le fonds de garantie peut engager toute action en responsabilité à l'encontre des dirigeants de droit ou de fait de
+l'entreprise d'assurance dont la défaillance a entraîné son intervention, aux fins d'obtenir le remboursement de tout ou
+partie des sommes versées par lui. Il en informe la Commission de contrôle des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 68 () JORF 29 juin 1999
+
+	**Cité par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 86 (V)
+
+
+###### Article L423-6
+
+Les membres du directoire et du conseil de surveillance du fonds de garantie, ainsi que toute personne qui par ses fonctions
+a accès aux documents et informations détenus par le fonds de garantie, sont tenus au secret professionnel dans les
+conditions et sous les peines prévues à l'article 226-13 du code pénal. Ce secret n'est opposable ni à l'autorité judiciaire
+agissant dans le cadre d'une procédure pénale, ni aux juridictions civiles statuant sur un recours formé à l'encontre d'une
+décision du fonds de garantie, ni à la Commission de contrôle des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 68 () JORF 29 juin 1999
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+
+
+###### Article L423-7
+
+Les établissements adhérant au fonds de garantie lui fournissent les ressources financières nécessaires à l'accomplissement
+de ses missions, dans des conditions fixées par décret en Conseil d'Etat. Le fonds de garantie peut en outre émettre des
+certificats d'association, nominatifs et non négociables, que souscrivent les entreprises adhérentes lors de leur adhésion.
+
+Lorsque les pertes subies par le fonds de garantie ne peuvent être couvertes par les cotisations déjà appelées, les
+certificats d'association mentionnés au précédent alinéa ne peuvent plus faire l'objet d'une rémunération. Le nominal de
+chacun de ces certificats est alors réduit dans la proportion nécessaire pour absorber les pertes. Ces certificats
+d'association ne sont pas remboursables.
+
+Le fonds de garantie peut emprunter auprès de ses adhérents. Il peut à cette fin constituer ou demander à ses adhérents de
+constituer pour son compte les garanties requises conventionnellement.
+
+Le défaut d'adhésion ou l'absence de versement au fonds de garantie de la cotisation appelée sont passibles des sanctions
+prévues par l'article L. 310-18 et de pénalités de retard versées directement au fonds de garantie selon des modalités
+définies par le règlement intérieur de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 68 () JORF 29 juin 1999
+
+	**Cité par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 75 (V)
+	  - Code des assurances - art. R423-11 (V)
+	  - Code des assurances - art. R423-16 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-18 (M)
+
+
+###### Article L423-8
+
+Un décret en Conseil d'Etat précise :
+
+- les conditions et les plafonds d'indemnisation par assuré, souscripteur, adhérent ou bénéficiaire, les modalités et délais
+d'indemnisation ainsi que les règles relatives à l'information de la clientèle ;
+
+- les modalités de définition des taux de réduction en cas de transfert de portefeuille de l'entreprise défaillante ;
+
+- les caractéristiques des certificats d'association, ainsi que les conditions de leur rémunération ;
+
+- le montant global des cotisations annuelles dues par les entreprises adhérentes ;
+
+- les conditions dans lesquelles une partie de ces cotisations peut ne pas être versée au fonds de garantie moyennant la
+constitution de garanties appropriées ;
+
+- la formule de répartition de ces cotisations annuelles, dont l'assiette est constituée du montant des provisions
+mathématiques, pondérée par les cotisations déjà versées ainsi que par les indicateurs de la situation financière de chacun
+des adhérents, et notamment leur solvabilité, reflétant les risques objectifs que l'adhérent fait courir au fonds ;
+
+- les conditions et les modalités de nomination des membres du conseil de surveillance, ainsi que la durée de leur mandat.
+
+Ce décret ne peut être modifié qu'après avis du président du directoire du fonds de garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 75 II (délai prévu pour la prise du règlement CRBF)
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 68 () JORF 29 juin 1999
+
+
 ### Titre III : Organismes particuliers d'assurance
 
 #### Chapitre Ier : La caisse centrale de réassurance
@@ -17642,8 +18205,9 @@ actions appartenant à l'assuré en vertu de celles de l'article L. 530-1.
 
 ###### Article L530-2-2
 
-La liste des courtiers et des sociétés de courtage d'assurance établis en France est tenue annuellement par le ministre de la
-justice qui veille au respect des prescriptions prévues aux articles L. 511-1, alinéa 1, L. 511-2, L. 530-1 et L. 530-2.
+Le ministre chargé de l'économie veille au respect des prescriptions prévues aux articles L. 511-1 (premier alinéa), L.
+511-2, L. 530-1 et L. 530-2. La liste des courtiers et des sociétés de courtage d'assurance établis en France est tenue par
+les professions de l'assurance concernées dans des conditions fixées par décret en Conseil d'Etat.
 
 Cette liste est publiée chaque année au Journal officiel de la République française.
 
@@ -17657,9 +18221,13 @@ Cette liste est publiée chaque année au Journal officiel de la République fra
 
 	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet$
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 42 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°99-532 du 25 juin 1999 - art. 46 () JORF 29 juin 1999
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 	**Cité par**:
 
