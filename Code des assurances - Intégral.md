@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1999-07-06
+Version Consolidée au 1999-08-06
 
 # Partie législative
 
@@ -27464,35 +27464,6 @@ portefeuille, mentionnés à l'article L. 324-1, mentionnent dans ce cas, en ann
 
 ##### Section VII : Tontines.
 
-###### Article R*322-142
-
-Les fonds provenant des souscriptions doivent être intégralement versés aux associations sous la seule déduction des frais de
-gestion statutaires.
-
-Les frais de gestion ne peuvent être prélevés sur les versements afférents à chaque souscription que dans une proportion
-uniforme pendant toute leur durée. Toutefois, pour faire face aux dépenses d'acquisition des contrats et dans la limite de
-ces dépenses, les sociétés peuvent prélever sur les premiers versements afférents à chaque souscription, si les statuts le
-stipulent, 3,50 % au plus du montant de la souscription, sans pouvoir dépasser en aucun cas la moitié du prélèvement
-statutaire total.
-
-Les fonds de chaque association doivent être gérés séparément et ne peuvent se confondre à aucun égard avec ceux des autres
-associations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-03 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*322-140 (M)
-
-
 ###### Article R*322-145
 
 Les associations en cas de survie ou en cas de décès que créent les sociétés à forme tontinière ne peuvent être valablement
@@ -27661,6 +27632,38 @@ Les sociétés à forme tontinière doivent avoir un fonds d'établissement au m
 	  - TXT_SOURCE: Code des assurances R322-157
 
 
+###### Article R322-139
+
+Les sociétés à forme tontinière mentionnées à l'article L. 322-26-4 réunissent leurs adhérents en groupes distincts dénommés
+associations et répartissent, à l'expiration de chacune de ces associations, les fonds provenant de la capitalisation en
+commun de leurs cotisations, déduction faite de la partie affectée aux frais de gestion et d'acquisition statutaires, entre
+les survivants des associations en cas de vie ou entre les ayants droit des décédés des associations en cas de décès, en
+tenant compte de l'âge des adhérents et de leurs versements. 
+
+Les sociétés régies par la présente section doivent faire figurer à la suite de leur dénomination, dans leurs statuts,
+contrats ou titres émis par elles et autres documents de toute nature destinés à être distribués au public ou publiés, la
+mention ci-après en caractères uniformes : " société à forme tontinière ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Cité par**:
+
+	  - Décret n°84-269 du 11 avril 1984 - art. 3 (V)
+	  - Code des assurances - art. R322-159 (V)
+
+	**Modifié par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 6 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-26-4 (V)
+
+
 ###### Article R322-140
 
 A l'exception des 3° et 8° de l'article R. 322-47, des articles R. 322-71, R. 322-73 à R. 322-76, R. 322-81, R. 322-83, R.
@@ -27694,6 +27697,25 @@ forme tontinière, sous réserve des dérogations prévues à la présente secti
 	  - Code des assurances - art. R322-81 (V)
 	  - Code des assurances - art. R322-83 (V)
 	  - Code des assurances - art. R322-93 (V)
+
+
+###### Article R322-142
+
+Les fonds provenant des souscriptions doivent être intégralement versés aux associations sous la seule déduction des frais de
+gestion et d'acquisition statutaires.
+
+Les fonds de chaque association doivent être gérés séparément et ne peuvent se confondre à aucun égard avec ceux des autres
+associations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 6 () JORF 6 août 1999
 
 
 ###### Article R322-143
@@ -27926,38 +27948,6 @@ nullités ci-dessus prévues.
 	**Cité par**:
 
 	  - Code des assurances - art. R322-90 (V)
-
-
-###### Article R332-139
-
-Les sociétés à forme tontinière mentionnées à l'article L. 322-26-4 réunissent leurs adhérents en groupes distincts dénommés
-associations et répartissent, à l'expiration de chacune de ces associations, les fonds provenant de la capitalisation en
-commun de leurs cotisations, déduction faite de la partie affectée aux frais de gestion, entre les survivants des
-associations en cas de vie ou entre les ayants droit des décédés des associations en cas de décès, en tenant compte de l'âge
-des adhérents et de leurs versements.
-
-Les sociétés régies par la présente section doivent faire figurer à la suite de leur dénomination, dans leurs statuts,
-contrats ou titres émis par elles et autres documents de toute nature destinés à être distribués au public ou publiés, la
-mention ci-après en caractères uniformes : "société à forme tontinière".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Décret n°84-269 du 11 avril 1984 - art. 3 (V)
-	  - Code des assurances - art. R322-159 (V)
-
-	**Modifié par**:
-
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 40 () JORF 15 octobre 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-26-4 (V)
 
 
 #### Chapitre III : Procédures de redressement et de sauvegarde
@@ -29729,6 +29719,27 @@ ne dépassant pas 7 p. 100 des éléments d'actifs existant dans l'ensemble des 
 	**Cite**:
 
 	  - Code des assurances - art. R*332-1 (M)
+
+
+###### Article R332-1-2
+
+Les entreprises d'assurance doivent procéder en permanence à une évaluation de leurs risques financiers en effectuant
+notamment des simulations de l'impact de la variation des taux d'intérêt et des cours boursiers sur leur actif et leur passif
+et des estimations comparées de l'exigibilité de leur passif et de la liquidité de leur actif. Les résultats de cette
+évaluation sont déterminés et présentés selon des principes généraux définis par arrêté du ministre chargé de l'économie. Ils
+sont annexés à l'état trimestriel des placements destiné à la commission de contrôle des assurances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 5 () JORF 6 août 1999
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 26 décembre 2000
+	  - TXT_SOURCE: Arrêté du 26 décembre 2000 - art. 5 (V)
+	  - TXT_SOURCE: Code des assurances - art. A332-7 (V)
 
 
 ###### Article R332-2
@@ -31847,6 +31858,9 @@ emprunts à durée déterminée n'est admise qu'à concurrence de 25 p. 100 de c
 irrégulièrement peut, conformément aux dispositions de l'article L. 310-18 du présent code, donner lieu à application de
 sanctions par la commission de contrôle des assurances.
 
+9. Pour les entreprises adhérentes au fonds de garantie institué par l'article L. 423-1, la réserve pour fonds de garantie
+prévue à l'article R. 423-13, à hauteur de la part de cotisation versée par l'entreprise et non utilisée par le fonds.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -31859,7 +31873,7 @@ sanctions par la commission de contrôle des assurances.
 
 	**Modifié par**:
 
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 8 () JORF 25 octobre 1995
+	  - Décret n°99-688 du 3 août 1999 - art. 2 () JORF 6 août 1999
 
 	**Cité par**:
 
@@ -31887,8 +31901,10 @@ sanctions par la commission de contrôle des assurances.
 	**Cite**:
 
 	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L423-1 (V)
 	  - Code des assurances - art. R*334-1 (M)
 	  - Code des assurances - art. R*334-5 (M)
+	  - Code des assurances - art. R423-13 (M)
 
 
 ###### Article R334-4
@@ -32313,6 +32329,9 @@ emprunts à durée déterminée n'est admise qu'à concurrence de 25 p. 100 de c
 irrégulièrement peut, conformément aux dispositions de l'article L. 310-18 du présent code, donner lieu à application de
 sanctions par la commission de contrôle des assurances.
 
+7. La réserve pour fonds de garantie prévue à l'article R. 423-13, à hauteur de la part de cotisation versée par l'entreprise
+et non utilisée par le fonds.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -32325,7 +32344,7 @@ sanctions par la commission de contrôle des assurances.
 
 	**Modifié par**:
 
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 8 () JORF 25 octobre 1995
+	  - Décret n°99-688 du 3 août 1999 - art. 2 () JORF 6 août 1999
 
 	**Cité par**:
 
@@ -32359,6 +32378,7 @@ sanctions par la commission de contrôle des assurances.
 
 	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. R*334-1 (M)
+	  - Code des assurances - art. R423-13 (M)
 
 
 ###### Article R334-12
@@ -32654,7 +32674,7 @@ La marge de solvabilité mentionnée à l'article R. 334-1 est constituée, apr�
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
-a) Les éléments définis aux 1, 2, 3, 4 et 6 de l'article R. 334-11 ;
+a) Les éléments définis aux 1, 2, 3, 4, 6 et 7 de l'article R. 334-11 ;
 
 b) L'élément défini au 5 b de l'article R. 334-11 ;
 
@@ -32674,10 +32694,9 @@ de l'article R. 334-19.
 
 	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 2 () JORF 25 octobre 1995
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 3 () JORF 25 octobre 1995
+	  - Décret n°99-688 du 3 août 1999 - art. 2 () JORF 6 août 1999
 
 	**Cité par**:
 
@@ -34769,7 +34788,9 @@ La commission comprend en outre :
 
 2° Une personnalité choisie en raison de sa compétence ;
 
-3° Un représentant des assurés.
+3° Un représentant des assurés ;
+
+4° Un représentant du fonds de garantie institué par l'article L. 423-1..
 
 Les membres de la commission visés aux 2° et 3° du présent article sont nommés par arrêté du ministre chargé de l'économie et
 des finances.
@@ -34784,11 +34805,16 @@ En cas de partage égal des voix, la voix du président est prépondérante.
 
 	**Modifié par**:
 
-	  - Décret n°90-993 du 7 novembre 1990 - art. 1 () JORF 8 novembre 1990
+	  - Décret n°99-688 du 3 août 1999 - art. 4 () JORF 6 août 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
 
 	**Cite**:
 
 	  - Code des assurances - art. L411-3 (M)
+	  - Code des assurances - art. L423-1 (V)
 
 
 ###### Article R*411-11
@@ -34975,7 +35001,8 @@ ministre chargé de l'économie et des finances.
 
 3° Les douze représentants des professions de l'assurance comprennent :
 
-- huit représentants des entreprises d'assurance désignés sur proposition des organismes représentatifs de la profession ;
+- huit représentants des entreprises d'assurance, dont le président du conseil de surveillance du fonds de garantie institué
+par l'article L. 423-1 et sept autres représentants désignés sur proposition des organismes représentatifs de la profession ;
 
 - deux représentants des agents généraux d'assurance et deux représentants des courtiers d'assurance désignés respectivement
 sur proposition des organisations syndicales représentatives.
@@ -35001,7 +35028,7 @@ III. - En cas d'empêchement, le directeur chargé des assurances est représent
 
 	**Modifié par**:
 
-	  - Décret n°90-993 du 7 novembre 1990 - art. 1 () JORF 8 novembre 1990
+	  - Décret n°99-688 du 3 août 1999 - art. 3 () JORF 6 août 1999
 
 	**Liens**:
 
@@ -35021,7 +35048,8 @@ III. - En cas d'empêchement, le directeur chargé des assurances est représent
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances L310-1, L411
+	  - Code des assurances - art. L423-1 (V)
+	  - Code des assurances L310-1, L411, L423-1
 
 
 ###### Article R411-2
@@ -38099,6 +38127,541 @@ le fonds de garantie dans les conditions prévues à l'article R. 50-24 du même
 	**Créé par**:
 
 	  - Loi n°90-1211 1990-12-21 art. 12, art. 16 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
+
+#### Chapitre III : Fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes.
+
+###### Article R423-1
+
+Le fonds de garantie des assurés institué par l'article L. 423-1 ne peut refuser l'adhésion d'une entreprise  d'assurance
+mentionnée au même article, agréée dans les conditions prévues aux articles L. 321-1, L. 321-7 ou L. 321-9.
+
+L'adhésion au fonds ne prend fin qu'en cas de retrait, de cessation ou de caducité de l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L321-9 (M)
+	  - Code des assurances - art. L423-1 (V)
+
+
+###### Article R423-2
+
+Les assurés, souscripteurs de contrats, adhérents et bénéficiaires de prestations relevant des branches d'assurances 1, 2, 20
+à 26 définies à l'article R. 321-1 souscrits auprès d'entreprises adhérentes bénéficient du fonds de garantie des assurés.
+
+Il est interdit d'utiliser à des fins publicitaires le fait que des contrats d'assurance sont couverts par le mécanisme de
+garantie institué à l'article L. 423-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L423-1 (V)
+	  - Code des assurances R321-1, L423-1
+
+
+###### Article R423-3
+
+Le collège institué à l'article L. 423-2 est composé du directeur du Trésor, du président de la commission de contrôle des
+assurances et du président du conseil de surveillance du fonds de garantie des assurés, ou de leurs représentants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L423-2 (M)
+
+
+###### Article R423-4
+
+La commission de contrôle des assurances peut retenir un taux de réduction différent par ensemble de contrats présentant les
+mêmes caractéristiques. Tous les contrats d'un même ensemble ont le même taux de réduction.
+
+Si la commission de contrôle décide le transfert de tout ou partie des contrats à une ou plusieurs entreprises, elle fait
+procéder, aux frais de l'entreprise défaillante, à l'évaluation des actifs de cette dernière, afin de procéder à leur
+attribution. La commission de contrôle notifie à chaque entreprise cessionnaire la liste des actifs accompagnant le transfert
+de portefeuille.
+
+Si la commission de contrôle estime que les taux de réduction proposés sont excessifs, elle peut, sur le fondement de
+l'évaluation mentionnée à l'alinéa précédent, demander aux entreprises ayant répondu à l'appel d'offres d'améliorer leur
+offre dans un délai qu'elle fixe. En l'absence de réponse satisfaisante, elle peut rejeter leur candidature.
+
+Si l'entreprise défaillante pratiquait les opérations relevant du chaptire Ier du livre IV du présent code, les actifs
+affectés à ces opérations sont attribués aux cessionnaires des engagements correspondants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+
+###### Article R423-5
+
+L'entreprise cessionnaire présente au fonds de garantie des assurés la demande de versement prévue au premier alinéa de
+l'article L. 423-3 dont elle calcule le montant sur la base des engagements arrêtés à la date de publication au Journal
+officiel du transfert de portefeuille et des actifs accompagnant ce transfert. Dans un délai de deux mois à compter de la
+date de la réception de cette demande, le fonds, après avoir vérifié que les contrats sont couverts par la garantie et
+contrôlé le montant garanti par contrat, notifie à l'entreprise cessionnaire le montant de la somme qui lui est due et qu'il
+lui verse en une seule fois.
+
+A titre exceptionnel, la commission de contrôle des assurances peut, sur la demande du fonds de garantie, lui accorder une
+prolongation, qui ne saurait être supérieure à trois mois, du délai prévu à l'alinéa précédent.
+
+Les sommes dues par le fonds de garantie et non versées portent intérêt aux taux éventuellement prévus dans les contrats
+transférés à compter de la date d'expiration du délai imparti au fonds pour en effectuer le versement.
+
+L'entreprise cessionnaire informe chaque assuré, souscripteur de contrats, adhérent ou bénéficiaire de prestations, du
+montant de la reconstitution, effectuée par le fonds, de la provision attachée à son contrat.
+
+Le cas échéant, le fonds de garantie dispose d'un délai de deux mois à compter de la date de versement prévue au présent
+article pour présenter à l'entreprise cessionnaire une demande de reversement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L423-3 (M)
+
+
+###### Article R423-6
+
+Le liquidateur demande au fonds de garantie des assurés le versement prévu au deuxième alinéa de l'article L. 423-3, qu'il
+calcule sur la base des engagements arrêtés à la date de cessation des effets des contrats, déterminée dans les conditions
+prévues aux articles L. 326-12 et L. 326-13. Dans un délai de deux mois à compter de la date de réception de cette demande,
+le fonds, après avoir vérifié que les contrats sont couverts par la garantie et contrôlé le montant garanti par contrat,
+procède à un versement en une seule fois au profit de chaque assuré, souscripteur de contrats, adhérent ou bénéficiaire de
+prestations contre la remise par celui-ci d'un récépissé du versement.
+
+A titre exceptionnel, la commission de contrôle des assurances peut, sur la demande du fonds de garantie, lui accorder une
+prolongation, qui ne saurait être supérieure à trois mois, du délai prévu à l'alinéa précédent.
+
+Le fonds met en oeuvre la garantie, selon la même procédure, si le liquidateur présente une demande complémentaire de
+versement en apportant la preuve que des assurés, souscripteurs de contrats, adhérents ou bénéficiaires de prestations
+concernés n'ont pas été en mesure de présenter à temps les contrats susceptibles de bénéficier de la garantie.
+
+Les sommes dues par le fonds de garantie et non versées portent intérêt au taux légal, à compter de la date d'expiration du
+délai imparti au fonds pour en effectuer le versement.
+
+Le cas échéant, le fonds de garantie dispose d'un délai de deux mois à compter de la date de versement prévue au premier
+alinéa du présent article pour présenter à l'assuré, souscripteur de contrats, adhérent ou bénéficiaire de prestations
+concerné une demande de reversement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L326-12 (M)
+	  - Code des assurances - art. L326-13 (M)
+	  - Code des assurances - art. L423-3 (M)
+
+
+###### Article R423-7
+
+L'ensemble des provisions représentatives des droits résultant des contrats d'assurance, des bons ou contrats de
+capitalisation, afférentes à un même assuré, souscripteur ou bénéficiaire de contrats d'assurance et de capitalisation, est
+reconstitué :
+
+1° Intégralement pour les prestations dues et échues à la date de notification mentionnée au I de l'article L. 423-2 ;
+
+2° Intégralement pour les prestations des contrats des branches 1 et 2 mentionnées à l'article R. 321-1 dues et échues entre
+la date de notification prévue au I de l'article L. 432-2 et la date de publication du transfert des contrats ou de cessation
+des effets des contrats ;
+
+3° Jusqu'à concurrence d'un montant de provisions techniques de 70 000 euros pour les prestations déterminées par le ou les
+contrats à devoir ou à échoir après la date de notification prévue au I de l'article L. 423-2, sauf pour les prestations
+mentionnées au 4° ;
+
+4° Jusqu'à concurrence d'un montant de provisions techniques de 90 000 euros pour les rentes d'incapacité ou d'invalidité et
+les rentes résultant de contrats d'assurance en cas de décès, à devoir ou à échoir après la date de notification prévue au I
+de l'article L. 423-2, sans préjudice des dispositions prévues au 2°.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L423-2 (M)
+	  - Code des assurances - art. L432-2 (M)
+	  - Code des assurances L423-2, R321-1, L432-2
+
+
+###### Article R423-8
+
+Dès la notification prévue au I de l'article L. 423-2, l'entreprise défaillante informe chaque assuré, souscripteur de
+contrats, adhérent ou bénéficiaire de prestations de la procédure en cours.
+
+Les formalités à remplir par l'entreprise cessionnaire du portefeuille de contrats pour bénéficier du versement par le fonds
+de la garantie prévu au premier alinéa de l'article L. 423-3 sont précisées par le règlement intérieur du fonds de garantie.
+Celles qui devront être accomplies par le liquidateur en vue de permettre le versement de cette garantie aux assurés,
+souscripteurs de contrats, adhérents ou bénéficiaires de prestations sont également précisées par ce même règlement
+intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L423-2 (M)
+	  - Code des assurances - art. L423-3 (M)
+
+
+###### Article R423-9
+
+L'assuré, le souscripteur de contrats, l'adhérent, le bénéficiaire de prestations ou l'entreprise cessionnaire qui conteste
+une décision du fonds de garantie des assurés saisit la juridiction compétente du lieu de son domicile ou de son siège
+social.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+
+###### Article R423-10
+
+Pour l'élection des membres du conseil de surveillance du fonds de garantie des assurés, chaque entreprise adhérente dispose
+d'un nombre de voix proportionnel à la part de ses cotisations dans le montant global prévu au premier alinéa de l'article R.
+423-13.
+
+Au moins un tiers des membres du conseil de surveillance représentent des sociétés anonymes d'assurance et au moins un tiers
+représentent des sociétés d'assurance mutuelles.
+
+Les membres du conseil de surveillance du fonds de garantie sont élus pour une durée de cinq ans renouvelable.
+
+En cas de démission ou de décès d'un membre, il est procédé à une nouvelle désignation pour la durée du mandat restant à
+courir.
+
+Les statuts du fonds de garantie des assurés précisent en tant que de besoin les dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. R423-13 (M)
+
+
+###### Article R423-11
+
+Les statuts du fonds de garantie des assurés déterminent la composition du directoire, la durée du mandat de ses membres, les
+conditions de leur remplacement, ainsi que les modalités de convocation et de réunion des membres des organes dirigeants du
+fonds.
+
+Son règlement intérieur fixe les conditions de fonctionnement du fonds, de versement des sommes dues aux assurés,
+souscripteurs de contrats, adhérents ou bénéficiaires de prestations, ou aux entreprises cessionnaires, et de recouvrement
+des cotisations des entreprises adhérentes et des pénalités de retard prévues à l'article L. 423-7, ainsi que les règles
+relatives à la tenue de la comptabilité du fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L423-7 (V)
+
+
+###### Article R423-12
+
+Les décisions du fonds de garantie des assurés sont communiquées au ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+
+###### Article R423-13
+
+Sous réserve des dispositions de l'article R. 423-15, le fonds doit disposer en permanence d'un montant global de ressources
+égal à 0,05 % du total des provisions mathématiques constatées au 31 décembre de l'année précédente pour l'ensemble des
+entreprises mentionnées à l'article L. 423-1. Le montant global est constitué par les entreprises adhérentes, après déduction
+des ressources propres du fonds qui comprennent les produits financiers, pour moitié par des cotisations versées au fonds et
+pour moitié par des cotisations non versées prenant la forme de réserves pour fonds de garantie.
+
+Le fonds de garantie notifie à chaque entreprise adhérente le montant de sa cotisation annuelle qui correspond à sa quote-
+part du montant global prévu au premier alinéa. Cette quote-part est égale au pourcentage que représentent ses provisions
+techniques constatées au 31 décembre de l'année précédente, après un abattement des trois quarts pour les provisions des
+contrats en unités de compte, dans les provisions techniques de l'ensemble des entreprises adhérentes calculées avec le même
+abattement.
+
+La cotisation annuelle d'une entreprise ne peut être inférieure à 15 000 euros. Cette cotisation minimale est calculée, s'il
+y a lieu, pour l'ensemble des sociétés entrant dans le périmètre de consolidation d'un même groupe. Elle ne s'applique pas
+aux entreprises ayant moins de trois années d'activité au 1er janvier de l'année de calcul de la cotisation.
+
+Si le montant de sa cotisation de l'année est supérieur à celui de l'année précédente, chaque entreprise procède en une seule
+fois au versement au fonds et à la dotation à la réserve pour un montant égal à cette différence. Lorsque cette différence
+est négative, elle donne lieu, la même année, pour moitié à sa restitution par le fonds à l'entreprise concernée et pour
+moitié à une reprise par l'entreprise sur la réserve pour fonds de garantie.
+
+Les entreprises adhérentes disposent d'un délai de 10 jours ouvrés pour verser au fonds leur cotisation à compter de la
+réception de la notification prévue au deuxième alinéa. Le fonds de garantie informe la commission de contrôle de tout retard
+de versement de plus d'un mois ou de tout refus de versement d'une entreprise d'assurance, afin que la commission mette en
+oeuvre, le cas échéant, les procédures de sanctions prévues à l'article L. 310-18. La commission peut également engager une
+procédure de sanction si elle constate que l'entreprise n'a pas doté la réserve pour fonds de garantie du montant prévu.
+
+Les cotisations versées au fonds de garantie par les entreprises dont l'adhésion au fonds a pris fin ne peuvent faire l'objet
+d'un reversement par celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-688 1999-08-03 art. 7 (montant des cotisations annuelles pour 1999)
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cité par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 7 (V)
+	  - Code des assurances - art. R334-11 (M)
+	  - Code des assurances - art. R334-3 (M)
+	  - Code des assurances - art. R423-10 (V)
+	  - Code des assurances - art. R423-14 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L423-1 (V)
+	  - Code des assurances - art. R423-15 (M)
+
+
+###### Article R423-14
+
+Si le fonds de garantie des assurés intervient dans les conditions prévues à l'article L. 423-3, il utilise par priorité ses
+ressources disponibles, avant d'appeler, en tant que de besoin, les réserves pour fonds de garantie prévues à l'article R.
+423-13.
+
+Si la mise en jeu de la garantie du fonds excède le montant global prévu au premier alinéa de l'article R. 423-13, le fonds
+emprunte les sommes nécessaires à la préservation des droits des assurés, souscripteurs de contrats, adhérents ou
+bénéficiaires de prestations, dans la limite d'une fois ce montant global.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L423-3 (M)
+	  - Code des assurances - art. R423-13 (M)
+
+
+###### Article R423-15
+
+En cas d'intervention du fonds de garantie des assurés dans les conditions prévues à l'article L. 423-3, les entreprises
+reconstituent, au cours des trois années suivantes, le montant des sommes versées par le fonds par un versement
+complémentaire au fonds égal, pour chacune de ces trois années, au tiers des ressources disponibles utilisées par le fonds
+et, le cas échéant, par une dotation complémentaire de leur réserve pour fonds de garantie égale, pour chacune des trois
+années, au tiers du montant de cette réserve appelé par le fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L423-3 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R423-13 (V)
+
+
+###### Article R423-16
+
+Les réserves pour fonds de garantie sont admises comme éléments constitutifs de la marge de solvabilité des entreprises
+adhérentes dans les conditions prévues aux articles R. 334-3, R. 334-11 et R. 334-17, à hauteur de la part de cotisation
+versée par l'entreprise et non utilisée par le fonds.
+
+Les certificats d'association éventuellement émis dans les conditions prévues à l'article L. 423-7 viennent en diminution de
+la marge de solvabilité des entreprises qui les souscrivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+	**Cite**:
+
+	  - Code des assurances - art. L423-7 (V)
+	  - Code des assurances - art. R*334-17 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R334-11 (V)
+	  - Code des assurances - art. R334-3 (V)
+
+
+###### Article R423-17
+
+Le règlement intérieur du fonds de garantie des assurés détermine les conditions dans lesquelles celui-ci emprunte auprès de
+ses adhérents.
+
+Chaque emprunt doit être remboursé dans un délai maximal de six ans à compter de la date de sa souscription.
+
+La quote-part de chaque entreprise adhérente dans les emprunts du fonds vient en diminution de sa marge de solvabilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
+
+
+###### Article R423-18
+
+Une provision pour risques et charges est constituée dans la comptabilité du fonds de garantie des assurés pour enregistrer
+les cotisations versées par les entreprises adhérentes, les produits financiers générés par ces cotisations, et toutes autres
+ressources du fonds, sous déduction de ses frais de gestion.
+
+Le montant de cette provision est investi dans :
+
+1° Des valeurs cotées sur un marché réglementé d'instruments financiers d'un Etat membre de l'Union européenne, à l'exclusion
+des valeurs émises par une entreprise adhérente au fonds de garantie ;
+
+2° Des valeurs émises ou garanties par un Etat membre de l'Union européenne ;
+
+3° Des liquidités ;
+
+4° Des actions de sociétés d'investissement à capital variable et des parts de fonds communs de placement détenant
+exclusivement des actifs relevant des 1°, 2° et 3°.
+
+Les placements sont comptabilisés au prix d'achat et les moins-values provisionnées ligne par ligne.
+
+La provision ne peut être investie à hauteur de plus de 5 % dans des valeurs émises par un même organisme, à l'exception des
+valeurs émises ou garanties par un Etat membre de l'Union européenne.
+
+Les liquidités doivent représenter à tout instant au moins 20 % des actifs du fonds.
+
+Les valeurs et liquidités du fonds de garantie sont déposées auprès d'établissements de crédit ou d'entreprises
+d'investissement régulièrement habilités par un Etat membre de l'Union européenne. Aucun de ces établissements ou entreprises
+ne peut détenir plus de 10 % du montant de la provision.
+
+La comptabilité du fonds doit permettre de distinguer le montant des cotisations versées par les entreprises adhérentes, le
+montant cumulé des produits financiers des cotisations et les autres ressources du fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Créé par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
 
 
 ### Titre II : Les fonds de garantie
