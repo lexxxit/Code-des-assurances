@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-12-01
+Version Consolidée au 1991-01-01
 
 # Partie législative
 
@@ -2008,20 +2008,16 @@ réassurance en raison des conditions d'assurance fixées par le bureau central 
 
 ###### Article L126-1
 
-Les victimes d'actes de terrorisme commis sur le territoire national et les personnes de nationalité française ayant leur
-résidence habituelle en France, ou résidant habituellement hors de France et régulièrement immatriculées auprès des autorités
-consulaires, victimes à l'étranger d'un acte de terrorisme, sont indemnisées dans les conditions définies aux articles L.
-422-1 à L. 422-3.
+Les victimes d'actes de terrorisme commis sur le territoire national et les personnes de nationalité française victimes à
+l'étranger de ces mêmes actes, sont indemnisées dans les conditions définies aux articles L. 422-1 à L. 422-3.
+
+La réparation peut être refusée ou son montant réduit à raison de la faute de la victime.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°88-260 1988-03-18
-
-	**Créé par**:
-
-	  - Décret n°88-260 du 18 mars 1988 - art. 1 () JORF 20 mars 1988
 
 	**Cité par**:
 
@@ -2030,6 +2026,10 @@ consulaires, victimes à l'étranger d'un acte de terrorisme, sont indemnisées 
 	  - Code de procédure pénale - art. 706-3 (V)
 	  - Code des assurances - art. L422-1 (V)
 	  - Code des assurances - art. R422-6 (M)
+
+	**Modifié par**:
+
+	  - Loi n°90-589 du 6 juillet 1990 - art. 12 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
 
 	**Cite**:
 
@@ -11348,12 +11348,12 @@ Un décret en Conseil d'Etat fixe les conditions d'adaptation de la présente se
 	  - TXT_ASSOCIE: Code des assurances R420-64 à R420-70
 
 
-#### Chapitre II : Le fonds de garantie contre les actes de terrorisme.
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
 
 ###### Article L422-1
 
-La réparation intégrale des dommages corporels résultant des actes mentionnés à l'article L. 126-1 est assurée par
-l'intermédiaire du fonds de garantie contre les actes de terrorisme.
+Pour l'application de l'article L. 126-1, la réparation intégrale des dommages résultant d'une atteinte à la personne est
+assurée par l'intermédiaire du fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
 
 Ce fonds, doté de la personnalité civile, est alimenté par un prélèvement sur les contrats d'assurance de biens dans des
 conditions définies par décret en Conseil d'Etat, qui fixe en outre ses conditions de constitution et ses règles de
@@ -11369,13 +11369,17 @@ réparation totale ou partielle, dans la limite du montant des prestations à la
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1998-10-12 art. 1 (contribution au Fonds de garantie pour 1999)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1991
+	  - TXT_SOURCE: Arrêté du 3 juillet 1991 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1991 - art. 2 (V)
+	  - TXT_SOURCE: Code des assurances - art. R422-1 (V)
+
 	**Codifié par**:
 
 	  - Décret n°88-260 1988-03-18
-
-	**Créé par**:
-
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
 
 	**Cité par**:
 
@@ -11398,12 +11402,11 @@ réparation totale ou partielle, dans la limite du montant des prestations à la
 	  - Code des assurances - art. R422-5 (V)
 	  - Code général des impôts, CGI. - art. 1628 quinquies (M)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Arrêté du 3 juillet 1991
-	  - TXT_SOURCE: Arrêté du 3 juillet 1991 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 3 juillet 1991 - art. 2 (V)
-	  - TXT_SOURCE: Code des assurances - art. R422-1 (V)
+	  - Loi n°90-589 du 6 juillet 1990 - art. 13 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 14 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 18 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
 
 
 ###### Article L422-2
@@ -11425,9 +11428,10 @@ insuffisantes peuvent ouvrir droit à des dommages et intérêts au profit de la
 
 	  - Décret n°88-260 1988-03-18
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
+	  - Loi n°90-589 du 6 juillet 1990 - art. 13 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 18 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
 
 	**Cité par**:
 
@@ -11435,10 +11439,6 @@ insuffisantes peuvent ouvrir droit à des dommages et intérêts au profit de la
 	  - Code de la sécurité sociale. - art. L169-1 (V)
 	  - Code de la sécurité sociale. - art. L169-10 (V)
 	  - Code de la sécurité sociale. - art. L169-4 (V)
-
-	**Cite**:
-
-	  - Code des assurances L211-15 à L211-18
 
 
 ###### Article L422-3
@@ -11455,13 +11455,33 @@ contre le fonds de garantie.
 
 	  - Décret n°88-260 1988-03-18
 
+	**Modifié par**:
+
+	  - Loi n°90-589 du 6 juillet 1990 - art. 13 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 18 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+
+
+###### Article L422-4
+
+Les indemnités allouées en application des articles 706-3 à 706-14 du code de procédure pénale (1) par la commission
+instituée par l'article 706-4 de ce code sont versées par le fonds de garantie des victimes des actes de terrorisme et
+d'autres infractions.
+
+**Nota:**
+
+(1) : L'article 706-13 du code de procédure pénale a été abrogé par la loi n° 90-589 du 6 juillet 1990 art. 17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
 	**Créé par**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-
-	**Cite**:
-
-	  - Code civil - art. 2270-1 (M)
+	  - Loi n°90-589 du 6 juillet 1990 - art. 13 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 15 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 18 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
 
 
 ### Titre III : Organismes particuliers d'assurance
@@ -36883,65 +36903,7 @@ présent chapitre sont applicables à l'indemnisation des accidents d'automobile
 	  - Code des assurances R420-70
 
 
-#### Chapitre II : Le fonds de garantie contre les actes de terrorisme
-
-###### Article R422-1
-
-Le Fonds de garantie contre les actes de terrorisme institué par l'article L. 422-1 est géré par un conseil d'administration
-qui comprend : 
-
-1° Un président nommé par arrêté conjoint du ministre chargé de l'économie et des finances et du garde des sceaux, ministre
-de la justice, parmi les membres en activité ou honoraires du Conseil d'Etat ayant au moins atteint le grade de conseiller
-d'Etat ou parmi les membres en activité ou honoraires de la Cour de cassation ayant au moins atteint le grade de conseiller
-ou d'avocat général ; 
-
-2° Un représentant du ministre chargé de l'économie et des finances, nommé par arrêté ; 
-
-3° Un représentant du ministre de la justice, nommé par arrêté ; 
-
-4° Un représentant du ministre de l'intérieur, nommé par arrêté ; 
-
-5° Un représentant du ministre chargé de la sécurité sociale, nommé par arrêté ; 
-
-6° Trois personnes ayant manifesté leur intérêt pour les victimes d'actes de terrorisme, nommées par arrêté conjoint du
-ministre chargé de l'économie et des finances, du ministre de la justice, du ministre de l'intérieur et du ministre chargé de
-la sécurité sociale ; 
-
-7° Un professionnel du secteur de l'assurance, nommé par arrêté du ministre chargé de l'économie et des finances. 
-
-Le président et les membres du conseil d'administration ont chacun un suppléant nommé dans les mêmes conditions. 
-
-Le président, les membres du conseil d'administration et les suppléants sont nommés pour une période de trois ans
-renouvelable. 
-
-En cas de vacance, un remplaçant est nommé dans les mêmes conditions que son prédécesseur pour la durée du mandat restant à
-courir. 
-
-Le conseil d'administration se réunit sur convocation de son président aussi souvent que l'intérêt des victimes d'actes de
-terrorisme l'exige et au moins une fois par trimestre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°88-261 1988-03-18
-
-	**Modifié par**:
-
-	  - Décret n°89-800 du 27 octobre 1989 - art. 1 () JORF 1er novembre 1989
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L422-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L422-1 (V)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R422-10 (V)
-
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
 
 ###### Article R422-2
 
@@ -36954,9 +36916,11 @@ ministre chargé des assurances.
 
 	  - Décret n°88-261 1988-03-18
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+	  - Loi n°90-1211 1990-12-21 art. 12 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 13 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 18 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
 
 
 ###### Article R422-3
@@ -36966,7 +36930,7 @@ exercer en son nom un contrôle sur l'ensemble de la gestion du fonds. Le commis
 les réunions du conseil d'administration. Il peut se faire présenter tous les livres et documents comptables.
 
 Les décisions prises par le conseil d'administration ou par les autorités auxquelles il accorde délégation sont exécutoires
-dans un délai de quinze jours à dater de la décision si le commissaire du Gouvernement ne signifie pas soit qu'il approuve
+dans un délai de quinze jours à dater de la décision si le commissaire du Gouvernement ne signifie pas, soit qu'il approuve
 immédiatement, soit qu'il s'oppose à la décision. Toutefois, le délai ci-dessus est ramené à cinq jours en ce qui concerne
 les décisions ne comportant pas un engagement financier pour le fonds.
 
@@ -36976,9 +36940,11 @@ les décisions ne comportant pas un engagement financier pour le fonds.
 
 	  - Décret n°88-261 1988-03-18
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+	  - Loi n°90-1211 1990-12-21 art. 12 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 13 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 18 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
 
 
 ###### Article R422-4
@@ -36994,13 +36960,19 @@ Le taux de la contribution est fixé, chaque année, par arrêté du ministre ch
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1998-10-12 art. 1 (contribution au Fonds de garantie pour 1999)
+
 	**Codifié par**:
 
 	  - Décret n°88-261 1988-03-18
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+	  - Loi n°90-589 du 6 juillet 1990 - art. 13 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 18 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-1211 1990-12-21 art. 12 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 	**Cité par**:
 
@@ -37030,9 +37002,11 @@ des catégories de placements est rapporté au montant des avoirs disponibles du
 
 	  - Décret n°88-261 1988-03-18
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+	  - Loi n°90-589 du 6 juillet 1990 - art. 13 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 18 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-1211 1990-12-21 art. 12 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 	**Cite**:
 
@@ -37057,7 +37031,9 @@ assiste les victimes dans la constitution de leur dossier d'indemnisation.
 
 	**Modifié par**:
 
-	  - Décret n°89-800 du 27 octobre 1989 - art. 2 () JORF 1er novembre 1989
+	  - Loi n°90-1211 1990-12-21 art. 12 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 13 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°90-589 du 6 juillet 1990 - art. 18 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
 
 	**Cité par**:
 
@@ -37066,9 +37042,9 @@ assiste les victimes dans la constitution de leur dossier d'indemnisation.
 
 ###### Article R422-7
 
-En cas d'examen médical pratiqué à la demande du fonds de garantie, celui-ci informe la victime quinze jours au moins avant
-la date de l'examen de l'identité et des titres du médecin chargé d'y procéder, de l'objet, de la date et du lieu de
-l'examen. Il lui fait savoir également qu'elle peut se faire assister d'un médecin de son choix.
+En cas d'examen médical pratiqué sur la victime d'un acte de terrorisme à la demande du fonds de garantie, celui-ci l'informe
+quinze jours au moins avant la date de l'examen de l'identité et des titres du médecin chargé d'y procéder, de l'objet, de la
+date et du lieu de l'examen. Il lui fait savoir également qu'elle peut se faire assister d'un médecin de son choix.
 
 Le rapport du médecin doit être adressé dans les vingt jours au fonds de garantie, à la victime et, le cas échéant, au
 médecin qui l'a assistée.
@@ -37079,23 +37055,24 @@ médecin qui l'a assistée.
 
 	  - Décret n°88-261 1988-03-18
 
-	**Créé par**:
-
-	  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. D169-3 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. R152-5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°90-1211 1990-12-21 art. 12, art. 14 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 
 ###### Article R422-8
 
-L'offre d'indemnisation indique l'évaluation retenue par le Fonds pour chaque chef de préjudice et le montant des indemnités
-qui reviennent à la victime compte tenu des prestations énumérées à l'article 29 de la loi n° 85-677 du 5 juillet 1985 et des
-indemnités de toute nature reçues ou à recevoir d'autres débiteurs du chef du même préjudice. Elle est accompagnée, le cas
-échéant, de la copie des décomptes produits par les personnes ou organismes débiteurs de ces prestations ou indemnités. Elle
-comporte les mentions prévues par l'article L. 211-16.
+L'offre d'indemnisation des dommages résultant d'une atteinte à la personne faite à la victime d'un acte de terrorisme
+indique l'évaluation retenue par le Fonds pour chaque chef de préjudice et le montant des indemnités qui reviennent à la
+victime compte tenu des prestations énumérées à l'article 29 de la loi n° 85-677 du 5 juillet 1985 et des indemnités de toute
+nature reçues ou à recevoir d'autres débiteurs du chef du même préjudice. Elle est accompagnée, le cas échéant, de la copie
+des décomptes produits par les personnes ou organismes débiteurs de ces prestations ou indemnités. Elle comporte les mentions
+prévues par l'article L. 211-16.
 
 **Liens relatifs à cet article**
 
@@ -37110,7 +37087,90 @@ comporte les mentions prévues par l'article L. 211-16.
 
 	**Modifié par**:
 
-	  - Décret n°89-800 du 27 octobre 1989 - art. 3 () JORF 1er novembre 1989
+	  - Loi n°90-1211 1990-12-21 art. 12, art. 15 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
+
+###### Article R422-9
+
+Les indemnités ou provisions allouées en application des articles 706-3 à 706-14 du code de procédure pénale sont versées par
+le fonds de garantie dans les conditions prévues à l'article R. 50-24 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R50-24 (M)
+	  - Code de procédure pénale 706-3 à 706-14, R50-24
+
+	**Créé par**:
+
+	  - Loi n°90-1211 1990-12-21 art. 12, art. 16 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
+
+### Titre II : Les fonds de garantie
+
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
+
+###### Article R422-1
+
+Le Fonds de garantie des victimes des actes de terrorisme et d'autres infractions institué par l'article L. 422-1 est géré
+par un conseil d'administration qui comprend : 
+
+1° Un président nommé par arrêté conjoint du ministre chargé de l'économie et des finances et du garde des sceaux, ministre
+de la justice, parmi les membres en activité ou honoraires du Conseil d'Etat ayant au moins atteint le grade de conseiller
+d'Etat ou parmi les membres en activité ou honoraires de la Cour de cassation ayant au moins atteint le grade de conseiller
+ou d'avocat général ; 
+
+2° Un représentant du ministre chargé de l'économie et des finances, nommé par arrêté ; 
+
+3° Un représentant du ministre de la justice, nommé par arrêté ; 
+
+4° Un représentant du ministre de l'intérieur, nommé par arrêté ; 
+
+5° Un représentant du ministre chargé de la sécurité sociale, nommé par arrêté ; 
+
+6° Trois personnes ayant manifesté leur intérêt pour les victimes d'actes de terrorisme et d'autres infractions, nommées par
+arrêté conjoint du ministre chargé de l'économie et des finances, du ministre de la justice, du ministre de l'intérieur et du
+ministre chargé de la sécurité sociale ; 
+
+7° Un professionnel du secteur de l'assurance, nommé par arrêté du ministre chargé de l'économie et des finances. 
+
+Le président et les membres du conseil d'administration ont chacun un suppléant nommé dans les mêmes conditions. 
+
+Le président, les membres du conseil d'administration et les suppléants sont nommés pour une période de trois ans
+renouvelable. 
+
+En cas de vacance, un remplaçant est nommé dans les mêmes conditions que son prédécesseur pour la durée du mandat restant à
+courir. 
+
+Le conseil d'administration se réunit sur convocation de son président aussi souvent que l'intérêt des victimes l'exige et au
+moins une fois par trimestre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L422-1 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L422-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R422-10 (V)
+
+	**Modifié par**:
+
+	  - Loi n°90-1211 1990-12-21 art. 12, art. 13 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 
 ### Titre III : Organismes particuliers d'assurance
