@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-09-15
+Version Consolidée au 1990-09-21
 
 # Partie législative
 
@@ -13402,9 +13402,9 @@ Plusieurs assureurs peuvent également s'engager par une police unique.
 
 #### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.
 
-###### Article R*112-1
+###### Article R112-1
 
-Les polices d'assurance des entreprises mentionnées au 5° de l'article L. 310-1 doivent indiquer :
+Les polices d'assurance des entreprises mentionnées au 5° de l'article L. 310-1 (1) doivent indiquer :
 
 - la durée des engagements réciproques des parties ;
 
@@ -13426,25 +13426,76 @@ Elles doivent rappeler les dispositions des titres Ier et II du livre Ier de la 
 la règle proportionnelle, lorsque celle-ci n'est pas inapplicable de plein droit ou écartée par une stipulation expresse, et
 la prescription des actions dérivant du contrat d'assurance.
 
-Les polices des sociétés d'assurance à forme mutuelle et des sociétés mutuelles d'assurance doivent constater la remise à
-l'adhérent du texte entier des statuts de la société.
+Les polices des sociétés d'assurance mutuelles doivent constater la remise à l'adhérent du texte entier des statuts de la
+société.
 
 Les polices d'assurance contre les accidents du travail doivent rappeler les dispositions légales relatives aux déclarations
 d'accidents et aux pénalités pouvant être encourues à ce sujet par les employeurs.
 
+**Nota:**
+
+Depuis la loi n° 94-5 du 4 janvier 1994, l'article L. 310-1 du code des assurances a été réécrit et le 5° a disparu.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 110
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°90-827 du 20 septembre 1990 - art. 1 () JORF 21 septembre 1990
+
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+
+
+###### Article R112-2
+
+Les dispositions des deux premiers alinéas de l'article L. 112-2 du code des assurances ne sont pas applicables aux contrats
+garantissant les risques définis au deuxième alinéa de l'article L. 351-4.
+
+Elles ne sont pas non plus applicables aux contrats d'assurance couvrant des risques liés à la villégiature, au camping, aux
+sports d'hiver, aux vacances et aux voyages, souscrits pour trois mois au plus et non renouvelables, ni aux contrats
+d'assurance de bagages valables pour un seul voyage, lorsque la prise d'effet de ces contrats intervient au plus tard
+quarante-huit heures après la proposition d'assurance mentionnée au quatrième alinéa de l'article L. 112-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-827 du 20 septembre 1990 - art. 2 () JORF 21 septembre 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L112-2 (M)
+	  - Code des assurances - art. L351-4 (M)
+
+
+###### Article R112-3
+
+La remise des documents visés au deuxième alinéa de l'article L. 112-2 est constatée par une mention signée et datée par le
+souscripteur apposée au bas de la police, par laquelle celui-ci reconnaît avoir reçu au préalable ces documents et précisant
+leur nature et la date de leur remise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-827 du 20 septembre 1990 - art. 2 () JORF 21 septembre 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L112-2 (V)
 
 
 #### Chapitre III : Obligations de l'assureur et de l'assuré.
@@ -14430,241 +14481,6 @@ applicables aux capitaux payables, escomptés financièrement au taux de 4 %.
 	**Cite**:
 
 	  - Code des assurances - art. R132-1 (M)
-
-
-### Titre IV : Les assurances de groupe
-
-#### Chapitre unique.
-
-###### Article R*140-1
-
-L'assurance de groupe est l'assurance d'un ensemble de personnes présentant des caractères communs et relevant des mêmes
-conditions techniques pour la couverture d'un ou plusieurs des risques suivants :
-
-- risques qui dépendent de la durée de la vie humaine ;
-
-- incapacité de travail résultant de maladie ou d'accident ;
-
-- remboursement des frais médicaux, pharmaceutiques ou chirurgicaux sans qu'il puisse en résulter un profit pour l'intéressé
-et, éventuellement, versement d'une indemnité en cas de maternité.    L'assurance de groupe ne peut être souscrite que par un
-ou plusieurs chefs d'entreprise ou personnes morales publiques ou privées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 120
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-827 du 20 septembre 1990 - art. 3 (V) JORF 21 septembre 1990
-
-
-###### Article R*140-2
-
-Les assurances de groupe en cas de décès sont régies par les dispositions du présent titre.
-
-L'assurance de groupe est dite à adhésion lorsqu'elle satisfait aux conditions suivantes :
-
-1° Etre souscrite, soit par un ou plusieurs établissements, entreprises ou organismes ayant un objet principal autre que
-cette souscription, soit par une association ou une société mutualiste groupant des personnes obligées de contracter une
-assurance déterminée ;
-
-2° Grouper 75 % au moins de l'effectif assurable ou 75 % au moins d'une fraction de celui-ci définie en fonction d'un critère
-objectif autre que l'âge, et notamment de la qualification, de l'ancienneté, du revenu professionnel ou de la classe ou
-catégorie de cotisations à un régime de retraite, du chiffre d'affaires ou de l'effectif des entreprises ou des salaires
-payés par elles ;
-
-3° Prévoir un capital assuré calculé d'après un critère objectif qui doit être le même pour tous ;
-
-4° Compter au moins vingt-cinq assurés. L'assureur peut, pour satisfaire à cette exigence, réunir plusieurs souscripteurs,
-l'ensemble des assurés présentés par chacun de ces souscripteurs remplissant les conditions mentionnées au 2° ;
-
-5° Prévoir une clause subordonnant la mise en vigueur du contrat et ses renouvellements à la réalisation des conditions ci-
-dessus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 121
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-827 du 20 septembre 1990 - art. 3 (V) JORF 21 septembre 1990
-
-
-###### Article R*140-3
-
-L'assurance de groupe est dite à adhésion facultative lorsqu'une ou plusieurs des conditions prévues à l'article R. 140-2 ne
-sont pas satisfaites.
-
-Dans ce cas, si l'effectif assurable du groupe considéré ne dépasse pas cent personnes, le nombre des assurés doit atteindre
-75 % de cet effectif et au moins cinquante personnes ; si l'effectif est compris entre cent et mille personnes, le nombre des
-assurés doit atteindre 50 % de cet effectif et au moins soixante-quinze personnes ; si l'effectif est égal ou supérieur à
-mille personnes, le nombre des assurés doit atteindre au moins cinq cents personnes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des assurances R140-2
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 122
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-827 du 20 septembre 1990 - art. 3 (V) JORF 21 septembre 1990
-
-
-###### Article R*140-4
-
-Sauf en cas de réticence, omission ou déclaration fausse ou inexacte faite de mauvaise foi par l'assuré, celui-ci ne peut
-être éliminé de l'assurance contre son gré tant qu'il fait partie de l'effectif assurable du groupe et à la condition que la
-prime ait été payée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 123
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-827 du 20 septembre 1990 - art. 3 (V) JORF 21 septembre 1990
-
-
-###### Article R*140-5
-
-Le contrat ne peut prévoir la réduction du montant des garanties en raison des résultats constatés.
-
-La police doit comporter une clause prévoyant que le souscripteur tient à la disposition des assurés une notice résumant
-d'une manière très précise leurs droits et obligations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 124
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-827 du 20 septembre 1990 - art. 3 (V) JORF 21 septembre 1990
-
-
-###### Article R*140-6
-
-Le mode de calcul de la prime globale doit être indiqué dans la police.
-
-Le contrat peut prévoir l'attribution d'une participation aux bénéfices de mortalité effectivement constatés au cours d'une
-période écoulée. Est interdite toute autre clause ou convention ayant pour effet de réduire la prime par rapport au tarif
-visé.
-
-Le contrat peut prévoir que la prime stipulée, ou à défaut une provision suffisante, sera payée d'avance. Les primes ou
-provisions s'appliquent à des périodes dont la durée est indiquée au contrat sans pouvoir dépasser un an.
-
-Sauf justification produite par l'assureur et conduisant à une estimation différente, la provision doit, pour être réputée
-suffisante, être calculée, d'une part, en supposant que chaque assuré est garanti pour le capital moyen de la dernière
-période inventorielle pour le groupe ou, à défaut, pour le capital le plus élevé stipulé en faveur d'un assuré sans charge de
-famille et, d'autre part, en appliquant le taux de prime définitif de ladite période ou, à défaut, celui visé pour l'âge de
-quarante-cinq ans.
-
-Une clause, mentionnée en caractères très apparents dans la police et dans la notice prévue au deuxième alinéa de l'article
-R. 140-5, prévoit que, dans les cas où il y aurait lieu à ajustement de la prime, celui-ci doit être effectué au plus tard
-dans les six mois qui suivent l'expiration de la période garantie. L'assureur ne peut renoncer au bénéfice de tout ou partie
-de cet ajustement sous quelque forme que ce soit.
-
-Les contrats ne peuvent entrer en vigueur que le lendemain à midi du versement de la première prime ou provision. A défaut du
-paiement à l'échéance d'une prime ou provision suffisante, l'assureur doit, au plus tard six mois après l'échéance de la
-prime impayée, adresser au souscripteur la lettre recommandée prévue au deuxième alinéa de l'article L. 113-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 125
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-827 du 20 septembre 1990 - art. 3 (V) JORF 21 septembre 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L113-3 (M)
-	  - Code des assurances R140-5, L113-3
-
-
-###### Article R*140-7
-
-Est interdite la souscription ou l'exécution par un assureur d'un contrat d'assurance de groupe non conforme aux dispositions
-du présent titre ou qui comporterait des clauses particulières y dérogeant.
-
-Les dispositions susmentionnées doivent être insérées dans les conditions générales soumises au visa du ministre de
-l'économie et des finances, conformément aux prescriptions du premier alinéa de l'article R. 310-6.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des assurances R310-6
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 126
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-827 du 20 septembre 1990 - art. 3 (V) JORF 21 septembre 1990
-
-
-###### Article R*140-8
-
-Les dispositions du présent titre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française,
-de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis-et-Futuna.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-827 du 20 septembre 1990 - art. 3 (V) JORF 21 septembre 1990
 
 
 ### Titre V : Le contrat de capitalisation.
