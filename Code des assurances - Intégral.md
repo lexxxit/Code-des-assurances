@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-06-01
+Version Consolidée au 2001-07-11
 
 # Partie législative
 
@@ -1733,11 +1733,13 @@ Les contrats d'assurance garantissant les dommages d'incendie ou tous autres dom
 les dommages aux corps de véhicules terrestres à moteur, ouvrent droit à la garantie de l'assuré contre les effets du vent dû
 aux tempêtes, ouragans et cyclones, sur les biens faisant l'objet de tels contrats, sauf en ce qui concerne les effets du
 vent dû à un événement cyclonique pour lequel les vents maximaux de surface enregistrés ou estimés sur la zone sinistrée ont
-atteint ou dépassé 145 km/h en moyenne sur dix minutes ou 215 km/h en rafales, qui relèvent des dispositions des articles L.
-125-1 et suivants du présent code.
+atteint ou dépassé 145 km/ h en moyenne sur dix minutes ou 215 km/ h en rafales, qui relèvent des dispositions des articles
+L. 125-1 et suivants du présent code. 
 
 Sont exclus les contrats garantissant les dommages d'incendie causés aux récoltes non engrangées, aux cultures et au cheptel
-vif hors bâtiments.
+vif hors bâtiments. 
+
+Sont également exclus les contrats garantissant les dommages d'incendie causés aux bois sur pied. 
 
 En outre, si l'assuré est couvert contre les pertes d'exploitation, cette garantie est étendue aux effets des tempêtes,
 ouragans ou cyclones, dans les conditions du contrat correspondant.
@@ -1750,7 +1752,7 @@ ouragans ou cyclones, dans les conditions du contrat correspondant.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1207 du 13 décembre 2000 - art. 13
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 68 () JORF 11 juillet 2001
 
 	**Cité par**:
 
@@ -1779,7 +1781,7 @@ ouragans ou cyclones, dans les conditions du contrat correspondant.
 
 	**Cite**:
 
-	  - Code des assurances - art. L125-1 (M)
+	  - Code des assurances - art. L125-1 (V)
 
 
 #### Chapitre III : Les assurances contre la grêle et la mortalité du bétail.
