@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-12-19
+Version Consolidée au 2003-12-24
 
 # Partie législative
 
@@ -30257,9 +30257,22 @@ l'entreprise. Il doit être tenu informé en permanence de l'élaboration du pro
 redressement ou du plan de financement à court terme exigés par la commission, se fait rendre compte de la mise en oeuvre des
 décisions et mesures qu'ils contiennent et veille à leur exécution.
 
-II. - Lorsque la gestion de l'entreprise ne lui paraît pas conforme aux intérêts des assurés, la commission de contrôle des
-assurances peut exiger que lui soit soumis pour approbation, dans le délai d'un mois, un programme de rétablissement
-prévoyant toutes mesures propres à restaurer l'équilibre de l'entreprise.
+II. - Lorsqu'elle estime que les droits des assurés sont menacés, la commission de contrôle peut exiger que lui soit remis
+pour approbation, dans le délai d'un mois, un programme de rétablissement prévoyant toutes mesures propres à restaurer
+l'équilibre de l'entreprise. Ce programme de rétablissement doit notamment comporter, pour les trois prochains exercices
+sociaux, une description détaillée des éléments suivants et être accompagné des justificatifs s'y rapportant :
+
+1. Une estimation prévisionnelle des frais de gestion, notamment des frais généraux courants et des commissions ;
+
+2. Un plan détaillant les prévisions de recettes et de dépenses, tant pour les affaires directes que pour les acceptations et
+les cessions en réassurance ;
+
+3. Un bilan prévisionnel ;
+
+4. Une estimation des ressources financières devant servir à la couverture des engagements et de l'exigence de marge de
+solvabilité ;
+
+5. La politique générale en matière de réassurance.
 
 **Liens relatifs à cet article**
 
@@ -30267,14 +30280,9 @@ prévoyant toutes mesures propres à restaurer l'équilibre de l'entreprise.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-	  - TXT_ASSOCIE: Code des assurances R328-1 *sanctions pénales*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 9 () JORF 26 juillet 1994
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 1 () JORF 24 décembre 2003
 
 	**Cite**:
 
@@ -30289,6 +30297,10 @@ prévoyant toutes mesures propres à restaurer l'équilibre de l'entreprise.
 	  - Code des assurances - art. R323-8 (M)
 	  - Code des assurances - art. R328-1 (V)
 	  - Code des assurances - art. R364-1 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances R328-1 (sanctions pénales)
 
 
 ###### Article R323-2
@@ -30505,6 +30517,65 @@ L'autorité administrative mentionnée à l'article L. 323-1 est la commission d
 	**Cite**:
 
 	  - Code des assurances - art. L323-1 (M)
+
+
+#### Chapitre III : Mesures de sauvegarde et d'assainissement
+
+##### Section I : Règles générales.
+
+###### Article R323-1-1
+
+I. - Après que lui a été communiqué le programme de rétablissement mentionné au II de l'article R. 323-1, la commission de
+contrôle peut exiger d'une entreprise d'assurance une marge de solvabilité renforcée, supérieure à l'exigence minimale de
+marge mentionnée soit à l'article R. 334-5 s'agissant des entreprises d'assurance de dommages, soit à l'article R. 334-13
+s'agissant des entreprises d'assurance sur la vie, soit à l'article R. 334-19 s'agissant des entreprises d'assurance mixtes.
+Le niveau de cette exigence de marge de solvabilité renforcée est déterminé par la commission de contrôle dans les conditions
+suivantes :
+
+Lorsqu'elle constate que les éléments constitutifs de la marge de solvabilité ont connu une baisse d'au moins 33 % au cours
+du dernier exercice clos par rapport à la moyenne de ces éléments constitutifs de la marge constatée au cours des quatre
+exercices précédant le dernier exercice, ou lorsqu'elle estime que les résultats du test d'exigibilité mentionné à l'article
+R. 344-4 font apparaître un risque de solvabilité, la commission de contrôle peut :
+
+1. Soit demander à l'entreprise de satisfaire, pour l'exercice en cours, à une exigence de marge de solvabilité renforcée.
+Toutefois, le niveau total de marge de solvabilité exigé ne peut être supérieur au double de l'exigence minimale de marge
+mentionnée aux articles R. 334-5, R. 334-13 ou R. 334-19 ;
+
+2. Soit demander à l'entreprise de déduire des éléments constitutifs de la marge de solvabilité tout ou partie du montant de
+la moins-value latente nette globale constatée sur les placements mentionnés à l'article R. 332-19 ;
+
+3. Soit demander à l'entreprise de déduire tout ou partie du montant de la moins-value latente nette globale constatée sur
+les actifs mentionnés à l'article R. 332-20 et non provisionné par la provision pour risque d'exigibilité ;
+
+4. Soit mettre en oeuvre de manière appropriée une combinaison des mesures précédentes.
+
+II. - Après que lui a été communiqué le programme de rétablissement mentionné au II de l'article R. 323-1, la commission de
+contrôle peut limiter la réduction de marge de solvabilité prévue au quatrième alinéa du a des articles R. 334-5, R. 334-13
+ou R. 334-19 et au quatrième alinéa du b des mêmes articles lorsque :
+
+1. Le contenu ou la qualité du programme de réassurance a subi des modifications sensibles depuis le dernier exercice ;
+
+2. Ou lorsque le programme de réassurance ne prévoit aucun transfert de risques ou un transfert insignifiant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 1 () JORF 24 décembre 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. R*323-1 (M)
+	  - Code des assurances - art. R*332-19 (M)
+	  - Code des assurances - art. R*332-20 (M)
+	  - Code des assurances - art. R*334-13 (M)
+	  - Code des assurances - art. R*334-19 (M)
+	  - Code des assurances - art. R*334-5 (M)
+	  - Code des assurances - art. R344-4 (V)
 
 
 #### Chapitre IV : Transfert de portefeuille
@@ -31200,9 +31271,9 @@ et à la diminution de leur revenu ;
 
 5° Provision pour aléas financiers : destinée à compenser la baisse de rendement de l'actif ;
 
-6° Provision pour risque d'exigibilité des engagements techniques : provision destinée à faire face à une insuffisante
-liquidité des placements, notamment en cas de modification du rythme de règlement des sinistres, calculée dans les conditions
-définies au premier alinéa de l'article R. 331-5-1 ;
+6° Provision pour risque d'exigibilité : provision destinée à faire face aux engagements dans le cas de moins-value de
+l'ensemble des actifs mentionnés à l'article R. 332-20. La provision à constituer est calculée dans les conditions définies
+au I de l'article R. 331-5-1 ;
 
 7° Provision pour frais d'acquisition reportés : provision destinée à couvrir les charges résultant du report des frais
 d'acquisition constaté en application de l'article R. 332-35 ;
@@ -31260,7 +31331,7 @@ Un engagement ne peut être provisionné qu'au titre d'une seule des catégories
 
 	**Modifié par**:
 
-	  - Décret n°95-153 du 7 février 1995 - art. 1 () JORF 14 février 1995
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 2 () JORF 24 décembre 2003
 
 	**Cite**:
 
@@ -31342,34 +31413,41 @@ clairement distinguées de la garantie qui en est l'objet principal.
 
 ###### Article R331-5-1
 
-La provision pour risque d'exigibilité des engagements techniques doit être constituée lorsque la valeur globale inscrite au
-bilan des placements visés à l'article R. 332-20 est supérieure à la valeur globale de ces mêmes placements évalués selon les
-règles prévues à l'article R. 332-20-1. La provision à constituer est égale à la différence constatée entre les deux
-évaluations. La commission de contrôle des assurances peut, à titre exceptionnel et en imposant toutes les conditions que
-comporte un tel ajournement, accorder aux entreprises dont la gestion n'est entachée d'aucune faute lourde, le délai
-strictement nécessaire pour constituer cette provision.
+I. - La provision pour risque d'exigibilité est constituée lorsque les placements mentionnés à l'article R. 332-20 se
+trouvent en situation de moins-value latente nette globale. Une moins-value latente nette globale des placements mentionnés à
+l'article R. 332-20 est constatée lorsque la valeur nette comptable de ces placements est supérieure à la valeur globale de
+ces mêmes placements évalués selon les règles prévues à l'article R. 332-20-1.
 
-Pour le calcul mentionné à l'alinéa précédent, les valeurs déterminées selon l'article R. 332-20-1 prennent en compte les
-moins-values latentes des opérations sur instruments financiers à terme prévues aux articles R. 332-45 à R. 332-47 ayant
+1° Lorsque l'entreprise, avant dotation à la provision pour risque d'exigibilité, satisfait à la représentation de ses
+engagements réglementés et à la couverture de l'exigence minimale de marge de solvabilité, la dotation annuelle à la
+provision pour risque d'exigibilité au titre de l'exercice est égale au tiers du montant de la moins-value latente nette
+globale constatée sur les placements mentionnés à l'article R. 332-20, sans que cette dotation puisse conduire à ce que le
+montant total de la provision inscrite au bilan au titre de l'exercice excède le montant de la moins-value nette globale
+constatée sur les placements mentionnés à l'article R. 332-20.
+
+2° Dans les autres cas, la provision pour risque d'exigibilité inscrite au bilan au titre de l'exercice est égale à la moins-
+value latente nette globale constatée sur les placements mentionnés à l'article R. 332-20.
+
+Pour les calculs mentionnés aux alinéas précédents, les valeurs déterminées selon l'article R. 332-20-1 prennent en compte
+les moins-values latentes des opérations sur instruments financiers à terme prévues aux articles R. 332-45 à R. 332-47 ayant
 comme sous-jacent les actifs mentionnés à l'article R. 332-20. Ces moins-values latentes sont prises en compte à hauteur de
-la partie excédant la valeur des titres ou espèces donnés en garantie.
+la partie excédant la valeur des titres ou espèces donnés en garantie. Les plus-values latentes ne sont prises en compte que
+si elles sont garanties dans les conditions prévues à l'article R. 332-56.
 
-Les plus-values latentes ne sont prises en compte que si elles sont garanties dans les conditions prévues à l'article R.
-332-56.
+II. - La provision pour frais d'acquisition reportés doit être constituée pour un montant égal au montant des frais
+d'acquisition reportés en application des dispositions de l'article R. 332-35.
 
-La provision pour frais d'acquisition reportés doit être constituée pour un montant égal au montant des frais d'acquisitions
-reportés en application des dispositions de l'article R. 332-35.
+**Nota:**
+
+art. 20 décret 2003-1236 2003-12-22 : Les modalités de constitution de la provision pour risque d'exigibilité définies au I
+de l'article R. 331-5-1 du code des assurances sont applicables dès le premier arrêté comptable suivant l'entrée en vigueur
+du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
-	  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
 
 	**Cité par**:
 
@@ -31385,7 +31463,7 @@ reportés en application des dispositions de l'article R. 332-35.
 
 	**Modifié par**:
 
-	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 2 () JORF 24 décembre 2003
 
 	**Cite**:
 
@@ -31468,19 +31546,17 @@ global de cette provision prévue à cet article, les primes pour attentat et te
 l'article R. 321-1 et agrégées dans les conditions définies à l'article A. 341-1 ;
 
 b) Provision destinée à compenser en assurance-crédit la perte technique éventuelle apparaissant à la fin de l'exercice, et
-calculée dans les conditions fixées à l'article R. 331-33 ;
-
-c) Provision destinée à faire face aux fluctuations de sinistralité afférentes aux opérations d'assurance de groupe contre
-les risques de dommages corporels.
+calculée dans les conditions fixées à l'article R. 331-33 ;L>    c) Provision destinée à faire face aux fluctuations de
+sinistralité afférentes aux opérations d'assurance de groupe contre les risques de dommages corporels ;
 
 7° Provision mathématique des réassurances : provision à constituer par les entreprises mentionnées aux 2° et 3° de l'article
 L. 310-1 qui acceptent en réassurance des risques cédés par des entreprises d'assurance sur la vie ou d'assurance nuptialité-
 natalité et égale à la différence entre les valeurs actuelles des engagements respectivement pris l'un envers l'autre par le
 réassureur et le cédant ;
 
-8° Provision pour risque d'exigibilité des engagements techniques : provision destinée à faire face à une insuffisante
-liquidité des placements, notamment en cas de modification du rythme de règlement des sinistres, calculée dans les conditions
-définies au premier alinéa de l'article R. 331-5-1.
+8° Provision pour risque d'exigibilité : provision destinée à faire face aux engagements dans le cas de moins-value de
+l'ensemble des actifs mentionnés à l'article R. 332-20. La provision à constituer est calculée dans les conditions définies
+au I de l'article R. 331-5-1.
 
 **Liens relatifs à cet article**
 
@@ -31493,8 +31569,9 @@ définies au premier alinéa de l'article R. 331-5-1.
 	  - Code des assurances - art. A341-1 (V)
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. R*331-1 (M)
+	  - Code des assurances - art. R331-33 (V)
 	  - Code des assurances - art. R331-5-1 (M)
-	  - Code des assurances R331-1, R321-1, A341-1, R331-33, L310-1, R331-5-1
+	  - Code des assurances R331-1, R321-1, A341-1, R331-33, L310-1, R331-5-1, R332-20
 
 	**Codifié par**:
 
@@ -31508,7 +31585,6 @@ définies au premier alinéa de l'article R. 331-5-1.
 	  - Code des assurances - art. A331-17 (V)
 	  - Code des assurances - art. A332-7 (M)
 	  - Code des assurances - art. R*331-22 (Ab)
-	  - Code des assurances - art. R331-33 (VT)
 	  - Code des assurances - art. R332-2 (M)
 	  - Code des assurances - art. R332-20 (M)
 	  - Code des assurances - art. R332-39 (V)
@@ -31516,7 +31592,7 @@ définies au premier alinéa de l'article R. 331-5-1.
 
 	**Modifié par**:
 
-	  - Décret n°2001-1280 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 3 () JORF 24 décembre 2003
 
 
 ##### Paragraphe 1 : Provision mathématique des rentes
@@ -34651,53 +34727,58 @@ République française.
 
 ###### Article R334-3
 
-La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, après déduction des pertes, de la part des frais
+I. - La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, après déduction des pertes, de la part des frais
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
-1. Le capital social versé ou le fonds d'établissement constitué.
+1. Le capital social versé ou le fonds d'établissement constitué ;
 
-2. La moitié de la fraction non versée du capital social ou de la part restant à rembourser de l'emprunt pour fonds
-d'établissement.
+2. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
+de capitalisation ;
 
-3. L'emprunt ou les emprunts pour fonds social complémentaire ; toutefois, à partir de la moitié de la durée d'un emprunt,
-celui-ci ne sera retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d'un montant
+3. Le report du bénéfice ou de la perte, déduction faite des dividendes à verser au titre du dernier exercice ;
+
+4. L'emprunt ou les emprunts pour fonds social complémentaire ; toutefois, à partir de la moitié de la durée d'un emprunt,
+celui-ci n'est retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d'un montant
 constant égal au double du montant total de cet emprunt divisé par le nombre d'années de sa durée.
 
-4. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
-de capitalisation.
+La marge de solvabilité est diminuée du montant de ses actions propres détenues directement par l'entreprise d'assurance.
 
-5. Les bénéfices reportés.
+II. - La marge de solvabilité peut également être constituée par :
 
-6. Les rappels de cotisations que les sociétés mutuelles d'assurance et les sociétés d'assurance à forme mutuelle à
-cotisations variables peuvent exiger de leurs sociétaires au titre de l'exercice, à concurrence de la moitié de la différence
-entre les cotisations maximales et les cotisations effectivement appelées ; toutefois, ces possibilités de rappel ne peuvent
-représenter d'une part, plus de 50 p. 100 de la marge prévue au présent article, d'autre part, plus de 50 p. 100 du montant
-réglementaire de la marge défini à l'article R. 334-5.
+1. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés.
 
-7. Sur demande et justification de l'entreprise et avec l'accord de la commission de contrôle des assurances, et des
-autorités de contrôle des Etats membres de la Communauté économique européenne où l'entreprise exerce son activité, les plus-
-values pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'éléments de passif, dans la mesure
-où de telles plus-values n'ont pas un caractère exceptionnel.
+Ces titres et emprunts doivent répondre aux conditions, notamment de durée et de remboursements, qui sont fixées par arrêté
+du ministre chargé de l'économie. La prise en compte de ces fonds est limitée à hauteur de 50 % de l'exigence de marge de
+solvabilité ou de la marge de solvabilité disponible, le montant le plus faible étant retenu. Toutefois, la prise en compte
+de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 %. Tout
+remboursement effectué irrégulièrement peut, conformément aux dispositions de l'article L. 310-18, donner lieu à application
+de sanctions par la commission de contrôle ;
 
-8. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés ; ces titres et emprunts
-doivent répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du ministre chargé de
-l'économie et des finances ; la prise en compte de ces fonds est admise jusqu'à concurrence de 50 p. 100 de la marge de
-solvabilité prévue au présent article ; toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou
-emprunts à durée déterminée n'est admise qu'à concurrence de 25 p. 100 de cette marge. Tout remboursement effectué
-irrégulièrement peut, conformément aux dispositions de l'article L. 310-18 du présent code, donner lieu à application de
-sanctions par la commission de contrôle des assurances.
+2. Pour les entreprises adhérentes au fonds de garantie institué par l'article L. 423-1, la réserve pour fonds de garantie
+prévue à l'article R. 423-16, à hauteur de la part de cotisation versée par l'entreprise et non utilisée par le fonds.
 
-9. Pour les entreprises adhérentes au fonds de garantie institué par l'article L. 423-1, la réserve pour fonds de garantie
-prévue à l'article R. 423-13, à hauteur de la part de cotisation versée par l'entreprise et non utilisée par le fonds.
+III. - Sur demande et justification de l'entreprise et avec l'accord de la commission de contrôle, la marge de solvabilité
+peut également être constituée par :
 
-10. Sur demande et justification de l'entreprise et avec l'accord de la Commission de contrôle des assurances, les plus-
-values latentes sur les instruments financiers à terme mentionnés aux articles R. 332-45 et R. 332-46, lorsque les opérations
-correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 332-2 ou réalisées de gré
-à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 332-56.
+1. La moitié de la fraction non versée du capital social ou de la part restant à rembourser de l'emprunt pour le fonds
+d'établissement, dès que la partie versée atteint 25 % de ce capital ou de ce fonds, à concurrence de 50 % du montant le plus
+faible de la marge de solvabilité ou de l'exigence minimale de marge de solvabilité ;
 
-Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés au 7 et au
-10.
+2. Les rappels de cotisations que les sociétés d'assurance mutuelle à cotisations variables peuvent exiger de leurs
+sociétaires au titre de l'exercice, à concurrence de la moitié de la différence entre les cotisations maximales et les
+cotisations effectivement appelées, dans la limite de 50 % de la marge de solvabilité ou de l'exigence minimale de marge, le
+montant le plus faible étant retenu ;
+
+3. Les plus-values pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'éléments de passif,
+dans la mesure où de telles plus-values n'ont pas un caractère exceptionnel ;
+
+4. Les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 332-45 et R. 332-46 lorsque les
+opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 332-2 ou
+réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 332-56.
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés au 3 et au
+4 du III.
 
 **Liens relatifs à cet article**
 
@@ -34705,13 +34786,9 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 5 () JORF 24 décembre 2003
 
 	**Cité par**:
 
@@ -34743,10 +34820,8 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 	  - Code des assurances - art. L423-1 (V)
 	  - Code des assurances - art. R*332-2 (M)
 	  - Code des assurances - art. R*332-45 (T)
-	  - Code des assurances - art. R*334-5 (M)
 	  - Code des assurances - art. R332-46 (M)
 	  - Code des assurances - art. R332-56 (V)
-	  - Code des assurances - art. R423-13 (M)
 
 
 ###### Article R334-4
@@ -34754,7 +34829,8 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 La marge de solvabilité applicable aux entreprises visées au 4° de l'article L. 310-2, mentionnée à l'article L. 334-1, est
 constituée par des actifs dont le montant, afférent aux opérations réalisées sur le territoire de la République française,
 est égal, après déduction des pertes, de la part des frais d'acquisition non admise en représentation des engagements
-réglementés et des autres éléments incorporels, au total des éléments définis aux 4, 5 et 7 de l'article R. 334-3.
+réglementés et des autres éléments incorporels, au total des éléments définis aux 2 et 3 du I et au 3 du III de l'article R.
+334-3.
 
 **Liens relatifs à cet article**
 
@@ -34762,13 +34838,9 @@ réglementés et des autres éléments incorporels, au total des éléments déf
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°2002-360 du 14 mars 2002 - art. 1 () JORF 17 mars 2002
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 6 () JORF 24 décembre 2003
 
 	**Cite**:
 
@@ -34781,49 +34853,52 @@ réglementés et des autres éléments incorporels, au total des éléments déf
 	  - Code des assurances - art. R334-42 (V)
 
 
-##### Paragraphe 2 : Montant réglementaire de la marge de solvabilité.
+##### Paragraphe 2 : Exigence minimale de marge de solvabilité
 
 ###### Article R334-5
 
-Pour les entreprises visées au 1° de l'article L. 310-2, le montant réglementaire de la marge de solvabilité est déterminé,
-soit par rapport au montant annuel des primes ou cotisations, soit par rapport à la charge moyenne annuelle des sinistres. Ce
-montant réglementaire est égal au plus élevé des résultats obtenus par application des deux méthodes suivantes :
+Pour les entreprises visées au 1° de l'article L. 310-2, l'exigence minimale de marge de solvabilité est déterminée, soit par
+rapport au montant annuel des primes ou cotisations, soit par rapport à la charge moyenne annuelle des sinistres. Cette
+exigence minimale de marge est égale au plus élevé des résultats obtenus par application des deux méthodes suivantes :
 
 a) Première méthode (calcul par rapport aux primes).
 
-Au total des primes ou cotisations émises en affaires directes au cours du dernier exercice, quel que soit l'exercice au
-titre duquel elles ont été émises, accessoires compris, sont ajoutées les primes acceptées en réassurance au cours du dernier
-exercice.
+La base des primes est calculée à partir des primes ou cotisations brutes émises ou des primes ou cotisations brutes
+acquises, le chiffre le plus élevé étant retenu. Les primes ou cotisations nettes d'annulation et de taxes pour les branches
+11, 12 et 13 énumérées à l'article R. 321-1 sont majorées de 50 %. Les primes ou cotisations émises dans le cadre des
+affaires directes au cours du dernier exercice, accessoires compris, sont agrégées. Il est ajouté à ce montant le total des
+primes acceptées en réassurance au cours du dernier exercice.
 
 De cette somme sont déduits, d'une part, le total des primes ou cotisations annulées au cours du dernier exercice, d'autre
 part, le total des impôts et taxes afférents aux primes ou cotisations précitées.
 
-Le montant obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 10 millions d'unités de compte de
-la Communauté économique européenne. A 18 p. 100 de la première tranche sont ajoutés 16 p. 100 de la seconde.
+Le montant obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 53 100 000 euros (1). A 18 % de la
+première tranche sont ajoutés 16 % de la seconde.
 
 Le résultat déterminé par application de la première méthode est obtenu en multipliant la somme des deux termes de l'addition
-prévue à l'alinéa précédent par le rapport existant, pour le dernier exercice, entre le montant des sinistres demeurant à
-charge de l'entreprise après cession en réassurance et le montant des sinistres brut de réassurance, sans que ce rapport
-puisse être inférieur à 50 p. 100.
+prévue à l'alinéa précédent par le rapport existant, pour les trois derniers exercices entre le montant des sinistres
+demeurant à la charge de l'entreprise après cession en réassurance et le montant des sinistres brut de réassurance, sans que
+ce rapport puisse être inférieur à 50 %.
 
 b) Deuxième méthode (calcul par rapport à la charge moyenne annuelle des sinistres).
 
 Au total des sinistres payés pour les affaires directes au cours des trois derniers exercices, sans déduction des sinistres à
 la charge des cessionnaires et rétrocessionnaires, sont ajoutés, d'une part, les sinistres payés au titre des acceptations en
 réassurance ou en rétrocession au cours des mêmes exercices, d'autre part, les provisions pour sinistres à payer constituées
-à la fin du dernier exercice, tant pour les affaires directes que pour les acceptations en réassurance.
+à la fin du dernier exercice, tant pour les affaires directes que pour les acceptations en réassurance. Pour les branches 11,
+12 et 13 énumérées à l'article R. 321-1, les sinistres, provisions et recours sont majorés de 50 %.
 
 De cette somme sont déduits, d'une part, les recours encaissés au cours des trois derniers exercices, d'autre part, les
 provisions pour sinistres à payer constituées au commencement du deuxième exercice précédant le dernier exercice, tant pour
 les affaires directes que pour les acceptations en réassurance.
 
-Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 7 millions d'unités
-de compte de la Communauté économique européenne. A 26 p. 100 de la première tranche sont ajoutés 23 p. 100 de la seconde.
+Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 37 200 000 euros
+(1). A 26 % de la première tranche sont ajoutés 23 % de la seconde.
 
 Le résultat déterminé par application de la deuxième méthode est obtenu en multipliant la somme des deux termes de l'addition
-prévue à l'alinéa précédent, par le rapport existant, pour le dernier exercice, entre le montant des sinistres demeurant à la
-charge de l'entreprise après cession en réassurance et le montant des sinistres brut de réassurance, sans que ce rapport
-puisse être inférieur à 50 p. 100.
+prévue à l'alinéa précédent, par le rapport existant, pour les trois derniers exercices, entre le montant des sinistres
+demeurant à la charge de l'entreprise après cession en réassurance et le montant des sinistres brut de réassurance, sans que
+ce rapport puisse être inférieur à 50 %.
 
 Pour la branche mentionnée au 18 de l'article R. 321-1, le montant des sinistres payés entrant dans le calcul du résultat
 déterminé par application de la seconde méthode est le coût résultant pour l'entreprise des interventions effectuées en
@@ -34832,19 +34907,26 @@ matière d'assistance, y compris les coûts d'assistance directs internes.
 Lorsqu'une entreprise pratique principalement un ou plusieurs des risques crédit, tempête, grêle, gelée, il est tenu compte
 pour le calcul de la charge moyenne annuelle des sinistres des sept derniers exercices sociaux au lieu des trois derniers.
 
+Si les calculs des a et b donnent un résultat inférieur à l'exigence minimale de marge de l'exercice précédent, l'exigence de
+marge de solvabilité est au moins égale à celle de l'exercice précédent multipliée par le rapport entre les provisions
+techniques pour sinistres à payer à la fin du dernier exercice et le montant des provisions techniques pour sinistres à payer
+au début du dernier exercice. Dans ces calculs, les provisions techniques sont calculées déduction faite de la réassurance,
+ce rapport ne pouvant cependant pas être supérieur à un.
+
+**Nota:**
+
+(1) Ces montants, applicables au 1er janvier 2008, ont été modifiés conformément à l'avis pris par l'Autorité de contrôle des
+assurances et des mutuelles paru au Journal officiel du 31 octobre 2007.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 7 () JORF 24 décembre 2003
 
 	**Cité par**:
 
@@ -34866,15 +34948,10 @@ pour le calcul de la charge moyenne annuelle des sinistres des sept derniers exe
 	  - Code des assurances - art. R334-9 (VD)
 	  - Code des assurances - art. R335-2 (VD)
 
-	**Cite**:
-
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances L310-2, R321-1
-
 
 ###### Article R334-6
 
-Pour les entreprises visées au 4° de l'article L. 310-2, le montant réglementaire de la marge de solvabilité est calculé,
+Pour les entreprises visées au 4° de l'article L. 310-2, l'exigence minimale de marge de solvabilité est calculée,
 conformément aux dispositions de l'article R. 334-5, à partir des primes ou cotisations et des sinistres résultant des
 opérations réalisées par ces entreprises sur le territoire de la République française.
 
@@ -34888,13 +34965,14 @@ européen.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 7 () JORF 24 décembre 2003
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 8 () JORF 24 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Cité par**:
 
@@ -34904,46 +34982,33 @@ européen.
 	  - Code des assurances - art. R334-11 (M)
 	  - Code des assurances - art. R334-17 (M)
 	  - Code des assurances - art. R334-19 (V)
-	  - Code des assurances - art. R334-22 (V)
+	  - Code des assurances - art. R334-22 (VT)
 	  - Code des assurances - art. R334-42 (V)
 
 	**Cite**:
 
-	  - Code des assurances - art. R*334-5 (M)
+	  - Code des assurances - art. R*334-5
 
 
 ##### Paragraphe 3 : Le fonds de garantie.
 
 ###### Article R334-7
 
-Le fonds de garantie des entreprises visées au 1° de l'article L. 310-2 agréées pour pratiquer une ou plusieurs des branches
-mentionnées aux 1 à 17 de l'article R. 321-1 est égal au tiers du montant réglementaire de la marge de solvabilité défini à
-l'article R. 334-5.
+Le fonds de garantie des entreprises mentionnées au 1° de l'article L. 310-2 agréées pour pratiquer une ou plusieurs des
+branches mentionnées aux 1 à 17 de l'article R. 321-1 est égal au tiers de l'exigence minimale de marge de solvabilité
+définie à l'article R. 334-5.
 
-Ce fonds ne peut être inférieur au montant minimal suivant :
+Ce fonds ne peut être inférieur à 2 300 000 euros (1). Toutefois, il ne peut être inférieur à 3 500 000 euros (1) pour les
+entreprises pratiquant tout ou partie des risques compris dans l'une des branches classées à l'article R. 321-1 sous les
+numéros 10 à 15. Pour les entreprises constituées sous la forme de sociétés d'assurance mutuelle ainsi que pour leurs unions,
+ces derniers montants sont respectivement fixés à 1 800 000 et 2 600 000 euros (1). Lorsqu'une entreprise est agréée pour
+pratiquer des opérations entrant dans plusieurs branches, seule est prise en considération pour le calcul du fonds de
+garantie la branche à laquelle correspond le montant le plus élevé.
 
-- 1 400 000 unités de compte de la Communauté économique européenne si l'entreprise est agréée pour pratiquer des opérations
-entrant dans la branche mentionnée au 14 de l'article R. 321-1 et si le montant annuel des primes ou cotisations émises dans
-cette branche pour chacun des trois derniers exercices a dépassé 2 500 000 unités de compte de la Communauté économique
-européenne ou 4 p. 100 du montant global des primes ou cotisations émises par cette entreprise ;
+**Nota:**
 
-- 400 000 unités de compte de la Communauté économique européenne lorsque l'entreprise est agréée pour pratiquer des
-opérations entrant dans une branche mentionnée aux 10 à 13 et au 15 de l'article R. 321-1. Il en est de même pour les
-opérations entrant dans la branche 14 lorsque les entreprises ne sont pas soumises à l'obligation ci-dessus définie de
-constituer un fonds de garantie de 1 400 000 unités de compte de la Communauté économique européenne.
-
-- 300.000 unités de compte de la Communauté économique européenne, lorsque l'entreprise est agréée pour pratiquer des
-opérations entrant dans une branche mentionnée aux 1 à 8, 16 à 18 du même article ;
-
-- 200.000 unités de compte de la Communauté économique européenne, lorsque l'entreprise est agréée pour pratiquer des
-opérations entrant dans une branche mentionnée aux 9 et 17 du même article.
-
-Toutefois, pour les entreprises constituées sous la forme de société d'assurance mutuelle ainsi que pour leurs unions, ces
-derniers montants sont respectivement fixés à 1 050 000, 300 000, 225 000 et 150 000 unités de compte de la Communauté
-économique européenne.
-
-Lorsqu'une entreprise est agréée pour pratiquer des opérations entrant dans plusieurs branches, seule est prise en
-considération pour le calcul du fonds de garantie la branche à laquelle correspond le montant le plus élevé.
+(1) Ces montants, applicables au 1er janvier 2010, ont été modifiés conformément à l'avis pris par l'Autorité de contrôle des
+assurances et des mutuelles paru au Journal officiel du 17 décembre 2009 (ACAX0900069V).
 
 **Liens relatifs à cet article**
 
@@ -34951,18 +35016,15 @@ considération pour le calcul du fonds de garantie la branche à laquelle corres
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 9 () JORF 24 décembre 2003
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. R*334-5 (M)
-	  - Code des assurances R321-1, R334-5
+	  - Code des assurances L310-2, R321-1, R334-5
 
 	**Cité par**:
 
@@ -34974,49 +35036,6 @@ considération pour le calcul du fonds de garantie la branche à laquelle corres
 	  - Code des assurances - art. R334-8 (V)
 	  - Code des assurances - art. R334-9 (VD)
 	  - Code des assurances - art. R334-9-1 (VD)
-
-
-###### Article R334-7-1
-
-Lorsqu'une entreprise pratiquant des opérations entrant dans la branche mentionnée au 14 de l'article R. 321-1 doit porter à
-1 400 000 unités de compte de la Communauté économique européenne le fonds de garantie mentionné à l'article R. 334-7, un
-délai de trois ans, cinq ans et sept ans lui est laissé pour porter le fonds de garantie à, respectivement, 1 000 000, 1 200
-000 et 1 400 000 unités de compte de la Communauté économique européenne.
-
-Le délai court à compter de la date à partir de laquelle les conditions mentionnées au premier tiret du deuxième alinéa de
-l'article R. 334-7 sont remplies.
-
-Le même délai de trois ans, cinq ans et sept ans est laissé, d'une part, aux sociétés constituées sous la forme de société
-d'assurance mutuelle ainsi qu'à leurs unions, mentionnées au troisième alinéa de l'article R. 334-7, pour porter le fonds de
-garantie à, respectivement, 750 000, 900 000 et 1 050 000 unités de compte de la Communauté économique européenne, d'autre
-part, aux entreprises étrangères, mentionnées à l'article R. 334-10, pour porter le fonds de garantie à, respectivement, 500
-000, 600 000 et 700 000 unités de compte de la Communauté économique européenne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-	  - SPEC_APPLI: Code des assurances - art. R*334-8 (M)
-	  - SPEC_APPLI: Code des assurances - art. R*334-9 (M)
-
-	**Créé par**:
-
-	  - Décret n°91-398 du 25 avril 1991 - art. 6 () JORF 27 avril 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1236 du 22 décembre 2003 - art. 9 () JORF 24 décembre 2003
-
-	**Cite**:
-
-	  - Code des assurances - art. R*334-10 (M)
-	  - Code des assurances - art. R*334-7 (M)
-	  - Code des assurances R321-1, R334-7, R334-10
 
 
 ###### Article R334-8
@@ -35095,7 +35114,7 @@ d) La moitié au moins de leurs cotisations sont versées par des personnes phys
 ###### Article R334-10
 
 Le fonds de garantie des entreprises visées au 4° de l'article L. 310-2, agréées pour pratiquer une ou plusieurs des branches
-mentionnées aux 1 à 18 de l'article R. 321-1, est égal au tiers du montant réglementaire de la marge de solvabilité défini à
+mentionnées aux 1 à 18 de l'article R. 321-1, est égal au tiers de l'exigence minimale de marge de solvabilité définie à
 l'article R. 334-6.
 
 Ce fonds ne peut être inférieur à la moitié du montant minimal mentionné au second alinéa de l'article R. 334-7.
@@ -35106,23 +35125,22 @@ Le cautionnement initial déposé conformément à l'article R. 321-12 s'impute 
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-667 du 16 juillet 1976
 
 	**Modifié par**:
 
-	  - Décret n°94-635 1994-07-25 art. 14 VI, VII JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 10 () JORF 24 décembre 2003
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. R*321-12 (M)
-	  - Code des assurances - art. R*334-7 (M)
-	  - Code des assurances L310-2, R321-1, R334-6, R334-7, R321-12
+	  - Code des assurances
+	  - Code des assurances - art. L310-2
+	  - Code des assurances - art. R*334-7
+	  - Code des assurances - art. R321-12
 
 	**Cité par**:
 
@@ -35137,50 +35155,55 @@ Le cautionnement initial déposé conformément à l'article R. 321-12 s'impute 
 
 ###### Article R334-11
 
-La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, après déduction des pertes, de la part des frais
+I. - La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, après déduction des pertes, de la part des frais
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
 1. Le capital social versé ou le fonds d'établissement constitué ;
 
-2. La moitié de la fraction non versée du capital ou de la part restant à rembourser de l'emprunt pour fonds
-d'établissement ;
-
-3. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
+2. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
 de capitalisation ;
 
-4. Les bénéfices reportés.
+3. Le report du bénéfice ou de la perte, déduction faite des dividendes à verser au titre du dernier exercice.
 
-5. Sur demande et justification de l'entreprise et avec l'accord de la commission de contrôle des assurances ;
+La marge de solvabilité est diminuée du montant de ses actions propres détenues directement par l'entreprise d'assurance.
 
-a) un montant représentant 50 % des bénéfices futurs de l'entreprise. Le montant des bénéfices futurs est obtenu en
-multipliant le bénéfice annuel estimé de l'entreprise par le facteur qui représente la durée résiduelle moyenne des contrats.
+II. - La marge de solvabilité peut également être constituée par :
 
-Un arrêté du ministre de l'Economie, des Finances et du Budget fixe les modalités de calcul du facteur mentionné à l'alinéa
-précédent ainsi que les éléments constitutifs du bénéfice annuel estimé ;
+1. Les fonds effectivement versés provenant de l'émission de titres ou emprunts subordonnés. Ces titres et emprunts doivent
+répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du ministre chargé de l'économie.
+La prise en compte de ces fonds est admise jusqu'à concurrence de 50 % du montant le plus faible de l'exigence de marge de
+solvabilité ou de la marge de solvabilité. Toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou
+emprunts à durée déterminée n'est admise qu'à concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement
+peut, conformément aux dispositions de l'article L. 310-18, donner lieu à application de sanctions par la commission de
+contrôle.
 
-b) avec l'accord des autorités de contrôle des Etats membres de la Communauté économique européenne où l'entreprise exerce
-son activité, les plus-values pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'éléments de
-passif autres que les provisions mathématiques, dans la mesure où de telles plus-values n'ont pas un caractère exceptionnel.
-
-6. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés ; ces titres et emprunts
-doivent répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du ministre chargé de
-l'économie et des finances ; la prise en compte de ces fonds est admise jusqu'à concurrence de 50 p. 100 de la marge de
-solvabilité prévue au présent article ; toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou
-emprunts à durée déterminée n'est admise qu'à concurrence de 25 p. 100 de cette marge. Tout remboursement effectué
-irrégulièrement peut, conformément aux dispositions de l'article L. 310-18 du présent code, donner lieu à application de
-sanctions par la commission de contrôle des assurances.
-
-7. La réserve pour fonds de garantie prévue à l'article R. 423-13, à hauteur de la part de cotisation versée par l'entreprise
+2. La réserve pour fonds de garantie prévue à l'article R. 423-16, à hauteur de la part de cotisation versée par l'entreprise
 et non utilisée par le fonds.
 
-8. Sur demande et justification de l'entreprise et avec l'accord de la Commission de contrôle des assurances, les plus-values
-latentes sur les instruments financiers à terme mentionnés aux articles R. 332-45 et R. 332-46, dès lors que les opérations
-correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 332-2 ou réalisées de gré
-à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 332-56. 
+III. - Sur demande et justification de l'entreprise et avec l'accord de la commission de contrôle, la marge de solvabilité
+peut également être constituée par :
 
-Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés au 5 (b)
-et au 8.
+1. La moitié de la fraction non versée du capital ou de la part restant à rembourser de l'emprunt pour fonds d'établissement,
+dès que la partie versée atteint 25 % de ce capital ou de ce fonds, à concurrence de 50 % du montant le plus faible de la
+marge de solvabilité ou de l'exigence de marge de solvabilité ;
+
+2. Les plus-values pouvant résulter de la sous-estimation d'éléments d'actif dans la mesure où de telles plus-values n'ont
+pas un caractère exceptionnel ;
+
+3. Les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 332-45 et R. 332-46, dès lors
+que les opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 332-2
+ou réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 332-56 ;
+
+4. Jusqu'au 31 décembre 2009, un montant représentant 50 % des bénéfices futurs de l'entreprise. Le montant des bénéfices
+futurs est obtenu en multipliant le bénéfice annuel estimé de l'entreprise par le facteur qui représente la durée résiduelle
+moyenne des contrats.
+
+Un arrêté du ministre chargé de l'économie fixe les modalités de calcul du facteur mentionné à l'alinéa précédent ainsi que
+les éléments constitutifs du bénéfice annuel estimé.
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés au 2 et au
+3 du III.
 
 **Liens relatifs à cet article**
 
@@ -35188,13 +35211,9 @@ et au 8.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 11 () JORF 24 décembre 2003
 
 	**Cité par**:
 
@@ -35232,15 +35251,14 @@ et au 8.
 	  - Code des assurances - art. R*332-45 (T)
 	  - Code des assurances - art. R332-46 (M)
 	  - Code des assurances - art. R332-56 (V)
-	  - Code des assurances - art. R423-13 (M)
 
 
 ###### Article R334-12
 
 La marge de solvabilité des entreprises visées au 4° de l'article L. 310-2 afférente aux opérations réalisées sur le
 territoire de la République française, est constituée, après déduction des pertes de la part des frais d'acquisition non
-admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments définis aux 3, 4 et
-5 de l'article R. 334-11.
+admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments définis aux 2 et 3
+du I et aux 2 et 4 du III de l'article R. 334-11.
 
 **Liens relatifs à cet article**
 
@@ -35248,13 +35266,9 @@ admise en représentation des engagements réglementés et des autres éléments
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 8 () JORF 25 octobre 1995
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 12 () JORF 24 décembre 2003
 
 	**Cite**:
 
@@ -35267,83 +35281,62 @@ admise en représentation des engagements réglementés et des autres éléments
 	  - Code des assurances - art. R334-42 (V)
 
 
-##### Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité.
+##### Paragraphe 2 : Exigence minimale de marge de solvabilité
 
 ###### Article R334-13
 
-Pour les entreprises visées au 1° de l'article L. 310-2, le montant minimal réglementaire de la marge de solvabilité est
-déterminé, en fonction des branches exercées, en application des dispositions suivantes :
+Pour les entreprises mentionnées au 1° de l'article L. 310-2, l'exigence minimale de marge de solvabilité est déterminée, en
+fonction des branches exercées, en application des dispositions suivantes :
 
-a) Pour les branches 20 et 21, à l'exception des assurances complémentaires :
+a) Pour les branches 20 et 21, à l'exception des assurances complémentaires, l'exigence minimale de marge est calculée par
+rapport aux provisions mentionnées aux 1° et 4° de l'article R. 331-3 et aux capitaux sous risque. Ce montant est égal à la
+somme des deux résultats suivants :
 
-Le montant minimal réglementaire de la marge est calculé par rapport aux provisions mentionnées aux 1° et 4° de l'article R.
-331-3 et aux capitaux sous risque. Ce montant est égal à la somme des deux résultats suivants :
-
-Le "premier résultat" est obtenu en multipliant un nombre représentant 4 p. 100 de la somme des provisions mentionnées aux 1°
-et 4° de l'article R. 331-3, relatives aux opérations d'assurances directes sans déduction des cessions en réassurance et aux
-acceptations en réassurance, par le rapport existant, par le dernier exercice, entre le montant des provisions mathématiques
+Le premier résultat est obtenu en multipliant un nombre représentant 4 % de la somme des provisions mentionnées aux 1° et 4°
+de l'article R. 331-3, relatives aux opérations d'assurances directes sans déduction des cessions en réassurance et aux
+acceptations en réassurance, par le rapport existant, pour le dernier exercice, entre le montant des provisions mathématiques
 après cessions en réassurance et le montant des provisions mathématiques brut de réassurance, sans que ce rapport puisse être
-inférieur à 85 p. 100.
+inférieur à 85 %.
 
-Le "second résultat" est obtenu en multipliant un nombre représentant 0,3 p. 100 des capitaux sous risque par le rapport
-existant, pour le dernier exercice, entre le montant des capitaux sous risque après cession et rétrocession en réassurance et
-le montant des capitaux sous risque brut de réassurance sans que ce rapport puisse être inférieur à 50 p. 100.
+Le second résultat est obtenu en multipliant un nombre représentant 0,3 % des capitaux sous risque par le rapport existant,
+pour le dernier exercice, entre le montant des capitaux sous risque après cession et rétrocession en réassurance et le
+montant des capitaux sous risque brut de réassurance sans que ce rapport puisse être inférieur à 50 %.
 
-Pour les assurances temporaires en cas de décès, d'une durée maximale de trois années, le facteur multiplicateur des capitaux
-sous risque est égal à 0,1 p. 100. Il est fixé à 0,15 p. 100 desdits capitaux pour les assurances temporaires en cas de décès
-dont la durée est supérieure à trois années mais n'excède pas cinq années.
+Pour les assurances temporaires en cas de décès d'une durée maximale de trois années, le facteur multiplicateur des capitaux
+sous risque est égal à 0,1 %. Il est fixé à 0,15 % desdits capitaux pour les assurances temporaires en cas de décès dont la
+durée est supérieure à trois années mais n'excède pas cinq années.
 
-Le capital sous risque est égal au risque décès, déduction faite de la provision mathématique du risque principal.
+Le capital sous risque est égal au risque décès, déduction faite de la provision mathématique du risque principal ;
 
 b) Pour les assurances complémentaires à des contrats comportant des engagements résultant d'opérations classées aux branches
-20, 21 et 22 ;
+20, 21 et 22, l'exigence minimale de marge est égale à l'exigence minimale de marge de solvabilité des entreprises
+d'assurance, telle que prévue par l'article R. 334-5 ;
 
-Le montant minimal réglementaire de la marge est égal au résultat obtenu par application de la méthode suivante :
+c) Pour la branche 23, l'exigence minimale de marge est égale à 1 % des avoirs des associations tontinières ;
 
-Au total des primes ou cotisations émises en affaires directes au cours du dernier exercice, quel que soit l'exercice au
-titre duquel elles ont été émises, accessoires compris, sont ajoutées les primes acceptées en réassurance au cours du dernier
-exercice.
-
-De cette somme sont déduits, d'une part, le total des primes ou cotisations annulées au cours du dernier exercice, d'autre
-part, le total des impôts et taxes afférents auxdites primes ou cotisations.
-
-Le montant ainsi obtenu est réparti en deux branches, respectivement inférieure et supérieure à 10 millions d'unités de
-compte de la Communauté économique européenne. A 18 p. 100 de la première tranche sont ajoutés 16 p. 100 de la seconde.
-
-La somme des deux termes prévus à l'alinéa précédent est multipliée par le rapport existant, pour le dernier exercice, entre
-le montant des sinistres demeurant à la charge de l'entreprise après cession et rétrocession en réassurance et le montant des
-sinistres brut de réassurance, sans que ce rapport puisse être inférieur à 50 p. 100.
-
-c) Pour la branche 23 :
-
-Le montant minimal réglementaire de la marge est égal à 1 p. 100 des avoirs des associations tontinières.
-
-d) Pour la branche 24, à l'exception des opérations de capitalisation exprimées en unités de compte, et la branche 28 : le
-montant minimal réglementaire de la marge est égal au résultat obtenu en multipliant un nombre représentant 4 p. 100 de la
-somme des provisions mentionnées aux 1° et 4° de l'article R. 331-3 relatives aux opérations d'assurances directes et aux
-acceptations brutes de réassurance par le rapport mentionné au "premier résultat" défini au a du présent article.
+d) Pour la branche 24, à l'exception des opérations de capitalisation exprimées en unités de compte, l'exigence minimale de
+marge est égale au résultat obtenu en multipliant un nombre représentant 4 % des provisions techniques relatives aux
+opérations d'assurances directes et aux acceptations brutes de réassurance par le rapport mentionné au premier résultat
+défini au a ;
 
 e) Pour la branche 22, à l'exception des assurances complémentaires, la branche 24 lorsqu'il s'agit des opérations de
-capitalisation exprimées en unités de compte, et la branche 25 : le montant minimal réglementaire de la marge est égal :
+capitalisation exprimées en unités de compte et la branche 25, l'exigence minimale de marge est égale :
 
-- lorsque l'entreprise assume un risque de placement, à un nombre représentant 4 p. 100 des provisions techniques relatives
-aux opérations d'assurances directes et d'acceptations brutes de réassurance multiplié par le rapport mentionné au "premier
-résultat" défini au a du présent article.
+1. Lorsque l'entreprise assume un risque de placement, à un nombre représentant 4 % des provisions techniques relatives aux
+opérations d'assurances directes et d'acceptations brutes de réassurance multiplié par le rapport mentionné au premier
+résultat défini au a ;
 
-- lorsque l'entreprise n'assume pas de risque de placement, à un nombre représentant 1 p. 100 des provisions techniques des
-contrats multiplié par le rapport mentionné au premier résultat du a) du présent article, à la condition que la durée des
-contrats soit supérieure à cinq années et que le montant destiné à couvrir les frais de gestion prévus dans ces contrats soit
-fixé pour une période supérieure à cinq années ;
+2. Lorsque l'entreprise n'assume pas de risque de placement, à un nombre représentant 1 % des provisions techniques des
+contrats multiplié par le rapport mentionné au premier résultat du a, à la condition que le montant destiné à couvrir les
+frais de gestion prévus dans ces contrats soit fixé pour une période supérieure à cinq années ;
 
-- lorsque l'entreprise assume un risque de mortalité, le montant réglementaire de la marge est obtenu en ajoutant à l'un ou
-l'autre des résultats déterminés par application des dispositions des deux alinéas précédents un nombre représentant 0,3 p.
-100 des capitaux sous risque, multiplié par le rapport existant, pour le dernier exercice, entre le montant des capitaux sous
-risque après cessions et rétrocessions en réassurance et le montant des capitaux sous risque brut de réassurance, sans que ce
-rapport puisse être inférieur à 50 p. 100.
+3. Lorsque l'entreprise assume un risque de mortalité, le montant de l'exigence minimale de marge est obtenu en ajoutant à
+l'un ou l'autre des résultats déterminés par application des dispositions des deux alinéas précédents un nombre représentant
+0,3 % des capitaux sous risque, multiplié par le rapport existant, pour le dernier exercice, entre le montant des capitaux
+sous risque après cessions et rétrocessions en réassurance et le montant des capitaux sous risque brut de réassurance, sans
+que ce rapport puisse être inférieur à 50 % ;
 
-f) Pour la branche 26 ;
-
-Le montant minimal réglementaire de la marge est égal à un nombre représentant 4 p. 100 de la provision technique spéciale
+f) Pour la branche 26, l'exigence minimale de marge est égale à un nombre représentant 4 % de la provision technique spéciale
 mentionnée à l'article R. 441-7, dans la limite de la provision mathématique théorique mentionnée à l'article R. 441-21.
 
 **Liens relatifs à cet article**
@@ -35352,13 +35345,10 @@ mentionnée à l'article R. 441-7, dans la limite de la provision mathématique 
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+	  - Décret n°2003-1236 2003-12-22 art. 13 I, II JORF 24 décembre 2003
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 13 () JORF 24 décembre 2003
 
 	**Cité par**:
 
@@ -35379,16 +35369,18 @@ mentionnée à l'article R. 441-7, dans la limite de la provision mathématique 
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. R*331-3 (M)
+	  - Code des assurances - art. R*334-5 (M)
 	  - Code des assurances - art. R*441-21 (M)
 	  - Code des assurances - art. R*441-7 (M)
 
 
 ###### Article R334-14
 
-Pour les entreprises visées au 4° de l'article L. 310-2, le montant réglementaire de la marge de solvabilité est calculé,
-conformément aux dispositions de l'article R. 334-13, à partir, suivant le cas, des provisions techniques et des capitaux
-sous risque, des primes ou cotisations et des sinistres, ou des avoirs résultant des opérations réalisées par cette
+Pour les entreprises visées au 4° de l'article L. 310-2, le montant de l'exigence minimale de marge de solvabilité est
+calculé, conformément aux dispositions de l'article R. 334-13, à partir, suivant le cas, des provisions techniques et des
+capitaux sous risque, des primes ou cotisations et des sinistres, ou des avoirs résultant des opérations réalisées par cette
 entreprise sur le territoire de la République française.
 
 Les éléments constitutifs de la marge doivent être localisés sur le territoire de la République française au moins jusqu'à
@@ -35399,15 +35391,16 @@ européen.
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+	  - Décret n°76-667 du 16 juillet 1976
 
 	**Modifié par**:
 
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 9 () JORF 25 octobre 1995
+	  - Décret n°2003-1236 2003-12-22 art. 13 I, III JORF 24 décembre 2003
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 13 () JORF 24 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Cité par**:
 
@@ -35416,36 +35409,32 @@ européen.
 	  - Code des assurances - art. R334-16 (VT)
 	  - Code des assurances - art. R334-17 (M)
 	  - Code des assurances - art. R334-19 (V)
-	  - Code des assurances - art. R334-22 (V)
+	  - Code des assurances - art. R334-22 (VT)
 	  - Code des assurances - art. R334-42 (V)
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. R*334-13 (M)
+	  - Code des assurances - art. L310-2
+	  - Code des assurances - art. R*334-13
 
 
 ##### Paragraphe 3 : Le fonds de garantie.
 
 ###### Article R334-15
 
-Le fonds de garantie des entreprises visées au 1° de l'article L. 310-2 agréées pour pratiquer une ou plusieurs des branches
-mentionnées aux 20 à 28 de l'article R. 321-1 est égal au tiers du montant réglementaire de la marge de solvabilité défini à
-l'article R. 334-13, sans pouvoir être inférieur aux seuils définis ci-après :
-
-- 800.000 unités de compte de la Communauté économique européenne pour les entreprises constituées sous la forme de société
-anonyme ;
-
-- 600.000 unités de compte de la Communauté économique européenne pour les entreprises constituées sous la forme de société à
-forme mutuelle et les sociétés à forme tontinière ;
-
-- 100.000 unités de compte de la Communauté économique européenne pour les entreprises constituées sous la forme de société à
-forme tontinière et dont les encaissements sont inférieurs à 500.000 unités de compte. Ce montant est progressivement porté à
-600.000 unités de compte par tranches successives de 100.000 unités de compte, chaque fois que le montant des cotisations
-augmente de 500.000 unités de compte.
+Le fonds de garantie des entreprises mentionnées au 1° de l'article L. 310-2 agréées pour pratiquer une ou plusieurs des
+branches mentionnées aux 20 à 28 de l'article R. 321-1 est égal au tiers de l'exigence minimale de marge de solvabilité
+définie à l'article R. 334-13, sans pouvoir être inférieur à 3 500 000 euros (1) pour les entreprises constituées sous la
+forme de société anonyme et 2 600 000  (1) euros pour les entreprises constituées sous la forme d'assurance mutuelle et les
+sociétés à forme tontinière.
 
 A concurrence de ces seuils ou de la moitié du fonds, si cette moitié est supérieure auxdits seuils, le fonds est constitué
-par les éléments mentionnés aux 1, 2, 3, 4 et 6 de l'article R. 334-11.
+par les éléments mentionnés aux 1, 2 et 3 du I, au 1 du II et au 1 du III de l'article R. 334-11.
+
+**Nota:**
+
+(1) Ces montants, applicables au 1er janvier 2010, ont été modifiés conformément à l'avis pris par l'Autorité de contrôle des
+assurances et des mutuelles paru au Journal officiel du 17 décembre 2009 (ACAX0900069V).
 
 **Liens relatifs à cet article**
 
@@ -35453,19 +35442,16 @@ par les éléments mentionnés aux 1, 2, 3, 4 et 6 de l'article R. 334-11.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 14 () JORF 24 décembre 2003
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. R*334-11 (M)
 	  - Code des assurances - art. R*334-13 (M)
-	  - Code des assurances R321-1, R334-13, R334-11
+	  - Code des assurances L310-2, R321-1, R334-13, R334-11
 
 	**Cité par**:
 
@@ -35480,14 +35466,18 @@ par les éléments mentionnés aux 1, 2, 3, 4 et 6 de l'article R. 334-11.
 ###### Article R334-16
 
 Le fonds de garantie des entreprises visées au 4° de l'article L. 310-2, agréées pour pratiquer une ou plusieurs des branches
-mentionnées aux 20 à 26 de l'article R. 321-1, est égal au tiers du montant réglementaire de la marge de solvabilité défini à
-l'article R. 334-14, sans pouvoir être inférieur à un seuil fixé à 400.000 unités de compte de la Communauté économique
-européenne.
+mentionnées aux 20 à 26 de l'article R. 321-1, est égal au tiers de l'exigence minimale de marge de solvabilité définie à
+l'article R. 334-14, sans pouvoir être inférieur à un seuil fixé à 1 800 000 euros (1).
 
 A concurrence de ce seuil, ou de la moitié du fonds si cette moitié est supérieure audit seuil, le fonds doit être constitué
-par les éléments mentionnés aux 3 et 4 de l'article R. 334-11.
+par les éléments mentionnés aux 2 et 3 du I de l'article R. 334-11.
 
 Le cautionnement initial déposé conformément à l'article R. 321-12 s'impute sur le fonds de garantie.
+
+**Nota:**
+
+(1) Ces montants, applicables au 1er janvier 2010, ont été modifiés conformément à l'avis pris par l'Autorité de contrôle des
+assurances et des mutuelles paru au Journal officiel du 17 décembre 2009 (ACAX0900069V).
 
 **Liens relatifs à cet article**
 
@@ -35497,12 +35487,7 @@ Le cautionnement initial déposé conformément à l'article R. 321-12 s'impute 
 
 	**Modifié par**:
 
-	  - Décret n°94-635 1994-07-25 art. 14 VI, VII JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 15 () JORF 24 décembre 2003
 
 	**Cite**:
 
@@ -35528,15 +35513,15 @@ La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, apr�
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
-a) Les éléments définis aux 6, 7 et 8 de l'article R. 334-11 ;
+a) Les éléments définis aux 1, 2, 3 du I, 1 et 2 du II et 1 et 3 du III de l'article R. 334-11 ;
 
-b) L'élément défini au 5 b de l'article R. 334-11 ;
+b) L'élément défini au 2 du III de l'article R. 334-11 ;
 
-c) L'élément défini au 3 de l'article R. 334-3, dans la limite du montant de la fraction dommage définie au second alinéa de
-l'article R. 334-19 ;
+c) L'élément défini au 4 du I de l'article R. 334-3, dans la limite du montant de la fraction dommage définie au second
+alinéa de l'article R. 334-19 ;
 
-d) L'élément défini au 5 a de l'article R. 334-11, dans la limite du montant de la fraction vie définie au troisième alinéa
-de l'article R. 334-19.
+d) L'élément défini au 4 du III de l'article R. 334-11, dans la limite du montant de la fraction vie définie au troisième
+alinéa de l'article R. 334-19.
 
 Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés ci-dessus.
 
@@ -35546,13 +35531,9 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 16 () JORF 24 décembre 2003
 
 	**Cité par**:
 
@@ -35577,8 +35558,8 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 La marge de solvabilité des entreprises mentionnées au 4° de l'article L. 310-2 afférente aux opérations réalisées sur le
 territoire de la République française est constituée, après déduction des pertes, de la part des frais d'acquisition non
-admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments définis aux 3, 4 et
-5 de l'article R. 334-11, dans les limites fixées à l'article R. 334-17.
+admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments définis aux 2 et 3
+du I et aux 2 et 4 du III de l'article R. 334-11, dans les limites fixées à l'article R. 334-17.
 
 **Liens relatifs à cet article**
 
@@ -35586,20 +35567,19 @@ admise en représentation des engagements réglementés et des autres éléments
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 17 () JORF 24 décembre 2003
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 2 () JORF 25 octobre 1995
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 3 () JORF 25 octobre 1995
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. R*334-11 (M)
-	  - Code des assurances - art. R*334-17 (M)
+	  - Code des assurances - art. L310-2
+	  - Code des assurances - art. R*334-11
+	  - Code des assurances - art. R334-17 (VD)
 
 	**Cité par**:
 
@@ -35608,12 +35588,12 @@ admise en représentation des engagements réglementés et des autres éléments
 	  - Code des assurances - art. R334-42 (V)
 
 
-##### Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité.
+##### Paragraphe 2 : Exigence minimale de marge de solvabilité
 
 ###### Article R334-19
 
-Le montant minimal réglementaire de la marge de solvabilité des entreprises mixtes est égal à la somme des deux éléments ci-
-après, dénommés respectivement fraction dommage et fraction vie.
+L'exigence minimale de marge de solvabilité des entreprises mixtes est égale à la somme des deux éléments ci-après, dénommés
+respectivement fraction dommage et fraction vie.
 
 Le montant minimal de la fraction dommage est calculé dans les conditions définies aux articles R. 334-5 et R. 334-6, sur la
 base des primes et sinistres afférents aux affaires directes et aux acceptations relevant des branches 1 et 2 définies à
@@ -35629,14 +35609,10 @@ aux affaires directes et aux acceptations relevant des branches 20 à 26 de l'ar
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 2 () JORF 25 octobre 1995
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 4 () JORF 25 octobre 1995
+	  - Décret n°2003-1236 2003-12-22 art. 18 I, II JORF 24 décembre 2003
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 18 () JORF 24 décembre 2003
 
 	**Cité par**:
 
@@ -35661,10 +35637,10 @@ aux affaires directes et aux acceptations relevant des branches 20 à 26 de l'ar
 
 ###### Article R334-20
 
-Pour les entreprises mentionnées au 4° de l'article L. 310-2, le montant minimal réglementaire de la marge de solvabilité est
-calculé, conformément aux dispositions de l'article R. 334-19, à partir, suivant le cas, des provisions techniques, des
-capitaux sous risque, des primes ou cotisations, des sinistres et des avoirs résultant des opérations réalisées par cette
-entreprise sur le territoire de la République française.
+Pour les entreprises mentionnées au 4° de l'article L. 310-2, l'exigence minimale de marge de solvabilité est calculée,
+conformément aux dispositions de l'article R. 334-19, à partir, suivant le cas, des provisions techniques, des capitaux sous
+risque, des primes ou cotisations, des sinistres et des avoirs résultant des opérations réalisées par cette entreprise sur le
+territoire de la République française.
 
 Les éléments constitutifs de la marge doivent être localisés sur le territoire de la République française au moins jusqu'à
 concurrence du fonds de garantie mentionné à l'article R. 334-21 et, pour le surplus, à l'intérieur de l'Espace économique
@@ -35676,35 +35652,35 @@ européen.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+	  - Décret n°2003-1236 2003-12-22 art. 18 I, III JORF 24 décembre 2003
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 18 () JORF 24 décembre 2003
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 2 () JORF 25 octobre 1995
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 4 () JORF 25 octobre 1995
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. R213-3 (V)
-	  - Code des assurances - art. R334-22 (V)
+	  - Code des assurances - art. R334-22 (VT)
 	  - Code des assurances - art. R334-42 (V)
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. R*334-19 (M)
-	  - Code des assurances - art. R*334-21 (M)
+	  - Code des assurances - art. L310-2
+	  - Code des assurances - art. R*334-19
+	  - Code des assurances - art. R334-21 (VD)
 
 
 ##### Paragraphe 3 : Le fonds de garantie.
 
 ###### Article R334-21
 
-Le fonds de garantie des entreprises mentionnées au 1° de l'article L. 310-2 est égal au tiers du montant réglementaire
-minimal de la marge de solvabilité défini à l'article R. 334-19, sans pouvoir être inférieur aux seuils définis aux articles
-R. 334-15 et R. 334-16.
+Le fonds de garantie des entreprises mentionnées au 1° de l'article L. 310-2 est égal au tiers de l'exigence minimale de
+marge de solvabilité définie à l'article R. 334-19, sans pouvoir être inférieur aux seuils définis aux articles R. 334-15 et
+R. 334-16.
 
 A concurrence de ces seuils ou de la moitié dudit fonds si cette moitié est supérieure auxdits seuils, le fonds est constitué
 par les éléments mentionnés au a de l'article R. 334-17.
@@ -35718,14 +35694,9 @@ Pour les entreprises mentionnées au 4° de l'article L. 310-2, le cautionnement
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 2 () JORF 25 octobre 1995
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 5 () JORF 25 octobre 1995
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 18 () JORF 24 décembre 2003
 
 	**Cite**:
 
@@ -40688,6 +40659,34 @@ présent chapitre sont applicables à l'indemnisation des accidents d'automobile
 	  - Code des assurances R420-70
 
 
+###### Article R421-71
+
+Lorsqu'il est saisi en qualité d'organisme d'indemnisation au sens de l'article L. 424-1, le fonds de garantie des assurances
+obligatoires de dommages informe immédiatement :
+
+a) L'entreprise d'assurance du véhicule dont la circulation a causé l'accident ou son représentant chargé du règlement des
+sinistres ;
+
+b) L'organisme d'indemnisation de l'Etat membre d'établissement de l'entreprise d'assurance qui a souscrit le contrat ;
+
+c) Si elle est identifiée, la personne ayant causé l'accident, du fait qu'il a reçu une demande d'indemnisation de la part de
+la personne lésée et qu'il va y répondre, dans un délai de deux mois à compter de la présentation de cette demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2003-1237 du 22 décembre 2003 - art. 1 () JORF 24 décembre 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. L424-1 (V)
+
+
 #### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
 
 ###### Article R422-2
@@ -43600,6 +43599,31 @@ conventions conclues entre le ministre chargé de l'économie et la société.
 	**Abrogé par**:
 
 	  - Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
+
+### Titre V : Organisme d'information
+
+###### Article R451-1
+
+L'organisme d'information mentionné à l'article L. 451-1 est désigné par un arrêté du ministre chargé de l'économie. Il
+répond aux demandes prévues au même article, dans un délai maximum de sept jours à compter de la réception de la demande. 
+
+Il coopère avec les organismes d'information des autres Etats membres de l'Union européenne pour obtenir ou fournir les
+informations mentionnées au même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2003-1237 du 22 décembre 2003 - art. 1 () JORF 24 décembre 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. L451-1 (V)
 
 
 ## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation
