@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-08-09
+Version Consolidée au 1990-09-15
 
 # Partie législative
 
@@ -19832,12 +19832,8 @@ et des finances.
 
 ###### Article R310-7
 
-Le ministre de l'économie et des finances peut, après avis du conseil national des assurances, fixer pour les assurances
-obligatoires et les garanties annexes appartenant à la même branche, les pourcentages de primes ou cotisations que ne doivent
-pas dépasser les dépenses de gestion des entreprises mentionnées à l'article L. 310-1.
-
-Sont passibles des peines énumérées à l'article R. 328-1 les dirigeants des entreprises dont les dépenses de gestion
-dépassent les limites fixées en application de l'alinéa précédent.
+Toute entreprise agréée en application de l'article L. 321-1 est tenue de faire connaître au ministre chargé de l'économie et
+des finances tout changement de titulaire concernant les fonctions de président, directeur général ou directeur.
 
 **Liens relatifs à cet article**
 
@@ -19845,22 +19841,21 @@ dépassent les limites fixées en application de l'alinéa précédent.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 16 () JORF 15 septembre 1990
+
 	**Cité par**:
 
 	  - Code des assurances - art. A310-2-1 (VT)
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. R*328-1 (M)
+	  - Code des assurances - art. L321-1 (M)
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 191 bis
+	  - Code des assurances R321-17-1 (1ère version)
 
 
 ##### Section II : Commission de contrôle des assurances.
@@ -20296,8 +20291,9 @@ Cet agrément couvre la branche entière, sauf si l'entreprise ne désire garant
 plusieurs sous-branches.
 
 Pour les entreprises dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté économique
-européenne, le ministre de l'économie et des finances peut, après avis du conseil national des assurances, dans les
-conditions prévues à l'article R. 321-13, restreindre l'agrément à une ou plusieurs opérations.
+européenne, le ministre de l'économie et des finances peut, après avis de la commission des entreprises d'assurance
+mentionnée à l'article L. 411-4, dans les conditions prévues à l'article R. 321-13, restreindre l'agrément à une ou plusieurs
+opérations.
 
 **Liens relatifs à cet article**
 
@@ -20305,9 +20301,23 @@ conditions prévues à l'article R. 321-13, restreindre l'agrément à une ou pl
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 1 () JORF 15 septembre 1990
+	  - Décret n°90-815 du 14 septembre 1990 - art. 3 () JORF 15 septembre 1990
+
 	**Cite**:
 
-	  - Code des assurances R321-13
+	  - Code des assurances - art. L411-4 (M)
+	  - Code des assurances L411-4, R321-13
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R321-14 (4ème version)
 
 
 ###### Article R321-3
@@ -20347,58 +20357,18 @@ comme accessoires à d'autres branches.
 	  - Code des assurances R321-1
 
 
-###### Article R321-4
-
-Les entreprises qui pratiquent une ou plusieurs des branches mentionnées aux 19 à 23 de l'article R. 321-1 doivent limiter
-leur activité aux opérations relevant de ces cinq branches.
-
-Un décret rendu après avis du conseil national des assurances peut fixer les conditions dans lesquelles les entreprises
-mentionnées à l'alinéa précédent sont admises, par arrêté ministériel, à pratiquer des opérations accessoires à celles pour
-lesquelles elles ont obtenu l'agrément administratif.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 1 () JORF 15 septembre 1990
-	  - Décret n°90-815 du 14 septembre 1990 - art. 5 (V) JORF 15 septembre 1990
-
-	**Cité par**:
-
-	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-	  - Code des assurances - art. R321-10 (VT)
-	  - Code des assurances - art. R321-14 (V)
-	  - Code des assurances - art. R321-6 (V)
-	  - Code des assurances - art. R329-1 (VD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R321-5 (M)
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 138
-
-
 ###### Article R321-5
 
-Pour l'application de l'article R. 321-4, les entreprises agréées pour pratiquer la branche mentionnée au 19 de l'article R.
-321-1 peuvent être autorisées à réaliser directement, à titre d'assurance accessoire faisant partie d'un contrat d'assurance
-sur la vie et moyennant paiement d'une prime ou cotisation distincte, des assurances complémentaires contre les risques de
-décès accidentel et d'invalidité. Dans ce cas, le contrat doit préciser que ces garanties complémentaires prennent fin au
-plus tard en même temps que la garantie principale.
+Les entreprises agréées pour pratiquer les branches mentionnées aux 20 et 22 de l'article R. 321-1 peuvent être autorisées à
+réaliser directement, à titre d'assurance accessoire faisant partie d'un contrat d'assurance sur la vie et moyennant paiement
+d'une prime ou cotisation distincte, des assurances complémentaires contre les risques d'atteintes corporelles incluant
+l'incapacité de travail professionnelle, de décès accidentel ou d'invalidité à la suite d'accident ou de maladie. Dans ce
+cas, le contrat doit préciser que ces garanties complémentaires prennent fin au plus tard en même temps que la garantie
+principale.
 
-Les demandes de visa des tarifs d'assurance sur la vie comportant l'assurance contre les risques de décès accidentel et les
-risques d'invalidité, que les entreprises sont tenues de présenter conformément à l'article R. 310-6, doivent être
-accompagnées des justifications techniques relatives aux garanties accessoires mentionnées à l'alinéa précédent.
+Les demandes de visa des tarifs d'assurance sur la vie comportant les assurances complémentaires contre les risques
+mentionnés au premier alinéa, que les entreprises sont tenues de présenter conformément à l'article R. 310-6, doivent être
+accompagnées des justifications techniques relatives à ces garanties accessoires.
 
 **Liens relatifs à cet article**
 
@@ -20406,9 +20376,16 @@ accompagnées des justifications techniques relatives aux garanties accessoires 
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+	  - TXT_ASSOCIE: Code des assurances - art. R*321-4 (Ab)
+	  - TXT_SOURCE: Code des assurances R321-4
+
 	**Modifié par**:
 
-	  - Décret n°78-722 1978-07-05 art. 1 JORF 11 juillet 1978
+	  - Décret n°90-815 du 14 septembre 1990 - art. 1 () JORF 15 septembre 1990
+	  - Décret n°90-815 du 14 septembre 1990 - art. 6 () JORF 15 septembre 1990
 
 	**Cité par**:
 
@@ -20417,17 +20394,56 @@ accompagnées des justifications techniques relatives aux garanties accessoires 
 	  - Code des assurances - art. R321-6 (V)
 	  - Code des assurances - art. R329-1 (VD)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*321-4 (Ab)
-	  - TXT_SOURCE: Code des assurances R321-4
-
 	**Cite**:
 
-	  - Code des assurances R310-6, R321-1, R321-4
+	  - Code des assurances R321-1, R310-6
 
 
 ##### Section III : Conditions des agréments.
+
+###### Article R*321-6-1
+
+Lors de l'examen du dossier d'agrément, le ministre chargé de l'économie et des finances prend en considération la
+qualification et l'expérience professionnelle des personnes mentionnées au I, f, de l'article R. 321-6. Celles-ci doivent
+produire un état descriptif de leurs activités. Elles indiquent notamment :
+
+1. La nature de leurs activités professionnelles actuelles et de celles qu'elles ont exercées pendant les dix années
+précédant la demande d'agrément ;
+
+2. Si elles ont fait l'objet, soit de sanctions disciplinaires prises par une autorité de contrôle ou une organisation
+professionnelle compétente, soit d'un refus d'inscription sur une liste professionnelle ;
+
+3. Si elles ont fait l'objet d'un licenciement ou d'une mesure équivalente pour faute ;
+
+4. Si elles ont exercé des fonctions d'administrateur ou de direction dans des entreprises ayant fait l'objet de mesures de
+redressement ou de liquidation judiciaires prévues par la loi n° 85-98 du 25 janvier 1985 ou, dans le régime antérieur, de
+mesures prévues par la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les
+banqueroutes, ou de mesures équivalentes à l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-563 1967-07-13
+	  - Loi n°85-98 1985-01-25
+	  - Code des assurances R321-6
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+
+	**Créé par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 8 () JORF 15 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
+
 
 ###### Article R*321-7
 
@@ -20450,7 +20466,7 @@ du fonds de garantie ou, s'il est plus élevé, du montant réglementaire de la 
 possède les moyens financiers nécessaires aux frais d'installation des services administratifs et du réseau de production ;
 
 c) la désignation d'une personne physique ou morale ayant la qualité de mandataire général et satisfaisant aux conditions
-fixées par décret en Conseil d'Etat pris après avis du conseil national des assurances.
+fixées par décret en Conseil d'Etat.
 
 Ce mandataire ne peut être récusé par le ministre de l'économie et des finances que pour des raisons touchant à
 l'honorabilité ou à la qualification technique, dans des conditions identiques à celles qui sont applicables aux dirigeants
@@ -20469,9 +20485,6 @@ territoire, une succursale où elle fait élection de domicile.
 II. - En cas de demande d'extension d'agrément, les documents mentionnés aux e et f de l'article R. 321-6 ainsi qu'aux c et e
 du présent article ne sont pas exigés.
 
-Toutefois, si par application du 4e alinéa de l'article R. 321-9 l'entreprise propose un second mandataire général, les
-documents mentionnés au c du présent article doivent être produits.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -20480,12 +20493,16 @@ documents mentionnés au c du présent article doivent être produits.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
 	  - TXT_ASSOCIE: Code des assurances R321-9
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 6 () JORF 12 mai 1984
+	  - Décret n°90-815 du 14 septembre 1990 - art. 9 () JORF 15 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -20493,17 +20510,17 @@ documents mentionnés au c du présent article doivent être produits.
 
 	**Cite**:
 
-	  - Code des assurances R321-6, R321-9
+	  - Code des assurances R321-6
 
 
 ###### Article R*321-11
 
 Pendant les trois exercices faisant l'objet des prévisions mentionnées au g, 6 et 7 de l'article R. 321-6, l'entreprise doit
-présenter au ministre de l'économie et des finances, pour chaque semestre, un compte rendu d'exécution du programme
+présenter à la commission de contrôle des assurances, pour chaque semestre, un compte rendu d'exécution du programme
 d'activités.
 
-Si les comptes rendus ainsi présentés font apparaître un déséquilibre grave dans la situation financière de l'entreprise, le
-ministre peut à tout moment prendre les mesures nécessaires pour faire renforcer les garanties financières jugées
+Si les comptes rendus ainsi présentés font apparaître un déséquilibre grave dans la situation financière de l'entreprise, la
+commission peut à tout moment prendre les mesures nécessaires pour faire renforcer les garanties financières jugées
 indispensables et, à défaut, procéder au retrait de l'agrément administratif.
 
 **Liens relatifs à cet article**
@@ -20511,6 +20528,18 @@ indispensables et, à défaut, procéder au retrait de l'agrément administratif
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 11 () JORF 15 septembre 1990
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R321-16 (3ème version)
 
 	**Cite**:
 
@@ -20522,24 +20551,36 @@ indispensables et, à défaut, procéder au retrait de l'agrément administratif
 Toute décision de refus d'agrément administratif doit être motivée et notifiée par le ministre de l'économie et des finances
 à l'entreprise intéressée.
 
-L'agrément ne peut être refusé, totalement ou partiellement, qu'après avis conforme du conseil national des assurances,
-l'entreprise ayant été préalablement mise en demeure par lettre recommandée de présenter ses observations par écrit dans un
-délai de quinzaine.
+L'agrément ne peut être refusé, totalement ou partiellement, qu'après avis conforme de la commission des entreprises
+d'assurance mentionnée à l'article L. 411-4, l'entreprise ayant été préalablement mise en demeure par lettre recommandée de
+présenter ses observations par écrit dans un délai de quinzaine.
 
-L'entreprise peut se pourvoir devant le Conseil d'Etat dans les huit jours francs de la notification du refus d'agrément,
-total ou partiel, ou, en l'absence de notification, à l'expiration d'un délai de six mois à compter du dépôt d'un dossier
+L'entreprise peut se pourvoir devant le Conseil d'Etat dans les deux mois de la notification du refus d'agrément, total ou
+partiel, ou, en l'absence de notification, à l'expiration d'un délai de six mois à compter du dépôt d'un dossier
 régulièrement constitué de demande d'agrément.
 
-Le ministre de l'économie et des finances peut appeler à se prononcer à nouveau, dans le délai d'un mois, le conseil national
-des assurances, dans l'hypothèse où celui-ci n'aurait pas émis un avis conforme à la proposition de refus d'agrément. Si le
-conseil national des assurances maintient son avis, le ministre peut néanmoins, par dérogation aux dispositions du deuxième
-alinéa du présent article, décider de refuser l'agrément.
+Le ministre de l'économie et des finances peut appeler à se prononcer à nouveau, dans le délai d'un mois, la commission des
+entreprises d'assurance, dans l'hypothèse où celle-ci n'aurait pas émis un avis conforme à la proposition de refus
+d'agrément. Si le conseil national des assurances maintient son avis, le ministre peut néanmoins, par dérogation aux
+dispositions du deuxième alinéa du présent article, décider de refuser l'agrément.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 12 () JORF 15 septembre 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L411-4 (M)
 
 
 ###### Article R321-6
@@ -20558,8 +20599,20 @@ d) Le procès-verbal de l'assemblée générale constitutive ;
 
 e) Deux exemplaires des statuts ;
 
-f) La liste des administrateurs et directeurs, avec les nom, prénoms, domicile, nationalité, date et lieu de naissance de
-chacun d'eux ;
+f) La liste des administrateurs et directeurs, ainsi que de toute personne appelée à exercer en fait des fonctions
+équivalentes avec les nom, prénoms, domicile, nationalité, date et lieu de naissance de chacun d'eux. Si ces personnes ont
+résidé hors de France pendant la période de cinq ans précédant la demande d'agrément, elles doivent indiquer leur dernière
+adresse hors de France.
+
+Les personnes mentionnées ci-dessus doivent également produire un bulletin n° 3 de leur casier judiciaire datant de moins de
+trois mois ou un document équivalent délivré par une autorité judiciaire ou administrative compétente d'un Etat membre des
+communautés économiques européennes autre que la France. Lorsque ces personnes ne sont pas des ressortissants d'un Etat
+membre des communautés économiques européennes, elles doivent produire un document équivalent ou, à défaut, une déclaration
+sous serment ou une déclaration solennelle faite devant une autorité compétente ou un notaire, aux termes de laquelle elles
+affirment ne pas avoir fait, à l'étranger, l'objet d'une condamnation qui, si elle avait été prononcée par une juridiction
+française, serait inscrite au bulletin n° 3 du casier judiciaire. L'autorité compétente ou le notaire délivre une attestation
+faisant foi de ce serment ou de cette déclaration solennelle. En outre, si elles ne sont pas de nationalité française, ces
+personnes doivent satisfaire aux dispositions des lois et règlements relatifs à la situation et à la police des étrangers.
 
 g) Un programme d'activités comprenant les pièces suivantes :
 
@@ -20574,8 +20627,9 @@ au public ou publiés ;
 grands risques définis aux articles L. 351-4 et R. 351-1, deux exemplaires des tarifs.
 
 S'il s'agit d'opérations d'assurance comportant des engagements dont l'exécution dépend de la durée de la vie humaine,
-d'opérations complémentaires aux opérations précédentes, notamment celles ayant pour objet des garanties en cas de décès
-accidentel ou d'invalidité, ou d'opérations ayant pour objet le versement d'un capital en cas de mariage ou de naissance
+d'opérations complémentaires aux opérations précédentes, notamment celles ayant pour objet des garanties contre les risques
+d'atteintes corporelles incluant l'incapacité de travail professionnelle, de décès accidentel ou d'invalidité à la suite
+d'accident ou de maladie, ou d'opérations ayant pour objet le versement d'un capital en cas de mariage ou de naissance
 d'enfants, ou d'opérations ayant pour objet l'acquisition d'immeubles au moyen de la constitution de rentes viagères,
 l'entreprise doit produire le tarif afférent à toutes ces opérations, ainsi qu'une note technique exposant le mode
 d'établissement des tarifs et les bases de calcul des diverses catégories de primes ou cotisations. S'il s'agit d'opérations
@@ -20613,9 +20667,15 @@ sections II ou III du chapitre IV du titre III du présent livre.
 8. La justification des éléments constituant le montant minimal du fonds de garantie que l'entreprise doit posséder, selon le
 cas, conformément aux dispositions des sections II ou III du chapitre IV du titre III du présent livre.
 
-II. - En cas de demande d'extension d'agrément, les documents mentionnés aux c, d, e et f du présent article ne sont pas
-exigés. L'entreprise doit en revanche justifier qu'elle dispose d'une marge de solvabilité au moins égale au montant
-réglementaire.
+9. Dans le cas d'une société anonyme, la liste des principaux actionnaires ainsi que la part du capital social détenue par
+chacun d'eux ; dans le cas d'une société d'assurance mutuelle, les modalités de constitution du fonds d'établissement.
+
+10. Le nom et l'adresse du principal établissement bancaire où sont domiciliés les comptes de l'entreprise.
+
+II. - En cas de demande d'extension d'agrément, les documents mentionnés aux c, d et e du présent article ne sont pas exigés.
+L'entreprise doit indiquer, s'il y a lieu, toute modification intervenue concernant l'application des dispositions du f du
+présent article ainsi que celles de l'article R. 321-6-1 et justifier qu'elle dispose d'une marge de solvabilité au moins
+égale au montant réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -20625,17 +20685,17 @@ réglementaire.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
 
 	**Modifié par**:
 
-	  - Décret n°90-700 du 8 août 1990 - art. 2 () JORF 9 août 1990
+	  - Décret n°90-815 du 14 septembre 1990 - art. 7 () JORF 15 septembre 1990
 
 	**Cite**:
 
 	  - Code des assurances - art. L351-4 (M)
 	  - Code des assurances - art. R351-1 (M)
-	  - Code des assurances R321-1, L351-4, R351-1
+	  - Code des assurances R321-1, L351-4, R351-1, R321-6-1
 
 	**Cité par**:
 
@@ -20658,7 +20718,7 @@ dans son pays d'origine conformément aux lois de ce pays ;
 
 c) La proposition à l'acceptation du ministre de l'économie et des finances, en vue d'obtenir l'agrément spécial prévu à
 l'article L. 321-2, d'une personne physique ou morale ayant la qualité de mandataire général et satisfaisant aux conditions
-fixées par décret en Conseil d'Etat pris après avis du conseil national des assurances ;
+fixées par décret en Conseil d'Etat ;
 
 d) la justification que l'entreprise dispose sur le territoire de la République française d'actifs au moins égaux à la moitié
 du montant minimal du fonds de garantie qu'elle doit posséder conformément aux dispositions du chapitre IV du titre III du
@@ -20674,9 +20734,6 @@ territoire, une succursale où elle fait élection de domicile.
 II. - En cas de demande d'extension d'agrément, les documents mentionnés aux e et f de l'article R. 321-6 ainsi qu'aux c et f
 du présent article ne sont pas exigés.
 
-Toutefois, si par application du 4e alinéa de l'article R. 321-9 l'entreprise propose un second mandataire général, les
-documents mentionnés au c du présent article doivent être produits.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -20685,28 +20742,31 @@ documents mentionnés au c du présent article doivent être produits.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
 	  - TXT_ASSOCIE: Code des assurances R321-9
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 7 () JORF 12 mai 1984
+	  - Décret n°90-815 du 14 septembre 1990 - art. 9 () JORF 15 septembre 1990
 
 	**Cite**:
 
 	  - Code des assurances - art. L321-2 (M)
-	  - Code des assurances R321-6, L321-2, R321-9
+	  - Code des assurances R321-6, L321-2
 
 
 ###### Article R321-9
 
-Le mandataire général mentionné aux articles R. 321-7, c et R. 321-8, c, s'il est une personne physique, doit avoir son
+Le mandataire général mentionné aux articles R. 321-7 c et R. 321-8 c, s'il est une personne physique, doit avoir son
 domicile et résider sur le territoire de la République française et doit produire un extrait de son casier judiciaire datant
 de moins de trois mois ou un document équivalent délivré par une autorité judiciaire ou administrative compétente d'un Etat
-membre de la Communauté économique européenne autre que la France, ou à défaut, une déclaration sous serment ou une
-déclaration solennelle faite par lui devant une autorité compétente ou un notaire qui délivre une attestation faisant foi de
-ce serment ou de cette déclaration solennelle. S'il n'est pas de nationalité française, le mandataire général doit satisfaire
-aux dispositions des lois et règlements relatifs à la situation et à la police des étrangers.
+membre des communautés économiques européennes autre que la France. S'il n'est pas ressortissant d'un Etat membre desdites
+communautés, il doit produire un document équivalent ou, à défaut, une déclaration sous serment ou une déclaration solennelle
+faite devant une autorité compétente ou un notaire, aux termes de laquelle il affirme ne pas avoir fait, à l'étranger,
+l'objet d'une condamnation qui, si elle avait été prononcée par une juridiction française, serait inscrite au bulletin n° 3
+du casier judiciaire. L'autorité compétente ou le notaire délivre une attestation faisant foi de ce serment ou de cette
+déclaration solennelle. En outre, s'il n'est pas de nationalité française, le mandataire général doit satisfaire aux
+dispositions des lois et règlements relatifs à la situation et à la police des étrangers.
 
 Si le mandataire est une personne morale, le siège social de celle-ci doit être établi sur le territoire de la République
 française, et la personne physique nommément désignée pour la représenter doit satisfaire aux conditions prévues par l'alinéa
@@ -20716,8 +20776,11 @@ incombent.
 Lorsque le mandataire général est un préposé salarié ou un mandataire rémunéré à la commission de l'entreprise, ses fonctions
 de mandataire général ne lui font pas perdre cette qualité.
 
-Un mandataire général distinct peut être désigné d'une part pour les branches mentionnées à l'article R. 321-1, à l'exclusion
-de la branche 18 du même article, d'autre part pour les opérations de réassurance.
+Le mandataire général, s'il est une personne physique, ou son représentant, s'il est une personne morale, doit produire, en
+ce qui concerne sa qualification et son expérience professionnelle, les informations prévues par l'article R. 321-6-1.
+
+Toute modification intervenue concernant les informations mentionnées aux premier et quatrième alinéas du présent article
+doit être communiquée au ministre chargé de l'économie et des finances qui, le cas échéant, peut récuser le mandataire.
 
 Le mandataire général doit être doté par l'entreprise intéressée de pouvoirs suffisants pour engager celle-ci à l'égard des
 tiers et pour la représenter vis-à-vis des autorités et juridictions françaises.
@@ -20727,16 +20790,9 @@ successeur. Le mandataire général demeure investi de cette fonction tant que s
 lieu, accepté par le ministre de l'économie et des finances. En cas de décès du mandataire général, ou de la personne
 physique nommément désignée pour le représenter, l'entreprise doit désigner son successeur dans le délai le plus bref.
 
-Si, en dehors d'un des cas prévus par le présent livre, l'entreprise intéressée vient à cesser de réaliser des affaires
-nouvelles sur le territoire de la République française, elle doit soumettre sans délai au ministre de l'économie et des
-finances la désignation d'un ou plusieurs liquidateurs auxquels tous pouvoirs seraient donnés aux fins de régularisation et
-de liquidation des affaires en cours. Au cas où l'entreprise n'aurait pas procédé à une telle désignation dans la quinzaine,
-un liquidateur peut être désigné d'office à cet effet par le président du tribunal compétent, à la requête du ministre de
-l'économie et des finances.
-
 Les conditions particulières auxquelles doit en outre satisfaire le mandataire général du Lloyd's de Londres, ainsi que les
 modalités de ses rapports avec le comité de cet organisme et avec les intermédiaires autorisés à placer des affaires
-françaises au Lloyd's, sont fixées par décret en Conseil d'Etat pris après avis du conseil national des assurances.
+françaises au Lloyd's, sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -20746,35 +20802,40 @@ françaises au Lloyd's, sont fixées par décret en Conseil d'Etat pris après a
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
 	  - TXT_ASSOCIE: Code des assurances R321-10
 	  - TXT_SOURCE: Code des assurances R321-7, R321-8
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 8 () JORF 12 mai 1984
+	  - Décret n°90-815 du 14 septembre 1990 - art. 10 () JORF 15 septembre 1990
+	  - Décret n°90-815 du 14 septembre 1990 - art. 9 () JORF 15 septembre 1990
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R321-11 (3ème version)
 
 	**Cite**:
 
-	  - Code des assurances R321-1, R321-7, R321-8
+	  - Code des assurances R321-7, R321-8, R321-6-1
 
 
 ###### Article R321-10
 
-Le mandataire général du Lloyd's de Londres fournit chaque année au ministre de l'économie et des finances la liste et la
+Le mandataire général du Lloyd's de Londres fournit chaque année à la commission de contrôle des assurances la liste et la
 composition de l'ensemble des souscripteurs et syndicats de souscripteurs du Lloyd's. Toute modification apportée à cette
-liste est portée par le mandataire à la connaissance du ministre. Chaque note de couverture, police, certificat d'assurance
-ou avenant doit indiquer le numéro du souscripteur ou syndicat de souscripteurs au nom duquel il est émis, ainsi que le nom
-et l'adresse du mandataire général.
+liste est portée par le mandataire à la connaissance de la commission. Chaque note de couverture, police, certificat
+d'assurance ou avenant doit indiquer le numéro du souscripteur ou syndicat de souscripteurs au nom duquel il est émis, ainsi
+que le nom et l'adresse du mandataire général.
 
-Le mandataire général produit en outre au ministre de l'économie et des finances la liste des intermédiaires autorisés à
+Le mandataire général produit en outre à la commission de contrôle des assurances la liste des intermédiaires autorisés à
 placer des affaires françaises au Lloyd's de Londres, ainsi que la liste des personnes chargées d'exercer les recours et de
 régler les sinistres. Tout changement dans la composition de ces listes est porté sans délai par le mandataire à la
-connaissance du ministre de l'économie et des finances.
+connaissance de la commission de contrôle des assurances.
 
 Aucune autorisation de souscrire, d'exercer des recours ou de régler des sinistres ne peut être délivrée sans l'accord exprès
 du mandataire général et de Lloyd's de Londres ne peut accepter d'affaires françaises de la part d'intermédiaires ne figurant
-pas sur la liste produite par le mandataire général au ministre de l'économie et des finances.
+pas sur la liste produite par le mandataire général à la commission de contrôles des assurances.
 
 Ne peuvent figurer sur la liste des intermédiaires prévue au second alinéa du présent article que les personnes qui satisfont
 aux dispositions des articles R. 511-1 à R. 511-4 et ont pris, en outre, l'engagement de déclarer au moins trimestriellement
@@ -20782,7 +20843,7 @@ au mandataire général toutes les affaires françaises placées au Lloyd's de L
 
 Les mêmes personnes, ainsi que celles qui sont chargées de l'exercice des recours et du règlement des sinistres, doivent
 prendre l'engagement de se soumettre, le cas échéant, au contrôle prévu par l'article R. 310-1, et de mettre le mandataire
-général en mesure de fournir au ministre de l'économie et des finances les renseignements et documents réglementaires.
+général en mesure de fournir à la commission de contrôle des assurances les renseignements et documents réglementaires.
 
 Pour ses opérations sur le territoire de la République française, le comité du Lloyd's de Londres doit notifier sans délai au
 mandataire général toute signature de police, de certificat d'assurance ou d'avenant portant modification de la prime, ainsi
@@ -20797,13 +20858,18 @@ qualité et d'engager les souscripteurs ou syndicats de souscripteurs intéress�
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+	  - TXT_SOURCE: Code des assurances R321-9
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 11 () JORF 15 septembre 1990
+
 	**Cite**:
 
 	  - Code des assurances R310-1, R511-1 à R511-4
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R321-9
 
 
 ###### Article R321-12
@@ -20845,7 +20911,7 @@ En ce qui concerne les entreprises dont le siège social est établi sur le terr
 
 ###### Article R321-14
 
-Le ministre de l'économie et des finances présente dans un délai de trois mois ses observations à l'autorité de contrôle d'un
+La commission de contrôle des assurances présente dans un délai de trois mois ses observations à l'autorité de contrôle d'un
 Etat membre de la Communauté économique européenne qui lui transmet pour avis le programme d'activité présenté par une
 entreprise française sollicitant de cette autorité l'agrément pour pratiquer des opérations d'assurances.
 
@@ -20855,64 +20921,28 @@ entreprise française sollicitant de cette autorité l'agrément pour pratiquer 
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 9 () JORF 12 mai 1984
+	  - Décret n°90-815 du 14 septembre 1990 - art. 11 () JORF 15 septembre 1990
 
 	**Cité par**:
 
 	  - Code des assurances - art. R329-1 (VD)
 
+	**Nouveaux textes**:
 
-###### Article R321-15
-
-Afin d'obtenir l'agrément spécial prévu à l'article L. 321-2, une entreprise étrangère dont le siège social n'est pas établi
-sur le territoire d'un Etat membre de la Communauté économique européenne, et qui désire pratiquer exclusivement la
-réassurance sur le territoire de la République française, propose à l'acceptation du ministre de l'économie et des finances
-une personne physique ou morale ayant la qualité de mandataire général et satisfaisant aux conditions fixées par décret en
-Conseil d'Etat pris après avis du conseil national des assurances.
-
-La demande de l'entreprise, produite en double exemplaire, doit comporter, outre les documents prévus aux e et f de l'article
-R. 321-6 :
-
-a) Un certificat délivré par les autorités administratives compétentes et attestant, s'il s'agit d'une personne morale,
-qu'elle a été constituée et qu'elle fonctionne dans son pays d'origine conformément aux lois de ce pays, ou s'il s'agit d'une
-personne physique, que ses opérations sont effectuées conformément aux lois de son pays d'origine ;
-
-b) La liste des réassureurs ou rétrocessionnaires auxquels l'entreprise se propose de faire appel pour ses opérations sur le
-territoire de la République française ;
-
-c) Le bilan, le compte d'exploitation générale et le compte général de pertes et profits pour chacun des trois derniers
-exercices sociaux ;
-
-d) La justification que l'entreprise possède, sur le territoire de la République française, pour ses opérations sur ce
-territoire, une succursale où elle fait élection de domicile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 13 (V) JORF 15 septembre 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L321-2 (M)
-	  - Code des assurances L321-2, R321-6
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R321-9
+	  - Code des assurances R321-9 (4ème version)
 
 
 ###### Article R321-16
 
 Les montants et modalités de constitution du cautionnement de réciprocité sont fixés par le ministre de l'économie et des
-finances de façon à représenter en monnaie française la contrepartie des cautionnement ou garantie exigés des entreprises
-françaises dans le pays auquel ressortit l'entreprise étrangère intéressée.
+finances de façon à représenter la contrepartie des cautionnement ou garantie exigés des entreprises françaises dans le pays
+auquel ressortit l'entreprise étrangère intéressée.
 
 La restitution du cautionnement ne peut intervenir que s'il ne se trouve plus justifié par l'application du principe de
 réciprocité, ou lorsque l'entreprise étrangère, ayant mis fin à ses opérations sur le territoire de la République française,
@@ -20928,20 +20958,29 @@ l'économie et des finances ses observations sur la restitution envisagée.
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
 	  - TXT_SOURCE: Code des assurances - art. L321-2 (M)
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 14 () JORF 15 septembre 1990
 
 	**Cité par**:
 
 	  - Code des assurances - art. R329-1 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R321-12 (4ème version)
 
 
 ##### Section V : Publicité, suspension et caducité de l'agrément administratif.
 
 ###### Article R*321-19
 
-En cas de transfert intervenant en application de l'article L. 324-1 ou de l'article L. 324-5 et portant sur la totalité des
-contrats appartenant à une branche ou sous-branche déterminée, l'agrément administratif cesse de plein droit d'être valable
-pour cette branche ou sous-branche.
+En cas de transfert intervenant en application de l'article L. 324-1 ou de l'article L. 310-18, 6°, et portant sur la
+totalité des contrats appartenant à une branche ou sous-branche déterminée, l'agrément administratif cesse de plein droit
+d'être valable pour cette branche ou sous-branche.
 
 **Liens relatifs à cet article**
 
@@ -20949,14 +20988,18 @@ pour cette branche ou sous-branche.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 15 () JORF 15 septembre 1990
+
 	**Cite**:
 
+	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. L324-1 (M)
-	  - Code des assurances - art. L324-5 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 141
 
 
 ###### Article R*321-20
@@ -26145,102 +26188,6 @@ La décision qui prononce le transfert en fixe les modalités et la date de pris
 
 ##### Section I : Règles générales.
 
-###### Article R*325-1
-
-L'agrément administratif accordé à une entreprise française peut à tout moment être retiré totalement ou partiellement par le
-ministre de l'économie et des finances, lorsque cette entreprise :
-
-- ne satisfait plus aux conditions requises pour obtenir l'agrément ;
-
-- ou bien n'a pu réaliser, dans les délais impartis, les mesures prévues par le plan de redressement ou par le plan de
-financement à court terme mentionnés aux articles R. 323-2 et R. 323-4 ;
-
-- ou bien manque gravement aux obligations qui lui incombent en vertu de la réglementation en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 17 (V) JORF 15 septembre 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. R*323-2 (M)
-	  - Code des assurances - art. R*323-4 (M)
-
-
-###### Article R*325-3
-
-L'agrément administratif accordé à une entreprise étrangère dont le siège social est établi sur le territoire d'un Etat
-membre de la Communauté économique européenne peut à tout moment être retiré totalement ou partiellement par le ministre de
-l'économie et des finances lorsque cette entreprise :
-
-- ne satisfait plus aux conditions requises pour obtenir l'agrément ;
-
-- ou bien manque gravement aux obligations qui lui incombent en vertu de la réglementation en vigueur, notamment en ce qui
-concerne les provisions techniques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 17 (V) JORF 15 septembre 1990
-
-
-###### Article R*325-6
-
-L'agrément administratif accordé à une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat
-membre de la Communauté économique européenne peut à tout moment être retiré, totalement ou partiellement, par le ministre de
-l'économie et des finances, lorsque cette entreprise :
-
-- ne satisfait plus aux conditions requises pour obtenir l'agrément ;
-
-- ou bien n'a pu réaliser, dans les délais impartis, les mesures prévues par le plan de redressement ou par le plan de
-financement à court terme mentionnés aux articles R. 323-3 et R. 323-5 ;
-
-- ou bien manque gravement aux obligations qui lui incombent en vertu de la réglementation en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 17 (V) JORF 15 septembre 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. R*323-3 (M)
-	  - Code des assurances - art. R*323-5 (M)
-
-
-###### Article R*325-7
-
-Si le retrait d'agrément mentionné à l'article R. 325-6 concerne une entreprise faisant l'objet d'une vérification de
-solvabilité globale exercée par le ministre de l'économie et des finances, celui-ci informe les autorités de contrôle des
-Etats membres de la Communauté économique européenne sur le territoire desquels l'entreprise est agréée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances R325-6
-
-
 ###### Article R*325-8
 
 En cas de retrait d'agrément d'une entreprise étrangère par l'autorité de contrôle de son siège social, le ministre de
@@ -26263,7 +26210,7 @@ entreprise.
 Si une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
 économique européenne, soumise à une vérification de solvabilité globale exercée par l'autorité de contrôle d'un Etat membre
 de ladite Communauté autre que la France, fait l'objet de la part de cette autorité d'un retrait d'agrément motivé par
-l'insuffisance de la solvabilité globale mentionnée à l'article R. 334-12, le ministre de l'économie et des finances procède
+l'insuffisance de la solvabilité globale mentionnée à l'article R. 334-18, le ministre de l'économie et des finances procède
 au retrait de l'agrément administratif précédemment accordé à la succursale française de cette entreprise.
 
 **Liens relatifs à cet article**
@@ -26272,84 +26219,24 @@ au retrait de l'agrément administratif précédemment accordé à la succursale
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 22 () JORF 15 septembre 1990
+
 	**Cite**:
 
 	  - Code des assurances - art. R*334-12 (M)
 
 
-###### Article R*325-10
-
-Lorsqu'une entreprise fait l'objet d'un retrait de l'agrément administratif par le ministre de l'économie et des finances ou
-par l'autorité de contrôle d'un Etat de la Communauté économique européenne autre que la France, le ministre des finances
-prend, le cas échéant, avec le concours des autorités de contrôle des Etats membres de la Communauté sur le territoire
-desquels l'entreprise opère, toutes mesures propres à sauvegarder les intérêts des assurés et bénéficiaires de contrats,
-notamment celles prévues à l'article R. 323-8.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. R*323-8 (M)
-
-
-###### Article R*325-12
-
-Sauf dans les cas prévus aux articles R. 325-8 et R. 325-9, l'agrément administratif ne peut être retiré, totalement ou
-partiellement, à une entreprise qu'après avis conforme du conseil national des assurances, l'entreprise ayant été
-préalablement mise en demeure, par lettre recommandée, de présenter ses observations par écrit dans un délai de quinzaine.
-
-L'entreprise ne peut se pourvoir devant le Conseil d'Etat que dans les huit jours francs de la notification du retrait
-d'agrément total ou partiel.
-
-Le ministre de l'économie et des finances peut appeler le conseil national des assurances à se prononcer à nouveau, dans le
-délai d'un mois, au cas où celui-ci n'aurait pas émis un avis conforme à une proposition de retrait total ou partiel de
-l'agrément administratif, si celle-ci est motivée par une infraction à la réglementation en vigueur ou aux statuts. Si le
-conseil national des assurances maintient son avis, le ministre peut néanmoins décider de retirer l'agrément. Dans ce cas, le
-pourvoi prévu au précédent alinéa est suspensif et la publication de l'arrêté de retrait d'agrément ne peut être faite
-qu'après le rejet du pourvoi par le Conseil d'Etat. Celui-ci doit statuer dans les trois mois à dater du dépôt du pourvoi au
-greffe du Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. A411-11 (Ab)
-	  - Code des assurances - art. A411-5 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*325-8 (M)
-	  - Code des assurances R325-8, R325-9
-
-
-###### Article R*325-13
-
-L'agrément administratif est retiré par arrêté publié au Journal officiel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-
 ###### Article R325-2
 
-Si le retrait d'agrément prévu à l'article R. 325-1 concerne une entreprise agréée également sur le territoire d'autres Etats
-membres de la Communauté économique européenne, le ministre de l'économie, des finances et du budget informe les autorités de
-contrôle de ces Etats.
+Si le retrait d'agrément prévu à l'article L. 325-1 ou au 5° de l'article L. 310-18 concerne une entreprise française agréée
+également sur le territoire d'autres Etats membres des communautés économiques européennes, le ministre chargé de l'économie
+et des finances ou la commission de contrôle des assurances, selon le cas, informe les autorités de contrôle de ces Etats.
 
 **Liens relatifs à cet article**
 
@@ -26357,26 +26244,30 @@ contrôle de ces Etats.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 21 () JORF 12 mai 1984
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 18 () JORF 15 septembre 1990
 
 	**Cite**:
 
-	  - Code des assurances R325-1
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L325-1 (M)
 
 
 ###### Article R325-4
 
-Avant de procéder au retrait d'agrément prévu à l'article R. 325-3, le ministre de l'économie, des finances et du budget
-consulte l'autorité de contrôle de l'Etat où est situé le siège social de l'entreprise concernée.
+Avant de procéder au retrait d'agrément prévu à l'article L. 325-1 ou au 5° de l'article L. 310-18, dans le cas d'une
+entreprise étrangère dont le siège social est établi sur le territoire d'un Etat membre des communautés économiques
+européennes, le ministre chargé de l'économie et des finances ou la commission de contrôle des assurances, selon le cas,
+consulte l'autorité de contrôle de l'Etat où est situé le siège social de cette entreprise.
 
-Toutefois, le ministre peut suspendre l'activité de l'entreprise sur le territoire de la République française avant l'issue
-de cette constitution. Dans ce cas, il en informe immédiatement l'autorité de contrôle intéressée.
+Toutefois, le ministre chargé de l'économie et des finances ou la commission de contrôle des assurances, selon le cas, peut
+suspendre l'activité de l'entreprise sur le territoire de la République française avant l'issue de cette consultation. Dans
+ce cas, elle en informe immédiatement l'autorité de contrôle étrangère intéressée.
 
 **Liens relatifs à cet article**
 
@@ -26384,24 +26275,25 @@ de cette constitution. Dans ce cas, il en informe immédiatement l'autorité de 
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 22 () JORF 12 mai 1984
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 19 () JORF 15 septembre 1990
 
 	**Cite**:
 
-	  - Code des assurances R325-3
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L325-1 (M)
 
 
 ###### Article R325-5
 
-Le ministre de l'économie, des finances et du budget fait connaître ses observations à l'autorité de contrôle d'un Etat
-membre de la Communauté économique européenne qui le consulte à l'occasion du retrait d'un agrément précédemment accordé dans
-cet Etat à une entreprise française mentionnée à l'article L. 310-1 du code des assurances.
+La commission de contrôle des assurances fait connaître ses observations à l'autorité de contrôle d'un Etat membre de la
+Communauté économique européenne qui la consulte à l'occasion du retrait d'un agrément précédemment accordé dans cet Etat à
+une entreprise française mentionnée à l'article L. 310-1 du code des assurances.
 
 **Liens relatifs à cet article**
 
@@ -26409,17 +26301,72 @@ cet Etat à une entreprise française mentionnée à l'article L. 310-1 du code 
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 23 () JORF 12 mai 1984
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 20 () JORF 15 septembre 1990
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+
+
+###### Article R325-7
+
+Si le retrait d'agrément mentionné à l'article L. 325-1 ou au 5° de l'article L. 310-18 concerne une entreprise étrangère
+dont le siège social n'est pas établi sur le territoire d'un Etat membre des communautés économiques européennes et qui fait
+l'objet d'une vérification de solvabilité globale exercée par la commission de contrôle des assurances, l'autorité qui
+prononce le retrait d'agrément informe les autorités de contrôle des Etats membres des communautés économiques européennes
+sur le territoire desquels l'entreprise est agréée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 21 () JORF 15 septembre 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L325-1 (M)
+
+
+###### Article R325-10
+
+Lorsqu'une entreprise fait l'objet d'un retrait de l'agrément administratif par le ministre de l'économie et des finances,
+par la commission de contrôle des assurances ou par l'autorité de contrôle d'un Etat de la Communauté économique européenne
+autre que la France, la commission de contrôle des assurances prend, le cas échéant, avec le concours des autorités de
+contrôle des Etats membres de la Communauté sur le territoire desquels l'entreprise opère, toutes mesures propres à
+sauvegarder les intérêts des assurés et bénéficiaires de contrats, notamment celles prévues à l'article R. 323-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 23 () JORF 15 septembre 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. R*323-8 (M)
 
 
 ###### Article R325-11
@@ -26443,10 +26390,71 @@ dont le siège social est établi sur le territoire d'un Etat membre de la Commu
 	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
 
 
+###### Article R325-12
+
+Préalablement au retrait de l'agrément administratif mentionné à l'article L. 325-1, le ministre chargé de l'économie et des
+finances notifie au président du conseil d'administration de l'entreprise concernée, par lettre recommandée avec demande
+d'avis de réception ou remise contre récépissé, les faits relevés à l'encontre de l'entreprise et l'invite à présenter ses
+observations écrites dans un délai de quinze jours.
+
+S'il décide d'engager la procédure de retrait d'agrément, le ministre transmet à la commission des entreprises d'assurance
+mentionnée à l'article L. 411-4 une demande d'avis concluant au retrait d'agrément, accompagnée d'un rapport explicatif ainsi
+que des observations présentées par l'entreprise.
+
+Lorsque la commission a transmis son avis au ministre, ce dernier peut prononcer par arrêté le retrait d'agrément. Il notifie
+sa décision à l'entreprise concernée par lettre recommandée avec demande d'avis de réception ou remise contre récépissé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 24 () JORF 15 septembre 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. A411-11 (Ab)
+	  - Code des assurances - art. A411-5 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L325-1 (M)
+	  - Code des assurances - art. L411-4 (M)
+
+
+###### Article R325-13
+
+L'arrêté ou la décision de retrait de l'agrément administratif, selon le cas, fait l'objet d'une publication au Journal
+officiel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 25 () JORF 15 septembre 1990
+
+
 ###### Article R325-14
 
-Les dispositions de la présente section sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, des Terres australes et antarctiques françaises et de Wallis-et-Futuna.
+Les dispositions de la présente section sont applicables dans les territoires de la Polynésie française, des Terres australes
+et antarctiques françaises, de Wallis-et-Futuna et dans la collectivité territoriale de Mayotte.
+
+**Nota:**
+
+Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à la
+" collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte " lorsque ces dispositions ont vocation à
+s'appliquer sur le territoire défini au premier alinéa de l'article 1er de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -26456,147 +26464,7 @@ française, des Terres australes et antarctiques françaises et de Wallis-et-Fut
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 35 () JORF 12 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
-
-
-##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.
-
-###### Article R*325-15
-
-Dans le cas prévu à l'article L. 325-1, le retrait de l'agrément administratif est notifié, à chaque souscripteur d'un
-contrat comportant la garantie des risques dont l'assurance a été rendue obligatoire par l'article L. 211-1, par lettre
-recommandée adressée conformément aux dispositions de l'article R. 326-1.
-
-Cette lettre doit reproduire le texte des articles L. 326-17 et L. 421-9.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-
-	**Abrogé par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 27 (V) JORF 15 septembre 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-1 (M)
-	  - Code des assurances - art. L325-1 (M)
-	  - Code des assurances - art. L326-17 (M)
-	  - Code des assurances - art. L421-9 (M)
-	  - Code des assurances - art. R*326-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L325-1 (M)
-
-
-###### Article R*325-16
-
-Le montant du rappel prescrit à l'article L. 325-1 en cas de retrait de l'agrément administratif est déterminé après avis de
-la commission mentionnée à l'article L. 323-3 et sur avis conforme du conseil national des assurances, en pourcentage de la
-dernière prime ou cotisation annuelle échue.
-
-Ce pourcentage peut varier dans la limite des plafonds prescrits à l'article L. 325-1 en fonction de la durée pendant
-laquelle les assurés ont été garantis.
-
-Ce pourcentage est fixé, compte tenu des avantages de tarifs dont ont bénéficié les assurés.
-
-Ces avantages sont évalués en comparant les tarifs qui ont été appliqués aux assurés et les tarifs homologués pour celles des
-catégories d'assurances définies par l'arrêté prévu à l'article R. 331-26 qui couvrent les risques soumis à l'obligation
-prévue à l'article L. 211-1.
-
-Le liquidateur procède au recouvrement des rappels dont le produit, exclusif de tous frais et commissions, est versé au fonds
-de garantie institué par l'article L. 421-1 dans les dix jours suivant l'expiration de chaque trimestre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-
-	**Abrogé par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 27 (V) JORF 15 septembre 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-1 (M)
-	  - Code des assurances - art. L323-3 (Ab)
-	  - Code des assurances - art. L325-1 (M)
-	  - Code des assurances - art. L421-1 (M)
-	  - Code des assurances - art. R*331-26 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L325-1 (M)
-
-
-###### Article R*325-17
-
-Les rappels de prime ou de cotisation prévus à l'article R. 323-16 ne peuvent être recouvrés que sur les souscripteurs de
-contrats d'assurance qui étaient en cours à la date de la décision du conseil d'administration relative au rappel ou à la
-date de publication au Journal officiel de l'arrêté prononçant le retrait de l'agrément administratif, ou qui étaient encore
-en cours six mois avant ces dates.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 27 (V) JORF 15 septembre 1990
-
-	**Cite**:
-
-	  - Code des assurances R323-16
-
-
-###### Article R*325-18
-
-Les dispositions de l'article L. 325-1 doivent être portées par les entreprises d'assurance à la connaissance des assurés
-suivant les modalités qui sont fixées par le ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 27 (V) JORF 15 septembre 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L325-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L325-1 (M)
+	  - Décret n°90-815 du 14 septembre 1990 - art. 26 () JORF 15 septembre 1990
 
 
 #### Chapitre VI : Liquidation
