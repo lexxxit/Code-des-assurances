@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2002-07-11
+Version Consolidée au 2002-10-09
 
 # Partie législative
 
@@ -47693,42 +47693,6 @@ III du présent code.
 	  - Code des assurances - art. R310-20 (Ab)
 
 
-##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.
-
-###### Article A310-5
-
-Les entreprises mentionnées à l'article L. 310-1 effectuent la vérification d'identité prévue par l'article 12 de la loi n°
-90-614 du 12 juillet 1990 et par l'article 3 du décret n° 91-160 du 13 février 1991 avant la conclusion de tout contrat
-d'assurance ou de capitalisation dès lors que celui-ci donne lieu à la constitution d'une provision mathématique.
-
-Les dispositions du précédent alinéa sont applicables lorsque le contrat donne lieu au versement d'un montant de prime
-supérieur ou égal à 8000 euros par an.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 2001-09-03 art. 1 A JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Cite**:
-
-	  - Loi n°90-614 1990-07-12 art. 12
-	  - Décret n°91-160 du 13 février 1991 - art. 3 (M)
-	  - Code des assurances - art. L310-1 (M)
-
-	**Anciens textes**:
-
-	  - Code des assurances - art. A310-1 (T)
-
-	**Cité par**:
-
-	  - Code des assurances - art. A310-6 (V)
-
-
 #### Chapitre unique
 
 ##### Section I : Dispositions générales.
@@ -47840,6 +47804,42 @@ notaire délivre une attestation faisant foi de ce serment ou de cette déclarat
 
 
 ##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.
+
+###### Article A310-5
+
+Les entreprises mentionnées à l'article L. 310-1 et les courtiers d'assurances et de réassurance effectuent la vérification
+d'identité prévue par l'article 12 de la loi n° 90-614 du 12 juillet 1990 et par l'article R. 563-1 du code monétaire et
+financier avant la conclusion de tout contrat d'assurance ou de capitalisation dès lors que celui-ci donne lieu à la
+constitution d'une provision mathématique.
+
+Les personnes mentionnées au premier alinéa doivent également vérifier l'identité du bénéficiaire d'un contrat d'assurance
+vie lors du paiement de la prestation ainsi que l'identité de la personne qui demande le remboursement d'un bon de
+capitalisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 2002-10-01 art. 1 JORF 9 octobre 2002
+
+	**Cite**:
+
+	  - Loi n°90-614 1990-07-12 art. 12
+	  - Code monétaire et financier - art. R563-1 (M)
+	  - Code des assurances - art. L310-1 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A310-1 (T)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-6 (V)
+
 
 ###### Article A310-6
 
