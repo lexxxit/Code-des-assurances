@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-09-21
+Version Consolidée au 1990-09-25
 
 # Partie législative
 
@@ -43164,6 +43164,305 @@ l'article R. 515-1 ou R. 515-3.
 
 	  - Code des assurances - art. R515-1 (M)
 	  - Code des assurances - art. R515-3 (M)
+
+
+### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance
+
+#### Chapitre unique.
+
+###### Article R530-1
+
+Le montant de la garantie financière prévue à l'article L. 530-1 doit être au moins égal à la somme de 750 000 F et ne peut
+être inférieur au double du montant moyen mensuel des fonds perçus par le courtier ou la société de courtage d'assurance,
+calculé sur la base des fonds perçus au cours des douze derniers mois précédant le mois de la date de souscription ou de
+reconduction de l'engagement de caution.
+
+Le calcul du montant défini à l'alinéa précédent tient compte du total des fonds confiés au courtier ou la société de
+courtage d'assurance, par les assurés, en vue d'être versés à des entreprises mentionnées à l'article L. 310-1, ou par toute
+personne physique ou morale, en vue d'être versés aux assurés. De ce total seront déduits les versements pour lesquels le
+courtier a reçu d'une entreprise d'assurance un mandat écrit le chargeant expressément de l'encaissement des primes et
+accessoirement du règlement des sinistres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L530-1 (Ab)
+
+
+###### Article R530-2
+
+L'engagement de caution est pris pour la durée de chaque année civile ; il est reconduit tacitement au 1er janvier.
+
+Le montant de la garantie est révisé à la fin de chaque période annuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+
+###### Article R530-3
+
+Le garant peut exiger la communication de tous registres et documents comptables qu'il estime nécessaire à la détermination
+du montant de la garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+
+###### Article R530-4
+
+Le garant délivre à la personne garantie une attestation de garantie financière. Cette attestation est renouvelée
+annuellement lors de la reconduction de l'engagement de caution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. R530-12 (Ab)
+
+
+###### Article R530-5
+
+La garantie financière est mise en oeuvre sur la seule justification que le courtier ou la société de courtage d'assurance
+garanti est défaillant sans que le garant puisse opposer au créancier le bénéfice de discussion.
+
+La défaillance de la personne garantie est acquise un mois après la date de réception par celle-ci d'une lettre recommandée
+exigeant le paiement des sommes dues ou d'une sommation de payer, demeurées sans effet. Elle est également acquise par un
+jugement prononçant la liquidation judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+
+###### Article R530-6
+
+Le paiement est effectué par le garant à l'expiration d'un délai de trois mois à compter de la présentation de la première
+demande écrite.
+
+Si d'autres demandes sont reçues pendant ce délai, une répartition a lieu au marc le franc dans le cas où le montant total
+des demandes excéderait le montant de la garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+
+###### Article R530-7
+
+La garantie cesse en raison de la dénonciation du contrat à son échéance.
+
+Elle cesse également par le décès ou la cessation d'activité de la personne garantie ou, s'il s'agit d'une personne morale,
+par la dissolution de la société.
+
+En aucun cas la garantie ne peut cesser avant l'expiration d'un délai de trois jours francs suivant la publication à la
+diligence du garant d'un avis dans deux journaux, dont un quotidien, paraissant ou à défaut, distribués dans le département
+où est établi le courtier ou la société de courtage d'assurance.
+
+Toutefois le garant n'accomplit pas les formalités de publicité prescrites au présent article si la personne garantie apporte
+la preuve de l'existence d'une nouvelle garantie financière prenant la suite de la précédente sans interruption.
+
+Dans tous les cas prévus aux alinéas précédents, la cessation de garantie n'est pas opposable au créancier, pour les créances
+nées pendant la période de validité de l'engagement de caution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+
+###### Article R530-8
+
+Le contrat d'assurance de responsabilité civile professionnelle prévu à l'article L. 530-2 comporte pour les entreprises
+d'assurance des obligations qui ne peuvent pas être inférieures à celles définies ci-dessous.
+
+Le contrat prévoit une garantie de 10 millions de francs par sinistre et par année pour un même courtier ou société de
+courtage d'assurance assuré.
+
+Il peut fixer une franchise par sinistre qui ne doit pas excéder 20 p. 100 du montant des indemnités dues. Cette franchise
+n'est pas opposable aux victimes.
+
+Il garantit la personne assurée de toutes réclamations présentées entre la date d'effet et la date d'expiration du contrat
+quelle que soit la date du fait dommageable ayant entraîné sa responsabilité dès lors que l'assuré n'en a pas eu connaissance
+au moment de la souscription.
+
+Il garantit la réparation de tout sinistre connu de l'assuré dans un délai maximum de douze mois à compter de l'expiration du
+contrat, à condition que le fait générateur de ce sinistre se soit produit pendant la période de validité du contrat.
+
+Il inclut en outre une garantie subséquente d'un montant de dix millions de francs qui porte effet pendant la période de dix
+ans qui suit la date de cessation du contrat si celle-ci est consécutive au décès, à la cessation provisoire ou définitive de
+l'activité professionnelle pour quelque cause que ce soit, au redressement judiciaire, à la modification de la situation
+juridique de la personne assurée, notamment par fusion, scission, cession totale ou partielle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+
+	**Cite**:
+
+	  - Code des assurances - art. L530-2 (Ab)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*515-9 (Ab)
+	  - Code des assurances - art. R530-9 (Ab)
+
+
+###### Article R530-9
+
+Le contrat mentionné à l'article R. 530-8 est reconduit tacitement au 1er janvier de chaque année.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R530-8 (M)
+
+
+###### Article R530-10
+
+L'assureur délivre à la personne garantie une attestation d'assurance de responsabilité civile professionnelle. Cette
+attestation est renouvelée annuellement lors de la reconduction du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. R530-12 (Ab)
+
+
+###### Article R530-11
+
+Tout document à usage professionnel émanant d'un courtier ou d'une société de courtage d'assurance doit comporter la
+mention : "garantie financière et assurance de responsabilité civile professionnelle conformes aux articles L. 530-1 et L.
+530-2 du code des assurances".
+
+Pour les agents généraux d'assurance, les agents d'assurances maritimes, fluviales ou aériennes et d'assurances de transport,
+ainsi que toute autre personne habilitée à effectuer des opérations de courtage d'assurance, cette mention doit être précédée
+des mots :
+
+"Pour les opérations de courtage d'assurance :".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L530-1 (Ab)
+	  - Code des assurances - art. L530-2 (Ab)
 
 
 # Partie réglementaire - Arrêtés
