@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-07-01
+Version Consolidée au 2004-07-16
 
 # Partie législative
 
@@ -23981,9 +23981,7 @@ transféré sous l'article R1142-4 du même code.
 
 ### Titre Ier : Dispositions générales et contrôle de l'Etat
 
-#### Chapitre unique
-
-##### Section I : Dispositions générales.
+#### Chapitre Ier : Dispositions générales.
 
 ###### Article R*310-5
 
@@ -23999,18 +23997,17 @@ susceptible d'induire en erreur sur la véritable nature de l'entreprise ou l'im
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
 
 	**Cité par**:
 
@@ -24029,7 +24026,7 @@ L'autorité administrative mentionnée à l'article L. 310-9, est le ministre de
 
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cite**:
 
@@ -24039,11 +24036,11 @@ L'autorité administrative mentionnée à l'article L. 310-9, est le ministre de
 ###### Article R310-6-1
 
 Les entreprises françaises mentionnées à l'article L. 310-1 du présent code doivent, avant de soumettre à l'assemblée
-générale des modifications à leurs statuts, obtenir l'accord de la commission de contrôle des assurances qui statue dans les
-trois mois du dépôt de trois spécimens des projets de modification des résolutions portant statuts. Un exemplaire de ces
-documents est transmis par la commission au commissaire du Gouvernement. A l'expiration de ce délai, en l'absence
-d'observation de la commission, les modifications sont considérées comme approuvées. Ce délai est réduit à quarante-cinq
-jours pour les augmentations de capital social.
+générale des modifications à leurs statuts, obtenir l'accord de la commission de contrôle des assurances, des mutuelles et
+des institutions de prévoyance qui statue dans les trois mois du dépôt de trois spécimens des projets de modification des
+résolutions portant statuts. Un exemplaire de ces documents est transmis par la commission au commissaire du Gouvernement. A
+l'expiration de ce délai, en l'absence d'observation de la commission, les modifications sont considérées comme approuvées.
+Ce délai est réduit à quarante-cinq jours pour les augmentations de capital social.
 
 **Liens relatifs à cet article**
 
@@ -24051,9 +24048,10 @@ jours pour les augmentations de capital social.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-617 du 28 juin 1991 - art. 1 () JORF 30 juin 1991
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cite**:
 
@@ -24071,8 +24069,9 @@ jours pour les augmentations de capital social.
 ###### Article R310-7
 
 Les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1-1 sont tenues, dans le mois de leur
-constitution, de notifier cette dernière à la commission de contrôle des assurances et d'adresser à celle-ci, dans le même
-délai, un dossier dont la composition est fixée par arrêté du ministre chargé de l'économie.
+constitution, de notifier cette dernière à la commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance et d'adresser à celle-ci, dans le même délai, un dossier dont la composition est fixée par arrêté du ministre
+chargé de l'économie.
 
 Cette obligation s'impose également aux entreprises qui adoptent pour nouvel objet social l'exercice de l'activité de
 réassurance.
@@ -24083,9 +24082,10 @@ réassurance.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-883 du 31 juillet 1995 - art. 1 () JORF 5 août 1995
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cité par**:
 
@@ -24107,13 +24107,9 @@ ayant leur siège social dans un Etat non communautaire partie à l'accord sur l
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cite**:
 
@@ -24124,20 +24120,11 @@ ayant leur siège social dans un Etat non communautaire partie à l'accord sur l
 	  - Code des assurances - art. R334-32 (V)
 
 
-##### Section II : Commission de contrôle des assurances.
+##### Section I : Dispositions générales applicables aux entreprises d'assurance.
 
-###### Article R*310-21
+###### Article R310-10-2
 
-Lorsque la commission de contrôle des assurances décide, en application de l'article L. 310-18, d'engager vis-à-vis d'une
-entreprise la procédure de transfert d'office de son portefeuille de contrats d'assurance, cette décision est portée à la
-connaissance de l'ensemble des entreprises d'assurance par un avis publié au Journal officiel. Cet avis fait courir un délai
-de quinze jours pendant lesquels les entreprises qui accepteraient de prendre en charge le portefeuille en cause doivent se
-faire connaître à la commission.
-
-L'entreprise désignée par la commission de contrôle des assurances pour prendre en charge le portefeuille de contrats
-d'assurances transféré est avisée de cette désignation par lettre recommandée avec demande d'avis de réception.
-
-La décision qui prononce le transfert en fixe les modalités et la date de prise d'effet.
+Le livre III du présent code est applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -24145,32 +24132,21 @@ La décision qui prononce le transfert en fixe les modalités et la date de pris
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
-	**Transféré par**:
-
-	  - Décret n°94-635 1994-07-25 art. 3 I, III JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 3 () JORF 26 juillet 1994
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
-	**Cite**:
 
-	  - Code des assurances - art. L310-18 (M)
+#### Chapitre II : Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
 
-	**Anciens textes**:
+##### Section I : Organisation et fonctionnement
 
-	  - Code des assurances R324-4 (2ème version)
+##### Sous-section 1 : Organisation de la commission
 
+###### Article R*310-12-1
 
-###### Article R310-11
-
-La commission de contrôle des assurances se réunit sur convocation de son président. En matière disciplinaire, elle ne peut
-délibérer que si quatre de ses membres sont présents.
+Chaque commissaire du Gouvernement dispose d'un délai de trois jours ouvrés suivant la réunion de la commission de contrôle
+pour demander une deuxième délibération.
 
 **Liens relatifs à cet article**
 
@@ -24180,7 +24156,48 @@ délibérer que si quatre de ses membres sont présents.
 
 	**Créé par**:
 
-	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2 (Ab)
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R951-2 (Ab)
+
+
+###### Article R310-11
+
+La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance se réunit sur convocation de son
+président ou à la demande de la moitié de ses membres.
+
+Elle ne peut délibérer que si cinq au moins de ses membres sont présents, ce nombre étant porté à six en matière
+disciplinaire.
+
+II. - Il est établi un procès-verbal des séances de la commission de contrôle par un agent des services qui fait office de
+secrétaire de séance. Mention y est faite des noms des membres présents.
+
+Le procès-verbal est soumis à l'approbation de la commission.
+
+Une fois approuvé, ce procès-verbal est signé par le président et copie en est tenue à la disposition de chacun des membres
+de la commission et des commissaires du Gouvernement.
+
+III. - Les membres de la commission perçoivent, pour chaque séance, une indemnité dont le montant est fixé par la commission.
+Le montant des indemnités versées annuellement à chaque membre ne doit pas dépasser un cinquième du traitement moyen afférent
+au cinquième groupe supérieur des emplois de l'Etat classés hors échelle. Le président de la commission perçoit une
+rémunération ou une indemnité du même montant, assortie d'une indemnité de fonction fixée par le ministre chargé de
+l'économie. Le montant de cette dernière indemnité est publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cité par**:
 
@@ -24194,13 +24211,67 @@ délibérer que si quatre de ses membres sont présents.
 
 ###### Article R310-12
 
-Lorsque la commission de contrôle des assurances estime qu'il peut y avoir lieu de faire application des sanctions prévues à
-l'article L. 310-18, elle porte à la connaissance de l'entreprise concernée, par une lettre recommandée avec demande d'avis
-de réception adressée au représentant légal de l'entreprise, les faits qui lui sont reprochés ; elle fait savoir au
-représentant légal de l'entreprise qu'il peut prendre connaissance et copie des pièces du dossier ; elle l'invite à faire
-parvenir ses observations écrites dans un délai qui ne peut être inférieur à huit jours.
+I. - Sur proposition de son président et à la majorité des deux tiers de ses membres, la commission de contrôle peut
+constituer une ou plusieurs commissions spécialisées mentionnées à l'article L. 310-12-1. Elle peut les créer en matière
+d'assurances de personnes, de biens et de responsabilité ainsi qu'en matière d'intermédiation et de gouvernance des
+organismes pratiquant des activités d'assurance.
 
-Copie de la lettre de notification est adressée au commissaire du Gouvernement.
+Ces commissions spécialisées ne peuvent intervenir dans les matières relevant du pouvoir de sanction mentionné à l'article L.
+310-18 du présent code, à l'article L. 951-10 du code de la sécurité sociale et à l'article L. 510-11 du code de la
+mutualité. Elles peuvent intervenir dans les matières relevant des mesures de redressement et de sauvegarde mentionnées au
+chapitre III du titre III du livre III du présent code, à la section V du chapitre Ier du titre III du livre IX du code de la
+sécurité sociale et aux articles L. 510-8 et L. 510-9 du code de la mutualité lorsque le chiffre d'affaires moyen des trois
+derniers exercices de l'organisme concerné est inférieur à un seuil déterminé par arrêté conjoint des ministres chargés des
+finances, de la sécurité sociale et de la mutualité et au moins égal à celui prévu en application de l'article L. 510-2 du
+code de la mutualité.
+
+Lorsqu'elle décide la création d'une commission spécialisée, la commission de contrôle précise :
+
+1° L'étendue de la délégation qu'elle lui donne pour prendre des décisions de portée individuelle ;
+
+2° Sa composition, chaque commission spécialisée comprenant, outre le président de la commission de contrôle, quatre membres
+au moins de cette dernière ;
+
+3° La durée pour laquelle elle l'habilite à prendre les décisions mentionnées au 1°.
+
+La décision de création d'une commission spécialisée est publiée au Journal officiel de la République française.
+
+II. - 1° La commission spécialisée compétente à l'égard des organismes régis par le livre III du code de la mutualité,
+mentionnée à l'article L. 310-12-1, comprend, outre le président de la commission de contrôle, cinq de ses membres au moins.
+
+Elle est saisie de toute question concernant ces organismes, notamment par l'autorité administrative chargée du contrôle au
+niveau régional agissant dans le cadre des dispositions prévues à l'article L. 510-2 du code de la mutualité.
+
+Par dérogation aux dispositions du I, cette commission spécialisée est habilitée à prononcer à l'encontre des mutuelles
+régies par le livre III du code de la mutualité et selon les modalités définies aux articles R. 510-11, R. 510-12 et R.
+510-13 du même code les sanctions prévues à l'article L. 510-11 de ce code.
+
+Lorsqu'elle l'estime utile, cette commission spécialisée renvoie l'affaire devant la commission de contrôle.
+
+2° Lorsqu'elle se réunit en formation consultative, cette commission spécialisée peut s'adjoindre des personnalités reconnues
+pour leur expérience dans les domaines de la sécurité sociale, de la prévoyance et de la gestion de structures de soins. Elle
+peut notamment donner des avis ou faire des recommandations sur les relations entre les régimes de base de sécurité sociale
+et les organismes relevant de sa compétence. Réunie en formation consultative, elle ne peut prononcer de décisions de portée
+individuelle.
+
+III. - 1° Chacune des commissions spécialisées mentionnées aux I et II se réunit sur convocation du président de la
+commission de contrôle ou à la demande de la moitié de ses membres. Elle ne peut délibérer que si quatre au moins de ses
+membres sont présents.
+
+Les commissaires du Gouvernement peuvent assister aux réunions des commissions spécialisées.
+
+2° Il est établi un procès-verbal des délibérations de la commission spécialisée. Mention y est faite du nom des membres
+présents. Le procès-verbal est soumis à l'approbation de la commission spécialisée.
+
+Une fois approuvé, ce procès-verbal est signé par le président et copie en est tenue à la disposition des membres de la
+commission de contrôle et des commissaires du Gouvernement.
+
+Le président rend compte à la plus prochaine réunion de la commission de contrôle des décisions adoptées par chaque
+commission spécialisée.
+
+3° Une décision d'une commission spécialisée est exécutoire sauf si l'un de ses membres ou un commissaire du Gouvernement
+demande, au cours de la séance, que la décision soit renvoyée à la Commission de contrôle des assurances, des mutuelles et
+des institutions de prévoyance.
 
 **Liens relatifs à cet article**
 
@@ -24208,9 +24279,22 @@ Copie de la lettre de notification est adressée au commissaire du Gouvernement.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L951-10 (M)
+	  - Code des assurances - art. L310-12-1 (M)
+	  - Code des assurances - art. L310-18 (M)
+	  - Code de la mutualité - art. L510-11 (M)
+	  - Code de la mutualité - art. L510-2 (M)
+	  - Code de la mutualité - art. L510-8 (M)
+	  - Code de la mutualité - art. L510-9 (M)
+	  - Code de la mutualité - art. R510-11 (M)
+	  - Code de la mutualité - art. R510-12 (M)
+	  - Code de la mutualité - art. R510-13 (M)
 
 	**Liens**:
 
@@ -24220,18 +24304,34 @@ Copie de la lettre de notification est adressée au commissaire du Gouvernement.
 
 	  - Code de la sécurité sociale. - art. R951-2 (Ab)
 
-	**Cite**:
 
-	  - Code des assurances - art. L310-18 (M)
+##### Sous-section 2 : Régime budgétaire et comptable
 
+###### Article R310-12-2
 
-###### Article R310-13
+Sur proposition du secrétaire général et dans le cadre des dispositions mentionnées aux articles L. 310-12-3 et L. 310-12-4,
+la commission de contrôle délibère sur :
 
-Le représentant légal de l'entreprise est convoqué, par lettre recommandée avec demande d'avis de réception, pour être
-entendu par la commission de contrôle des assurances ; cette lettre doit lui parvenir huit jours au moins avant la date de la
-réunion de la commission.
+1° Le budget annuel et ses modifications en cours d'année ;
 
-Il peut se faire assister ou représenter par toute personne de son choix.
+2° Le compte financier et l'affectation des résultats ;
+
+3° Le règlement comptable et financier, qui est transmis aux ministres chargés de l'économie, de la sécurité sociale et de la
+mutualité ;
+
+4° Les conditions générales de recrutement, d'emploi et de rémunération du personnel ;
+
+5° Les conditions générales de passation des contrats, conventions et marchés ;
+
+6° Les conditions générales d'emploi des fonds disponibles, de placement des réserves ;
+
+7° Les acquisitions, échanges et aliénations de biens immobiliers ;
+
+8° Les emprunts ;
+
+9° Les transactions au-delà d'un montant qu'il fixe, sur proposition du secrétaire général ;
+
+10° Les dons et legs.
 
 **Liens relatifs à cet article**
 
@@ -24241,23 +24341,63 @@ Il peut se faire assister ou représenter par toute personne de son choix.
 
 	**Créé par**:
 
-	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. R510-1-2 (Ab)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2-1 (Ab)
 
 	**Cité par**:
 
-	  - Code des assurances - art. R310-14 (VT)
+	  - Code de la mutualité - art. R510-1-2 (Ab)
+	  - Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-12-3 (M)
+	  - Code des assurances - art. L310-12-4 (M)
 
 
-###### Article R310-14
+###### Article R310-12-3
 
-Lors de l'audition, le rapporteur, choisi parmi les commissaires contrôleurs des assurances, présente l'affaire.
+Sans préjudice des compétences du président, le secrétaire général représente la commission de contrôle dans tous les actes
+de la vie civile.
 
-Le président peut faire entendre toute personne dont il estime l'audition utile.
+Il est ordonnateur des recettes et des dépenses.
 
-Le secrétaire général et le commissaire du Gouvernement peuvent présenter des observations.
+Dans le cadre des règles générales fixées par la commission en vertu de l'article R. 310-12-2, il a qualité pour :
 
-Le représentant de l'entreprise et, le cas échéant, son conseil doivent dans tous les cas pouvoir prendre la parole en
-dernier.
+1° Liquider et ordonnancer les recettes et les dépenses ;
+
+2° Tenir la comptabilité des engagements de dépense, dans les conditions définies par le règlement comptable et financier ;
+
+3° Gérer les disponibilités et décider des placements ;
+
+4° Passer au nom de la commission tous contrats, conventions et marchés et décider des prises ou cessions à bail de biens
+immobiliers ;
+
+5° Engager, gérer et licencier le personnel à l'égard duquel il exerce la compétence de l'employeur et en fixer les
+rémunérations et les indemnités ;
+
+6° Prendre toutes les mesures conservatoires et exercer toutes les actions en justice dans les matières relevant de sa
+compétence propre ;
+
+7° Fixer le régime des indemnités de mission et de déplacement des personnels à l'égard duquel il exerce la compétence de
+l'employeur.
+
+Dans les matières relevant de sa compétence, le secrétaire général est autorisé à transiger au nom de la commission dans les
+conditions fixées par les articles 2044 à 2058 du code civil.
+
+Un secrétaire général adjoint, placé sous l'autorité du secrétaire général, est nommé parmi les membres du corps de
+l'inspection générale des affaires sociales par arrêté conjoint des ministres chargés des finances, de la sécurité sociale et
+de la mutualité pris après avis de la commission.
+
+Le secrétaire général peut déléguer sa signature au secrétaire général adjoint en toute matière à l'exclusion des compétences
+qu'il détient, le cas échéant, en sa qualité de chef du corps des commissaires contrôleurs des assurances. Il peut également
+déléguer sa signature à tout autre agent du secrétariat général, dans des matières et des limites qu'il détermine.
+
+Le secrétaire général peut nommer un second secrétaire général adjoint.
 
 **Liens relatifs à cet article**
 
@@ -24267,13 +24407,222 @@ dernier.
 
 	**Créé par**:
 
-	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Code civil 2044 à 2058
+	  - Code des assurances R310-12-2
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. R510-1-2 (Ab)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R510-1-2 (Ab)
+	  - Code de la sécurité sociale. - art. R951-2-1 (Ab)
 
 
-###### Article R310-15
+###### Article R310-12-4
 
-En matière disciplinaire la décision est prise en la seule présence du président, des membres de la commission, du secrétaire
-général et du commissaire du Gouvernement. La décision est signée du président.
+L'exercice comptable débute le 1er janvier et s'achève le 31 décembre.
+
+La commission de contrôle arrête son budget chaque année avant le début de l'exercice. Le budget comporte la prévision des
+recettes attendues et des dépenses nécessitées par la commission pour l'exercice de ses missions. Il peut être modifié en
+cours d'année. Les crédits inscrits au budget n'ont pas un caractère limitatif.
+
+Les délibérations de la commission de contrôle relatives au budget et à ses modifications sont exécutoires de plein droit à
+l'issue du délai dont disposent les commissaires du Gouvernement pour demander une seconde délibération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-693 2004-07-15 art. 1 V
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. R510-1-2 (Ab)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R510-1-2 (Ab)
+	  - Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+
+###### Article R310-12-5
+
+I. - La commission de contrôle est dotée d'un agent comptable nommé par arrêté du ministre chargé du budget. L'agent
+comptable est responsable personnellement et pécuniairement dans les conditions de l'article 60 de la loi de finances pour
+1963 (n° 63-156 du 23 février 1963) et du décret n° 64-1022 du 29 septembre 1964 relatif à la constatation et à l'apurement
+des débets des comptables publics et assimilés.
+
+Il est chargé :
+
+a) De la tenue des comptabilités de la commission de contrôle ;
+
+b) Du recouvrement de la contribution pour frais de contrôle instituée à l'article L. 310-12-4, sans préjudice des
+dispositions de l'article L. 951-1 du code de la sécurité sociale, et de toutes les autres recettes de la commission de
+contrôle ;
+
+c) Du paiement des dépenses et du maniement des fonds ainsi que des mouvements de comptes de disponibilités.
+
+Avec l'accord du secrétaire général, il peut confier sous son contrôle la comptabilité analytique et la comptabilité matière
+aux services de la commission de contrôle.
+
+L'agent comptable peut nommer des mandataires qui sont agréés par le secrétaire général.
+
+II. - Les comptes de la commission de contrôle sont établis selon les règles du plan comptable général. Celui-ci peut faire
+l'objet d'adaptations proposées par le secrétaire général et approuvées par le ministre chargé du budget.
+
+Les taux d'amortissement et de dépréciation ainsi que les modalités de tenue des inventaires sont fixés par le règlement
+comptable et financier.
+
+L'agent comptable établit un compte financier au terme de chaque exercice. Le compte financier comprend le compte de
+résultat, le bilan, l'annexe, la balance générale des comptes à la clôture de l'exercice, le tableau de rapprochement des
+prévisions et des réalisations effectives et, le cas échéant, la balance des comptes spéciaux.
+
+Le compte financier est préparé par l'agent comptable et soumis par le secrétaire général à la commission de contrôle qui
+entend l'agent comptable. Le compte financier est arrêté par la commission de contrôle. Il est transmis à la Cour des comptes
+par le secrétaire général, accompagné des délibérations de la commission relatives au budget, à ses modifications et au
+compte financier, et de tous les autres documents demandés par les ministres ou par la cour dans les quatre mois qui suivent
+la clôture de l'exercice.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°63-156 1963-02-23 art. 60 Finances pour 1963
+	  - Décret n°64-1022 1964-09-29
+	  - Code de la sécurité sociale. - art. L951-1 (M)
+	  - Code des assurances - art. L310-12-4 (M)
+	  - Code des assurances L310-12-4, annexe
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. R510-1-2 (Ab)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R510-1-2 (Ab)
+	  - Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+
+###### Article R310-12-6
+
+I. - L'agent comptable est tenu de faire diligence pour assurer le recouvrement de toutes les ressources de la commission de
+contrôle. Les recettes sont recouvrées par l'agent comptable soit spontanément, soit en exécution des instructions du
+secrétaire général. A l'exception de la contribution mentionnée à l'article L. 310-12-4, dont le recouvrement relève de la
+procédure de l'état exécutoire, l'agent comptable adresse aux débiteurs les factures correspondantes et reçoit leurs
+règlements. Tous les droits acquis au cours d'un exercice doivent être pris en compte au titre de cet exercice.
+
+II. - Lorsque les créances de la commission de contrôle, autres que la contribution mentionnée à l'article L. 310-12-4, n'ont
+pu être recouvrées à l'amiable, les poursuites sont conduites conformément aux usages du commerce ou peuvent faire l'objet
+d'états rendus exécutoires par le secrétaire général. Les états exécutoires peuvent être notifiés aux débiteurs par lettre
+recommandée avec accusé de réception. Leur recouvrement est poursuivi jusqu'à opposition devant la juridiction compétente.
+
+III. - L'agent comptable procède aux poursuites. Celles-ci peuvent, à tout moment, être suspendues sur ordre écrit du
+secrétaire général si la créance est l'objet d'un litige. Le secrétaire général suspend également les poursuites si, en
+accord avec l'agent comptable, il estime que la créance est irrécouvrable ou que l'octroi d'un délai par l'agent comptable
+est conforme à l'intérêt de la commission de contrôle.
+
+IV. - Le secrétaire général peut décider, après l'avis conforme de l'agent comptable :
+
+1° En cas de gêne des débiteurs, d'accorder une remise gracieuse des créances de la commission de contrôle, sauf pour la
+contribution mentionnée à l'article L. 310-12-4 ;
+
+2° Sur demande justifiée des débiteurs, d'accorder la remise totale ou partielle des majorations de retard ou des pénalités
+appliquées à la contribution mentionnée à l'article L. 310-12-4 ;
+
+3° Une admission en non-valeur des créances de la commission de contrôle, en cas d'irrécouvrabilité avérée ou d'insolvabilité
+des débiteurs.
+
+La commission de contrôle fixe le montant au-delà duquel l'une des remises mentionnées au 1° ou au 2° est soumise à son
+approbation.
+
+Lorsque la remise gracieuse totale ou partielle concerne une dette de l'agent comptable, l'avis conforme prévu par l'article
+8 du décret n° 64-1022 du 29 septembre 1964 relatif à la constatation et à l'apurement des débets des comptables publics et
+assimilés est rendu par la commission de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°64-1022 du 29 septembre 1964 - art. 8 (V)
+	  - Code des assurances - art. L310-12-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. R510-1-2 (Ab)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R510-1-2 (Ab)
+	  - Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+
+###### Article R310-12-7
+
+I. - Toutes les dépenses doivent être liquidées et ordonnancées au cours de l'exercice auquel elles se rattachent. Les
+dépenses de la commission de contrôle sont réglées par l'agent comptable sur l'ordre donné par le secrétaire général ou après
+avoir été acceptées par ce dernier. Les ordres de dépenses sont appuyés de pièces justificatives nécessaires, et notamment
+des factures, mémoires, marchés, baux ou conventions. L'acceptation de la dépense revêt la forme soit d'une mention datée et
+signée apposée sur le mémoire, la facture ou toute pièce en tenant lieu, soit d'un certificat séparé d'exécution de service,
+l'une ou l'autre précisant que le règlement peut être valablement opéré pour la somme indiquée.
+
+II. - L'agent comptable peut payer sans ordonnancement préalable, ou avant service fait, certaines catégories de dépenses
+dans les conditions prévues par le règlement comptable et financier.
+
+III. - La liste des pièces justificatives de recettes et de dépenses est préparée par l'agent comptable et proposée par le
+secrétaire général à l'agrément du ministre chargé du budget. En cas de perte, destruction ou vol des justifications remises
+à l'agent comptable, le ministre chargé du budget peut autoriser ce dernier à pourvoir à leur remplacement. Les pièces
+justificatives sont conservées dans les archives de l'agent comptable pendant dix ans au moins à partir de la date de clôture
+de l'exercice auquel elles se rapportent.
+
+IV.  - L'agent comptable suspend le paiement des dépenses lorsqu'il constate, à l'occasion de l'exercice de ses contrôles,
+des irrégularités ou que les certifications délivrées par le secrétaire général sont inexactes. Il en informe le secrétaire
+général.
+
+Lorsque l'agent comptable a suspendu le paiement des dépenses, le secrétaire général peut, par écrit et sous sa
+responsabilité, requérir l'agent comptable de payer. L'agent comptable défère à la réquisition et rend compte au ministre
+chargé du budget, qui transmet l'ordre de réquisition à la Cour des comptes.
+
+Par dérogation aux dispositions du deuxième alinéa, l'agent comptable doit refuser de déférer à l'ordre de réquisition
+lorsque la suspension du paiement est motivée par :
+
+1° L'absence de justification du service fait ;
+
+2° Le caractère non libératoire du règlement ;
+
+3° Le manque de fonds disponibles.
+
+Dans les cas de refus de la réquisition, l'agent comptable rend immédiatement compte au ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -24283,13 +24632,57 @@ général et du commissaire du Gouvernement. La décision est signée du présid
 
 	**Créé par**:
 
-	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. R510-1-2 (Ab)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R510-1-2 (Ab)
+	  - Code de la sécurité sociale. - art. R951-2-1 (Ab)
 
 
-###### Article R310-16
+###### Article R310-12-8
 
-Les décisions de la commission de contrôle des assurances sont notifiées à l'entreprise concernée par lettre recommandée avec
-demande d'avis de réception.
+Des régies de recettes et de dépenses peuvent être créées auprès de la commission de contrôle par décision du secrétaire
+général sur avis conforme de l'agent comptable dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif
+aux régies de recettes et aux régies d'avance des organismes publics et celles fixées par le règlement comptable et
+financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Cite**:
+
+	  - Décret n°92-681 1992-07-20
+
+	**Créé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. R510-1-2 (Ab)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R510-1-2 (Ab)
+	  - Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+
+###### Article R310-12-9
+
+La commission de contrôle dépose ses fonds au Trésor. Elle peut également ouvrir des comptes auprès d'un établissement du
+secteur bancaire mentionné au titre Ier du livre V du code monétaire et financier. Des comptes bancaires à l'étranger peuvent
+être ouverts sur autorisation de la commission. Les fonds de la commission peuvent donner lieu à rémunération et faire
+l'objet de placements selon les conditions générales définies par elle.
 
 **Liens relatifs à cet article**
 
@@ -24299,14 +24692,111 @@ demande d'avis de réception.
 
 	**Créé par**:
 
-	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. R510-1-2 (Ab)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R510-1-2 (Ab)
+	  - Code de la sécurité sociale. - art. R951-2-1 (Ab)
 
 
-###### Article R310-17
+###### Article R310-12-10
+
+Les comptes de l'agent comptable de la Commission de contrôle de assurances, des mutuelles et des institutions de prévoyance
+sont jugés directement par la Cour des comptes. Le contrôle de la gestion de l'agent comptable est également assuré par le
+receveur général des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. R510-1-2 (Ab)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R510-1-2 (Ab)
+	  - Code de la sécurité sociale. - art. R951-2-1 (Ab)
+
+
+###### Article R310-12-11
+
+La commission de contrôle est soumise aux dispositions du titre II de la loi n° 91-3 du 3 janvier 1991 relative à la
+transparence et à la régularité des procédures de marchés et soumettant la passation de certains contrats à des règles de
+publicité et de mise en concurrence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°91-3 1991-01-03
+
+	**Créé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+
+##### Sous-section 3 : Personnel.
+
+###### Article R310-12-12
+
+Les fonctionnaires mis à la disposition de la Commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance en application de l'article L. 310-12-1 du code des assurances sont placés dans l'une des positions prévues à
+l'article 32 de la loi n° 84-16 du 11 janvier 1984, sans que l'effectif placé en position de mise à disposition ne puisse
+dépasser 15 % de l'effectif global de la commission. La durée de mise à disposition d'un agent auprès de la commission ne
+peut dépasser trois ans.
+
+Des militaires et magistrats peuvent être mis à la disposition de la commission dans les mêmes conditions, selon les
+modalités prévues par leurs statuts respectifs.
+
+Les agents contractuels de droit public recrutés par la commission peuvent être employés pour une durée déterminée ou
+indéterminée.
+
+La commission peut mettre à disposition des agents contractuels de droit public et des salariés de droit privé auprès d'un
+autre employeur public, d'un organisme communautaire ou international, ou se voir mettre à disposition du personnel par un
+autre employeur public. Ces mises à disposition font l'objet d'une convention conclue entre la commission et l'autre
+employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°84-16 1984-01-11 art. 32
+	  - Code des assurances - art. L310-12-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+
+##### Section II : Exercice du pouvoir de contrôle.
+
+###### Article R310-13
 
 Les entreprises qui font l'objet du contrôle de l'Etat prévu par l'article L. 310-1 sont soumises à la surveillance de
-commissaires-contrôleurs assermentés, recrutés dans les conditions déterminées par décret en Conseil d'Etat, qui peuvent, à
-toute époque, vérifier sur place toutes les opérations, indépendamment de toute personne exceptionnellement déléguée à cet
+commissaires-contrôleurs assermentés, recrutés dans les conditions déterminées par le décret en Conseil d'Etat, qui peuvent,
+à toute époque, vérifier sur place toutes les opérations, indépendamment de toute personne exceptionnellement déléguée à cet
 effet par la commission de contrôle des assurances. Ils prêtent serment de ne pas divulguer les secrets commerciaux dont ils
 auraient connaissance dans l'exercice de leurs fonctions.
 
@@ -24319,35 +24809,26 @@ font foi jusqu'à preuve contraire.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
-	**Transféré par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-
-	**Cité par**:
-
-	  - Code des assurances - art. A310-3 (Ab)
-	  - Code des assurances - art. A310-4 (M)
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Code des assurances R310-1 (2ème version)
+	  - Code des assurances - art. R310-14 (VT)
 
 
-###### Article R310-18
+###### Article R310-14
 
-Les commissaires-contrôleurs mentionnés à l'article R. 310-17 sont spécialement accrédités auprès des entreprises d'assurance
-ou de capitalisation visées aux 1°, 3° et 4° de l'article L. 310-2 du présent code.
+Les commissaires-contrôleurs mentionnés à l'article R. 310-13 sont spécialement accrédités auprès des entreprises d'assurance
+ou de capitalisation mentionnées aux 1°, 3° et 4° de l'article L. 310-2 du présent code.
 
-Les commissaires-contrôleurs vérifient tous les livres, registres, contrats, bordereaux, procés-verbaux, pièces comptables ou
-documents quelconques relatifs à la situation de l'entreprise et à toutes les opérations qu'elle pratique ; Ils effectuent
+Les commissaires-contrôleurs vérifient tous les livres, registres, contrats, bordereaux, procès-verbaux, pièces comptables ou
+documents quelconques relatifs à la situation de l'entreprise et à toutes les opérations qu'elle pratique ; ils effectuent
 toutes vérifications de caisse et de portefeuille. Lorsque la comptabilité est tenue au moyen de systèmes informatisés, les
 commissaires-contrôleurs peuvent effectuer leurs vérifications sur le matériel utilisé par l'entreprise.
 
@@ -24361,30 +24842,22 @@ ainsi que le personnel qualifié pour leur fournir les renseignements qu'ils jug
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
-	**Transféré par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances L310-2, R310-17
-
-	**Anciens textes**:
-
-	  - Code des assurances R310-2 (2ème version)
+	  - Code des assurances L310-2, R310-13
 
 
-###### Article R310-19
+###### Article R310-15
 
 Dans les départements d'outre-mer et dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, de Saint-
 Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis-et-Futuna, le ministre de l'économie et des
 finances peut, à titre exceptionnel ou permanent, déléguer à un comptable supérieur du Trésor en fonctions dans l'un de ces
-départements ou territoires, les attributions dévolues aux commissaires-contrôleurs par l'article R. 310-17.
+départements ou territoires les attributions dévolues aux commissaires-contrôleurs par l'article R. 310-13.
 
 **Liens relatifs à cet article**
 
@@ -24392,48 +24865,172 @@ départements ou territoires, les attributions dévolues aux commissaires-contr�
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
-	**Transféré par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cite**:
 
-	  - Code des assurances R310-17
+	  - Code des assurances R310-13
+
+
+###### Article R310-16
+
+I. - En application des dispositions de l'article L. 310-19-1 du présent code, de l'article L. 951-6-1 du code de la sécurité
+sociale et de l'article L. 510-6 du code de la mutualité, tout organisme soumis au contrôle de la Commission de contrôle des
+assurances, des mutuelles et des institutions de prévoyance doit faire connaître à cette commission le nom du ou des
+commissaires aux comptes qu'il se propose de désigner.
+
+Lorsqu'il informe la commission de contrôle de son intention de désigner comme commissaires aux comptes une société de
+commissaires aux comptes constituée et inscrite selon les modalités prévues à l'article L. 225-218 du code de commerce,
+l'entreprise d'assurance précise le nom du commissaire aux comptes associé, actionnaire ou dirigeant, responsable de la
+mission au nom de cette société. Il informe la commission de contrôle de toute modification ultérieure de cette situation.
+
+La commission de contrôle dispose d'un délai de deux mois pour faire connaître à l'entreprise d'assurance son avis sur la
+proposition de désignation du commissaire aux comptes. En l'absence de réponse dans le délai imparti, l'avis de la commission
+est réputé favorable.
+
+Si la commission de contrôle l'estime nécessaire, elle peut demander des informations complémentaires par lettre recommandée
+avec demande d'avis de réception adressée soit à l'entreprise d'assurance concernée, soit au commissaire aux comptes proposé.
+Dans ce dernier cas, la commission en informe l'entreprise d'assurance concernée et fixe dans sa demande d'informations
+complémentaires un délai de réponse, lequel ne peut être inférieur à un mois. Le délai prévu à l'alinéa précédent est alors
+suspendu jusqu'à la réception des informations complémentaires.
+
+La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut également prendre en compte
+dans son appréciation les informations relatives au commissaire aux comptes proposé ou, le cas échéant, à la personne
+responsable de la mission, qui lui sont transmises par l'une des autorités avec lesquelles elle procède à un échange
+d'information en application de l'article L. 631-1 du code monétaire et financier.
+
+L'avis de la commission de contrôle, s'il est défavorable ou assorti de réserves, ne peut être pris qu'après que le
+commissaire aux comptes proposé ait été invité à faire connaître ses observations. Il est notifié par lettre recommandée avec
+demande d'avis de réception à l'entreprise d'assurance concernée et au commissaire aux comptes proposé. Une copie de cette
+notification est adressée à la compagnie régionale dont est membre le commissaire aux comptes. Les dirigeants de l'entreprise
+d'assurance communiquent l'avis de la commission de contrôle à l'organe compétent pour désigner les commissaires aux comptes.
+
+L'avis défavorable ou assorti de réserves est motivé. Il peut notamment être fondé sur le fait que le commissaire aux comptes
+proposé ne présente pas toutes les garanties d'expérience, de compétence ou d'indépendance nécessaires à l'exercice de ses
+fonctions compte tenu de la personne responsable de la mission ou de la nature et des caractéristiques de l'activité de
+l'entreprise d'assurance concernée.
+
+II. - Lorsque la commission de contrôle envisage de procéder, en application de l'article L. 310-19-1 du présent code, à la
+désignation d'un commissaire aux comptes supplémentaire dans une entreprise d'assurance, elle en informe le représentant
+légal et les commissaires aux comptes en fonctions par lettre recommandée avec demande d'avis de réception. La commission de
+contrôle met le représentant légal de l'entreprise et les commissaires aux comptes en fonctions en demeure de présenter leurs
+observations écrites, dans un délai qui ne peut être inférieur à un mois, avant de désigner un commissaire aux comptes
+supplémentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-218 (M)
+	  - Code monétaire et financier - art. L631-1 (M)
+	  - Code de la sécurité sociale. - art. L951-6-1 (M)
+	  - Code des assurances - art. L310-19-1 (M)
+	  - Code de la mutualité - art. L510-6 (M)
+
+
+###### Article R310-17
+
+I. - Toute entreprise projetant d'ouvrir une succursale ou d'exercer des activités en libre prestation de services,
+conformément aux dispositions du troisième alinéa de l'article L. 310-12, notifie son projet à la commission de contrôle,
+accompagné des documents dont la liste est fixée par arrêté du ministre chargé de l'économie et des finances.
+
+Si la commission estime que les conditions mentionnées à ce même alinéa sont réunies, elle communique aux autorités
+compétentes de cet Etat membre un dossier dont la composition est fixée par arrêté du ministre chargé de l'économie et des
+finances. Elle avise de cette communication l'entreprise, qui peut alors commencer ses activités dans les délais et
+conditions fixés par l'arrêté susvisé.
+
+Le délai de communication des informations aux autorités de l'Etat membre court à compter de la réception, par la commission
+de contrôle, d'un dossier complet. Il est de trois mois pour une demande d'établissement d'une succursale et d'un mois pour
+une demande d'exercice en libre prestation de services.
+
+II. - Tout projet de modification de la nature ou des conditions d'exercice des activités en liberté d'établissement ou en
+libre prestation de services autorisées conformément aux dispositions du troisième alinéa de l'article L. 310-12 est notifié
+à la commission de contrôle.
+
+Si la commission estime que les conditions visées à ce même alinéa sont toujours remplies, elle communique aux autorités
+compétentes de l'Etat membre concerné, dans le délai d'un mois suivant la notification visée à l'alinéa précédent, un dossier
+dont la composition est fixée par arrêté du ministre chargé de l'économie et des finances et avise l'entreprise concernée de
+cette communication. La modification envisagée peut intervenir dès réception de cet avis par l'entreprise.
+
+III. - Lorsque la commission de contrôle refuse de communiquer aux autorités compétentes de l'Etat membre concerné les
+informations visées au deuxième alinéa des I et II du présent article, elle en avise l'entreprise concernée et lui fait
+connaître, dans les délais mentionnés au troisième alinéa du I et au deuxième alinéa du II, les raisons de ce refus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-3 (Ab)
+	  - Code des assurances - art. A310-4 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-12 (M)
 
 	**Anciens textes**:
 
-	  - Code des assurances R310-3
+	  - Code des assurances R310-1 (2ème version)
 
 
-###### Article R310-20
+##### Section III : Exercice du pouvoir de sanction.
 
-I. - Toute entreprise projetant d'exercer des activités en libre prestation de services, conformément aux dispositions du
-quatrième alinéa de l'article L. 310-12, notifie son projet à la commission de contrôle des assurances, accompagné des
-documents dont la liste est fixée par arrêté du ministre chargé de l'économie et des finances.
+###### Article R310-18
 
-Si la commission estime que les conditions mentionnées à ce même alinéa sont réunies, elle communique aux autorités
-compétentes de l'Etat membre de prestation de services, dans le délai d'un mois suivant la notification visée au premier
-alinéa du présent paragraphe, un dossier dont la composition est fixée par arrêté du ministre chargé de l'économie et des
-finances et avise l'entreprise de cette communication. L'entreprise peut commencer son activité en libre prestation de
-services dès qu'elle a été avisée.
+Lorsque la commission de contrôle, saisie par son secrétaire général sur le fondement d'un rapport de contrôle réalisé par
+ses services, décide de l'ouverture d'une procédure de sanction dans le cadre des articles L. 310-18 et L. 310-18-1 du
+présent code, de l'article L. 951-10 du code de la sécurité sociale ou de l'article L. 510-11 du code de la mutualité, la
+notification des griefs est adressée, par lettre recommandée avec demande d'avis de réception, remise en main propre contre
+récépissé ou exploit d'huissier, à la personne mise en cause, accompagnée du rapport de contrôle.
 
-II. - Tout projet de modification de la nature ou des conditions d'exercice des activités de libre prestation de services
-autorisées conformément aux dispositions du quatrième alinéa de l'article L. 310-12 est notifié à la commission de contrôle
-des assurances.
+La personne mise en cause transmet ses observations écrites au président de la commission dans un délai de quinze jours. La
+notification des griefs mentionne ce délai et précise que la personne mise en cause peut prendre connaissance et copie des
+autres pièces du dossier auprès de la commission et se faire assister ou représenter par tout conseil de son choix.
 
-Si la commission estime que les conditions visées à ce même alinéa sont toujours remplies, elle communique aux autorités
-compétentes de l'Etat membre de libre prestation de services, dans le délai d'un mois suivant la notification visée à
-l'alinéa précédent, un dossier dont la composition est fixée par arrêté du ministre chargé de l'économie et des finances et
-avise l'entreprise concernée de cette communication. La modification envisagée peut intervenir dès réception de cet avis par
-l'entreprise.
+**Liens relatifs à cet article**
 
-III. - Lorsque la commission de contrôle des assurances refuse de communiquer aux autorités compétentes de l'Etat de libre
-prestation de services les informations visées au deuxième alinéa du I et II du présent article, elle en avise l'entreprise
-concernée et lui fait connaître, dans le délai d'un mois mentionné à ce même alinéa, les raisons de ce refus.
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L951-10 (M)
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L310-18-1 (M)
+	  - Code de la mutualité - art. L510-11 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances R310-2 (2ème version)
+
+
+###### Article R310-18-1
+
+La commission de contrôle convoque la personne mise en cause par lettre recommandée avec demande d'avis de réception, remise
+en main propre contre récépissé ou exploit d'huissier, dans un délai qui ne peut être inférieur à huit jours à compter de
+l'expiration du délai mentionné à l'article R. 310-18.
 
 **Liens relatifs à cet article**
 
@@ -24443,24 +25040,134 @@ concernée et lui fait connaître, dans le délai d'un mois mentionné à ce mê
 
 	**Créé par**:
 
-	  - Décret n°94-635 1994-07-25 art. 2 JORF 26 juillet 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
-	**Abrogé par**:
-
 	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
-
-	**Cité par**:
-
-	  - Code des assurances - art. A310-3 (M)
-	  - Code des assurances - art. A310-4 (M)
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances R310-18
+
+
+###### Article R310-18-2
+
+I. - L'audience est publique à la demande de l'une des personnes mises en cause. Toutefois, le président peut interdire au
+public l'accès de la salle pendant tout ou partie de la séance pour préserver l'ordre public ou lorsque la publicité est
+susceptible de porter atteinte au secret des affaires ou à tout autre secret protégé par la loi.
+
+Le président assure la police de la séance.
+
+II. - Lors de la séance, un membre des services de la commission de contrôle désigné par le secrétaire général présente
+l'affaire. Les commissaires du Gouvernement, le secrétaire général et les autres membres des services de la commission
+participant à la séance peuvent présenter des observations. La personne mise en cause et, le cas échéant, son conseil
+présente sa défense. Le président peut faire entendre toute personne dont il estime l'audition utile. Dans tous les cas, la
+personne mise en cause et le cas échéant son conseil doit pouvoir prendre la parole en dernier. Lorsque la commission
+s'estime insuffisamment éclairée, elle demande au secrétariat général de poursuivre ses diligences.
+
+III. - La commission de contrôle statue en la seule présence de ses membres et d'un membre des services de la commission
+faisant office de secrétaire de séance. Les commissaires du Gouvernement, le secrétaire général et les autres membres des
+services de la commission de contrôle n'assistent pas aux délibérés.
+
+IV. - Il est établi un procès-verbal de la séance par le secrétaire de séance. Le procès-verbal est signé par le président
+puis transmis aux membres de la commission et aux commissaires du Gouvernement.
+
+V. - La décision, signée par le président de la commission de contrôle, est notifiée à la personne concernée par lettre
+recommandée avec demande d'avis de réception, remise en main propre contre récépissé ou exploit d'huissier. Elle est
+communiquée aux commissaires du Gouvernement.
+
+VI. - Le cas échéant, la commission peut décider de mettre les frais de procédure à la charge de la personne à l'encontre de
+laquelle une sanction a été prononcée. La rémunération des huissiers de justice intervenant au titre du présent décret est
+tarifée comme prévu par les articles R. 181 à R. 184 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Code de procédure pénale R181 à R184
+
+
+###### Article R310-18-3
+
+Lorsque la notification est remise par huissier de justice, celui-ci doit faire toutes diligences pour parvenir à la
+délivrance de l'acte à la personne même du destinataire et lui en remettre copie. L'huissier procède ainsi qu'il est spécifié
+aux articles 555 à 563 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Code de procédure pénale 555 à 563
+
+
+###### Article R310-18-4
+
+La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est dispensée du ministère d'avocat
+devant la juridiction administrative, en demande, en défense ou encore en intervention. Les recours et les mémoires,
+lorsqu'ils ne sont pas présentés par le ministère d'un avocat, sont signés par le président de ladite commission en
+application des dispositions du seizième alinéa de l'article L. 310-12-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-12-1 (M)
+
+
+###### Article R310-19
+
+Lorsque la commission de contrôle décide, en application de l'article L. 310-18 du présent code, L. 951-10 du code de la
+sécurité sociale ou L. 510-11 du code de la mutualité, d'engager vis-à-vis d'une entreprise la procédure de transfert
+d'office de son portefeuille de contrats, bulletins ou adhésions, cette décision est portée à la connaissance de l'ensemble
+des entreprises d'assurance par un avis publié au Journal officiel. Cet avis fait courir un délai de quinze jours pendant
+lesquels les entreprises qui accepteraient de prendre en charge le portefeuille en cause doivent se faire connaître à la
+commission.
+
+L'entreprise désignée par la commission de contrôle pour prendre en charge le portefeuille de contrats d'assurances transféré
+est avisée de cette désignation par lettre recommandée avec demande d'avis de réception.
+
+La décision qui prononce le transfert en fixe les modalités et la date de prise d'effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L951-10 (M)
+	  - Code des assurances - art. L310-18 (M)
+	  - Code de la mutualité - art. L510-11 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances R310-3
 
 
 ##### Section IV : Sanctions.
@@ -24473,6 +25180,13 @@ contraventions de la cinquième classe.
 
 La récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11 du code pénal.
 
+**Nota:**
+
+L'article 1er I du décret 2004-693 du 16 juillet 2004 a modifié la numérotation de la section IV. 
+
+Cette modification étant incompatible avec la table des matières nouvellement créée, il faut attendre des précisions du
+ministère de l'économie et des finances avant de la répercuter sur cet article.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -24481,45 +25195,17 @@ La récidive de la contravention prévue au présent article est réprimée conf
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - SPEC_APPLI: Décret n°2004-693 2004-07-15 art. 1 I
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-635 1994-07-25 art. 3 IV, V JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 3 () JORF 26 juillet 1994
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cite**:
 
 	  - Code pénal - art. 132-11 (M)
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances L310-1, R310-5, R310-18
-
-
-#### Chapitre Ier : Dispositions générales.
-
-##### Section I : Dispositions générales applicables aux entreprises d'assurance.
-
-###### Article R310-10-2
-
-Le livre III du présent code est applicable dans la collectivité territoriale de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°94-635 1994-07-25 art. 20 JORF 26 juillet 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 (champ d'application)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 2001-07-13 art. 75 JORF 13 juillet 2001
 
 
 ### Titre II : Régime administratif
@@ -25080,6 +25766,27 @@ nommément désignée pour le représenter, l'entreprise doit désigner son succ
 	**Anciens textes**:
 
 	  - Code des assurances R321-9 (3ème version)
+
+
+###### Article R321-11-1
+
+Les commissaires aux comptes des entreprises d'assurance n'ayant pas leur siège social dans un Etat membre ou partie à
+l'accord sur l'Espace économique européen sont désignés par les personnes auxquelles est confiée par ces entreprises la
+direction de leur succursale en France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 7
 
 
 ###### Article R321-12
@@ -30989,9 +31696,9 @@ diligence de la commission de contrôle des assurances, des mutuelles et des ins
 
 ###### Article R*324-5
 
-La décision de la commission de contrôle des assurances prévue à l'article L. 324-5 est prononcée après la sanction prévue au
-6° de l'article L. 310-18, à l'issue du contrôle auquel la commission peut soumettre une personne physique ou morale
-conformément au cinquième alinéa de l'article L. 310-12.
+La décision de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance prévue à l'article
+L. 324-5 est prononcée après la sanction prévue au 6° de l'article L. 310-18, à l'issue du contrôle auquel la commission peut
+soumettre une personne physique ou morale conformément au quatrième alinéa de l'article L. 310-12.
 
 **Liens relatifs à cet article**
 
@@ -30999,9 +31706,10 @@ conformément au cinquième alinéa de l'article L. 310-12.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-718 du 3 août 1999 - art. 2 () JORF 11 août 1999
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cite**:
 
@@ -37700,12 +38408,12 @@ dans les conditions prévues à l'article R. 321-4, en cas de non-conformité du
 
 ###### Article R351-6
 
-Toute entreprise établie sur le territoire de la République française qui entend effectuer des opérations en libre prestation
-de services sur le territoire d'un ou plusieurs Etats non communautaires membres de l'Espace économique européen est tenue
-d'informer au préalable la commission de contrôle des assurances en indiquant l'Etat ou les Etats membres sur le territoire
-desquels elle envisage d'opérer en libre prestation de services, la nature des risques qu'elle se propose d'y couvrir, ainsi
-qu'un programme d'activités comprenant les pièces demandées au g du I de l'article R. 321-6 ou au d du I de l'article R.
-321-7.
+Toute entreprise établie sur le territoire de la République française qui entend effectuer des opérations en liberté
+d'établissement ou en libre prestation de services sur le territoire d'un ou plusieurs Etats non communautaires membres de
+l'Espace économique européen est tenue d'informer au préalable la commission de contrôle des assurances, des mutuelles et des
+institutions de prévoyance en indiquant l'Etat ou les Etats membres sur le territoire desquels elle envisage d'opérer en
+libre prestation de services, la nature des risques qu'elle se propose d'y couvrir, ainsi qu'un programme d'activités
+comprenant les pièces demandées au g du I de l'article R. 321-6 ou au d du I de l'article R. 321-7.
 
 **Liens relatifs à cet article**
 
@@ -37713,14 +38421,10 @@ qu'un programme d'activités comprenant les pièces demandées au g du I de l'ar
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 17 () JORF 26 juillet 1994
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cité par**:
 
@@ -37864,10 +38568,11 @@ l'article R. 353-2 avec les dispositions législatives ou réglementaires.
 
 ###### Article R353-5
 
-Toute entreprise établie sur le territoire de la République française qui entend effectuer des opérations en libre prestation
-de services sur le territoire d'un ou de plusieurs Etats non communautaires membres de l'Espace économique européen est tenue
-d'informer au préalable la Commission de contrôle des assurances en indiquant l'Etat ou les Etats membres sur le territoire
-desquels elle envisage d'opérer en libre prestation de services et la nature des engagements qu'elle se propose d'y prendre.
+Toute entreprise établie sur le territoire de la République française qui entend effectuer des opérations en liberté
+d'établissement ou en libre prestation de services sur le territoire d'un ou de plusieurs Etats non communautaires membres de
+l'Espace économique européen est tenue d'informer au préalable la Commission de contrôle des assurances, des mutuelles et des
+institutions de prévoyance en indiquant l'Etat ou les Etats membres sur le territoire desquels elle envisage d'opérer en
+libre prestation de services et la nature des engagements qu'elle se propose d'y prendre.
 
 **Liens relatifs à cet article**
 
@@ -37875,14 +38580,10 @@ desquels elle envisage d'opérer en libre prestation de services et la nature de
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 18 () JORF 26 juillet 1994
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 
 ###### Article R353-6
