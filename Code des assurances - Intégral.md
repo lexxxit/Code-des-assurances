@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1995-02-14
+Version Consolidée au 1995-03-30
 
 # Partie législative
 
@@ -53656,6 +53656,47 @@ généraux d'assurances.
 
 
 #### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.
+
+###### Article A516-1
+
+Sont seuls habilités à délivrer l'attestation de capacité mentionnée à l'article R. 516-1 les organismes professionnels
+suivants :
+
+La fédération française des courtiers d'assurances et de réassurances, pour les courtiers d'assurances, les associés ou tiers
+ayant le pouvoir de gérer ou d'administrer dans une société de courtage d'assurances ainsi que pour leurs salariés et
+mandataires ;
+
+La fédération française des sociétés d'assurances, pour les agents généraux d'assurances ;
+
+La fédération nationale de syndicats d'agents généraux d'assurances, pour les salariés et mandataires des agents généraux
+d'assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1979-09-05 art. 1 JORF 4 octobre 1979
+
+	**Modifié par**:
+
+	  - Arrêté 1995-03-22 art. 1 JORF 30 mars 1995
+
+	**Abrogé par**:
+
+	  - Arrêté du 3 novembre 2006 - art. 1, v. init.
+
+	**Cite**:
+
+	  - Code des assurances R516-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R516-1
+
 
 ###### Article A516-2
 
