@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-06-11 00:00:10 +0200
+Version Consolidée au 1994-06-30
 
 # Partie législative
 
@@ -40314,6 +40314,32 @@ individuellement à chaque contrat réduit ou suspendu ne peut être inférieure
 	**Nouveaux textes**:
 
 	  - Code des assurances - art. A331-9-1 (T)
+
+
+###### Article A132-12
+
+La note d'information visée à l'article L. 132-5-1 du code des assurances contient les informations prévues par le modèle ci-
+annexé.
+
+(Annexe non reproduite, voir au Journal officiel).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-06-21 art. 1 JORF 30 juin 1994
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A132-4 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-5-1 (M)
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
