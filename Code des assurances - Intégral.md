@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-07-11
+Version Consolidée au 2001-07-13
 
 # Partie législative
 
@@ -144,8 +144,17 @@ I. Les dispositions des titres Ier, II et III du livre Ier, dans la rédaction d
 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans les territoires
 d'outre-mer, à l'exception, toutefois, des articles L. 122-7, L. 124-4, L. 125-1 à L. 125-6, L. 132-30 et L. 132-31.
 
-II. Les dispositions des titres Ier, II et III du livre Ier sont applicables dans la collectivité territoriale de Mayotte, à
-l'exclusion des articles L. 124-4, L. 132-30 et L. 132-31.
+Les articles L. 122-7 et L. 125-1 à L. 125-6 sont cependant applicables dans le territoire des îles Wallis-et-Futuna, à
+l'exception du premier et du quatrième alinéa de l'article L. 125-6 et sous réserve des adaptations suivantes :
+
+- les mots : "et les dommages mentionnés à l'article L. 242-1" figurant au deuxième alinéa de l'article L. 125-5 sont
+supprimés ;
+
+- les mots : "Cette obligation ne s'impose pas non plus" figurant au deuxième alinéa de l'article L. 125-6 sont remplacés par
+les mots : "L'obligation prévue au premier alinéa de l'article L. 125-2 ne s'impose pas".
+
+II. Les dispositions des titres Ier, II et III du livre Ier sont applicables à Mayotte, à l'exclusion des articles L. 124-4,
+L. 132-30 et L. 132-31.
 
 **Liens relatifs à cet article**
 
@@ -158,17 +167,23 @@ l'exclusion des articles L. 124-4, L. 132-30 et L. 132-31.
 	  - Loi n°91-716 1991-07-26
 	  - Code des assurances - art. L122-7 (M)
 	  - Code des assurances - art. L124-4 (V)
+	  - Code des assurances - art. L125-5 (V)
 	  - Code des assurances - art. L132-30 (M)
 	  - Code des assurances - art. L132-31 (V)
-	  - Code des assurances L122-7, L124-4, L125-1 à L125-6, L132-30, L132-31
+	  - Code des assurances L122-7, L124-4, L125-1 à L125-6, L132-30, L132-31, L125-5
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41
 
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Ordonnance n°2000-352 du 19 avril 2000 - art. 1 (V) JORF 22 avril 2000 en vigueur le 1er juillet 2000
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ###### Article L111-6
@@ -7699,6 +7714,33 @@ déclaration, sera puni d'une amende de 25.000 F [*sanctions pénales*].
 	**Cite**:
 
 	  - Code des assurances - art. L213-1 (M)
+
+
+#### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer et à Mayotte
+
+##### Section I : Dispositions particulières aux départements d'outre-mer.
+
+###### Article L214-1
+
+Des décrets en Conseil d'Etat fixent la date d'entrée en vigueur, ainsi que les modalités d'application ou d'adaptation des
+chapitres Ier, et II aux départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Ordonnance no 92-255 du 4 mars 1992 portant extens - art. 1 () JORF 20 mars 1992
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la route. - art. L342-3 (V)
+	  - Code des assurances - art. L214-3 (Ab)
+	  - Code des assurances - art. L261-1 (V)
 
 
 #### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer et à la collectivité territoriale de Mayotte
@@ -16185,6 +16227,73 @@ d'assurance ayant fait l'objet du retrait d'agrément.
 	  - Code des assurances - art. L420-9 (T)
 
 
+##### Section VIII : Dispositions particulières aux territoires d'outre-mer et à Mayotte.
+
+###### Article L421-10
+
+Sont applicables à la Nouvelle-Calédonie, à la Polynésie française et à Saint-Pierre-et-Miquelon, les dispositions des
+articles L. 421-1 à L. 421-6 et L. 421-9.
+
+Les amendes prononcées à l'encontre de quiconque a sciemment contrevenu à l'obligation d'assurance instituée par la
+réglementation locale, y compris les amendes qu'une mesure de grâce aurait substituées à l'emprisonnement, sont affectées
+d'une majoration de 50 % perçue lors de leur recouvrement au profit du fonds de garantie.
+
+Les dispositions précitées entrent en vigueur dans le territoire de Wallis et Futuna, le premier jour du trimestre civil
+suivant la publication de l'arrêté rendant exécutoire la délibération édictant une obligation d'assurance de la
+responsabilité civile en matière de circulation automobile.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Transféré par**:
+
+	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
+
+	**Modifié par**:
+
+	  - Ordonnance no 92-1067 du 1er octobre 1992 portant  - art. 3 () JORF 3 octobre 1992
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L420-10 (T)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R421-60 (V)
+	  - Code des assurances - art. R421-62 (V)
+
+
+###### Article L421-10-1
+
+Les dispositions des articles L. 421-1 à L. 421-7, L. 421-8-1, L. 421-9, L. 421-11 à L. 421-14 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance no 92-1067 du 1er octobre 1992 portant  - art. 3 () JORF 3 octobre 1992
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code des assurances - art. L421-8-1 (M)
+	  - Code des assurances - art. L421-9 (M)
+	  - Code des assurances L421-1 à L421-7, L421-8-1, L421-9, L421-11 à L421-14
+
+
 ##### Section IX : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger.
 
 ###### Article L421-11
@@ -17966,18 +18075,26 @@ infraction à la législation ou à la réglementation des assurances.
 
 ###### Article L511-3
 
-Les dispositions du présent chapitre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis et Futuna.
+Les dispositions du présent chapitre sont applicables dans les territoires d'outre-mer et à Mayotte.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 14
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
 
 
 #### Chapitre IV : Contrôle des conditions de présentation
@@ -21503,6 +21620,171 @@ l'agriculture et du ministre chargé du budget".
 	  - TXT_SOURCE: Code des assurances - art. L213-1 (M)
 
 
+#### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer et à Mayotte
+
+##### Section I : Dispositions particulières aux départements d'outre-mer.
+
+###### Article R*214-1
+
+Les dispositions du présent titre sont applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et
+de la Réunion, sous réserve des dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1493 1962-11-28 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°94-182 du 1 mars 1994 - art. 3 () JORF 3 mars 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+###### Article R*214-3
+
+Les prescriptions de l'article L. 211-4 et des articles R. 211-22, R. 211-23, R. 211-25 et R. 211-26 ne sont pas applicables
+dans les départements d'outre-mer aux personnes résidant hors de ces départements qui y font pénétrer un véhicule immatriculé
+hors desdits départements ou un véhicule non soumis à immatriculation dont le lieu de stationnement habituel est situé hors
+de ces départements. 
+
+Pour les véhicules autres que ceux mentionnés à l'article R. 214-2, la justification de la souscription d'une assurance
+comportant des garanties au moins équivalentes à celles fixées par la section II du chapitre Ier du présent titre peut être
+apportée par tous les moyens.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1493 1962-11-28 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°94-182 du 1 mars 1994 - art. 3 () JORF 3 mars 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code des assurances - art. L211-4 (V)
+	  - Code des assurances - art. R*211-22 (V)
+	  - Code des assurances - art. R*211-25 (V)
+	  - Code des assurances - art. R214-2 (V)
+
+
+###### Article R*214-4
+
+Les attributions exercées par le ministre de l'intérieur en vertu de l'article R. 211-1 et de l'article R. 211-18 sont
+dévolues au ministre chargé des départements et territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1493 1962-11-28 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°94-182 du 1 mars 1994 - art. 3 () JORF 3 mars 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code des assurances - art. R*211-1 (Ab)
+	  - Code des assurances - art. R211-18 (V)
+
+
+###### Article R214-2
+
+Les documents justificatifs prévus aux articles R. 211-15 à R. 211-21 ne sont exigibles, dans chacun des départements
+d'outre-mer, qu'en ce qui concerne les véhicules immatriculés dans ce département et les véhicules non soumis à
+immatriculation dont le lieu de stationnement habituel est situé dans ledit département. 
+
+Les dispositions du cinquième alinéa de l'article R. 211-17 ne sont pas applicables dans les départements d'outre-mer. 
+
+Le contrôle de l'obligation d'assurance est exercé conformément aux dispositions des articles R. 211-15 à R. 211-21.
+Toutefois, l'attestation d'assurance délivrée en vertu du présent chapitre doit comporter une mention spécifiant que ladite
+attestation n'est valable que dans le département où elle a été délivrée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°93-581 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
+	  - Décret n°94-182 du 1 mars 1994 - art. 3 () JORF 3 mars 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*214-3 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R211-15 (VT)
+	  - Code des assurances - art. R211-17 (V)
+
+
+##### Section III : Dispositions particulières à Mayotte.
+
+###### Article R214-5
+
+Les dispositions du chapitre Ier du présent titre sont applicables à Mayotte, à l'exception de l'article R. 211-36 et du 8°
+des articles R. 211-37 et R. 211-38.
+
+Pour la computation des délais mentionnés à la section VI, il est procédé ainsi qu'il suit :
+
+Lorsqu'un délai est exprimé en jours, celui de l'acte, de l'événement, de la décision ou de la notification qui le fait
+courir ne compte pas.
+
+Lorsqu'un délai est exprimé en mois ou en années, ce délai expire le jour du dernier mois ou de la dernière année qui porte
+le même quantième que le jour de l'acte, de l'événement, de la décision ou de la notification qui fait courir le délai. A
+défaut d'un quantième identique, le délai expire le dernier jour du mois.
+
+Lorsqu'un délai est exprimé en mois et en jours, les mois sont d'abord décomptés, puis les jours.
+
+Tout délai expire le dernier jour à vingt-quatre heures. Le délai qui expirerait normalement un samedi, un dimanche ou un
+jour férié ou chômé est prorogé jusqu'au dernier jour ouvrable suivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°94-182 du 1 mars 1994 - art. 4 () JORF 3 mars 1994
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 3
+
+	**Cite**:
+
+	  - Code des assurances - art. R211-36
+	  - Code des assurances - art. R211-37
+	  - Code des assurances - art. R211-38
+
+
 ### Titre II : L'assurance des engins de remontée mécanique
 
 #### Chapitre unique.
@@ -21980,6 +22262,30 @@ trente jours suivant une décision, un nouvel examen de l'affaire dans le délai
 	**Modifié par**:
 
 	  - Décret n°97-660 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
+
+
+###### Article R250-7
+
+Les dispositions du présent titre sont applicables à Mayotte dans la mesure où elles concernent l'assurance des véhicules
+terrestres à moteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°94-182 du 1 mars 1994 - art. 5 () JORF 3 mars 1994
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 3
 
 
 ## Livre III : Les entreprises
@@ -22498,6 +22804,33 @@ La récidive de la contravention prévue au présent article est réprimée conf
 	  - Code pénal - art. 132-11 (M)
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances L310-1, R310-5, R310-18
+
+
+#### Chapitre Ier : Dispositions générales.
+
+##### Section I : Dispositions générales applicables aux entreprises d'assurance.
+
+###### Article R310-10-2
+
+Le livre III du présent code est applicable dans la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°94-635 1994-07-25 art. 20 JORF 26 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 (champ d'application)
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 2001-07-13 art. 75 JORF 13 juillet 2001
 
 
 ### Titre II : Régime administratif
@@ -31801,18 +32134,6 @@ territoriale " est remplacée par la référence à la " collectivité départem
 
 #### Chapitre III : Revenu des placements.
 
-###### Article R*333-3
-
-Les dispositions du présent chapitre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis et Futuna.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-
 ###### Article R333-1
 
 En cas de vente de valeurs évaluées conformément à l'article R. 332-19, à l'exception des obligations à taux variable, des
@@ -31889,6 +32210,27 @@ Un arrêté du ministre chargé de l'économie et des finances fixe les modalit�
 	  - TXT_SOURCE: Code des assurances - art. A333-8 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A333-9 (Ab)
 	  - TXT_ASSOCIE: Code des assurances A333-6 à A333-10
+
+
+###### Article R333-3
+
+Les dispositions du présent chapitre sont applicables dans les territoires d'outre-mer et à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 35 () JORF 12 mai 1984
+	  - Décret n°84-1023 1984-11-14 art. 34 JORF 23 novembre 1984
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 4
 
 
 #### Chapitre IV : Solvabilité des entreprises
@@ -38052,6 +38394,22 @@ le fonds de garantie dans les conditions prévues à l'article R. 50-24 du même
 	**Créé par**:
 
 	  - Loi n°90-1211 1990-12-21 art. 12, art. 16 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
+
+###### Article R422-10
+
+Les dispositions du présent chapitre sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Modifié par**:
+
+	  - Décret n°94-183 du 1 mars 1994 - art. 6 () JORF 3 mars 1994
+	  - Loir 2001-616 2001-07-11 art. 75 JORF 13 juillet 2001
 
 
 #### Chapitre III : Fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes.
