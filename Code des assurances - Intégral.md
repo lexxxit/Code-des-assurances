@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1979-09-16
+Version Consolidée au 1979-10-04
 
 # Partie législative
 
@@ -43201,5 +43201,38 @@ que de l'autorisation donnée par le siège social au mandataire général de pr
 	**Cite**:
 
 	  - Code des assurances - art. A441-8 (Ab)
+
+
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation
+
+### Titre Ier : Présentation des opérations.
+
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.
+
+###### Article A516-2
+
+L'attestation de capacité mentionnée à l'article R. 516-1 est conforme aux modèles annexés au présent article et enregistrés
+au C.E.R.F.A. sous les numéros 30-0976 pour courtier et agent général d'assurances et 30-0977 pour leurs salariés ou
+mandataires.
+
+(annexe non reproduite, voir au Journal officiel).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1979-09-05 art. 1 JORF 4 octobre 1979
+
+	**Abrogé par**:
+
+	  - Arrêté du 3 novembre 2006 - art. 1, v. init.
+
+	**Cite**:
+
+	  - Code des assurances R516-1
 
 
