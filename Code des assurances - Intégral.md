@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-05-19
+Version Consolidée au 1992-07-17
 
 # Partie législative
 
@@ -14,17 +14,17 @@ Version Consolidée au 1992-05-19
 Les titres Ier, II et III du présent livre ne concernent que les assurances terrestres. Ils ne sont applicables ni aux
 assurances maritimes, ni aux assurances fluviales, ni aux réassurances conclues entre assureurs et réassureurs.
 
-Il n'est pas dérogé aux dispositions des lois et règlements relatifs à la caisse nationale de prévoyance, aux sociétés à
-forme tontinière ; aux assurances contractées par les chefs d'entreprise, à raison de la responsabilité des accidents de
-travail survenus à leurs ouvriers et employés ; aux sociétés ou caisses d'assurances et de réassurances mutuelles agricoles.
+Il n'est pas dérogé aux dispositions des lois et règlements relatifs aux sociétés à forme tontinière ; aux assurances
+contractées par les chefs d'entreprise, à raison de la responsabilité des accidents de travail survenus à leurs ouvriers et
+employés ; aux sociétés ou caisses d'assurances et de réassurances mutuelles agricoles.
 
 Les opérations d'assurance-crédit ne sont pas régies par les titres mentionnés au premier alinéa.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
 
 	**Cité par**:
 
@@ -36,10 +36,6 @@ Les opérations d'assurance-crédit ne sont pas régies par les titres mentionn�
 	  - TXT_ASSOCIE: Code des assurances - art. L433-1 (Ab)
 	  - TXT_ASSOCIE: Code des assurances - art. L433-2 (Ab)
 	  - TXT_ASSOCIE: Code des assurances - art. L433-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 1
 
 
 ###### Article L111-2
@@ -1746,11 +1742,13 @@ de tels contrats.
 En outre, si l'assuré est couvert contre les pertes d'exploitation, cette garantie est étendue aux effets des catastrophes
 naturelles, dans les conditions prévues au contrat correspondant.
 
-Sont considérés comme les effets des catastrophes naturelles, au sens du présent chapitre, les dommages matériels directs
-ayant eu pour cause déterminante l'intensité anormale d'un agent naturel, lorsque les mesures habituelles à prendre pour
-prévenir ces dommages n'ont pu empêcher leur survenance ou n'ont pu être prises.
+Sont considérés comme les effets des catastrophes naturelles, au sens du présent chapitre, les dommages matériels directs non
+assurables ayant eu pour cause déterminante l'intensité anormale d'un agent naturel, lorsque les mesures habituelles à
+prendre pour prévenir ces dommages n'ont pu empêcher leur survenance ou n'ont pu être prises.
 
-L'état de catastrophe naturelle est constaté par arrêté interministériel.
+L'état de catastrophe naturelle est constaté par arrêté interministériel qui détermine les zones et les périodes où s'est
+située la catastrophe ainsi que la nature des dommages résultant de celle-ci couverts par la garantie visée au premier alinéa
+du présent article.
 
 **Liens relatifs à cet article**
 
@@ -1758,9 +1756,9 @@ L'état de catastrophe naturelle est constaté par arrêté interministériel.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-863 1985-08-02 art. 1 JORF 15 août 1985
+	  - Loi n°92-665 du 16 juillet 1992 - art. 34 () JORF 17 juillet 1992
 
 	**Cité par**:
 
@@ -1874,6 +1872,27 @@ Des clauses types réputées écrites dans ces contrats sont déterminées par a
 	  - Code des assurances - art. R250-3 (V)
 	  - Code des assurances - art. R431-31 (V)
 	  - Code rural - art. L151-37 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L125-1 (V)
+
+
+###### Article L125-4
+
+Nonobstant toute disposition contraire, la garantie visée par l'article L. 125-1 du présent code inclut le remboursement du
+coût des études géotechniques rendues préalablement nécessaires pour la remise en état des constructions affectées par les
+effets d'une catastrophe naturelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 35 () JORF 17 juillet 1992
 
 	**Cite**:
 
@@ -2267,23 +2286,64 @@ prévues à l'article 378 du code pénal.
 
 ### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation.
 
-#### Chapitre I : Dispositions générales.
+#### Chapitre II : Les assurances sur la vie
+
+##### Section III : Participation des assurés aux bénéfices techniques et financiers.
+
+###### Article L132-29
+
+Les entreprises d'assurance sur la vie ou de capitalisation doivent faire participer les assurés aux bénéfices techniques et
+financiers qu'elles réalisent, dans les conditions fixées par arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 22 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 5 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Transféré par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 5 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. L324-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L331-3 (V)
+
+
+### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation
+
+#### Chapitre Ier : Dispositions générales.
 
 ###### Article L131-1
 
 En matière d'assurance sur la vie et d'assurance contre les accidents atteignant les personnes, les sommes assurées sont
 fixées par le contrat.
 
-En matière d'assurance sur la vie, et après accord de l'autorité administrative, le capital ou la rente garantis peuvent être
-exprimés en unités de compte constituées de valeurs mobilières ou d'actifs figurant sur une liste dressée par décret en
-Conseil d'Etat pris après avis de la Commission des opérations de bourse, et du conseil national de la consommation. Dans
-tous les cas, le contractant ou le bénéficiaire a la faculté d'opter entre le règlement en espèces et la remise des titres ou
-des parts. Toutefois, lorsque les unités de compte sont constituées par des titres ou des parts non négociables, le règlement
-ne peut être effectué qu'en espèces.
-
-Le montant des sommes garanties par l'assureur lors de la réalisation du risque décès ne peut toutefois être inférieur à
-celui du capital ou de la rente garantis, calculé sur la base de la valeur de l'unité de compte à la date de prise d'effet du
-contrat ou, s'il y a lieu, de son dernier avenant.
+En matière d'assurance sur la vie ou d'opération de capitalisation, le capital ou la rente garantis peuvent être exprimés en
+unités de compte constituées de valeurs mobilières ou d'actifs offrant une protection suffisante de l'épargne investie et
+figurant sur une liste dressée par décret en Conseil d'Etat. Le contractant ou le bénéficiaire obtient le règlement en
+espèces ; il peut cependant opter pour la remise de titres ou de parts lorsque ceux-ci sont négociables et ne confèrent pas
+directement le droit de vote à l'assemblée générale des actionnaires d'une société inscrite à la cote officielle d'une bourse
+de valeurs.
 
 **Liens relatifs à cet article**
 
@@ -2326,7 +2386,7 @@ contrat ou, s'il y a lieu, de son dernier avenant.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
 	  - TXT_SOURCE: Décret n°98-413 du 28 mai 1998
 	  - TXT_SOURCE: Décret n°98-413 du 28 mai 1998 - art. 1 ()
 	  - TXT_SOURCE: Code des assurances - art. R131-1 (V)
@@ -2335,8 +2395,8 @@ contrat ou, s'il y a lieu, de son dernier avenant.
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 37 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 22 () JORF 17 juillet 1992
 
 
 ###### Article L131-2
@@ -2344,22 +2404,77 @@ contrat ou, s'il y a lieu, de son dernier avenant.
 Dans l'assurance de personnes, l'assureur, après paiement de la somme assurée, ne peut être subrogé aux droits du contractant
 ou du bénéficiaire contre des tiers à raison du sinistre.
 
+Toutefois, dans les contrats garantissant l'indemnisation des préjudices résultant d'une atteinte à la personne, l'assureur
+peut être subrogé dans les droits du contractant ou des ayants droit contre le tiers responsable, pour le remboursement des
+prestations à caractère indemnitaire prévues au contrat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 23 () JORF 17 juillet 1992
+
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R443-5 (M)
 
+
+###### Article L131-3
+
+Lorsque les opérations définies à l'article L. 342-11 du code monétaire et financier (1) sont associées à des opérations
+d'assurance de personnes, l'exercice de la faculté de dénonciation prévue à l'article L. 342-18 du même code (1) entraîne,
+pour l'assuré, la résiliation de la garantie. L'assuré a droit, le cas échéant, au remboursement de la prime ou du prorata de
+prime correspondant à la période non couverte par la garantie.
+
+**Nota:**
+
+(1) : Les articles L. 342-11 et L. 342-18 ont été abrogés par l'article 50 I de la loi n° 2003-706 du 1er août 2003.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
 	**Anciens textes**:
 
-	  - Loi n°1930-07-13 art. 55
+	  - Loi n°1930-07-13 art. 55 bis
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+
+	**Cite**:
+
+	  - Loi n°2003-706 du 1 août 2003
+	  - Code monétaire et financier - art. L342-11
+	  - Code monétaire et financier - art. L342-18
+	  - Code des assurances
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R443-5 (M)
+	  - Code monétaire et financier - art. L342-19 (Ab)
 
 
-#### Chapitre II : Les assurances sur la vie
+#### Chapitre II : Les assurances sur la vie et les opérations de capitalisation
 
 ##### Section I : Dispositions générales.
 
@@ -2367,29 +2482,7 @@ ou du bénéficiaire contre des tiers à raison du sinistre.
 
 La vie d'une personne peut être assurée par elle-même ou par un tiers.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R443-5 (V)
-	  - Code des assurances - art. L111-2 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-03-13 art. 56
-
-
-###### Article L132-5
-
-La police d'assurance sur la vie doit indiquer, outre les énonciations mentionnées dans l'article L. 112-4 :
-
-1° Les nom, prénoms et date de naissance de celui ou de ceux sur la tête desquels repose l'opération ;
-
-2° L'événement ou le terme duquel dépend l'exigibilité du capital ou de la rente garantis.
+Plusieurs personnes peuvent contracter une assurance réciproque sur la tête de chacune d'elles par un seul et même acte.
 
 **Liens relatifs à cet article**
 
@@ -2399,7 +2492,145 @@ La police d'assurance sur la vie doit indiquer, outre les énonciations mentionn
 
 	**Modifié par**:
 
-	  - Loi n°81-5 du 7 janvier 1981 - art. 5 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°81-5 du 7 janvier 1981 - art. 3 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R443-5 (V)
+	  - Code des assurances - art. L111-2 (V)
+
+
+###### Article L132-2
+
+L'assurance en cas de décès contractée par un tiers sur la tête de l'assuré est nulle, si ce dernier n'y a pas donné son
+consentement par écrit avec indication du capital ou de la rente initialement garantis.
+
+Le consentement de l'assuré doit, à peine de nullité, être donné par écrit, pour toute cession ou constitution de gage et
+pour transfert du bénéfice du contrat souscrit sur sa tête par un tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 4 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
+	**Cité par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
+	  - Code des assurances - art. L140-1 (T)
+	  - Code des assurances - art. L140-5 (T)
+	  - Code des assurances - art. L141-5 (V)
+
+
+###### Article L132-3
+
+Il est défendu à toute personne de contracter une assurance en cas de décès sur la tête d'un mineur âgé de moins de douze
+ans, d'un majeur en tutelle, d'une personne placée dans un établissement psychiatrique d'hospitalisation.
+
+Toute assurance contractée en violation de cette prohibition est nulle.
+
+La nullité est prononcée sur la demande de l'assureur, du souscripteur de la police ou du représentant de l'incapable.
+
+Les primes payées doivent être intégralement restituées.
+
+L'assureur et le souscripteur sont en outre passibles, pour chaque assurance conclue sciemment en violation de cette
+interdiction, d'une amende de 360 à 40.000 F [*sanctions*]. L'article 463 du code pénal est applicable.
+
+Ces dispositions ne mettent point obstacle dans l'assurance en cas de décès, au remboursement des primes payées en exécution
+d'un contrat d'assurance en cas de vie, souscrit sur la tête d'une des personnes mentionnées au premier alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Anciens textes**:
+
+	  - Loi n°1930-07-13 art. 58
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Cite**:
+
+	  - Code pénal 463
+
+	**Cité par**:
+
+	  - Code des assurances - art. L140-1 (T)
+	  - Code des assurances - art. L140-5 (T)
+	  - Code des assurances - art. L141-5 (M)
+
+
+###### Article L132-4
+
+Une assurance en cas de décès ne peut être contractée par une autre personne sur la tête d'un mineur parvenu à l'âge de douze
+ans sans l'autorisation de celui de ses parents qui est investi de l'autorité parentale, de son tuteur ou de son curateur.
+
+Cette autorisation ne dispense pas du consentement personnel de l'incapable.
+
+A défaut de cette autorisation et de ce consentement, la nullité du contrat est prononcée à la demande de tout intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Anciens textes**:
+
+	  - Loi n°1930-07-13 art. 59
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+
+###### Article L132-5
+
+Le contrat d'assurance sur la vie et le contrat de capitalisation doivent comporter des clauses tendant à définir, pour
+assurer la sécurité des parties et la clarté du contrat, l'objet du contrat et les obligations respectives des parties, selon
+des énonciations précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 25 () JORF 17 juillet 1992
 
 	**Cité par**:
 
@@ -2408,31 +2639,26 @@ La police d'assurance sur la vie doit indiquer, outre les énonciations mentionn
 	  - Code des assurances - art. R132-5-5 (V)
 	  - Code général des collectivités territoriales - art. L2223-34-1 (V)
 
-	**Cite**:
-
-	  - Code des assurances - art. L112-4 (M)
-
 
 ###### Article L132-5-1
 
-Toute personne physique qui a signé une proposition d'assurance ou une police d'assurance a la faculté d'y renoncer par
-lettre recommandée avec demande d'avis de réception pendant le délai de trente jours à compter du premier versement.
+Toute personne physique qui a signé une proposition d'assurance ou un contrat a la faculté d'y renoncer par lettre
+recommandée avec demande d'avis de réception pendant le délai de trente jours à compter du premier versement.
 
-La proposition d'assurance ou la police d'assurance doit comprendre un modèle de lettre type destiné à faciliter l'exercice
-de cette faculté de renonciation. Elle doit indiquer notamment, pour les contrats qui en comportent,les valeurs de rachat au
-terme de chacune des six premières années au moins. L'assureur doit en outre remettre, contre récépissé, une note
-d'information comportant des indications précises et claires sur les dispositions essentielles du contrat, sur les conditions
-d'exercice de la faculté de renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette faculté de
-renonciation. Le défaut de remise des documents et informations énumérés au présent alinéa entraîne de plein droit la
-prorogation du délai prévu au premier alinéa jusqu'au trentième jour suivant la date de remise effective de ces documents. Un
-nouveau délai de trente jours court à compter de la date de reception de la police, lorsque celle-ci apporte des réserves ou
-des modifications essentielles à l'offre originelle, ou à compter de l'acceptation écrite, par le souscripteur, de ces
-réserves ou modifications.
+La proposition d'assurance ou de contrat doit comprendre un projet de lettre destiné à faciliter l'exercice de cette faculté
+de renonciation. Elle doit indiquer notamment, pour les contrats qui en comportent, les valeurs de rachat au terme de chacune
+des huit premières années au moins. L'entreprise d'assurance ou de capitalisation doit, en outre, remettre, contre récépissé,
+une note d'information sur les dispositions essentielles du contrat, sur les conditions d'exercice de la faculté de
+renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette faculté de renonciation. Le défaut de
+remise des documents et informations énumérés au présent alinéa entraîne de plein droit la prorogation du délai prévu au
+premier alinéa jusqu'au trentième jour suivant la date de remise effective de ces documents. Un nouveau délai de trente jours
+court à compter de la date de reception du contrat, lorsque celle-ci apporte des réserves ou des modifications essentielles à
+l'offre originelle, ou à compter de l'acceptation écrite, par le souscripteur, de ces réserves ou modifications.
 
-La renonciation entraîne la restitution par l'assureur de l'intégralité des sommes versées par le contractant, dans le délai
-maximal de trente jours à compter de la réception de la lettre recommandée. Au-delà de ce délai, les sommes non restituées
-produisent  de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis, à l'expiration de ce délai de deux
-mois, au double du taux légal.
+La renonciation entraîne la restitution par l'entreprise d'assurance ou de capitalisation de l'intégralité des sommes versées
+par le contractant, dans le délai maximal de trente jours à compter de la réception de la lettre recommandée. Au-delà de ce
+délai, les sommes non restituées produisent  de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis, à
+l'expiration de ce délai de deux mois, au double du taux légal.
 
 Toutefois, les dispositions qui précèdent ne s'appliquent pas aux contrats d'une durée maximum de deux mois.
 
@@ -2465,22 +2691,23 @@ Toutefois, les dispositions qui précèdent ne s'appliquent pas aux contrats d'u
 
 	**Modifié par**:
 
-	  - Loi n°85-608 1985-06-11 art. 1 JORF 20 juin 1985 en vigueur le 1er janvier 1986
+	  - Loi n°92-665 1992-07-16 art. 21, art. 24, art. 26, art. 30 I, IV JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 26 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°85-608 1985-06-11 art. 1 V *Les dispositions du présent article sont applicables aux contrats souscrits ou transformés à compter du 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
 
 
-###### Article L132-7
+###### Article L132-6
 
-L'assurance en cas de décès est de nul effet si l'assuré se donne volontairement la mort. Toutefois, l'assureur doit payer
-aux ayants droit une somme égale au montant de la provision mathématique, nonobstant toute convention contraire.
+La police d'assurance sur la vie peut être à ordre. Elle ne peut être au porteur.
 
-Tout contrat contenant une clause par laquelle l'assureur s'engage à payer la somme assurée, même en cas de suicide
-volontaire et conscient de l'assuré, ne peut produire effet que passé un délai de deux ans après sa conclusion.
-
-La preuve du suicide de l'assuré incombe à l'assureur, celle de l'inconscience de l'assuré au bénéficiaire de l'assurance.
+L'endossement d'une police d'assurance sur la vie à ordre doit, à peine de nullité, être daté, indiquer le nom du
+bénéficiaire de l'endossement et être signé de l'endosseur.
 
 **Liens relatifs à cet article**
 
@@ -2490,42 +2717,92 @@ La preuve du suicide de l'assuré incombe à l'assureur, celle de l'inconscience
 
 	**Cité par**:
 
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
-	  - Code des assurances - art. L132-18 (V)
-	  - Code des assurances - art. R132-5 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°2002-452 du 28 mars 2002
-	  - TXT_SOURCE: Décret n°2002-452 du 28 mars 2002 - art. 1 ()
+	  - Code des assurances - art. L112-5 (VD)
 
 	**Anciens textes**:
 
-	  - Loi n°1930-07-13 art. 62
+	  - Loi n°1930-07-13 art. 61
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
 
 
-###### Article L132-8
+###### Article L132-7
 
-Le capital ou la rente assurés peuvent être payables lors du décès de l'assuré, à un ou plusieurs bénéficiaires déterminés.
-
-Est considérée comme faite au profit de bénéficiaires déterminés, la stipulation par laquelle le contractant attribue le
-bénéfice de l'assurance soit à sa femme sans indication de nom, soit à ses enfants et descendants nés ou à naître, soit à ses
-héritiers, sans qu'il soit nécessaire d'inscrire leurs noms dans la police ou dans tout autre acte ultérieur, contenant
-attribution du capital assuré.    L'assurance faite au profit de la femme de l'assuré profite à la personne qu'il épouse même
-après la date du contrat. En cas de second mariage, le profit de cette stipulation appartient à la veuve.    Les enfants et
-descendants, les héritiers du contractant, ainsi désignés, ont droit au bénéfice de l'assurance en proportion de leurs parts
-héréditaires. Ils conservent ce droit en cas de renonciation à la succession.
-
-En l'absence de désignation d'un bénéficiaire déterminé dans la police ou à défaut d'acceptation par le bénéficiaire désigné,
-le souscripteur de la police a le droit de désigner un bénéficiaire ou de substituer un bénéficiaire à un autre. Cette
-désignation ou cette substitution se fait soit par testament, soit entre vifs par voie d'avenant, ou en remplissant les
-formalités édictées par l'article 1690 du code civil ou, quand la police est à ordre, par voie d'endossement.
+L'assurance en cas de décès est de nul effet si l'assuré se donne volontairement et consciemment la mort au cours des deux
+premières années du contrat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 6 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+	  - TXT_SOURCE: Décret n°2002-452 du 28 mars 2002
+	  - TXT_SOURCE: Décret n°2002-452 du 28 mars 2002 - art. 1 ()
+
+	**Cité par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
+	  - Code des assurances - art. L132-18 (V)
+	  - Code des assurances - art. R132-5 (V)
+
+
+###### Article L132-8
+
+Le capital ou la rente garantis peuvent être payables lors du décès de l'assuré à un ou plusieurs bénéficiaires déterminés.
+
+Est considérée comme faite au profit de bénéficiaires déterminés la stipulation par laquelle le bénéfice de l'assurance est
+attribué à une ou plusieurs personnes qui, sans être nommément désignées, sont suffisamment définies dans cette stipulation
+pour pouvoir être identifiées au moment de l'exigibilité du capital ou de la rente garantis.
+
+Est notamment considérée comme remplissant cette condition la désignation comme bénéficiaires des personnes suivantes :
+
+- les enfants nés ou à naître du contractant, de l'assuré ou de toute autre personne désignée ;
+
+- les héritiers ou ayants droit de l'assuré ou d'un bénéficiaire prédécédé.
+
+L'assurance faite au profit du conjoint profite à la personne qui a cette qualité au moment de l'exigibilité.
+
+Les héritiers, ainsi désignés, ont droit au bénéfice de l'assurance en proportion de leurs parts héréditaires. Ils conservent
+ce droit en cas de renonciation à la succession.
+
+En l'absence de désignation d'un bénéficiaire dans la police ou à défaut d'acceptation par le bénéficiaire, le contractant a
+le droit de désigner un bénéficiaire ou de substituer un bénéficiaire à un autre. Cette désignation ou cette substitution ne
+peut être opérée, à peine de nullité, qu'avec l'accord de l'assuré, lorsque celui-ci n'est pas le contractant. Cette
+désignation ou cette substitution peut être réalisée soit par voie d'avenant au contrat, soit en remplissant les formalités
+édictées par l'article 1690 du code civil, soit par endossement quand la police est à ordre, soit par voie testamentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 7 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
 
 	**Cite**:
 
@@ -2535,10 +2812,6 @@ formalités édictées par l'article 1690 du code civil ou, quand la police est 
 
 	  - Code des assurances - art. R132-5-5 (V)
 	  - Livre des procédures fiscales - art. L166 E (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 63
 
 
 ###### Article L132-9
@@ -2553,11 +2826,8 @@ Ce droit de révocation ne peut être exercé, après la mort du stipulant, par 
 assurée et au plus tôt trois mois après que le bénéficiaire de l'assurance a été mis en demeure par acte extrajudiciaire,
 d'avoir à déclarer s'il accepte.
 
-L'acceptation par le bénéficiaire de la stipulation faite à son profit ou la révocation de cette stipulation n'est opposable
-à l'assureur que lorsqu'il en a eu connaissance.
-
 L'attribution à titre gratuit du bénéfice d'une assurance sur la vie à une personne déterminée est présumée faite sous la
-condition de l'existence du bénéficiaire à l'époque de l'exigibilité du capital ou de la rente assurés, à moins que le
+condition de l'existence du bénéficiaire à l'époque de l'exigibilité du capital ou de la rente garantis, à moins que le
 contraire ne résulte des termes de la stipulation.
 
 **Liens relatifs à cet article**
@@ -2566,6 +2836,16 @@ contraire ne résulte des termes de la stipulation.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 8 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31
+
 	**Cité par**:
 
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
@@ -2573,83 +2853,42 @@ contraire ne résulte des termes de la stipulation.
 	  - Code des assurances - art. L131-1 (V)
 	  - Code des assurances - art. L441-2 (V)
 
+
+###### Article L132-10
+
+La police d'assurance peut être donnée en gage soit par avenant, soit par endossement à titre de garantie, si elle est à
+ordre, soit par acte soumis aux formalités de l'article 2075 du Code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Cite**:
+
+	  - Code civil - art. 2075 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L111-2 (V)
+
 	**Anciens textes**:
 
-	  - Loi n°1930-07-13 art. 64
+	  - Loi n°1930-07-13 art. 65
 
 
 ###### Article L132-11
 
-Lorsque l'assurance en cas de décès a été conclue sans désignation d'un bénéficiaire, le capital fait partie de la succession
-du contractant.
+Lorsque l'assurance en cas de décès a été conclue sans désignation d'un bénéficiaire, le capital ou la rente garantis font
+partie du patrimoine ou de la succession du contractant.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 66
-
-
-###### Article L132-12
-
-Les sommes stipulées payables lors du décès de l'assuré à un bénéficiaire déterminé ou à ses héritiers ne font pas partie de
-la succession de l'assuré. Le bénéficiaire, quelles que soient la forme et la date de sa désignation, est réputé y avoir eu
-seul droit à partir du jour du contrat, même si son acceptation est postérieure à la mort de l'assuré.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 67
-
-
-###### Article L132-13
-
-Les sommes payables au décès de l'assuré à un bénéficiaire déterminé ne sont soumis ni aux règles du rapport à succession, ni
-à celles de la réduction pour atteinte à la réserve des héritiers de l'assuré.
-
-Ces règles ne s'appliquent pas non plus aux sommes versées par l'assuré à titre de primes, à moins que celles-ci n'aient été
-manifestement exagérées eu égard à ses facultés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. L132-14 (V)
-	  - Code des assurances - art. L132-16 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 68
-
-
-###### Article L132-14
-
-Le capital ou la rente garantis au profit d'un bénéficiaire déterminé ne peuvent être réclamés par les créanciers du
-contractant. Ces derniers ont seulement droit au remboursement des primes, dans le cas indiqué par l'article L. 132-13,
-deuxième alinéa, en vertu soit de l'article 1167 du code civil, soit des articles 29 et 31 de la loi n° 67-563 du 13 juillet
-1967.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°67-563 du 13 juillet 1967 - art. 29 (M)
-	  - Loi n°67-563 du 13 juillet 1967 - art. 31 (Ab)
-	  - Code civil - art. 1167 (V)
-	  - Code des assurances - art. L132-13 (M)
 
 	**Codifié par**:
 
@@ -2658,19 +2897,119 @@ deuxième alinéa, en vertu soit de l'article 1167 du code civil, soit des artic
 	**Modifié par**:
 
 	  - Loi n°81-5 du 7 janvier 1981 - art. 9 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31
 
 
-###### Article L132-15
+###### Article L132-12
 
-Tout bénéficiaire peut, après avoir accepté la stipulation faite à son profit et si la cessibilité de ce droit a été
-expressément prévue ou avec le consentement du contractant, transmettre lui-même le bénéfice du contrat, soit par une cession
-dans la forme de l'article 1690 du code civil, soit, si la police est à ordre, par endossement.
+Le capital ou la rente stipulés payables lors du décès de l'assuré à un bénéficiaire déterminé ou à ses héritiers ne font pas
+partie de la succession de l'assuré. Le bénéficiaire, quelles que soient la forme et la date de sa désignation, est réputé y
+avoir eu seul droit à partir du jour du contrat, même si son acceptation est postérieure à la mort de l'assuré.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 9 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
+
+###### Article L132-13
+
+Le capital ou la rente payables au décès du contractant à un bénéficiaire déterminé ne sont soumis ni aux règles du rapport à
+succession, ni à celles de la réduction pour atteinte à la réserve des héritiers du contractant.
+
+Ces règles ne s'appliquent pas non plus aux sommes versées par le contractant à titre de primes, à moins que celles-ci
+n'aient été manifestement exagérées eu égard à ses facultés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 9 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
+	**Cité par**:
+
+	  - Code des assurances - art. L132-14 (V)
+	  - Code des assurances - art. L132-16 (V)
+
+
+###### Article L132-14
+
+Le capital ou la rente garantis au profit d'un bénéficiaire déterminé ne peuvent être réclamés par les créanciers du
+contractant. Ces derniers ont seulement droit au remboursement des primes, dans le cas indiqué par l'article L. 132-13,
+deuxième alinéa, en vertu soit de l'article 1167 du code civil, soit des articles L. 621-107 et L. 621-108 du code de
+commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 221 ()
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-107 (M)
+	  - Code de commerce. - art. L621-108 (M)
+	  - Code civil - art. 1167 (V)
+	  - Code des assurances - art. L132-13 (M)
+
+
+###### Article L132-15
+
+Tout bénéficiaire peut, après avoir accepté la stipulation faite à son profit et si la cessibilité de ce droit a été
+expressément prévue ou avec le consentement du contractant et de l'assuré, transmettre lui-même le bénéfice du contrat, soit
+par une cession dans la forme de l'article 1690 du code civil, soit, si la police est à ordre, par endossement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 10 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
 
 	**Cite**:
 
@@ -2680,23 +3019,45 @@ dans la forme de l'article 1690 du code civil, soit, si la police est à ordre, 
 
 	  - Code des assurances - art. L111-2 (V)
 
+
+###### Article L132-16
+
+Le bénéfice de l'assurance contractée par un époux commun en biens en faveur de son conjoint, constitue un propre pour celui-
+ci. 
+
+Aucune récompense n'est due à la communauté en raison des primes payées par elle, sauf dans les cas spécifiés dans l'article
+L. 132-13, deuxième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
 	**Anciens textes**:
 
-	  - Loi n°1930-07-13 art. 70
+	  - Loi n°1930-07-13 art. 71
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-13 (V)
 
 
 ###### Article L132-17
 
-Les articles 56 et 58 de la loi n° 67-563 du 13 juillet 1967 concernant les droits du conjoint du débiteur en liquidation de
-biens ou en règlement judiciaire sont sans application en cas d'assurance sur la vie contractée par un commerçant au profit
-de son conjoint.
+Les articles L. 621-112 et L. 621-114 du code de commerce concernant les droits du conjoint du débiteur en redressement
+judiciaire sont sans application en cas d'assurance sur la vie contractée par un commerçant au profit de son conjoint.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°67-563 du 13 juillet 1967 - art. 56 (Ab)
-	  - Loi n°67-563 du 13 juillet 1967 - art. 58 (Ab)
 
 	**Codifié par**:
 
@@ -2704,12 +3065,27 @@ de son conjoint.
 
 	**Modifié par**:
 
-	  - Loi n°81-5 du 7 janvier 1981 - art. 11 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°85-98 1985-01-25 art. 221 III, art. 233 JORF 26 janvier 1985 en vigueur le 1er janvier 1986
+	  - Loi n°85-98 du 25 janvier 1985 - art. 221 () JORF 26 janvier 1985 en vigueur le 1er janvier 1986
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-112 (M)
+	  - Code de commerce. - art. L621-114 (Ab)
 
 
 ###### Article L132-18
 
-Les époux peuvent contracter une assurance réciproque sur la tête de chacun d'eux par un seul et même acte.
+Dans le cas de réticence ou fausse déclaration mentionné à l'article L. 113-8, dans le cas où l'assuré s'est donné
+volontairement et consciemment la mort au cours du délai mentionné à l'article L. 132-7 ou lorsque le contrat exclut la
+garantie du décès en raison de la cause de celui-ci, l'assureur verse au contractant ou, en cas de décès de l'assuré, au
+bénéficiaire, une somme égale à la provision mathématique du contrat.
 
 **Liens relatifs à cet article**
 
@@ -2717,18 +3093,57 @@ Les époux peuvent contracter une assurance réciproque sur la tête de chacun d
 
 	  - Décret n°76-666 1976-07-16
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1930-07-13 art. 73
+	  - Loi n°81-5 du 7 janvier 1981 - art. 12 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
 
 	**Cité par**:
 
 	  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
 
+	**Cite**:
+
+	  - Code des assurances - art. L113-8 (M)
+	  - Code des assurances - art. L132-7 (M)
+
+
+###### Article L132-19
+
+Tout intéressé peut se substituer au contractant pour payer les primes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L111-2 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1930-07-13 art. 74
+
 
 ###### Article L132-20
 
-L'assureur n'a pas d'action pour exiger le paiement des primes.
+L'entreprise d'assurance ou de capitalisation n'a pas d'action pour exiger le paiement des primes.
 
 Lorsqu'une prime ou fraction de prime n'est pas payée dans les dix jours de son échéance, l'assureur adresse au contractant
 une lettre recommandée par laquelle il l'informe qu'à l'expiration d'un délai de quarante jours à dater de l'envoi de cette
@@ -2738,15 +3153,26 @@ d'inexistence ou d'insuffisance de la valeur de rachat, soit la réduction du co
 
 L'envoi de la lettre recommandée par l'assureur rend la prime portable dans tous les cas.
 
+Le défaut de paiement d'une cotisation due au titre d'un contrat de capitalisation ne peut avoir pour sanction que la
+suspension ou la résiliation pure et simple du contrat et, dans ce dernier cas, la mise à la disposition du porteur de la
+valeur de rachat que ledit contrat a éventuellement acquise.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 52 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 27 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
 
 	**Cité par**:
 
@@ -2757,17 +3183,19 @@ L'envoi de la lettre recommandée par l'assureur rend la prime portable dans tou
 
 ###### Article L132-21
 
-Les modalités de calcul de la valeur de réduction et de la valeur de rachat sont déterminées par un règlement général
-mentionné dans la police et établi par l'assureur après accord de l'autorité administrative.
+Les modalités de calcul de la valeur de rachat et, le cas échéant, de la valeur de réduction sont déterminées par un
+règlement général mentionné dans la police et établi par l'entreprise d'assurance ou de capitalisation.
 
-Dès la signature du contrat, l'assureur informe le contractant que ce règlement général est tenu à sa disposition sur sa
-demande. L'assureur doit communiquer au contractant, sur la demande de celui-ci, le texte du règlement général. 
+Dès la signature du contrat, l'entreprise d'assurance ou de capitalisation informe le contractant que ce règlement général
+est tenu à sa disposition sur sa demande. L'entreprise d'assurance ou de capitalisation doit communiquer au contractant, sur
+la demande de celui-ci, le texte du règlement général.
 
 Dans la limite de la valeur de rachat, l'assureur peut consentir des avances au contractant.
 
-L'assureur doit, à la demande du contractant, verser à celui-ci la valeur de rachat du contrat dans un délai qui ne peut
-excéder deux mois. Au-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal majoré de
-moitié durant deux mois, puis, à l'expiration  de ce délai de deux mois, au double du taux légal.
+L'entreprise d'assurance ou de capitalisation doit, à la demande du contractant, verser à celui-ci la valeur de rachat du
+contrat dans un délai qui ne peut excéder deux mois. Au-delà de ce délai, les sommes non versées produisent de plein droit
+intérêt au taux légal majoré de moitié durant deux mois, puis, à l'expiration  de ce délai de deux mois, au double du taux
+légal.
 
 **Liens relatifs à cet article**
 
@@ -2782,25 +3210,31 @@ moitié durant deux mois, puis, à l'expiration  de ce délai de deux mois, au d
 	  - Code des assurances - art. A335-2 (Ab)
 	  - Code des assurances - art. L132-5 (M)
 
-	**Modifié par**:
-
-	  - Loi n°85-608 1985-06-11 art. 3 JORF 20 juin 1985 en vigueur le 1er janvier 1986
-
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 (application du chapitre III de la loi à la collectivité territorial de Mayotte)
 	  - TXT_SOURCE: Code des assurances - art. A335-2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 27 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
 
 
 ###### Article L132-22
 
 Pour les contrats souscrits ou transformés depuis le 1er janvier 1982, et aussi longtemps qu'ils donnent lieu à paiement de
-prime, l'assureur doit communiquer chaque année au contractant les montants respectifs de la valeur de rachat, de la valeur
-de réduction, des capitaux garantis et de la prime du contrat.
+prime, l'entreprise d'assurance ou de capitalisation doit communiquer chaque année au contractant les montants respectifs de
+la valeur de rachat, le cas échéant de la valeur de réduction, des capitaux garantis et de la prime du contrat ainsi que,
+pour les contrats souscrits ou transformés depuis le 1er janvier 1992 dont les garanties sont exprimées en unités de compte,
+les valeurs de ces unités de compte et leur évolution annuelle à compter de la souscription du contrat.
 
 Ces montants ne peuvent tenir compte de participations bénéficiaires qui ne seraient pas attribuées à titre définitif.
 
-L'assureur doit préciser em termes précis et clairs dans cette communication ce que signifient les opérations de rachat et de
-réduction et quelles sont leurs conséquences légales et contractuelles.
+L'entreprise d'assurance ou de capitalisation doit préciser em termes précis et clairs dans cette communication ce que
+signifient les opérations de rachat et de réduction et quelles sont leurs conséquences légales et contractuelles.
 
 Pour les contrats ne donnant plus lieu à paiement de prime et pour les contrats souscrits ou transformés avant le 1er janvier
 1982, les informations visées ci-dessus ne sont communiquées pour une année donnée qu'au contractant qui en fait la demande.
@@ -2828,7 +3262,44 @@ Le contrat doit faire référence à l'obligation d'information prévue aux alin
 
 	**Modifié par**:
 
-	  - Loi n°85-608 1985-06-11 art. 4 I JORF 20 juin 1985 en vigueur le 1er janvier 1986
+	  - Loi n°92-665 1992-07-16 art. 21, art. 24, art. 28, art. 30 I, II JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 28 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
+
+
+###### Article L132-22-1
+
+L'indemnité maximale, en cas de rachat, susceptible d'être retenue par l'assureur est fixée par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°85-608 1985-06-11 art. 5 JORF 20 juin 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L331-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L331-2 (M)
+	  - Code des assurances - art. L331-2 (V)
 
 
 ###### Article L132-23
@@ -2837,12 +3308,38 @@ Les assurances temporaires en cas de décès ainsi que les rentes viagères imm�
 comporter ni réduction ni rachat. Les assurances de capitaux de survie et de rente de survie, les assurances en cas de vie
 sans contre-assurance et les rentes viagères différées sans contre-assurance ne peuvent comporter de rachat.
 
+Les contrats d'assurance de groupe en cas de vie dont les prestations sont liées à la cessation d'activité professionnelle ne
+comportent pas de possibilité de rachat. Toutefois, ces contrats doivent prévoir une faculté de rachat intervenant lorsque se
+produisent l'un ou plusieurs des événements suivants :
+
+- expiration des droits de l'assuré aux allocations d'assurance chômage prévues par le code du travail en cas de
+licenciement ;
+
+- cessation d'activité non salariée de l'assuré à la suite d'un jugement de liquidation judiciaire en application des
+dispositions de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ;
+(1)
+
+- invalidité de l'assuré correspondant au classement dans les deuxième ou troisième catégories prévues à l'article L. 341-4
+du code de la sécurité sociale.
+
+Les contrats d'assurance de groupe en cas de vie dont les prestations sont liées à la cessation d'activité professionnelle
+doivent comporter une clause de transférabilité.
+
 Pour les autres assurances sur la vie, l'assureur ne peut refuser la réduction ou le rachat lorsque 15 p. 100 des primes ou
-cotisations prévues au contrat ont  été versées. En tout état de cause le droit à rachat ou à réduction est acquis lorsque au
-moins deux primes annuelles ont été payées.
+cotisations prévues au contrat ont  été versées. Le droit à rachat ou à réduction est acquis lorsque au moins deux primes
+annuelles ont été payées.
 
 L'assureur peut d'office substituer le rachat à la réduction si la valeur de rachat du contrat est inférieure à un montant
 fixé par décret.
+
+Pour les opérations de capitalisation, l'assureur ne peut refuser le rachat lorsque 15 p. 100 des primes ou cotisations
+prévues au contrat ont été versées. En tout état de cause, le droit à rachat est acquis lorsqu'au moins deux primes annuelles
+ont été payées.
+
+**Nota:**
+
+(1) : La loi n° 85-98 a été abrogée par l'ordonnance n° 2000-912 du 18 septembre 2000 et codifiée dans le code de commerce
+aux articles L620-1 et suivants.
 
 **Liens relatifs à cet article**
 
@@ -2880,24 +3377,33 @@ fixé par décret.
 	  - Code monétaire et financier - art. R561-16 (VD)
 	  - Code rural et de la pêche maritime - art. D741-39 (Ab)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°85-608 1985-06-11 art. 6 I JORF 20 juin 1985 en vigueur le 1er janvier 1986
+	  - Loi n°85-98 1985-01-25
+	  - Code de la sécurité sociale. - art. L341-4 (V)
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°85-608 1985-06-11 art. 6 II *Les dispositions du présent article sont applicables aux contrats souscrits ou transformés à compter du 1er janvier 1986*
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 29 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
 
 
 ###### Article L132-24
 
-Le contrat d'assurance cesse d'avoir effet quand le bénéficiaire a occasionné volontairement la mort de l'assuré.
+Le contrat d'assurance cesse d'avoir effet à l'égard du bénéficiaire qui a été condamné pour avoir donné volontairement la
+mort à l'assuré.
 
-Le montant de la provision mathématique doit être versé par l'assureur aux héritiers ou ayants cause du contractant, si les
-primes ont été payées pendant trois ans au moins.
+Le montant de la provision mathématique doit être versé par l'assureur au contractant ou à ses ayants cause à moins qu'ils ne
+soient condamnés comme auteurs ou complices du meurtre de l'assuré.
 
-En cas de simple tentative, le contractant a le droit de révoquer l'attribution du bénéfice de l'assurance, même si l'auteur
-de cette tentative avait déjà accepté le bénéfice de la stipulation faite à son profit.
+Si le bénéficiaire a tenté de donner la mort à l'assuré, le contractant a le droit de révoquer l'attribution du bénéfice de
+l'assurance, même si le bénéficiaire avait déjà accepté la stipulation faite à son profit.
 
 **Liens relatifs à cet article**
 
@@ -2905,15 +3411,23 @@ de cette tentative avait déjà accepté le bénéfice de la stipulation faite �
 
 	  - Décret n°76-666 1976-07-16
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1930-07-13 art. 79
+	  - Loi n°81-5 du 7 janvier 1981 - art. 19 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
 
 
 ###### Article L132-25
 
-En cas de désignation d'un bénéficiaire par testament, le paiement des sommes assurées, fait à celui qui, sans cette
-désignation, y aurait eu droit, est libératoire pour l'assureur de bonne foi.
+Lorsque l'assureur n'a pas eu connaissance de la désignation d'un bénéficiaire, par testament ou autrement, ou de
+l'acceptation d'un autre bénéficiaire ou de la révocation d'une désignation, le paiement du capital ou de la rente garantis
+fait à celui qui, sans cette désignation, cette acceptation ou cette révocation, y aurait eu droit, est libératoire pour
+l'assureur de bonne foi.
 
 **Liens relatifs à cet article**
 
@@ -2921,9 +3435,15 @@ désignation, y aurait eu droit, est libératoire pour l'assureur de bonne foi.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1930-07-30 art. 80
+	  - Loi n°81-5 du 7 janvier 1981 - art. 20 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
 
 
 ###### Article L132-26
@@ -2931,57 +3451,80 @@ désignation, y aurait eu droit, est libératoire pour l'assureur de bonne foi.
 L'erreur sur l'âge de l'assuré n'entraîne la nullité de l'assurance que lorsque son âge véritable se trouve en dehors des
 limites fixées pour la conclusion des contrats par les tarifs de l'assureur.
 
-Dans tout autre cas, si, par suite d'une erreur de ce genre, la prime payée est inférieure à celle qui aurait dû être
-acquittée, le capital ou la rente assurée est réduit en proportion de la prime perçue et de celle qui aurait correspondu à
-l'âge véritable de l'assuré. Si, au contraire, par suite d'une erreur sur l'âge de l'assuré, une prime trop forte a été
-payée, l'assureur est tenu de restituer la portion de prime qu'il a reçue en trop sans intérêt.
+Dans tout autre cas, si par suite d'une erreur de ce genre, la prime payée est inférieure à celle qui aurait dû être
+acquittée, le capital ou la rente garantis sont réduits en proportion de la prime perçue et de celle qui aurait correspondu à
+l'âge véritable de l'assuré. Si au contraire, par suite d'une erreur sur l'âge de l'assuré, une prime trop forte a été payée,
+l'assureur est tenu de restituer la portion de prime qu'il a reçue en trop sans intérêt.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°81-5 du 7 janvier 1981 - art. 21 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
 
 	**Cité par**:
 
 	  - Code des assurances - art. L113-8 (V)
 
-	**Anciens textes**:
 
-	  - Loi n°1930-07-13 art. 81
+##### Section IV : Les assurances ayant pour objet l'acquisition d'immeubles au moyen de constitution de rentes viagères.
 
+###### Article L132-30
 
-##### Section III : Participation des assurés aux bénéfices techniques et financiers.
+Les entreprises ayant pour objet l'acquisition d'immeubles au moyen de constitution de rentes viagères sont astreintes dans
+leur fonctionnement aux prescriptions ci-après.
 
-###### Article L132-29
+Les crédirentiers conservent individuellement pour le service de leurs rentes, même à l'encontre de toute convention
+contraire, le privilège de l'article 2103, 1°, du code civil sur l'immeuble cédé. S'il existe des héritiers en ligne directe
+des crédirentiers, ces derniers ne peuvent traiter avec l'assureur qu'après y avoir été autorisés par jugement rendu en
+chambre du conseil sur simple requête.
 
-Les entreprises d'assurance sur la vie doivent faire participer les assurés aux bénéfices techniques et financiers qu'elles
-réalisent, dans les conditions fixées par arrêté du ministre de l'économie et des finances.
+L'estimation de la valeur actuelle, en pleine propriété, des immeubles cédés, est expressément stipulée aux contrats de
+rentes viagères et garantie sincère et véritable par un expert désigné par le tribunal de grande instance du ressort desdits
+immeubles. L'attestation de l'expert, suivie de sa signature, figure aux contrats.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-935 du 17 décembre 1966 - art. 4, v. init.
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Anciens textes**:
+
+	  - Loi n°1922-02-20 art. 1
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+	  - TXT_ASSOCIE: Code des assurances L132-31 *causes de nullité*
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+
+	**Cite**:
+
+	  - Code civil - art. 2103 (M)
+
 	**Cité par**:
 
-	  - Code des assurances - art. L324-7 (M)
+	  - Code des assurances - art. L111-5 (Ab)
+	  - Code des assurances - art. L132-31 (V)
+	  - Code des assurances - art. L193-1 (V)
+	  - Code des assurances - art. L194-1 (VD)
+	  - Code des assurances - art. L441-2 (V)
 
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L331-3 (V)
-
-
-### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation
-
-#### Chapitre II : Les assurances sur la vie et les opérations de capitalisation
-
-##### Section IV : Les assurances ayant pour objet l'acquisition d'immeubles au moyen de constitution de rentes viagères.
 
 ###### Article L132-31
 
@@ -3208,169 +3751,6 @@ d'un accord d'entreprise.
 	**Nouveaux textes**:
 
 	  - Code des assurances - art. L141-5 (M)
-
-
-### Titre V : Le contrat de capitalisation
-
-#### Chapitre unique
-
-##### Section II : Rachat.
-
-###### Article L150
-
-L'entreprise de capitalisation doit, à la demande du contractant, verser à celui-ci la valeur de rachat du contrat, dans un
-délai qui ne peut excéder deux mois. Au-delà de ce délai, les sommes non versée produisent de plein droit intérêt au taux
-légal majoré de moitié durant deux mois, puis, à l'expiration de ce délai de deux mois, au double du taux légal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°85-608 1985-06-11 art. 8 I JORF 20 juin 1985 en vigueur le 1er janvier 1986
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
-
-
-##### Section IV : Faculté de dénonciation.
-
-###### Article L150-1
-
-Toute personne physique qui a souscrit un contrat de capitalisation a la faculté de le dénoncer par lettre recommandée avec
-demande d'avis de réception pendant un délai de trente jours à compter du premier versement.
-
-Le bulletin de souscription doit comprendre un modèle de lettre type destiné à faciliter l'exercice de cette faculté de
-dénonciation. Le représentant de l'entreprise de capitalisation doit en outre remettre, contre récépissé, un spécimen du
-titre de capitalisation ayant valeur de note d'information. Le défaut de remise des documents énumérés au présent alinéa
-entraîne de plein droit la prorogation du délai prévu à l'alinéa ci-dessus jusqu'au trentième jour suivant la date de la
-remise effective de ces documents. Ce délai est également prorogé de plein droit pendant trente jours à compter de la date de
-réception du contrat de capitalisation, lorsque celui-ci apporte des réserves ou des modifications essentielles aux
-dispositions contenues dans le bulletin de souscription, ou à compter de l'acceptation écrite, par le souscripteur, de ces
-réserves ou modifications.
-
-La dénonciation entraîne la restitution par l'entreprise de capitalisation de l'intégralité des sommes versées par le
-contractant dans le délai maximal de trente jours à compter de la réception de la lettre recommandée. Au-delà de ce délai,
-les  sommes non restituées produisent de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis, à
-l'expiration de ce délai de deux mois, au double du taux légal.
-
-Lorsque au contrat de capitalisation est associée une assurance en cas de décès, les documents mentionnés au deuxième alinéa
-doivent rappeler le sort de cette garantie pendant le délai de dénonciation et après dénonciation du contrat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°85-608 1985-06-11 art. 9 I JORF 20 juin 1985 en vigueur le 1er janvier 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-608 1985-06-11 art. 9 II *les dispositions du présent article sont applicables aux contrats souscrits à compter du 1er janvier 1986*
-	  - TXT_SOURCE: Code des assurances - art. R*150-19 (M)
-	  - TXT_SOURCE: Code des assurances - art. R150-16 (M)
-	  - TXT_SOURCE: Code des assurances - art. R150-17 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R150-18 (Ab)
-	  - TXT_ASSOCIE: Code des assurances R150-16 à R150-19
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*310-6 (Ab)
-	  - Code des assurances - art. R150-16 (M)
-
-
-###### Article L150-2
-
-L'entreprise de capitalisation n'a pas d'action pour exiger le paiement des cotisations.
-
-Le défaut de paiement d'une cotisation ne peut avoir pour sanction que la suspension ou la résiliation pure et simple du
-contrat et, dans ce dernier cas, la mise à la disposition du porteur de la valeur de rachat que ledit contrat a
-éventuellement acquise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-6 du 3 janvier 1972 - art. 30 (V)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
-
-
-##### Section V : Participation des porteurs de titres aux bénéfices techniques et financiers.
-
-###### Article L150-3
-
-Pour leurs opérations de capitalisation, les entreprises doivent faire participer les porteurs de titres aux bénéfices
-qu'elles réalisent, dans les conditions fixées par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
-
-	**Cité par**:
-
-	  - Code des assurances - art. L324-7 (M)
-
-
-###### Article L150-4
-
-Aussi longtemps que le contrat donne lieu à paiement de cotisation, l'entreprise de capitalisation doit communiquer chaque
-année au contractant, outre la valeur de rachat, le montant du capital au terme et de la cotisation, compte tenu des
-attributions de participations bénéficiaires qui ont un caractère définitif.
-
-Lorsque le contrat ne comporte plus de paiement de cotisation, les informations visées à l'alinéa précédent ne sont
-communiquées pour une année qu'au contractant qui en fait la demande.
-
-Le contrat doit faire référence à l'obligation d'information prévue aux alinéas précédents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°85-608 1985-06-11 art. 10 I JORF 20 juin 1985 en vigueur le 1er janvier 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-608 1985-06-11 art. 10 II *les dispositions du présent article sont applicables aux contrats souscrits à compter du 1er janvier 1986*
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
@@ -3646,45 +4026,59 @@ d'adaptation de la présente section aux départements et territoires d'outre-me
 	  - Code de la défense. - art. L2234-19 (V)
 
 
-### Titre VII : Le contrat d'assurance maritime
+### Titre VII : Le contrat d'assurance maritime et d'assurance fluviale et lacustre
 
-#### Chapitre I : Dispositions générales.
+#### Chapitre Ier : Dispositions générales.
 
 ###### Article L171-1
 
 Est régi par le présent titre tout contrat d'assurance qui a pour objet de garantir les risques relatifs à une opération
 maritime.
 
+Le contrat d'assurance de navigation fluviale et lacustre est régi par les dispositions du présent titre, à l'exclusion des
+articles L. 172-5, L. 172-11, L. 172-17, L. 172-26, L. 173-7, L. 173-13 (4°) et L. 173-21 (2°).
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-522 1967-07-03 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 1992-07-16 art. 37 I, II JORF 17 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
 
 	**Cité par**:
 
 	  - Code des transports - art. L4455-1 (VD)
 
+	**Cite**:
+
+	  - Code des assurances - art. L172-11 (V)
+	  - Code des assurances - art. L172-17 (V)
+	  - Code des assurances - art. L172-26 (V)
+	  - Code des assurances - art. L172-5 (V)
+	  - Code des assurances - art. L173-13 (V)
+	  - Code des assurances - art. L173-21 (V)
+	  - Code des assurances - art. L173-7 (V)
+
 
 ###### Article L171-2
 
 Ne peuvent être écartées par les parties au contrat les dispositions des articles L. 171-3, L. 172-2, L. 172-3, L. 172-6, L.
-172-8, L. 172-9 (1er alinéa), L. 172-13 (2è alinéa), L. 172-17, L. 172-20, L. 172-21, L. 172-22, L. 172-28, L. 172-31 et L.
-173-5.
+172-8, L. 172-9 (1er alinéa), L. 172-13 (2è alinéa), L. 172-17, L. 172-20, L. 172-21, L. 172-22, L. 172-28 et L. 172-31.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-522 1967-07-03 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 2 I JORF 15 août 1985
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
 
 	**Cite**:
 
@@ -3701,46 +4095,485 @@ Ne peuvent être écartées par les parties au contrat les dispositions des arti
 	  - Code des assurances - art. L172-6 (V)
 	  - Code des assurances - art. L172-8 (V)
 	  - Code des assurances - art. L172-9 (V)
-	  - Code des assurances - art. L173-5 (V)
+
+
+###### Article L171-3
+
+Tout intérêt légitime, y compris le profit espéré, peut faire l'objet d'une assurance.
+
+Nul ne peut réclamer le bénéfice d'une assurance s'il n'a pas éprouvé un préjudice.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-2 (VD)
+
+
+###### Article L171-4
+
+L'assurance peut être contractée, soit pour le compte du souscripteur de la police, soit pour le compte d'une autre personne
+déterminée, soit pour le compte de qui il appartiendra.
+
+La déclaration que l'assurance est contractée pour le compte de qui il appartiendra vaut tant comme assurance au profit du
+souscripteur de la police que comme stipulation pour autrui au profit du bénéficiaire de ladite clause.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. R175-1 (V)
+
+
+###### Article L171-5
+
+Le présent titre n'est pas applicable aux contrats d'assurance ayant pour objet de garantir les risques relatifs à la
+navigation de plaisance.
+
+Ces contrats sont soumis aux dispositions des titres Ier, II et III du présent livre. Toutefois, les dispositions de
+l'article L. 124-3 ne font pas obstacle à l'application des règles concernant l'affectation de l'indemnité d'assurance à la
+constitution du fonds de limitation telles qu'elles sont prévues par les articles L. 173-23 et L. 173-24.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 63
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°2012-850 du 4 juillet 2012 (V)
+	  - Code des assurances - art. D171-3 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L124-3 (V)
+	  - Code des assurances - art. L173-23 (V)
+	  - Code des assurances - art. L173-24 (V)
 
 
 ###### Article L171-6
 
-Le présent titre est applicable dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, de Saint-Pierre et
-Miquelon, des Terres australes et antarctiques françaises et de Wallis et Futuna.
+Le présent titre est applicable dans les territoires d'outre-mer et à Mayotte.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-522 1967-07-03 art. 65
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 #### Chapitre II : Règles communes aux diverses assurances maritimes
 
-##### Section II : Obligations de l'assureur et de l'assuré.
+##### Section I : Conclusion du contrat.
 
-###### Article L172-13
+###### Article L172-1
 
-Les risques assurés demeurent couverts même en cas de faute de l'assuré ou de ses préposés terrestres, à moins que l'assureur
-n'établisse que le dommage est dû à un manque de soins raisonnables de la part de l'assuré pour mettre les objets à l'abri
-des risques survenus.
+L'assurance ne produit aucun effet lorsque les risques n'ont pas commencé dans les deux mois de l'engagement des parties ou
+de la date qui a été fixée pour prise en charge.
 
-L'assureur ne répond pas des fautes intentionnelles ou lourdes de l'assuré.
+Cette disposition n'est applicable aux polices d'abonnement que pour le premier aliment.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°67-522 1967-07-03 art. 17
+	  - Loi n°67-522 1967-07-03 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-839 du 15 juillet 2011 - art. 10
+
+
+###### Article L172-2
+
+Toute omission ou toute déclaration inexacte de l'assuré de nature à diminuer sensiblement l'opinion de l'assureur sur le
+risque, qu'elle ait ou non influé sur le dommage ou sur la perte de l'objet assuré, annule l'assurance à la demande de
+l'assureur.
+
+Toutefois, si l'assuré rapporte la preuve de sa bonne foi, l'assureur est, sauf stipulation plus favorable à l'égard de
+l'assuré, garant du risque proportionnellement à la prime perçue par rapport à celle qu'il aurait dû percevoir, sauf les cas
+où il établit qu'il n'aurait pas couvert les risques s'il les avait connus.
+
+La prime demeure acquise à l'assureur en cas de fraude de l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 6
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-2 (VD)
+	  - Code des assurances - art. L172-3 (V)
+
+
+###### Article L172-3
+
+Toute modification en cours de contrat, soit de ce qui a été convenu lors de sa formation, soit de l'objet assuré, d'où
+résulte une aggravation sensible du risque, entraîne la résiliation de l'assurance si elle n'a pas été déclarée à l'assureur
+dans les trois jours où l'assuré en a eu connaissance, jours fériés non compris, à moins que celui-ci n'apporte la preuve de
+sa bonne foi, auquel cas il est fait application des dispositions du deuxième alinéa de l'article L. 172-2.
+
+Si cette aggravation n'est pas le fait de l'assuré, l'assurance continue, moyennant augmentation de la prime correspondant à
+l'aggravation survenue. 
+
+Si l'aggravation est le fait de l'assuré, l'assureur peut, soit résilier le contrat dans les trois jours à partir du moment
+où il en a eu connaissance, la prime lui étant acquise, soit exiger une augmentation de prime correspondant à l'aggravation
+survenue.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-2 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L172-2 (V)
+
+
+###### Article L172-4
+
+Toute assurance faite après le sinistre ou l'arrivée des objets assurés ou du navire transporteur est nulle, si la nouvelle
+en était connue, avant la conclusion du contrat, au lieu où il a été signé ou au lieu où se trouvait l'assuré ou l'assureur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L172-5
+
+L'assurance sur bonnes ou mauvaises nouvelles est nulle s'il est établi qu'avant la conclusion du contrat l'assuré avait
+personnellement connaissance du sinistre ou l'assureur de l'arrivée des objets assurés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-1 (VD)
+
+
+###### Article L172-6
+
+Si l'assureur établit qu'il y a eu fraude de la part de l'assuré ou de son mandataire, l'assurance contractée pour une somme
+supérieure à la valeur réelle de la chose assurée est nulle, et la prime lui reste acquise.
+
+Il en est de même si la valeur assurée est une valeur agréée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-2 (V)
+	  - Code des assurances - art. L173-6 (V)
+
+
+###### Article L172-7
+
+En l'absence de fraude, le contrat est valable à concurrence de la valeur réelle des choses assurées et, si elle a été
+agréée, pour toute la somme assurée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 11
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L172-8
+
+Les assurances cumulatives pour une somme totale supérieure à la valeur de la chose assurée sont nulles si elles ont été
+contractées dans une intention de fraude.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 12
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-2 (V)
+
+
+###### Article L172-9
+
+Les assurances cumulatives contractées sans fraude pour une somme totale excédant la valeur de la chose assurée ne sont
+valables que si l'assuré les porte à la connaissance de l'assureur à qui il demande son règlement.
+
+Chacune d'elles produit ses effets en proportion de la somme à laquelle elle s'applique, jusqu'à concurrence de l'entière
+valeur de la chose assurée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 13
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-2 (V)
+
+
+###### Article L172-10
+
+Lorsque la somme assurée est inférieure à la valeur réelle des objets assurés, sauf le cas de valeur agréée, l'assuré demeure
+son propre assureur pour la différence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 14
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L172-10-1
+
+Lorsqu'un contrat d'assurance est conclu en libre prestation de services au sens de l'article L. 351-1, le contrat ou la note
+de couverture doivent indiquer l'adresse de l'établissement qui accorde la couverture ainsi que, le cas échéant, celle du
+siège social.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 4 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 35 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L351-1 (M)
+
+
+##### Section II : Obligations de l'assureur et de l'assuré.
+
+###### Article L172-11
+
+L'assureur répond des dommages matériels causés aux objets assurés par toute fortune de mer ou par un événement de force
+majeure.
+
+L'assureur répond également :
+
+1° De la contribution des objets assurés à l'avarie commune, sauf si celle-ci provient d'un risque exclu par l'assurance ;
+
+2° Des frais exposés par suite d'un risque couvert en vue de préserver l'objet assuré d'un dommage matériel ou de limiter le
+dommage.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 15
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-1 (VD)
+
+
+###### Article L172-12
+
+La clause "Franc d'avarie" affranchit l'assureur de toutes avaries, soit communes, soit particulières, excepté dans les cas
+qui donnent ouverture au délaissement ; dans ces cas, l'assuré a l'option entre le délaissement et l'action d'avarie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 16
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L172-13
+
+Les risques assurés demeurent couverts, même en cas de faute de l'assuré ou de ses préposés terrestres, à moins que
+l'assureur n'établisse que le dommage est dû à un manque de soins raisonnables de la part de l'assuré pour mettre les objets
+à l'abri des risques survenus.
+
+L'assureur ne répond pas des fautes intentionnelles ou inexcusables de l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-863 1985-08-02 art. 2 II JORF 15 août 1985
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
 
 	**Cité par**:
 
@@ -3752,28 +4585,1216 @@ L'assureur ne répond pas des fautes intentionnelles ou lourdes de l'assuré.
 	  - TXT_ASSOCIE: Code des assurances L172-14 *faute du capitaine ou de l'équipage*
 
 
-###### Article L172-22
+###### Article L172-14
 
-En cas de liquidation de biens, de règlement judiciaire ou de déconfiture de l'assuré, l'assureur peut, si la mise en demeure
-n'a pas été suivie de paiement, résilier la police en cours, mais la résiliation est sans effet à l'égard du tiers de bonne
-foi, bénéficiaire de l'assurance, en vertu d'un transfert antérieur à tout sinistre et à la notification de la résiliation.
-
-En cas de retrait d'agrément, de liquidation de biens, de règlement judiciaire ou de déconfiture de l'assureur, l'assuré a
-les mêmes droits.
+Les risques demeurent couverts dans les mêmes conditions en cas de faute du capitaine ou de l'équipage, sauf ce qui est dit à
+l'article L. 173-5.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°67-522 1967-07-03 art. 26
+	  - Loi n°67-522 1967-07-03 art. 18
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. L172-13 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L173-5 (V)
+
+
+###### Article L172-15
+
+Les risques assurés demeurent couverts même en cas de changement forcé de route, de voyage ou de navire, ou en cas de
+changement décidé par le capitaine en dehors de l'armateur et de l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 19
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L172-16
+
+L'assureur ne couvre pas les risques :
+
+a) de guerre civile ou étrangère, de mines et tous engins de guerre ;
+
+b) de piraterie ;
+
+c) de capture, prise ou détention par tous gouvernements ou autorités quelconques ;
+
+d) d'émeutes, de mouvements populaires, de grèves et de lock-out, d'actes de sabotage ou de terrorisme ;
+
+e) des dommages causés par l'objet assuré à d'autres biens ou personnes, sauf ce qui est dit à l'article L. 173-8 ;
+
+f) des sinistres dus aux effets directs ou indirects d'explosion, de dégagement de chaleur, d'irradiation provenant de
+transmutations de noyaux d'atomes ou de la radioactivité, ainsi que les sinistres dus aux effets de radiation provoqués par
+l'accélération artificielle des particules.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 20
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L173-8 (V)
+
+
+###### Article L172-17
+
+Lorsqu'il n'est pas possible d'établir si le sinistre a pour origine un risque de guerre ou un risque de mer, il est réputé
+résulter d'un événement de mer.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 21
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-1 (VD)
+	  - Code des assurances - art. L171-2 (V)
+
+
+###### Article L172-18
+
+L'assureur n'est pas garant : 
+
+a) des dommages et pertes matériels provenant du vice propre de l'objet assuré, sauf ce qui est dit à l'article L. 173-4
+quant au vice caché du navire ; 
+
+b) des dommages et pertes matériels résultant des amendes, confiscations, mises sous séquestre, réquisitions, mesures
+sanitaires ou de désinfection ou consécutifs à des violations de blocus, actes de contrebande, de commerce prohibé ou
+clandestin ; 
+
+c) des dommages-intérêts ou autres indemnités à raison de toutes saisies ou cautions données pour libérer les objets
+saisis ; 
+
+d) des préjudices qui ne constituent pas des dommages et pertes matériels atteignant directement l'objet assuré, tels que
+chômage, retard, différence de cours, obstacle apporté au commerce de l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 22
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L173-4 (V)
+
+
+###### Article L172-19
+
+L'assuré doit :
+
+1° Payer la prime et les frais, au lieu et aux époques convenus ;
+
+2° Apporter les soins raisonnables à tout ce qui est relatif au navire ou à la marchandise ;
+
+3° Déclarer exactement, lors de la conclusion du contrat, toutes les circonstances connues de lui qui sont de nature à faire
+apprécier par l'assureur le risque qu'il prend à sa charge ;
+
+4° Déclarer à l'assureur, dans la mesure où il les connaît, les aggravations de risques survenues au cours du contrat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 23
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L172-20
+
+Le défaut de paiement d'une prime permet à l'assureur soit de suspendre l'assurance, soit d'en demander la résiliation.
+
+La suspension ou la résiliation ne prend effet que huit jours après l'envoi à l'assuré, à son dernier domicile connu de
+l'assureur, et par lettre recommandée, d'une mise en demeure d'avoir à payer.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 20
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
 	**Cité par**:
 
 	  - Code des assurances - art. L171-2 (V)
+
+
+###### Article L172-21
+
+La suspension et la résiliation de l'assurance pour défaut de paiement d'une prime sont sans effet à l'égard des tiers de
+bonne foi, bénéficiaires de l'assurance en vertu d'un transfert antérieur à la notification de la suspension ou de la
+résiliation.
+
+En cas de sinistre, l'assureur peut, par une clause expresse figurant à l'avenant documentaire, opposer à ces bénéficiaires,
+à due concurrence, la compensation de la prime afférente à l'assurance dont ils revendiquent le bénéfice.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 25
+
+	**Codifié par**:
+
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-839 du 15 juillet 2011 - art. 10
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-2 (V)
+
+
+###### Article L172-22
+
+En cas de redressement ou de liquidation judiciaire de l'assuré, l'assureur peut, si la mise en demeure n'a pas été suivie de
+paiement, résilier la police en cours, mais la résiliation est sans effet à l'égard du tiers de bonne foi, bénéficiaire de
+l'assurance, en vertu d'un transfert antérieur à tout sinistre et à la notification de la résiliation.
+
+En cas de retrait d'agrément, de redressement ou de liquidation judiciaire de l'assureur, l'assuré a les mêmes droits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 36 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-2 (V)
+
+
+###### Article L172-23
+
+L'assuré doit contribuer au sauvetage des objets assurés et prendre toutes mesures conservatoires de ses droits contre les
+tiers responsables.
+
+Il est responsable envers l'assureur du dommage causé par l'inexécution de cette obligation résultant de sa faute ou de sa
+négligence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 27
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+##### Section III : Règlement de l'indemnité.
+
+###### Article L172-24
+
+Les dommages et pertes sont réglés en avarie, sauf faculté pour l'assuré d'opter pour le délaissement dans les cas déterminés
+par la loi ou par la convention.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 28
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L172-25
+
+L'assureur ne peut être contraint de réparer ou remplacer les objets assurés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 29
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L172-26
+
+La contribution à l'avarie commune, qu'elle soit provisoire ou définitive, ainsi que les frais d'assistance et de sauvetage
+sont remboursés par l'assureur, proportionnellement à la valeur assurée par lui, diminuée, s'il y a lieu, des avaries
+particulières à sa charge.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 30
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-1 (VD)
+	  - Code des assurances - art. L173-6 (V)
+
+
+###### Article L172-27
+
+Le délaissement ne peut être ni partiel, ni conditionnel.
+
+Il transfère les droits de l'assuré sur les objets assurés à l'assureur, à charge par lui de payer la totalité de la somme
+assurée et les effets de ce transfert remontent entre les parties au moment où l'assuré notifie à l'assureur sa volonté de
+délaisser.
+
+L'assureur peut, sans préjudice du paiement de la somme assurée, refuser le transfert de propriété.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 31
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L172-28
+
+L'assuré qui a fait de mauvaise foi une déclaration inexacte relative au sinistre est déchu du bénéfice de l'assurance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 32
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-2 (V)
+
+
+###### Article L172-29
+
+L'assureur qui a payé l'indemnité d'assurance acquiert, à concurrence de son paiement, tous les droits de l'assuré nés des
+dommages qui ont donné lieu à garantie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 33
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L172-30
+
+Si un même risque a été couvert par plusieurs assureurs, chacun n'est tenu, sans solidarité avec les autres, que dans la
+proportion de la somme par lui assurée, laquelle constitue la limite de son engagement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 34
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L172-31
+
+Les actions nées du contrat d'assurance se prescrivent par deux ans. La prescription court contre les mineurs et les autres
+incapables.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 35
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-2 (V)
+
+
+#### Chapitre III : Règles particulières aux diverses assurances maritimes
+
+##### Section I : Assurances sur corps.
+
+###### Article L173-1
+
+L'assurance des navires est contractée, soit pour un voyage, soit pour plusieurs voyages consécutifs, soit pour une durée
+déterminée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 36
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L173-2
+
+Dans l'assurance au voyage, la garantie court depuis le début du chargement jusqu'à la fin du déchargement et au plus tard
+quinze jours après l'arrivée du navire à destination.
+
+En cas de voyage sur lest, la garantie court depuis le moment où le navire démarre jusqu'à l'amarrage du navire à son
+arrivée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 37
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L173-3
+
+Dans l'assurance à temps, les risques du premier et du dernier jour sont couverts par l'assurance.
+
+Les jours se comptent de zéro à 24 heures, d'après l'heure du pays où la police a été émise.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 38
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L173-4
+
+L'assureur ne garantit pas les dommages et pertes résultant d'un vice propre du navire, sauf s'il s'agit d'un vice caché.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 39
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L172-18 (V)
+
+
+###### Article L173-5
+
+L'assureur ne garantit pas les dommages et pertes causés par la faute intentionnelle du capitaine.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 40
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-2 (M)
+	  - Code des assurances - art. L172-14 (V)
+
+
+###### Article L173-6
+
+Lorsque la valeur assurée du navire est une valeur agréée, les parties s'interdisent réciproquement toute autre estimation,
+réserve faite des dispositions des articles L. 172-6 et L. 172-26.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 41
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L172-26 (V)
+	  - Code des assurances - art. L172-6 (V)
+
+
+###### Article L173-7
+
+L'assurance sur bonne arrivée ne peut être contractée, à peine de nullité, qu'avec l'accord des assureurs du navire.
+
+Lorsqu'une somme est assurée à ce titre, la justification de l'intérêt assurable résulte de l'acceptation de la somme ainsi
+garantie.
+
+L'assureur n'est tenu que dans les cas de perte totale ou de délaissement du navire à la suite d'un risque couvert par la
+police ; il n'a aucun droit sur les biens délaissés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 42
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-1 (VD)
+
+
+###### Article L173-8
+
+A l'exception des dommages aux personnes, l'assureur est garant du remboursement des dommages de toute nature dont l'assuré
+serait tenu sur le recours des tiers au cas d'abordage par le navire assuré ou de heurt de ce navire contre un bâtiment,
+corps fixe, mobile ou flottant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 43
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L172-16 (V)
+	  - Code des assurances - art. L172-16-1 (VD)
+	  - Code des assurances - art. L173-25 (V)
+
+
+###### Article L173-9
+
+Dans l'assurance au voyage ou pour plusieurs voyages consécutifs, la prime entière est acquise à l'assureur, dès que les
+risques ont commencé à courir.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 44
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L173-10
+
+Dans l'assurance à temps, la prime stipulée pour toute la durée de la garantie est acquise en cas de perte totale ou de
+délaissement à la charge de l'assureur. Si la perte totale ou le cas de délaissement n'est pas à sa charge, la prime est
+acquise en fonction du temps couru jusqu'à la perte totale ou à la notification du délaissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 45
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L173-11
+
+Dans le règlement d'avaries, l'assureur ne rembourse que le coût des remplacements et réparations reconnus nécessaires pour
+remettre le navire en bon état de navigabilité, à l'exclusion de toute autre indemnité pour dépréciation ou chômage ou
+quelque autre cause que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 46
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L173-12
+
+Quel que soit le nombre d'événements survenus pendant la durée de la police, l'assuré est garanti pour chaque événement
+jusqu'au montant du capital assuré, sauf le droit pour l'assureur de demander après chaque événement un complément de prime.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 47
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L173-13
+
+Le délaissement du navire peut être effectué dans les cas suivants :
+
+1° Perte totale ;
+
+2° Réparation devant atteindre les trois quarts de la valeur agréée ;
+
+3° Impossibilité de réparer ;
+
+4° Défaut de nouvelles depuis plus de trois mois ; la perte est réputée s'être produite à la date des dernières nouvelles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 48
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-1 (VD)
+
+
+###### Article L173-14
+
+En cas d'aliénation ou d'affrètement coque nue du navire, l'assurance continue de plein droit au profit du nouveau
+propriétaire ou de l'affréteur, à charge par lui d'en informer l'assureur dans le délai de dix jours et d'exécuter toutes les
+obligations dont l'assuré était tenu envers l'assureur en vertu du contrat.
+
+Il sera toutefois loisible à l'assureur de résilier le contrat dans le mois du jour où il aura reçu notification de
+l'aliénation ou de l'affrètement. Cette résiliation ne prendra effet que quinze jours après sa notification.
+
+L'aliénateur ou le fréteur reste tenu au paiement des primes échues antérieurement à l'aliénation ou à l'affrètement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 49
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L173-15 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des assurances L173-15 *navire en copropriété*
+
+
+###### Article L173-15
+
+L'aliénation de la majorité des parts d'un navire en copropriété entraîne seule l'application de l'article L. 173-14.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 50
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L173-14 (V)
+
+
+###### Article L173-16
+
+Les dispositions de la présente section sont également applicables aux contrats d'assurance concernant le navire qui n'est
+assuré que pour la durée de son séjour dans les ports, rades ou autres lieux, qu'il soit à flot ou en cale sèche.
+
+Elles sont applicables aux navires en construction.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 51
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+##### Section II : Assurances sur facultés.
+
+###### Article L173-17
+
+Les marchandises sont assurées, soit par une police n'ayant d'effet que pour un voyage, soit par une police dite flottante.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 52
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L173-18
+
+Les marchandises sont assurées sans interruption, en quelque endroit qu'elles se trouvent, dans les limites du voyage défini
+par la police.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 53
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L173-19
+
+Lorsqu'une partie du voyage est effectuée par voie terrestre, fluviale ou aérienne, les règles de l'assurance maritime sont
+applicables à l'ensemble du voyage.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 54
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-839 du 15 juillet 2011 - art. 10
+
+
+###### Article L173-20
+
+Le délaissement des facultés peut être effectué dans les cas où les marchandises sont :
+
+1° Perdues totalement ;
+
+2° Perdues ou détériorées à concurrence des trois quarts de leur valeur ;
+
+3° Vendues en cours de route pour cause d'avaries matérielles des objets assurés par suite d'un risque couvert.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 55
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L173-21
+
+Il peut également avoir lieu dans les cas :
+
+1° D'innavigabilité du navire et si l'acheminement des marchandises, par quelque moyen de transport que ce soit, n'a pu
+commencer dans le délai de trois mois ;
+
+2° De défaut de nouvelles du navire depuis plus de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 56
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-1 (VD)
+
+
+###### Article L173-22
+
+Au cas où l'assuré qui a contracté une police flottante ne s'est pas conformé aux obligations prévues par décret, le contrat
+peut être résilié sans délai à la demande de l'assureur, qui a droit, en outre, aux primes correspondant aux expéditions non
+déclarées.
+
+Si l'assuré est de mauvaise foi, l'assureur peut exercer le droit de répétition sur les versements qu'il a effectués pour les
+sinistres relatifs aux expéditions postérieures à la première omission intentionnelle de l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 57
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+##### Section III : Assurance de responsabilité.
+
+###### Article L173-23
+
+L'assurance de responsabilité ne donne droit au remboursement à l'assuré que si le tiers lésé a été indemnisé et dans cette
+mesure, sauf en cas d'affectation de l'indemnité d'assurance à la constitution du fonds de limitation, dans les termes de
+l'article 62 de la loi n° 67-5 du 3 janvier 1967 portant statut des navires et autres bâtiments de mer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-5 du 3 janvier 1967 - art. 62 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 58
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-5 (V)
+
+
+###### Article L173-24
+
+En cas de constitution d'un fonds de limitation, les créanciers dont le droit est sujet à limitation, dans les termes des
+articles 58 à 60 de la loi n° 67-5 du 3 janvier 1967 portant statut des navires et autres bâtiments de mer, n'ont pas
+d'action contre l'assureur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-5 du 3 janvier 1967 - art. 58 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 59
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cité par**:
+
+	  - Code des assurances - art. L171-5 (V)
+	  - Code des assurances - art. L173-23 (VD)
+
+
+###### Article L173-25
+
+L'assurance de responsabilité, qui a pour objet la réparation des dommages causés aux tiers par le navire et qui sont
+garantis dans les termes de l'article L. 173-8, ne produit d'effet qu'en cas d'insuffisance de la somme assurée par la police
+sur corps.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 60
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Cite**:
+
+	  - Code des assurances - art. L173-8 (V)
+
+
+###### Article L173-26
+
+Quel que soit le nombre d'événements survenus pendant la durée de l'assurance de responsabilité, la somme souscrite par
+chaque assureur constitue, par événement, la limite de son engagement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-522 1967-07-03 art. 61
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+#### Chapitre IV : Règles particulières aux diverses assurances de navigation fluviale et lacustre
+
+##### Section I : Assurance sur corps.
+
+###### Article L174-1
+
+L'assurance sur corps garantit les pertes et dommages matériels atteignant le bateau et ses dépendances assurées et résultant
+de tous accidents de navigation ou événements de force majeure sauf exclusions formelles et limitées prévues au contrat
+d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L174-2
+
+L'assureur ne garantit pas les pertes et les dommages lorsque le bateau entreprend le voyage dans un état le rendant impropre
+à la navigation ou insuffisamment armé ou équipé.
+
+De même, il ne garantit pas les pertes et dommages consécutifs à l'usure normale du bateau ou à sa vétusté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992, rectificatif JORF 31 juillet 1992
+
+
+###### Article L174-3
+
+L'assureur répond de la contribution des biens assurés à l'avarie commune. De même, lorsque les marchandises à bord
+appartiennent toutes à l'assuré, l'assureur garantit les pertes qui auraient constitué une avarie commune si les marchandises
+avaient appartenu à un tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+##### Section II : Assurance sur facultés.
+
+###### Article L174-4
+
+L'assurance sur facultés garantit les pertes et dommages matériels causés aux marchandises par tous accidents de navigation
+ou événements de force majeure sauf exclusions formelles et limitées prévues au contrat d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+###### Article L174-5
+
+L'assureur ne répond pas du dommage ou de la perte que l'expéditeur ou le destinataire, en tant que tel, a causés par faute
+intentionnelle ou inexcusable.
+
+Il ne répond pas du dommage consécutif au vice propre de la marchandise, résultant de sa détérioration interne, de son
+dépérissement, de son coulage, ainsi que de l'absence ou du défaut d'emballage, de la freinte de route ou du fait des
+rongeurs. Toutefois, l'assureur garantit le dommage consécutif au retard lorsque le voyage est anormalement retardé par un
+événement dont il répond.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+
+##### Section III : Assurance de responsabilité.
+
+###### Article L174-6
+
+L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due, tant que ce tiers n'a pas été
+désintéressé jusqu'à concurrence de ladite somme des conséquences pécuniaires du fait dommageable ayant entraîné la
+responsabilité de l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-839 du 15 juillet 2011 - art. 10
 
 
 ### Titre VIII : Loi applicable aux contrats d'assurance de dommages pour les risques situés sur le territoire d'un ou plusieurs Etats membres des communautés européennes
@@ -4127,34 +6148,6 @@ applicables aux créanciers privilégiés.
 	**Créé par**:
 
 	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
-
-
-#### Chapitre III : Dispositions applicables aux assurances fluviales.
-
-###### Article L193-1
-
-Par dérogation aux dispositions de l'article L. 111-1, le contrat d'assurance ayant pour objet de garantir les risques
-relatifs à la navigation fluviale dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle est soumis aux
-dispositions des articles 129 à 148 de la loi locale du 30 mai 1908 précitée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°1908-05-30 art. 129 à 148
-	  - Code des assurances - art. L111-1 (M)
-
-	**Créé par**:
-
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
 
 
 ## Livre II : Assurances obligatoires
@@ -6904,8 +8897,11 @@ sur le territoire de la République française auprès d'une entreprise étrang�
 des articles L. 321-1 et L. 321-2.
 
 Toutefois, les dispositions de l'alinéa ci-dessus ne sont pas applicables à l'assurance des risques liés aux transports
-maritimes et aériens ainsi qu'aux opérations de libre prestation de services et de coassurance communautaire définies aux
-chapitres Ier et II du titre V du présent livre.
+maritimes et aériens ainsi qu'aux opérations de libre prestation de services et de coassurance communautaire définies au
+titre V du présent livre. En outre, il peut être dérogé aux dispositions du précédent alinéa sur décision du ministre de
+l'économie et des finances s'il est constaté qu'une couverture d'assurance d'un risque ne peut être trouvée auprès des
+entreprises d'assurance qui se sont conformées aux prescriptions des articles L. 321-1, L. 321-2 et du titre V du présent
+livre.
 
 **Liens relatifs à cet article**
 
@@ -6915,8 +8911,7 @@ chapitres Ier et II du titre V du présent livre.
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 18 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°92-665 du 16 juillet 1992 - art. 32 () JORF 17 juillet 1992
 
 	**Cité par**:
 
@@ -7011,7 +9006,7 @@ En cas de partage égal des voix, celle du président est prépondérante.
 
 Les membres titulaires et suppléants de la commission ne peuvent être révoqués.
 
-Le directeur des assurances au ministère de l'économie et des finances, ou son représentant, siège auprès de la commission en
+Le directeur du Trésor au ministère de l'économie et des finances, ou son représentant, siège auprès de la commission en
 qualité de commissaire du Gouvernement.
 
 Le secrétariat général de la commission est assuré par le chef du service de contrôle des assurances.
@@ -7068,17 +9063,17 @@ Le secrétariat général de la commission est assuré par le chef du service de
 	  - Code monétaire et financier - art. L561-36 (VD)
 	  - Code monétaire et financier - art. L612-20 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+	  - Loi n°92-665 du 16 juillet 1992 - art. 12 () JORF 17 juillet 1992
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L310-12-1 (M)
 
 
 ###### Article L310-13
@@ -7266,8 +9261,8 @@ toutes mesures destinées à rétablir ou renforcer son équilibre financier ou 
 
 Lorsqu'une entreprise mentionnée à l'article L. 310-1 n'a pas respecté une disposition législative ou réglementaire dans le
 domaine relevant du contrôle de la commission ou n'a pas déféré à une injonction, la commission peut prononcer, à son
-encontre ou à celle de ses dirigeants, l'une des sanctions disciplinaires suivantes, en fonction de la gravité du
-manquement :
+encontre ou à celle de ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes, en fonction de la gravité
+du manquement :
 
 1° L'avertissement ;
 
@@ -7304,9 +9299,9 @@ l'affichage dans les lieux et pour la durée qu'elle indique.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+	  - Loi n°92-665 du 16 juillet 1992 - art. 13 () JORF 17 juillet 1992
 
 	**Cité par**:
 
@@ -8074,30 +10069,22 @@ territoriale de Mayotte.
 ###### Article L322-5
 
 Sous réserve des dérogations résultant de la présente section, les entreprises d'assurance et de capitalisation nationalisées
-en application de l'article premier de la loi n° 46-835 du 25 avril 1946, ont le statut de sociétés commerciales et sont
-soumises à la législation des assurances.
-
-Le contrôle de l'Etat exercé sur ces entreprises est celui institué par l'article L. 310-1. Elles demeurent assujetties aux
-impôts, sous les mêmes conditions que les sociétés anonymes d'assurance.
+en application de l'article 1er de la loi n° 46-835 du 25 avril 1946 relative à la nationalisation de certaines sociétés
+d'assurances et à l'industrie des assurances en France ont le statut de sociétés commerciales.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°46-835 1946-04-25
-	  - Code des assurances - art. L310-1 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 5
+	  - Loi n°46-835 du 25 avril 1946 (V)
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
+	  - Loi n°92-665 du 16 juillet 1992 - art. 2 () JORF 17 juillet 1992
 
 	**Cité par**:
 
@@ -8106,202 +10093,26 @@ impôts, sous les mêmes conditions que les sociétés anonymes d'assurance.
 	  - Code des assurances - art. R*322-12 (Ab)
 
 
-###### Article L322-7
-
-A la date du 2 mai 1946, les actions des sociétés nationalisées sont transférées à l'Etat. Les mandats et les fonctions des
-administrateurs et du directeur général prennent fin.
-
-Les entreprises nationalisées remettent aux actionnaires, en échange de leurs actions, des parts bénéficiaires négociables.
-Les caractéristiques de ces titres sont fixées par un arrêté du ministre de l'économie et des finances.
-
-Les dispositions des alinéas ci-dessus s'appliquent également aux parts de fondateur qui ont été émises par les sociétés
-nationalisées.
-
-Les parts bénéficiaires ainsi créées peuvent remplacer dans les placements selon lesquels sont employés ou remployés les
-biens dotaux de la femme mariée, les actions des entreprises d'assurance nationalisées.
-
-Les parts bénéficiaires reçoivent, à partir du 1er juillet 1946, une répartition fixée chaque année par le conseil
-d'administration, sans pouvoir être inférieure au dividende distribué aux actionnaires pour l'exercice 1944 ou à la somme
-obtenue en appliquant à la valeur de rachat fixée aux articles L. 322-9 et L. 322-10 le taux d'intérêt de 3 % l'an. Ce
-montant minimal est considéré comme une charge d'exploitation et garanti par l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-
-	**Cité par**:
-
-	  - Loi n°86-912 du 6 août 1986 - art. 7 (M)
-	  - Code des assurances - art. L322-8 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 2 () JORF 17 juillet 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-10 (Ab)
-	  - Code des assurances - art. L322-9 (Ab)
-
-
-###### Article L322-8
-
-Les parts bénéficiaires mentionnées à l'article L. 322-7 sont amortissables à leur valeur de rachat fixée aux articles L.
-322-9 et L. 322-10 par voie de tirage au sort selon un tableau d'amortissement publié au Journal officiel et assurant, par
-annuités égales, un remboursement en cinquante ans desdites parts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 2 () JORF 17 juillet 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-10 (Ab)
-	  - Code des assurances - art. L322-7 (Ab)
-	  - Code des assurances - art. L322-9 (Ab)
-
-
-###### Article L322-9
-
-Pour les sociétés dont les titres sont cotés en bourse, la valeur de remboursement des parts bénéficiaires est égale au cours
-moyen des actions pendant la période du 1er septembre 1944 au 28 février 1945 ou au cours du 4 juin 1945 lorsque ce dernier
-est supérieur au cours moyen en question.
-
-Toutefois, pour les sociétés qui auraient, depuis le 1er mars 1945, procédé à des distributions de réserves ou à des
-remboursements de capital, quelle que soit la forme de ces distributions ou remboursements, la valeur des parts bénéficiaires
-est diminuée du montant des remboursements ainsi effectués.
-
-Pour les sociétés qui auraient, entre le 1er mars 1945 et le 1er juillet 1946, augmenté leur capital versé, la valeur des
-parts bénéficiaires est augmentée du montant des versements ainsi effectués, à moins que, les versements ayant été effectués
-avant le 4 juin 1945, le cours des actions à cette date ne soit retenu comme prix de rachat.
-
-Pour les sociétés dont les actions ne sont pas cotées en bourse, le prix de rachat des parts bénéficiaires est déterminé sur
-la base de la valeur liquidative de l'entreprise par des commissions constituées par le président de la section des finances
-du Conseil d'Etat, un conseiller maître à la Cour des comptes et un représentant élu des actionnaires. Cette valeur
-liquidative est déterminée en tenant compte de tous éléments comptables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 2 () JORF 17 juillet 1992
-
-	**Cité par**:
-
-	  - Code des assurances - art. L322-10 (Ab)
-	  - Code des assurances - art. L322-7 (Ab)
-	  - Code des assurances - art. L322-8 (Ab)
-
-
-###### Article L322-10
-
-Les porteurs de parts de sociétés par actions ayant droit à une partie de l'actif net en cas de liquidation et les autres
-personnes ayant des droits similaires dans une société par actions reçoivent, en échange, des parts bénéficiaires sur les
-bases ci-après :
-
-S'il s'agit d'une société dont les actions sont cotées en bourse, la valeur des parts bénéficiaires remises aux actionnaires
-est majorée en faveur des porteurs dans le rapport des droits respectifs des porteurs et des actionnaires dans la
-liquidation.
-
-S'il s'agit d'une autre société, la valeur de l'ensemble des parts bénéficiaires à attribuer aux porteurs de parts de la
-société est une fraction de la valeur liquidative de l'entreprise calculée en vertu de l'article L. 322-9 et son montant est
-proportionnel au montant des droits des porteurs de ces parts dans la liquidation.
-
-Lorsqu'ils justifient que leurs titres ont été acquis postérieurement à la fondation de la société, les porteurs de parts de
-la société par actions, qui n'ont pas droit à une répartition dans l'actif net en cas de liquidation, reçoivent des parts
-bénéficiaires dont la valeur représente au jour du transfert l'attribution pendant dix ans du dividende moyen attribué à
-leurs parts au cours des trois exercices antérieurs au 1er janvier 1946.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 2 () JORF 17 juillet 1992
-
-	**Cité par**:
-
-	  - Code des assurances - art. L322-7 (Ab)
-	  - Code des assurances - art. L322-8 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-9 (Ab)
-
-
 ###### Article L322-12
 
-Il est créé, par le seul fait de la loi, dans chacun des groupes d'entreprises nationales "Assurances générales de France",
-"Groupe des assurances nationales" et "Union des assurances de Paris", une société centrale d'assurance ayant notamment pour
-objet de détenir directement ou indirectement la totalité des actions des entreprises constituant le groupe, d'exercer les
-droits attachés à ces actions et de faire bénéficier de ces droits ses propres actionnaires.
+Les sociétés centrales d'assurance créées par la loi n° 73-8 du 4 janvier 1973 relative à la mise en oeuvre de l'actionnariat
+du personnel dans les banques nationales et les entreprises nationales d'assurances ont notamment pour objet de détenir
+directement ou indirectement la totalité des actions des sociétés constituant les groupes d'entreprises nationales
+d'assurances, d'exercer les droits attachés à ces actions et de faire bénéficier de ces droits leurs propres actionnaires.
 
-Une entreprise nationale d'assurance peut détenir une participation dans la capital d'une autre entreprise du même groupe.
-
-Les dispositions des articles 95, 111 et 278 de la loi n° 66-537 du 24 juillet 1966 ne sont pas applicables aux sociétés
-centrales d'assurance. Les dispositions de la même loi ne font pas obstacle à l'application de la présente section.
+Les dispositions des articles 95 et 111 de la loi n° 66-537 du 24 juillet 1966 ne sont pas applicables aux sociétés centrales
+d'assurance. Les dispositions de la même loi ne font pas obstacle à l'application de la présente section.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°66-537 1966-07-24 art. 95, art. 111, art. 278
+	  - Loi n°66-537 1966-07-24 art. 95, art. 111
+	  - Loi n°73-8 1973-01-04
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
+	  - Décret n°76-666 1976-07-16
 
 	**Cité par**:
 
@@ -8311,13 +10122,22 @@ centrales d'assurance. Les dispositions de la même loi ne font pas obstacle à 
 	  - Code des assurances - art. R*322-30 (Ab)
 	  - Code général des impôts, CGI. - art. 81 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 2 () JORF 17 juillet 1992
+
 
 ###### Article L322-13
 
-Les sociétés centrales sont des société anonymes dont l'Etat détient, directement ou indirectement, les trois quarts au moins
-du capital social.
+Les sociétés centrales d'assurance sont des sociétés anonymes qui appartiennent au secteur public en vertu de la loi n°
+46-835 du 25 avril 1946 précitée et de la loi n° 73-8 du 4 janvier 1973 précitée.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°46-835 du 25 avril 1946 (V)
+	  - Loi n°73-8 du 4 janvier 1973 (V)
 
 	**Codifié par**:
 
@@ -8325,11 +10145,7 @@ du capital social.
 
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
+	  - Loi n°92-665 du 16 juillet 1992 - art. 1 () JORF 17 juillet 1992
 
 	**Cité par**:
 
@@ -8519,64 +10335,6 @@ terme de délais et dans des conditions fixées par décret en Conseil d'Etat.
 	  - Code des assurances - art. L322-25 (Ab)
 	  - Code des assurances - art. R*322-36 (Ab)
 	  - Code du travail applicable à Mayotte. - art. R322-30 (VD)
-
-
-###### Article L322-25
-
-Par dérogation aux dispositions de l'article 9 de l'ordonnance n° 67-693 du 17 août 1967, la participation des salariés des
-entreprises nationales d'assurance aux fruits de l'expansion peut être réalisée par l'attribution d'actions.
-
-Les dispositions de l'article L. 322-24 sont applicables aux actions attribuées à ce titre. Toutefois, elles ne sont
-négociables qu'à l'expiration du délai fixé à l'article 6 de cette ordonnance.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 67-693 1967-08-17 art. 6, art. 9
-	  - Code des assurances - art. L322-24 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°73-8 1973-01-04 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 2 () JORF 17 juillet 1992
-
-
-##### Paragraphe IV : Dispositions diverses.
-
-###### Article L322-26
-
-La garantie financière de l'Etat ne peut, en aucun cas, être accordée aux engagements des entreprises nationales envers les
-assurés, bénéficiaires et porteurs de contrats.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-835 1946-04-25 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 2 () JORF 17 juillet 1992
 
 
 ##### Section IV : Sociétés d'assurance mutuelles.
@@ -11886,107 +13644,25 @@ d'autres infractions.
 	  - Loi n°90-589 du 6 juillet 1990 - art. 18 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
 
 
+###### Article L422-5
+
+Le fonds de garantie peut interjeter appel des décisions rendues par la commission instituée par l'article 706-4 du code de
+procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 36 () JORF 17 juillet 1992
+
+
 ### Titre III : Organismes particuliers d'assurance
 
 #### Chapitre Ier : La caisse centrale de réassurance
-
-##### Section I : Dispositions générales.
-
-###### Article L431-1
-
-La caisse centrale de réassurance est un établissement public, de caractère commercial, doté de l'autonomie financière et
-placé sous l'autorité du ministre chargé de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 11 (V) JORF 17 juillet 1992
-
-
-###### Article L431-2
-
-La caisse centrale de réassurance peut, dans les conditions fixées par décret en conseil d'Etat, pris après avis du conseil
-d'administration de la caisse centrale de réassurance, conclure avec toutes les entreprises françaises et étrangères
-d'assurance et de réassurance des traités de réassurance de toute nature.
-
-Elle est autorisée à passer, dans les conditions fixées par ce décret, des traités de rétrocession sur le territoire de la
-République française ainsi qu'à l'étranger.
-
-Elle est, en outre, autorisée à compromettre et à transiger par dérogation à l'article 2060 du code civil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_SOURCE: Code des assurances - art. R*431-2 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 11 (V) JORF 17 juillet 1992
-
-	**Cite**:
-
-	  - Code civil - art. 2060 (V)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*431-2 (Ab)
-
-
-###### Article L431-3
-
-Un décret en Conseil d'Etat fixe les conditions générales de fonctionnement de la caisse centrale de réassurance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_SOURCE: Code des assurances - art. R*431-38 (M)
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 11 (V) JORF 17 juillet 1992
-
-	**Cité par**:
-
-	  - Code des assurances - art. L431-5 (M)
-	  - Code des assurances - art. L431-6 (M)
-	  - Code des assurances - art. R*431-44 (M)
-	  - Code des assurances - art. R*431-45 (M)
-	  - Code des assurances - art. R*431-5 (Ab)
-	  - Code des assurances - art. R431-33 (M)
-	  - Code des assurances - art. R431-34 (M)
-	  - Code des assurances - art. R431-35 (M)
-	  - Code des assurances - art. R431-36 (M)
-	  - Code des assurances - art. R431-38 (M)
-
 
 ##### Section II : Opérations effectuées avec la garantie de l'Etat
 
@@ -12506,335 +14182,6 @@ par l'article 15 de la loi n° 49-874 du 5 juillet 1949.
 	  - Code des assurances - art. R442-2 (V)
 
 
-#### Chapitre III : La caisse nationale de prévoyance
-
-##### Section I : Dispositions générales.
-
-###### Article L433-1
-
-La caisse nationale de prévoyance a pour objet de pratiquer, sous la garantie de l'Etat pour les contrats souscrits avant le
-1er août 1991, des opérations d'assurance sur la vie, d'assurance complémentaire aux assurances sur la vie, d'assurance
-invalidité et d'assurance contre les accidents du travail.
-
-Ces opérations font l'objet de deux gestions distinctes selon qu'elles relèvent des 1°, 2°, 3° et 4° d'une part, ou du 5°,
-d'autre part, de l'article L. 310-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°91-716 du 26 juillet 1991 - art. 22 () JORF 27 juillet 1991
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances - art. L111-1 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L160-17 (Ab)
-	  - TXT_ASSOCIE: Code des assurances L111-1, L160-17, L441-1 à L441-11
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
-
-###### Article L433-2
-
-La caisse nationale de prévoyance est gérée par la caisse des dépôts et consignations.
-
-Les frais de gestion ainsi exposés sont remboursés par la caisse nationale de prévoyance à la caisse des dépôts et
-consignations.
-
-La caisse nationale de prévoyance verse chaque année à l'Etat, sur le résultat net de son activité, après paiement de l'impôt
-sur les sociétés, une fraction de ce résultat net, déterminée par le ministre chargé de l'économie et des finances après avis
-de la commission supérieure saisie par le directeur général.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°91-716 du 26 juillet 1991 - art. 23 () JORF 27 juillet 1991
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances - art. L111-1 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L160-17 (Ab)
-	  - TXT_ASSOCIE: Code des assurances L111-1, L160-17, L441-1 à L441-11
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
-
-
-###### Article L433-3
-
-Sont applicables à la caisse nationale de prévoyance les dispositions suivantes de la première partie "législative" du
-présent code :
-
-a) Titre Ier du livre Ier, à l'exception de l'article L. 111-4 ;
-
-b) Titre III du livre Ier ;
-
-c) Sections II et III du titre VI du livre Ier ;
-
-d) Articles L. 310-3, L. 310-8 et L. 310-9.
-
-e) Titre IV du livre III.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°83-453 du 7 juin 1983 - art. 5 () JORF 8 juin 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances - art. L111-1 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L160-17 (Ab)
-	  - TXT_ASSOCIE: Code des assurances L111-1, L160-17, L441-1 à L441-11
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L111-4 (M)
-	  - Code des assurances - art. L310-3 (M)
-	  - Code des assurances - art. L310-8 (M)
-	  - Code des assurances - art. L310-9 (M)
-
-
-##### Section II : La commission supérieure.
-
-###### Article L433-4
-
-Une commission supérieure est chargée d'examiner toutes les questions relatives à la caisse nationale de prévoyance.
-
-Ses attributions et son mode de fonctionnement sont déterminés par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
-	  - TXT_SOURCE: Code des assurances - art. R*433-2 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*433-3 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*433-4 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*433-5 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*433-6 (Ab)
-	  - TXT_ASSOCIE: Code des assurances R433-2 à R433-6
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
-
-	**Anciens textes**:
-
-	  - Loi n°1868-07-11 art. 17
-	  - Loi n°1886-07-20 art. 25
-	  - Loi n°1886-07-20 art. 3
-
-
-##### Section IV : Dispositions particulières.
-
-###### Article L433-5
-
-La caisse nationale de prévoyance est autorisée, en ce qui concerne les rentes qui ont été constituées auprès d'elle avec une
-clause prévoyant le paiement, au décès du rentier, des arrérages courus à la date du dernier terme échu jusqu'au jour du
-décès, à supprimer cette clause moyennant le paiement au rentier de la valeur de rachat desdits arrérages s'il s'agit de
-rentes en cours de service ou une majoration de la rente promise s'il s'agit de rentes non encore délivrées. Cette majoration
-est calculée d'après la valeur de rachat au prorata d'arrérages dus au décès.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°55-366 1955-04-03 art. 22
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
-
-
-###### Article L433-6
-
-Le capital réservé reste acquis à la caisse nationale de prévoyance en cas de déshérence ou par l'effet de la prescription,
-s'il n'a pas été réclamé dans les trente années qui auront suivi le décès du titulaire de la rente.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1886-07-20 art. 18
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
-
-
-###### Article L433-7
-
-Les rentes viagères constituées auprès de la caisse nationale de prévoyance en matière d'accidents du travail sont
-incessibles et insaisissables.
-
-Les autres rentes viagères constituées et à constituer par la caisse nationale de prévoyance sont incessibles et
-insaisissables jusqu'à concurrence d'un montant fixé par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
-	  - TXT_SOURCE: Code des assurances - art. R*433-11 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R433-9 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. R433-9 (T)
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*433-11 (Ab)
-	  - Code des assurances - art. R433-9 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1868-07-11 art. 13
-	  - Loi n°1886-07-20 art. 8
-
-
-###### Article L433-8
-
-La caisse nationale de prévoyance est autorisée à substituer aux échéances trimestrielles de ses rentes viagères des
-échéances annuelles ou semestrielles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°53-75 1953-02-06 art. 28
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances R433-3
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
-
-
-###### Article L433-9
-
-La caisse nationale de prévoyance peut procéder au rachat des rentes inférieures au montant minimal inscriptible au grand
-livre de la caisse.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-719 1945-04-17 art. 1er
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
-
-
-###### Article L433-11
-
-Dans le cas de blessures graves ou d'infirmités prématurées régulièrement constatées et entraînant incapacité absolue de
-travail, la rente peut être liquidée avant l'échéance en proportion des versements faits avant cette époque.
-
-Les rentes ainsi liquidées peuvent être bonifiées à l'aide d'un crédit ouvert chaque année au budget de l'Etat.
-
-En aucun cas, le montant des rentes bonifiées ne peut être supérieur au triple du produit de la liquidation, ni dépasser un
-montant maximal de cent cinquante francs, bonification comprise.
-
-La commission supérieure, lorsqu'elle statue sur toutes les demandes de bonification, doit en maintenir les concessions dans
-la limite des crédits disponibles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
-	  - TXT_SOURCE: Code des assurances - art. R*433-11 (T)
-	  - TXT_SOURCE: Code des assurances - art. R433-12 (Ab)
-	  - TXT_ASSOCIE: Code des assurances R433-11
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*433-11 (T)
-	  - Code des assurances - art. R433-12 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1886-07-20 art. 11
-
-
 ### Titre IV : Régimes particuliers d'assurance
 
 #### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.
@@ -12971,25 +14318,29 @@ opérations mentionnées à l'article L. 441-1 ne peuvent être effectuées que 
 L. 4 du code de la sécurité sociale ou des articles 1050 et 1052 du code rural, soit du code de la mutualité, et agissant
 conformément aux réglementations qui leur sont propres.
 
-Toutefois, les entreprises d'assurance et la caisse nationale de prévoyance peuvent apporter leurs concours aux institutions
-relevant de l'article L. 4 du code de la sécurité sociale ou de l'article 1050 du code rural. La caisse nationale de
-prévoyance peut apporter son concours aux institutions relevant du code de la mutualité et de l'article 1052 du code rural.
+Toutefois, les entreprises d'assurance peuvent apporter leur concours aux institutions relevant de l'article L. 732-1 du code
+de sécurité sociale ou de l'article 1050 du code rural.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1050, 1052
-	  - Code de la sécurité sociale L4
-	  - Code des assurances - art. L441-1 (M)
-
-	**Anciens textes**:
-
-	  - Ordonnance n°59-75 du 7 janvier 1959 - art. 2 (V)
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 7 () JORF 17 juillet 1992
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 29 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L4
+	  - Code des assurances - art. L441-1 (M)
+	  - Code de la mutualité L732-1
+	  - Code rural 1050, 1052
 
 	**Cité par**:
 
@@ -13001,31 +14352,32 @@ prévoyance peut apporter son concours aux institutions relevant du code de la m
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code des assurances - art. L441-7 (M)
 	  - TXT_ASSOCIE: Code des assurances L441-6 *sanctions pénales*
 
 
 ###### Article L441-3
 
 Dans tous les cas autres que ceux mentionnés à l'article L. 441-2, les opérations prévues à l'article L. 441-1 ne peuvent
-être réalisées que par des institutions relevant du Code de la mutualité et de l'article 1052 du Code rural, ou par des
-entreprises d'assurance, ou par la caisse nationale de prévoyance, et agissant conformément aux réglementations qui leur sont
-propres.
+être réalisées que par des institutions relevant du code de la mutualité et de l'article 1052 du code rural, ou par des
+entreprises d'assurance et agissant conformément aux réglementations qui leur sont propres.
 
 Toutefois, la collecte des primes et cotisations, ainsi que le paiement des prestations peuvent être réalisés par
 l'intermédiaire d'autres personnes physiques ou morales, à la condition que ces dernières agissent pour le compte
-d'entreprises d'assurance ou de la caisse nationale de prévoyance, dans les conditions et sous les contrôles qui sont
-déterminés par décret en Conseil d'Etat.
+d'entreprises d'assurance dans les conditions et sous les contrôles qui sont déterminés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-75 1959-01-07 art. 3
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
+
+	**Abrogé par**:
+
+	  - Loi n°94-5 du 4 janvier 1994 - art. 29 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 	**Cité par**:
 
@@ -13044,7 +14396,6 @@ déterminés par décret en Conseil d'Etat.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code des assurances - art. L441-7 (M)
 	  - TXT_ASSOCIE: Code des assurances L441-6 *sanctions pénales*
 
 
@@ -13196,37 +14547,6 @@ l'obligation de l'alinéa précédent.
 	**Cité par**:
 
 	  - Code des assurances - art. L441-4 (V)
-
-
-##### Section V : Dispositions particulières à la caisse nationale de prévoyance.
-
-###### Article L441-11
-
-Lorsque la caisse nationale de prévoyance entend, par application des articles L. 441-2 et L. 441-3, pratiquer des opérations
-relevant de l'article L. 441-1, elle doit, pour ces opérations, ouvrir dans ses écritures une section spéciale dont seuls les
-résultats financiers, à l'exclusion de tout résultat technique, bénéficient de la garantie de l'Etat prévue à l'article L.
-433-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-75 1959-01-07 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 7 () JORF 17 juillet 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L441-1 (M)
-	  - Code des assurances - art. L441-2 (M)
-	  - Code des assurances - art. L441-3 (M)
-	  - Code des assurances L441-1, L441-2, L441-3, L443-1
 
 
 #### Chapitre II : Autres régimes particuliers d'assurance
