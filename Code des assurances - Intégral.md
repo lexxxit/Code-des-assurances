@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-12-31
+Version Consolidée au 1986-01-01
 
 # Partie législative
 
@@ -516,21 +516,20 @@ déterminée par le contrat et ne peut être tenu au-delà.
 
 ###### Article L113-6
 
-En cas de liquidation de biens ou de règlement judiciaire de l'assuré, l'assurance subsiste au profit de la masse des
-créanciers qui devient débitrice directe envers l'assureur du montant des primes à échoir à partir de l'ouverture de la
-liquidation de biens ou du règlement judiciaire. La masse et l'assureur conservent néanmoins le droit de résilier le contrat
-pendant un délai de trois mois à partir de cette date : la portion de prime afférente au temps pendant lequel l'assureur ne
-couvre plus le risque est restituée à la masse. 
+L'assurance subsiste en cas de redressement judiciaire de l'assuré. L'administrateur ou le débiteur autorisé par le juge-
+commissaire ou le liquidateur, selon le cas, et l'assureur conservent néanmoins le droit de résilier  le contrat pendant un
+délai de trois mois à partir de cette date. la potion de prime afférente au temps pendant lequel l'assureur ne couvre plus le
+risque est restituée au débiteur.
 
-En cas de liquidation de biens ou de règlement judiciaire de l'assureur, le contrat prend fin un mois après la déclaration de
-liquidation de biens ou de règlement judiciaire, sous réserve des dispositions de l'article L. 327-4. L'assuré peut réclamer
-le remboursement de la prime payée pour le temps où l'assurance ne court plus.
+En cas de redressement judiciaire de l'assureur, le contrat prend fin un mois après le jugement d'ouverture, sous réserve des
+dispositions de l'article L. 327-4. L'assuré peut réclamer le remboursement de la prime payée pour le temps où l'assurance ne
+court plus.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°81-5 du 7 janvier 1981 - art. 31 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+	  - Loi n°85-98 du 25 janvier 1985 - art. 221 () JORF 26 janvier 1985 en vigueur le 1er janvier 1986
 
 	**Cité par**:
 
@@ -2071,28 +2070,28 @@ Toute personne physique qui a signé une proposition d'assurance ou une police d
 lettre recommandée avec demande d'avis de réception pendant le délai de trente jours à compter du premier versement.
 
 La proposition d'assurance ou la police d'assurance doit comprendre un modèle de lettre type destiné à faciliter l'exercice
-de cette faculté de renonciation. L'assureur doit en outre remettre, contre récépissé, une note d'information comportant des
-indications précises et claires sur les dispositions essentielles du contrat ainsi que sur les conditions d'exercice de la
-faculté de renonciation. Le défaut de remise des documents et informations énumérés au présent alinéa entraîne de plein droit
-la prorogation du délai prévu à l'alinéa ci-dessus pendant trente jours à compter de la date de la remise effective de ces
-documents.
+de cette faculté de renonciation. Elle doit indiquer notamment, pour les contrats qui en comportent,les valeurs de rachat au
+terme de chacune des six premières années au moins. L'assureur doit en outre remettre, contre récépissé, une note
+d'information comportant des indications précises et claires sur les dispositions essentielles du contrat, sur les conditions
+d'exercice de la faculté de renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette faculté de
+renonciation. Le défaut de remise des documents et informations énumérés au présent alinéa entraîne de plein droit la
+prorogation du délai prévu au premier alinéa jusqu'au trentième jour suivant la date de remise effective de ces documents. Un
+nouveau délai de trente jours court à compter de la date de reception de la police, lorsque celle-ci apporte des réserves ou
+des modifications essentielles à l'offre originelle, ou à compter de l'acceptation écrite, par le souscripteur, de ces
+réserves ou modifications.
 
 La renonciation entraîne la restitution par l'assureur de l'intégralité des sommes versées par le contractant, dans le délai
-maximal de soixante jours à compter de la réception de la lettre recommandée. Les intérêts de retard au taux légal courent de
-plein droit à l'expiration de ce délai.
+maximal de trente jours à compter de la réception de la lettre recommandée. Au-delà de ce délai, les sommes non restituées
+produisent  de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis, à l'expiration de ce délai de deux
+mois, au double du taux légal.
 
-Toutefois, si le cas de décès était garanti pendant le délai de trente jours mentionné au premier alinéa, l'assureur peut
-conserver un douzième de la part de la prime annuelle correspondant à la garantie du risque décès.
+Toutefois, les dispositions qui précèdent ne s'appliquent pas aux contrats d'une durée maximum de deux mois.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 22 (V) JORF 8 janvier 1981 rectificatif JORF 8 février 1981 en vigueur le 1er juillet 1981
 
 	**Cité par**:
 
@@ -2115,53 +2114,13 @@ conserver un douzième de la part de la prime annuelle correspondant à la garan
 	  - Code des assurances - art. R*310-6 (Ab)
 	  - Code des assurances - art. R132-4 (V)
 
+	**Modifié par**:
 
-###### Article L132-5-2
+	  - Loi n°85-608 1985-06-11 art. 1 JORF 20 juin 1985 en vigueur le 1er janvier 1986
 
-Lorsqu'une personne physique sollicitée à son domicile, à sa résidence, à son lieu de travail, ou dans un lieu public, a
-signé à cette occasion une proposition d'assurance ou une police d'assurance, la renonciation exercée par l'envoi d'une
-lettre recommandée dans les sept premiers jours du délai prévu à l'article L. 132-5-1 entraîne la restitution sans aucune
-retenue d'aucune sorte de l'intégralité des sommes qui ont été versées par le contractant, dans le délai maximum de trente
-jours à compter de la réception de la lettre recommandée. Les intérêts de retard au taux légal courent de plein droit à
-l'expiration de ce délai. L'assurance conserve effet jusqu'à complète restitution des sommes dues.
+	**Liens**:
 
-Le défaut de remise contre récépissé des documents énumérés au deuxième alinéa de l'article L. 132-5-1 entraîne de plein
-droit la prorogation du délai prévu au premier alinéa ci-dessus pendant sept jours à compter de la date de la remise
-effective de ces documents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 23 (V) JORF 8 janvier 1981 rectificatif JORF 8 février 1981 en vigueur le 1er juillet 1981
-
-	**Cité par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 23 (V)
-	  - Code de la sécurité sociale. - art. A932-3-10 (V)
-	  - Code des assurances - art. A132-4 (V)
-	  - Code des assurances - art. A132-4-1 (V)
-	  - Code des assurances - art. A132-4-2 (V)
-	  - Code des assurances - art. A132-4-8 (V)
-	  - Code des assurances - art. A132-5-1 (V)
-	  - Code des assurances - art. A132-5-2 (V)
-	  - Code des assurances - art. A132-8 (V)
-	  - Code des assurances - art. Annexe art. A132-4 (VD)
-	  - Code des assurances - art. L132-5-3 (V)
-	  - Code des assurances - art. L441-2 (V)
-	  - Code des assurances - art. L441-3 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°85-608 1985-06-11 art. 2 JORF 20 juin 1985 en vigueur le 1er janvier 1986
-
-	**Cite**:
-
-	  - Code des assurances - art. L132-5-1 (M)
+	  - SPEC_APPLI: Loi n°85-608 1985-06-11 art. 1 V *Les dispositions du présent article sont applicables aux contrats souscrits ou transformés à compter du 1er janvier 1986*
 
 
 ###### Article L132-7
@@ -2457,15 +2416,17 @@ L'envoi de la lettre recommandée par l'assureur rend la prime portable dans tou
 
 ###### Article L132-21
 
-Les modalités de calcul de la valeur de réduction sont déterminées par un règlement général mentionné dans la police et
-établi par l'assureur après accord de l'autorité administrative.
+Les modalités de calcul de la valeur de réduction et de la valeur de rachat sont déterminées par un règlement général
+mentionné dans la police et établi par l'assureur après accord de l'autorité administrative.
 
 Dès la signature du contrat, l'assureur informe le contractant que ce règlement général est tenu à sa disposition sur sa
-demande. L'assureur doit communiquer au contractant, sur la demande de celui-ci, le texte du règlement général.
+demande. L'assureur doit communiquer au contractant, sur la demande de celui-ci, le texte du règlement général. 
 
-L'assureur doit, en outre, communiquer au contractant le montant de la valeur de réduction du contrat à l'échéance annuelle
-de la prime et préciser en termes intelligibles dans cette communication ce que signifie l'opération de réduction et quelles
-sont ses conséquences légales et contractuelles.
+Dans la limite de la valeur de rachat, l'assureur peut consentir des avances au contractant.
+
+L'assureur doit, à la demande du contractant, verser à celui-ci la valeur de rachat du contrat dans un délai qui ne peut
+excéder deux mois. Au-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal majoré de
+moitié durant deux mois, puis, à l'expiration  de ce délai de deux mois, au double du taux légal.
 
 **Liens relatifs à cet article**
 
@@ -2473,16 +2434,16 @@ sont ses conséquences légales et contractuelles.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 15 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
-
 	**Cité par**:
 
 	  - Loi n°81-5 du 7 janvier 1981 - art. 17 (V)
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 	  - Code des assurances - art. A335-2 (Ab)
 	  - Code des assurances - art. L132-5 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-608 1985-06-11 art. 3 JORF 20 juin 1985 en vigueur le 1er janvier 1986
 
 	**Liens**:
 
@@ -2537,18 +2498,18 @@ Les assurances temporaires en cas de décès ainsi que les rentes viagères imm�
 comporter ni réduction ni rachat. Les assurances de capitaux de survie et de rente de survie, les assurances en cas de vie
 sans contre-assurance et les rentes viagères différées sans contre-assurance ne peuvent comporter de rachat.
 
-Pour les autres assurances sur la vie, l'assureur ne peut refuser la réduction ou le rachat lorsqu'au moins deux primes
-annuelles ont été payées.
+Pour les autres assurances sur la vie, l'assureur ne peut refuser la réduction ou le rachat lorsque 15 p. 100 des primes ou
+cotisations prévues au contrat ont  été versées. En tout état de cause le droit à rachat ou à réduction est acquis lorsque au
+moins deux primes annuelles ont été payées.
+
+L'assureur peut d'office substituer le rachat à la réduction si la valeur de rachat du contrat est inférieure à un montant
+fixé par décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 18 (V) JORF 8 janvier 1981 rectificatif JORF 8 février 1981
 
 	**Cité par**:
 
@@ -2579,6 +2540,14 @@ annuelles ont été payées.
 	  - Code général des impôts, CGI. - art. 885 F (V)
 	  - Code monétaire et financier - art. R561-16 (VD)
 	  - Code rural et de la pêche maritime - art. D741-39 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-608 1985-06-11 art. 6 I JORF 20 juin 1985 en vigueur le 1er janvier 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-608 1985-06-11 art. 6 II *Les dispositions du présent article sont applicables aux contrats souscrits ou transformés à compter du 1er janvier 1986*
 
 
 ###### Article L132-24
@@ -2744,33 +2713,75 @@ d'un accord d'entreprise.
 
 #### Chapitre unique
 
-##### Section IV : Faculté de dénonciation.
+##### Section II : Rachat.
 
-###### Article L150-1
+###### Article L150
 
-Lorsqu'une personne, sollicitée à son domicile, à sa résidence, à son lieu de travail ou dans un lieu privé ou public,
-souscrit un contrat de capitalisation au cours de la visite qui lui est faite, un délai qui ne peut être inférieur à quinze
-jours à compter de la souscription du contrat doit lui être laissé pour dénoncer cet engagement.
-
-Cette dénonciation entraîne la restitution de l'intégralité des sommes éventuellement versées par le souscripteur.
+L'entreprise de capitalisation doit, à la demande du contractant, verser à celui-ci la valeur de rachat du contrat, dans un
+délai qui ne peut excéder deux mois. Au-delà de ce délai, les sommes non versée produisent de plein droit intérêt au taux
+légal majoré de moitié durant deux mois, puis, à l'expiration de ce délai de deux mois, au double du taux légal.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-6 du 3 janvier 1972 - art. 31 (V)
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Créé par**:
+
+	  - Loi n°85-608 1985-06-11 art. 8 I JORF 20 juin 1985 en vigueur le 1er janvier 1986
+
+	**Abrogé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
+
+
+##### Section IV : Faculté de dénonciation.
+
+###### Article L150-1
+
+Toute personne physique qui a souscrit un contrat de capitalisation a la faculté de le dénoncer par lettre recommandée avec
+demande d'avis de réception pendant un délai de trente jours à compter du premier versement.
+
+Le bulletin de souscription doit comprendre un modèle de lettre type destiné à faciliter l'exercice de cette faculté de
+dénonciation. Le représentant de l'entreprise de capitalisation doit en outre remettre, contre récépissé, un spécimen du
+titre de capitalisation ayant valeur de note d'information. Le défaut de remise des documents énumérés au présent alinéa
+entraîne de plein droit la prorogation du délai prévu à l'alinéa ci-dessus jusqu'au trentième jour suivant la date de la
+remise effective de ces documents. Ce délai est également prorogé de plein droit pendant trente jours à compter de la date de
+réception du contrat de capitalisation, lorsque celui-ci apporte des réserves ou des modifications essentielles aux
+dispositions contenues dans le bulletin de souscription, ou à compter de l'acceptation écrite, par le souscripteur, de ces
+réserves ou modifications.
+
+La dénonciation entraîne la restitution par l'entreprise de capitalisation de l'intégralité des sommes versées par le
+contractant dans le délai maximal de trente jours à compter de la réception de la lettre recommandée. Au-delà de ce délai,
+les  sommes non restituées produisent de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis, à
+l'expiration de ce délai de deux mois, au double du taux légal.
+
+Lorsque au contrat de capitalisation est associée une assurance en cas de décès, les documents mentionnés au deuxième alinéa
+doivent rappeler le sort de cette garantie pendant le délai de dénonciation et après dénonciation du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°85-608 1985-06-11 art. 9 I JORF 20 juin 1985 en vigueur le 1er janvier 1986
+
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°85-608 1985-06-11 art. 9 II *les dispositions du présent article sont applicables aux contrats souscrits à compter du 1er janvier 1986*
 	  - TXT_SOURCE: Code des assurances - art. R*150-19 (M)
 	  - TXT_SOURCE: Code des assurances - art. R150-16 (M)
 	  - TXT_SOURCE: Code des assurances - art. R150-17 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R150-18 (Ab)
 	  - TXT_ASSOCIE: Code des assurances R150-16 à R150-19
+
+	**Abrogé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
 
 	**Cité par**:
 
@@ -2821,6 +2832,36 @@ qu'elles réalisent, dans les conditions fixées par décret rendu après avis d
 	**Cité par**:
 
 	  - Code des assurances - art. L324-7 (M)
+
+
+###### Article L150-4
+
+Aussi longtemps que le contrat donne lieu à paiement de cotisation, l'entreprise de capitalisation doit communiquer chaque
+année au contractant, outre la valeur de rachat, le montant du capital au terme et de la cotisation, compte tenu des
+attributions de participations bénéficiaires qui ont un caractère définitif.
+
+Lorsque le contrat ne comporte plus de paiement de cotisation, les informations visées à l'alinéa précédent ne sont
+communiquées pour une année qu'au contractant qui en fait la demande.
+
+Le contrat doit faire référence à l'obligation d'information prévue aux alinéas précédents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°85-608 1985-06-11 art. 10 I JORF 20 juin 1985 en vigueur le 1er janvier 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-608 1985-06-11 art. 10 II *les dispositions du présent article sont applicables aux contrats souscrits à compter du 1er janvier 1986*
+
+	**Abrogé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
@@ -3619,13 +3660,21 @@ les mêmes droits.
 ###### Article L211-1
 
 Toute personne physique ou toute personne morale autre que l'Etat, dont la responsabilité civile peut être engagée en raison
-de dommages corporels ou matériels causés à des tiers par un véhicule terrestre à moteur, ainsi que par ses remorques ou
-semi-remorques, doit, pour faire circuler lesdits véhicules, être couverte par une assurance garantissant cette
-responsabilité, dans les conditions fixées par décret en Conseil d'Etat pris après avis du conseil national des assurances.
+de dommages subis par des tiers résultant d'atteintes aux personnes ou aux biens dans la réalisation desquels un véhicule
+terrestre à moteur, ainsi que ses remorques, ou semi-remorques, est impliqué, doit, pour faire circuler lesdits véhicules,
+être couverte par une assurance garantissant cette responsabilité, dans les conditions fixées par décret en Conseil d'Etat
+pris après avis du conseil national des assurances.
 
-Les contrats d'assurance couvrant la responsabilité mentionnée au premier alinéa du présent article doivent être souscrits
-auprès d'une entreprise d'assurance agréée pour pratiquer les opérations d'assurance contre les accidents résultant de
-l'emploi de véhicules automobiles.
+Les contrats d'assurance couvrant la responsabilité mentionnée au premier alinéa du présent article doivent également couvrir
+la responsabilité civile de toute personne ayant la garde ou la conduite, même non autorisée, du véhicule, à l'exception des
+professionnels de la réparation, de la vente et du contrôle de l'automobile, ainsi que la responsabilité civile des passagers
+du véhicule objet de l'assurance.
+
+L'assureur est subrogé dans les droits que possède le créancier de l'indemnité contre la personne responsable de l'accident
+lorsque la garde ou la conduite du véhicule a été obtenue contre le gré du propriétaire.
+
+Ces contrats doivent être souscrits auprès d'une entreprise d'assurance agréée pour pratiquer les opérations d'assurance
+contre les accidents résultant de l'emploi de véhicules automobiles.
 
 Les membres de la famille du conducteur ou de l'assuré sont considérés comme des tiers au sens du premier alinéa du présent
 article.
@@ -3636,13 +3685,9 @@ article.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°81-5 1981-01-07 art. 2-I JORF 8 janvier 1981 en vigueur le 1er juillet 1981
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°81-5 1981-01-07 art. 2-II
+	  - SPEC_APPLI: Loi n°85-677 du 5 juillet 1985 - art. 47 (MMN)
 	  - TXT_SOURCE: Arrêté du 23 février 1989
 	  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 1 (V)
@@ -3667,6 +3712,7 @@ article.
 	  - PILOTE_SUIVEUR: Code de la route. - art. L324-1 (V)
 	  - SPEC_APPLI: Code des assurances - art. L211-2 (V)
 	  - SPEC_APPLI: Code des assurances - art. L211-3 (Ab)
+	  - TXT_ASSOCIE: Code des assurances - art. L211-8 (T)
 	  - TXT_SOURCE: Code des assurances - art. R*211-11 (M)
 	  - TXT_SOURCE: Code des assurances - art. R*211-16 (M)
 	  - TXT_SOURCE: Code des assurances - art. R*211-19 (V)
@@ -3713,6 +3759,10 @@ article.
 	  - TXT_SOURCE: Code des assurances - art. R212-5 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R212-6 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R421-37 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-677 du 5 juillet 1985 - art. 7 () JORF 6 juillet 1985 en vigueur le 1er janvier 1986
 
 	**Cité par**:
 
@@ -8017,27 +8067,29 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 ###### Article L326-1
 
-Le règlement judiciaire et la liquidation des biens institués par la loi n° 67-563 du 13 juillet 1967 ne peuvent être
-prononcés à l'encontre d'une entreprise soumise aux dispositions du présent livre qu'à la requête du ministre de l'économie
-et des finances ; le tribunal ne peut être saisi ou se saisir d'une demande d'ouverture de la procédure de suspension
-provisoire des poursuites et d'apurement collectif du passif instituée par l'ordonnance n° 67-820 du 23 septembre 1967
-tendant à faciliter le redressement économique et financier de certaines entreprises qu'après avis conforme du ministre de
-l'économie et des finances.
+Le redressement judiciaire institué par la loi n° 85-98 du 25 janvier 1985 précitée ne peut être ouvert à l'égard d'une
+entreprise soumise aux dispositions du présent livre qu'à la requête du ministre de l'économie et des finances ; le tribunal
+peut également se saisir d'office ou être saisi par le procureur de la République d'une demande d'ouverture de cette
+procédure après avis conforme du ministre de l'économie et des finances.
+
+Le président du tribunal ne peut être saisi d'une demande d'ouverture du règlement amiable institué par la loi n° 84-148 du
+1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises à l'égard d'une entreprise
+susmentionnée, qu'après avis conforme du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 17
-
-	**Cite**:
-
-	  - Loi n°67-563 1967-07-13
-	  - Ordonnance 67-820 1967-09-23
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°84-148 1984-03-01
+	  - Loi n°85-98 1985-01-25
+
+	**Modifié par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 221 () JORF 26 janvier 1985 en vigueur le 1er janvier 1986
 
 	**Nouveaux textes**:
 
@@ -8177,25 +8229,30 @@ Le liquidateur établit sans retard une situation sommaire active et passive de 
 aussitôt au juge-commissaire ; en outre, il adresse à celui-ci un rapport semestriel sur l'état de la liquidation, dont il
 dépose un exemplaire au greffe du tribunal.
 
-Copie de ce rapport est adressé au président du tribunal et au procureur de la République.
+Copie de ce rapport est adressée au président du tribunal et au procureur de la République.
 
-Lorsqu'il a connaissance de faits prévus aux articles 106 à 109 de la loi n° 67-563 du 13 juillet 1967, commis par des
-dirigeants de droit ou de fait, apparents ou occultes, rémunérés ou non, de l'entreprise en liquidation, le liquidateur en
-informe immédiatement le procureur de la République et le juge-commissaire.
+Lorsqu'il a connaissance de faits prévus aux articles 188 et 189 de la loi n° 85-98 du 25 janvier 1985 précitée, commis par
+des dirigeants de droit ou de fait, apparents ou occultes, rémunérés ou non, de l'entreprise en liquidation, le liquidateur
+en informe immédiatement le procureur de la République et le juge-commissaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 22
-
-	**Cite**:
-
-	  - Loi n°67-563 1967-07-13 art. 106 à art. 109
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 188 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 189 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 221 () JORF 26 janvier 1986 en vigueur le 1er janvier 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 6 XXIX JORF 22 avril 2001
 
 
 ###### Article L326-7
@@ -8342,22 +8399,26 @@ Le tribunal prononce la clôture de la liquidation sur le rapport du juge-commis
 tenant leurs droits de l'exécution de contrats d'assurance, de capitalisation ou d'épargne ont été désintéressés ou lorsque
 le cours des opérations est arrêté pour insuffisance d'actif.
 
-Après la clôture de cette liquidation, le règlement judiciaire ou la liquidation des biens peuvent être poursuivis dans les
-conditions de la loi n° 67-563 du 13 juillet 1967.
+Après clôture de cette liquidation, les opérations de liquidation judiciaire peuvent être poursuivies dans les conditions
+prévues par la loi n° 85-98 du 25 janvier 1985 précitée.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 25
-
-	**Cite**:
-
-	  - Loi n°67-563 1967-07-13
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°85-98 1985-01-25
+
+	**Modifié par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 221 () JORF 26 janvier 1985 en vigueur le 1er janvier 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 6 XXIX JORF 22 avril 2001
 
 
 ###### Article L326-12
@@ -8982,23 +9043,23 @@ des engagements sous signature privée, soit dans le bilan.
 
 ###### Article L328-5
 
-Le droit d'action ouvert au syndic de faillite à l'article 136 de la loi n° 67-563 du 13 juillet 1967 est exercé par le
-liquidateur qui doit se conformer aux dispositions de l'article 138 de ladite loi concernant le syndic.
+Le droit d'action ouvert à l'administrateur ou au liquidateur par l'article 211 de la loi n° 85-98 du 25 janvier 1985
+précitée est exercé par le liquidateur qui doit se conformer aux dispositions de l'article 212 de ladite loi.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 38 B
-
-	**Cite**:
-
-	  - Loi n°67-563 du 13 juillet 1967 - art. 136 (Ab)
-	  - Loi n°67-563 du 13 juillet 1967 - art. 138 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 211 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 212 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 221 () JORF 26 janvier 1985 en vigueur le 1er janvier 1986
 
 	**Liens**:
 
@@ -9298,45 +9359,39 @@ sanctions peut être requise par l'autorité administrative.
 ###### Article L328-13
 
 En cas de liquidation effectuée dans les conditions prévues à l'article L. 326-2, les dispositions suivantes sont
-applicables :
+applicables : 
 
 1° Si la situation financière de l'entreprise dissoute à la suite du retrait total de l'agrément administratif fait
-apparaître une insuffisance d'actif par rapport au passif qui doit être réglé au cours de la liquidation, tous les dirigeants
-sociaux de droit ou de fait, apparents ou occultes, rémunérés ou non, de cette entreprise, quelle qu'en soit la forme, ou
-certains seulement d'entre eux, pourront être condamnés par le tribunal à la requête du liquidateur ou même d'office, à
-supporter en tout ou partie, avec ou sans solidarité, les dettes de l'entreprise qui doivent être réglées au cours de la
-liquidation.
+apparaître une insuffisance d'actif par rapport au passif qui doit être réglé au cours de la liquidation, le tribunal peut,
+en cas de faute de gestion ayant contribué à cette insuffisance d'actif, décider à la demande du liquidateur ou même d'office
+que les dettes de l'entreprise seront supportées en tout ou partie, avec ou sans solidarité, par tous les dirigeants de droit
+ou de fait, rémunérés ou non, ou par certains d'entre eux. 
 
-L'action se prescrit par trois ans à compter du dépôt au greffe du quatrième rapport semestriel du liquidateur.
+L'action se prescrit par trois ans à compter du dépôt au greffe du quatrième rapport semestriel du liquidateur. 
 
-Les dirigeants impliqués pourront dégager leur responsabilité en faisant la preuve qu'ils ont apporté à la gestion des
-affaires sociales toute l'activité et la diligence nécessaires.
-
-2° Les dirigeants qui se seront rendus coupables des agissements mentionnés aux articles 106 à 109 de la loi n° 67-563 du 13
-juillet 1967 pourront faire l'objet des sanctions prévues aux articles 105, 106, 108 et 109 de ladite loi.
-
-Pourront obtenir leur réhabilitation, les dirigeants de droit ou de fait, apparents ou occultes, rémunérés ou non, à l'égard
-desquels aura été prononcée l'une des sanctions prévues au titre II de la loi n° 67-563 du 13 juillet 1967 et qui auront
-intégralement acquitté ou consigné les sommes dues par eux en capital, intérêts et frais.
+2° Les dirigeants qui se seront rendus coupables des agissements mentionnés aux articles L. 625-4 et L. 625-5 du code de
+commerce pourront faire l'objet des sanctions prévues au titre VI de ladite loi et être relevés des déchéances et
+interdictions dans les conditions prévues par l'article L. 625-10 du même code.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°67-563 1967-07-13
-	  - Code des assurances - art. L326-2 (M)
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 221 () JORF 26 janvier 1985 en vigueur le 1er janvier 1986
+
+	**Cite**:
+
+	  - Code de commerce - art. L625-10 (Ab)
+	  - Code de commerce - art. L625-4 (V)
+	  - Code des assurances - art. L326-2 (V)
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances - art. L326-2 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 30
 
 
 ###### Article L328-14
@@ -9578,14 +9633,26 @@ par arrêté du ministre de l'économie et des finances sur proposition du conse
 
 ###### Article L420-1
 
-Il est institué un fonds de garantie chargé, dans le cas où le responsable des dommages demeure inconnu ou se révèle
-totalement ou partiellement insolvable, ainsi qu'éventuellement son assureur, de payer les indemnités allouées aux victimes
-d'accidents corporels résultant de la circulation sur le sol, ou à leurs ayants droit, lorsque ces accidents ouvrent droit à
-réparation.
+Il est institué un fonds de garantie chargé, lorsque le responsable des dommages demeure inconnu ou n'est pas assuré, sauf
+par l'effet d'une dérogation légale à l'obligation d'assurance, ou lorsque son assurance est totalement ou partiellement
+insolvable, d'indemniser les victimes des dommages résultant des atteintes à leur personne nés d'un accident dans lequel est
+impliqué un véhicule terrestre à moteur en circulation, ainsi que ses remorques ou semi-remorques, à l'exclusion des chemins
+de fer et des tramways circulant sur des voies qui leur sont propres. Le fonds de garanties paie les indemnités qui ne
+peuvent être prises en charge à aucun autre titre, allouées aux victimes ou à leurs ayants droit, lorsque l'accident ouvre
+droit à réparation. Les versements effectués au profit des victimes ou de leurs ayants droit et qui ne peuvent pas donner
+lieu à une action récursoire contre le responsable des dommages ne sont pas considérés comme une indemnisation à un autre
+titre.
 
-Le fonds de garantie peut également prendre en charge, dans les conditions et limites fixées par décret en Conseil d'Etat,
-les dommages matériels, lorsque l'auteur identifié de ces dommages n'est pas assuré et se révèle totalement ou partiellement
-insolvable.
+Le fonds de garantie peut également prendre en charge, dans les conditions et limites fixées par un décret en Conseil d'Etat,
+les dommages aux biens nés d'un accident dans lequel est impliqué un véhicule défini à l'alinéa précédent, lorsque l'auteur
+identifié de ces dommages n'est pas assuré, sauf par l'effet d'une dérogation légale à l'obligation d'assurance, ou lorsque,
+l'auteur étant inconnu, le conducteur du véhicule accidenté ou toute autre personne a subi un préjudice résultant d'une
+atteinte à sa personne.
+
+Le fonds de garantie est également chargé, lorsque le responsable des dommages demeure inconnu ou n'est pas assuré, de payer,
+dans les conditions prévues au premier alinéa, les indemnités allouées aux victimes de dommages résultant des atteintes à
+leur personne ou à leurs ayants droit, lorsque ces dommages, ouvrant droit à réparation, ont été causés accidentellement par
+des personnes circulant sur le sol dans les lieux ouverts à la circulation publique.
 
 Les indemnités doivent résulter soit d'une décision judiciaire exécutoire, soit d'une transaction ayant reçu l'assentiment du
 fonds de garantie.
@@ -9626,12 +9693,9 @@ fonds de garantie.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°77-574 1977-06-07 art. 40 I, II JORF 8 juin 1977
-
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°85-677 du 5 juillet 1985 - art. 47 (MMN)
 	  - TXT_ASSOCIE: Code des assurances - art. L326-16 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. L326-17 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. L328-12 (Ab)
@@ -9641,8 +9705,13 @@ fonds de garantie.
 	  - TXT_SOURCE: Code des assurances - art. R*420-7 (T)
 	  - TXT_ASSOCIE: Code des assurances L326-16, L326-17, L328-12, R420-4 à R420-7
 
+	**Modifié par**:
+
+	  - Loi n°85-677 du 5 juillet 1985 - art. 9 () JORF 6 juillet 1985 en vigueur le 1er janvier 1986
+
 	**Nouveaux textes**:
 
+	  - Code des assurances - art. L421-1 (M)
 	  - Code des assurances - art. L421-1 (V)
 
 
@@ -9694,18 +9763,24 @@ Le fonds de garantie est subrogé dans les droits que possède le créancier de 
 l'accident ou son assureur. Il a droit, en outre, à des intérêts calculés au taux légal en matière civile et à des frais de
 recouvrement.
 
+Lorsque le fonds de garantie transige avec la victime, cette transaction est opposable à l'auteur des dommages, sauf le droit
+pour celui-ci de contester devant le juge le montant des sommes qui lui sont réclamées du fait de cette transaction. Cette
+contestation ne peut avoir pour effet de remettre en cause le montant des indemnités allouées à la victime ou à ses ayants
+droit.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°51-1508 du 31 décembre 1951 - art. 15, v. init.
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Loi n°85-677 du 5 juillet 1985 - art. 10 () JORF 6 juillet 1985 en vigueur le 1er janvier 1986
+
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°85-677 du 5 juillet 1985 - art. 47 (MMN)
 	  - TXT_ASSOCIE: Code des assurances - art. L326-16 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. L326-17 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. L328-12 (Ab)
@@ -9717,6 +9792,7 @@ recouvrement.
 
 	**Nouveaux textes**:
 
+	  - Code des assurances - art. L421-3 (M)
 	  - Code des assurances - art. L421-3 (V)
 
 
@@ -9973,6 +10049,36 @@ métropolitaine.
 	  - TXT_SOURCE: Code des assurances - art. R421-45 (V)
 	  - TXT_SOURCE: Code des assurances - art. R421-46 (V)
 	  - TXT_SOURCE: Code des assurances - art. R421-47 (V)
+
+
+##### Section V : Régime financier du fonds de garantie.
+
+###### Article L420-8-1
+
+Les délais prévus à l'article 3 de la loi n° 75-619 du 11 juillet 1975 relative au taux de l'intérêt légal ne courent à
+l'encontre du fonds de garantie qu'à compter du jour où celui-ci a reçu les éléments justifiant son intervention.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°75-619 du 11 juillet 1975 - art. 3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°85-677 du 5 juillet 1985 - art. 11 () JORF 6 juillet 1985 en vigueur le 1er janvier 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-677 du 5 juillet 1985 - art. 47 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L421-8-1 (M)
 
 
 ##### Section VI : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile.
@@ -13493,7 +13599,7 @@ sort avec, en regard, les numéros des titres effectivement remboursables".
 
 ##### Section IV : Faculté de dénonciation.
 
-###### Article R150-17
+###### Article R150-16
 
 Les documents remis au client au moment de la souscription et valant preuve de l'engagement doivent comporter l'indication de
 la durée du délai accordé pour l'exercice du droit de dénonciation, ainsi que le rappel des conditions de cet exercice.
@@ -13502,7 +13608,8 @@ la durée du délai accordé pour l'exercice du droit de dénonciation, ainsi qu
 
 	**Anciens textes**:
 
-	  - Décret n°72-936 1972-10-10 art. 2
+	  - Décret n°72-936 1972-10-10 art. 1
+	  - Code des assurances - art. R150-17 (Ab)
 
 	**Codifié par**:
 
@@ -13510,45 +13617,16 @@ la durée du délai accordé pour l'exercice du droit de dénonciation, ainsi qu
 
 	**Liens**:
 
-	  - TXT_SOURCE: Code des assurances - art. L150-1 (M)
-	  - TXT_ASSOCIE: Code des assurances R150-18 *assurance en cas de décès*
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. R150-16 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R150-18 (Ab)
-
-
-###### Article R150-18
-
-Lorsque l'engagement comporte corrélativement la souscription d'une assurance en cas de décès, les documents mentionnés à
-l'article R. 150-17 doivent rappeler le sort de cette garantie en cas de dénonciation du contrat de capitalisation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-936 1972-10-10 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°85-1447 du 30 décembre 1985 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°85-1447 1985-12-30 art. 4 III
 	  - TXT_SOURCE: Code des assurances - art. L150-1 (M)
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°85-1447 du 30 décembre 1985 - art. 4 (V) JORF 31 décembre 1985 en vigueur le 1er janvier 1986
 
 	**Cite**:
 
-	  - Code des assurances - art. R150-17 (Ab)
+	  - Code des assurances - art. L150-1 (M)
 
 
 ##### Section V : Participation des porteurs de titres aux bénéfices.
@@ -47906,36 +47984,6 @@ tarif majoré de 33 %, les contrats cessent d'être présentés au public.
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances R433-2
-
-
-###### Article A433-7
-
-Les assurances à capital variable sont soumises aux dispositions du 1° de l'article A. 433-2. Par dérogation au 2° de
-l'article A. 433-2, le calcul des provisions mathématiques constituées pour ces assurances est effectué sur la base d'un taux
-d'intérêt nul.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1975-05-28 art. 6
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1985-11-07 art. 5
-	  - TXT_SOURCE: Code des assurances R433-2
-
-	**Abrogé par**:
-
-	  - Arrêté 1985-11-07 art. 5 JORF 20 novembre 1985 en vigueur le 1er janvier 1986
-
-	**Cite**:
-
-	  - Code des assurances - art. A433-2 (Ab)
 
 
 ### Titre IV : Régimes particuliers d'assurance
