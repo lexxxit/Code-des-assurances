@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-05-07
+Version Consolidée au 1991-05-17
 
 # Partie législative
 
@@ -33019,98 +33019,140 @@ Les éléments constitutifs des coûts et résultats font l'objet d'états ou ta
 
 ##### Section II : Liste des comptes
 
-##### Classe 5.
+##### Classe 0.
 
 ###### Article R343-2
 
-Comptes financiers.
+Comptes spéciaux.
 
-50. Emprunts à moins d'un an.
+00 Engagements en faveur de l'entreprise.
 
-502. Emprunts pour cautionnements.
+000 Avals, cautions, garanties contractuels reçus.
 
-5020. En France.
+001 Avals, cautions, garanties légaux dont bénéficie l'entreprise. Autres engagements reçus par l'entreprise.
 
-5029. En France.
+009 Créditeurs éventuels.
 
-503. Autres emprunts.
+01 Engagements à la charge de l'entreprise.
 
-5030. En France.
+010 Avals, cautions et garanties contractuels donnés par l'entreprise.
 
-5039. A l'étranger.
+0100 Garantie de rachat de créances hypothécaires ou de financement de prêts hypothécaires.
 
-509. Avances de l'Etat.
+0101 Garantie d'acquisition d'immeubles d'habitation.
 
-51. Prêts non affectables à la représentation des engagements réglementés.
+01010 Habitations neuves.
 
-513. Prêts aux coopératives ou sociétés d'économie mixte de construction de logements non garantis en totalité par les
-départements et communes.
+01011 Habitations anciennes.
 
-516. Prêts aux Etats étrangers, organismes étrangers ou internationaux.
+0102 Garantie d'acquisition d'immeubles commerciaux et industriels.
 
-517. Prêts à l'étranger.
+0103 Garantie d'acquisition de titres représentatifs d'immeubles d'habitation.
 
-518. Autres prêts.
+01030 Habitations neuves.
 
-519. Provision pour dépréciation des prêts.
+01031 Habitations anciennes.
 
-52. Effets à payer.
+0104 Garantie d'acquisition de titres représentatifs d'immeubles commerciaux et industriels.
 
-53. Effets à recevoir.
+0105 Filiales.
 
-54. Chèques et coupons à encaisser.
+0106 Garantie de rachat d'obligations.
 
-540. Chèques.
+0107 Divers.
 
-545. Coupons et intérêts échus et non recouvrés.
+011 Avals, cautions et garanties légaux à la charge de l'entreprise.
 
-55. Titres de placement non émunérés aux articles R. 332-2 et R. 332-9.
+012 Engagements contractuels de solidarité.
 
-550. Titres cotés, partie libérée, en France.
+0120 Pour participation à une association ou un groupement de coassurance ou de coréassurance.
 
-552. Titres non cotés, partie libérée, en France.
+013 Engagements légaux de solidarité.
 
-553. Parts de SARL en France.
+014 Engagements contractuels résultant de l'inexécution d'un contrat.
 
-554. Titres émis par la société et rachetés par elle.
+015 Engagements légaux résultant de l'inexécution d'un contrat.
 
-556. Titres cotés, partie non libérée, en France.
+016 Autres engagements contractuels.
 
-557. Titres non cotés, partie non libérée, en France.
+017 Autres engagements légaux.
 
-558. Valeurs à l'étranger.
+0170 Droits d'adhésion non remboursés.
 
-559. Provision pour dépréciation des titres de placement.
+019 Débiteurs éventuels.
 
-56. Banques et chèques postaux.
+03 Autres charges envers des tiers.
 
-560. Banque de France.
+035 Filiales.
 
-562. Autres banques en France.
+037 Divers.
 
-564. Comptes du Trésor en France.
+039 Débiteurs éventuels.
 
-565. Chèques postaux en France.
+05 Plan d'investissement intéressant l'entreprise.
 
-566. Comptes dans les caisses des établissements publics en France.
+052 Opérations immobilières.
 
-567. Autres établissements en France.
+057 Divers.
 
-568. Banques à l'étranger.
+059 Montant des investissements projetés.
 
-569. Autres établissements à l'étranger.
+06 Valeurs reçues en nantissement des cessionnaires et rétrocessionnaires.
 
-57. Caisse.
+061 Immobilisations en France.
 
-570. Siège social.
+0611 Parts de sociétés civiles à objet foncier.
 
-571. Succursales (France).
+0613 Parts ou actions de sociétés immobilières non cotées.
 
-578. Succursales (étranger).
+063 Valeurs mobilières et titres assimilés.
 
-59. Virements internes.
+0630 Valeurs d'Etat ;
 
-590. Virements de fonds.
+0631 Autres valeurs cotées (obligations et titres participatifs) ;
+
+0632 Autres valeurs cotées (actions et autres valeurs mobilières) ;
+
+0633 Actions de sociétés d'investissement à capital variable et parts de fonds communs de placements ;
+
+06331 Sociétés d'investissement à capital variable et fonds communs de placements d'obligations et de titres de créances
+négociables.
+
+06336 Autres sociétés d'investissement à capital variable et fonds communs de placements.
+
+0634 Actions de Sicav et parts de FCP
+
+06341 Sicav et F.C.P d'obligations.
+
+06342 Sicav et F.C.P diversifiés.
+
+0636 Valeurs étrangères cotées en France (obligations).
+
+637 Valeurs étrangères cotées en France (actions).
+
+069 Cessionnaires et rétrocessionnaires propriétaires des valeurs.
+
+07 Valeurs appartenant à des institutions de prévoyance régies par l'article L. 4 du code de la sécurité sociale.
+
+070 Valeurs.
+
+079 Institutions propriétaires de valeurs.
+
+08 Valeurs remises par des organismes réassurés avec caution solidaire ou avec substitution.
+
+080 Valeurs.
+
+089 Organismes propriétaires des valeurs.
+
+09 Autres valeurs détenues par l'entreprise.
+
+090 Valeurs déposées par les administrateurs.
+
+092 Valeurs déposées par les agents.
+
+094 Valeurs déposées par d'autres tiers.
+
+099 Propriétaires des valeurs.
 
 **Liens relatifs à cet article**
 
@@ -33120,12 +33162,11 @@ départements et communes.
 
 	**Modifié par**:
 
-	  - Décret n°85-460 1985-04-25 art. 1 à art. 10 JORF 30 avril 1985
+	  - Décret n°91-473 du 14 mai 1991 - art. 1 () JORF 17 mai 1991
 
 	**Cite**:
 
-	  - Code des assurances - art. R*332-2 (M)
-	  - Code des assurances - art. R*332-9 (M)
+	  - Code de la sécurité sociale L4
 
 
 ##### Section III : Modèles de comptes de résultats et de bilan
@@ -49067,6 +49108,269 @@ immédiatement avant la ligne "Valeurs remises par les réassureurs".
 
 	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
 	  - TXT_SOURCE: Code des assurances - art. R342-17 (M)
+
+
+###### Article A344-8
+
+L'état trimestriel de représentation des provisions techniques institué par l'article R. 342-23 est établi conformément au
+modèle ci-après.
+
+Etat trimestriel des placements (1) (valeurs détenues en France, au sens de l'article R. 332-16).
+
+Désignation - Encours : à la fin du trimestre précédent - à la fin du trimestre inventorié :
+
+a) Placements mentionnés à l'article R. 332-2 affectables à la représentation des engagements réglementés.
+
+1 - Obligations et titres participatifs cotés.
+
+2 - Obligations non cotées et autres valeurs émises ou garanties par les Etats membres de l'OCDE ou assimilées.
+
+3 - Titres de créances négociables.
+
+4 - Actions de S.I.C.A.V. et parts de F.C.P. d'obligations et de titres de créances négociables.
+
+Total des placements obligataires.
+
+5 - Actions et autres valeurs mobilières cotées à l'exclusion des actions de sociétés d'assurance.
+
+6 - Actions non cotées à l'exclusion des actions de sociétés d'assurance.
+
+7 - Parts de F.C.P. à risques.
+
+8 - Actions de sociétés d'assurance, de réassurance ou de capitalisation (OCDE).
+
+9 - Actions de sociétés étrangères d'assurance.
+
+10 - Actions de S.I.C.A.V. et parts de F.C.P. diversifiés.
+
+Total des actions et titres assimilés.
+
+11 - Droits réels immobiliers.
+
+12 - Parts de sociétés immobilières ou foncières non cotées (y compris les avances en comptes courants).
+
+Total des placements immobiliers.
+
+13 - Prêts obtenus ou garantis par les Etats membres de l'OCDE ou assimilés.
+
+14 - Prêts hypothécaires.
+
+15 - Avances sur polices.
+
+16 - Autres prêts.
+
+Total des prêts.
+
+17 - Fonds en dépôts.
+
+Total (a).
+
+b) Placements non affectables.
+
+18 - Immeubles et parts de sociétés immobilières non cotées.
+
+19 - Prêts.
+
+20 - Valeurs mobilières.
+
+21 - Fonds en dépôt.
+
+Total (b).
+
+Total (a + b).
+
+Opérations sur le MATIF (hors bilan) :
+
+- achats à terme de 3 mois au plus ;
+
+- achats à terme de plus de 3 mois ;
+
+- ventes à terme de 3 mois au plus ;
+
+- ventes à terme de plus de 3 mois.
+
+(1) Valeurs appartenant à l'entreprise et conservées par elle et valeurs remises en nantissement aux cédants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1982-06-01 art. 2 JORF 12 juin 1982
+	  - Arrêté 1987-02-17 art. 15, annexe XI JORF 20 février 1987
+	  - Arrêté 1989-09-26 art. 2 JORF 5 octobre 1989
+	  - Arrêté 1991-05-14 art. 3 JORF 17 mai 1991
+
+	**Cité par**:
+
+	  - Arrêté du 28 juillet 1995 - art. 1 (V)
+	  - Code des assurances - art. A344-10 (V)
+	  - Code des assurances - art. A344-16 (Ab)
+	  - Code des assurances - art. A344-6 (Ab)
+	  - Code des assurances - art. A344-9 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances - art. R342-23 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R342-23 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
+
+
+##### Section III : Etats à produire.
+
+###### Article Annexe art. A344-8
+
+**I.-Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle des assurances et des
+mutuelles par les entreprises ayant leur siège social en France sont les suivants : **
+
+a) la raison sociale de l'entreprise, son adresse, la date de sa constitution, les modifications apportées aux statuts en
+cours de l'exercice et, si de telles modifications sont intervenues, un exemplaire à jour des statuts ; 
+
+b) les nom, date et lieu de naissance, nationalité, domicile et profession des membres du conseil d'administration ou du
+conseil de surveillance ; 
+
+c) les nom, date et lieu de naissance, nationalité, domicile, grade et fonction des personnels de direction en fonction à la
+date d'établissement du compte rendu détaillé annuel ; 
+
+d) les nom, adresse et date de désignation des commissaires aux comptes titulaires et suppléants ; 
+
+e) la liste des branches pratiquées en France et, pour chaque branche, la date de l'agrément administratif dans les termes de
+l'article  
+L. 321-1 et l'année de début d'exploitation ; 
+
+f) la liste des pays où l'entreprise exerce son activité, d'une part en régime d'établissement, d'autre part en libre
+prestation de services et, pour chaque pays et chaque régime, des branches qu'elle y pratique, avec, pour chaque branche, la
+date de l'acte administratif ayant autorisé les opérations, lorsque l'exercice de l'activité d'assurance est soumis à une
+telle formalité, ainsi que l'année de début d'exploitation ; 
+
+g) un tableau indiquant, par pays d'établissement, l'effectif moyen annualisé du personnel salarié en distinguant les
+personnels affectés à la commercialisation des contrats des autres personnels, et, au sein de chacun de ces deux ensembles,
+les catégories suivantes : personnels de direction, cadres, non-cadres. Ce tableau est complété par l'indication de
+l'effectif moyen annualisé :
+
+- des agents généraux d'assurances ;
+
+- des autres mandataires de l'entreprise auxquels elle a recours pour la commercialisation ou la gestion de ses contrats ; 
+
+h) la liste des contrats types d'assurance directe dont la commercialisation a commencé au cours de l'exercice. Chaque
+contrat type est identifié par son nom commercial et l'indication de la catégorie ou sous-catégorie, définie à l'état C4
+figurant à l'annexe à l'article  A. 344-10, à laquelle il appartient. Les différentes versions d'un contrat type
+commercialisé sous une même dénomination sont à considérer comme des contrats distincts. 
+
+La liste des tables mentionnées au b de l'article  A. 335-1 et établies durant l'année.
+
+A l'appui de cette liste, l'entreprise conserve à la disposition des commissaires-contrôleurs un dossier relatif à chacun des
+contrats types en cours. Ce dossier comprend :
+
+- un spécimen des conditions contractuelles (y compris la notice d'information visée à l'article  
+L. 112-2 et, le cas échéant, à l'article L. 140-4),
+
+- un spécimen de proposition d'assurance et / ou, en assurance collective, de bulletin d'adhésion,
+
+- un spécimen de la fiche d'information visée à l'article  L. 112-2. 
+
+En assurance vie et capitalisation, le dossier comprend, en outre :
+
+- un spécimen de la note d'information visée à l'article  
+L. 132-5-1 et dont le modèle est fixé à l'article  
+A. 132-4,
+
+- un spécimen du document d'information annuelle visé à l'article  
+L. 132-22,
+
+- une fiche technique explicitant les garanties accordées, le tarif appliqué (avec justification de sa suffisance), les
+modalités de fixation à toute époque de la valeur de rachat et de la valeur de réduction-si le contrat comporte-, la méthode
+de calcul de la charge annuelle de participation aux bénéfices ainsi que le mode de répartition de cette participation entre
+les assurés (quotité et délai), et le calcul des provisions mathématiques. 
+
+II. Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle des assurances et des
+mutuelles par les succursales des entreprises étrangères visées au 3 
+  <sup>o </sup>et au 4 
+  <sup>o </sup>de l'article  
+L. 310-2 sont les suivants : 
+
+a) la raison sociale de l'entreprise, l'adresse de son siège social, la date de sa constitution, l'adresse de son siège
+spécial pour la France, et, s'il y a lieu, la date de l'agrément spécial dans les termes de l'article  
+L. 321-9 ; 
+
+b) les nom, date et lieu de naissance, nationalité, domicile et profession des membres du conseil d'administration ou du
+conseil de surveillance ainsi que du mandataire général. Si le mandataire général est une personne morale, ces renseignements
+sont fournis pour son représentant en indiquant aussi la raison sociale et l'adresse du mandataire ; 
+
+c) les nom, date et lieu de naissance, nationalité, domicile, grade et fonction des personnels de direction générale du siège
+social et des personnels de direction de la succursale en fonction à la date d'établissement du compte rendu détaillé
+annuel ; 
+
+d) la liste des branches pratiquées par le siège social et l'année de leur début d'exploitation ; 
+
+e) la liste des branches pratiquées en France et, pour chaque branche, la date de l'agrément administratif dans les termes de
+l'article  
+L. 321-7 ou  L. 321-9 et l'année de début d'exploitation ; 
+
+f) la liste des pays où la succursale exerce son activité en libre prestation de services et, pour chaque pays, des branches
+qu'elle y pratique, avec, pour chaque branche, la date de l'acte administratif ayant autorisé les opérations, lorsque
+l'exercice de l'activité d'assurance est soumis à une telle formalité, ainsi que l'année de début d'exploitation ; 
+
+g) un tableau indiquant l'effectif moyen annualisé du personnel salarié en distinguant les personnels affectés à la
+commercialisation des contrats des autres personnels, et, au sein de chacun de ces deux ensembles, les catégories suivantes :
+personnels de direction, cadres, non-cadres. Ce tableau est complété par l'indication de l'effectif moyen annualisé :
+
+- des agents généraux d'assurances ;
+
+- des autres mandataires de l'entreprise auxquels elle a recours pour la commercialisation ou la gestion de ses contrats ; 
+
+h) la liste des contrats types d'assurance directe dont la commercialisation a commencé au cours de l'exercice. Chaque
+contrat type est identifié par son nom commercial et l'indication de la catégorie ou sous-catégorie, définie à l'état C 4
+figurant à l'annexe à l'article  
+A. 344-10, à laquelle il appartient. Les différentes versions d'un contrat type commercialisé sous une même dénomination sont
+à considérer comme des contrats distincts. 
+
+La liste des tables mentionnées au b de l'article  
+A. 335-1 et établies durant l'année.
+
+A l'appui de cette liste, l'entreprise conserve à la disposition des commissaires-contrôleurs un dossier relatif à chacun des
+contrats types en cours. Ce dossier comprend :
+
+- un spécimen des conditions contractuelles (y compris la notice d'information visée à l'article  L. 112-2 et, le cas
+échéant, à l'article L. 140-4),
+
+- un spécimen de proposition d'assurance et / ou, en assurance collective, de bulletin d'adhésion,
+
+- un spécimen de la fiche d'information visée à l'article  L. 112-2. 
+
+En assurance vie et capitalisation, le dossier comprend en outre :
+
+- un spécimen de la note d'information visée à l'article  L. 132-5-1 et dont le modèle est fixé à l'article  A. 132-4,
+
+- un spécimen du document d'information annuelle visé à l'article  L. 132-22,
+
+- une fiche technique explicitant les garanties accordées, le tarif appliqué (avec justification de sa suffisance), les
+modalités de fixation à toute époque de la valeur de rachat et de la valeur de réduction-si le contrat en comporte-, la
+méthode de calcul de la charge annuelle de participation aux bénéfices ainsi que le mode de répartition de cette
+participation entre les assurés (quotité et délai), et le calcul des provisions mathématiques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des assurances - art. A132-4 (V)
+	  - Code des assurances - art. A335-1 (V)
+	  - Code des assurances - art. A344-10 (V)
+	  - Code des assurances - art. L112-2 (V)
+	  - Code des assurances - art. L132-22 (V)
+	  - Code des assurances - art. L132-5-1 (V)
+	  - Code des assurances - art. L310-2 (V)
+	  - Code des assurances - art. L321-1 (V)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L321-9 (V)
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
