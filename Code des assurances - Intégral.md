@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-04-27
+Version Consolidée au 1991-05-07
 
 # Partie législative
 
@@ -106,23 +106,16 @@ l'assuré.
 
 ###### Article L111-4
 
-Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, il peut être dérogé à la loi locale du 30 mai 1908 sur le
-contrat d'assurance, maintenue en vigueur par l'article 66 de la loi du 1er juin 1924, dans les conditions prévues par
-l'article 10 de la loi du 24 juillet 1921 prévenant et réglant les conflits entre la loi française et la loi locale d'Alsace
-et Lorraine en matière de droit privé.
+Le présent code est applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, sous réserve des
+dispositions du titre IX ci-après et des articles 129 à 148 de la loi locale du 30 mai 1908 sur le contrat d'assurance.
 
-L'assureur doit informer l'assuré par écrit, préalablement à la conclusion du contrat, que les parties peuvent, par une
-simple déclaration de leur volonté, le soustraire à l'application de la loi locale, sous réserve des dispositions impératives
-que celle-ci contient, et le soumettre au droit commun.
-
-Il doit également l'informer de la différence existant entre les deux législations au regard de la possibilité de résiliation
-périodique du contrat.
+Les dispositions des articles 1er à 128 et des articles 149 à 191 de la loi locale du 30 mai 1908 précitée sont abrogées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°85-608 1985-06-11 art. 12 JORF 20 juin 1985
+	  - Loi n°91-412 du 6 mai 1991 - art. 1 () JORF 7 mai 1991
 
 	**Cité par**:
 
@@ -131,9 +124,7 @@ périodique du contrat.
 
 	**Cite**:
 
-	  - Loi n°1908-05-30
-	  - Loi n°1921-07-24 art. 10
-	  - Loi n°1924-06-01 art. 66
+	  - Loi n°1908-05-30 art. 129 à 148, art. 149 à 191
 
 
 ###### Article L111-5
@@ -3821,6 +3812,349 @@ seul Etat.
 
 	  - Code des assurances - art. L181-1 (M)
 	  - Code des assurances - art. L181-2 (V)
+
+
+### Titre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle
+
+#### Chapitre I : Dispositions générales.
+
+###### Article L191-1
+
+Le code des assurances est applicable aux risques situés dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle,
+sous réserve des dispositions ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+
+###### Article L191-2
+
+Le risque est regardé comme situé dans lesdits départements :
+
+1° Si les biens sont situés dans ces départements, lorsque l'assurance est relative soit à des immeubles, soit à des
+immeubles et à leur contenu ;
+
+2° Lorsque l'assurance est relative à des véhicules de toute nature immatriculés dans ces départements ;
+
+3° Si le contrat a été souscrit dans ces départements, lorsqu'il s'agit d'un contrat d'une durée inférieure ou égale à quatre
+mois, relatif à des risques encourus au cours d'un déplacement, quelle que soit la branche concernée ;
+
+4° Dans tous les autres cas que ceux qui sont visés ci-dessus, si le souscripteur a sa résidence principale dans ces
+départements ou si, le souscripteur étant une personne morale, l'établissement de cette personne morale auquel le contrat se
+rapporte est situé dans ces départements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+
+###### Article L191-3
+
+Ne peuvent être modifiées par convention les prescriptions du présent titre, sauf celles qui donnent aux parties une simple
+faculté et qui sont contenues dans les articles L. 191-7, L. 192-2 et L. 192-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. L191-7 (M)
+	  - Code des assurances - art. L192-2 (M)
+	  - Code des assurances - art. L192-3 (M)
+
+
+###### Article L191-4
+
+Il n'y a pas lieu à résiliation ni à réduction par application de l'article L. 113-9 si le risque omis ou dénaturé était
+connu de l'assureur ou s'il ne modifie pas l'étendue de ses obligations ou s'il est demeuré sans incidence sur la réalisation
+du sinistre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. L113-9 (V)
+
+
+###### Article L191-5
+
+En cas de manquement à une obligation lui incombant après la survenance du sinistre, l'assuré n'encourt la déchéance qu'en
+cas de faute lourde ou d'inexécution intentionnelle de sa part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+
+###### Article L191-6
+
+Chaque partie a le droit de résilier le contrat, après la réalisation du sinistre, dans le délai d'un mois qui suit la
+conclusion des négociations relatives à l'indemnité.
+
+L'assureur doit donner un préavis d'un mois. Il doit restituer à l'assuré la portion de prime payée d'avance et afférente à
+la période pour laquelle le risque n'a pas couru, période calculée à compter de la date d'effet de la résiliation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+
+###### Article L191-7
+
+Sans préjudice des dispositions des articles L. 211-17 et L. 242-1, l'indemnité due à l'assuré porte intérêt au taux légal à
+partir de l'expiration du mois qui suit la déclaration du sinistre.
+
+Si le préjudice n'est pas encore complètement chiffré à cette date, l'assuré peut demander le versement d'une provision égale
+au montant du dommage déjà établi.
+
+Le délai ne court pas tant que l'évaluation du dommage est retardée par la faute de l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+	**Cité par**:
+
+	  - Code des assurances - art. L191-3 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L211-17 (V)
+	  - Code des assurances - art. L242-1 (M)
+
+
+#### Chapitre II : Dispositions applicables aux assurances non fluviales.
+
+###### Article L192-1
+
+Le délai prévu à l'article L. 114-1, alinéa 1er, est porté à cinq ans en matière d'assurance sur la vie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. L114-1 (M)
+
+
+###### Article L192-2
+
+La suspension du contrat d'assurance prévue à l'article L. 121-11 prendra effet à partir du cinquième jour, à zéro heure,
+suivant celui de l'aliénation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. L121-11 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L191-3 (V)
+
+
+###### Article L192-3
+
+Nonobstant les dispositions de l'article L. 122-4 et sauf stipulations expresses contraires, l'assureur est tenu de réparer,
+outre les dommages résultant de l'action du feu, d'une explosion ou de la foudre, ceux qui sont la conséquence inévitable de
+l'incendie ou sont causés par son extinction, la démolition et le déblaiement des locaux, le vol et la disparition d'objets
+assurés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. L122-4 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L191-3 (M)
+	  - Code des assurances - art. L192-7 (V)
+
+
+###### Article L192-4
+
+A l'égard de l'assurance des immeubles, le créancier hypothécaire qui a notifié son hypothèque à l'assureur ne peut se voir
+opposer tout fait quelconque ayant pour effet de mettre fin à la garantie ou de diminuer la couverture du risque qu'un mois
+après qu'il en a été avisé par l'assureur ou qu'il en a eu connaissance par un autre moyen.
+
+L'alinéa précédent n'est pas applicable lorsque l'assurance prend fin par suite du redressement ou de la liquidation
+judiciaire de l'assureur ou par suite du défaut de paiement de la prime.
+
+L'assureur qui est libéré de sa garantie à raison de l'inexécution par l'assuré de ses obligations, à l'exception de celle du
+paiement de la prime, reste tenu envers le créancier hypothécaire, même si l'hypothèque ne lui a pas été notifiée. Il en est
+de même lorsque l'assureur résilie le contrat après la survenance du sinistre.
+
+L'assureur qui paie le créancier hypothécaire conformément aux dispositions de l'alinéa précédent est subrogé dans les droits
+de celui-ci. La subrogation ne peut porter préjudice aux droits des autres créanciers hypothécaires inscrits au même rang ou
+à un rang postérieur à l'égard desquels l'assureur reste tenu.
+
+L'assureur doit prévenir immédiatement le créancier hypothécaire qui lui a notifié son hypothèque qu'il a été imparti à
+l'assuré pour le paiement de la prime un délai à l'expiration duquel l'assurance sera résiliée pour non-paiement de la prime.
+
+L'assureur ne peut refuser la prime offerte par le créancier hypothécaire, alors même que l'assuré s'y opposerait.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+
+###### Article L192-5
+
+Si le contrat impose la reconstruction du bâtiment sinistré, le paiement de l'indemnité n'est opposable au créancier
+hypothécaire qu'un mois après la notification par l'assureur de ce que le paiement se fera sans que l'affectation de
+l'indemnité à la reconstruction ne soit certaine. Jusqu'à l'expiration de ce délai, le créancier hypothécaire pourra
+s'opposer au paiement de l'indemnité d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+
+###### Article L192-6
+
+En cas de changement de domicile du créancier hypothécaire, la notification par lettre recommandée avec accusé de réception
+est valablement faite par l'assureur au dernier domicile connu du créancier hypothécaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+
+###### Article L192-7
+
+Les dispositions des articles L. 192-3 à L. 192-5 et celles des articles 1127 et 1128 du code civil local sont également
+applicables aux créanciers privilégiés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil local 1127, 1128
+	  - Code des assurances L192-3 à L192-5
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+
+#### Chapitre III : Dispositions applicables aux assurances fluviales.
+
+###### Article L193-1
+
+Par dérogation aux dispositions de l'article L. 111-1, le contrat d'assurance ayant pour objet de garantir les risques
+relatifs à la navigation fluviale dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle est soumis aux
+dispositions des articles 129 à 148 de la loi locale du 30 mai 1908 précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°1908-05-30 art. 129 à 148
+	  - Code des assurances - art. L111-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+
+	**Abrogé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
 
 
 ## Livre II : Assurances obligatoires
