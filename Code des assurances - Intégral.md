@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1997-03-16
+Version Consolidée au 1997-03-20
 
 # Partie législative
 
@@ -23615,7 +23615,7 @@ sections V, VI et VII du présent chapitre.
 
 Les excédents de recettes des sociétés d'assurance mutuelles pratiquant une ou plusieurs des branches mentionnées aux 1 à 18
 de l'article R. 321-1 sont répartis entre les sociétaires dans les conditions fixées par les statuts, sous réserve des
-dispositions du premier alinéa de l'article R. 322-77.
+dispositions du premier alinéa de l'article R. 322-73.
 
 **Liens relatifs à cet article**
 
@@ -23623,16 +23623,9 @@ dispositions du premier alinéa de l'article R. 322-77.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-	  - TXT_ASSOCIE: Code des assurances - art. R*322-77 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R322-73 (M)
-
 	**Modifié par**:
 
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 3 () JORF 15 octobre 1991
+	  - Décret n°97-248 du 14 mars 1997 - art. 3 () JORF 20 mars 1997
 
 	**Cité par**:
 
@@ -23640,8 +23633,13 @@ dispositions du premier alinéa de l'article R. 322-77.
 
 	**Cite**:
 
-	  - Code des assurances - art. R*322-77 (M)
-	  - Code des assurances R321-1, R322-77
+	  - Code des assurances - art. R*322-73 (M)
+	  - Code des assurances R321-1, R322-73
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*322-77 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R322-73 (M)
 
 
 ###### Article R322-49
@@ -23649,7 +23647,7 @@ dispositions du premier alinéa de l'article R. 322-77.
 Les projets de statuts peuvent prévoir la constitution d'un fonds social complémentaire destiné à procurer à la société les
 éléments de solvabilité dont elle doit disposer pour satisfaire à la réglementation en vigueur. Ce fonds est alimenté par des
 emprunts contractés en vue de financer un plan d'amélioration de l'exploitation ou un plan de développement à moyen ou long
-terme. Les sociétaires peuvent être tenus de souscrire aux emprunts dans les conditions prévues à l'article R. 322-74.
+terme. Les sociétaires peuvent être tenus de souscrire aux emprunts dans les conditions prévues à l'article R. 322-80-1.
 
 **Liens relatifs à cet article**
 
@@ -23659,7 +23657,7 @@ terme. Les sociétaires peuvent être tenus de souscrire aux emprunts dans les c
 
 	**Modifié par**:
 
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
+	  - Décret n°97-248 du 14 mars 1997 - art. 3 () JORF 20 mars 1997
 
 	**Cité par**:
 
@@ -24617,37 +24615,6 @@ sociétaire.
 	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
 
 
-###### Article R*322-77-1
-
-Les excédents distribuables en application des articles R. 322-77 et R. 322-106 sont affectés par priorité à des
-remboursements anticipés de l'emprunt mentionné à l'article R. 322-49 proportionnels aux souscriptions de chaque sociétaire.
-
-Lorsque la société prend l'initiative de radier un sociétaire, celui-ci peut demander à être immédiatement remboursé de sa
-contribution à cet emprunt. Il en est de même lorsque le sociétaire fait usage du droit prévu au deuxième alinéa de l'article
-R. 113-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. R*322-106 (M)
-	  - Code des assurances - art. R*322-49 (M)
-	  - Code des assurances - art. R*322-77 (M)
-	  - Code des assurances R322-77, R322-49, R322-106, R113-10
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R322-74 (5ème version)
-
-
 ###### Article R322-71
 
 Le sociétaire ne peut être tenu en aucun cas, sauf par application des dispositions du premier alinéa de l'article R. 322-65,
@@ -24692,47 +24659,13 @@ Les dispositions du présent article ne s'appliquent pas aux sociétés pratiqua
 	  - Code des assurances R322-65, R321-1
 
 
-###### Article R322-74
+###### Article R322-73
 
-Sous réserve des dispositions des articles L. 322-2-1 et R. 322-105, les sociétés d'assurance mutuelles ne peuvent contracter
-d'emprunts que pour constituer :
+Il ne peut être procédé à des répartitions d'excédents de recettes qu'après constitution des réserves et provisions
+prescrites par les lois et règlements en vigueur, après amortissement intégral des dépenses d'établissement et après que les
+dispositions réglementaires concernant la marge de solvabilité aient été satisfaites.
 
-1° Le fonds d'établissement qu'elles peuvent avoir à constituer aux termes de l'article R. 322-47 ;
-
-2° Les nouveaux fonds d'établissement qu'elles peuvent avoir à constituer, aux termes de l'article R. 322-47 précité,
-lorsqu'elles sollicitent l'agrément administratif pour de nouvelles branches ;
-
-3° Les fonds qui peuvent être nécessaires en vue du développement de leurs opérations et du financement de la production
-nouvelle ;
-
-4° Le fonds social complémentaire.
-
-Tous les emprunts destinés à former les fonds mentionnés aux 2° et 3° du précédent alinéa doivent être autorisés
-préalablement par l'assemblée générale délibérant comme il est dit à l'article R. 322-65.
-
-Tout emprunt destiné à la constitution et, éventuellement, à l'alimentation du fonds social complémentaire doit être autorisé
-par l'assemblée générale délibérant comme il est dit à l'article R. 322-63 et faire l'objet d'une résolution spéciale dont la
-teneur doit être préalablement approuvée par la commission de contrôle des assurances, qui se prononce au vu de l'un des
-plans mentionnés à l'article R. 322-49. Ce plan doit être obligatoirement joint au texte de la résolution. A l'expiration
-d'un délai de deux mois à dater du dépôt du texte de la résolution et du document mentionné ci-dessus, et en l'absence de
-décision expresse de la commission, l'autorisation est considérée comme accordée.
-
-La résolution déterminera quels sociétaires devront souscrire à l'emprunt, sans que cette obligation puisse porter sur les
-sociétaires dont les contrats étaient en cours au moment où les statuts ont été modifiés. La participation des sociétaires
-déjà adhérents de la société au moment où celle-ci décide d'émettre un emprunt ne pourra être supérieure à 10 % de leur
-cotisation annuelle.
-
-Dans tous les prospectus, affiches, circulaires, notices, annonces ou documents quelconques relatifs aux emprunts des
-sociétés, il doit être rappelé de manière explicite qu'un privilège est institué au profit des assurés par l'article L. 327-2
-et indiqué que le prêteur, même s'il est assuré, ne bénéficie d'aucun privilège pour les intérêts et le remboursement de cet
-emprunt. Cette mention doit figurer également en caractères apparents sur les titres d'emprunts.
-
-Il est porté chaque année dans les charges de l'entreprise une somme constante destinée au paiement des intérêts et au
-remboursement des emprunts ou à la constitution de la réserve pour amortissement des emprunts. Sur autorisation de la
-commission de contôle des assurances, il peut, pendant les cinq années suivant la date d'émission de l'emprunt, être dérogé à
-cette obligation. Celle-ci ne s'applique pas aux emprunts contractés pour la constitution et, éventuellement, l'alimentation
-du fonds social complémentaire. Ni aux titres et emprunts subordonnés, pour autant qu'ils entrent dans la constitution de la
-marge de solvabilité en application des articles R. 334-3 et R. 334-11 du présent code.
+La commission de contrôle des assurances peut s'opposer à une affectation d'excédents aux réserves libres.
 
 **Liens relatifs à cet article**
 
@@ -24740,11 +24673,48 @@ marge de solvabilité en application des articles R. 334-3 et R. 334-11 du prés
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
+	**Cité par**:
 
-	  - Décret n°92-716 du 23 juillet 1992 - art. 3 () JORF 29 juillet 1992
+	  - Décret n°91-1050 du 30 septembre 1991 - art. 16 (V)
+	  - Code des assurances - art. R*322-47 (M)
+	  - Code des assurances - art. R322-114 (V)
+	  - Code des assurances - art. R322-140 (V)
+	  - Code des assurances - art. R322-43 (V)
+	  - Code des assurances - art. R328-1 (V)
 
-	**Abrogé par**:
+	**Transféré par**:
+
+	  - Décret n°97-248 du 14 mars 1997 - art. 1 () JORF 20 mars 1997
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*322-43 (M)
+
+	**Cite**:
+
+	  - Code des assurances R321-1
+
+	**Anciens textes**:
+
+	  - Code des assurances R322-77 (2ème version)
+
+
+###### Article R322-74
+
+Les excédents distribuables en application des articles R. 322-77 et R. 322-106 sont affectés par priorité à des
+remboursements anticipés de l'emprunt mentionné à l'article R. 322-49 proportionnels aux souscriptions de chaque sociétaire.
+
+Lorsque la société prend l'initiative de radier un sociétaire, celui-ci peut demander à être immédiatement remboursé de sa
+contribution à cet emprunt. Il en est de même lorsque le sociétaire fait usage du droit prévu au deuxième alinéa de l'article
+R. 113-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Transféré par**:
 
 	  - Décret n°97-248 du 14 mars 1997 - art. 1 () JORF 20 mars 1997
 
@@ -24759,50 +24729,22 @@ marge de solvabilité en application des articles R. 334-3 et R. 334-11 du prés
 
 	**Cite**:
 
-	  - Code des assurances - art. L322-2-1 (M)
-	  - Code des assurances - art. L327-2 (M)
-	  - Code des assurances - art. R*322-47 (M)
-	  - Code des assurances - art. R*322-63 (M)
-	  - Code des assurances - art. R*322-65 (M)
-	  - Code des assurances - art. R*334-11 (M)
-	  - Code des assurances - art. R*334-3 (M)
+	  - Code des assurances - art. R*322-106 (M)
+	  - Code des assurances - art. R*322-77 (M)
+	  - Code des assurances R322-77, R322-49, R322-106, R113-10
+
+	**Anciens textes**:
+
+	  - Code des assurances R322-77-1 (2ème version)
 
 
-###### Article R322-75
-
-Le titre remis à tout sociétaire ayant souscrit à un emprunt pour constitution ou alimentation du fonds social complémentaire
-doit être établi dans la forme prévue par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-248 du 14 mars 1997 - art. 1 () JORF 20 mars 1997
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. A322-6 (V)
-
-	**Cité par**:
-
-	  - Code des assurances - art. A322-6 (V)
-
+##### Paragraphe 3 bis : Emprunts.
 
 ###### Article R322-77
 
-Il ne peut être procédé à des répartitions d'excédents de recettes qu'après constitution des réserves et provisions
-prescrites par les lois et règlements en vigueur, après amortissement intégral des dépenses d'établissement et après que les
-dispositions réglementaires concernant la marge de solvabilité aient été satisfaites.
-
-La commission de contrôle des assurances peut s'opposer à une affectation d'excédents aux réserves libres.
+Les sociétés d'assurance mutuelles ne peuvent emprunter que pour financer le développement des activités d'assurance ou
+renforcer leur marge de solvabilité et dans les conditions et selon les modalités définies par les articles R. 322-78 à R.
+322-80-1, sous réserve des dispositions de l'article R. 322-105.
 
 **Liens relatifs à cet article**
 
@@ -24810,11 +24752,14 @@ La commission de contrôle des assurances peut s'opposer à une affectation d'ex
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 18 () JORF 15 octobre 1991
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 19 () JORF 15 octobre 1991
+	  - Décret n°97-248 du 14 mars 1997 - art. 2 () JORF 20 mars 1997
+
+	**Cite**:
+
+	  - Code des assurances - art. R*322-105 (M)
+	  - Code des assurances R322-78 à R322-80-1, R322-105
 
 	**Cité par**:
 
@@ -24824,25 +24769,20 @@ La commission de contrôle des assurances peut s'opposer à une affectation d'ex
 	  - Code des assurances - art. R322-74 (V)
 	  - Code des assurances - art. R328-1 (M)
 
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R322-73 (3ème version)
-
 
 ###### Article R322-78
 
-En cas de force majeure résultant d'intempéries ou d'épizooties d'un caractère exceptionnel, un décret pris sur le rapport du
-ministre de l'économie et des finances et du ministre de l'agriculture, peut autoriser une ou plusieurs sociétés régies par
-la présente section, après épuisement de leurs ressources disponibles, à n'effectuer immédiatement qu'un règlement partiel
-des sinistres dus à ces causes. Les sociétés qui ont obtenu cette autorisation doivent affecter par priorité tous les
-excédents de recettes constatés ultérieurement, au paiement du solde de l'indemnité restant dû à chaque ayant droit.
+Dans tous les prospectus, affiches, circulaires, notices, annonces ou documents quelconques relatifs aux emprunts des
+sociétés, il doit être rappelé de manière explicite qu'un privilège est institué au profit des assurés par l'article L. 327-2
+et indiqué que le prêteur, même s'il est assuré, ne bénéficie d'aucun privilège pour les intérêts et le remboursement de cet
+emprunt. Cette mention doit figurer également en caractères apparents sur les titres d'emprunts.
 
-Les dispositions du présent article ne s'appliquent pas aux sociétés pratiquant une ou plusieurs des branches mentionnées aux
-20 à 26 de l'article R. 321-1.
+Il est porté chaque année dans les charges de l'entreprise une somme constante destinée au paiement des intérêts et au
+remboursement des emprunts ou à la constitution de la réserve pour amortissement des emprunts. Sur autorisation de la
+commission de contrôle des assurances, il peut, pendant les cinq années suivant la date d'émission de l'emprunt, être dérogé
+à cette obligation. Celle-ci ne s'applique pas aux emprunts contractés pour la constitution et, éventuellement,
+l'alimentation du fonds social complémentaire, ni aux titres et emprunts subordonnés, pour autant qu'ils entrent dans la
+constitution de la marge de solvabilité en application des articles R. 334-3 et R. 334-11 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -24850,36 +24790,62 @@ Les dispositions du présent article ne s'appliquent pas aux sociétés pratiqua
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+	  - Décret n°97-248 du 14 mars 1997 - art. 2 () JORF 20 mars 1997
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°94-799 du 9 septembre 1994 - art. 6 () JORF 15 septembre 1994
+	  - Code des assurances - art. L327-2 (M)
+	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R*334-3 (M)
 
 	**Cité par**:
 
 	  - Code des assurances - art. R322-119 (M)
 	  - Code des assurances - art. R322-77 (VD)
 
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R322-75 (3ème version)
-
 
 ###### Article R322-79
 
-Dans le cas où, du fait de pertes constatées dans les documents comptables, l'actif net devient inférieur à la moitié du
-montant du fonds d'établissement, le conseil d'administration est tenu de provoquer la réunion de l'assemblée générale
-délibérant comme il est dit à l'article R. 322-65, à l'effet de statuer sur la question de savoir s'il y a lieu de prononcer
-la dissolution de la société.
+I. - Toute émission d'obligations, de titres participatifs ou de titres subordonnés remboursables dans les conditions et
+limites prévues à l'article L. 322-2-1 doit être autorisée par l'assemblée générale délibérant comme il est dit à l'article
+R. 322-63 et faire l'objet d'une résolution spéciale dont la teneur est préalablement soumise à l'approbation de la
+commission de contrôle des assurances. Celle-ci se prononce, en veillant à la sauvegarde des intérêts des assurés, au vu d'un
+dossier comportant une présentation détaillée des objectifs poursuivis, des caractéristiques des titres émis, des
+conséquences de l'émission sur la situation financière de l'entreprise concernée, ainsi que, le cas échéant, une description
+précise des cas de remboursement anticipé.
+
+A l'expiration d'un délai de deux mois à dater du dépôt du texte de la résolution et du dossier mentionné ci-dessus et en
+l'absence de décision expresse de la commission, l'autorisation est considérée comme accordée. En cas de décision expresse,
+celle-ci est communiquée à l'assemblée générale.
+
+La résolution de l'assemblée générale mentionnée au premier alinéa fixe les caractéristiques essentielles de l'émission des
+titres mentionnés à l'article L. 322-2-1, en particulier le montant maximal de l'émission et la ou les monnaies dans laquelle
+ou lesquelles l'émission est libellée, la durée minimale et, le cas échéant, maximale de l'emprunt, les modalités de
+remboursement, le plafond de la rémunération susceptible d'être acquittée par l'entreprise au titre de l'emprunt, y compris
+les frais d'émission.
+
+Pour les titres participatifs, la résolution fixe également l'assiette de la rémunération pour la partie variable. Pour les
+titres subordonnés, elle précise la clause de subordination et les modalités de remboursement, notamment en cas de
+liquidation de la société.
+
+L'émission doit être réalisée en une ou plusieurs fois dans le délai de quinze mois à compter de l'adoption de la résolution
+par l'assemblée générale des sociétaires.
+
+Le conseil d'administration rend compte à la plus prochaine assemblée générale de la mise en oeuvre de la résolution.
+
+II. - Les dispositions des sections III et III bis du chapitre V du décret n° 67-236 du 23 mars 1967, à l'exception de celles
+qui concernent exclusivement les sociétés commerciales, sont applicables aux émissions effectuées dans les conditions prévues
+à l'article L. 322-2-1.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°67-236 1967-03-23
+	  - Code des assurances - art. L322-2-1 (M)
+	  - Code des assurances - art. R*322-63 (M)
 
 	**Codifié par**:
 
@@ -24887,12 +24853,7 @@ la dissolution de la société.
 
 	**Modifié par**:
 
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 21 () JORF 15 octobre 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. R*322-65 (M)
+	  - Décret n°97-248 du 14 mars 1997 - art. 2 () JORF 20 mars 1997
 
 	**Cité par**:
 
@@ -24900,9 +24861,67 @@ la dissolution de la société.
 	  - Code des assurances - art. R322-80-1 (V)
 	  - Code monétaire et financier - art. R213-29 (V)
 
-	**Nouveaux textes**:
 
-	  - Code des assurances R322-76 (3ème version)
+###### Article R322-80
+
+Tout emprunt destiné à l'alimentation du fonds d'établissement prévu à l'article R. 322-44 ou, sauf dans le cas prévu à
+l'article R. 322-79, au financement du développement des opérations d'assurance et de la production nouvelle doit être
+autorisé préalablement par l'assemblée générale délibérant comme il est dit à l'article R. 322-65.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°97-248 du 14 mars 1997 - art. 2 () JORF 20 mars 1997
+
+	**Cite**:
+
+	  - Code des assurances - art. R*322-65 (M)
+	  - Code des assurances - art. R*322-79 (M)
+	  - Code des assurances R322-44, R322-65, R322-79
+
+
+###### Article R322-80-1
+
+Sauf dans le cas prévu à l'article R. 322-79, tout emprunt destiné à la constitution et, éventuellement, à l'alimentation du
+fonds social complémentaire doit être autorisé par l'assemblée générale délibérant comme il est dit à l'article R. 322-63 et
+faire l'objet d'une résolution spéciale dont la teneur doit être préalablement soumise à l'approbation de la commission de
+contrôle des assurances, qui se prononce au vu de l'un des plans mentionnés à l'article R. 322-49. Ce plan doit être
+obligatoirement joint au texte de la résolution. A l'expiration d'un délai de deux mois à dater du dépôt du texte de la
+résolution et du document mentionné ci-dessus, et en l'absence de décision expresse de la commission, l'autorisation est
+considérée comme accordée. La résolution détermine quels sociétaires doivent souscrire à l'emprunt, sans que cette obligation
+puisse porter sur les sociétaires dont les contrats étaient en cours au moment où les statuts ont été modifiés. La
+participation des sociétaires déjà adhérents de la société au moment où celle-ci décide d'émettre un emprunt ne peut être
+supérieure à 10 % de leur cotisation annuelle.
+
+Le titre remis à tout sociétaire ayant souscrit à un emprunt pour constitution ou alimentation du fonds social complémentaire
+doit être établi dans la forme prévue par arrêté du ministre de l'économie et des finances.
+
+La société est tenue d'informer au moins une fois par an chaque sociétaire du montant et de l'échéance de sa créance au titre
+de l'emprunt pour fonds social complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°97-248 du 14 mars 1997 - art. 2 () JORF 20 mars 1997
+
+	**Cite**:
+
+	  - Code des assurances - art. R*322-63 (M)
+	  - Code des assurances - art. R*322-79 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-49 (V)
 
 
 ##### Paragraphe 4 : Réassurance.
@@ -26094,7 +26113,7 @@ le retrait d'agrément, la portion de cotisation afférente à la période non g
 ###### Article R322-114
 
 Les unions de sociétés d'assurance mutuelles ne peuvent procéder à des répartitions d'excédents de recettes qu'en se
-conformant aux dispositions des articles R. 322-77 et R. 322-77-1 et, en outre, qu'après avoir remboursé la contribution
+conformant aux dispositions des articles R. 322-73 et R. 322-74 et, en outre, qu'après avoir remboursé la contribution
 versée, le cas échéant, en vue de la constitution du fonds d'établissement de l'union, par les sociétés qui en font partie.
 
 **Liens relatifs à cet article**
@@ -26105,15 +26124,11 @@ versée, le cas échéant, en vue de la constitution du fonds d'établissement d
 
 	**Modifié par**:
 
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 25 () JORF 15 octobre 1991
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 29 () JORF 15 octobre 1991
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 31 () JORF 15 octobre 1991
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 33 () JORF 15 octobre 1991
+	  - Décret n°97-248 du 14 mars 1997 - art. 3 () JORF 20 mars 1997
 
 	**Cite**:
 
-	  - Code des assurances - art. R*322-77 (M)
-	  - Code des assurances R322-77, R322-77-1
+	  - Code des assurances - art. R322-73 (V)
 
 
 ###### Article R322-116
@@ -26274,29 +26289,21 @@ La réglementation des entreprises d'assurance résultant du présent code est, 
 à la présente section, applicable aux organismes mentionnés à l'article 1235 du code rural.
 
 Ces organismes se conforment aux règles de constitution et de fonctionnement prescrites pour les entreprises d'assurance à la
-section IV, paragraphes I, II, III, IV et VI du présent chapitre, sous réserve des dispositions particulières de la présente
-section.
+section IV, paragraphes I, II, III, III bis IV et VI du présent chapitre, sous réserve des dispositions particulières de la
+présente section.
 
 Des décrets ou des arrêtés précisent, en tant que de besoin, les modalités d'application de la présente section aux
 organismes intéressés.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural 1235
-
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°94-799 du 9 septembre 1994 - art. 16 () JORF 15 septembre 1994
+	  - Décret n°97-248 du 14 mars 1997 - art. 3 () JORF 20 mars 1997
 
 	**Cité par**:
 
@@ -27052,7 +27059,7 @@ Les sociétés à forme tontinière doivent avoir un fonds d'établissement au m
 
 ###### Article R322-140
 
-A l'exception des 3° et 8° de l'article R. 322-47, des articles R. 322-71, R. 322-77 à R. 322-79, R. 322-81, R. 322-83, R.
+A l'exception des 3° et 8° de l'article R. 322-47, des articles R. 322-71, R. 322-73 à R. 322-76, R. 322-81, R. 322-83, R.
 322-84 et R. 322-93 à R. 322-106-1, les dispositions de la section IV du présent chapitre sont applicables aux sociétés à
 forme tontinière, sous réserve des dérogations prévues à la présente section.
 
@@ -27064,7 +27071,7 @@ forme tontinière, sous réserve des dérogations prévues à la présente secti
 
 	**Modifié par**:
 
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 41 () JORF 15 octobre 1991
+	  - Décret n°97-248 du 14 mars 1997 - art. 3 () JORF 20 mars 1997
 
 	**Liens**:
 
@@ -27077,12 +27084,12 @@ forme tontinière, sous réserve des dérogations prévues à la présente secti
 
 	**Cite**:
 
-	  - Code des assurances - art. R*322-47 (M)
-	  - Code des assurances - art. R*322-71 (M)
-	  - Code des assurances - art. R*322-81 (M)
-	  - Code des assurances - art. R*322-83 (M)
-	  - Code des assurances - art. R*322-84 (M)
-	  - Code des assurances R322-47, R322-71, R322-77 à R322-79, R322-81, R322-83, R322-84, R322-93 à R322-106-1
+	  - Code des assurances - art. R322-47 (V)
+	  - Code des assurances - art. R322-71 (V)
+	  - Code des assurances - art. R322-73 (V)
+	  - Code des assurances - art. R322-81 (V)
+	  - Code des assurances - art. R322-83 (V)
+	  - Code des assurances - art. R322-93 (V)
 
 
 ###### Article R322-143
@@ -28070,11 +28077,11 @@ acceptations.
 
 ###### Article R328-1
 
-Est puni de la peine d'amende prévue pour les contraventions de cinquième classe le fait pour tout dirigeant d'une entreprise
-soumise au contrôle de l'Etat en vertu de l'article L. 310-1 :
+Est puni de la peine d'amende [*sanctions pénales*] prévue pour les contraventions de cinquième classe le fait pour tout
+dirigeant d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1 :
 
 1° De méconnaître les obligations ou interdiction résultant des articles R. 321-17-1, R. 322-3, R. 322-8 (1er alinéa), R.
-322-77 (1er alinéa), R. 323-8 (dernier alinéa), R. 326-1, R. 331-1, R. 332-1 et R. 332-38 ;
+322-73 (1er alinéa), R. 323-8 (dernier alinéa), R. 326-1, R. 331-1, R. 332-1 et R. 332-38 ;
 
 2° De ne pas produire un programme de rétablissement, un plan de redressement ou un plan de financement à court terme
 prescrits conformément aux dispositions des articles R. 323-1, R. 323-2 et R. 323-3, ou de ne pas exécuter dans les
@@ -28093,17 +28100,17 @@ En cas de récidive, la peine d'amende prévue pour la récidive des contraventi
 
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
+	  - Décret n°97-248 du 14 mars 1997 - art. 3 () JORF 20 mars 1997
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. R*322-77 (M)
+	  - Code des assurances - art. R*322-73 (M)
 	  - Code des assurances - art. R*326-1 (M)
 	  - Code des assurances - art. R*331-1 (M)
 	  - Code des assurances - art. R*332-1 (M)
 	  - Code des assurances - art. R*332-38 (M)
-	  - Code des assurances L310-1, R321-17-1, R322-3, R322-8, R322-77, R323-8, R326-1, R331-1, R332-1, R332-38, R323-1, R323-2, R323-3
+	  - Code des assurances L310-1, R321-17-1, R322-3, R322-8, R322-73, R323-8, R326-1, R331-1, R332-1, R332-38, R323-1, R323-2, R323-3
 
 	**Liens**:
 
@@ -28981,189 +28988,6 @@ l'exportation pour le compte ou avec la garantie de l'Etat.
 
 ##### Section I : Eléments d'actif admis en représentation des engagements réglementés.
 
-###### Article R*332-2
-
-En application des dispositions de l'article R. 332-1 et sous réserve des dérogations prévues à ce même article, à l'article
-R. 332-1-1 ainsi qu'aux articles R. 332-3-3 à R. 332-10, les engagements réglementés mentionnés à l'article R. 331-1 sont
-représentés par les actifs suivants :
-
-A. - Valeurs mobilières et titres assimilés :
-
-1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres de l'Organisation de coopération et de
-développement économique (O.C.D.E.) ainsi que les titres émis par la caisse d'amortissement de la dette sociale instituée par
-l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations émises ou garanties par un organisme international à
-caractère public dont un ou plusieurs Etats membres de la Communauté européenne font partie ; obligations émises ou garanties
-par les collectivités publiques territoriales d'un Etat membre de l'O.C.D.E. ;
-
-2° Obligations, parts de fonds communs de créance et titres participatifs inscrits à la cote d'une bourse de valeurs d'un
-Etat membre de l'O.C.D.E., autres que celles ou ceux visés au 1° ;
-
-2° bis Titres de créances négociables (certificats de dépôt, billets de trésorerie, bons des institutions et des sociétés
-financières spécialisées) émis par des personnes morales autres que les Etats membres de l'O.C.D.E., ayant leur siège social
-sur le territoire de ces Etats, à condition que ces titres soient négociés sur un marché réglementé en fonctionnement
-régulier d'un Etat membre de l'O.C.D.E. ;
-
-3° Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement dont l'objet est limité à
-la gestion d'un portefeuille de valeurs mentionnées aux 1°, 2° et 2° bis du présent article, dans les conditions fixées par
-l'article R. 332-14 ;
-
-4° Actions et autres valeurs mobilières, inscrites à la cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E., autres
-que celles visées aux 3°, 5°, 5° bis, 8° et 9° bis ;
-
-5° Actions des entreprises d'assurance, de réassurance, de capitalisation ayant leur siège social sur le territoire de l'un
-des Etats membres de l'O.C.D.E. ;
-
-5° bis Actions des entreprises d'assurance, de réassurance, de capitalisation autres que celles visées au 5° ;
-
-6° Actions, parts et droits émis par des sociétés commerciales et titres participatifs émis par des sociétés d'assurance
-mutuelles, ayant leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E., autres que les valeurs visées
-aux 2°, 2° bis, 3°, 4°, 5°, 5° bis, 8° et 9° bis ;
-
-7° Parts des fonds communs de placement à risques du chapitre IV de la loi n° 88-1201 du 23 décembre 1988 ;
-
-8° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement, autres que celles
-mentionnées aux 3° et 7°, dans les conditions fixées par l'article R. 332-14.
-
-B. - Actifs immobiliers :
-
-9° Droits réels immobiliers afférents à des immeubles situés sur le territoire de l'un des Etats membres de l'O.C.D.E. ;
-
-9° bis Parts ou actions des sociétés à objet strictement immobilier, parts des sociétés civiles à objet strictement foncier,
-ayant leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E., inscrites ou non inscrites à la cote d'une
-bourse de valeurs d'un Etat membre de l'O.C.D.E., dans les conditions fixées par l'article R. 332-15.
-
-C. - Prêts et dépôts :
-
-10° Prêts obtenus ou garantis par les Etats membres de l'O.C.D.E., par les collectivités publiques territoriales et les
-établissements publics des Etats membres de l'O.C.D.E. ;
-
-11° Prêts hypothécaires aux personnes physiques ou morales ayant leur domicile ou leur siège social sur le territoire de l'un
-des Etats membres de l'O.C.D.E., dans les conditions fixées par l'article R. 332-12 ;
-
-12° Autres prêts ou créances représentatives de prêts consentis aux personnes physiques ou morales ayant leur domicile ou
-leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées par l'article R.
-332-13 ;
-
-13° Dépôts, dans les conditions fixées par l'article R. 332-16.
-
-Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdits placements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Décret n°79-823 du 21 septembre 1979 - art. 3 (Ab)
-	  - Décret n°86-1111 du 15 octobre 1986 - art. 5 (Ab)
-	  - Décret n°92-183 du 26 février 1992 - art. 16 (Ab)
-	  - Décret n°95-1115 du 17 octobre 1995 - art. 8 (Ab)
-	  - Décret n°2000-142 du 18 février 2000 - art. 11 (V)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 29 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 35 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 37 (Ab)
-	  - Décret  n°2007-243 du 23 février 2007 - art. 4 (V)
-	  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
-	  - Décret n°2007-243 du 23 février 2007 - art. 5 (V)
-	  - Décret n°2009-527 du 12 mai 2009 - art. 7 (V)
-	  - Décret n°2016-1781 du 19 décembre 2016 - art. 1
-	  - Code de l'environnement - art. R561-9 (V)
-	  - Code de la mutualité - art. Annexe à l'article A223-6-1 (V)
-	  - Code de la mutualité - art. R223-1 (V)
-	  - Code de la santé publique - art. R3122-16 (MMN)
-	  - Code de la sécurité sociale. - art. R932-3-1 (V)
-	  - Code des assurances - art. A132-6 (V)
-	  - Code des assurances - art. A322-5 (Ab)
-	  - Code des assurances - art. A331-2 (V)
-	  - Code des assurances - art. A332-1 (Ab)
-	  - Code des assurances - art. A332-1 bis (Ab)
-	  - Code des assurances - art. A332-2 (Ab)
-	  - Code des assurances - art. A332-3 (Ab)
-	  - Code des assurances - art. A332-4 (M)
-	  - Code des assurances - art. A332-7 (V)
-	  - Code des assurances - art. A333-5 (Ab)
-	  - Code des assurances - art. A344-15 (Ab)
-	  - Code des assurances - art. A344-8 (M)
-	  - Code des assurances - art. A431-5 (M)
-	  - Code des assurances - art. A432-10 (Ab)
-	  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
-	  - Code des assurances - art. Annexe art. A132-4 (VD)
-	  - Code des assurances - art. R*332-11 (M)
-	  - Code des assurances - art. R*332-8 (M)
-	  - Code des assurances - art. R*420-47 (T)
-	  - Code des assurances - art. R*431-17 (M)
-	  - Code des assurances - art. R*431-23 (M)
-	  - Code des assurances - art. R*431-42 (Ab)
-	  - Code des assurances - art. R131-1 (V)
-	  - Code des assurances - art. R131-3 (V)
-	  - Code des assurances - art. R134-14 (V)
-	  - Code des assurances - art. R142-14 (Ab)
-	  - Code des assurances - art. R332-1 (M)
-	  - Code des assurances - art. R332-10-3 (VT)
-	  - Code des assurances - art. R332-12 (V)
-	  - Code des assurances - art. R332-13 (V)
-	  - Code des assurances - art. R332-14 (V)
-	  - Code des assurances - art. R332-14-1 (V)
-	  - Code des assurances - art. R332-14-2 (V)
-	  - Code des assurances - art. R332-15 (V)
-	  - Code des assurances - art. R332-16 (V)
-	  - Code des assurances - art. R332-17 (VD)
-	  - Code des assurances - art. R332-19 (VT)
-	  - Code des assurances - art. R332-2-1 (V)
-	  - Code des assurances - art. R332-20 (V)
-	  - Code des assurances - art. R332-20-1 (V)
-	  - Code des assurances - art. R332-20-2 (VT)
-	  - Code des assurances - art. R332-3 (VD)
-	  - Code des assurances - art. R332-3-1 (VD)
-	  - Code des assurances - art. R332-4 (M)
-	  - Code des assurances - art. R332-46 (V)
-	  - Code des assurances - art. R332-52 (V)
-	  - Code des assurances - art. R332-53 (V)
-	  - Code des assurances - art. R332-56 (V)
-	  - Code des assurances - art. R332-57 (V)
-	  - Code des assurances - art. R332-7 (M)
-	  - Code des assurances - art. R332-7-1 (M)
-	  - Code des assurances - art. R334-11 (VD)
-	  - Code des assurances - art. R334-3 (VD)
-	  - Code des assurances - art. R342-4 (V)
-	  - Code des assurances - art. R343-11 (VD)
-	  - Code des assurances - art. R343-12 (V)
-	  - Code des assurances - art. R343-2 (Ab)
-	  - Code des assurances - art. R343-9 (VD)
-	  - Code des assurances - art. R370-3 (V)
-	  - Code des assurances - art. R421-47 (V)
-	  - Code des assurances - art. R422-5 (V)
-	  - Code des assurances - art. R424-6 (V)
-	  - Code des assurances - art. R427-5 (V)
-	  - Code des assurances - art. R431-35 (V)
-	  - Code des assurances - art. R431-57 (V)
-	  - Code des assurances - art. R441-7-1 (V)
-	  - Code rural - art. D361-3 (V)
-	  - Code rural - art. R*361-3 (T)
-	  - Code rural et de la pêche maritime - art. D361-5 (V)
-
-	**Cite**:
-
-	  - Loi n°88-1201 1988-12-23
-	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
-	  - Code des assurances - art. R*331-1 (M)
-	  - Code des assurances - art. R332-1-1 (V)
-	  - Code des assurances R332-1, R332-1-1, R332-3-3 à R332-10, R331-1, R332-14, R332-15, R332-12, R332-13, R332-16
-
-	**Modifié par**:
-
-	  - Décret n°96-581 du 27 juin 1996 - art. 1 () JORF 29 juin 1996
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. A332-2 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R332-16 (M)
-
-
 ###### Article R*332-3-1
 
 Rapportée au montant défini à l'article R. 332-3, la valeur au bilan des actifs mentionnés ci-après ne peut excéder, sauf
@@ -29301,6 +29125,189 @@ ne dépassant pas 7 p. 100 des éléments d'actifs existant dans l'ensemble des 
 	**Cite**:
 
 	  - Code des assurances - art. R*332-1 (M)
+
+
+###### Article R332-2
+
+En application des dispositions de l'article R. 332-1 et sous réserve des dérogations prévues à ce même article, à l'article
+R. 332-1-1 ainsi qu'aux articles R. 332-3-3 à R. 332-10, les engagements réglementés mentionnés à l'article R. 331-1 sont
+représentés par les actifs suivants :
+
+A. - Valeurs mobilières et titres assimilés :
+
+1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres de l'Organisation de coopération et de
+développement économique (O.C.D.E.) ainsi que les titres émis par la caisse d'amortissement de la dette sociale instituée par
+l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations émises ou garanties par un organisme international à
+caractère public dont un ou plusieurs Etats membres de la Communauté européenne font partie ; obligations émises ou garanties
+par les collectivités publiques territoriales d'un Etat membre de l'O.C.D.E. ;
+
+2° Obligations, parts de fonds communs de créance et titres participatifs inscrits à la cote d'une bourse de valeurs d'un
+Etat membre de l'O.C.D.E., autres que celles ou ceux visés au 1° ;
+
+2° bis Titres de créances négociables (certificats de dépôt, billets de trésorerie, bons des institutions et des sociétés
+financières spécialisées) émis par des personnes morales autres que les Etats membres de l'O.C.D.E., ayant leur siège social
+sur le territoire de ces Etats, à condition que ces titres soient négociés sur un marché réglementé en fonctionnement
+régulier d'un Etat membre de l'O.C.D.E. ;
+
+3° Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement dont l'objet est limité à
+la gestion d'un portefeuille de valeurs mentionnées aux 1°, 2° et 2° bis du présent article, dans les conditions fixées par
+l'article R. 332-14 ;
+
+4° Actions et autres valeurs mobilières, inscrites à la cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E., autres
+que celles visées aux 3°, 5°, 5° bis, 8° et 9° bis ;
+
+5° Actions des entreprises d'assurance, de réassurance, de capitalisation ayant leur siège social sur le territoire de l'un
+des Etats membres de l'O.C.D.E. ;
+
+5° bis Actions des entreprises d'assurance, de réassurance, de capitalisation autres que celles visées au 5° ;
+
+6° Actions, parts et droits émis par des sociétés commerciales et obligations, titres participatifs et titres subordonnés
+émis par les sociétés d'assurance mutuelles, ayant leur siège social sur le territoire de l'un des Etats membres de
+l'O.C.D.E., autres que les valeurs visées aux 2°, 2° bis, 3°, 4°, 5°, 5° bis, 8° et 9° bis ;
+
+7° Parts des fonds communs de placement à risques du chapitre IV de la loi n° 88-1201 du 23 décembre 1988 ;
+
+8° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement, autres que celles
+mentionnées aux 3° et 7°, dans les conditions fixées par l'article R. 332-14.
+
+B. - Actifs immobiliers :
+
+9° Droits réels immobiliers afférents à des immeubles situés sur le territoire de l'un des Etats membres de l'O.C.D.E. ;
+
+9° bis Parts ou actions des sociétés à objet strictement immobilier, parts des sociétés civiles à objet strictement foncier,
+ayant leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E., inscrites ou non inscrites à la cote d'une
+bourse de valeurs d'un Etat membre de l'O.C.D.E., dans les conditions fixées par l'article R. 332-15.
+
+C. - Prêts et dépôts :
+
+10° Prêts obtenus ou garantis par les Etats membres de l'O.C.D.E., par les collectivités publiques territoriales et les
+établissements publics des Etats membres de l'O.C.D.E. ;
+
+11° Prêts hypothécaires aux personnes physiques ou morales ayant leur domicile ou leur siège social sur le territoire de l'un
+des Etats membres de l'O.C.D.E., dans les conditions fixées par l'article R. 332-12 ;
+
+12° Autres prêts ou créances représentatives de prêts consentis aux personnes physiques ou morales ayant leur domicile ou
+leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées par l'article R.
+332-13 ;
+
+13° Dépôts, dans les conditions fixées par l'article R. 332-16.
+
+Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdits placements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cité par**:
+
+	  - Décret n°79-823 du 21 septembre 1979 - art. 3 (Ab)
+	  - Décret n°86-1111 du 15 octobre 1986 - art. 5 (Ab)
+	  - Décret n°92-183 du 26 février 1992 - art. 16 (Ab)
+	  - Décret n°95-1115 du 17 octobre 1995 - art. 8 (Ab)
+	  - Décret n°2000-142 du 18 février 2000 - art. 11 (V)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 29 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 35 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 37 (Ab)
+	  - Décret  n°2007-243 du 23 février 2007 - art. 4 (V)
+	  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
+	  - Décret n°2007-243 du 23 février 2007 - art. 5 (V)
+	  - Décret n°2009-527 du 12 mai 2009 - art. 7 (V)
+	  - Décret n°2016-1781 du 19 décembre 2016 - art. 1
+	  - Code de l'environnement - art. R561-9 (V)
+	  - Code de la mutualité - art. Annexe à l'article A223-6-1 (V)
+	  - Code de la mutualité - art. R223-1 (V)
+	  - Code de la santé publique - art. R3122-16 (MMN)
+	  - Code de la sécurité sociale. - art. R932-3-1 (V)
+	  - Code des assurances - art. A132-6 (V)
+	  - Code des assurances - art. A322-5 (Ab)
+	  - Code des assurances - art. A331-2 (V)
+	  - Code des assurances - art. A332-1 (Ab)
+	  - Code des assurances - art. A332-1 bis (Ab)
+	  - Code des assurances - art. A332-2 (Ab)
+	  - Code des assurances - art. A332-3 (Ab)
+	  - Code des assurances - art. A332-4 (M)
+	  - Code des assurances - art. A332-7 (V)
+	  - Code des assurances - art. A333-5 (Ab)
+	  - Code des assurances - art. A344-15 (Ab)
+	  - Code des assurances - art. A344-8 (M)
+	  - Code des assurances - art. A431-5 (M)
+	  - Code des assurances - art. A432-10 (Ab)
+	  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
+	  - Code des assurances - art. Annexe art. A132-4 (VD)
+	  - Code des assurances - art. R*332-11 (M)
+	  - Code des assurances - art. R*332-8 (M)
+	  - Code des assurances - art. R*420-47 (T)
+	  - Code des assurances - art. R*431-17 (M)
+	  - Code des assurances - art. R*431-23 (M)
+	  - Code des assurances - art. R*431-42 (Ab)
+	  - Code des assurances - art. R131-1 (V)
+	  - Code des assurances - art. R131-3 (V)
+	  - Code des assurances - art. R134-14 (V)
+	  - Code des assurances - art. R142-14 (Ab)
+	  - Code des assurances - art. R332-1 (M)
+	  - Code des assurances - art. R332-10-3 (VT)
+	  - Code des assurances - art. R332-12 (V)
+	  - Code des assurances - art. R332-13 (V)
+	  - Code des assurances - art. R332-14 (V)
+	  - Code des assurances - art. R332-14-1 (V)
+	  - Code des assurances - art. R332-14-2 (V)
+	  - Code des assurances - art. R332-15 (V)
+	  - Code des assurances - art. R332-16 (V)
+	  - Code des assurances - art. R332-17 (VD)
+	  - Code des assurances - art. R332-19 (VT)
+	  - Code des assurances - art. R332-2-1 (V)
+	  - Code des assurances - art. R332-20 (V)
+	  - Code des assurances - art. R332-20-1 (V)
+	  - Code des assurances - art. R332-20-2 (VT)
+	  - Code des assurances - art. R332-3 (VD)
+	  - Code des assurances - art. R332-3-1 (VD)
+	  - Code des assurances - art. R332-4 (M)
+	  - Code des assurances - art. R332-46 (V)
+	  - Code des assurances - art. R332-52 (V)
+	  - Code des assurances - art. R332-53 (V)
+	  - Code des assurances - art. R332-56 (V)
+	  - Code des assurances - art. R332-57 (V)
+	  - Code des assurances - art. R332-7 (M)
+	  - Code des assurances - art. R332-7-1 (M)
+	  - Code des assurances - art. R334-11 (VD)
+	  - Code des assurances - art. R334-3 (VD)
+	  - Code des assurances - art. R342-4 (V)
+	  - Code des assurances - art. R343-11 (VD)
+	  - Code des assurances - art. R343-12 (V)
+	  - Code des assurances - art. R343-2 (Ab)
+	  - Code des assurances - art. R343-9 (VD)
+	  - Code des assurances - art. R370-3 (V)
+	  - Code des assurances - art. R421-47 (V)
+	  - Code des assurances - art. R422-5 (V)
+	  - Code des assurances - art. R424-6 (V)
+	  - Code des assurances - art. R427-5 (V)
+	  - Code des assurances - art. R431-35 (V)
+	  - Code des assurances - art. R431-57 (V)
+	  - Code des assurances - art. R441-7-1 (V)
+	  - Code rural - art. D361-3 (V)
+	  - Code rural - art. R*361-3 (T)
+	  - Code rural et de la pêche maritime - art. D361-5 (V)
+
+	**Cite**:
+
+	  - Loi n°88-1201 1988-12-23
+	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
+	  - Code des assurances - art. R*331-1 (M)
+	  - Code des assurances - art. R332-1-1 (V)
+	  - Code des assurances R332-1, R332-1-1, R332-3-3 à R332-10, R331-1, R332-14, R332-15, R332-12, R332-13, R332-16
+
+	**Modifié par**:
+
+	  - Décret n°97-248 du 14 mars 1997 - art. 3 () JORF 20 mars 1997
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. A332-2 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R332-16 (M)
 
 
 ###### Article R332-3
