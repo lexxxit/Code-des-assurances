@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-08-05
+Version Consolidée au 2004-08-17
 
 # Partie législative
 
@@ -1804,6 +1804,28 @@ ouragans ou cyclones, dans les conditions du contrat correspondant.
 	  - Code des assurances - art. L125-1 (V)
 
 
+###### Article L122-8
+
+Dans le cas où les dommages garantis par un contrat d'assurance procèdent d'un incendie de forêt, l'assureur peut, s'il est
+établi que l'assuré ne s'est pas conformé aux obligations découlant des articles L. 322-3 à L. 322-10 du code forestier,
+pratiquer, en sus des franchises prévues le cas échéant au contrat, une franchise supplémentaire d'un montant maximum de 5
+000 euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2004-811 du 13 août 2004 - art. 10 () JORF 17 août 2004
+
+	**Cite**:
+
+	  - Code forestier L322-3 à L322-10
+
+
 #### Chapitre III : Les assurances contre la grêle et la mortalité du bétail.
 
 ###### Article L123-1
@@ -2077,7 +2099,12 @@ prendre pour prévenir ces dommages n'ont pu empêcher leur survenance ou n'ont 
 
 L'état de catastrophe naturelle est constaté par arrêté interministériel qui détermine les zones et les périodes où s'est
 située la catastrophe ainsi que la nature des dommages résultant de celle-ci couverts par la garantie visée au premier alinéa
-du présent article.
+du présent article. Cet arrêté précise, pour chaque commune ayant demandé la reconnaissance de l'état de catastrophe
+naturelle, la décision des ministres. Cette décision est ensuite notifiée à chaque commune concernée par le représentant de
+l'Etat dans le département, assortie d'une motivation. L'arrêté doit être publié au Journal officiel dans un délai de trois
+mois à compter du dépôt des demandes à la préfecture. De manière exceptionnelle, si la durée des enquêtes diligentées par le
+représentant de l'Etat dans le département est supérieure à deux mois, l'arrêté est publié au plus tard deux mois après la
+réception du dossier par le ministre chargé de la sécurité civile.
 
 Les cavités souterraines considérées peuvent être naturelles ou d'origine humaine. Dans ce dernier cas, sont exclus de
 l'application du présent chapitre les dommages résultant de l'exploitation passée ou en cours d'une mine.
@@ -2124,25 +2151,28 @@ l'application du présent chapitre les dommages résultant de l'exploitation pas
 
 	**Modifié par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 71 () JORF 31 juillet 2003
+	  - Loi n°2004-811 du 13 août 2004 - art. 11 () JORF 17 août 2004
 
 
 ###### Article L125-2
 
 Les entreprises d'assurance doivent insérer dans les contrats mentionnés à l'article L. 125-1 une clause étendant leur
-garantie aux dommages visés au troisième alinéa dudit article.
+garantie aux dommages visés au troisième alinéa dudit article. 
 
 La garantie ainsi instituée ne peut excepter aucun des biens mentionnés au contrat ni opérer d'autre abattement que ceux qui
-seront fixés dans les clauses types prévues à l'article L. 125-3.
+seront fixés dans les clauses types prévues à l'article L. 125-3. 
 
 Elle est couverte par une prime ou cotisation additionnelle, individualisée dans l'avis d'échéance du contrat visé à
 l'article L. 125-1 et calculée à partir d'un taux unique défini par arrêté pour chaque catégorie de contrat. Ce taux est
-appliqué au montant de la prime ou cotisation principale ou au montant des capitaux assurés, selon la catégorie de contrat.
+appliqué au montant de la prime ou cotisation principale ou au montant des capitaux assurés, selon la catégorie de contrat. 
 
-Les indemnisations résultant de cette garantie doivent être attribuées dans un délai de trois mois à compter de la date de
-remise de l'état estimatif des biens endommagés ou des pertes subies, sans préjudice de dispositions contractuelles plus
-favorables, ou de la date de publication, lorsque celle-ci est postérieure, de la décision administrative constatant l'état
-de catastrophe naturelle.
+Les indemnisations résultant de cette garantie doivent être attribuées aux assurés dans un délai de trois mois à compter de
+la date de remise de l'état estimatif des biens endommagés ou des pertes subies, sans préjudice de dispositions
+contractuelles plus favorables, ou de la date de publication, lorsque celle-ci est postérieure, de la décision administrative
+constatant l'état de catastrophe naturelle. Les indemnisations résultant de cette garantie ne peuvent faire l'objet d'aucune
+franchise non prévue explicitement par le contrat d'assurance. Les franchises éventuelles doivent également être mentionnées
+dans chaque document fourni par l'assureur et décrivant les conditions d'indemnisation. Ces conditions doivent être rappelées
+chaque année à l'assuré. 
 
 En tout état de cause, une provision sur les indemnités dues au titre de cette garantie doit être versée à l'assuré dans les
 deux mois qui suivent la date de remise de l'état estimatif des biens endommagés ou des pertes subies, ou la date de
@@ -2175,11 +2205,11 @@ publication, lorsque celle-ci est postérieure, de la décision administrative c
 
 	**Modifié par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 70 () JORF 31 juillet 2003
+	  - Loi n°2004-811 du 13 août 2004 - art. 12 () JORF 17 août 2004
 
 	**Cite**:
 
-	  - Code des assurances - art. L125-1 (M)
+	  - Code des assurances - art. L125-1 (V)
 	  - Code des assurances - art. L125-3 (V)
 
 
