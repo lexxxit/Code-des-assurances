@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-03-24
+Version Consolidée au 1991-04-27
 
 # Partie législative
 
@@ -26780,7 +26780,7 @@ des finances, après avis du conseil national des assurances.
 
 ##### Section III : Provisions techniques des autres opérations d'assurance.
 
-###### Article R*331-6
+###### Article R331-6
 
 Les provisions techniques correspondant aux autres opérations d'assurance sont les suivantes :
 
@@ -26802,10 +26802,14 @@ encore mises à la charge des entreprises ;
 l'avant-dernier alinéa de l'article R. 331-1, pour les opérations d'assurance contre les risques de maladie et d'invalidité
 et égale à la différence des valeurs actuelles des engagements respectivement pris par l'assureur et par les assurés ;
 
-6° Provision pour égalisation : provision destinée à faire face aux charges exceptionnelles afférentes aux opérations
-garantissant les risques dus à des éléments naturels, le risque atomique et les risques de responsabilité civile dus à la
-pollution, et calculée dans les conditions fixées par l'article 2 de la loi n° 74-1114 du 27 décembre 1974 et par le décret
-n° 75-768 du 13 août 1975.
+6° Provision pour égalisation :
+
+a) Provision destinée à faire face aux charges exceptionnelles afférentes aux opérations garantissant les risques dus à des
+éléments naturels, le risque atomique et les risques de responsabilité civile dus à la pollution, et calculée dans les
+conditions fixées par l'article 2 de la loi n° 74-1114 du 27 décembre 1974 et par le décret n° 75-768 du 13 août 1975 ;
+
+b) Provision destinée à compenser en assurance-crédit la perte technique éventuelle apparaissant à la fin de l'exercice, et
+calculée dans les conditions fixées à l'article R. 331-33.
 
 7° Provision mathématique des réassurances : provision à constituer par les entreprises mentionnées au 5° de l'article L.
 310-1 qui acceptent en réassurance des risques cédés par des entreprises d'assurance sur la vie ou d'assurance nuptialité-
@@ -26823,6 +26827,7 @@ national des assurances.
 	  - Décret n°75-768 1975-08-13
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. R*331-1 (M)
+	  - Code des assurances - art. R331-33 (V)
 
 	**Codifié par**:
 
@@ -26836,11 +26841,14 @@ national des assurances.
 	  - Code des assurances - art. A331-17 (V)
 	  - Code des assurances - art. A332-7 (M)
 	  - Code des assurances - art. R*331-22 (Ab)
-	  - Code des assurances - art. R331-33 (VT)
 	  - Code des assurances - art. R332-2 (M)
 	  - Code des assurances - art. R332-20 (M)
 	  - Code des assurances - art. R332-39 (V)
 	  - Code des assurances - art. R333-1 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°91-398 du 25 avril 1991 - art. 1 () JORF 27 avril 1991
 
 
 ##### Paragraphe 1 : Provision mathématique des rentes
@@ -27710,6 +27718,94 @@ l'inventaire.
 
 	  - Code des assurances - art. L321-1 (M)
 	  - Code des assurances - art. L321-4 (Ab)
+
+
+##### Paragraphe 7 : Dispositions particulières relatives à l'assurance-crédit.
+
+###### Article R331-33
+
+La provision pour égalisation afférente aux opérations d'assurance-crédit, mentionnée au b du 6° de l'article R. 331-6, est
+alimentée, pour chacun des exercices successifs, par un prélèvement de 75 % sur l'excédent technique éventuel de la branche. 
+
+L'excédent technique, net de cessions, résulte de la différence entre, d'une part, les primes de l'exercice nettes
+d'annulation et diminuées de la dotation aux provisions de primes autres que la provision pour égalisation et, d'autre part,
+le montant des charges de sinistres nettes de recours augmenté des frais directement imputables à cette branche ainsi que
+d'une quote-part des autres charges ventilées selon les modalités fixées par le plan comptable de l'assurance. 
+
+Le prélèvement mentionné au premier alinéa du présent article cesse d'être obligatoire lorsque la provision pour égalisation
+atteint 134 % de la moyenne des primes ou cotisations encaissées annuellement au cours des cinq exercices précédents après
+soustraction des cessions et addition des acceptations en réassurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°91-398 du 25 avril 1991 - art. 2 () JORF 27 avril 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cité par**:
+
+	  - Code des assurances - art. R331-34 (VT)
+	  - Code des assurances - art. R331-35 (VT)
+	  - Code des assurances - art. R331-36 (VT)
+	  - Code des assurances - art. R331-6 (VT)
+	  - Code des assurances - art. R334-26 (VT)
+
+
+###### Article R331-34
+
+Par dérogation aux dispositions de l'article R. 331-33, les entreprises dont l'encaissement de primes ou de cotisations en
+assurance-crédit n'excède pas, au cours de l'exercice, 4 % de leur chiffre d'affaires total et 2 500 000 unités de compte de
+la Communauté économique européenne sont dispensées de constituer la provision pour égalisation afférente à cette branche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°91-398 du 25 avril 1991 - art. 2 () JORF 27 avril 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. R331-33 (V)
+
+
+###### Article R331-35
+
+Les dispositions du b du 6° de l'article R. 331-6, des articles R. 331-33 et R. 331-34, du dernier alinéa du b de l'article
+R. 334-5 et des deux premiers tirets de l'article R. 334-7 ne sont pas applicables aux opérations d'assurance-crédit à
+l'exportation pour le compte ou avec la garantie de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°91-398 du 25 avril 1991 - art. 2 () JORF 27 avril 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-5
+	  - Code des assurances - art. R*334-7
+	  - Code des assurances - art. R331-33
+	  - Code des assurances - art. R331-6 (VT)
 
 
 #### Chapitre II : Réglementation des placements et autres éléments d'actif
@@ -29879,8 +29975,8 @@ Pour la branche mentionnée au 18 de l'article R. 321-1, le montant des sinistre
 déterminé par application de la seconde méthode est le coût résultant pour l'entreprise des interventions effectuées en
 matière d'assistance, y compris les coûts d'assistance directs internes.
 
-Lorsqu'une entreprise pratique principalement un ou plusieurs des risques tempête, grêle, gelée, il est tenu compte pour le
-calcul de la charge moyenne annuelle des sinistres des sept derniers exercices sociaux au lieu des trois derniers.
+Lorsqu'une entreprise pratique principalement un ou plusieurs des risques crédit, tempête, grêle, gelée, il est tenu compte
+pour le calcul de la charge moyenne annuelle des sinistres des sept derniers exercices sociaux au lieu des trois derniers.
 
 **Liens relatifs à cet article**
 
@@ -29888,13 +29984,9 @@ calcul de la charge moyenne annuelle des sinistres des sept derniers exercices s
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-
 	**Modifié par**:
 
-	  - Décret n°88-456 du 27 avril 1988 - art. 7 () JORF 29 avril 1988
+	  - Décret n°91-398 du 25 avril 1991 - art. 3 () JORF 27 avril 1991
 
 	**Cité par**:
 
@@ -29967,18 +30059,24 @@ de l'article R. 321-1 est égal au tiers du montant réglementaire de la marge d
 
 Ce fonds ne peut être inférieur au montant minimal suivant :
 
-- 400.000 unités de compte de la Communauté économique européenne, lorsque l'entreprise est agréée pour pratiquer des
-opérations entrant dans une branche mentionnée aux 10 à 15 de l'article R. 321-1 ;
+- 1 400 000 unités de compte de la Communauté économique européenne si l'entreprise est agréée pour pratiquer des opérations
+entrant dans la branche mentionnée au 14 de l'article R. 321-1 et si le montant annuel des primes ou cotisations émises dans
+cette branche pour chacun des trois derniers exercices a dépassé 2 500 000 unités de compte de la Communauté économique
+européenne ou 4 p. 100 du montant global des primes ou cotisations émises par cette entreprise ;
 
-- 300.000 unités de compte de la Communauté économique européenne, lorsque l'entreprise est agréée pour pratiquer des
-opérations entrant dans une branche mentionnée aux 1 à 8, 16 à 18 du même article ;
+- 400 000 unités de compte de la Communauté économique européenne lorsque l'entreprise est agréée pour pratiquer des
+opérations entrant dans une branche mentionnée aux 10 à 13 et au 15 de l'article R. 321-1. Il en est de même pour les
+opérations entrant dans la branche 14 lorsque les entreprises ne sont pas soumises à l'obligation ci-dessus définie de
+constituer un fonds de garantie de 1 400 000 unités de compte de la Communauté économique européenne.    - 300.000 unités de
+compte de la Communauté économique européenne, lorsque l'entreprise est agréée pour pratiquer des opérations entrant dans une
+branche mentionnée aux 1 à 8, 16 à 18 du même article ;
 
 - 200.000 unités de compte de la Communauté économique européenne, lorsque l'entreprise est agréée pour pratiquer des
 opérations entrant dans une branche mentionnée aux 9 et 17 du même article.
 
-Toutefois, pour les entreprises constituées sous la forme de société à forme mutuelle, de société mutuelle d'assurance ou
-d'union de sociétés mutuelles, ces derniers montants sont respectivement fixés à 300.000, 225.000 et 150.000 unités de compte
-de la Communauté économique européenne.
+Toutefois, pour les entreprises constituées sous la forme de société d'assurance mutuelle ainsi que pour leurs unions, ces
+derniers montants sont respectivement fixés à 1 050 000, 300 000, 225 000 et 150 000 unités de compte de la Communauté
+économique européenne.
 
 Lorsqu'une entreprise est agréée pour pratiquer des opérations entrant dans plusieurs branches, seule est prise en
 considération pour le calcul du fonds de garantie la branche à laquelle correspond le montant le plus élevé.
@@ -29989,13 +30087,10 @@ considération pour le calcul du fonds de garantie la branche à laquelle corres
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-
 	**Modifié par**:
 
-	  - Décret n°88-456 du 27 avril 1988 - art. 8 () JORF 29 avril 1988
+	  - Décret n°91-398 du 25 avril 1991 - art. 4 () JORF 27 avril 1991
+	  - Décret n°91-398 du 25 avril 1991 - art. 5 () JORF 27 avril 1991
 
 	**Cite**:
 
@@ -30012,6 +30107,49 @@ considération pour le calcul du fonds de garantie la branche à laquelle corres
 	  - Code des assurances - art. R334-8 (V)
 	  - Code des assurances - art. R334-9 (VD)
 	  - Code des assurances - art. R334-9-1 (VD)
+
+
+###### Article R334-7-1
+
+Lorsqu'une entreprise pratiquant des opérations entrant dans la branche mentionnée au 14 de l'article R. 321-1 doit porter à
+1 400 000 unités de compte de la Communauté économique européenne le fonds de garantie mentionné à l'article R. 334-7, un
+délai de trois ans, cinq ans et sept ans lui est laissé pour porter le fonds de garantie à, respectivement, 1 000 000, 1 200
+000 et 1 400 000 unités de compte de la Communauté économique européenne.
+
+Le délai court à compter de la date à partir de laquelle les conditions mentionnées au premier tiret du deuxième alinéa de
+l'article R. 334-7 sont remplies.
+
+Le même délai de trois ans, cinq ans et sept ans est laissé, d'une part, aux sociétés constituées sous la forme de société
+d'assurance mutuelle ainsi qu'à leurs unions, mentionnées au troisième alinéa de l'article R. 334-7, pour porter le fonds de
+garantie à, respectivement, 750 000, 900 000 et 1 050 000 unités de compte de la Communauté économique européenne, d'autre
+part, aux entreprises étrangères, mentionnées à l'article R. 334-10, pour porter le fonds de garantie à, respectivement, 500
+000, 600 000 et 700 000 unités de compte de la Communauté économique européenne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
+	  - SPEC_APPLI: Code des assurances - art. R*334-8 (M)
+	  - SPEC_APPLI: Code des assurances - art. R*334-9 (M)
+
+	**Créé par**:
+
+	  - Décret n°91-398 du 25 avril 1991 - art. 6 () JORF 27 avril 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 9 () JORF 24 décembre 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-10 (M)
+	  - Code des assurances - art. R*334-7 (M)
+	  - Code des assurances R321-1, R334-7, R334-10
 
 
 ###### Article R334-8
