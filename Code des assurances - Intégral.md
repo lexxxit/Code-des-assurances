@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1999-01-20
+Version Consolidée au 1999-01-29
 
 # Partie législative
 
@@ -17216,6 +17216,32 @@ mutuelles régionales d'assurance maladie et maternité des travailleurs non sal
 
 	  - Code de la sécurité sociale. - art. L611-3 (V)
 	  - Code des assurances - art. L310-1 (VT)
+
+
+## Livre V : Intermédiaires d'assurance
+
+### Titre Ier : Intermédiation en assurance.
+
+#### Chapitre IV : Contrôle des conditions d'accès et d'exercice
+
+##### Section IV : Dispositions diverses et pénalités.
+
+###### Article L514
+
+Les associations souscriptrices bénéficiant d'une dérogation aux règles de présentation d'opérations d'assurance qui se
+livrent à la présentation de produits d'assurance sont tenues de déclarer à la Commission de contrôle des assurances leur
+activité et le type de produits qu'elles présentent. Elles informent celle-ci de toute modification dans la nature de leur
+activité ainsi que de la cessation de leur activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 43 () JORF 29 janvier 1999
 
 
 ## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation
