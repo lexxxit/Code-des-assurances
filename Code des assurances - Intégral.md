@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1979-11-30
+Version Consolidée au 1980-04-15
 
 # Partie législative
 
@@ -17897,7 +17897,7 @@ En aucun cas ces distributions ne peuvent avoir pour effet de réduire à moins 
 
 ###### Article R*322-33
 
-Dans la limite de 5 % du montant du capital social, des actions des sociétés centrales d'assurance sont offertes en une ou
+Dans la limite de 15 % du montant du capital social, des actions des sociétés centrales d'assurance sont offertes en une ou
 plusieurs fois :
 
 - aux membres du personnel et aux agents généraux des entreprises nationales qui en feront la demande. En ce qui concerne les
@@ -17910,20 +17910,19 @@ d'épargne d'entreprise ;
 - aux organismes de retraite et de prévoyance qui auront été spécialement agréés à cet effet par le ministre de l'économie et
 des finances.
 
-Les demandeurs de ces différentes catégories ne peuvent se porter acquéreurs d'actions qu'à concurrence de quantités fixées
-par arrêté du ministre de l'économie et des finances.
-
-Les actions sont cédées en tenant compte à la fois des prix proposés et des quantités demandées.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-605 1973-07-04 art. 4
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°80-267 1980-04-09 art. 1 JORF 15 avril 1980
+
+	**Abrogé par**:
+
+	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
 
 	**Liens**:
 
@@ -18012,29 +18011,33 @@ Les actions cédées à titre onéreux en application de l'article R. 322-33, so
 
 ###### Article R*322-36
 
-Le nombre maximal d'actions d'une société centrale d'assurance qui peuvent être inscrites au nom d'une même personne est fixé
-à 250.
+Aucune personne physique ne peut posséder un nombre d'actions représentant plus de 0,05 % du capital d'une société centrale
+d'assurance.
 
 Aucune des personnes morales mentionnées à l'article L. 322-24 ne peut posséder un nombre d'actions représentant plus de 1 %
 du capital d'une société d'assurance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°73-605 1973-07-04 art. 8
-
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Code des assurances - art. L322-24 (M)
+	  - Décret n°80-267 1980-04-09 art. 2 JORF 15 avril 1980
+
+	**Abrogé par**:
+
+	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
 
 	**Cite**:
 
 	  - Code des assurances - art. L322-24 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L322-24 (M)
 
 
 ##### Paragraphe 4 : Dispositions diverses.
