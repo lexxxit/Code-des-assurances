@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1993-07-01
+Version Consolidée au 1993-07-04
 
 # Partie législative
 
@@ -8902,6 +8902,34 @@ livre.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances L328-2 *sanctions pénales*
+
+
+###### Article L310-10-1
+
+Pour l'application du présent livre, à l'exception du titre V et de l'article L. 321-1-1, les entreprises ayant leur siège
+social dans la Confédération helvétique et mentionnées aux 5° et 7° de l'article L. 310-1 sont soumises aux mêmes
+dispositions que les entreprises qui ont leur siège social dans un Etat des communautés européennes autre que la France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°92-665 du 16 juillet 1992 - art. 33 () JORF 17 juillet 1992 en vigueur le 4 juillet 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L321-1-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L310-2 (V)
+	  - Code des assurances - art. R310-10-1 (VD)
+	  - Code des assurances - art. R334-32 (V)
 
 
 ###### Article L310-11
@@ -19947,6 +19975,31 @@ des finances tout changement de titulaire concernant les fonctions de président
 	  - Code des assurances R321-17-1 (1ère version)
 
 
+###### Article R310-10-1
+
+Pour l'application du présent livre, à l'exception du titre V, les entreprises ayant leur siège social dans la Confédération
+helvétique et mentionnées aux 5° et 7° de l'article L. 310-1 sont soumises aux mêmes dispositions que les entreprises qui ont
+leur siège dans un Etat membre des communautés européennes autre que la France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 1 () JORF 26 mars 1993 en vigueur le 4 juillet 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R334-32 (V)
+
+
 ##### Section II : Commission de contrôle des assurances.
 
 ###### Article R310-11
@@ -20957,43 +21010,6 @@ qualité et d'engager les souscripteurs ou syndicats de souscripteurs intéress�
 	**Cite**:
 
 	  - Code des assurances R310-1, R511-1 à R511-4
-
-
-###### Article R321-12
-
-En ce qui concerne les entreprises dont le siège social est établi sur le territoire d'un Etat membre de la Communauté
-économique européenne, l'agrément administratif sollicité pour pratiquer l'une des branches ou sous-branches mentionnées aux
-1 à 18 et 20 à 28, de l'article R. 321-1, ne peut être refusé pour des motifs relatifs aux besoins économiques du marché.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application*
-
-	**Modifié par**:
-
-	  - Décret n°88-456 du 27 avril 1988 - art. 2 () JORF 29 avril 1988
-
-	**Abrogé par**:
-
-	  - Décret n°93-469 du 23 mars 1993 - art. 1 () JORF 26 mars 1993 en vigueur le 4 juillet 1993
-
-	**Cité par**:
-
-	  - Décret n°93-469 du 23 mars 1993 - art. 2 (V)
-	  - Code des assurances - art. R334-10 (VT)
-	  - Code des assurances - art. R334-16 (VT)
-	  - Code des assurances - art. R334-21 (V)
-	  - Code des assurances - art. R334-23 (VT)
-
-	**Cite**:
-
-	  - Code des assurances R321-1
 
 
 ###### Article R321-14
@@ -30126,6 +30142,30 @@ solvabilité globale, l'entreprise perd le bénéfice des dispositions de l'arti
 
 ##### Section V : Dispositions transitoires relatives à la marge de solvabilité
 
+###### Article R334-32
+
+Les entreprises mentionnées à l'article R. 310-10-1, agréées à la date du 4 juillet 1993 pour pratiquer sur le territoire de
+la République française une ou plusieurs des branches mentionnées à l'article R. 321-1, et qui satisfont aux dispositions
+réglementaires permanentes relatives aux provisions techniques, à la marge de solvabilité et au fonds de garantie, peuvent
+obtenir de la commission de contrôle des assurances la suppression des mesures restrictives, telles qu'hypothèques, dépôts ou
+cautionnements, qui leur avaient été imposées en vertu de la réglementation qui leur était précédemment applicable.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+
+	**Modifié par**:
+
+	  - Décret n°93-469 1993-03-23 art. 6 I, II JORF 26 mars 1993 en vigueur le 4 juillet 1993
+	  - Décret n°93-469 du 23 mars 1993 - art. 6 () JORF 26 mars 1993 en vigueur le 4 juillet 1993
+
+	**Cite**:
+
+	  - Code des assurances R310-10-1, R321-1
+
+
 ##### Paragraphe 1 : Dispositions transitoires relatives à la marge de solvabilité des entreprises d'assurance de dommages.
 
 ###### Article R334-30
@@ -30165,60 +30205,7 @@ solvabilité est au moins égale au montant réglementaire.
 	  - Code des assurances R321-1
 
 
-###### Article R334-32
-
-Les entreprises dont le siège social est établi sur le territoire d'un Etat membre de la communauté économique européenne
-agréées à la date du 23 juillet 1976 pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de l'article R.
-321-1, et qui satisfont aux dispositions réglementaires permanentes relatives aux provisions techniques, à la marge de
-solvabilité, et au fonds de garantie peuvent obtenir de la commission de contrôle des assurances la suppression des mesures
-restrictives, telles qu'hypothèques, dépôts ou cautionnements, qui leur avaient été précédemment imposées en vertu de la
-réglementation en vigueur avant le 23 juillet 1976.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 12 *date d'effet*
-
-	**Modifié par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-
 ##### Paragraphe 2 : Dispositions transitoires relatives à la marge de solvabilité des entreprises d'assurance sur la vie.
-
-###### Article R*334-36
-
-Les entreprises dont le siège social est établi sur le territoire d'un Etat membre de la communauté économique européenne
-agréées à la date de publication du présent décret pour pratiquer une ou plusieurs des branches mentionnées aux 20 à 26 de
-l'article R. 321-1, et qui satisfont aux dispositions réglementaires permanentes relatives aux provisions mathématiques, à la
-marge de solvabilité et au fonds de garantie, peuvent obtenir de la commission de contrôle des assurances la suppression des
-mesures restrictives, telles qu'hypothèques, dépôts ou cautionnements, qui leur avaient été précédemment imposées en vertu de
-la réglementation en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 12 *champ d'application*
-
-	**Abrogé par**:
-
-	  - Décret n°93-469 du 23 mars 1993 - art. 6 () JORF 26 mars 1993 en vigueur le 4 juillet 1993
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
 
 ###### Article R334-38
 
