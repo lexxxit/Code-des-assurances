@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-11-21
+Version Consolidée au 1985-12-31
 
 # Partie législative
 
@@ -10663,16 +10663,21 @@ Le fonds contribue au financement d'actions de prévention des désordres et de 
 
 La gestion du fonds est confiée à la caisse centrale de réassurance.
 
-Le fonds est alimenté par une contribution à la charge des entreprises d'assurance. Son assiette est constituée par les
-primes ou cotisations d'assurance correspondant aux garanties d'assurance obligatoire des dommages à la construction, ainsi
-qu'aux garanties d'assurance décennale souscrites par toute personne, qu'elle soit ou non liée au maître de l'ouvrage par un
-contrat de louage d'ouvrage, pour couvrir sa responsabilité dans des travaux de bâtiment.
+Le fonds est alimenté par une contribution des assurés assise sur les primes ou cotisations d'assurance émises à compter du
+1er janvier 1986 et correspondant aux garanties d'assurance obligatoire des dommages à la construction ainsi qu'aux garanties
+d'assurance décennale souscrite par toute personne, qu'elle soit ou non liée au maître d'ouvrage par un contrat de louage
+d'ouvrage, pour couvrir sa responsabilité dans les travaux de bâtiment.
 
-Le taux de la contribution est de 5 % en ce qui concerne les primes ou cotisations d'assurance des entreprises artisanales et
-de 15 % pour les autres primes ou cotisations d'assurance.
+Les contrats couvrant les chantiers ouverts à compter du 1er janvier 1986 et comportant des garanties autres que celles
+visées à l'alinéa précédent doivent distinguer la partie de la prime ou cotisation afférente à ces dernières garanties.
+
+Le taux de la contribution est de 8,5 % en ce qui concerne les primes ou cotisations d'assurance payées par les entreprises
+artisanales et de 25,5 % en ce qui concerne les autres primes ou cotisations d'assurance.
 
 Cette contribution est recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur
 les conventions d'assurance prévue aux articles 991 et suivants du code général des impôts.
+
+Les ressources du fonds peuvent également provenir d'emprunts.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
@@ -10686,9 +10691,10 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+	  - Loi n°85-1404 1985-12-30 art. 26 I, II finances rectificative pour 1985 JORF 31 décembre 1985
+	  - Loi n°85-1404 du 30 décembre 1985 - art. 26 () JORF 31 décembre 1985
 
 	**Cité par**:
 
@@ -12761,30 +12767,23 @@ ministre chargé de l'économie et des finances ; son secrétariat est assuré p
 
 #### Chapitre II : Les assurances sur la vie
 
-##### Section II : Les assurances populaires.
+##### Section I : Dispositions générales.
 
 ###### Article R132-1
 
-En matière d'assurance populaire sur la vie, le montant maximal qu'il est possible à une entreprise d'assurer sur une même
-tête en un ou plusieurs contrats est fixé :
-
-1° Pour les capitaux : à une fois et demie le plafond annuel des rémunérations ou gains soumis à cotisations de sécurité
-sociale ;
-
-2° Pour les rentes annuelles : à 10 % du montant fixé au 1° ci-dessus.
-
-Dans le cas de contrats comportant à la fois des garanties en cas de vie et en cas de décès, le montant maximal autorisé
-s'applique au capital assuré en cas de vie.
+Pour tout contrat d'assurance sur la vie comportant une valeur de rachat, cette valeur de rachat est égale à la provision
+mathématique du contrat diminuée, éventuellement, d'une indemnité qui ne peut dépasser 5 p. 100 de cette provision
+mathématique. Cette indemnité doit être nulle à l'issue d'une période de dix ans à compter de la date d'effet du contrat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-126 1971-02-09 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-1447 du 30 décembre 1985 - art. 2 () JORF 31 décembre 1985
 
 	**Liens**:
 
@@ -12794,6 +12793,8 @@ s'applique au capital assuré en cas de vie.
 
 	  - Code des assurances - art. R132-2 (M)
 
+
+##### Section II : Les assurances populaires.
 
 ###### Article R132-2
 
@@ -40585,8 +40586,8 @@ quatre semaines au moins et deux mois au plus ;
 
 b) Soit de l'exercice à temps complet pendant six mois au moins de fonctions relatives à la production ou à l'application de
 contrats d'assurances, dans les services intérieurs ou extérieurs d'une entreprise mentionnée à l'article L. 310-1, d'un
-courtier ou d'une société de courtage d'assurances, d'un agent général d'assurances, ainsi que de l'accomplissement d'un
-stage professionnel d'une durée minimale de cent heures, effectué en quatre semaines au moins et deux mois au plus ;
+courtier ou d'une société de courtage d'assurances, d'un agent général d'assurances, ainsi que de l'application d'un stage
+professionnel d'une durée minimale de cent heures, effectué en quatre semaines au moins et deux mois au plus ;
 
 c) Soit de l'accomplissement d'un stage professionnel d'une durée minimale de trois cents heures, effectué en huit semaines
 au moins et six mois au plus. Dans ce cas, il est vérifié au début du stage que les candidats ont un niveau suffisant de
@@ -40595,13 +40596,13 @@ l'article R. 514-5.
 
 Ces durées de trois cents heures, huit semaines et six mois sont remplacées respectivement par :
 
-Cent cinquante heures, quatre semaines et trois mois pour les assurances sur la vie, à l'exception des assurances populaires
-définies à l'article L. 132-28 ;
+- cent cinquante heures, quatre semaines et trois mois pour les assurances sur la vie ;
 
-Cent heures, trois semaines et deux mois pour les assurances populaires et la capitalisation. Les dispositions prévues aux a,
-b, c et d ci-dessus sont également applicables aux personnes mentionnées au 3° de l'article R. 512-2, ainsi qu'aux
-secrétaires trésoriers de sociétés ou caisses locales d'assurances mutuelles agricoles autres que ceux mentionnés au dernier
-alinéa de l'article R. 513-1.
+- cent heures, trois semaines et deux mois pour la capitalisation.
+
+Les dispositions prévues aux a, b et c ci-dessus sont également applicables aux personnes mentionnées au 3° de l'article R.
+512-2, ainsi qu'aux secrétaires trésoriers de sociétés ou caisses locales d'assurances mutuelles agricoles autres que ceux
+mentionnés au dernier alinéa de l'article R. 513-1.
 
 **Liens relatifs à cet article**
 
@@ -40611,14 +40612,7 @@ alinéa de l'article R. 513-1.
 
 	**Modifié par**:
 
-	  - Décret n°84-298 du 20 avril 1984 - art. 1 () JORF 25 avril 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-298 du 20 avril 1984 - art. 3 (V)
-	  - TXT_SOURCE: Code des assurances - art. A513-2 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. A513-2 (M)
-	  - SPEC_APPLI: Code des assurances - art. R513-2 (Ab)
+	  - Décret n°85-1447 du 30 décembre 1985 - art. 1 () JORF 31 décembre 1985
 
 	**Cité par**:
 
@@ -40630,9 +40624,14 @@ alinéa de l'article R. 513-1.
 	  - Code des assurances - art. R514-7-1 (Ab)
 	  - Code des assurances - art. R515-3 (Ab)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. A513-2 (Ab)
+	  - TXT_ASSOCIE: Code des assurances - art. A513-2 (M)
+	  - SPEC_APPLI: Code des assurances - art. R513-2 (Ab)
+
 	**Cite**:
 
-	  - Code des assurances - art. L132-28 (M)
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. R*511-2 (M)
 	  - Code des assurances - art. R*512-2 (M)
