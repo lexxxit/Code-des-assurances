@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1987-10-13
+Version Consolidée au 1987-11-17
 
 # Partie législative
 
@@ -19327,50 +19327,6 @@ l'assemblée générale. La réalité de ces opérations est constatée par le m
 	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
 
 
-###### Article R*322-14
-
-Le capital de la société centrale des Assurances générales de France est divisé en un million d'actions, celui de la société
-centrale du Groupe des assurances nationales en 850.000 actions et celui de la société centrale de l'Union des assurances de
-Paris en 1.680.000 actions.
-
-Le capital social et le nombre des actions des sociétés centrales peuvent être modifiés selon les règles de droit commun
-applicables aux sociétés commerciales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-605 1973-07-04 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°87-917 1987-11-10 art. 1 JORF 17 novembre 1987
-
-
-###### Article R*322-15
-
-Les sociétés centrales n'emploient aucun salarié. Les frais afférents à leur fonctionnement sont supportés par les sociétés
-du groupe. Elles ne peuvent bénéficier d'aucun produit autre que les dividendes des sociétés du groupe.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-605 1973-07-04 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°87-917 1987-11-10 art. 1 JORF 17 novembre 1987
-
-
 ##### Paragraphe 2 : Administration.
 
 ###### Article R*322-16
@@ -20090,28 +20046,6 @@ nationales, les moyens nécessaires :
 	**Abrogé par**:
 
 	  - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-
-###### Article R*322-41
-
-La cession de toute participation financière détenue par une entreprise nationale d'assurance doit, nonobstant toute
-disposition contraire, faire l'objet d'une approbation par arrêté du ministre de l'économie et des finances dans tous les cas
-où la cession a pour effet de faire perdre à l'entreprise détentrice de la participation financière la majorité dans le
-capital de l'entreprise qui a bénéficié de cette participation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1206 1962-10-15 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°87-917 1987-11-10 art. 1 JORF 17 novembre 1987
 
 
 ##### Section IV : Sociétés d'assurance à forme mutuelle
