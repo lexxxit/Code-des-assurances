@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1998-07-03
+Version Consolidée au 1998-09-11
 
 # Partie législative
 
@@ -30039,7 +30039,7 @@ perte, celle-ci doit être provisionnée pour son montant prévisible.
 
 ###### Article R332-19
 
-Les valeurs amortissables énumérées aux 1°, 2° et 2° bis de l'article R. 332-2, autres que les obligations indexées, les
+I Les valeurs amortissables énumérées aux 1°, 2° et 2° bis de l'article R. 332-2, autres que les obligations indexées, les
 parts de fonds communs de créance et les titres participatifs, sont inscrites à leur prix d'achat à la date d'acquisition.
 
 Lorsque le prix d'achat de ces titres est supérieur à leur prix de remboursement, la différence est amortie sur la durée de
@@ -30053,23 +30053,25 @@ avant cette date.
 Le prix d'achat et le prix de remboursement s'entendent hors intérêt couru.
 
 Lors de l'arrêté comptable, les moins-values latentes ressortant de la différence entre la valeur comptable, diminuée des
-amortissements et majorée des produits mentionnés aux deuxième et troisième alinéas du présent article, et la valeur de
-réalisation des titres correspondants évaluée conformément à l'article R. 332-20-1, ne font pas l'objet d'une provision.
+amortissements et majorée des produits mentionnés aux deuxième et troisième alinéas du I, et la valeur de réalisation des
+titres correspondants évaluée conformément à l'article R. 332-20-1, ne font pas l'objet d'une provision.
 
 Néanmoins, lorsqu'il y a lieu de considérer que le débiteur ne sera pas en mesure de respecter ses engagements, soit pour le
 paiement des intérêts, soit pour le remboursement du principal, une provision pour dépréciation doit être constituée à
 l'inventaire.
+
+II. - Le I du présent article s'applique également aux obligations indexées sur le niveau général des prix, avec garantie de
+remboursement au pair et émises ou garanties par un Etat, un organisme ou une collectivité publics mentionnés au 1° du A de
+l'article R. 332-2. La différence entre le prix d'achat d'une obligation indexée sur le niveau général des prix et son prix
+de remboursement est constatée linéairement sur la durée résiduelle du titre. Le prix de remboursement s'entend du prix de
+remboursement initial multiplié par le rapport entre l'indice de référence à la date considérée et ce même indice à la date
+d'émission du titre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°94-481 du 8 juin 1994 - art. 1 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
-	  - Décret n°94-481 du 8 juin 1994 - art. 3 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -30096,6 +30098,11 @@ l'inventaire.
 	  - Code des assurances - art. R342-6 (Ab)
 	  - Code des assurances - art. R343-2 (Ab)
 	  - Code des assurances - art. R344-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-805 du 9 septembre 1998 - art. 1 () JORF 11 septembre 1998
+	  - Décret n°98-805 du 9 septembre 1998 - art. 2 () JORF 11 septembre 1998
 
 
 ###### Article R332-20
@@ -68100,6 +68107,10 @@ Lors de l'entrée en portefeuille des titres soumis à la réserve de capitalisa
 calculé en tenant compte du prix d'acquisition, des probabilités, dates d'échéances et montants, nets de tous impôts, des
 coupons, des lots et autres avantages accessoires attachés à ces titres, et des valeurs de remboursement.
 
+Pour les obligations visées au II de l'article R. 332-19, le calcul s'effectue en prenant pour valeur de remboursement la
+valeur de remboursement initiale multipliée par le rapport entre l'indice de référence à la date considérée et ce même indice
+à la date d'émission du titre.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -68110,10 +68121,18 @@ coupons, des lots et autres avantages accessoires attachés à ces titres, et de
 
 	  - Arrêté 1976-07-16
 
+	**Modifié par**:
+
+	  - Arrêté 1998-09-09 art. 1 I JORF 11 septembre 1998
+
 	**Cité par**:
 
 	  - Code des assurances - art. A333-3 (V)
 	  - Code des assurances - art. A333-4 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-19 (M)
 
 	**Liens**:
 
@@ -68126,6 +68145,9 @@ Lors de la vente ou de la conversion d'une obligation, l'opération est appliqu�
 
 En cas de vente ou de conversion d'un titre, on se réfère à la date d'acquisition de ce titre, pour calculer, en fonction de
 son taux actuariel mentionné à l'article A. 333-2, sa valeur actuelle au jour de la vente ou de la conversion.
+
+Pour les obligations visées au II de l'article R. 332-19, la valeur actuelle ainsi calculée est multipliée par le rapport
+entre l'indice de référence à la date de la vente ou de la conversion et ce même indice à la date d'acquisition.
 
 Lorsque le prix de vente est supérieur à la valeur actuelle, l'excédent est versé à la réserve de capitalisation ; lorsqu'il
 est inférieur à la valeur actuelle, la différence est prélevée sur la réserve de capitalisation, dans la limite du montant de
@@ -68141,19 +68163,23 @@ celle-ci.
 
 	  - Arrêté 1976-07-16
 
+	**Modifié par**:
+
+	  - Arrêté 1998-09-09 art. 1 II JORF 11 septembre 1998
+
 	**Cité par**:
 
 	  - Arrêté du 22 avril 2004 - art. 14 (Ab)
 	  - Code des assurances - art. A333-4 (V)
 	  - Code des assurances - art. A342-1-1 (V)
 
-	**Cite**:
-
-	  - Code des assurances - art. A333-2 (M)
-
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*333-1 (M)
+
+	**Cite**:
+
+	  - Code des assurances A333-2 et R332-19
 
 
 ###### Article A333-4
