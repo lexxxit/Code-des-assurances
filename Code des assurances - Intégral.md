@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1981-01-08
+Version Consolidée au 1981-01-09
 
 # Partie législative
 
@@ -2210,32 +2210,6 @@ payée, l'assureur est tenu de restituer la portion de prime qu'il a reçue en t
 	  - Loi n°1930-07-13 art. 81
 
 
-###### Article L132-27
-
-En cas de liquidation de biens ou de règlement judiciaire de l'assureur, la créance de chacun des bénéficiaires des contrats
-en cours est arrêtée, au jour du jugement de déclaration de liquidation de biens ou règlement judiciaire, à une somme égale à
-la provision mathématique de chaque contrat, calculée sans aucune majoration sur les bases techniques du tarif des primes en
-vigueur lors de la conclusion du contrat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. L113-6 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 82
-
-	**Abrogé par**:
-
-	  - Loi n°81-5 du 7 janvier 1981 - art. 29 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
-
-
 ##### Section III : Participation des assurés aux bénéfices techniques et financiers.
 
 ###### Article L132-29
@@ -2260,36 +2234,6 @@ réalisent, dans les conditions fixées par arrêté du ministre de l'économie 
 	**Nouveaux textes**:
 
 	  - Code des assurances - art. L331-3 (V)
-
-
-#### Chapitre II : Assurances sur la vie
-
-##### Section I : Dispositions générales.
-
-###### Article L132-2
-
-L'assurance en cas de décès contractée par un tiers sur la tête de l'assuré est nulle, si ce dernier n'y a pas donné son
-consentement par écrit avec indication de la somme assurée.
-
-Le consentement de l'assuré doit, à peine de nullité, être donné par écrit, pour toute cession ou constitution de gage et
-pour le transfert du bénéfice du contrat souscrit sur sa tête par un tiers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 57
-
-	**Cité par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
-	  - Code des assurances - art. L140-1 (T)
-	  - Code des assurances - art. L140-5 (T)
-	  - Code des assurances - art. L141-5 (V)
 
 
 ### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation
