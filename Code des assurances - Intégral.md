@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1996-12-17
+Version Consolidée au 1996-12-26
 
 # Partie législative
 
@@ -45542,6 +45542,68 @@ individuellement à chaque contrat réduit ou suspendu ne peut être inférieure
 
 ##### Section III : Provisions techniques des autres opérations d'assurance
 
+##### Paragraphe 1 : Provision mathématique des rentes.
+
+###### Article A331-10
+
+Les provisions techniques des rentes d'incapacité et d'invalidité issues de contrats d'assurance couvrant des risques visés
+au 3° du premier alinéa de l'article L. 310-1 du code des assurances sont la somme :
+
+1° Des provisions correspondant aux rentes d'incapacité de travail à verser après le 31 décembre de l'exercice au titre des
+sinistres en cours à cette date majorées des provisions dites pour rentes en attente relatives aux rentes d'invalidité
+susceptibles d'intervenir ultérieurement au titre des sinistres d'incapacité en cours au 31 décembre de l'exercice ;
+
+2° Des provisions correspondant aux rentes d'invalidité à verser après le 31 décembre de l'exercice au titre des sinistres
+d'invalidité en cours à cette date.
+
+Le calcul des provisions techniques de prestations d'incapacité de travail et d'invalidité est effectué à partir des éléments
+suivants :
+
+1° Une loi de survie en invalidité définie par la table TD 88-90 homologuée par l'arrêté du 27 avril 1993 réactualisant les
+tables de mortalité ;
+
+Toutefois, il est possible pour une entreprise d'assurances d'utiliser une loi de survie en invalidité établie et certifiée
+par un actuaire indépendant de cette entreprise, agréé à cet effet par l'une des associations d'actuaires reconnues par la
+commission de contrôle des assurances ;
+
+2° Un taux d'actualisation qui ne peut excéder 60 p. 100 du taux moyen des emprunts de l'Etat français calculé sur base
+semestrielle, sans pouvoir dépasser 3,5 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1954-07-07 art. 1
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1993-03-19 art. 2, art. 3 JORF 20 mars 1993
+	  - Arrêté 1996-05-17 art. 1 JORF 23 mai 1996
+	  - Arrêté 1996-12-20 art. 1 JORF 26 décembre 1996
+
+	**Cite**:
+
+	  - Arrêté 1993-04-27
+	  - Code des assurances - art. L310-1 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1993-04-27 annexe (tables de mortalité TD 88-90 et TV 88-90)
+	  - SPEC_APPLI: Arrêté 1996-12-20 art. 2 (répartition sur cinq ans des bases de calcul des provisions techniques pour les entreprises d'assurances)
+	  - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2004 - art. 15 (Ab)
+	  - Arrêté du 22 avril 2004 - art. 7 (Ab)
+	  - Code des assurances - art. A331-11 (Ab)
+	  - Code des assurances - art. A331-13 (Ab)
+
+
 ##### Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours.
 
 ###### Article A331-17
@@ -45591,91 +45653,6 @@ l'entreprise, autoriser l'utilisation d'un taux inférieur.
 ##### Section III : Provisions techniques des autres opérations d'assurance
 
 ##### Paragraphe 1 : Provision mathématique des rentes.
-
-###### Article A331-11
-
-Par dérogation aux dispositions du premier alinéa de l'article A 331-10, le montant minimal des provisions de rentes
-d'accidents du travail constituées antérieurement au 1er janvier 1954 doit être évalué :
-
-1° D'après le barème annexé à l'arrêté du 29 décembre 1920 si la constitution a été effectuée avant le 1er janvier 1920 ;
-
-2° D'après le barème annexé à l'arrêté du 29 décembre 1919 si la constitution a été effectuée du 1er janvier 1920 au 31
-décembre 1921 ;
-
-3° D'après le barème annexé à l'arrêté du 27 février 1922 si la constitution a été effectuée du 1er janvier 1922 au 31
-décembre 1932 ;
-
-4° D'après le barème annexé à l'arrêté du 27 décembre 1932 si la constitution a été effectuée du 1er janvier 1933 au 4 mai
-1942.
-
-Les indications de ces barèmes doivent être majorées de 5 p. 100 pour frais de gestion et frais de paiement ;
-
-5° D'après le barème annexé à l'arrêté du 23 novembre 1942 si la constitution a été effectuée du 5 mai 1942 au 31 décembre
-1944.
-
-Les indications de ce barème doivent être majorées de 2,50 p. 100 pour frais de gestion et frais de paiement ;
-
-6° D'après le barème annexé à l'arrêté du 29 décembre 1944 si la constitution a été effectuée du 1er janvier 1945 au 31
-décembre 1947 ;
-
-7° D'après le barème annexé à l'arrêté du 21 janvier 1948 si la constitution a été effectuée du 1er janvier 1948 au 31
-décembre 1949 ;
-
-8° D'après le barème annexé à l'arrêté du 8 juin 1950 si la constitution a été effectuée du 1er janvier 1950 au 31 décembre
-1953.
-
-Par dérogation aux dispositions du premier alinéa de l'article A 331-10, le montant minimal des provisions de rentes autres
-que des rentes d'accidents du travail doit, lorsque l'accident est survenu antérieurement au 1er janvier 1954, être évalué :
-
-1° D'après la table de mortalité AF ;
-
-2° Suivant les taux d'intérêt ci-dessous :
-
-4,25 p. 100 si l'accident est antérieur au 1er janvier 1942 ;
-
-3,50 p. 100 si l'accident est survenu entre le 1er janvier 1942 et le 31 décembre 1944 ;
-
-3 p. 100 si l'accident est survenu entre le 1er janvier 1945 et le 31 décembre 1947 ;
-
-3,50 p. 100 si l'accident est survenu entre le 1er janvier 1948 et le 31 décembre 1949.
-
-3° D'après la table de mortalité CR et le taux de 4,25 p. 100 si l'accident est survenu entre le 1er janvier 1950 et le 31
-décembre 1953.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1919-12-29 annexe
-	  - Arrêté 1920-12-29 annexe
-	  - Arrêté 1922-02-27 annexe
-	  - Arrêté 1932-12-27 annexe
-	  - Arrêté 1942-11-23 annexe
-	  - Arrêté 1944-12-29 annexe
-	  - Arrêté 1948-01-21 annexe
-	  - Arrêté 1950-06-08 annexe
-	  - Code des assurances - art. A331-10 (M)
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1993-03-19 art. 2, art. 4 JORF 20 mars 1993
-
-	**Abrogé par**:
-
-	  - Arrêté 1996-12-20 art. 3 JORF 26 décembre 1996
-
-	**Cité par**:
-
-	  - Arrêté du 20 décembre 1996 - art. 3 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
-
 
 ###### Article A331-12
 
