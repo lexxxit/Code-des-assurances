@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-07-19
+Version Consolidée au 1994-07-26
 
 # Partie législative
 
@@ -17154,6 +17154,44 @@ nécessaires pour garantir la protection des assurés.
 
 ### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes.
 
+#### Chapitre Ier : Dispositions générales.
+
+###### Article R111-1
+
+Une opération relevant des branches mentionnées aux 3,8,9,10,13 et 16 de l'article R. 321-1 est considérée comme couvrant un
+grand risque pour l'application de l'article L. 111-6 si le souscripteur remplit au moins deux des trois conditions
+suivantes : 
+
+1° Le total de son dernier bilan est supérieur à 6,2 millions d'unités de compte de la Communauté économique européenne ; 
+
+2° Le montant de son chiffre d'affaires du dernier exercice est supérieur à 12,8 millions d'unités de compte de la Communauté
+économique européenne ; 
+
+3° Le nombre de personnes qu'il a employées en moyenne au cours du dernier exercice est supérieur à 250. 
+
+Si le souscripteur fait partie d'un ensemble d'entreprises soumises à une obligation de consolidation comptable, les seuils
+mentionnés aux 1°, 2° et 3° ci-dessus sont appliqués sur une base consolidée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 17 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L111-6 (V)
+	  - Code des assurances - art. R321-1 (V)
+
+
 #### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.
 
 ###### Article R112-1
@@ -17623,42 +17661,6 @@ cinq immeubles d'une valeur minimale globale de 100 millions de francs, estimée
 #### Chapitre II : Les assurances sur la vie et les opérations de capitalisation
 
 ##### Section I : Dispositions générales.
-
-###### Article R132-1
-
-Pour tout contrat d'assurance sur la vie comportant une valeur de rachat et pour les contrats de capitalisation, la valeur de
-rachat est égale à la provision mathématique du contrat diminuée, éventuellement, d'une indemnité qui ne peut dépasser 5 p.
-100 de cette provision mathématique. Cette indemnité doit être nulle à l'issue d'une période de dix ans à compter de la date
-d'effet du contrat.
-
-Pour l'application du présent article, la provision mathématique ne tient pas compte des éventuelles garanties de fidélité
-non exigibles par l'assuré au moment du rachat. Ces garanties doivent être explicitement décrites dans le contrat et
-clairement distinguées de la garantie qui en est l'objet principal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°93-382 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
-	  - Décret n°93-385 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
-	  - Décret n°93-383 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L132-28 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R132-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R331-5 (3ème version)
-
 
 ###### Article R132-2
 
@@ -20934,264 +20936,41 @@ cinq jours suivant une décision, un nouvel examen de l'affaire dans le délai q
 
 ##### Section I : Dispositions générales.
 
-###### Article R*310-1
-
-Les entreprises qui font l'objet du contrôle de l'Etat prévu par l'article L. 310-1 sont soumises à la surveillance de
-commissaires-contrôleurs assermentés, recrutés dans les conditions déterminées par décret en Conseil d'Etat, qui peuvent, à
-toute époque, vérifier sur place toutes les opérations, indépendamment de toute personne exceptionnellement déléguée à cet
-effet par le ministre de l'économie et des finances. Ils prêtent serment de ne pas divulguer les secrets commerciaux dont ils
-auraient connaissance dans l'exercice de leurs fonctions.
-
-Toute personne physique ou morale ayant reçu d'une entreprise d'assurance ou de capitalisation un mandat de souscription ou
-de gestion, ainsi que toute personne physique ou morale exerçant, à quelque titre que ce soit, le courtage d'assurances peut,
-sur décision du ministre de l'économie et des finances, être soumise aux vérifications des commissaires-contrôleurs ; ces
-vérifications portent sur l'application de la réglementation de contrôle prévue pour l'industrie de l'assurance et sur
-l'emploi des fonds détenus à l'occasion d'opérations d'assurance ou de capitalisation.
-
-Les infractions au présent code peuvent être constatées par procès-verbaux des commissaires-contrôleurs. Ces procès-verbaux
-font foi jusqu'à preuve contraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 1 () JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L310-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R310-17
-
-
-###### Article R*310-2
-
-Les commissaires-contrôleurs mentionnés à l'article R. 310-1 sont spécialement accrédités auprès des entreprises d'assurance
-ou de capitalisation.
-
-Les commissaires-contrôleurs vérifient tous les livres, registres, contrats, bordereaux, procés-verbaux, pièces comptables ou
-documents quelconques relatifs à la situation de l'entreprise et à toutes les opérations qu'elle pratique ; Ils effectuent
-toutes vérifications de caisse et de portefeuille.
-
-Ces entreprises doivent mettre à la disposition des commissaires-contrôleurs dans les services du siège ou, si ces
-fonctionnaires le demandent, dans les agences tous les documents nécessaires aux opérations mentionnées à l'alinéa précédent,
-ainsi que le personnel qualifié pour leur fournir les renseignements qu'ils jugent nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 3 () JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances R310-1
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R310-18
-
-
-###### Article R*310-3
-
-Dans les départements d'outre-mer et dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, de Saint-
-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis-et-Futuna, le ministre de l'économie et des
-finances peut, à titre exceptionnel ou permanent, déléguer à un comptable supérieur du Trésor en fonctions dans l'un de ces
-départements ou territoires, les attributions dévolues aux commissaires-contrôleurs par l'article R. 310-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances R310-1
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R310-19
-
-
 ###### Article R*310-5
 
 Les titres de toute nature, les prospectus, les affiches, les circulaires, les plaques, les imprimés et tous les autres
-documents destinés à être distribués au public ou publiés par une entreprise mentionnée à l'article L. 310-1 doivent porter,
-à la suite du nom ou de la raison sociale, la mention ci-après en caractères uniformes :
-
-"entreprise régie par le code des assurances". Ils ne doivent contenir aucune allusion au contrôle de l'Etat, ni aucune
-assertion susceptible d'induire en erreur sur la véritable nature de l'entreprise ou l'importance réelle de ses engagements.
+documents destinés à être distribués au public ou publiés par une entreprise mentionnée aux 1°, 3° et 4° de l'article L.
+310-2 doivent porter, à la suite du nom ou de la raison sociale, la mention ci-après en caractères uniformes : "entreprise
+régie par le code des assurances". Ils ne doivent contenir aucune allusion au contrôle de l'Etat, ni aucune assertion
+susceptible d'induire en erreur sur la véritable nature de l'entreprise ou l'importance réelle de ses engagements.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Décret n°76-667 1976-07-16
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
 
 	**Cité par**:
 
 	  - Code des assurances - art. R310-22 (V)
 
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 35
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-
-###### Article R*310-6
-
-I. - Les entreprises pratiquant des opérations d'assurance ou de capitalisation sur le territoire de la République française
-doivent, avant de commercialiser un contrat d'assurance ou de capitalisation, transmettre au ministre chargé de l'économie et
-des finances une fiche l'informant de leur intention et comportant le nom commercial du contrat, l'énoncé des garanties
-offertes et la date de commercialisation prévue.
-
-Pendant un délai de dix jours à compter de la réception de la fiche mentionnée au précédent alinéa, le ministre peut exiger
-la communication des documents à caractère contractuel ou publicitaire destinés au public.
-
-Dans le cas où le ministre exige la communication de ces documents, il dispose d'un délai de vingt jours à compter de leur
-réception pour en prescrire, le cas échéant, la modification. A l'expiration de ce délai ou à l'expiration du délai de dix
-jours susmentionné si la communication n'a pas été demandée, les documents peuvent être diffusés.
-
-II. - Les dispositions des deuxième et troisième alinéas du I ci-dessus ne sont pas applicables aux grands risques mentionnés
-au deuxième alinéa de l'article L. 351-4 et à l'article R. 351-1. Les entreprises couvrant des risques de cette nature sont
-tenues, à la demande du ministre chargé de l'économie et des finances, de communiquer leurs documents à caractère contractuel
-ou publicitaire destinés au public, sans que cette exigence puisse constituer une condition préalable à l'exercice de leur
-activité.
-
-III. - Les entreprises mentionnées au premier alinéa du I ci-dessus doivent communiquer au ministre de l'économie et des
-finances, dès la commercialisation de tout contrat d'assurance et de capitalisation, les notes d'information prévues aux
-articles L. 132-5-1 et L. 150-1 du présent code.
-
-IV. - Les documents transmis au ministre chargé de l'économie et des finances en application des dispositions du présent
-article doivent être rédigés en langue française.
-
-Les entreprises mentionnées à l'article L. 310-1 doivent, avant usage, communiquer au ministre de l'économie, des finances et
-du budget qui peut prescrire toutes rectifications ou modifications nécessitées par la réglementation en vigueur, cinq
-exemplaires des conditions générales de leurs polices, propositions, bulletins de souscription, prospectus et imprimés
-destinés à être distribués au public ou publiés ou remis aux porteurs de contrats ou adhérents.
-
-Les entreprises françaises doivent, avant de soumettre à l'assemblée générale des modifications à leurs statuts, obtenir le
-visa du ministre de l'économie, des finances et du budget qui statue dans les trois mois du dépôt de trois spécimens des
-projets de modifications aux statuts. A l'expiration de ce délai, en l'absence d'observation du ministre, le visa est
-considéré comme accordé. Ce délai est réduit à quarante-cinq jours pour les augmentations de capital social.
-
-Les entreprises pratiquant les opérations mentionnées aux 1°, 2°, 3°, 4° ou 6° de l'article L. 310-1, doivent, avant
-d'appliquer leurs tarifs, obtenir le visa du ministre de l'économie, des finances et du budget qui statue dans les trois mois
-du dépôt de trois spécimens de tarifs. Les demandes de visa des tarifs applicables aux contrats d'assurance sur la vie
-comportant des clauses spéciales relatives aux risques de décès accidentel et d'invalidité doivent être accompagnées des
-justifications techniques relatives aux dites clauses.
-
-Les entreprises pratiquant les opérations mentionnées aux 5° et 7° de l'article L. 310-1, doivent, à titre d'information,
-donner communication au ministre de l'économie, des finances et du budget, deux mois avant la date d'application envisagée,
-des bases des tarifs qu'elles se proposent d'utiliser sur le territoire de la République française.
-
-Les visas accordés par le ministre de l'économie, des finances et du budget par application des dispositions du présent
-article n'impliquent qu'une absence d'opposition de la part du ministre, aux dates auxquelles ils sont donnés ; ils peuvent
-toujours être révoqués après avis du Conseil national des assurances.
-
-Les entreprises sont tenus d'envoyer au ministre de l'économie, des finances et du budget, dans le délai qu'il détermine, la
-traduction en langue française, certifiée conforme, de tous les documents se rapportant à leurs opérations et non rédigés
-dans cette langue.
-
-Toutefois en ce qui concerne les grands risques mentionnés aux articles L. 351-4 et R. 351-1, les dispositions des premier,
-quatrième, cinquième et sixième alinéas ne sont pas applicables. Le ministre chargé de l'économie et des finances peut, pour
-toute entreprise couvrant des grands risques, demander la communication des conditions générales des polices, propositions,
-bulletins de souscriptions, prospectus destinés à être distribués au public sans que cette exigence puisse constituer pour
-l'entreprise une condition préalable à l'exercice de son activité. Lorsque cette communication est demandée, les entreprises
-sont tenues de respecter les dispositions de l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°91-617 du 28 juin 1991 - art. 1 () JORF 30 juin 1991
-
-	**Abrogé par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-
-	**Cité par**:
-
-	  - Code des assurances - art. Annexe à l'article A121-1 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L132-5-1 (M)
-	  - Code des assurances - art. L150-1 (M)
-	  - Code des assurances - art. L351-4 (M)
-	  - Code des assurances - art. R351-1 (M)
-
-	**Anciens textes**:
-
-	  - Code des assurances R310-6 (4ème version)
-
-
-###### Article R*310-9
-
-Les modalités d'application du présent livre aux sociétés de dépôt mentionnées au 6° de l'article L. 310-1 sont fixées par
-décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-
-	**Modifié par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 6 () JORF 28 juin 1991
-
-	**Abrogé par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
 
 ###### Article R*310-10
 
-L'autorité administrative mentionnée aux articles L. 310-7 et L. 310-9, est le ministre de l'économie et des finances.
+L'autorité administrative mentionnée à l'article L. 310-9, est le ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
@@ -21199,17 +20978,12 @@ L'autorité administrative mentionnée aux articles L. 310-7 et L. 310-9, est le
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 6 () JORF 28 juin 1991
+	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-7 (M)
 	  - Code des assurances - art. L310-9 (M)
 
 
@@ -21275,9 +21049,8 @@ des finances tout changement de titulaire concernant les fonctions de président
 
 ###### Article R310-10-1
 
-Pour l'application du présent livre, à l'exception du titre V, les entreprises ayant leur siège social dans la Confédération
-helvétique et mentionnées aux 5° et 7° de l'article L. 310-1 sont soumises aux mêmes dispositions que les entreprises qui ont
-leur siège dans un Etat membre des communautés européennes autre que la France.
+Pour l'application des titres Ier à IV, les entreprises visées au 2° de l'article L. 310-10-1 sont assimilées aux entreprises
+ayant leur siège social dans un Etat non communautaire partie à l'accord sur l'Espace économique européen.
 
 **Liens relatifs à cet article**
 
@@ -21285,13 +21058,17 @@ leur siège dans un Etat membre des communautés européennes autre que la Franc
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-469 du 23 mars 1993 - art. 1 () JORF 26 mars 1993 en vigueur le 4 juillet 1993
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-10-1 (M)
 
 	**Cité par**:
 
@@ -21299,6 +21076,47 @@ leur siège dans un Etat membre des communautés européennes autre que la Franc
 
 
 ##### Section II : Commission de contrôle des assurances.
+
+###### Article R*310-21
+
+Lorsque la commission de contrôle des assurances décide, en application de l'article L. 310-18, d'engager vis-à-vis d'une
+entreprise la procédure de transfert d'office de son portefeuille de contrats d'assurance, cette décision est portée à la
+connaissance de l'ensemble des entreprises d'assurance par un avis publié au Journal officiel. Cet avis fait courir un délai
+de quinze jours pendant lesquels les entreprises qui accepteraient de prendre en charge le portefeuille en cause doivent se
+faire connaître à la commission.
+
+L'entreprise désignée par la commission de contrôle des assurances pour prendre en charge le portefeuille de contrats
+d'assurances transféré est avisée de cette désignation par lettre recommandée avec demande d'avis de réception.
+
+La décision qui prononce le transfert en fixe les modalités et la date de prise d'effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Transféré par**:
+
+	  - Décret n°94-635 1994-07-25 art. 3 I, III JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 3 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-18 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances R324-4 (2ème version)
+
 
 ###### Article R310-11
 
@@ -21435,11 +21253,204 @@ demande d'avis de réception.
 	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
 
 
+###### Article R310-17
+
+Les entreprises qui font l'objet du contrôle de l'Etat prévu par l'article L. 310-1 sont soumises à la surveillance de
+commissaires-contrôleurs assermentés, recrutés dans les conditions déterminées par décret en Conseil d'Etat, qui peuvent, à
+toute époque, vérifier sur place toutes les opérations, indépendamment de toute personne exceptionnellement déléguée à cet
+effet par la commission de contrôle des assurances. Ils prêtent serment de ne pas divulguer les secrets commerciaux dont ils
+auraient connaissance dans l'exercice de leurs fonctions.
+
+Les infractions au présent code peuvent être constatées par procès-verbaux des commissaires-contrôleurs. Ces procès-verbaux
+font foi jusqu'à preuve contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Transféré par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-3 (Ab)
+	  - Code des assurances - art. A310-4 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances R310-1 (2ème version)
+
+
+###### Article R310-18
+
+Les commissaires-contrôleurs mentionnés à l'article R. 310-17 sont spécialement accrédités auprès des entreprises d'assurance
+ou de capitalisation visées aux 1°, 3° et 4° de l'article L. 310-2 du présent code.
+
+Les commissaires-contrôleurs vérifient tous les livres, registres, contrats, bordereaux, procés-verbaux, pièces comptables ou
+documents quelconques relatifs à la situation de l'entreprise et à toutes les opérations qu'elle pratique ; Ils effectuent
+toutes vérifications de caisse et de portefeuille. Lorsque la comptabilité est tenue au moyen de systèmes informatisés, les
+commissaires-contrôleurs peuvent effectuer leurs vérifications sur le matériel utilisé par l'entreprise.
+
+Ces entreprises doivent mettre à la disposition des commissaires-contrôleurs dans les services du siège ou, si ces
+fonctionnaires le demandent, dans les agences tous les documents nécessaires aux opérations mentionnées à l'alinéa précédent,
+ainsi que le personnel qualifié pour leur fournir les renseignements qu'ils jugent nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Transféré par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances L310-2, R310-17
+
+	**Anciens textes**:
+
+	  - Code des assurances R310-2 (2ème version)
+
+
+###### Article R310-19
+
+Dans les départements d'outre-mer et dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, de Saint-
+Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis-et-Futuna, le ministre de l'économie et des
+finances peut, à titre exceptionnel ou permanent, déléguer à un comptable supérieur du Trésor en fonctions dans l'un de ces
+départements ou territoires, les attributions dévolues aux commissaires-contrôleurs par l'article R. 310-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Transféré par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances R310-17
+
+	**Anciens textes**:
+
+	  - Code des assurances R310-3
+
+
+###### Article R310-20
+
+I. - Toute entreprise projetant d'exercer des activités en libre prestation de services, conformément aux dispositions du
+quatrième alinéa de l'article L. 310-12, notifie son projet à la commission de contrôle des assurances, accompagné des
+documents dont la liste est fixée par arrêté du ministre chargé de l'économie et des finances.
+
+Si la commission estime que les conditions mentionnées à ce même alinéa sont réunies, elle communique aux autorités
+compétentes de l'Etat membre de prestation de services, dans le délai d'un mois suivant la notification visée au premier
+alinéa du présent paragraphe, un dossier dont la composition est fixée par arrêté du ministre chargé de l'économie et des
+finances et avise l'entreprise de cette communication. L'entreprise peut commencer son activité en libre prestation de
+services dès qu'elle a été avisée.
+
+II. - Tout projet de modification de la nature ou des conditions d'exercice des activités de libre prestation de services
+autorisées conformément aux dispositions du quatrième alinéa de l'article L. 310-12 est notifié à la commission de contrôle
+des assurances.
+
+Si la commission estime que les conditions visées à ce même alinéa sont toujours remplies, elle communique aux autorités
+compétentes de l'Etat membre de libre prestation de services, dans le délai d'un mois suivant la notification visée à
+l'alinéa précédent, un dossier dont la composition est fixée par arrêté du ministre chargé de l'économie et des finances et
+avise l'entreprise concernée de cette communication. La modification envisagée peut intervenir dès réception de cet avis par
+l'entreprise.
+
+III. - Lorsque la commission de contrôle des assurances refuse de communiquer aux autorités compétentes de l'Etat de libre
+prestation de services les informations visées au deuxième alinéa du I et II du présent article, elle en avise l'entreprise
+concernée et lui fait connaître, dans le délai d'un mois mentionné à ce même alinéa, les raisons de ce refus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°94-635 1994-07-25 art. 2 JORF 26 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Abrogé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-3 (M)
+	  - Code des assurances - art. A310-4 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-12 (M)
+
+
+##### Section IV : Sanctions.
+
+###### Article R310-22
+
+Le fait pour tout dirigeant d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1 de méconnaître les
+obligations ou interdictions résultant des articles R. 310-5 et R. 310-18 est puni de la peine d'amende prévue pour les
+contraventions de la cinquième classe.
+
+La récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°94-635 1994-07-25 art. 3 IV, V JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 3 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11 (M)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances L310-1, R310-5, R310-18
+
+
 ### Titre II : Régime administratif
 
 #### Chapitre Ier : Les agréments
 
-##### Section I : Agrément administratif.
+##### Section I : Agrément administratif des entreprises françaises.
 
 ###### Article R*321-1
 
@@ -21582,7 +21593,8 @@ Assistance aux personnes en difficulté, notamment au cours de déplacements.
 
 20. Vie-Décès :
 
-Toute opération comportant des engagements dont l'exécution dépend de la durée de la vie humaine.
+Toute opération comportant des engagements dont l'exécution dépend de la durée de la vie humaine autre que les activités
+visées aux branches 22, 23 et 26.
 
 21. Nuptialité-Natalité :
 
@@ -21612,17 +21624,7 @@ Toute opération consistant à gérer les placements et notamment les actifs rep
 que celles mentionnées à l'article L. 310-1 et qui fournissent des prestations en cas de vie, en cas de décès ou en cas de
 cessation ou de réduction d'activités.
 
-26. Prévoyance collective :
-
-Toute opération à caractère collectif définie à la section I du chapitre Ier du titre IV du livre IV.
-
-27. (mention abrogée).
-
-28. Epargne :
-
-Toute opération d'appel à l'épargne dans le but de réunir des sommes versées par les adhérents, soit en vue de les affecter à
-des comptes de dépôt portant intérêt, soit en vue de la capitalisation en commun, avec participation aux bénéfices d'autres
-sociétés, gérées ou administrées directement ou indirectement.
+26. Toute opération à caractère collectif définie à la section I du chapitre Ier du titre IV du livre IV.
 
 **Liens relatifs à cet article**
 
@@ -21630,11 +21632,17 @@ sociétés, gérées ou administrées directement ou indirectement.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
+	  - TXT_SOURCE: Code des assurances - art. L321-1 (M)
+	  - TXT_ASSOCIE: Code des assurances R322-3
+
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 1 () JORF 15 septembre 1990
-	  - Décret n°90-815 du 14 septembre 1990 - art. 2 () JORF 15 septembre 1990
-	  - Décret n°93-866 du 25 juin 1993 - art. 1 () JORF 27 juin 1993
+	  - Décret n°94-635 1994-07-25 art. 4 I, II JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -21711,11 +21719,140 @@ sociétés, gérées ou administrées directement ou indirectement.
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L321-1 (M)
 
+
+###### Article R*321-3
+
+Toute entreprise obtenant l'agrément administratif pour un risque principal appartenant à une branche mentionnée aux 1 à 18
+de l'article R. 321-1 peut également garantir des risques compris dans une autre branche sans que l'agrément administratif
+soit exigé pour ces risques, lorsque ceux-ci sont liés au risque principal, concernent l'objet couvert contre le risque
+principal et sont garantis par le contrat qui couvre le risque principal.
+
+Toutefois, les risques compris dans les branches mentionnées aux 14, 15 et 17 de l'article R. 321-1 ne peuvent être
+considérés comme accessoires à d'autres branches.
+
+Néanmoins, le risque compris dans la branche 17 peut être considéré comme accessoire à la branche 18 lorsque les conditions
+énoncées au premier alinéa sont remplies et que le risque principal ne concerne que l'assistance.
+
+Ce même risque peut également être considéré comme accessoire dans les mêmes conditions lorsqu'il concerne des litiges ou des
+risques qui résultent de l'utilisation de navires de mer ou qui sont en rapport avec cette utilisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-815 du 14 septembre 1990 - art. 1 () JORF 15 septembre 1990
+	  - Décret n°90-815 du 14 septembre 1990 - art. 4 () JORF 15 septembre 1990
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. Annexe art. A344-3 (suite 4) (Ab)
+	  - Code des assurances - art. R321-10 (VT)
+	  - Code des assurances - art. R321-6 (V)
+	  - Code des assurances - art. R329-1 (VD)
+	  - Code des assurances - art. R334-9 (VD)
+
+	**Cite**:
+
+	  - Code des assurances R321-1
+
+
+###### Article R321-4
+
+Toute décision de refus d'agrément administratif doit être motivée et notifiée par le ministre de l'économie et des finances
+à l'entreprise intéressée.
+
+L'agrément ne peut être refusé, totalement ou partiellement, qu'après avis conforme de la commission des entreprises
+d'assurance mentionnée à l'article L. 411-4, l'entreprise ayant été préalablement mise en demeure par lettre recommandée de
+présenter ses observations par écrit dans un délai de quinzaine.
+
+L'entreprise peut se pourvoir devant le Conseil d'Etat dans les deux mois de la notification du refus d'agrément, total ou
+partiel, ou, en l'absence de notification, à l'expiration d'un délai de six mois à compter du dépôt d'un dossier
+régulièrement constitué de demande d'agrément. Ce délai de six mois est prorogé lorsque le ministre sursoit à une décision
+d'agrément en application des dispositions de l'article L. 321-2.
+
+Le ministre de l'économie et des finances peut appeler à se prononcer à nouveau, dans le délai d'un mois, la commission des
+entreprises d'assurance, dans l'hypothèse où celle-ci n'aurait pas émis un avis conforme à la proposition de refus
+d'agrément. Si la commission des entreprises d'assurance maintient son avis, le ministre peut néanmoins, par dérogation aux
+dispositions du deuxième alinéa du présent article, décider de refuser l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
 	**Liens**:
 
-	  - TXT_SOURCE: Code des assurances - art. L321-1 (M)
-	  - TXT_ASSOCIE: Code des assurances R322-3
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
 
+	**Modifié par**:
+
+	  - Décret n°94-635 1994-07-25 art. 4 I, III JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code des assurances - art. R321-10 (VT)
+	  - Code des assurances - art. R321-14 (V)
+	  - Code des assurances - art. R321-6 (V)
+	  - Code des assurances - art. R329-1 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-2 (M)
+	  - Code des assurances - art. L411-4 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances R321-13 (3ème version)
+
+
+###### Article R321-5
+
+Les entreprises agréées pour pratiquer les branches mentionnées aux 20 et 22 de l'article R. 321-1 peuvent être autorisées à
+réaliser directement, à titre d'assurance accessoire faisant partie d'un contrat d'assurance sur la vie et moyennant paiement
+d'une prime ou cotisation distincte, des assurances complémentaires contre les risques d'atteintes corporelles incluant
+l'incapacité de travail professionnelle, de décès accidentel ou d'invalidité à la suite d'accident ou de maladie. Dans ce
+cas, le contrat doit préciser que ces garanties complémentaires prennent fin au plus tard en même temps que la garantie
+principale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°91-617 du 28 juin 1991 - art. 4 () JORF 30 juin 1991
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - TXT_ASSOCIE: Code des assurances - art. R*321-4 (Ab)
+	  - TXT_SOURCE: Code des assurances R321-4
+
+	**Cité par**:
+
+	  - Code des assurances - art. Annexe art. A344-3 (suite 4) (Ab)
+	  - Code des assurances - art. R321-10 (VT)
+	  - Code des assurances - art. R321-6 (V)
+	  - Code des assurances - art. R329-1 (VD)
+
+	**Cite**:
+
+	  - Code des assurances R321-1
+
+
+##### Section I : Agrément administratif.
 
 ###### Article R*321-2
 
@@ -21755,365 +21892,12 @@ opérations.
 	  - Code des assurances R321-14 (4ème version)
 
 
-###### Article R321-3
-
-Toute entreprise obtenant l'agrément administratif pour un risque principal appartenant à une branche mentionnée aux 1 à 18
-de l'article R. 321-1 peut également garantir des risques compris dans une autre branche sans que l'agrément administratif
-soit exigé pour ces risques, lorsque ceux-ci sont liés au risque principal, concernent l'objet couvert contre le risque
-principal et sont garantis par le contrat qui couvre le risque principal.
-
-Toutefois, les risques compris dans les branches mentionnées aux 14 et 15 de l'article R. 321-1 ne peuvent être considérés
-comme accessoires à d'autres branches.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-
-	**Modifié par**:
-
-	  - Décret n°88-456 du 27 avril 1988 - art. 2 () JORF 29 avril 1988
-
-	**Cité par**:
-
-	  - Code des assurances - art. Annexe art. A344-3 (suite 4) (Ab)
-	  - Code des assurances - art. R321-10 (VT)
-	  - Code des assurances - art. R321-6 (V)
-	  - Code des assurances - art. R329-1 (VD)
-	  - Code des assurances - art. R334-9 (VD)
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-
-###### Article R321-5
-
-Les entreprises agréées pour pratiquer les branches mentionnées aux 20 et 22 de l'article R. 321-1 peuvent être autorisées à
-réaliser directement, à titre d'assurance accessoire faisant partie d'un contrat d'assurance sur la vie et moyennant paiement
-d'une prime ou cotisation distincte, des assurances complémentaires contre les risques d'atteintes corporelles incluant
-l'incapacité de travail professionnelle, de décès accidentel ou d'invalidité à la suite d'accident ou de maladie. Dans ce
-cas, le contrat doit préciser que ces garanties complémentaires prennent fin au plus tard en même temps que la garantie
-principale.
-
-Les demandes de visa des tarifs d'assurance sur la vie comportant les assurances complémentaires contre les risques
-mentionnés au premier alinéa, que les entreprises sont tenues de présenter conformément à l'article R. 310-6, doivent être
-accompagnées des justifications techniques relatives à ces garanties accessoires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
-	  - TXT_ASSOCIE: Code des assurances - art. R*321-4 (Ab)
-	  - TXT_SOURCE: Code des assurances R321-4
-
-	**Modifié par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 1 () JORF 15 septembre 1990
-	  - Décret n°90-815 du 14 septembre 1990 - art. 6 () JORF 15 septembre 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. Annexe art. A344-3 (suite 4) (Ab)
-	  - Code des assurances - art. R321-10 (VT)
-	  - Code des assurances - art. R321-6 (V)
-	  - Code des assurances - art. R329-1 (VD)
-
-	**Cite**:
-
-	  - Code des assurances R321-1, R310-6
-
-
-##### Section III : Conditions des agréments.
-
-###### Article R*321-6-1
-
-Lors de l'examen du dossier d'agrément, le ministre chargé de l'économie et des finances prend en considération la
-qualification et l'expérience professionnelle des personnes mentionnées au I, f, de l'article R. 321-6. Celles-ci doivent
-produire un état descriptif de leurs activités. Elles indiquent notamment :
-
-1. La nature de leurs activités professionnelles actuelles et de celles qu'elles ont exercées pendant les dix années
-précédant la demande d'agrément ;
-
-2. Si elles ont fait l'objet, soit de sanctions disciplinaires prises par une autorité de contrôle ou une organisation
-professionnelle compétente, soit d'un refus d'inscription sur une liste professionnelle ;
-
-3. Si elles ont fait l'objet d'un licenciement ou d'une mesure équivalente pour faute ;
-
-4. Si elles ont exercé des fonctions d'administrateur ou de direction dans des entreprises ayant fait l'objet de mesures de
-redressement ou de liquidation judiciaires prévues par la loi n° 85-98 du 25 janvier 1985 ou, dans le régime antérieur, de
-mesures prévues par la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les
-banqueroutes, ou de mesures équivalentes à l'étranger.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°67-563 1967-07-13
-	  - Loi n°85-98 1985-01-25
-	  - Code des assurances R321-6
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
-
-	**Créé par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 8 () JORF 15 septembre 1990
-
-	**Abrogé par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
-
-
-###### Article R*321-7
-
-I. - Toute demande d'agrément administratif présentée par une entreprise étrangère dont le siège social est établi sur le
-territoire d'un Etat membre de la Communauté économique européenne doit être produite en double exemplaire et comporter,
-outre les documents prévus aux a, e et f de l'article R. 321-6 :
-
-a) Le bilan, le compte d'exploitation générale et le compte général de pertes et profits pour chacun des trois derniers
-exercices sociaux. Toutefois, lorsque l'entreprise compte moins de trois exercices sociaux, ces documents ne doivent être
-fournis que pour les exercices clôturés.
-
-En ce qui concerne le Lloyd's de Londres, à la communication du bilan, du compte d'exploitation générale et du compte général
-de pertes et profits se substitue l'obligation de présenter les comptes globaux annuels concernant les opérations
-d'assurance, accompagnés de l'attestation que les certificats de commissaires aux comptes ont été fournis pour chaque
-assureur, prouvant que les engagements résultant de ces opérations sont entièrement couverts par l'actif ;
-
-b) un certificat de solvabilité délivré par l'autorité de contrôle du siège social, énumérant les branches que l'entreprise
-est habilitée à pratiquer ainsi que les risques qu'elle garantit effectivement, attestant qu'elle dispose du montant minimal
-du fonds de garantie ou, s'il est plus élevé, du montant réglementaire de la marge de solvabilité et indiquant qu'elle
-possède les moyens financiers nécessaires aux frais d'installation des services administratifs et du réseau de production ;
-
-c) la désignation d'une personne physique ou morale ayant la qualité de mandataire général et satisfaisant aux conditions
-fixées par décret en Conseil d'Etat.
-
-Ce mandataire ne peut être récusé par le ministre de l'économie et des finances que pour des raisons touchant à
-l'honorabilité ou à la qualification technique, dans des conditions identiques à celles qui sont applicables aux dirigeants
-des entreprises françaises ;
-
-d) Un programme d'activités comprenant les pièces mentionnées au g, 1 à 6, de l'article R. 321-6.
-
-Le programme d'activités doit comporter en outre l'état de la marge de solvabilité de l'entreprise ; le ministre de
-l'économie et des finances demande l'avis de l'autorité de contrôle de l'Etat où l'entreprise a son siège social sur ce
-programme d'activités et, en l'absence de réponse à l'expiration d'un délai de trois mois à compter de la réception du
-programme par ladite autorité, l'avis de celle-ci est réputé favorable ;
-
-e) La justification que l'entreprise possède, sur le territoire de la République française, pour ses opérations sur ce
-territoire, une succursale où elle fait élection de domicile.
-
-II. - En cas de demande d'extension d'agrément, les documents mentionnés aux e et f de l'article R. 321-6 ainsi qu'aux c et e
-du présent article ne sont pas exigés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
-	  - TXT_ASSOCIE: Code des assurances R321-9
-
-	**Modifié par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 9 () JORF 15 septembre 1990
-
-	**Abrogé par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
-
-	**Cité par**:
-
-	  - Code des assurances - art. R351-6 (V)
-
-	**Cite**:
-
-	  - Code des assurances R321-6
-
-
-###### Article R*321-11
-
-Pendant les trois exercices faisant l'objet des prévisions mentionnées au g, 6 et 7 de l'article R. 321-6, l'entreprise doit
-présenter à la commission de contrôle des assurances, pour chaque semestre, un compte rendu d'exécution du programme
-d'activités.
-
-Si les comptes rendus ainsi présentés font apparaître un déséquilibre grave dans la situation financière de l'entreprise, la
-commission peut à tout moment prendre les mesures nécessaires pour faire renforcer les garanties financières jugées
-indispensables et, à défaut, procéder au retrait de l'agrément administratif.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
-
-	**Modifié par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 11 () JORF 15 septembre 1990
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R321-16 (3ème version)
-
-	**Cite**:
-
-	  - Code des assurances R321-6
-
-
-###### Article R*321-13
-
-Toute décision de refus d'agrément administratif doit être motivée et notifiée par le ministre de l'économie et des finances
-à l'entreprise intéressée.
-
-L'agrément ne peut être refusé, totalement ou partiellement, qu'après avis conforme de la commission des entreprises
-d'assurance mentionnée à l'article L. 411-4, l'entreprise ayant été préalablement mise en demeure par lettre recommandée de
-présenter ses observations par écrit dans un délai de quinzaine.
-
-L'entreprise peut se pourvoir devant le Conseil d'Etat dans les deux mois de la notification du refus d'agrément, total ou
-partiel, ou, en l'absence de notification, à l'expiration d'un délai de six mois à compter du dépôt d'un dossier
-régulièrement constitué de demande d'agrément. Ce délai de six mois est prorogé lorsque le ministre sursoit à une décision
-d'agrément en application des dispositions du II de l'article R. 321-1.
-
-Le ministre de l'économie et des finances peut appeler à se prononcer à nouveau, dans le délai d'un mois, la commission des
-entreprises d'assurance, dans l'hypothèse où celle-ci n'aurait pas émis un avis conforme à la proposition de refus
-d'agrément. Si le conseil national des assurances maintient son avis, le ministre peut néanmoins, par dérogation aux
-dispositions du deuxième alinéa du présent article, décider de refuser l'agrément.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°92-308 du 31 mars 1992 - art. 13 (V) JORF 1er avril 1992 en vigueur le 20 novembre 1992
-	  - Décret n°92-308 du 31 mars 1992 - art. 6 () JORF 1er avril 1992 en vigueur le 20 novembre 1992
-
-	**Cite**:
-
-	  - Code des assurances - art. L411-4 (M)
-	  - Code des assurances L411-4, R321-1
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R321-4 (2ème version)
-
+##### Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen.
 
 ###### Article R321-6
 
-I. - Toute demande d'agrément administratif présentée par une entreprise française doit être produite en double exemplaire et
-comporter :
-
-a) La liste, établie en conformité de l'article R. 321-1, des branches ou sous-branches que l'entreprise se propose de
-pratiquer ;
-
-b) Le cas échéant, l'indication des pays étrangers où l'entreprise se propose d'opérer ;
-
-c) Un des doubles de l'acte constitutif de l'entreprise s'il est sous seing privé, ou une expédition s'il est authentique ;
-
-d) Le procès-verbal de l'assemblée générale constitutive ;
-
-e) Deux exemplaires des statuts ;
-
-f) La liste des administrateurs et directeurs, ainsi que de toute personne appelée à exercer en fait des fonctions
-équivalentes avec les nom, prénoms, domicile, nationalité, date et lieu de naissance de chacun d'eux. Si ces personnes ont
-résidé hors de France pendant la période de cinq ans précédant la demande d'agrément, elles doivent indiquer leur dernière
-adresse hors de France.
-
-Les personnes mentionnées ci-dessus doivent également produire un bulletin n° 3 de leur casier judiciaire datant de moins de
-trois mois ou un document équivalent délivré par une autorité judiciaire ou administrative compétente d'un Etat membre des
-communautés économiques européennes autre que la France. Lorsque ces personnes ne sont pas des ressortissants d'un Etat
-membre des communautés économiques européennes, elles doivent produire un document équivalent ou, à défaut, une déclaration
-sous serment ou une déclaration solennelle faite devant une autorité compétente ou un notaire, aux termes de laquelle elles
-affirment ne pas avoir fait, à l'étranger, l'objet d'une condamnation qui, si elle avait été prononcée par une juridiction
-française, serait inscrite au bulletin n° 3 du casier judiciaire. L'autorité compétente ou le notaire délivre une attestation
-faisant foi de ce serment ou de cette déclaration solennelle. En outre, si elles ne sont pas de nationalité française, ces
-personnes doivent satisfaire aux dispositions des lois et règlements relatifs à la situation et à la police des étrangers.
-
-g) Un programme d'activités comprenant les pièces suivantes :
-
-1. Le cas échéant, un document précisant, sauf pour les branches mentionnées aux 4, 5, 6, 7 et 12 de l'article R. 321-1, la
-nature des risques que l'entreprise se propose de garantir ;
-
-2. Pour chacune des branches ou sous-branches faisant l'objet de la demande d'agrément, sauf pour les opérations relevant des
-grands risques définis aux articles L. 351-4 et R. 351-1, deux exemplaires des polices et imprimés destinés à être distribués
-au public ou publiés ;
-
-3. Pour chacune des branches ou sous-branches faisant l'objet de la demande d'agrément, sauf pour les opérations relevant des
-grands risques définis aux articles L. 351-4 et R. 351-1, deux exemplaires des tarifs.
-
-S'il s'agit d'opérations d'assurance comportant des engagements dont l'exécution dépend de la durée de la vie humaine,
-d'opérations complémentaires aux opérations précédentes, notamment celles ayant pour objet des garanties contre les risques
-d'atteintes corporelles incluant l'incapacité de travail professionnelle, de décès accidentel ou d'invalidité à la suite
-d'accident ou de maladie, ou d'opérations ayant pour objet le versement d'un capital en cas de mariage ou de naissance
-d'enfants, ou d'opérations ayant pour objet l'acquisition d'immeubles au moyen de la constitution de rentes viagères,
-l'entreprise doit produire le tarif afférent à toutes ces opérations, ainsi qu'une note technique exposant le mode
-d'établissement des tarifs et les bases de calcul des diverses catégories de primes ou cotisations. S'il s'agit d'opérations
-de prévoyance collective, l'entreprise doit produire une note technique exposant le mode d'établissement des tarifs, les
-modalités de détermination des primes ou cotisations annuelles ainsi que les indications relatives à la fixation du nombre
-d'unités de rente correspondant auxdites primes ou cotisations.
-
-S'il s'agit d'opérations tontinières, l'entreprise doit produire les tarifs et les barèmes afférents à toutes ses opérations,
-ainsi qu'une note technique exposant leur mode d'établissement.
-
-4. Les principes directeurs que l'entreprise se propose de suivre en matière de réassurance.
-
-5. Les prévisions de frais d'installation des services administratifs et du réseau de production, ainsi que les moyens
-financiers destinés à y faire face.
-
-5-1. Pour la branche mentionnée au 18 de l'article R. 321-1, les moyens en personnels et matériels dont dispose l'entreprise,
-par elle-même ou par personne interposée, pour faire face à ses engagements.
-
-6. Pour les trois premiers exercices sociaux :
-
-- les prévisions relatives aux frais de gestion autres que les frais d'installation, notamment les frais généraux et les
-commissions ;
-
-- Les prévisions relatives aux primes ou cotisations et sinistres ;
-
-- la situation probable de trésorerie.
-
-7. Pour les mêmes exercices sociaux :
-
-- les prévisions relatives aux moyens financiers destinés à la couverture des engagements ;
-
-- Les prévisions relatives à la marge de solvabilité que l'entreprise doit posséder en application des dispositions des
-sections II ou III du chapitre IV du titre III du présent livre.
-
-8. La justification des éléments constituant le montant minimal du fonds de garantie que l'entreprise doit posséder, selon le
-cas, conformément aux dispositions des sections II ou III du chapitre IV du titre III du présent livre.
-
-9. Dans le cas d'une société anonyme, la liste des principaux actionnaires ainsi que la part du capital social détenue par
-chacun d'eux ; dans le cas d'une société d'assurance mutuelle, les modalités de constitution du fonds d'établissement.
-
-10. Le nom et l'adresse du principal établissement bancaire où sont domiciliés les comptes de l'entreprise.
-
-II. - En cas de demande d'extension d'agrément, les documents mentionnés aux c, d et e du présent article ne sont pas exigés.
-L'entreprise doit indiquer, s'il y a lieu, toute modification intervenue concernant l'application des dispositions du f du
-présent article ainsi que celles de l'article R. 321-6-1 et justifier qu'elle dispose d'une marge de solvabilité au moins
-égale au montant réglementaire.
+L'agrément administratif prévu à l'article L. 321-7 est délivré dans les conditions prévues aux articles R. 321-1, 
+R. 321-3 et R. 321-5, et refusé dans les conditions de l'article R. 321-4.
 
 **Liens relatifs à cet article**
 
@@ -22123,17 +21907,20 @@ présent article ainsi que celles de l'article R. 321-6-1 et justifier qu'elle d
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 7 () JORF 15 septembre 1990
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. L351-4 (M)
-	  - Code des assurances - art. R351-1 (M)
-	  - Code des assurances R321-1, L351-4, R351-1, R321-6-1
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. R321-1 (V)
+	  - Code des assurances - art. R321-3 (V)
+	  - Code des assurances - art. R321-4 (V)
+	  - Code des assurances - art. R321-5 (V)
 
 	**Cité par**:
 
@@ -22142,35 +21929,41 @@ présent article ainsi que celles de l'article R. 321-6-1 et justifier qu'elle d
 
 ###### Article R321-8
 
-I. - Toute demande d'agrément administratif présentée par une entreprise dont le siège social n'est pas établi sur le
-territoire d'un Etat membre de la Communauté économique européenne doit être produite en double exemplaire et comporter,
-outre les documents prévus aux a, e et f de l'article R. 321-6 :
+Les provisions techniques afférentes aux contrats garantissant des risques situés ou des engagements pris sur le territoire
+de la République française autres que ceux qui sont mentionnés aux articles L. 351-4 et L. 353-4 sont calculées et
+représentées par les entreprises agréées en vertu de l'article L. 321-8 selon les règles du titre III du présent livre.
 
-a) Le bilan, le compte d'exploitation générale et le compte général de pertes et profits pour chacun des trois derniers
-exercices sociaux. Toutefois, lorsque l'entreprise compte moins de trois exercices sociaux, ces documents ne doivent être
-fournis que pour les exercices clôturés ;
+**Liens relatifs à cet article**
 
-b) Un certificat délivré par les autorités administratives compétentes, énumérant les branches que l'entreprise est habilitée
-à pratiquer ainsi que les risques qu'elle garantit effectivement et attestant qu'elle est constituée et qu'elle fonctionne
-dans son pays d'origine conformément aux lois de ce pays ;
+	**Codifié par**:
 
-c) La proposition à l'acceptation du ministre de l'économie et des finances, en vue d'obtenir l'agrément spécial prévu à
-l'article L. 321-2, d'une personne physique ou morale ayant la qualité de mandataire général et satisfaisant aux conditions
-fixées par décret en Conseil d'Etat ;
+	  - Décret n°76-666 du 16 juillet 1976
 
-d) la justification que l'entreprise dispose sur le territoire de la République française d'actifs au moins égaux à la moitié
-du montant minimal du fonds de garantie qu'elle doit posséder conformément aux dispositions du chapitre IV du titre III du
-présent livre, et l'engagement de déposer le quart de ce montant à titre de cautionnement, sauf si l'entreprise est soumise à
-une vérification de solvabilité globale exercée par l'autorité de contrôle d'un Etat membre de la Communauté économique
-européenne autre que la France ;
+	**Liens**:
 
-e) Un programme d'activités comportant les pièces mentionnées au g, 1 à 7, de l'article R. 321-6 ;
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
-f) La justification que l'entreprise possède, sur le territoire de la République française, pour ses opérations sur ce
-territoire, une succursale où elle fait élection de domicile.
+	**Modifié par**:
 
-II. - En cas de demande d'extension d'agrément, les documents mentionnés aux e et f de l'article R. 321-6 ainsi qu'aux c et f
-du présent article ne sont pas exigés.
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 7
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-8
+	  - Code des assurances - art. L351-4
+	  - Code des assurances - art. L353-4
+
+
+###### Article R321-9
+
+La commission de contrôle des assurances présente dans un délai de trois mois ses observations à l'autorité de contrôle d'un
+Etat non communautaire membre de l'Espace économique européen qui lui transmet pour avis le programme d'activités présenté
+par une entreprise française sollicitant de cette autorité l'agrément pour pratiquer des opérations d'assurances.
 
 **Liens relatifs à cet article**
 
@@ -22180,31 +21973,58 @@ du présent article ne sont pas exigés.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
-	  - TXT_ASSOCIE: Code des assurances R321-9
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 9 () JORF 15 septembre 1990
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
+
+	**Anciens textes**:
+
+	  - Code des assurances R321-14 (3ème version)
+
+
+##### Section III : Agrément spécial des entreprises dont le siège social est situé dans un Etat non membre de l'Espace économique européen.
+
+###### Article R321-10
+
+L'agrément administratif prévu à l'article L. 321-9 est délivré dans les conditions prévues aux articles R. 321-1, R. 321-3
+et R. 321-5 et refusé dans les conditions de l'article R. 321-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 1994-07-25 art. 4 I, art. 5 VIII, IX JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 7
 
 	**Cite**:
 
-	  - Code des assurances - art. L321-2 (M)
-	  - Code des assurances R321-6, L321-2
+	  - Code des assurances - art. L321-9
+	  - Code des assurances - art. R*321-1
+	  - Code des assurances - art. R*321-3
+	  - Code des assurances - art. R321-4
+	  - Code des assurances - art. R321-5
 
 
-###### Article R321-9
+###### Article R321-11
 
-Le mandataire général mentionné aux articles R. 321-7 c et R. 321-8 c, s'il est une personne physique, doit avoir son
-domicile et résider sur le territoire de la République française et doit produire un extrait de son casier judiciaire datant
-de moins de trois mois ou un document équivalent délivré par une autorité judiciaire ou administrative compétente d'un Etat
-membre des communautés économiques européennes autre que la France. S'il n'est pas ressortissant d'un Etat membre desdites
-communautés, il doit produire un document équivalent ou, à défaut, une déclaration sous serment ou une déclaration solennelle
-faite devant une autorité compétente ou un notaire, aux termes de laquelle il affirme ne pas avoir fait, à l'étranger,
-l'objet d'une condamnation qui, si elle avait été prononcée par une juridiction française, serait inscrite au bulletin n° 3
-du casier judiciaire. L'autorité compétente ou le notaire délivre une attestation faisant foi de ce serment ou de cette
-déclaration solennelle. En outre, s'il n'est pas de nationalité française, le mandataire général doit satisfaire aux
-dispositions des lois et règlements relatifs à la situation et à la police des étrangers.
+Le mandataire général des succursales d'entreprises mentionnées au 4° de l'article L. 310-2, s'il est une personne physique,
+doit avoir son domicile et résider sur le territoire de la République française.
 
 Si le mandataire est une personne morale, le siège social de celle-ci doit être établi sur le territoire de la République
 française, et la personne physique nommément désignée pour la représenter doit satisfaire aux conditions prévues par l'alinéa
@@ -22215,10 +22035,11 @@ Lorsque le mandataire général est un préposé salarié ou un mandataire rému
 de mandataire général ne lui font pas perdre cette qualité.
 
 Le mandataire général, s'il est une personne physique, ou son représentant, s'il est une personne morale, doit produire, en
-ce qui concerne sa qualification et son expérience professionnelle, les informations prévues par l'article R. 321-6-1.
+ce qui concerne sa qualification et son expérience professionnelle, les informations prévues par l'arrêté du ministre chargé
+de l'économie et des finances.
 
-Toute modification intervenue concernant les informations mentionnées aux premier et quatrième alinéas du présent article
-doit être communiquée au ministre chargé de l'économie et des finances qui, le cas échéant, peut récuser le mandataire.
+Toute modification intervenue concernant les informations mentionnées au quatrième alinéa du présent article doit être
+communiquée au ministre chargé de l'économie et des finances qui, le cas échéant, peut récuser le mandataire.
 
 Le mandataire général doit être doté par l'entreprise intéressée de pouvoirs suffisants pour engager celle-ci à l'égard des
 tiers et pour la représenter vis-à-vis des autorités et juridictions françaises.
@@ -22228,10 +22049,6 @@ successeur. Le mandataire général demeure investi de cette fonction tant que s
 lieu, accepté par le ministre de l'économie et des finances. En cas de décès du mandataire général, ou de la personne
 physique nommément désignée pour le représenter, l'entreprise doit désigner son successeur dans le délai le plus bref.
 
-Les conditions particulières auxquelles doit en outre satisfaire le mandataire général du Lloyd's de Londres, ainsi que les
-modalités de ses rapports avec le comité de cet organisme et avec les intermédiaires autorisés à placer des affaires
-françaises au Lloyd's, sont fixées par décret en Conseil d'Etat.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -22240,109 +22057,26 @@ françaises au Lloyd's, sont fixées par décret en Conseil d'Etat.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
-	  - TXT_ASSOCIE: Code des assurances R321-10
-	  - TXT_SOURCE: Code des assurances R321-7, R321-8
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 10 () JORF 15 septembre 1990
-	  - Décret n°90-815 du 14 septembre 1990 - art. 9 () JORF 15 septembre 1990
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R321-11 (3ème version)
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances R321-7, R321-8, R321-6-1
+	  - Code des assurances - art. L310-2 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances R321-9 (3ème version)
 
 
-###### Article R321-10
-
-Le mandataire général du Lloyd's de Londres fournit chaque année à la commission de contrôle des assurances la liste et la
-composition de l'ensemble des souscripteurs et syndicats de souscripteurs du Lloyd's. Toute modification apportée à cette
-liste est portée par le mandataire à la connaissance de la commission. Chaque note de couverture, police, certificat
-d'assurance ou avenant doit indiquer le numéro du souscripteur ou syndicat de souscripteurs au nom duquel il est émis, ainsi
-que le nom et l'adresse du mandataire général.
-
-Le mandataire général produit en outre à la commission de contrôle des assurances la liste des intermédiaires autorisés à
-placer des affaires françaises au Lloyd's de Londres, ainsi que la liste des personnes chargées d'exercer les recours et de
-régler les sinistres. Tout changement dans la composition de ces listes est porté sans délai par le mandataire à la
-connaissance de la commission de contrôle des assurances.
-
-Aucune autorisation de souscrire, d'exercer des recours ou de régler des sinistres ne peut être délivrée sans l'accord exprès
-du mandataire général et de Lloyd's de Londres ne peut accepter d'affaires françaises de la part d'intermédiaires ne figurant
-pas sur la liste produite par le mandataire général à la commission de contrôles des assurances.
-
-Ne peuvent figurer sur la liste des intermédiaires prévue au second alinéa du présent article que les personnes qui satisfont
-aux dispositions des articles R. 511-1 à R. 511-4 et ont pris, en outre, l'engagement de déclarer au moins trimestriellement
-au mandataire général toutes les affaires françaises placées au Lloyd's de Londres.
-
-Les mêmes personnes, ainsi que celles qui sont chargées de l'exercice des recours et du règlement des sinistres, doivent
-prendre l'engagement de se soumettre, le cas échéant, au contrôle prévu par l'article R. 310-1, et de mettre le mandataire
-général en mesure de fournir à la commission de contrôle des assurances les renseignements et documents réglementaires.
-
-Pour ses opérations sur le territoire de la République française, le comité du Lloyd's de Londres doit notifier sans délai au
-mandataire général toute signature de police, de certificat d'assurance ou d'avenant portant modification de la prime, ainsi
-que tout règlement de sinistre ou tout recours.
-
-Les pouvoirs du mandataire général du Lloyd's de Londres doivent notamment couvrir ceux d'être attrait en justice en cette
-qualité et d'engager les souscripteurs ou syndicats de souscripteurs intéressés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
-	  - TXT_SOURCE: Code des assurances R321-9
-
-	**Modifié par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 11 () JORF 15 septembre 1990
-
-	**Cite**:
-
-	  - Code des assurances R310-1, R511-1 à R511-4
-
-
-###### Article R321-14
-
-La commission de contrôle des assurances présente dans un délai de trois mois ses observations à l'autorité de contrôle d'un
-Etat membre de la Communauté économique européenne qui lui transmet pour avis le programme d'activité présenté par une
-entreprise française sollicitant de cette autorité l'agrément pour pratiquer des opérations d'assurances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
-
-	**Modifié par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 11 () JORF 15 septembre 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. R329-1 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R321-9 (4ème version)
-
-
-###### Article R321-16
+###### Article R321-12
 
 Les montants et modalités de constitution du cautionnement de réciprocité sont fixés par le ministre de l'économie et des
-finances de façon à représenter la contrepartie des cautionnement ou garantie exigés des entreprises françaises dans le pays
+finances de façon à représenter la contrepartie des cautionnements ou garantie exigés des entreprises françaises dans le pays
 auquel ressortit l'entreprise étrangère intéressée.
 
 La restitution du cautionnement ne peut intervenir que s'il ne se trouve plus justifié par l'application du principe de
@@ -22357,31 +22091,34 @@ l'économie et des finances ses observations sur la restitution envisagée.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Cité par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 2 (V)
+	  - Code des assurances - art. R334-10 (VT)
+	  - Code des assurances - art. R334-16 (VT)
+	  - Code des assurances - art. R334-21 (V)
+	  - Code des assurances - art. R334-23 (VT)
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 	  - TXT_SOURCE: Code des assurances - art. L321-2 (M)
 
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 14 () JORF 15 septembre 1990
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. R329-1 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R321-12 (4ème version)
+	  - Code des assurances R321-16 (2ème version)
 
 
-##### Section V : Publicité, suspension et caducité de l'agrément administratif.
+##### Section IV : Conditions des agréments.
 
-###### Article R*321-19
+###### Article R*321-17
 
-En cas de transfert intervenant en application de l'article L. 324-1 ou de l'article L. 310-18, 6°, et portant sur la
-totalité des contrats appartenant à une branche ou sous-branche déterminée, l'agrément administratif cesse de plein droit
-d'être valable pour cette branche ou sous-branche.
+Tous les documents accompagnant les demandes d'agrément doivent être rédigés ou traduits en langue française.
 
 **Liens relatifs à cet article**
 
@@ -22391,16 +22128,55 @@ d'être valable pour cette branche ou sous-branche.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 du 25 juillet 1994 - art. 21 (V)
 
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 15 () JORF 15 septembre 1990
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
 
-	**Cite**:
 
-	  - Code des assurances - art. L310-18 (M)
-	  - Code des assurances - art. L324-1 (M)
+###### Article R*321-18
+
+L'agrément administratif est donné par arrêté publié au Journal officiel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+
+	**Anciens textes**:
+
+	  - Décret n°1938-06-14 art. 9
+
+
+###### Article R*321-19
+
+En cas de transfert portant sur la totalité des contrats appartenant à une branche ou sous-branche déterminée, l'agrément
+administratif cesse de plein droit d'être valable pour cette branche ou sous-branche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 3 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 
 ###### Article R*321-20
@@ -22408,8 +22184,11 @@ d'être valable pour cette branche ou sous-branche.
 Si une entreprise qui a obtenu l'agrément administratif pour une branche ou sous-branche n'a pas commencé à pratiquer les
 opérations correspondantes dans le délai d'un an à dater de la publication au Journal officiel de l'arrêté d'agrément, ou si
 une entreprise ne souscrit, pendant deux exercices consécutifs, aucun contrat appartenant à une branche ou sous-branche pour
-laquelle elle est agréée, l'agrément administratif cesse de plein droit d'être valable pour la branche ou sous-branche
-considérée.
+laquelle elle est agréée, elle en fait immédiatement la déclaration à la commission de contrôle des assurances et l'agrément
+administratif cesse de plein droit d'être valable pour la branche ou sous-branche considérée.
+
+Sans délai, la commission de contrôle des assurances assure, dans les deux cas mentionnés à l'alinéa précédent, la
+publication au Journal officiel d'un avis constatant que l'agrément administratif a cessé d'être valable.
 
 **Liens relatifs à cet article**
 
@@ -22417,31 +22196,219 @@ considérée.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 6 () JORF 26 juillet 1994
+
+
+###### Article R*321-21
+
+A la demande d'une entreprise s'engageant à ne plus souscrire à l'avenir de nouveaux contrats entrant dans une ou plusieurs
+branches ou sous-branches, le ministre de l'économie et des finances peut, par arrêté publié au Journal officiel, constater
+la caducité de l'agrément administratif pour lesdites branches ou sous-branches.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°2008-1154 du 7 novembre 2008 - art. 30 (V)
+
+
+###### Article R321-14
+
+L'agrément administratif est donné par branche aux entreprises mentionnées aux 1°, 3° et 4° de l'article L. 310-2.
+
+Cet agrément couvre la branche entière, sauf si l'entreprise ne désire garantir que les opérations relevant d'une ou
+plusieurs sous-branches.
+
+Pour les entreprises mentionnées au 4° de l'article L. 310-2, le ministre de l'économie et des finances peut, après avis de
+la commission des entreprises d'assurance mentionnée à l'article L. 411-4, dans les conditions prévues à l'article R. 321-4,
+restreindre l'agrément à une ou plusieurs opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L411-4 (M)
+	  - Code des assurances L310-2, L411-4, R321-4
+
+	**Cité par**:
+
+	  - Code des assurances - art. R329-1 (VD)
+
 	**Anciens textes**:
 
-	  - Décret n°1938-12-30 art. 141
+	  - Code des assurances R321-2 (2ème version)
 
 
-##### Section VII : Dispositions spéciales concernant les entreprises pratiquant l'assurance de protection juridique.
+###### Article R321-15
+
+Le mandataire général des succursales d'entreprises mentionnées au 3° de l'article L. 310-2 établies régulièrement en France
+doit être doté par l'entreprise intéressée de pouvoirs suffisants pour engager celle-ci à l'égard des tiers et pour la
+représenter vis-à-vis des autorités et juridictions françaises.
+
+Ce mandataire général est assimilé à un dirigeant pour l'application de l'article R. 321-17-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 6 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances L310-2, R321-17-1
+
+
+###### Article R321-16
+
+Pendant les cinq exercices suivant la délivrance des agréments mentionnés aux articles L. 321-1, L. 321-7 et L. 321-9,
+l'entreprise doit présenter à la commission de contrôle des assurances, pour chaque semestre, un compte rendu d'exécution du
+programme d'activités mentionné à l'article L. 321-10. Si l'activité de l'entreprise n'est pas conforme au programme
+d'activités, la commission prend les mesures utiles en vue de la protection des intérêts des assurés. Sans préjudice de la
+mise en oeuvre, le cas échéant, des mesures prévues aux articles L. 310-17, L. 310-18 et L. 323-1-1, la commission peut
+saisir le ministre chargé de l'économie et des finances en vue de l'application des dispositions de l'article L. 325-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-17 (M)
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-10 (M)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L321-9 (M)
+	  - Code des assurances - art. L323-1-1 (M)
+	  - Code des assurances - art. L325-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R329-1 (VD)
+
+	**Anciens textes**:
+
+	  - Code des assurances R321-11 (2ème version)
+
+
+###### Article R321-17-1
+
+Toute entreprise mentionnée aux 1°, 3° et 4° de l'article L. 310-2 est tenue de déclarer au ministre chargé de l'économie et
+des finances tout changement de l'une des personnes chargées de la conduire au sens de l'article L. 321-10, au plus tard le
+jour de ce changement.
+
+Dans un délai de trois mois à compter de la réception de cette déclaration, le ministre chargé de l'économie et des finances
+fait savoir à l'entreprise si ce changement est de nature à entraîner la mise en oeuvre des compétences dont il dispose aux
+termes de l'article L. 325-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. A321-11 (V)
+	  - Code des assurances - art. A321-2 (V)
+	  - Code des assurances - art. R321-15 (VD)
+	  - Code des assurances - art. R328-1 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L321-10 (M)
+	  - Code des assurances - art. L325-1 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances R310-7 (2ème version)
+
 
 ###### Article R321-22
 
-Toute entreprise d'assurance soumise aux dispositions des articles R. 321-6, R. 321-7, R. 321-8, R. 351-3 doit, lorsqu'elle
-sollicite un agrément pour la branche de protection juridique, indiquer, lors de la présentation des documents prévus à ces
-quatre articles, la modalité de gestion adoptée, parmi celles qui sont énoncées à l'article L. 321-6.
+Une entreprise dont tous les agréments ont cessé de plein droit d'être valables ou ont fait l'objet d'arrêtés constatant leur
+caducité soumet à l'approbation de la commission de contrôle des assurances, dans un délai d'un mois à partir de la date où
+son dernier agrément a cessé de plein droit d'être valable ou a fait l'objet d'un arrêté constatant sa caducité, un programme
+de liquidation précisant notamment les délais prévisibles et les conditions financières de la liquidation, ainsi que les
+moyens en personnel et en matériels mis en oeuvre pour la gestion des engagements résiduels. Lorsque la gestion des
+engagements résiduels est déléguée à un tiers, le projet de contrat de délégation et un dossier décrivant la qualité du
+délégataire et de ses dirigeants, son organisation, sa situation financière et les moyens mis en oeuvre sont communiqués à la
+commission, qui peut, en application du dernier alinéa de l'article L. 310-12, réaliser tous contrôles sur pièces et sur
+place du délégataire, jusqu'à liquidation intégrale des engagements.
 
-Lorsque l'entreprise choisit de confier les sinistres de la branche de protection juridique à une entreprise juridiquement
-distincte, conformément aux dispositions du deuxième tiret du premier alinéa de l'article L. 321-6, elle doit adresser copie
-des statuts de cette entreprise au ministre chargé de l'économie et des finances.
+Si la commission estime que le programme de liquidation présenté par l'entreprise n'est pas conforme aux intérêts des
+assurés, elle ne l'approuve pas et peut demander la présentation d'un nouveau programme, dans les délais et conditions
+qu'elle prescrit.
 
-Si cette entreprise juridiquement distincte a des liens de la nature de ceux qui sont définis à l'article L. 310-15 avec une
-autre entreprise qui pratique l'assurance d'une ou plusieurs autres branches mentionnées à l'article R. 321-1, l'entreprise
-qui sollicite l'agrément doit s'assurer et, en outre, attester :
-
-1° Que les membres de son personnel chargés de la gestion des sinistres ou des conseils juridiques relatifs à cette gestion
-n'exercent pas la même activité pour le compte de l'autre entreprise ;
-
-2° Que ses dirigeants ne sont pas aussi des dirigeants de l'autre entreprise.
+En l'absence de programme de liquidation, ou lorsque le programme présenté n'a pas été approuvé, ou lorsque l'entreprise ne
+respecte pas le programme approuvé, la commission prend, en application de l'article L. 323-1-1, toutes mesures
+conservatoires qu'elle juge nécessaires ; elle peut également faire usage des pouvoirs d'injonction et de sanction prévus aux
+articles L. 310-17 et L. 310-18.
 
 **Liens relatifs à cet article**
 
@@ -22449,15 +22416,14 @@ n'exercent pas la même activité pour le compte de l'autre entreprise ;
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°90-697 du 1 août 1990 - art. 2 () JORF 8 août 1990
-	  - Décret n°90-700 du 8 août 1990 - art. 9 () JORF 9 août 1990
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
-	  - TXT_SOURCE: Code des assurances - art. L321-4 (Ab)
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 7 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -22466,25 +22432,19 @@ n'exercent pas la même activité pour le compte de l'autre entreprise ;
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-15 (M)
-	  - Code des assurances - art. L321-6 (T)
-	  - Code des assurances - art. R351-3 (M)
-	  - Code des assurances R321-6, R321-7, R321-8, R351-3, L321-6, L310-15, R321-1
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R322-1 (3ème version)
+	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. L310-17 (M)
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L323-1-1 (M)
 
 
 ###### Article R321-23
 
-Lorsqu'une entreprise agréée dans la branche de protection juridique désire opter pour une autre modalité de gestion que
-celle qu'elle a précédemment choisie, elle est tenue d'en informer le ministre chargé de l'économie et des finances.
-
-La nouvelle modalité choisie prend effet un mois après sa notification au ministre, sauf opposition par ce dernier dans le
-même délai pour un motif de nature à remettre en cause la décision d'agrément.
-
-Les deuxième et troisième alinéas de l'article R. 321-22 sont applicables.
+Une entreprise dont tous les agréments ont cessé de plein droit d'être valables ou ont fait l'objet d'arrêtés constatant leur
+caducité cesse d'être soumise au contrôle de l'Etat au sens de l'article L. 310-1 dès lors que l'ensemble des engagements
+résultant des contrats souscrits par l'entreprise ont été intégralement et définitivement réglés aux assurés et aux tiers
+bénéficiaires ou ont fait l'objet d'un transfert autorisé dans les conditions prévues aux articles L. 324-1, L. 354-1 et L.
+354-1-1.
 
 **Liens relatifs à cet article**
 
@@ -22492,53 +22452,22 @@ Les deuxième et troisième alinéas de l'article R. 321-22 sont applicables.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°90-697 du 1 août 1990 - art. 2 () JORF 8 août 1990
-	  - Décret n°90-700 du 8 août 1990 - art. 9 () JORF 9 août 1990
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 	  - TXT_SOURCE: Code des assurances - art. A321-1 (Ab)
 
-	**Cite**:
-
-	  - Code des assurances - art. R321-22 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R322-1-1 (1ère version)
-
-
-###### Article R321-24
-
-Pour l'application des dispositions du deuxième tiret du premier alinéa de l'article L. 321-6, l'entreprise juridiquement
-distincte à qui est confiée la gestion des sinistres de la branche de protection juridique est soit une entreprise régie par
-le code des assurances, soit une société civile, soit une société commerciale, soit un groupement d'intérêt économique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
 	**Modifié par**:
 
-	  - Décret n°90-697 du 1 août 1990 - art. 2 () JORF 8 août 1990
-	  - Décret n°90-700 du 8 août 1990 - art. 9 () JORF 9 août 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+	  - Décret n°94-635 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 7 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. L321-6 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R322-1-2 (1ère version)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L324-1 (M)
+	  - Code des assurances - art. L354-1 (M)
+	  - Code des assurances - art. L354-1-1 (V)
 
 
 #### Chapitre II : Règles de constitution et de fonctionnement
@@ -22623,6 +22552,122 @@ l'honorabilité ou à la qualification technique.
 	**Cite**:
 
 	  - Code des assurances R321-1
+
+
+###### Article R322-1
+
+Toute entreprise d'assurance doit, lorsqu'elle sollicite un agrément pour la branche de protection juridique conformément aux
+dispositions des articles L. 321-1, L. 321-7, L. 321-8 et L. 321-9, indiquer, lors de la présentation des documents prévus à
+ces quatre articles, la modalité de gestion adoptée, parmi celles qui sont énoncées à l'article L. 322-2-3.
+
+Lorsque l'entreprise choisit de confier les sinistres de la branche de protection juridique à une entreprise juridiquement
+distincte, conformément aux dispositions du deuxième tiret du premier alinéa de l'article L. 322-2-3, elle doit adresser
+copie des statuts de cette entreprise au ministre chargé de l'économie et des finances.
+
+Si cette entreprise juridiquement distincte a des liens de la nature de ceux qui sont définis à l'article L. 310-15 avec une
+autre entreprise qui pratique l'assurance d'une ou plusieurs autres branches mentionnées à l'article R. 321-1, l'entreprise
+qui sollicite l'agrément doit s'assurer et, en outre, attester :
+
+1° Que les membres de son personnel chargés de la gestion des sinistres ou des conseils juridiques relatifs à cette gestion
+n'exercent pas la même activité pour le compte de l'autre entreprise ;
+
+2° Que ses dirigeants ne sont pas aussi des dirigeants de l'autre entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cité par**:
+
+	  - Décret n°93-866 du 25 juin 1993 - art. 2 (V)
+	  - Code des assurances - art. R322-1-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - TXT_SOURCE: Code des assurances - art. L321-4 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 7 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-25 (M)
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L321-8 (M)
+	  - Code des assurances - art. L321-9 (M)
+	  - Code des assurances - art. L322-2-3 (V)
+	  - Code des assurances L310-25, L321-1, L321-7, L321-8, L321-9, L322-2-3, R321-1
+
+	**Anciens textes**:
+
+	  - Code des assurances R321-22 (2ème version)
+
+
+###### Article R322-1-1
+
+Lorsqu'une entreprise agréée dans la branche de protection juridique désire opter pour une autre modalité de gestion que
+celle qu'elle a précédemment choisie, elle est tenue d'en informer le ministre chargé de l'économie et des finances.
+
+La nouvelle modalité choisie prend effet un mois après sa notification au ministre, sauf opposition par ce dernier dans le
+même délai pour un motif de nature à remettre en cause la décision d'agrément.
+
+Les deuxième et troisième alinéas de l'article R. 322-1 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 7 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. R*322-1 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances R321-23 (2ème version)
+
+
+###### Article R322-1-2
+
+Pour l'application des dispositions du deuxième tiret du premier alinéa de l'article L. 322-2-3, l'entreprise juridiquement
+distincte à qui est confiée la gestion des sinistres de la branche de protection juridique est soit une entreprise régie par
+le code des assurances, soit une société civile, soit une société commerciale, soit un groupement d'intérêt économique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 7 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-2-3 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances R321-24 (2ème version)
 
 
 ##### Section II : Sociétés anonymes d'assurance et de capitalisation.
@@ -22788,14 +22833,40 @@ la portion de ce capital déjà versée.
 
 ###### Article R322-11-1
 
-Doit être portée à la connaissance du ministre de l'économie des finances et du budget, préalablement à sa réalisation, toute
-opération de vente ayant pour effet de conférer directement ou indirectement, à un actionnaire personne physique ou morale ou
-à plusieurs actionnaires personnes morales liées par des relations de sociétés mère et filiale, soit une participation
-atteignant 20 % du capital social, soit la majorité des droits de vote à l'assemblée générale d'une entreprise mentionnée à
-l'article R. 322-5. Cette obligation incombe aux dirigeants de l'entreprise concernée.
+I. - Toute opération de prise, d'extension ou de cession de participation, directe ou indirecte, dans les entreprises
+mentionnées au 1° de l'article L. 310-2 du présent code ayant pour effet de permettre à une personne ou à plusieurs personnes
+agissant ensemble, soit d'acquérir ou de perdre le pouvoir de contrôle effectif sur la gestion d'une entreprise, soit de
+passer au-dessus ou au-dessous des seuils de la moitié, du tiers, du cinquième ou du dixième des droits de vote, doit faire
+l'objet d'une déclaration de cette ou ces personnes auprès du ministre chargé de l'économie et des finances préalablement à
+sa réalisation.
 
-Si cette entreprise a fait l'objet d'une des mesures prévues aux articles R. 323-1, R. 323-2 ou R. 323-4, l'opération ne peut
-être réalisée qu'après autorisation du ministre de l'économie, des finances et du budget.
+Cette déclaration est accompagnée d'un dossier dont la composition est fixée par arrêté dudit ministre. Dès réception du
+dossier complet, le ministre dispose d'un délai de trois mois pour s'opposer à l'opération, après avis de la commission des
+entreprises d'assurances mentionnée à l'article L. 411-4, par décision motivée à la ou les personnes intéressées par lettre
+recommandée avec accusé de réception. L'opération peut être réalisée dès réception d'une autorisation du ministre dans le
+délai défini au présent alinéa ou, en cas de silence du ministre, à l'expiration de ce même délai.
+
+En outre, toute transaction ayant pour résultat de permettre à une personne ou à plusieurs personnes agissant ensemble de
+prendre, d'acquérir ou de céder le vingtième des droits de vote doit être déclarée par cette ou ces personnes au ministre
+chargé de l'économie et des finances préalablement à sa réalisation.
+
+Les opérations mentionnées au premier alinéa du présent paragraphe sont seulement portées immédiatement à la connaissance du
+ministre chargé de l'économie et des finances lorsqu'elles sont conclues entre des personnes relevant du droit d'un ou
+plusieurs Etats membres de l'Espace économique européen et appartenant au groupe de celles qui détiennent déjà un pouvoir de
+contrôle effectif sur l'entreprise assujettie.
+
+Lorsque, en vertu de dispositions législatives ou statutaires, le nombre ou la répartition des droits de vote est différent
+par rapport au nombre ou à la répartition des actions ou parts sociales auxquelles ils sont attachés, les pourcentages prévus
+dans le présent paragraphe sont calculés en termes d'actions ou de parts sociales et en termes de droits de vote. Le plus
+élevé des deux résultats obtenus est retenu pour l'application des dispositions du présent paragraphe lorsqu'elles concernent
+une opération de prise ou d'extension de participation et le moins élevé lorsqu'elles concernent une opération de cession de
+participation.
+
+II. - Les dispositions du paragraphe I s'appliquent également aux opérations de prise, d'extensions ou de cessions de
+participations, directes ou indirectes, dans des entreprises ayant leur siège social en France dont l'activité principale
+consiste à prendre des participations dans des entreprises soumises au contrôle de l'Etat en application de l'article L.
+310-1 et qui détiennent, directement ou indirectement, un pouvoir de contrôle effectif sur une ou plusieurs des entreprises
+visées au 1° de l'article L. 310-2.
 
 **Liens relatifs à cet article**
 
@@ -22803,9 +22874,14 @@ Si cette entreprise a fait l'objet d'une des mesures prévues aux articles R. 32
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°84-372 1984-05-14 art. 1 JORF 18 mai 1984
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 8 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -22819,10 +22895,9 @@ Si cette entreprise a fait l'objet d'une des mesures prévues aux articles R. 32
 
 	**Cite**:
 
-	  - Code des assurances - art. R*323-1 (M)
-	  - Code des assurances - art. R*323-2 (M)
-	  - Code des assurances - art. R*323-4 (M)
-	  - Code des assurances R322-5, R323-1, R323-2, R323-4
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L411-4 (M)
 
 
 ##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance
@@ -26639,13 +26714,10 @@ mention ci-après en caractères uniformes : "société à forme tontinière".
 
 ###### Article R*323-6
 
-Dans le cas où une entreprise doit produire un plan de financement à court terme, la commission de contrôle des assurances
-peut restreindre ou interdire la libre disposition des actifs de l'entreprise localisés sur le territoire de la République
-française et prendre toutes mesures propres à sauvegarder les intérêts des assurés et bénéficiaires de contrats.
-
-La commission de contrôle des assurances informe, s'il y a lieu, les autorités de contrôle intéressées des Etats membres de
-la Communauté économique européenne et peut demander auxdites autorités de prendre dans leurs pays respectifs les mêmes
-mesures restreignant ou interdisant la libre disposition des actifs de l'entreprise considérée.
+Lorsqu'elle restreint ou interdit la libre disposition de tout ou partie des actifs d'une entreprise, la commission de
+contrôle des assurances informe, s'il y a lieu, les autorités compétentes des Etats membres de l'Espace économique européen
+et peut leur demander de prendre les mesures nécessaires pour restreindre ou interdire dans les mêmes conditions, selon le
+droit de ces Etats, la libre disposition des actifs de l'entreprise concernée situés dans ces Etats.
 
 **Liens relatifs à cet article**
 
@@ -26653,91 +26725,31 @@ mesures restreignant ou interdisant la libre disposition des actifs de l'entrepr
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-	  - TXT_ASSOCIE: Code des assurances R323-8 *sanctions pénales*
-
 	**Modifié par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
-
-
-###### Article R*323-7
-
-A la demande d'une autorité de contrôle de l'un des Etats membres de la Communauté économique européenne ayant exigé d'une
-entreprise un plan de financement à court terme et ayant restreint ou interdit la libre disposition de ses actifs, la
-commission de contrôle des assurances prend des mesures analogues de restriction ou d'interdiction concernant la disposition
-des actifs de cette entreprise localisés sur le territoire de la République française.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-	  - TXT_ASSOCIE: Code des assurances R323-8 *sanctions pénales*
-
-	**Modifié par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
-
-	**Abrogé par**:
 
 	  - Décret n°94-635 du 25 juillet 1994 - art. 9 () JORF 26 juillet 1994
 
+	**Abrogé par**:
 
-###### Article R*323-9
-
-L'autorité administrative mentionnée à l'article L. 323-1 est le ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. L323-1 (M)
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 1 () JORF 7 janvier 2005
 
 	**Liens**:
 
-	  - TXT_SOURCE: Code des assurances - art. L323-1 (M)
+	  - TXT_ASSOCIE: Code des assurances R323-8 *sanctions pénales*
 
 
 ###### Article R323-1
 
-Lorsque l'activité d'une entreprise soumise au contrôle d'Etat en vertu de l'article L. 310-1 est de nature à conduire à une
-situation telle que cette entreprise ne donnerait plus de garanties suffisantes pour tenir ses engagements ou qu'elle
-risquerait de ne plus fonctionner conformément à la réglementation en vigueur, la commission de contrôle des assurances peut
-lui adresser un avertissement par lettre recommandée et exiger que lui soit soumis pour approbation, dans le délai d'un mois,
-un programme de rétablissement, prévoyant toutes mesures propres à restaurer l'équilibre de l'entreprise.
+I. - Lorsque, aux termes de l'article L. 323-1-1, elle met une entreprise sous surveillance spéciale, la commission de
+contrôle des assurances désigne un commissaire contrôleur qui dispose de tous pouvoirs d'investigation au sein de
+l'entreprise. Il doit être immédiatement avisé de toute décision prise par le conseil d'administration ou par la direction de
+l'entreprise. Il doit être tenu informé en permanence de l'élaboration du programme de rétablissement, du plan de
+redressement ou du plan de financement à court terme exigés par la commission, se fait rendre compte de la mise en oeuvre des
+décisions et mesures qu'ils contiennent et veille à leur exécution.
 
-Dès l'envoi de l'avertissement prévu à l'alinéa précédent, la commission de contrôle des assurances peut charger un
-commissaire-contrôleur d'exercer une surveillance permanente de l'entreprise. Ce commissaire-contrôleur, qui a notamment pour
-mission de veiller à l'exécution du programme de rétablissement, dispose, en outre des pouvoirs de vérification et de
-contrôle réglementaire attribués aux commissaires-contrôleurs des assurances, des droits d'investigation les plus étendus :
-il doit, notamment, être avisé immédiatement de toutes les décisions prises par le conseil d'administration ou par la
-direction de l'entreprise ; il peut se faire rendre compte de l'exécution de ces décisions et des mesures prévues par le
-programme de rétablissement.
-
-Si l'entreprise ne satisfait pas à la réglementation relative aux provisions techniques, la commission de contrôle des
-assurances peut interdire la libre disposition des actifs de l'entreprise localisés sur le territoire de la République
-française et prendre toutes mesures propres à sauvegarder les intérêts des assurés et bénéficiaires de contrats. S'il s'agit
-d'une entreprise étrangère dont le siège social est établi sur le territoire d'un Etat membre de la Communauté économique
-européenne, la commission de contrôle des assurances doit au préalable informer de cette interdiction l'autorité de contrôle
-du pays du siège social. Lorsque l'interdiction concerne une entreprise étrangère dont le siège social n'est pas établi sur
-le territoire d'un Etat membre de la Communauté économique européenne, et qui fait l'objet d'une vérification de solvabilité
-globale définie à la section IV du chapitre IV du titre III du présent livre et exercée par une autorité de contrôle autre
-que la commission de contrôle des assurances, celle-ci doit au préalable informer de cette interdiction l'autorité qui exerce
-ladite vérification.
-
-Les dirigeants de l'entreprise qui ne produit pas un programme de rétablissement, ou qui n'exécute pas dans les conditions et
-délais prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
+II. - Lorsque la gestion de l'entreprise ne lui paraît pas conforme aux intérêts des assurés, la commission de contrôle des
+assurances peut exiger que lui soit soumis pour approbation, dans le délai d'un mois, un programme de rétablissement
+prévoyant toutes mesures propres à restaurer l'équilibre de l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -26745,20 +26757,18 @@ délais prévus celui qui a été approuvé, sont passibles des sanctions prévu
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°91-603 1991-06-27 art. 12 I, II, art. 13 JORF 28 juin 1991
-	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
-	  - Décret n°91-603 du 27 juin 1991 - art. 13 () JORF 28 juin 1991
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 	  - TXT_ASSOCIE: Code des assurances R328-1 *sanctions pénales*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 9 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L323-1-1 (M)
 
 	**Cité par**:
 
@@ -26773,11 +26783,14 @@ délais prévus celui qui a été approuvé, sont passibles des sanctions prévu
 
 ###### Article R323-2
 
-Lorsque la marge de solvabilité d'une entreprise française n'atteint pas le montant réglementaire, la commission de contrôle
-des assurances exige un plan de redressement, qui doit être soumis dans le délai d'un mois à son approbation.
+I. - Lorsque la marge de solvabilité d'une entreprise mentionnée au 1° de l'article L. 310-2 n'atteint pas le montant
+réglementaire, la commission de contrôle des assurances, sans préjudice de la mise en oeuvre des pouvoirs dont elle dispose
+aux termes des articles L. 310-17, L. 310-18 et L. 323-1-1, exige un plan de redressement, qui doit être soumis à son
+approbation dans le délai d'un mois.
 
-Les dirigeants de l'entreprise qui ne produit pas un plan de redressement, ou qui n'exécute pas dans les conditions et délais
-prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
+II. - Il en est de même pour celles des entreprises mentionnées au 4° de l'article L. 310-2 qui ne font l'objet d'aucune
+vérification de solvabilité globale et pour celles qui font l'objet d'une vérification de ce type exercée par la commission
+de contrôle des assurances, lorsque leur marge de solvabilité n'atteint pas le montant réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -26787,11 +26800,18 @@ prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
+	  - Décret n°94-635 du 25 juillet 1994 - art. 9 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-17 (M)
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L323-1-1 (M)
 
 	**Cité par**:
 
@@ -26804,16 +26824,15 @@ prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'
 
 ###### Article R323-3
 
-Lorsque la marge de solvabilité d'une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat
-membre de la Communauté économique européenne et qui ne fait l'objet d'aucune vérification de solvabilité globale, n'atteint
-pas le montant réglementaire, la commission de contrôle des assurances exige un plan de redressement, qui doit être soumis à
-son approbation dans le délai d'un mois.
+I. - Lorsque la marge de solvabilité d'une entreprise mentionnée au 1° de l'article L. 310-2 n'atteint pas le fonds de
+garantie, ou si le fonds n'est pas constitué réglementairement, la commission de contrôle des assurances, sans préjudice de
+la mise en oeuvre des pouvoirs dont elle dispose aux termes des articles L. 310-17, L. 310-18 et L. 323-1-1, exige un plan de
+financement à court terme, qui doit être soumis à son approbation dans le délai d'un mois.
 
-Il en est de même lorsque l'entreprise fait l'objet d'une vérification de solvabilité globale exercée par la commission de
-contrôle des assurances.
-
-Les dirigeants de l'entreprise qui ne produit pas un plan de redressement, ou qui n'exécute pas dans les conditions et délais
-prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
+II. - Il en est de même pour celles des entreprises mentionnées au 4° de l'article L. 310-2 qui ne font pas l'objet d'une
+vérification de solvabilité globale et pour celles qui font l'objet d'une vérification de ce type exercée par la commission
+de contrôle des assurances, lorsque la marge de solvabilité n'atteint pas le fonds de garantie ou si ce fonds n'est pas
+constitué réglementairement.
 
 **Liens relatifs à cet article**
 
@@ -26821,14 +26840,20 @@ prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°91-603 1991-06-27 art. 12 IV, V JORF 28 juin 1991
-	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 9 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-17 (M)
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L323-1-1 (M)
 
 	**Cité par**:
 
@@ -26838,12 +26863,12 @@ prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'
 
 ###### Article R323-4
 
-Lorsque la marge de solvabilité d'une entreprise française n'atteint pas le fonds de garantie, ou si le fonds n'est pas
-constitué réglementairement, la commission de contrôle des assurances exige de l'entreprise un plan de financement à court
-terme, qui doit être soumis dans le délai d'un mois à son approbation.
+Lorsqu'elle met en oeuvre les mesures mentionnées au troisième alinéa de l'article L. 323-1-1, la commission de contrôle des
+assurances en avertit immédiatement l'entreprise concernée et dispose dès lors d'un délai de trois mois pour faire connaître
+sa décision de lever ou confirmer ces mêmes mesures.
 
-Les dirigeants de l'entreprise qui ne produit pas un plan de financement à court terme, ou qui n'exécute pas dans les
-conditions et délais prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
+Pendant la période de trois mois mentionnée à l'alinéa précédent, les responsables de l'entreprise sont mis à même d'être
+entendus. Ils peuvent se faire assister ou représenter.
 
 **Liens relatifs à cet article**
 
@@ -26853,11 +26878,15 @@ conditions et délais prévus celui qui a été approuvé, sont passibles des sa
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
+	  - Décret n°94-635 du 25 juillet 1994 - art. 9 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L323-1-1 (M)
 
 	**Cité par**:
 
@@ -26870,16 +26899,10 @@ conditions et délais prévus celui qui a été approuvé, sont passibles des sa
 
 ###### Article R323-5
 
-Lorsque la marge de solvabilité d'une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat
-membre de la Communauté économique européenne et qui ne fait l'objet d'aucune vérification de solvabilité globale, n'atteint
-pas le fonds de garantie ou si ce fonds n'est pas constitué réglementairement, la commission de contrôle des assurances exige
-de l'entreprise un plan de financement à court terme, qui doit être soumis à son approbation dans le délai d'un mois.
-
-Il en est de même lorsque l'entreprise fait l'objet d'une vérification de solvabilité globale exercée par la commission de
-contrôle des assurances.
-
-Les dirigeants de l'entreprise qui ne produit pas un plan de financement à court terme, ou qui n'exécute pas dans les
-conditions et délais prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
+Lorsque, conformément aux dispositions du troisième alinéa de l'article L. 323-1-1, un administrateur provisoire est désigné
+auprès d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1, un commissaire contrôleur est désigné
+par la commission de contrôle des assurances auprès de l'entreprise et dispose des pouvoirs mentionnés au paragraphe I de
+l'article R. 323-1.
 
 **Liens relatifs à cet article**
 
@@ -26887,14 +26910,19 @@ conditions et délais prévus celui qui a été approuvé, sont passibles des sa
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°91-603 1991-06-27 art. 12 VII, VIII JORF 28 juin 1991
-	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 9 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L323-1-1 (M)
+	  - Code des assurances - art. R*323-1 (M)
 
 	**Cité par**:
 
@@ -26904,10 +26932,11 @@ conditions et délais prévus celui qui a été approuvé, sont passibles des sa
 
 ###### Article R323-8
 
-Dans les cas prévus aux articles R. 323-1, R. 323-6 et R. 323-7 où la commission de contrôle des assurances est amenée à
-restreindre ou interdire la libre disposition des actifs d'une entreprise, la commission peut prescrire par lettre
-recommandée à toute société ou collectivité émettrice de refuser l'exécution de toute opération portant sur des titres
-appartenant à l'entreprise intéressée, ainsi que le paiement des intérêts et dividendes afférents auxdits titres.
+Lorsque la commission de contrôle des assurances est amenée à restreindre ou interdire la libre disposition des actifs d'une
+entreprise, la commission peut prescrire par lettre recommandée à toute société ou collectivité émettrice ou dépositaire de
+refuser l'exécution de toute opération portant sur des comptes ou des titres appartenant à l'entreprise intéressée, ainsi que
+le paiement des intérêts et dividendes afférents auxdits titres ou subordonner l'exécution de ces opérations au visa
+préalable d'un commissaire contrôleur ou de toute personne qu'elle accréditera à cet effet.
 
 La commission peut, en outre, faire inscrire sur les immeubles de l'entreprise l'hypothèque mentionnée par l'article L.
 327-3 ; elle peut prescrire aux conservateurs des hypothèques, par lettre recommandée, de refuser la transcription de tous
@@ -26919,8 +26948,8 @@ ladite entreprise.
 
 La commission peut enfin exiger que tous les fonds, titres et valeurs détenus ou possédés par l'entreprise soient, dans des
 délais et conditions qu'elle fixera, transférés à la Banque de France pour y être déposés dans un compte bloqué. Ce compte ne
-pourra être débité sur ordre de son titulaire que sur autorisation expresse de la commission, et seulement pour un montant
-déterminé.
+pourra être débité sur ordre de son titulaire que sur autorisation expresse de la commission ou de toute personne désignée
+par elle, et seulement pour un montant déterminé.
 
 Les dirigeants de l'entreprise qui n'effectue pas le transfert mentionné à l'alinéa précédent sont passibles des sanctions
 prévues à l'article R. 328-1.
@@ -26931,20 +26960,17 @@ prévues à l'article R. 328-1.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°91-603 1991-06-27 art. 12 XI, XII, XIII, XIV JORF 28 juin 1991
-	  - Décret n°91-603 du 27 juin 1991 - art. 12 () JORF 28 juin 1991
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 9 () JORF 26 juillet 1994
 
 	**Cite**:
 
 	  - Code des assurances - art. L327-3 (M)
-	  - Code des assurances - art. R*323-1 (M)
-	  - Code des assurances L327-3, R323-1, R323-6, R323-7, R328-1
 
 	**Cité par**:
 
@@ -26952,13 +26978,9 @@ prévues à l'article R. 328-1.
 	  - Code des assurances - art. R328-1 (V)
 
 
-#### Chapitre IV : Transfert de portefeuille
+###### Article R323-9
 
-##### Section I : Règles générales.
-
-###### Article R*324-1
-
-L'autorité administrative mentionnée à l'article L. 324-1 est le ministre de l'économie et des finances.
+L'autorité administrative mentionnée à l'article L. 323-1 est la commission de contrôle des assurances.
 
 **Liens relatifs à cet article**
 
@@ -26966,97 +26988,31 @@ L'autorité administrative mentionnée à l'article L. 324-1 est le ministre de 
 
 	  - Décret n°76-667 1976-07-16
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 10 () JORF 26 juillet 1994
-
-	**Cité par**:
-
-	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°94-635 du 25 juillet 1994 - art. 9 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. L324-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L324-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 11
+	  - Code des assurances - art. L323-1 (M)
 
 
-###### Article R*324-2
-
-Le ministre de l'économie, des finances et du budget ne prend la décision d'approbation de transfert prévue à l'article L.
-324-1 que si l'entreprise cessionnaire possède, compte tenu du transfert, une marge de solvabilité au moins égale au montant
-réglementaire et qu'après avoir consulté, s'il y a lieu, les autorités de contrôle d'Etats membres de la Communauté
-économique européenne autres que la France.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 19 () JORF 12 mai 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 10 () JORF 26 juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L324-1 (M)
-
-
-###### Article R*324-3
-
-La commission de contrôle des assurances fait connaître ses observations à l'autorité de contrôle d'un Etat membre de la
-Communauté économique européenne qui l'informe qu'une demande est présentée par une entreprise française d'assurance aux fins
-de transférer dans ledit Etat tout ou partie de son portefeuille de contrats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
-
-	**Modifié par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 15 () JORF 28 juin 1991
-
-	**Abrogé par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 10 () JORF 26 juillet 1994
-
+#### Chapitre IV : Transfert de portefeuille
 
 ##### Section II : Transfert d'office.
 
 ###### Article R*324-4
 
-Lorsque la commission de contrôle des assurances décide, en application de l'article L. 310-18, d'imposer à une entreprise le
-transfert d'office de son portefeuille de contrats d'assurance, cette décision est portée à la connaissance de l'ensemble des
-entreprises d'assurance par un avis publié au Journal officiel. Cet avis fait courir un délai de quinze jours pendant
-lesquels les entreprises qui accepteraient de prendre en charge le portefeuille en cause doivent se faire connaître à la
-commission.
+Lorsqu'elle décide le transfert d'office d'un portefeuille de contrats d'assurance conclus sur le territoire d'un ou de
+plusieurs Etats membres de l'Espace économique européen, en application de l'article L. 310-18, la commission de contrôle des
+assurances en avise les autorités compétentes de ces différents Etats.
 
-L'entreprise désignée par la commission de contrôle des assurances pour prendre en charge le portefeuille de contrats
-d'assurances transféré est avisée de cette désignation par lettre recommandée avec demande d'avis de réception.
+Lorsque l'entreprise cessionnaire est originaire d'un Etat membre de l'Espace économique européen, la commission de contrôle
+des assurances s'assure auprès des autorités compétentes de cet Etat membre que l'entreprise possède, compte tenu du
+transfert, la marge de solvabilité nécessaire.
 
-La décision qui prononce le transfert en fixe les modalités et la date de prise d'effet.
+La décision de transfert et le nom de l'entreprise cessionnaire font l'objet d'une publication au Journal officiel, à la
+diligence de la commission de contrôle des assurances.
 
 **Liens relatifs à cet article**
 
@@ -27064,9 +27020,13 @@ La décision qui prononce le transfert en fixe les modalités et la date de pris
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°90-495 du 20 juin 1990 - art. 2 () JORF 22 juin 1990
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 10 () JORF 26 juillet 1994
 
 	**Cite**:
 
@@ -27076,39 +27036,18 @@ La décision qui prononce le transfert en fixe les modalités et la date de pris
 
 	  - Code des assurances - art. R391-1 (V)
 
-	**Nouveaux textes**:
-
-	  - Code des assurances R310-21
-
 
 #### Chapitre V : Retrait de l'agrément administratif
 
 ##### Section I : Règles générales.
 
-###### Article R*325-8
-
-En cas de retrait d'agrément d'une entreprise étrangère par l'autorité de contrôle de son siège social, le ministre de
-l'économie et des finances procède au retrait de l'agrément précédemment accordé à la succursale française de cette
-entreprise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*325-12 (M)
-
-
 ###### Article R*325-9
 
-Si une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
-économique européenne, soumise à une vérification de solvabilité globale exercée par l'autorité de contrôle d'un Etat membre
-de ladite Communauté autre que la France, fait l'objet de la part de cette autorité d'un retrait d'agrément motivé par
-l'insuffisance de la solvabilité globale mentionnée à l'article R. 334-18, le ministre de l'économie et des finances procède
-au retrait de l'agrément administratif précédemment accordé à la succursale française de cette entreprise.
+Si une entreprise visée au 4° de l'article L. 310-2, soumise à une vérification de solvabilité globale exercée par l'autorité
+de contrôle d'un Etat membre de l'Espace économique européen autre que la France, fait l'objet de la part de cette autorité
+d'un retrait d'agrément motivé par l'insuffisance de la solvabilité globale mentionnée à l'article R. 334-18, le ministre de
+l'économie et des finances procède au retrait de l'agrément administratif précédemment accordé à la succursale française de
+cette entreprise.
 
 **Liens relatifs à cet article**
 
@@ -27118,22 +27057,23 @@ au retrait de l'agrément administratif précédemment accordé à la succursale
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 22 () JORF 15 septembre 1990
+	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. R*334-12 (M)
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. R*334-18 (M)
 
 
 ###### Article R325-2
 
-Si le retrait d'agrément prévu à l'article L. 325-1 ou au 5° de l'article L. 310-18 concerne une entreprise française agréée
-également sur le territoire d'autres Etats membres des communautés économiques européennes, le ministre chargé de l'économie
-et des finances ou la commission de contrôle des assurances, selon le cas, informe les autorités de contrôle de ces Etats.
+Si le retrait d'agrément prévu à l'article L. 325-1 ou au 5° de l'article L. 310-18 concerne une entreprise française opérant
+également sur le territoire d'autres Etats membres de l'Espace économique européen, le ministre chargé de l'économie et des
+finances ou la commission de contrôle des assurances, selon le cas, informe les autorités de contrôle de ces Etats.
 
 **Liens relatifs à cet article**
 
@@ -27143,11 +27083,11 @@ et des finances ou la commission de contrôle des assurances, selon le cas, info
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 18 () JORF 15 septembre 1990
+	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
 
 	**Cite**:
 
@@ -27158,9 +27098,9 @@ et des finances ou la commission de contrôle des assurances, selon le cas, info
 ###### Article R325-4
 
 Avant de procéder au retrait d'agrément prévu à l'article L. 325-1 ou au 5° de l'article L. 310-18, dans le cas d'une
-entreprise étrangère dont le siège social est établi sur le territoire d'un Etat membre des communautés économiques
-européennes, le ministre chargé de l'économie et des finances ou la commission de contrôle des assurances, selon le cas,
-consulte l'autorité de contrôle de l'Etat où est situé le siège social de cette entreprise.
+entreprise agréée conformément aux dispositions de l'article L. 321-7, le ministre chargé de l'économie et des finances ou la
+commission de contrôle des assurances, selon le cas, consulte l'autorité de contrôle de l'Etat où est situé le siège social
+de cette entreprise.
 
 Toutefois, le ministre chargé de l'économie et des finances ou la commission de contrôle des assurances, selon le cas, peut
 suspendre l'activité de l'entreprise sur le territoire de la République française avant l'issue de cette consultation. Dans
@@ -27174,23 +27114,24 @@ ce cas, elle en informe immédiatement l'autorité de contrôle étrangère int�
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 19 () JORF 15 septembre 1990
+	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L321-7 (V)
 	  - Code des assurances - art. L325-1 (M)
 
 
 ###### Article R325-5
 
-La commission de contrôle des assurances fait connaître ses observations à l'autorité de contrôle d'un Etat membre de la
-Communauté économique européenne qui la consulte à l'occasion du retrait d'un agrément précédemment accordé dans cet Etat à
-une entreprise française mentionnée à l'article L. 310-1 du code des assurances.
+La commission de contrôle des assurances fait connaître ses observations à l'autorité de contrôle d'un Etat non communautaire
+membre de l'Espace économique européen qui la consulte à l'occasion du retrait d'un agrément précédemment accordé dans cet
+Etat à une entreprise française visée au 1° de l'article L. 310-2 du code des assurances.
 
 **Liens relatifs à cet article**
 
@@ -27200,24 +27141,23 @@ une entreprise française mentionnée à l'article L. 310-1 du code des assuranc
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 20 () JORF 15 septembre 1990
+	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-2 (M)
 
 
 ###### Article R325-7
 
-Si le retrait d'agrément mentionné à l'article L. 325-1 ou au 5° de l'article L. 310-18 concerne une entreprise étrangère
-dont le siège social n'est pas établi sur le territoire d'un Etat membre des communautés économiques européennes et qui fait
-l'objet d'une vérification de solvabilité globale exercée par la commission de contrôle des assurances, l'autorité qui
-prononce le retrait d'agrément informe les autorités de contrôle des Etats membres des communautés économiques européennes
-sur le territoire desquels l'entreprise est agréée.
+Si le retrait d'agrément mentionné à l'article L. 325-1 ou au 5° de l'article L. 310-18 concerne une entreprise visée au 4°
+de l'article L. 310-2 et qui fait l'objet d'une vérification de solvabilité globale exercée par la commission de contrôle des
+assurances, l'autorité qui prononce le retrait d'agrément informe les autorités de contrôle des Etats membres de l'Espace
+économique européen sur le territoire desquels l'entreprise est agréée.
 
 **Liens relatifs à cet article**
 
@@ -27227,25 +27167,56 @@ sur le territoire desquels l'entreprise est agréée.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 21 () JORF 15 septembre 1990
+	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. L325-1 (M)
+
+
+###### Article R325-8
+
+En cas de retrait d'agrément d'une entreprise étrangère par l'autorité de contrôle de son siège social, le ministre de
+l'économie et des finances procède au retrait de l'agrément précédemment accordé à la succursale française de cette
+entreprise en application des articles L. 321-7 ou L. 321-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L321-9 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*325-12 (M)
 
 
 ###### Article R325-10
 
 Lorsqu'une entreprise fait l'objet d'un retrait de l'agrément administratif par le ministre de l'économie et des finances,
-par la commission de contrôle des assurances ou par l'autorité de contrôle d'un Etat de la Communauté économique européenne
-autre que la France, la commission de contrôle des assurances prend, le cas échéant, avec le concours des autorités de
-contrôle des Etats membres de la Communauté sur le territoire desquels l'entreprise opère, toutes mesures propres à
-sauvegarder les intérêts des assurés et bénéficiaires de contrats, notamment celles prévues à l'article R. 323-8.
+par la commission de contrôle des assurances ou par l'autorité de contrôle d'un Etat de l'Espace économique européen autre
+que la France, la commission de contrôle des assurances prend, le cas échéant, avec le concours des autorités de contrôle des
+Etats membres de la Communauté sur le territoire desquels l'entreprise opère, toutes mesures propres à sauvegarder les
+intérêts des assurés et bénéficiaires de contrats, notamment celles prévues à l'article L. 323-1-1.
 
 **Liens relatifs à cet article**
 
@@ -27255,22 +27226,22 @@ sauvegarder les intérêts des assurés et bénéficiaires de contrats, notammen
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°90-815 du 14 septembre 1990 - art. 23 () JORF 15 septembre 1990
+	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. R*323-8 (M)
+	  - Code des assurances - art. L323-1-1 (M)
 
 
 ###### Article R325-11
 
 Toute décision de retrait de l'agrément administratif ou de suspension d'activité doit être motivée de façon précise et
-notifiée à l'entreprise intéressée, si cette décision s'applique à une entreprise française ou à une entreprise étrangère
-dont le siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne.
+notifiée à l'entreprise intéressée, si cette décision s'applique à une entreprise agréée conformément aux dispositions des
+articles L. 321-1, L. 321-7 ou L. 321-9.
 
 **Liens relatifs à cet article**
 
@@ -27280,11 +27251,13 @@ dont le siège social est établi sur le territoire d'un Etat membre de la Commu
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 24 () JORF 12 mai 1984
+	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L321-9 (M)
 
 
 ###### Article R325-12
@@ -27394,9 +27367,9 @@ chargé des transports.
 
 ###### Article R326-1
 
-En cas de retrait de l'agrément administratif accordé à une entreprise mentionnée au 5° de l'article L. 310-1, dans le délai
-de trente jours à compter du lendemain du jour de la publication au Journal officiel de la décision du ministre chargé de
-l'économie et des finances ou de la commission de contrôle des assurances prononçant le retrait d'agrément, chaque
+En cas de retrait de l'agrément administratif accordé à une entreprise mentionnée aux 2° et 3° de l'article L. 310-1, dans le
+délai de trente jours à compter du lendemain du jour de la publication au Journal officiel de la décision du ministre chargé
+de l'économie et des finances ou de la commission de contrôle des assurances prononçant le retrait d'agrément, chaque
 souscripteur de contrat est avisé de ce retrait d'agrément par le liquidateur ou, en attendant la désignation du liquidateur,
 par la personne qui était investie dans l'entreprise des pouvoirs de direction générale ou par son représentant. Cet avis
 fait l'objet d'une lettre recommandée adressée au dernier domicile connu du souscripteur et doit, notamment reproduire le
@@ -27413,7 +27386,7 @@ retire l'agrément.
 
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 16 () JORF 28 juin 1991
+	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
 
 	**Cite**:
 
@@ -27456,14 +27429,20 @@ acceptations.
 
 ###### Article R328-1
 
-Sont passibles d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5ème classe les
-dirigeants d'entreprise qui méconnaissent les obligations ou interdictions résultant des articles R. 310-2, R. 310-5, R.
-322-3, R. 322-8 (1er alinéa), R. 322-77 (1er alinéa), R. 323-1 (dernier alinéa), R. 323-2 (dernier alinéa), R. 323-3 (dernier
-alinéa), R. 323-4 (dernier alinéa), R. 323-5 (dernier alinéa), R. 323-8 (dernier alinéa), R. 326-1, R. 331-1, R. 332-1, R.
-332-38, R. 341-1 et R. 341-4.
+Est puni de la peine d'amende prévue pour les contraventions de cinquième classe le fait pour tout dirigeant d'une entreprise
+soumise au contrôle de l'Etat en vertu de l'article L. 310-1 :
 
-En cas de récidive, la peine d'amende sera celle prévue par le 5° de l'article 131-13 du code pénal pour les contraventions
-de la 5ème classe commises en récidive.
+1° De méconnaître les obligations ou interdiction résultant des articles R. 321-17-1, R. 322-3, R. 322-8 (1er alinéa), R.
+322-77 (1er alinéa), R. 323-8 (dernier alinéa), R. 326-1, R. 331-1, R. 332-1 et R. 332-38 ;
+
+2° De ne pas produire un programme de rétablissement, un plan de redressement ou un plan de financement à court terme
+prescrits conformément aux dispositions des articles R. 323-1, R. 323-2 et R. 323-3, ou de ne pas exécuter dans les
+conditions et délais prévus celui qui a été approuvé ;
+
+3° De ne pas respecter les obligations qui lui incombent en matière de tenue de la comptabilité, enregistrement des
+opérations, conservation des pièces comptables et présentation des comptes annuels.
+
+En cas de récidive, la peine d'amende prévue pour la récidive des contraventions de la cinquième classe est applicable.
 
 **Liens relatifs à cet article**
 
@@ -27473,19 +27452,17 @@ de la 5ème classe commises en récidive.
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 1, art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code pénal - art. 131-13 (M)
+	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. R*322-77 (M)
 	  - Code des assurances - art. R*326-1 (M)
 	  - Code des assurances - art. R*331-1 (M)
 	  - Code des assurances - art. R*332-1 (M)
 	  - Code des assurances - art. R*332-38 (M)
-	  - Code des assurances - art. R*341-1 (M)
-	  - Code des assurances - art. R*341-4 (M)
-	  - Code des assurances R310-2, R310-5, R322-3, R322-8, R322-77, R323-1, R323-2, R323-3, R323-4, R323-5, R323-8, R326-1, R331-1, R332-1, R332-38, R341-1, R341-4
+	  - Code des assurances L310-1, R321-17-1, R322-3, R322-8, R322-77, R323-8, R326-1, R331-1, R332-1, R332-38, R323-1, R323-2, R323-3
 
 	**Liens**:
 
@@ -27789,6 +27766,73 @@ sont déterminées dans les conditions fixées par arrêté du ministre de l'éc
 	  - TXT_SOURCE: Code des assurances - art. A331-8 (Ab)
 
 
+###### Article R331-5
+
+Pour tout contrat d'assurance sur la vie comportant une valeur de rachat et pour les contrats de capitalisation, la valeur de
+rachat est égale à la provision mathématique du contrat diminuée, éventuellement, d'une indemnité qui ne peut dépasser 5 p.
+100 de cette provision mathématique. Cette indemnité doit être nulle à l'issue d'une période de dix ans à compter de la date
+d'effet du contrat.
+
+Pour l'application du présent article, la provision mathématique ne tient pas compte des éventuelles garanties de fidélité
+non exigibles par l'assuré au moment du rachat. Ces garanties doivent être explicitement décrites dans le contrat et
+clairement distinguées de la garantie qui en est l'objet principal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Cité par**:
+
+	  - Décret n°93-866 du 25 juin 1993 - art. 2 (V)
+	  - Code des assurances - art. A132-8 (M)
+	  - Code des assurances - art. D132-7 (V)
+	  - Code des assurances - art. R134-8 (VD)
+	  - Code des assurances - art. R142-10 (Ab)
+	  - Code des assurances - art. R142-8 (Ab)
+	  - Code des assurances - art. R144-27 (VD)
+	  - Code des assurances - art. R332-2 (M)
+	  - Code des assurances - art. R332-39 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - TXT_SOURCE: Code des assurances - art. A331-9 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. L132-28 (M)
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 12 () JORF 26 juillet 1994
+
+
+###### Article R331-5-2
+
+L'autorité administrative mentionnée à l'article L. 331-4 est le ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 12 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. L331-4
+
+
 ##### Section III : Provisions techniques des autres opérations d'assurance.
 
 ###### Article R331-6
@@ -27823,12 +27867,14 @@ août 1975 et le décret n° 86-741 du 14 mai 1986 ;
 b) Provision destinée à compenser en assurance-crédit la perte technique éventuelle apparaissant à la fin de l'exercice, et
 calculée dans les conditions fixées à l'article R. 331-33.
 
-7° Provision mathématique des réassurances : provision à constituer par les entreprises mentionnées au 5° de l'article L.
-310-1 qui acceptent en réassurance des risques cédés par des entreprises d'assurance sur la vie ou d'assurance nuptialité-
+7° Provision mathématique des réassurances : provision à constituer par les entreprises mentionnées aux 2° et 3° de l'article
+L. 310-1 qui acceptent en réassurance des risques cédés par des entreprises d'assurance sur la vie ou d'assurance nuptialité-
 natalité et égale à la différence entre les valeurs actuelles des engagements respectivement pris l'un envers l'autre par le
 réassureur et le cédant ;
 
-8° Toutes autres provisions techniques qui peuvent être fixées par décrets en Conseil d'Etat.
+8° Provision pour risque d'exigibilité des engagements techniques : provision destinée à faire face à une insuffisante
+liquidité des placements, notamment en cas de modification du rythme de règlement des sinistres, calculée dans les conditions
+définies au premier alinéa de l'article R. 331-5-1.
 
 **Liens relatifs à cet article**
 
@@ -27839,7 +27885,7 @@ réassureur et le cédant ;
 	  - Décret n°86-741 1986-05-14
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. R*331-1 (M)
-	  - Code des assurances - art. R331-33 (V)
+	  - Code des assurances - art. R331-5-1 (M)
 
 	**Codifié par**:
 
@@ -27853,6 +27899,7 @@ réassureur et le cédant ;
 	  - Code des assurances - art. A331-17 (V)
 	  - Code des assurances - art. A332-7 (M)
 	  - Code des assurances - art. R*331-22 (Ab)
+	  - Code des assurances - art. R331-33 (VT)
 	  - Code des assurances - art. R332-2 (M)
 	  - Code des assurances - art. R332-20 (M)
 	  - Code des assurances - art. R332-39 (V)
@@ -27860,19 +27907,18 @@ réassureur et le cédant ;
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 17 () JORF 28 juin 1991
-	  - Décret n°91-603 du 27 juin 1991 - art. 18 () JORF 28 juin 1991
+	  - Décret n°94-635 du 25 juillet 1994 - art. 12 () JORF 26 juillet 1994
 
 
 ##### Paragraphe 1 : Provision mathématique des rentes
 
 ###### Article R331-7
 
-La provision mathématique des rentes à la charge des entreprises mentionnées au 5° de l'article L. 310-1 ainsi que les
+La provision mathématique des rentes à la charge des entreprises mentionnées aux 2° et 3° de l'article L. 310-1 ainsi que les
 capitaux constitutifs desdites rentes sont calculés dans les conditions fixées par arrêté du ministre chargé de l'économie et
 des finances.
 
@@ -27880,30 +27926,29 @@ des finances.
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-667 du 16 juillet 1976
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 19 () JORF 28 juin 1991
+	  - Décret n°94-635 du 25 juillet 1994 - art. 12 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. A331-10 (M)
 	  - TXT_SOURCE: Code des assurances - art. A331-11 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A331-12 (V)
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1
 
 	**Cité par**:
 
 	  - Code des assurances - art. R*433-1 (M)
-
-	**Anciens textes**:
-
-	  - Code des assurances R331-8 (1ère version)
 
 
 ##### Paragraphe 2 : Provision pour risques en cours.
@@ -28222,79 +28267,14 @@ plus élevée résultant de ces trois méthodes est retenue.
 	  - Code des assurances - art. R331-16 (VT)
 
 
-##### Paragraphe 4 : Dispositions particulières au Lloyd's de Londres.
-
-###### Article R*331-29
-
-Les dispositions de la présente section et de la section I du présent chapitre sont applicables au Lloyd's de Londres, sous
-réserve des modalités spéciales d'application déterminées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-	  - TXT_ASSOCIE: Code des assurances R331-30
-
-	**Modifié par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 17 () JORF 28 juin 1991
-
-	**Abrogé par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 12 () JORF 26 juillet 1994
-
-
-###### Article R*331-30
-
-Le montant minimal des provisions techniques afférentes aux opérations du Lloyds de Londres sur le territoire de la
-République française est calculé forfaitairement dans les conditions suivantes.    La provision technique de chaque exercice
-donne lieu à une évaluation distincte.
-
-Lors du premier inventaire de l'exercice considéré, la provision est égale au montant des primes de l'exercice au sens du
-compte d'exploitation générale institué par l'article R. 343-3, nettes des frais d'acquisition et brutes de cessions en
-réassurance, diminué du montant des sinistres survenus au cours de cet exercice et payés à la date de l'inventaire, nets de
-recours.
-
-Au second inventaire, la provision afférente au même exercice est égale à la provision calculée à l'alinéa précédent,
-diminuée du montant des sinistres survenus au cours de l'exercice considéré et payés entre les dates du premier et du second
-inventaire, nets de recours.
-
-A partir du troisième inventaire, la provision est calculée de telle sorte qu'elle soit normalement suffisante pour permettre
-le règlement des sinistres en suspens.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 12 () JORF 26 juillet 1994
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R331-29
-
-	**Cite**:
-
-	  - Code des assurances R343-3
-
-
 ##### Paragraphe 5 : Dispositions supplémentaires concernant la coassurance communautaire.
 
 ###### Article R331-31
 
 Dans le cas où des entreprises agréées dans les conditions fixées à l'article L. 321-1 participent à une opération de
-coassurance définie à l'article L. 352-1 sur le territoire couvert par le traité instituant la Communauté économique
-européenne des  Etats membres de cette Communauté autres que la France, la provision pour sinistres restant à payer que
-chacune de ces entreprises doit constituer est au moins égale au montant calculé par l'apériteur, compte tenu des règles ou
-pratiques en usage dans le pays où est établi ce dernier.
+coassurance définie à l'article L. 352-1 sur le territoire des Etats membres non communautaires de l'Espace économique
+européen, la provision pour sinistres restant à payer que chacune de ces entreprises doit constituer est au moins égale au
+montant calculé par l'apériteur, compte tenu des règles ou pratiques en usage dans le pays où est établi ce dernier.
 
 **Liens relatifs à cet article**
 
@@ -28302,18 +28282,18 @@ pratiques en usage dans le pays où est établi ce dernier.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 26 () JORF 28 juin 1991
+	  - Décret n°94-635 du 25 juillet 1994 - art. 12 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Cite**:
 
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L352-1 (M)
+	  - Code des assurances - art. L321-1
+	  - Code des assurances - art. L352-1
 
 
 ##### Paragraphe 6 : Dispositions particulières relatives à l'assurance de la construction : responsabilité civile décennale.
@@ -28451,33 +28431,6 @@ l'exportation pour le compte ou avec la garantie de l'Etat.
 
 ##### Section I : Eléments d'actif admis en représentation des engagements réglementés.
 
-###### Article R*332-6
-
-La provision pour risques en cours des entreprises pratiquant les opérations mentionnées aux 5° et 7° de l'article L. 310-1
-peut être représentée jusqu'à concurrence de 30 p. 100 de son montant, par des primes ou cotisations nettes d'impôts, de
-taxes et de commissions, et de trois mois de date au plus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°88-456 du 27 avril 1988 - art. 5 () JORF 29 avril 1988
-
-	**Cité par**:
-
-	  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
-	  - Code des assurances - art. R332-7 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
-
 ###### Article R332-1
 
 1. Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute époque, être représentés par des actifs
@@ -28486,7 +28439,7 @@ taxes et de commissions, et de trois mois de date au plus.
 2. Les engagements pris dans une monnaie doivent être couverts par des actifs congruents, c'est-à-dire libellés ou
 réalisables dans cette monnaie.
 
-3. Les actifs mentionnés au 1 doivent être localisés sur le territoire de la République française.
+3. Les actifs mentionnés au 1 doivent être localisés sur le territoire d'un Etat membre de la Communauté européenne.
 
 Toutefois, les engagements pris dans le cadre de la coassurance communautaire, en exécution des dispositions de l'article L.
 352-1, par une entreprise mentionnée à l'article L. 310-1 peuvent être couverts par des actifs localisés dans le pays de
@@ -28502,14 +28455,9 @@ l'engagement lorsque ce dernier subordonne l'exercice de ces opérations à agr�
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-469 du 23 mars 1993 - art. 4 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°94-635 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -29060,6 +29008,37 @@ inscrits au bilan pour leur valeur au jour de l'inventaire.
 	  - Code des assurances - art. R332-3-1 (M)
 
 
+###### Article R332-6
+
+La provision pour risques en cours des entreprises pratiquant les opérations mentionnées aux 2° et 3° de l'article L. 310-1
+peut être représentée jusqu'à concurrence de 30 % de son montant, par des primes ou cotisations nettes d'impôts, de taxes et
+de commissions, et de trois mois de date au plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
+	  - Code des assurances - art. R332-7 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+
 ###### Article R332-7
 
 Pour la représentation des provisions techniques correspondant aux branches mentionnées aux 4 à 7, 11 et 12 de l'article R.
@@ -29144,13 +29123,13 @@ nettes détenues sur les cédants au titre desdites acceptations.
 
 ###### Article R332-9
 
-Les entreprises mentionnées à l'article L. 310-1 peuvent représenter les engagements afférents aux opérations réalisées à
-l'étranger, par l'intermédiaire de succursales, par les éléments d'actif admis par les législations des pays où elles opèrent
-et localisés sur le territoire de ces pays.
+Les entreprises mentionnées au 1° de l'article L. 310-2 peuvent représenter les engagements afférents aux opérations
+réalisées par leurs succursales situées hors du territoire des communautés européennes par les éléments d'actif admis par les
+législations des pays où elles opèrent et localisés sur le territoire de ces pays.
 
 Il en est de même lorsque les engagements réglementés des entreprises établies en France résultent d'opérations réalisées en
-libre prestation de services au sens des articles L. 351-1 et L. 353-1 et que le pays de situation du risque ou de
-l'engagement subordonne l'exercice de ces opérations à agrément.
+libre prestation de services au sens du 4° de l'article L. 310-3 et que le pays de situation du risque ou de l'engagement
+subordonne l'exercice de ces opérations à agrément.
 
 Les cautionnements ou garanties qui pourraient être exigés par lesdits pays ou par les sociétés cédantes desdits pays peuvent
 être représentés dans les conditions énumérées au premier alinéa.
@@ -29163,7 +29142,7 @@ Les cautionnements ou garanties qui pourraient être exigés par lesdits pays ou
 
 	**Modifié par**:
 
-	  - Décret n°93-469 du 23 mars 1993 - art. 4 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°94-635 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -29172,9 +29151,8 @@ Les cautionnements ou garanties qui pourraient être exigés par lesdits pays ou
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L351-1 (M)
-	  - Code des assurances - art. L353-1 (Ab)
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L310-3 (M)
 
 
 ###### Article R332-10
@@ -29421,15 +29399,25 @@ visées aux 1°, 2°, 2° bis, 3°, 4°, 8° et 9° bis de l'article R. 332-2.
 Les valeurs reçues en nantissement sont évaluées conformément aux dispositions du 2° de l'article R. 332-20. Pour
 l'estimation des valeurs mentionnées au 1° de l'article R. 332-2, la fraction courue du coupon est prise en compte.
 
+A la demande d'une entreprise, la commission de contrôle des assurances peut, par dérogation aux dispositions du premier
+alinéa du présent article, l'autoriser, pour une durée déterminée, à constituer la garantie mentionnée à l'article R. 332-3-3
+dans des limites fixées par arrêté du ministre chargé de l'économie et des finances, par une caution ou un engagement
+équivalent pris par un établissement de crédit, dès lors que la nature et la forme de l'engagement ainsi que la qualité du
+garant répondent aux conditions fixées par le même arrêté.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°90-981 du 5 novembre 1990 - art. 12 () JORF 6 novembre 1990
+	  - Décret n°94-635 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -29972,7 +29960,7 @@ exercice où sont inscrites les primes ou cotisations ayant donné lieu à l'ava
 ###### Article R332-37
 
 Les règles édictées à la présente section ne s'appliquent qu'aux entreprises étrangères dont le siège social n'est pas établi
-sur le territoire d'un Etat membre de la Communauté économique européenne.
+sur le territoire d'un Etat membre de l'Espace économique européen.
 
 Pour l'application des dispositions des articles R. 332-38 à R. 332-41 et des deux derniers alinéas de l'article R. 332-42,
 les valeurs mobilières reçues en nantissement des réassureurs sont assimilées à des valeurs mobilières affectées à la
@@ -29986,17 +29974,21 @@ représentation des provisions techniques.
 
 	**Modifié par**:
 
-	  - Décret n°84-1023 1984-11-14 art. 21, art. 22 JORF 23 novembre 1984
+	  - Décret n°94-635 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Cite**:
 
-	  - Code des assurances - art. R*332-42 (M)
-	  - Code des assurances R332-38 à R332-41, R332-42
+	  - Code des assurances
+	  - Code des assurances - art. R*332-42
 
 	**Cité par**:
 
 	  - Code des assurances - art. R332-38 (VT)
-	  - Code des assurances - art. R332-39 (V)
+	  - Code des assurances - art. R332-39 (VT)
 	  - Code des assurances - art. R332-44 (M)
 
 
@@ -30427,31 +30419,34 @@ entreprises la contre-valeur en francs de l'unité de compte de la Communauté �
 
 ###### Article R334-1
 
-Toute entreprise française soumise au contrôle de l'Etat en vertu de l'article L. 310-1 doit justifier de l'existence d'une
-marge de solvabilité suffisante, relative à l'ensemble de ses activités.
+Toute entreprise visée au 1° de l'article L. 310-2 doit justifier de l'existence d'une marge de solvabilité suffisante,
+relative à l'ensemble de ses activités.
 
 Cette disposition dispense les sociétés anonymes du prélèvement prescrit par l'article 345 de la loi n° 66-537 du 24 juillet
 1966 sur les sociétés commerciales.
 
-Sous réserve des dispositions de la section IV du présent chapitre, toute entreprise étrangère soumise au contrôle de l'Etat
-en vertu de l'article L. 310-1 et dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
-économique européenne, doit justifier de l'existence d'une marge de solvabilité suffisante relative à ses activités sur le
-territoire de la République française.
+Sous réserve des dispositions de la section IV du présent chapitre, toute entreprise visée au 3° ou au 4° de l'article L.
+310-2, doit justifier de l'existence d'une marge de solvabilité suffisante relative à ses activités sur le territoire de la
+République française.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°66-537 1966-07-24 art. 345
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-2 (M)
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -30552,11 +30547,10 @@ sanctions par la commission de contrôle des assurances.
 
 ###### Article R334-4
 
-La marge de solvabilité applicable aux entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un
-Etat membre de la Communauté économique européenne, mentionnée à l'article R. 334-1, est constituée par des actifs dont le
-montant, afférent aux opérations réalisées sur le territoire de la République française, est égal, après déduction des
-pertes, des amortissements restant à réaliser sur commissions, des frais d'établissement ou de développement et des autres
-actifs incorporels, au total des éléments définis aux 4, 5 et 7 de l'article R. 334-3.
+La marge de solvabilité applicable aux entreprises visées au 4° de l'article L. 310-2, mentionnée à l'article R. 334-1, est
+constituée par des actifs dont le montant, afférent aux opérations réalisées sur le territoire de la République française,
+est égal, après déduction des pertes, des amortissements restant à réaliser sur commissions, des frais d'établissement ou de
+développement et des autres actifs incorporels, au total des éléments définis aux 4, 5 et 7 de l'article R. 334-3.
 
 **Liens relatifs à cet article**
 
@@ -30564,12 +30558,17 @@ actifs incorporels, au total des éléments définis aux 4, 5 et 7 de l'article 
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. R*334-1 (M)
 
 	**Cité par**:
@@ -30582,9 +30581,9 @@ actifs incorporels, au total des éléments définis aux 4, 5 et 7 de l'article 
 
 ###### Article R334-5
 
-Pour les entreprises françaises, le montant réglementaire de la marge de solvabilité est déterminé, soit par rapport au
-montant annuel des primes ou cotisations, soit par rapport à la charge moyenne annuelle des sinistres. Ce montant
-réglementaire est égal au plus élevé des résultats obtenus par application des deux méthodes suivantes :
+Pour les entreprises visées au 1° de l'article L. 310-2, le montant réglementaire de la marge de solvabilité est déterminé,
+soit par rapport au montant annuel des primes ou cotisations, soit par rapport à la charge moyenne annuelle des sinistres. Ce
+montant réglementaire est égal au plus élevé des résultats obtenus par application des deux méthodes suivantes :
 
 a) Première méthode (calcul par rapport aux primes).
 
@@ -30635,9 +30634,13 @@ pour le calcul de la charge moyenne annuelle des sinistres des sept derniers exe
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°91-398 du 25 avril 1991 - art. 3 () JORF 27 avril 1991
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -30661,19 +30664,19 @@ pour le calcul de la charge moyenne annuelle des sinistres des sept derniers exe
 
 	**Cite**:
 
-	  - Code des assurances R321-1
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances L310-2, R321-1
 
 
 ###### Article R334-6
 
-Pour les entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
-économique européenne, le montant réglementaire de la marge de solvabilité est calculé, conformément aux dispositions de
-l'article R. 334-5, à partir des primes ou cotisations et des sinistres résultant des opérations réalisées par ces
-entreprises sur le territoire de la République française.
+Pour les entreprises visées au 4° de l'article L. 310-2, le montant réglementaire de la marge de solvabilité est calculé,
+conformément aux dispositions de l'article R. 334-5, à partir des primes ou cotisations et des sinistres résultant des
+opérations réalisées par ces entreprises sur le territoire de la République française.
 
 Les actifs correspondant à la marge doivent être localisés sur le territoire de la République française au moins jusqu'à
-concurrence du fonds de garantie mentionné à l'article R. 334-10, et pour le surplus à l'intérieur de la Communauté
-économique européenne.
+concurrence du fonds de garantie mentionné à l'article R. 334-10, et pour le surplus à l'intérieur de l'Espace économique
+européen.
 
 **Liens relatifs à cet article**
 
@@ -30681,9 +30684,13 @@ concurrence du fonds de garantie mentionné à l'article R. 334-10, et pour le s
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -30705,8 +30712,9 @@ concurrence du fonds de garantie mentionné à l'article R. 334-10, et pour le s
 
 ###### Article R334-7
 
-Le fonds de garantie des entreprises françaises agréées pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 17
-de l'article R. 321-1 est égal au tiers du montant réglementaire de la marge de solvabilité défini à l'article R. 334-5.
+Le fonds de garantie des entreprises visées au 1° de l'article L. 310-2 agréées pour pratiquer une ou plusieurs des branches
+mentionnées aux 1 à 17 de l'article R. 321-1 est égal au tiers du montant réglementaire de la marge de solvabilité défini à
+l'article R. 334-5.
 
 Ce fonds ne peut être inférieur au montant minimal suivant :
 
@@ -30718,9 +30726,10 @@ européenne ou 4 p. 100 du montant global des primes ou cotisations émises par 
 - 400 000 unités de compte de la Communauté économique européenne lorsque l'entreprise est agréée pour pratiquer des
 opérations entrant dans une branche mentionnée aux 10 à 13 et au 15 de l'article R. 321-1. Il en est de même pour les
 opérations entrant dans la branche 14 lorsque les entreprises ne sont pas soumises à l'obligation ci-dessus définie de
-constituer un fonds de garantie de 1 400 000 unités de compte de la Communauté économique européenne.    - 300.000 unités de
-compte de la Communauté économique européenne, lorsque l'entreprise est agréée pour pratiquer des opérations entrant dans une
-branche mentionnée aux 1 à 8, 16 à 18 du même article ;
+constituer un fonds de garantie de 1 400 000 unités de compte de la Communauté économique européenne.
+
+- 300.000 unités de compte de la Communauté économique européenne, lorsque l'entreprise est agréée pour pratiquer des
+opérations entrant dans une branche mentionnée aux 1 à 8, 16 à 18 du même article ;
 
 - 200.000 unités de compte de la Communauté économique européenne, lorsque l'entreprise est agréée pour pratiquer des
 opérations entrant dans une branche mentionnée aux 9 et 17 du même article.
@@ -30738,10 +30747,13 @@ considération pour le calcul du fonds de garantie la branche à laquelle corres
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°91-398 du 25 avril 1991 - art. 4 () JORF 27 avril 1991
-	  - Décret n°91-398 du 25 avril 1991 - art. 5 () JORF 27 avril 1991
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
 
 	**Cite**:
 
@@ -30878,13 +30890,13 @@ d) La moitié au moins de leurs cotisations sont versées par des personnes phys
 
 ###### Article R334-10
 
-Le fonds de garantie des entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un Etat membre de
-la Communauté économique européenne, agréées pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 18 de l'article
-R. 321-1, est égal au tiers du montant réglementaire de la marge de solvabilité défini à l'article R. 334-6.
+Le fonds de garantie des entreprises visées au 4° de l'article L. 310-2, agréées pour pratiquer une ou plusieurs des branches
+mentionnées aux 1 à 18 de l'article R. 321-1, est égal au tiers du montant réglementaire de la marge de solvabilité défini à
+l'article R. 334-6.
 
 Ce fonds ne peut être inférieur à la moitié du montant minimal mentionné au second alinéa de l'article R. 334-7.
 
-Le cautionnement initial déposé conformément au d) de l'article R. 321-8 s'impute sur le fonds de garantie.
+Le cautionnement initial déposé conformément à l'article R. 321-12 s'impute sur le fonds de garantie.
 
 **Liens relatifs à cet article**
 
@@ -30892,18 +30904,21 @@ Le cautionnement initial déposé conformément au d) de l'article R. 321-8 s'im
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-
 	**Modifié par**:
 
-	  - Décret n°88-456 du 27 avril 1988 - art. 2 () JORF 29 avril 1988
+	  - Décret n°94-635 1994-07-25 art. 14 VI, VII JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. R*321-12 (M)
 	  - Code des assurances - art. R*334-7 (M)
-	  - Code des assurances R321-1, R334-6, R334-7, R321-8
+	  - Code des assurances L310-2, R321-1, R334-6, R334-7, R321-12
 
 	**Cité par**:
 
@@ -31001,7 +31016,7 @@ sanctions par la commission de contrôle des assurances.
 
 ###### Article R334-12
 
-La marge de solvabilité des entreprises étrangères mentionnées à l'article R. 334-1 afférente aux opérations réalisées sur le
+La marge de solvabilité des entreprises visées au 4° de l'article L. 310-2 afférente aux opérations réalisées sur le
 territoire de la République française, est constituée, après déduction des pertes et des éléments incorporels, par les
 éléments définis aux 3, 4 et 5 de l'article R. 334-11.
 
@@ -31011,27 +31026,31 @@ territoire de la République française, est constituée, après déduction des 
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. R*334-11 (M)
 
 	**Cité par**:
 
 	  - Code des assurances - art. R*325-9 (M)
 	  - Code des assurances - art. R334-42 (V)
 
-	**Cite**:
-
-	  - Code des assurances - art. R*334-1 (M)
-	  - Code des assurances - art. R*334-11 (M)
-
 
 ##### Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité.
 
 ###### Article R334-13
 
-Pour les entreprises françaises, le montant minimal réglementaire de la marge de solvabilité est déterminé, en fonction des
-branches exercées, en application des dispositions suivantes :
+Pour les entreprises visées au 1° de l'article L. 310-2, le montant minimal réglementaire de la marge de solvabilité est
+déterminé, en fonction des branches exercées, en application des dispositions suivantes :
 
 a) Pour les branches 20 et 21, à l'exception des assurances complémentaires :
 
@@ -31113,12 +31132,11 @@ mentionnée à l'article R. 441-7, dans la limite de la provision mathématique 
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°93-384 1993-03-19 art. 5 *date d'effet*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°93-384 du 19 mars 1993 - art. 2 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
-	  - Décret n°93-866 du 25 juin 1993 - art. 4 () JORF 27 juin 1993
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -31146,11 +31164,10 @@ mentionnée à l'article R. 441-7, dans la limite de la provision mathématique 
 
 ###### Article R334-14
 
-Pour les entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
-économique européenne, le montant réglementaire de la marge de solvabilité est calculé, conformément aux dispositions de
-l'article R. 334-13, à partir, suivant le cas, des provisions techniques et des capitaux sous risque, des primes ou
-cotisations et des sinistres, ou des avoirs résultant des opérations réalisées par cette entreprise sur le territoire de la
-République française.
+Pour les entreprises visées au 4° de l'article L. 310-2, le montant réglementaire de la marge de solvabilité est calculé,
+conformément aux dispositions de l'article R. 334-13, à partir, suivant le cas, des provisions techniques et des capitaux
+sous risque, des primes ou cotisations et des sinistres, ou des avoirs résultant des opérations réalisées par cette
+entreprise sur le territoire de la République française.
 
 Les éléments constitutifs de la marge doivent être localisés sur le territoire de la République française au moins jusqu'à
 concurrence du fonds de garantie mentionné à l'article R. 334-16 et pour le surplus à l'intérieur de la Communauté économique
@@ -31162,9 +31179,13 @@ européenne.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -31178,6 +31199,7 @@ européenne.
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. R*334-13 (M)
 
 
@@ -31185,9 +31207,9 @@ européenne.
 
 ###### Article R334-15
 
-Le fonds de garantie des entreprises françaises agréées pour pratiquer une ou plusieurs des branches mentionnées aux 20 à 28
-de l'article R. 321-1 est égal au tiers du montant réglementaire de la marge de solvabilité défini à l'article R. 334-13,
-sans pouvoir être inférieur aux seuils définis ci-après :
+Le fonds de garantie des entreprises visées au 1° de l'article L. 310-2 agréées pour pratiquer une ou plusieurs des branches
+mentionnées aux 20 à 28 de l'article R. 321-1 est égal au tiers du montant réglementaire de la marge de solvabilité défini à
+l'article R. 334-13, sans pouvoir être inférieur aux seuils définis ci-après :
 
 - 800.000 unités de compte de la Communauté économique européenne pour les entreprises constituées sous la forme de société
 anonyme ;
@@ -31209,9 +31231,13 @@ par les éléments mentionnés aux 1, 2, 3, 4 et 6 de l'article R. 334-11.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
 	**Modifié par**:
 
-	  - Décret n°92-716 du 23 juillet 1992 - art. 4 () JORF 29 juillet 1992
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
 
 	**Cite**:
 
@@ -31231,15 +31257,15 @@ par les éléments mentionnés aux 1, 2, 3, 4 et 6 de l'article R. 334-11.
 
 ###### Article R334-16
 
-Le fonds de garantie des entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un Etat membre de
-la Communauté économique européenne, agréées pour pratiquer une ou plusieurs des branches mentionnées aux 20 à 26 de
-l'article R. 321-1, est égal au tiers du montant réglementaire de la marge de solvabilité défini à l'article R. 334-14, sans
-pouvoir être inférieur à un seuil fixé à 400.000 unités de compte de la Communauté économique européenne.
+Le fonds de garantie des entreprises visées au 4° de l'article L. 310-2, agréées pour pratiquer une ou plusieurs des branches
+mentionnées aux 20 à 26 de l'article R. 321-1, est égal au tiers du montant réglementaire de la marge de solvabilité défini à
+l'article R. 334-14, sans pouvoir être inférieur à un seuil fixé à 400.000 unités de compte de la Communauté économique
+européenne.
 
 A concurrence de ce seuil, ou de la moitié du fonds si cette moitié est supérieure audit seuil, le fonds doit être constitué
 par les éléments mentionnés aux 3 et 4 de l'article R. 334-11.
 
-Le cautionnement initial déposé conformément au d) de l'article R. 321-8 s'impute sur le fonds de garantie.
+Le cautionnement initial déposé conformément à l'article R. 321-12 s'impute sur le fonds de garantie.
 
 **Liens relatifs à cet article**
 
@@ -31249,12 +31275,19 @@ Le cautionnement initial déposé conformément au d) de l'article R. 321-8 s'im
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+	  - Décret n°94-635 1994-07-25 art. 14 VI, VII JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. R*321-12 (M)
 	  - Code des assurances - art. R*334-11 (M)
-	  - Code des assurances R321-1, R334-14, R334-11, R321-8
+	  - Code des assurances L310-2, R321-1, R334-14, R334-11, R321-12
 
 	**Cité par**:
 
@@ -31267,10 +31300,9 @@ Le cautionnement initial déposé conformément au d) de l'article R. 321-8 s'im
 
 ###### Article R334-17
 
-Une entreprise étrangère, dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
-économique européenne, agréée ou demandant l'agrément pour pratiquer les opérations mentionnées aux 1 à 18 et 20 à 26 de
-l'article R. 321-1 en France et dans un ou plusieurs autres Etats membres peut demander, en motivant son choix, à la
-commission de contrôle des assurances de faire l'objet en France de la vérification de solvabilité globale.
+Une entreprise visée au 4° de l'article L. 310-2, agréée ou demandant l'agrément pour pratiquer les opérations mentionnées
+aux 1 à 18 et 20 à 26 de l'article R. 321-1 en France et dans un ou plusieurs autres Etats membres peut demander, en motivant
+son choix, à la commission de contrôle des assurances de faire l'objet en France de la vérification de solvabilité globale.
 
 L'entreprise doit justifier qu'elle informe de cette demande les autorités de contrôle des autres Etats membres dans lesquels
 elle est agréée ou demande l'agrément pour pratiquer ces opérations. Elle ne peut faire l'objet en France de la vérification
@@ -31298,7 +31330,7 @@ Ces mesures prennent effet à la date à laquelle la commission de contrôle des
 contrôle des autres Etats membres à exercer la vérification de solvabilité globale.
 
 La vérification de solvabilité globale prend en compte les informations reçues des autorités de contrôle des autres Etats
-intéressés, membres de la Communauté économique européenne.
+intéressés, membres de l'Espace économique européen.
 
 **Liens relatifs à cet article**
 
@@ -31308,12 +31340,12 @@ intéressés, membres de la Communauté économique européenne.
 
 	**Modifié par**:
 
-	  - Décret n°91-603 1991-06-27 art. 28 IV, V JORF 28 juin 1991
-	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
+	  - Décret n°94-635 1994-07-25 art. 14 VI, IX JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Cité par**:
 
@@ -31329,9 +31361,14 @@ intéressés, membres de la Communauté économique européenne.
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. R*334-14 (M)
 	  - Code des assurances - art. R*334-6 (M)
-	  - Code des assurances R321-1, R334-6, R334-14
+	  - Code des assurances L310-2, R321-1, R334-6, R334-14
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R334-22 (3ème version)
 
 
 ###### Article R334-18
@@ -31343,11 +31380,11 @@ Si cette demande est acceptée, elle prend effet à la date à laquelle la commi
 notification de l'engagement souscrit par l'autorité de contrôle d'un autre Etat membre d'assurer la vérification de
 solvabilité globale.
 
-L'entreprise est alors dispensée de l'obligation de déposer en France le cautionnement prévu par le d de l'article R. 321-8.
+L'entreprise est alors dispensée de l'obligation de déposer en France le cautionnement prévu par l'article R. 321-12.
 
-Lorsque la vérification de solvabilité globale est exercée par l'autorité de contrôle d'un autre Etat membre de la communauté
-économique européenne, la commission de contrôle des assurances lui adresse toutes informations utiles concernant l'activité
-de la succursale française de l'entreprise.
+Lorsque la vérification de solvabilité globale est exercée par l'autorité de contrôle d'un autre Etat membre de l'Espace
+économique européen, la commission de contrôle des assurances lui adresse toutes informations utiles concernant l'activité de
+la succursale française de l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -31355,14 +31392,14 @@ de la succursale française de l'entreprise.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°91-603 1991-06-27 art. 28 VI, VII JORF 28 juin 1991
-	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -31375,14 +31412,19 @@ de la succursale française de l'entreprise.
 	  - Code des assurances - art. R*334-17 (M)
 	  - Code des assurances R334-17, R321-8
 
+	**Nouveaux textes**:
+
+	  - Code des assurances R334-23 (3ème version)
+
 
 ###### Article R334-19
 
 L'accord donné par la commission de contrôle des assurances en vertu de l'article R. 334-17 ou de l'article R. 334-18 peut
 être retiré.
 
-Lorsque l'autorité de contrôle d'un autre Etat membre retire un accord précédemment donné pour la vérification de la
-solvabilité globale, l'entreprise perd le bénéfice des dispositions de l'article R. 334-17 ou de l'article R. 334-18.
+Lorsque l'autorité de contrôle d'un autre Etat membre de l'Espace économique européen retire un accord précédemment donné
+pour la vérification de la solvabilité globale, l'entreprise perd le bénéfice des dispositions de l'article R. 334-17 ou de
+l'article R. 334-18.
 
 **Liens relatifs à cet article**
 
@@ -31392,11 +31434,11 @@ solvabilité globale, l'entreprise perd le bénéfice des dispositions de l'arti
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
+	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -31413,6 +31455,10 @@ solvabilité globale, l'entreprise perd le bénéfice des dispositions de l'arti
 	**Cite**:
 
 	  - Code des assurances - art. R*334-18 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R334-24 (3ème version)
 
 
 ##### Section V : Dispositions transitoires relatives à la marge de solvabilité
@@ -31551,37 +31597,6 @@ réassurance doivent tenir des comptes détaillés pour ces opérations.
 	**Anciens textes**:
 
 	  - Décret n°1938-12-30 art. 190
-
-
-###### Article R*341-9
-
-Les entreprises mentionnées à l'article L. 321-1-1 doivent produire chaque année à la commission de contrôle des assurances,
-à une date et selon la liste fixées par le décret mentionné à l'article R. 341-1, tous états, tableaux ou documents de nature
-à permettre de contrôler l'évaluation et la représentation des provisions techniques afférentes aux opérations pour
-lesquelles elles ont obtenu l'agrément.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-
-	**Modifié par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 33 () JORF 28 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. L321-1-1 (M)
-	  - Code des assurances - art. R*341-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R344-2 (1ère version)
 
 
 ###### Article R341-1
@@ -31787,42 +31802,6 @@ opérations effectuées dans l'ensemble des pays auxquels s'étend cette vérifi
 	  - Code des assurances R341-1 à R341-6
 
 
-###### Article R341-10
-
-Lorsqu'une entreprise d'assurance de dommages établie sur le territoire de la République française réalise dans un Etat
-membre des communautés européennes, en libre prestation de services, un volume de primes supérieur à 2,5 millions d'unités de
-compte de la Communauté économique européenne, sans déduction de réassurance, elle doit tenir, pour les opérations réalisées
-dans cet Etat, un compte d'exploitation technique par groupe de branches dont le modèle est défini par arrêté du ministre
-chargé de l'économie et des finances.
-
-Toutefois, lorsqu'une entreprise d'assurance de dommages ayant son siège social sur le territoire de la République française
-réalise dans un Etat membre des communautés européennes, en libre prestation de services, soit directement, soit par
-l'intermédiaire de ses établissements, un volume de primes supérieur à 2,5 millions d'unités de compte de la Communauté
-économique européenne, sans déduction de réassurance, elle doit tenir, pour les opérations réalisées dans ce pays, un compte
-d'exploitation technique pour chacun de ses établissements et dont le modèle est défini par arrêté du ministre chargé de
-l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*
-	  - TXT_SOURCE: Arrêté du 7 mai 1993 - art. 2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°93-469 du 23 mars 1993 - art. 7 () JORF 26 mars 1993
-
-	**Cité par**:
-
-	  - Arrêté du 7 mai 1993 - art. 2 (V)
-	  - Arrêté du 7 mai 1993 - art. Annexe (V)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R344-3 (1ère version)
-
-
 #### Chapitre IV : Catégories d'assurances et états à produire.
 
 ###### Article R344-1
@@ -31889,6 +31868,74 @@ l'entreprise dans le cadre des opérations effectuées par ses établissements �
 	  - Code des assurances - art. L344-1 (V)
 	  - Code des assurances - art. L441-1 (M)
 	  - Code des assurances - art. L441-8 (M)
+
+
+###### Article R344-2
+
+Les entreprises mentionnées à l'article L. 321-8 doivent produire chaque année à la commission de contrôle des assurances, à
+une date et selon la liste fixées par arrêté du ministre chargé de l'économie et des finances, tous états, tableaux ou
+documents de nature à permettre de contrôler l'évaluation et la représentation des provisions techniques afférentes aux
+opérations pour lesquelles elles ont obtenu l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 15 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-8 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances R341-9 (2ème version)
+
+
+###### Article R344-3
+
+Lorsqu'une entreprise d'assurance de dommages visée au 1° de l'article L. 310-2 réalise dans un Etat membre de l'Espace
+économique européen, en libre prestation de services, un volume de primes supérieur à 2,5 millions d'unités de compte de la
+Communauté économique européenne, sans déduction de réassurance, elle doit tenir, pour les opérations réalisées dans cet
+Etat, un compte d'exploitation technique par groupe de branches dont le modèle est défini par arrêté du ministre chargé de
+l'économie et des finances.
+
+Toutefois, lorsqu'une entreprise d'assurance de dommages ayant son siège social sur le territoire de la République française
+réalise dans un Etat membre de l'Espace économique européen, en libre prestation de services, soit directement, soit par
+l'intermédiaire de ses établissements, un volume de primes supérieur à 2,5 millions d'unités de compte de la Communauté
+économique européenne, sans déduction de réassurance, elle doit tenir, pour les opérations réalisées dans ce pays, un compte
+d'exploitation technique pour chacun de ses établissements et dont le modèle est défini par arrêté du ministre chargé de
+l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 15 () JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. A341-1 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances R341-10 (2ème version)
 
 
 #### Chapitre V : Comptes consolidés.
@@ -32372,24 +32419,18 @@ mentionnés aux 1°, 2° et 3° ci-dessus sont appliqués sur une base consolid�
 	  - Code des assurances R111-1 (2ème version)
 
 
-### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire
-
-#### Chapitre I : Dispositions relatives à la libre prestation de services en assurances de dommages
-
-##### Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française.
-
 ###### Article R351-2
 
-I. - En application du premier alinéa de l'article L. 351-4, une entreprise d'assurance ayant son siège dans un Etat membre
-des communautés européennes ne peut couvrir, sur le territoire de la République française, des grands risques en libre
+I. - En application de l'article L. 351-4, une entreprise d'assurance ayant son siège dans un Etat non communautaire membre
+de l'Espace économique européen ne peut couvrir, sur le territoire de la République française, des grands risques en libre
 prestation de services qu'à partir du moment où elle a reçu du ministre chargé de l'économie et des finances un document
 attestant qu'il est en possession des documents suivants, que l'entreprise doit lui adresser :
 
 1° Un certificat de solvabilité délivré par l'autorité de contrôle de l'Etat du siège social énumérant les branches que
 l'entreprise est habilitée à pratiquer ainsi que les risques qu'elle garantit effectivement, attestant qu'elle dispose pour
 l'ensemble de ses activités du montant minimal du fonds de garantie ou, s'il est plus élevé, du montant réglementaire de la
-marge de solvabilité et indiquant que l'agrément permet à l'entreprise de travailler hors de l'Etat membre des communautés où
-elle est établie ;
+marge de solvabilité et indiquant que l'agrément permet à l'entreprise de travailler hors de l'Etat non communautaire membre
+de l'Espace économique européen où elle est établie ;
 
 2° En outre, si l'entreprise opère à partir d'une succursale, un certificat délivré par les autorités compétentes de l'Etat
 où cette succursale est établie indiquant les branches que l'entreprise intéressée est habilitée à pratiquer et attestant que
@@ -32399,14 +32440,14 @@ ces autorités ne formulent pas d'objection à ce que l'entreprise effectue une 
 se propose de garantir sur le territoire de la République française ;
 
 4° La désignation du représentant pour la gestion des sinistres mentionné à l'article L. 351-6-1 ainsi que les déclarations
-d'adhésion au fonds de garantie mentionné à l'article L. 421-2 et au bureau central français, lorsque l'entreprise se propose
+d'adhésion au fonds de garantie mentionné à l'article L. 421-1 et au bureau central français, lorsque l'entreprise se propose
 de couvrir, sur le territoire de la République française, les risques de responsabilité civile résultant de l'emploi de
 véhicules terrestres à moteur autre que la responsabilité civile du transporteur.
 
-II. - Lorsqu'une entreprise d'assurance ayant son siège dans un Etat membre des communautés européennes et couvrant sur le
-territoire de la République française des grands risques en libre prestation de services entend étendre son activité à des
-branches ou sous-branches qui n'avaient pas été mentionnées au 3° du I du présent article, elle est soumise aux obligations
-susénoncées.
+II. - Lorsqu'une entreprise d'assurance ayant son siège dans un Etat non communautaire membre de l'Espace économique européen
+et couvrant sur le territoire de la République française des grands risques en libre prestation de services entend étendre
+son activité à des branches ou sous-branches qui n'avaient pas été mentionnées au 3° du I du présent article, elle est
+soumise aux obligations susénoncées.
 
 **Liens relatifs à cet article**
 
@@ -32414,22 +32455,20 @@ susénoncées.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°92-308 du 31 mars 1992 - art. 13 (V) JORF 1er avril 1992 en vigueur le 20 novembre 1992
-	  - Décret n°92-308 du 31 mars 1992 - art. 8 () JORF 1er avril 1992 en vigueur le 20 novembre 1992
-	  - Décret n°93-469 1993-03-23 art. 9 I, II JORF 26 mars 1993 en vigueur le 20 mai 1993
-	  - Décret n°93-469 du 23 mars 1993 - art. 9 () JORF 26 mars 1993 en vigueur le 20 mai 1993
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 17 () JORF 26 juillet 1994
 
 	**Cite**:
 
 	  - Code des assurances - art. L351-4 (M)
 	  - Code des assurances - art. L351-6-1 (V)
-	  - Code des assurances - art. L421-2 (M)
+	  - Code des assurances - art. L421-1 (M)
 
 	**Cité par**:
 
@@ -32445,8 +32484,8 @@ susénoncées.
 ###### Article R351-3
 
 Toute demande d'agrément ou d'extension d'agrément de libre prestation de services prévue au deuxième alinéa de l'article L.
-351-5 et à l'article L. 321-1-1 doit être produite en double exemplaire auprès du ministre chargé de l'économie et des
-finances et comporter :
+351-5 et à l'article L. 321-8 doit être produite en double exemplaire auprès du ministre chargé de l'économie et des finances
+et comporter :
 
 1° Les certificats mentionnés aux 1° et 2° du I de l'article R. 351-2 ;
 
@@ -32461,7 +32500,7 @@ propose de diffuser auprès du public ;
 c) Les bases tarifaires que l'entreprise envisage d'appliquer pour chaque catégorie d'opérations.
 
 3° La désignation du représentant pour la gestion des sinistres mentionné à l'article L. 351-6-1 ainsi que les déclarations
-d'adhésion au fonds de garantie mentionné à l'article L. 421-2 et au bureau central français, lorsque l'entreprise se propose
+d'adhésion au fonds de garantie mentionné à l'article L. 421-1 et au bureau central français, lorsque l'entreprise se propose
 de couvrir, sur le territoire de la République française, les risques de responsabilité civile résultant de l'emploi de
 véhicules terrestres à moteur autre que la responsabilité civile du transporteur.
 
@@ -32473,20 +32512,19 @@ véhicules terrestres à moteur autre que la responsabilité civile du transport
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°93-469 1993-03-23 art. 8, art. 9 I, II JORF 26 mars 1993 en vigueur le 20 mai 1993
-	  - Décret n°93-469 du 23 mars 1993 - art. 8 () JORF 26 mars 1993 en vigueur le 20 mai 1993
-	  - Décret n°93-469 du 23 mars 1993 - art. 9 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 17 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. L321-1-1 (M)
+	  - Code des assurances - art. L321-8 (M)
 	  - Code des assurances - art. L351-5 (M)
 	  - Code des assurances - art. L351-6-1 (V)
-	  - Code des assurances - art. L421-2 (M)
+	  - Code des assurances - art. L421-1 (M)
 	  - Code des assurances - art. R351-2 (M)
 
 	**Cité par**:
@@ -32500,11 +32538,11 @@ véhicules terrestres à moteur autre que la responsabilité civile du transport
 
 ###### Article R351-4
 
-Toute entreprise d'assurance ayant son siège sur le territoire d'un Etat membre des communautés européennes, qui souhaite
-couvrir sur le territoire de la République française en libre prestation de services les risques autres que ceux qui sont
-mentionnés à l'article L. 351-4, peut se voir refuser l'agrément de libre prestation de services dans les conditions prévues
-à l'article R. 321-13, en cas de non-conformité du programme d'activités mentionné à l'article R. 351-3 avec les dispositions
-législatives ou réglementaires.
+Toute entreprise d'assurance ayant son siège sur le territoire d'un Etat non communautaire membre de l'Espace économique
+européen, qui souhaite couvrir sur le territoire de la République française en libre prestation de services les risques
+autres que ceux qui sont mentionnés à l'article L. 351-4, peut se voir refuser l'agrément de libre prestation de services
+dans les conditions prévues à l'article R. 321-4, en cas de non-conformité du programme d'activités mentionné à l'article R.
+351-3 avec les dispositions législatives ou réglementaires.
 
 **Liens relatifs à cet article**
 
@@ -32512,24 +32550,16 @@ législatives ou réglementaires.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
-
-	  - Décret n°90-700 du 8 août 1990 - art. 1 () JORF 9 août 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
-
 	**Modifié par**:
 
-	  - Décret n°93-469 1993-03-23 art. 9 I, II JORF 26 mars 1993 en vigueur le 20 mai 1993
-	  - Décret n°93-469 du 23 mars 1993 - art. 9 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 17 () JORF 26 juillet 1994
 
 	**Cite**:
 
 	  - Code des assurances - art. L351-4 (M)
 	  - Code des assurances - art. R351-3 (M)
-	  - Code des assurances L351-4, R321-13, R351-3
+	  - Code des assurances L351-4, R321-4, R351-3
 
 	**Cité par**:
 
@@ -32545,49 +32575,16 @@ législatives ou réglementaires.
 	  - Code des assurances - art. R356-43 (VD)
 
 
-###### Article R351-5
-
-Les provisions techniques afférentes aux contrats garantissant des risques situés sur le territoire de la République
-française, autres que ceux mentionnés à l'article L. 351-4, sont calculées et représentées selon les règles du titre III du
-présent livre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°90-700 du 8 août 1990 - art. 1 () JORF 9 août 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
-
-	**Modifié par**:
-
-	  - Décret n°93-469 1993-03-23 art. 9 I, II JORF 26 mars 1993 en vigueur le 20 mai 1993
-	  - Décret n°93-469 du 23 mars 1993 - art. 9 () JORF 26 mars 1993 en vigueur le 20 mai 1993
-
-	**Abrogé par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 17 () JORF 26 juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L351-4 (M)
-
-
-##### Section II : Règles relatives aux entreprises établies en France et couvrant des risques dans un ou plusieurs Etats membres des communautés européennes.
+##### Section II : Conditions d'exercice.
 
 ###### Article R351-6
 
 Toute entreprise établie sur le territoire de la République française qui entend effectuer des opérations en libre prestation
-de services sur le territoire d'un ou plusieurs Etats membres des communautés européennes est tenue d'informer au préalable
-la commission de contrôle des assurances en indiquant l'Etat ou les Etats membres sur le territoire desquels elle envisage
-d'opérer en libre prestation de services, la nature des risques qu'elle se propose d'y couvrir, ainsi qu'un programme
-d'activités comprenant les pièces demandées au g du I de l'article R. 321-6 ou au d du I de l'article R. 321-7.
+de services sur le territoire d'un ou plusieurs Etats non communautaires membres de l'Espace économique européen est tenue
+d'informer au préalable la commission de contrôle des assurances en indiquant l'Etat ou les Etats membres sur le territoire
+desquels elle envisage d'opérer en libre prestation de services, la nature des risques qu'elle se propose d'y couvrir, ainsi
+qu'un programme d'activités comprenant les pièces demandées au g du I de l'article R. 321-6 ou au d du I de l'article R.
+321-7.
 
 **Liens relatifs à cet article**
 
@@ -32595,18 +32592,14 @@ d'activités comprenant les pièces demandées au g du I de l'article R. 321-6 o
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
-
-	  - Décret n°90-700 du 8 août 1990 - art. 1 () JORF 9 août 1990
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°93-469 1993-03-23 art. 9 I, II JORF 26 mars 1993 en vigueur le 20 mai 1993
-	  - Décret n°93-469 du 23 mars 1993 - art. 9 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 17 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -32629,7 +32622,7 @@ d'activités comprenant les pièces demandées au g du I de l'article R. 321-6 o
 
 #### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation
 
-##### Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française.
+##### Section I : Dispositions générales.
 
 ###### Article R353-1
 
@@ -32641,8 +32634,8 @@ adresser :
 1° Un certificat de solvabilité délivré par l'autorité de contrôle de l'Etat du siège social énumérant les branches que
 l'entreprise est habilitée à pratiquer ainsi que les engagements qu'elle garantit effectivement, attestant qu'elle dispose
 pour l'ensemble de ses activités du montant minimal du fonds de garantie ou, s'il est plus élevé, du montant réglementaire de
-la marge de solvabilité et indiquant que l'agrément permet à l'entreprise de travailler hors de l'Etat membre des communautés
-où elle est établie ;
+la marge de solvabilité et indiquant que l'agrément permet à l'entreprise de travailler hors de l'Etat non communautaire
+membre de l'Espace économique européen où elle est établie ;
 
 2° En outre, si l'entreprise opère à partir d'une succursale, un certificat délivré par les autorités compétentes de l'Etat
 où cette succursale est établie indiquant les branches que l'entreprise intéressée est habilitée à pratiquer et attestant que
@@ -32663,11 +32656,12 @@ branches qui n'avaient pas été mentionnées au 3° du I du présent article, e
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 18 () JORF 26 juillet 1994
 
 	**Cite**:
 
@@ -32681,8 +32675,8 @@ branches qui n'avaient pas été mentionnées au 3° du I du présent article, e
 ###### Article R353-2
 
 Toute demande d'agrément ou d'extension d'agrément de libre prestation de services prévue au deuxième alinéa de l'article L.
-353-5 et à l'article L. 321-1-1 doit être produite en double exemplaire auprès du ministre chargé de l'économie et des
-finances et comporter :
+353-5 et à l'article L. 321-8 doit être produite en double exemplaire auprès du ministre chargé de l'économie et des finances
+et comporter :
 
 1° Les certificats mentionnés aux 1° et 2° du I de l'article R. 353-1 ;
 
@@ -32704,15 +32698,16 @@ c) Les bases tarifaires que l'entreprise envisage d'appliquer pour chaque catég
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 18 () JORF 26 juillet 1994
 
 	**Cite**:
 
-	  - Code des assurances - art. L321-1-1 (M)
+	  - Code des assurances - art. L321-8 (M)
 	  - Code des assurances - art. L353-5 (M)
 	  - Code des assurances - art. R353-1 (M)
 
@@ -32725,7 +32720,7 @@ c) Les bases tarifaires que l'entreprise envisage d'appliquer pour chaque catég
 
 Toute entreprise d'assurance qui souhaite prendre sur le territoire de la République française en libre prestation de
 services des engagements dans les conditions prévues à l'article L. 353-5 peut se voir refuser l'agrément de libre prestation
-de services dans les conditions prévues à l'article R. 321-13, en cas de non-conformité du programme d'activités mentionné à
+de services dans les conditions prévues à l'article R. 321-4, en cas de non-conformité du programme d'activités mentionné à
 l'article R. 353-2 avec les dispositions législatives ou réglementaires.
 
 **Liens relatifs à cet article**
@@ -32736,11 +32731,12 @@ l'article R. 353-2 avec les dispositions législatives ou réglementaires.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 18 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -32750,49 +32746,17 @@ l'article R. 353-2 avec les dispositions législatives ou réglementaires.
 
 	  - Code des assurances - art. L353-5 (M)
 	  - Code des assurances - art. R353-2 (M)
-	  - Code des assurances L353-5, R321-13, R353-2
+	  - Code des assurances L353-5, R321-4, R353-2
 
 
-###### Article R353-4
-
-Les provisions techniques afférentes aux contrats garantissant des engagements pris sur le territoire de la République
-française, autres que ceux mentionnés à l'article L. 353-4, sont calculées et représentées selon les règles du titre III du
-présent livre.
-
-Les dispositions du livre Ier du présent code relatives à la participation aux bénéfices et aux valeurs de rachat et de
-réduction sont également applicables aux engagements mentionnés au premier alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
-
-	**Créé par**:
-
-	  - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
-
-	**Abrogé par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 18 () JORF 26 juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L353-4 (M)
-
-
-##### Section II : Règles relatives aux entreprises établies en France et prenant des engagements dans un ou plusieurs autres Etats membres des communautés européennes.
+##### Section II : Conditions d'exercice.
 
 ###### Article R353-5
 
 Toute entreprise établie sur le territoire de la République française qui entend effectuer des opérations en libre prestation
-de services sur le territoire d'un ou de plusieurs Etats membres des communautés européennes est tenue d'informer au
-préalable la Commission de contrôle des assurances en indiquant l'Etat ou les Etats membres sur le territoire desquels elle
-envisage d'opérer en libre prestation de services et la nature des engagements qu'elle se propose d'y prendre.
+de services sur le territoire d'un ou de plusieurs Etats non communautaires membres de l'Espace économique européen est tenue
+d'informer au préalable la Commission de contrôle des assurances en indiquant l'Etat ou les Etats membres sur le territoire
+desquels elle envisage d'opérer en libre prestation de services et la nature des engagements qu'elle se propose d'y prendre.
 
 **Liens relatifs à cet article**
 
@@ -32802,19 +32766,20 @@ envisage d'opérer en libre prestation de services et la nature des engagements 
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 18 () JORF 26 juillet 1994
 
 
 ###### Article R353-6
 
-Les dispositions du livre Ier du présent code relatives à la participation aux bénéfices et aux valeurs de rachat et de
+Les dispositions du livre III du présent code relatives à la participation aux bénéfices et aux valeurs de rachat et de
 réduction sont applicables aux engagements des entreprises établies sur le territoire de la République française, souscrits
-en libre prestation de services sur le territoire d'un autre Etat membre des communautés européennes, lorsque ce dernier ne
-subordonne pas l'exercice de ces opérations à agrément.
+en libre prestation de services sur le territoire d'un autre Etat non communautaire membre de l'Espace économique européen,
+lorsque ce dernier ne subordonne pas l'exercice de ces opérations à agrément.
 
 **Liens relatifs à cet article**
 
@@ -32824,11 +32789,122 @@ subordonne pas l'exercice de ces opérations à agrément.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
+	  - Décret n°94-635 du 25 juillet 1994 - art. 18 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 4
+
+
+### Titre V : Régime prudentiel applicable aux entreprises relevant du régime dit “ Solvabilité II ”
+
+#### Chapitre Ier : Valorisation du bilan prudentiel
+
+##### Section II : Provisions techniques prudentielles
+
+##### Sous-section 1 : Dispositions générales sur la valorisation des provisions techniques prudentielles
+
+###### Article R351-5-1
+
+Le représentant pour la gestion des sinistres mentionné à l'article L. 351-6-1 réunit les informations nécessaires à la
+constitution et à la gestion des dossiers d'indemnisation. Il représente l'entreprise d'assurance auprès des personnes qui
+ont subi un préjudice et règle les sinistres. Il représente également cette entreprise vis-à-vis des autorités et
+juridictions françaises pour l'indemnisation des sinistres.
+
+L'entreprise ne peut, avant d'avoir désigné le successeur et communiqué cette désignation au ministre chargé de l'économie et
+des finances, retirer à son représentant pour la gestion des sinistres les pouvoirs qu'elle lui a confiés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Modifié par**:
+
+	  - Décret n°92-308 du 31 mars 1992 - art. 13 (V) JORF 1er avril 1992 en vigueur le 20 novembre 1992
+	  - Décret n°92-308 du 31 mars 1992 - art. 9 () JORF 1er avril 1992 en vigueur le 20 novembre 1992
+	  - Décret n°94-635 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 4
+
+	**Cite**:
+
+	  - Code des assurances - art. L351-6-1
+
+
+### Titre VI : Libre établissement et libre prestation de services communautaires
+
+#### Chapitre II : Conditions d'exercice.
+
+###### Article R362-1
+
+Le représentant pour la gestion des sinistres mentionné à l'article L. 362-3 réunit les informations nécessaires à la
+constitution et à la gestion des dossiers d'indemnisation. Il représente l'entreprise d'assurance auprès des personnes qui
+ont subi un préjudice et règle les sinistres. Il représente également cette entreprise vis-à-vis des autorités et
+juridictions françaises pour le règlement des sinistres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 	**Créé par**:
 
-	  - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
+	  - Décret n°94-635 du 25 juillet 1994 - art. 19 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L362-3 (V)
+
+
+###### Article R362-2
+
+Les entreprises mentionnées au 2° de l'article L. 310-2 sont représentées sur le territoire français par un mandataire
+général.
+
+Si ce mandataire général est une personne physique, il doit avoir son domicile et résider sur le territoire de la République
+française. Il doit être doté par l'entreprise intéressée de pouvoirs suffisants pour engager celle-ci à l'égard des tiers et
+pour la représenter vis-à-vis des autorités et juridictions françaises. Il ne doit pas avoir fait l'objet d'une condamnation
+inscrite au bulletin n° 3 du casier judiciaire ou d'une condamnation prononcée à l'étranger qui, si elle avait été prononcée
+par une juridiction française, serait inscrite sur ce bulletin.
+
+Si le mandataire est une personne morale, le siège social de celle-ci doit être établi sur le territoire de la République
+française et la personne physique nommément désignée pour la représenter doit satisfaire aux conditions prévues à l'alinéa
+précédent et assumer en cette qualité la responsabilité de l'exécution par le mandataire général des obligations qui lui
+incombent.
+
+Le présent article s'applique au mandataire général du Lloyd's de Londres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 19 () JORF 26 juillet 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
