@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-04-01
+Version Consolidée au 1992-05-19
 
 # Partie législative
 
@@ -39546,22 +39546,41 @@ commission des garanties et du crédit au commerce extérieur.
 	  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 
-##### Paragraphe 5 : Investissements connexes à des opérations d'exportation.
+##### Paragraphe 4 : Investissements.
 
 ###### Article R*432-38
 
-La garantie des risques politiques et de transfert peut porter sur des investissements à l'étranger connexes à des opérations
-d'exportation.
+La garantie des risques politiques et de transfert peut porter sur les investissements à l'étranger, lorsque ceux-ci
+présentent, pour le développement de l'économie française, l'intérêt certain prévu par l'article 26 de la loi n° 71-1025 du
+24 décembre 1971 portant loi de finances rectificative pour 1971, complété par l'article 14 de la loi n° 73-1128 du 21
+décembre 1973 portant loi de finances rectificative pour 1973, et auront été agréés dans les conditions prévues audit article
+26.
+
+Lorsque la législation du pays étranger concerné ne prévoit pas la délivrance d'un agrément, l'investisseur devra produire
+tous documents délivrés par l'autorité locale compétente permettant d'établir que l'investissement sera réalisé en conformité
+avec la législation du pays concerné.
+
+L'octroi de la garantie est subordonné à la conclusion préalable d'un accord sur la protection des investissements sous
+réserve des dérogations prévues par les dispositions de l'article 26 susmentionné.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°48-719 1948-04-16 art. 18
+	  - Loi n°71-1025 du 24 décembre 1971 - art. 26, v. init.
+	  - Loi n°73-1128 du 21 décembre 1973 - art. 14, v. init.
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-435 1992-05-18 art. 1, art. 2 JORF 19 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 
 ###### Article R*432-39
@@ -39574,13 +39593,17 @@ ce pays.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°48-719 1948-04-16 art. 19
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-435 1992-05-18 art. 1 JORF 19 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 
 ###### Article R*432-40
@@ -39591,13 +39614,17 @@ investissement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°48-719 1948-04-16 art. 20
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°92-435 1992-05-18 art. 1 JORF 19 mai 1992
+
+	**Abrogé par**:
+
+	  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 
 ##### Paragraphe 5 : Opérations d'importation.
