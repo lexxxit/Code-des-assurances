@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-09-12
+Version Consolidée au 1992-10-15
 
 # Partie législative
 
@@ -7306,37 +7306,6 @@ territoriale " est remplacée par la référence à la " collectivité départem
 	  - Code des assurances - art. L213-1 (M)
 	  - Code des assurances - art. L214-1 (M)
 	  - Code des assurances - art. L214-2 (M)
-
-
-###### Article L214-4
-
-Pour l'application des articles L. 211-11, L. 211-12 et L. 211-25, les dispositions du chapitre II de la loi n° 85-677 du 5
-juillet 1985 sont étendues à la collectivité territoriale de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°85-677 1985-07-05
-	  - Code des assurances - art. L211-11 (M)
-	  - Code des assurances - art. L211-12 (V)
-	  - Code des assurances - art. L211-25 (V)
-
-	**Créé par**:
-
-	  - Ordonnance no 92-255 du 4 mars 1992 portant extens - art. 3 () JORF 20 mars 1992
-
-	**Abrogé par**:
-
-	  - Ordonnance no 92-1067 du 1er octobre 1992 portant  - art. 15 (Ab) JORF 3 octobre 1992 en vigueur le 15 octobre 1992
-
-	**Cité par**:
-
-	  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 15 (Ab)
 
 
 #### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer
