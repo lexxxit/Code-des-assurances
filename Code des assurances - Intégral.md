@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1996-06-29
+Version Consolidée au 1996-08-28
 
 # Partie législative
 
@@ -39700,9 +39700,9 @@ chapitre II du présent titre :
 
 1° Avoir la majorité légale ;
 
-2° Etre soit de nationalité française, soit ressortissante d'un Etat membre de la Communauté économique européenne, soit
-ressortissante d'un Etat dont la législation permet aux ressortissants français d'exercer sur son territoire une activité
-analogue, soit bénéficiant d'une convention internationale les assimilant aux ressortissants français ;
+2° Etre soit de nationalité française, soit ressortissante d'un Etat membre de la Communauté européenne, soit ressortissante
+d'un Etat dont la législation permet aux ressortissants français d'exercer sur son territoire une activité analogue, soit
+bénéficiant d'une convention internationale les assimilant aux ressortissants français ;
 
 3° Remplir les conditions de capacité professionnelle prévues, pour chaque catégorie, par décret pris sur le rapport du
 ministre de l'économie et des finances, du garde des sceaux, ministre de la justice, et du ministre de l'éducation ;
@@ -39730,8 +39730,11 @@ jusqu'à la résiliation et il doit restituer le surplus éventuellement perçu.
 
 	**Modifié par**:
 
-	  - Décret n°92-310 1992-03-31 art. 2 I, II JORF 1er avril 1992
-	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+	  - Décret n°96-754 du 21 août 1996 - art. 3 () JORF 28 août 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Cite**:
 
@@ -39820,8 +39823,9 @@ Les opérations pratiquées par les entreprises mentionnées à l'article L. 310
 personnes suivantes, sauf dérogation dans des cas et conditions limitativement fixés par décret en Conseil d'Etat pris sur le
 rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice ;
 
-1° Les personnes physiques et sociétés immatriculées au registre du commerce pour le courtage d'assurances et, dans ces
-sociétés, les associés et les tiers qui ont le pouvoir de gérer ou d'administrer ;
+1° Les personnes physiques et sociétés immatriculées au registre du commerce pour le courtage ou celles exerçant cette
+activité en libre prestation de services dans les conditions prévues à l'article R.* 515-9, ainsi que, dans ces sociétés, les
+associés et les tiers qui ont le pouvoir de gérer ou d'administrer.
 
 2° Les personnes physiques titulaires d'un mandat d'agent général d'assurances ou chargées à titre provisoire, pour une
 période de deux ans au plus non renouvelable, des fonctions d'agent général d'assurances ;
@@ -39885,12 +39889,13 @@ capitalisation, à la remise matérielle des sommes dues aux assurés ou bénéf
 
 	**Modifié par**:
 
-	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+	  - Décret n°96-754 du 21 août 1996 - art. 2 () JORF 28 août 1996
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. R*511-1 (M)
+	  - Code des assurances L310-1, R511-1, R515-9
 
 	**Liens**:
 
@@ -39902,6 +39907,8 @@ capitalisation, à la remise matérielle des sommes dues aux assurés ou bénéf
 	  - TXT_SOURCE: Code des assurances - art. R512-3 (V)
 	  - TXT_SOURCE: Code des assurances - art. R512-4 (V)
 	  - TXT_SOURCE: Code des assurances - art. R512-5 (V)
+	  - SPEC_APPLI: Code des assurances R511-4, R511-7, R511-8
+	  - TXT_ASSOCIE: Code des assurances R512-1 à R512-6, R512-9
 
 
 ###### Article R511-6
@@ -40893,8 +40900,8 @@ nom et la qualité de la personne qui fait cette proposition ainsi que le nom ou
 ###### Article R*514-17
 
 Toute infraction aux prescriptions des articles R. 514-1, R. 514-3, R. 514-6 (dernier alinéa), R. 514-8 à R. 514-10, R.
-514-12, R. 514-14, R. 514-15, R. 515-1 à R. 515-7, sera punie de l'amende prévue par le 5° de l'article 131-13 du code pénal
-pour les contraventions de la cinquième classe.
+514-12, R. 514-14, R. 514-15, R. 515-1 à R. 515-7 et R. 515-9, sera punie de l'amende prévue pour les contraventions de la
+cinquième classe [*sanctions pénales*].
 
 **Liens relatifs à cet article**
 
@@ -40904,14 +40911,18 @@ pour les contraventions de la cinquième classe.
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 1, art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+	  - Décret n°96-754 du 21 août 1996 - art. 4 () JORF 28 août 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Cite**:
 
 	  - Code pénal - art. 131-13 (M)
 	  - Code des assurances - art. R*514-1 (M)
 	  - Code des assurances - art. R*514-3 (M)
-	  - Code des assurances R514-1, R514-3, R514-6, R514-8 à R514-10, R514-12, R514-14, R514-15, R515-1 à R515-7
+	  - Code des assurances R514-1, R514-3, R514-6, R514-8 à R514-10, R514-12, R514-14, R514-15, R515-1 à R515-7, R515-9
 
 
 #### Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France
@@ -40920,10 +40931,10 @@ pour les contraventions de la cinquième classe.
 
 ###### Article R515-1
 
-Par dérogation aux dispositions de l'article R. 513-1, les ressortissants d'un Etat membre de la Communauté économique
-européenne autre que la France peuvent présenter, en qualité de courtier ou d'agent général, les opérations pratiquées par
-les entreprises mentionnées aux 1°, 2°, 4° et 5° de l'article L. 310-1, sous réserve qu'ils justifient avoir exercé
-effectivement l'une de ces fonctions dans un Etat membre de la Communauté autre que la France :
+Par dérogation aux dispositions de l'article R. 513-1, les ressortissants d'un Etat membre de la Communauté européenne autre
+que la France peuvent présenter, en qualité de courtier ou d'agent général, les opérations pratiquées par les entreprises
+mentionnées à l'article L. 310-2, sous réserve qu'ils justifient avoir exercé effectivement l'une de ces fonctions dans un
+Etat membre de la Communauté autre que la France :
 
 Soit pendant quatre années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise ;
 
@@ -40941,13 +40952,18 @@ exercé leurs fonctions, ou jugée pleinement valable par un organisme professio
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°79-483 1979-06-20 art. 1 JORF 23 juin 1979
+	  - Décret n°96-753 du 21 août 1996 - art. 1 () JORF 28 août 1996
+	  - Décret n°96-753 du 21 août 1996 - art. 2 () JORF 28 août 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. R513-1 (M)
 
 	**Cité par**:
@@ -40986,11 +41002,11 @@ une activité d'encadrement ou de surveillance liée à la production des contra
 
 ###### Article R515-3
 
-Par dérogation aux dispositions de l'article R. 513-2, les ressortissants d'un Etat membre de la Communauté économique
-européenne autre que la France peuvent présenter, pour le compte d'un courtier ou d'un agent d'assurance, les opérations
-pratiquées par les entreprises mentionnées aux 1°, 2°, 4° et 5° de l'article L. 310-1, sans que cette présentation puisse
-comporter la prise d'engagement envers le public ou de sa part, sous réserve qu'ils justifient avoir exercé effectivement des
-fonctions de présentation dans un Etat membre de la Communauté autre que la France :
+Par dérogation aux dispositions de l'article R. 513-2, les ressortissants d'un Etat membre de la Communauté européenne autre
+que la France peuvent présenter, pour le compte d'un courtier ou d'un agent d'assurance, les opérations pratiquées par les
+entreprises mentionnées à l'article L. 310-2, sans que cette présentation puisse comporter la prise d'engagement envers le
+public ou de sa part, sous réserve qu'ils justifient avoir exercé effectivement des fonctions de présentation dans un Etat
+membre de la Communauté autre que la France :
 
 Soit pendant deux années consécutives à titre indépendant ou au titre de l'exercice de fonctions dans un cabinet de courtage,
 une agence ou une entreprise d'assurance ;
@@ -41005,13 +41021,18 @@ valable par un organisme professionnel compétent de cet Etat.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°79-483 1979-06-20 art. 1 JORF 23 juin 1979
+	  - Décret n°96-753 du 21 août 1996 - art. 1 () JORF 28 août 1996
+	  - Décret n°96-753 du 21 août 1996 - art. 2 () JORF 28 août 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. R513-2 (M)
 
 	**Cité par**:
@@ -41090,10 +41111,10 @@ la date du dépôt du document justificatif prévue par l'article R. 515-6.
 
 ###### Article R*515-6
 
-Les ressortissants d'un Etat membre de la communauté économique européenne autre que la France qui ont à justifier de leur
-capacité professionnelle peuvent, par dérogation aux dispositions de l'article R. 514-5, le faire au moyen d'un document
-délivré par l'autorité ou l'organisme compétent de l'Etat d'origine ou de provenance, membre de la Communauté, dans lequel
-ils ont exercé leurs fonctions.
+Les ressortissants d'un Etat membre de la communauté européenne autre que la France qui ont à justifier de leur capacité
+professionnelle peuvent, par dérogation aux dispositions de l'article R. 514-5, le faire au moyen d'un document délivré par
+l'autorité ou l'organisme compétent de l'Etat d'origine ou de provenance, membre de la Communauté, dans lequel ils ont exercé
+leurs fonctions.
 
 Ce document, qui atteste que les conditions de capacité requises sont remplies, doit être accompagné, si besoin est, d'une
 traduction en langue française.
@@ -41104,9 +41125,13 @@ traduction en langue française.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
+	  - Décret n°96-754 du 21 août 1996 - art. 3 () JORF 28 août 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Cite**:
 
@@ -41118,8 +41143,7 @@ traduction en langue française.
 Les personnes mentionnées à l'article R. 515-6 apportent la preuve qu'elles n'ont pas fait l'objet, dans leur Etat d'origine
 ou de provenance, de condamnations encourues pour des infractions mentionnées à l'article L. 511-2 ou pour des infractions de
 même nature, par la production d'un extrait du casier judiciaire ou, à défaut, d'un document équivalent délivré par une
-autorité judiciaire ou administrative compétente de l'Etat d'origine ou de provenance, membre de la Communauté économique
-européenne.
+autorité judiciaire ou administrative compétente de l'Etat d'origine ou de provenance, membre de la Communauté européenne.
 
 Dans le cas où la législation de cet Etat ne prévoit pas la délivrance de l'un de ces documents, l'intéressé doit produire
 une attestation de déclaration sous la foi du serment ou, dans un Etat où une telle formalité ne peut être remplie, une
@@ -41145,13 +41169,64 @@ Ces documents sont transmis au parquet du tribunal de grande instance de Paris.
 
 	**Modifié par**:
 
-	  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+	  - Décret n°96-754 du 21 août 1996 - art. 3 () JORF 28 août 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Cite**:
 
 	  - Code des assurances - art. L511-2 (M)
 	  - Code des assurances - art. R515-3 (M)
 	  - Code des assurances R515-6, L511-2, R515-3
+
+
+##### Section III : Dispositions relatives à la libre prestation de services.
+
+###### Article R*515-9
+
+Un courtier d'assurances ressortissant d'un Etat membre de la Communauté européenne autre que la France peut présenter en
+libre prestation de services des opérations pratiquées par les entreprises mentionnées à l'article L. 310-2 après avoir, par
+dérogation à l'article R. 514-1, déposé une déclaration auprès du greffe du tribunal de commerce de Paris.
+
+Cette déclaration est accompagnée des pièces mentionnées aux articles R. 515-6 et R. 515-7, de la justification de la
+régularité de l'exercice du courtage dans le pays à partir duquel il pratique la libre prestation de services en France,
+d'une attestation de garantie financière d'un montant au moins égal à celui prévu à l'article R. 530-1 et d'une attestation
+d'assurance de responsabilité civile professionnelle comportant, pour les opérations réalisées sur le territoire de la
+République française, des garanties équivalentes à celles prévues à l'article R. 530-8. Ces pièces sont accompagnées, si
+besoin est, d'une traduction en langue française.
+
+Après avoir vérifié que le dossier est complet, le greffe en accuse réception et l'annexe au registre du commerce et des
+sociétés.
+
+En cas de modification d'un des faits attestés par les pièces mentionnées au deuxième alinéa, le courtier d'assurances dépose
+le document modificatif au greffe. Dans tous les cas, il justifie tous les cinq ans, auprès du greffe, par tout document
+émanant de l'autorité compétente de son pays de résidence ou d'origine qu'il exerce encore régulièrement la profession. Faute
+d'avoir procédé à cette justification, le courtier est radié du registre du greffe.
+
+Un arrêté conjoint du ministre de la justice, du ministre de l'économie et des finances et du ministre de l'industrie, de la
+poste et des télécommunications précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°96-754 du 21 août 1996 - art. 1 () JORF 28 août 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. R530-8 (M)
+	  - Code des assurances L310-2, R515-6, R530-8
 
 
 #### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.
