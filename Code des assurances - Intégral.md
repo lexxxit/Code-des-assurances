@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-05-01
+Version Consolidée au 1990-06-22
 
 # Partie législative
 
@@ -19236,6 +19236,143 @@ dépassent les limites fixées en application de l'alinéa précédent.
 	  - Décret n°1938-12-30 art. 191 bis
 
 
+##### Section II : Commission de contrôle des assurances.
+
+###### Article R310-11
+
+La commission de contrôle des assurances se réunit sur convocation de son président. En matière disciplinaire, elle ne peut
+délibérer que si quatre de ses membres sont présents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
+
+	**Cité par**:
+
+	  - Arrêté du 17 septembre 2004 - art. 1 (V)
+	  - Code de la sécurité sociale. - art. R951-2 (Ab)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2 (Ab)
+
+
+###### Article R310-12
+
+Lorsque la commission de contrôle des assurances estime qu'il peut y avoir lieu de faire application des sanctions prévues à
+l'article L. 310-18, elle porte à la connaissance de l'entreprise concernée, par une lettre recommandée avec demande d'avis
+de réception adressée au représentant légal de l'entreprise, les faits qui lui sont reprochés ; elle fait savoir au
+représentant légal de l'entreprise qu'il peut prendre connaissance et copie des pièces du dossier ; elle l'invite à faire
+parvenir ses observations écrites dans un délai qui ne peut être inférieur à huit jours.
+
+Copie de la lettre de notification est adressée au commissaire du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2 (Ab)
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R951-2 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-18 (M)
+
+
+###### Article R310-13
+
+Le représentant légal de l'entreprise est convoqué, par lettre recommandée avec demande d'avis de réception, pour être
+entendu par la commission de contrôle des assurances ; cette lettre doit lui parvenir huit jours au moins avant la date de la
+réunion de la commission.
+
+Il peut se faire assister ou représenter par toute personne de son choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
+
+	**Cité par**:
+
+	  - Code des assurances - art. R310-14 (VT)
+
+
+###### Article R310-14
+
+Lors de l'audition, le rapporteur, choisi parmi les commissaires contrôleurs des assurances, présente l'affaire.
+
+Le président peut faire entendre toute personne dont il estime l'audition utile.
+
+Le secrétaire général et le commissaire du Gouvernement peuvent présenter des observations.
+
+Le représentant de l'entreprise et, le cas échéant, son conseil doivent dans tous les cas pouvoir prendre la parole en
+dernier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
+
+
+###### Article R310-15
+
+En matière disciplinaire la décision est prise en la seule présence du président, des membres de la commission, du secrétaire
+général et du commissaire du Gouvernement. La décision est signée du président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
+
+
+###### Article R310-16
+
+Les décisions de la commission de contrôle des assurances sont notifiées à l'entreprise concernée par lettre recommandée avec
+demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°90-495 du 20 juin 1990 - art. 1 () JORF 22 juin 1990
+
+
 ### Titre II : Régime administratif
 
 #### Chapitre Ier : Les agréments
@@ -25322,66 +25459,20 @@ d'assurance aux fins de transférer dans ledit Etat tout ou partie de son portef
 	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
 
 
-##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur - Transfert d'office.
+##### Section II : Transfert d'office.
 
 ###### Article R*324-4
 
-Lorsque le ministre de l'économie et des finances décide d'imposer à une entreprise le transfert d'office de son portefeuille
-de contrats d'assurance, cette décision est portée à la connaissance de l'ensemble des entreprises d'assurance par un avis
-publié au Journal officiel. Cet avis fait courir un délai de quinze jours pendant lequel les entreprises qui accepteraient de
-prendre en charge le portefeuille de contrats d'assurance de l'entreprise cédante devront se faire connaître à
-l'administration.
+Lorsque la commission de contrôle des assurances décide, en application de l'article L. 310-18, d'imposer à une entreprise le
+transfert d'office de son portefeuille de contrats d'assurance, cette décision est portée à la connaissance de l'ensemble des
+entreprises d'assurance par un avis publié au Journal officiel. Cet avis fait courir un délai de quinze jours pendant
+lesquels les entreprises qui accepteraient de prendre en charge le portefeuille en cause doivent se faire connaître à la
+commission.
 
-L'entreprise qui aura été désignée par le ministre de l'économie et des finances pour prendre en charge le portefeuille de
-contrats de l'entreprise cédante sera avisée de cette désignation par lettre recommandée, avec demande d'avis de réception.
+L'entreprise désignée par la commission de contrôle des assurances pour prendre en charge le portefeuille de contrats
+d'assurances transféré est avisée de cette désignation par lettre recommandée avec demande d'avis de réception.
 
-L'arrêté qui prononce le transfert fixe la date de sa prise d'effet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. R391-1 (V)
-
-
-###### Article R*324-5
-
-Lorsqu'une entreprise a été invitée par le ministre de l'économie et des finances à procéder au recouvrement de rappels de
-prime ou cotisation, le transfert d'office du portefeuille de contrats de cette entreprise ne peut être prononcé avant
-qu'elle ait décidé des rappels de prime ou cotisation, d'un montant ou d'une quotité au moins égaux à ceux qui lui ont été
-proposés par le ministre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-495 du 20 juin 1990 - art. 2 () JORF 22 juin 1990
-
-	**Cité par**:
-
-	  - Code des assurances - art. R391-1 (V)
-
-
-###### Article R*324-6
-
-L'arrêté prononçant le transfert d'office précise les modalités de ce transfert et notamment celles de la contribution
-financière au fonds de garantie institué par l'article L. 421-1.
+La décision qui prononce le transfert en fixe les modalités et la date de prise d'effet.
 
 **Liens relatifs à cet article**
 
@@ -25391,39 +25482,19 @@ financière au fonds de garantie institué par l'article L. 421-1.
 
 	**Modifié par**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-
-	**Abrogé par**:
-
 	  - Décret n°90-495 du 20 juin 1990 - art. 2 () JORF 22 juin 1990
 
 	**Cite**:
 
-	  - Code des assurances - art. L421-1 (M)
+	  - Code des assurances - art. L310-18 (M)
 
+	**Cité par**:
 
-###### Article R*324-7
+	  - Code des assurances - art. R391-1 (V)
 
-Les dispositions de l'article L. 324-5 doivent être portées par les entreprises d'assurance à la connaissance des assurés
-suivant les modalités qui sont fixées par le ministre de l'économie et des finances.
+	**Nouveaux textes**:
 
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-495 du 20 juin 1990 - art. 2 () JORF 22 juin 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L324-5 (Ab)
+	  - Code des assurances R310-21
 
 
 #### Chapitre V : Retrait de l'agrément administratif
