@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1995-05-01
+Version Consolidée au 1995-05-07
 
 # Partie législative
 
@@ -44543,6 +44543,54 @@ individuellement à chaque contrat réduit ou suspendu ne peut être inférieure
 
 ##### Section III : Provisions techniques des autres opérations d'assurance
 
+##### Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours.
+
+###### Article A331-17
+
+La provision pour risques en cours est calculée dans les conditions fixées au présent article.
+
+L'entreprise calcule, contrat par contrat ou par des méthodes statistiques, séparément pour chacune des catégories définies à
+l'article A. 344-2 du présent code, le montant total des charges des sinistres rattachés à l'exercice écoulé et à l'exercice
+précédent, et des frais d'administration autres que ceux immédiatement engagés et frais d'acquisition imputables à l'exercice
+écoulé et à l'exercice précédent ; elle rapporte ce total au montant des primes brutes émises au cours de ces exercices
+corrigé de la variation, sur la même période, des primes restant à émettre, des primes à annuler et de la provision pour
+primes non acquises ; si ce rapport est supérieur à 100 p. 100, l'écart constaté par rapport à 100 p. 100 est appliqué au
+montant des provisions pour primes non acquises et, le cas échéant, des primes qui seront émises, au titre des contrats en
+cours à la date de l'inventaire, pendant la période définie au 2° bis de l'article R. 331-6 ; le montant ainsi calculé est
+inscrit en provision pour risques en cours. Pour l'application du présent alinéa, les sinistres sont rattachés :
+
+- à l'exercice de survenance pour les catégories 20 à 31 et pour les acceptations couvrant ces catégories ;
+
+- à l'exercice de souscription pour les catégories 35 à 38 et pour les acceptations couvrant ces catégories.
+
+La commission de contrôle des assurances peut prescrire à une entreprise de prendre des dispositions appropriées pour le
+calcul prévu au précédent alinéa ; elle peut également, si le taux calculé en application du précédent alinéa apparaît
+insuffisant en raison d'évolutions récentes et significatives de la sinistralité ou de la tarification, prescrire
+l'utilisation d'un taux plus élevé ; elle peut également, sur la base de justifications appropriées fournies par
+l'entreprise, autoriser l'utilisation d'un taux inférieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-19 art. 1 JORF 7 mai 1995
+
+	**Cite**:
+
+	  - Code des assurances - art. A344-2 (M)
+	  - Code des assurances - art. R*331-6 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
+
+
+##### Section III : Provisions techniques des autres opérations d'assurance
+
 ##### Paragraphe 1 : Provision mathématique des rentes.
 
 ###### Article A331-11
@@ -44655,7 +44703,281 @@ les accidents survenus entre le 1er janvier 1942 et le 31 décembre 1949, autres
 	  - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
 
 
+##### Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours.
+
+###### Article A331-16
+
+La provision pour primes non acquises est calculée prorata temporis pour chacune des catégories définies à l'article A. 344-2
+du présent code, contrat par contrat ou sur la base de méthodes statistiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-19 art. 1 JORF 7 mai 1995
+
+	**Cité par**:
+
+	  - Code des assurances - art. A331-18 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. A344-2 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
+
+
+###### Article A331-18
+
+Pour les acceptations en réassurance ou les contrats collectifs d'assurance, lorsqu'un traité ou un contrat prévoit qu'en cas
+de résiliation une somme peut devoir être payée au cédant ou au souscripteur en sus du règlement des sinistres et que le
+total des provisions constituées au titre de ce traité ou de ce contrat à l'exception des provisions pour sinistres à payer
+est inférieur à cette somme, évaluée dans l'hypothèse où le traité ou le contrat serait résilié à la prochaine date de
+résiliation possible, la provision pour risques en cours est augmentée de la différence ainsi constatée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-19 art. 1 JORF 7 mai 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
+
+
+###### Article A331-19
+
+La part des réassureurs dans les provisions pour primes non acquises et dans la provision pour risques en cours est calculée
+dans les mêmes conditions et selon les mêmes méthodes que celles retenues pour le calcul des provisions brutes objet de la
+cession, sans pouvoir excéder le montant effectivement à la charge des réassureurs tel qu'il résulte de l'application des
+clauses des traités, compte tenu notamment des prescriptions de l'article A. 331-20 et de toutes les conditions du traité
+applicables en cas de résiliation à la plus prochaine date de résiliation possible, en particulier lorsque le traité prévoit
+dans ce cas des pénalités ou restitutions à la charge de la cédante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-19 art. 1 JORF 7 mai 1995
+
+	**Cite**:
+
+	  - Code des assurances - art. A331-20 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
+
+
+###### Article A331-20
+
+Lorsqu'un traité ou tout engagement de la cédante, quelle qu'en soit la forme, prévoit un ajustement rétroactif des primes en
+fonction de la sinistralité constatée ou de tout autre élément de résultat du traité ou d'un autre traité, la part du
+réassureur concerné dans les provisions pour risques en cours est diminuée du montant total des compléments de prime qui,
+compte tenu de la sinistralité constatée, seront dus en application de cet engagement.
+
+Lorsque l'application des dispositions du précédent alinéa conduit à une valeur négative de la part du réassureur dans les
+provisions pour risques en cours, cette part est inscrite pour une valeur nulle, et la cédante constate, selon le cas, une
+provision pour charges ou une dette à l'égard du réassureur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-19 art. 1 JORF 7 mai 1995
+
+	**Cité par**:
+
+	  - Code des assurances - art. A331-19 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
+
+
 ##### Paragraphe 3 : Provision pour sinistres restant à payer.
+
+###### Article A331-21
+
+Pour effectuer l'estimation mentionnée au 2° de l'article R. 331-17, les entreprises calculent, pour chaque exercice
+d'ouverture de chantier, séparément pour les garanties décennales de responsabilité civile et pour les garanties décennales
+de dommage aux ouvrages, l'ancienneté n des chantiers ainsi que les montants An et Bn, définis comme suit : 
+
+n = différence de millésime entre l'exercice sous inventaire et l'exercice d'ouverture des chantiers ; 
+
+An = coût total, estimé dossier par dossier, des sinistres afférents aux garanties décennales d'assurance construction
+délivrées pour des chantiers d'ancienneté n et qui se sont manifestés jusqu'à la date de l'inventaire, diminué des recours
+encaissés ou à encaisser ; 
+
+Bn = montant des primes émises et des primes restant à émettre, nettes des primes à annuler et des frais d'acquisition,
+afférent à ces mêmes garanties. 
+
+L'estimation des sinistres non encore manifestés, effectuée séparément pour les garanties décennales de responsabilité civile
+et pour les garanties décennales de dommage aux ouvrages, est égale au plus élevé des deux montants MSn et MPn suivants : 
+
+MSn = an x An ; 
+
+MPn = bn x Bn, 
+
+an et bn prenant les valeurs suivantes : 
+
+<table>
+    <tbody>
+      <tr>
+        <td>
+          <table>
+            <tbody>
+              <tr>
+                <td align="center">
+
+n </td>
+                <td align="center">
+
+0 </td>
+                <td align="center">
+
+1 </td>
+                <td align="center">
+
+2 </td>
+                <td align="center">
+
+3 </td>
+                <td align="center">
+
+4 </td>
+                <td align="center">
+
+5 </td>
+                <td align="center">
+
+6 </td>
+                <td>7 </td>
+                <td>8 </td>
+                <td>9 </td>
+                <td>10 </td>
+                <td>11 </td>
+                <td>12 </td>
+                <td>13 </td>
+              </tr>
+              <tr>
+                <td align="center">
+
+an </td>
+                <td align="center">
+
+0 </td>
+                <td align="center">
+
+0 </td>
+                <td align="center">
+
+3,4 </td>
+                <td align="center">
+
+2 </td>
+                <td align="center">
+
+1,4 </td>
+                <td align="center">
+
+1 </td>
+                <td align="center">
+
+0,7 </td>
+                <td>0,5 </td>
+                <td>0,35 </td>
+                <td>0,25 </td>
+                <td>0,20 </td>
+                <td>0,15 </td>
+                <td>0,10 </td>
+                <td>0,05 </td>
+              </tr>
+              <tr>
+                <td align="center">
+
+bn </td>
+                <td align="center">
+
+1 </td>
+                <td align="center">
+
+1 </td>
+                <td align="center">
+
+0,95 </td>
+                <td align="center">
+
+0,85 </td>
+                <td align="center">
+
+0,75 </td>
+                <td align="center">
+
+0,65 </td>
+                <td align="center">
+
+0,55 </td>
+                <td>0,45 </td>
+                <td>0,35 </td>
+                <td>0,25 </td>
+                <td>0,20 </td>
+                <td>0,15 </td>
+                <td>0,10 </td>
+                <td>0,05 </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+L'estimation mentionnée au 2° de l'article R. 331-17 est égale à la somme de l'estimation des sinistres non encore manifestés
+en responsabilité civile et de l'estimation des sinistres non encore manifestés en dommage aux ouvrages, calculées comme il
+est prescrit ci-dessus et majorées d'une estimation du montant des recours à encaisser.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-19 art. 2 JORF 7 mai 1995
+
+	**Cité par**:
+
+	  - Arrêté du 19 avril 1995 - art. 4 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. R331-17 (V)
+
 
 ###### Article A331-24
 
