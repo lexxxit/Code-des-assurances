@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-12-30
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -2741,7 +2741,7 @@ La nullité est prononcée sur la demande de l'assureur, du souscripteur de la p
 Les primes payées doivent être intégralement restituées.
 
 L'assureur et le souscripteur sont en outre passibles, pour chaque assurance conclue sciemment en violation de cette
-interdiction, d'une amende de 30.000 F [*sanctions*].
+interdiction, d'une amende de 4500 euros [*sanctions*].
 
 Ces dispositions ne mettent point obstacle dans l'assurance en cas de décès, au remboursement des primes payées en exécution
 d'un contrat d'assurance en cas de vie, souscrit sur la tête d'une des personnes mentionnées au premier alinéa ci-dessus.
@@ -2759,8 +2759,7 @@ d'un contrat d'assurance en cas de vie, souscrit sur la tête d'une des personne
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 323 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -7683,7 +7682,7 @@ civile pour tous dommages causés par ce moyen de transport.
 ###### Article L220-3
 
 Quiconque aura sciemment contrevenu aux dispositions de l'article L. 220-1 sera puni d'un emprisonnement de six mois et d'une
-amende de 60.000 F ou de l'une de ces deux peines seulement [*sanctions pénales*].
+amende de 9 000 euros ou de l'une de ces deux peines seulement. 
 
 Dès la constatation du défaut d'assurance, le préfet suspendra l'autorisation d'exploitation, jusqu'à ce que la situation
 soit régularisée.
@@ -7694,14 +7693,14 @@ soit régularisée.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
 	  - TXT_ASSOCIE: Code des assurances - art. L220-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -8064,6 +8063,35 @@ l'absence d'assurance.
 	  - Code des assurances - art. R243-2 (V)
 
 
+###### Article L243-3
+
+Quiconque contrevient aux dispositions des articles L. 241-1 à L. 242-1 du présent code sera puni d'un emprisonnement de six
+mois et d'une amende de 75 000 euros ou de l'une de ces deux peines seulement.
+
+Les dispositions de l'alinéa précédent ne s'appliquent pas à la personne physique construisant un logement pour l'occuper
+elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants ou ceux de son conjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. L241-1 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. L241-2 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. L242-1 (M)
+
+	**Cite**:
+
+	  - Code des assurances L241-1 à L242-1
+
+
 ###### Article L243-4
 
 Toute personne assujettie à l'obligation de s'assurer qui, ayant sollicité la souscription d'un contrat auprès d'une
@@ -8314,40 +8342,6 @@ articles L. 241-1 et L. 241-2 ci-dessus, est habilitée à prendre en charge les
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L111-30 (V)
-
-
-#### Chapitre III : Dispositions communes.
-
-###### Article L243-3
-
-Quiconque contrevient aux dispositions des articles L. 241-1 à L. 242-1 du présent code sera puni d'un emprisonnement de six
-mois et d'une amende de 500.000 F ou de l'une de ces deux peines seulement [*sanctions*].
-
-Les dispositions de l'alinéa précédent ne s'appliquent pas à la personne physique construisant un logement pour l'occuper
-elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants ou ceux de son conjoint.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
-	  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
-	  - TXT_ASSOCIE: Code des assurances - art. L241-1 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L241-2 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. L242-1 (M)
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Cite**:
-
-	  - Code des assurances L241-1 à L242-1
 
 
 ## Livre III : Les entreprises.
@@ -10417,8 +10411,8 @@ des assurances.
 
 ###### Article L310-26
 
-Toute infraction aux dispositions de l'article L. 310-10 sera punie d'une amende de 30.000 F et, en cas de récidive, de
-60.000 F. Le jugement sera publié aux frais des condamnés ou des entreprises civilement responsables [*sanctions*].
+Toute infraction aux dispositions de l'article L. 310-10 sera punie d'une amende de 4 500 euros et, en cas de récidive, de 9
+000 euros. Le jugement sera publié aux frais des condamnés ou des entreprises civilement responsables.
 
 **Liens relatifs à cet article**
 
@@ -10426,14 +10420,9 @@ Toute infraction aux dispositions de l'article L. 310-10 sera punie d'une amende
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
-	**Transféré par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 16 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -10452,10 +10441,10 @@ Toute infraction aux dispositions de l'article L. 310-10 sera punie d'une amende
 
 Le fait de pratiquer sur le territoire de la République une des opérations mentionnées aux 1°, 2° et 3° de l'article L. 310-1
 sans se conformer aux dispositions des articles L. 310-2 et L. 310-6 est puni d'un emprisonnement de trois ans et d'une
-amende de 500 000 F [*sanctions*].
+amende de 75 000 euros.
 
 Lorsqu'une personne physique a commis l'une des infractions prévues au précédent alinéa, la diffusion de la décision, dans
-les conditions prévues par l'article 712-2 du code pénal, peut être prononcée à titre de peine complémentaire.
+les conditions prévues par l'article 131-35 du code pénal, peut être prononcée à titre de peine complémentaire.
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
 pénal, des mêmes infractions. Elles encourent les peines suivantes :
@@ -10474,23 +10463,13 @@ contrats en cas de liquidation d'une entreprise d'assurance.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Ordonnance 96-267 1996-03-28 art. 14 JORF 31 mars 1996 en vigueur le 1er mai 1996
-
 	**Cité par**:
 
 	  - Loi n°97-277 du 25 mars 1997 - art. 10 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-	  - Code pénal - art. 712-2 (M)
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. L310-6 (Ab)
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L310-28
@@ -10499,7 +10478,7 @@ Le fait, pour tout dirigeant d'une société de groupe d'assurance ou société 
 L. 322-1-2 ou d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1 ou L. 310-1-1, après mise en
 demeure, de ne pas répondre aux demandes d'information de la commission de contrôle des assurances, ou de mettre obstacle de
 quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment des
-renseignements inexacts, est puni d'un emprisonnement de deux ans et d'une amende de 2 000 000 F *sanctions pénales*. Les
+renseignements inexacts, est puni d'un emprisonnement de deux ans et d'une amende de 300000 euros *sanctions pénales*. Les
 entraves à l'action de la commission de contrôle exercée en application de l'article L. 323-1-1 sont punies des mêmes peines.
 Les mêmes dispositions s'appliquent aux dirigeants des personnes morales et aux personnes physiques que la Commission de
 contrôle des assurances aura décidé de soumettre à son contrôle en application du cinquième alinéa de l'article L. 310-12.
@@ -10528,7 +10507,7 @@ modalités prévues par l'article 131-38 du code pénal.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 10 () JORF 31 août 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -13706,7 +13685,7 @@ mer.
 ###### Article L328-1
 
 La méconnaissance des incapacités prévues à l'article L. 322-2 est punie d'un emprisonnement de trois ans et d'une amende de
-500 000 F [*sanctions*].
+75 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -13720,7 +13699,7 @@ La méconnaissance des incapacités prévues à l'article L. 322-2 est punie d'u
 
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -17873,8 +17852,8 @@ relative à certaines opérations de prévoyance collective et d'assurance, codi
 ###### Article L441-6
 
 Toute personne qui, même à titre d'intermédiaire, proposera la souscription de contrats ou conventions contrevenant aux
-dispositions du présent chapitre ou fera souscrire de tels contrats ou conventions sera punie d'une amende de 25.000 F et
-d'un emprisonnement de six mois ou de l'une de ces deux peines seulement [*sanctions*].
+dispositions du présent chapitre ou fera souscrire de tels contrats ou conventions sera punie d'une amende de 3 750 euros et
+d'un emprisonnement de six mois ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -17884,12 +17863,11 @@ d'un emprisonnement de six mois ou de l'une de ces deux peines seulement [*sanct
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
+	  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 2
 
 
 ###### Article L441-7
@@ -18297,8 +18275,8 @@ Les dispositions du présent chapitre sont applicables dans les territoires d'ou
 
 ###### Article L514-1
 
-Les infractions aux dispositions de l'article L. 511-2 sont punies d'un emprisonnement de deux ans et d'une amende de 40.000
-F, ou de l'une de ces deux peines seulement [*sanctions*].
+Les infractions aux dispositions de l'article L. 511-2 sont punies d'un emprisonnement de deux ans et d'une amende de 6 000
+euros, ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -18308,11 +18286,7 @@ F, ou de l'une de ces deux peines seulement [*sanctions*].
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -18327,11 +18301,11 @@ F, ou de l'une de ces deux peines seulement [*sanctions*].
 
 Le fait de présenter en vue de leur souscription ou de faire souscrire des contrats pour le compte d'une entreprise soumise
 au contrôle de l'Etat en application de l'article L. 310-1 et non habilitée à pratiquer les opérations correspondantes sur le
-territoire de la République française est puni d'une amende de 20 000 F et, en cas de récidive, d'une amende de 100 000 F et
-d'un emprisonnement de six mois [*sanctions pénales*].
+territoire de la République française est puni d'une amende de 3 000 euros et, en cas de récidive, d'une amende de 15 000
+euros et d'un emprisonnement de six mois.
 
 L'amende prévue au présent article est prononcée pour chacun des contrats proposés ou souscrits, sans que le total des
-amendes encourues puisse excéder 40 000 F et en cas de récidive 200 000 F.
+amendes encourues puisse excéder 6 000 euros et en cas de récidive 30 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -18339,13 +18313,9 @@ amendes encourues puisse excéder 40 000 F et en cas de récidive 200 000 F.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 38 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -18355,7 +18325,7 @@ amendes encourues puisse excéder 40 000 F et en cas de récidive 200 000 F.
 ###### Article L514-4
 
 Les infractions aux dispositions des articles L. 530-1 et L. 530-2 seront punies d'un emprisonnement d'un an et d'une amende
-de 60 000 F ou de l'une de ces deux peines seulement [*sanctions*].
+de 9 000 euros ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -18365,11 +18335,7 @@ de 60 000 F ou de l'une de ces deux peines seulement [*sanctions*].
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -20090,7 +20056,7 @@ objets et substances qu'il transporte ;
 ###### Article R211-7
 
 L'assurance doit être souscrite sans limitation de somme en ce qui concerne les dommages corporels et pour une somme d'au
-moins 3 millions de francs par véhicule et par sinistre matériel, sans préjudice des dispositions de l'article L. 211-7.
+moins 460000 euros par véhicule et par sinistre matériel, sans préjudice des dispositions de l'article L. 211-7.
 
 **Liens relatifs à cet article**
 
@@ -20100,7 +20066,7 @@ moins 3 millions de francs par véhicule et par sinistre matériel, sans préjud
 
 	**Modifié par**:
 
-	  - Décret n°93-581 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -24233,12 +24199,12 @@ le code des assurances, soit une société civile, soit une société commercial
 ###### Article R*322-5
 
 Les entreprises françaises soumises au contrôle de l'Etat par l'article L. 310-1 et constituées sous la forme de société
-anonyme doivent avoir un capital social, non compris les apports en nature, au moins égal à cinq millions de francs pour
-pratiquer les opérations entrant dans les branches mentionnées aux 10 à 15 et aux 20, 21, 22, 24, 25 et 28 de l'article R.
-321-1 ainsi que les opérations de réassurance.
+anonyme doivent avoir un capital social, non compris les apports en nature, au moins égal à 800 000 euros pour pratiquer les
+opérations entrant dans les branches mentionnées aux 10 à 15 et aux 20, 21, 22, 24, 25 et 28 de l'article R. 321-1 ainsi que
+les opérations de réassurance.
 
 Les mêmes entreprises doivent, pour pratiquer des opérations entrant dans d'autres branches que celles énumérées à l'alinéa
-précédent, avoir un capital social, non compris les apports en nature, au moins égal à trois millions de francs.
+précédent, avoir un capital social, non compris les apports en nature, au moins égal à 480 000 euros.
 
 Chaque actionnaire doit verser, avant la constitution définitive, la moitié au moins du montant des actions en numéraire
 souscrites par lui.
@@ -24254,13 +24220,9 @@ souscrites par lui.
 	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
 	  - TXT_SOURCE: Code des assurances R322-5
 
-	**Transféré par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 9 () JORF 28 juin 1991
-
 	**Modifié par**:
 
-	  - Décret n°93-866 du 25 juin 1993 - art. 3 () JORF 27 juin 1993
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -24541,10 +24503,10 @@ territoires d'outre-mer.
 Sous réserve des dispositions des articles R. 322-99 et R. 322-158, les sociétés d'assurance mutuelles doivent avoir un fonds
 d'établissement au moins égal à :
 
-- 2.500.000 F pour pratiquer les opérations mentionnées aux 10 à 15, 20, 21, 22, 24, 25 de l'article R. 321-1 ainsi que les
+- 400 000 euros pour pratiquer les opérations mentionnées aux 10 à 15, 20, 21, 22, 24, 25 de l'article R. 321-1 ainsi que les
 opérations de réassurance ;
 
-- 1.500.000 F pour pratiquer les opérations entrant dans d'autres branches que celles énumérées ci-dessus.
+- 240 000 euros pour pratiquer les opérations entrant dans d'autres branches que celles énumérées ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -24559,7 +24521,7 @@ opérations de réassurance ;
 
 	**Modifié par**:
 
-	  - Décret n°94-799 du 9 septembre 1994 - art. 1 () JORF 15 septembre 1994
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -26320,7 +26282,7 @@ Toute personne a le droit de prendre communication des pièces déposées au gre
 s'en faire délivrer à ses frais expédition ou extrait par le greffier ou par le notaire détenteur de la minute.
 
 Toute personne peut également exiger qu'il lui soit délivré, au siège de la société, une copie certifiée des statuts,
-moyennant paiement d'une somme qui ne peut excéder 10 F.
+moyennant paiement d'une somme qui ne peut excéder 1,5 euro.
 
 **Liens relatifs à cet article**
 
@@ -26330,7 +26292,7 @@ moyennant paiement d'une somme qui ne peut excéder 10 F.
 
 	**Modifié par**:
 
-	  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R322-85
@@ -28217,17 +28179,17 @@ Les associations en cas de décès doivent être liquidées à la fin de chaque 
 
 ###### Article R*322-158
 
-Les sociétés à forme tontinière doivent avoir un fonds d'établissement au moins égal à un million de francs.
+Les sociétés à forme tontinière doivent avoir un fonds d'établissement au moins égal à 160 000 euros.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1206 1962-10-15 art. 5
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -32458,40 +32420,6 @@ Les dispositions du présent chapitre sont applicables dans les territoires d'ou
 
 ##### Dispositions communes.
 
-###### Article R*334-2
-
-Pour l'application des dispositions du présent chapitre, la commission de contrôle des assurances constate et notifie aux
-entreprises la contre-valeur en francs de l'unité de compte de la Communauté économique européenne à retenir.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-
-	**Modifié par**:
-
-	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2001-95 du 2 février 2001 - art. 5 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Cite**:
-
-	  - Code des assurances - art. R*334-1 (M)
-	  - Code des assurances - art. R*334-5 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R323-1-1 (V)
-	  - Code des assurances - art. R335-2 (VD)
-
-
 ###### Article R334-1
 
 Toute entreprise visée au 1° de l'article L. 310-2 doit justifier de l'existence d'une marge de solvabilité suffisante,
@@ -34185,11 +34113,11 @@ estime nécessaires à l'exercice du contrôle.
 Les documents comptables relatifs aux opérations en devises doivent être tenus dans chacune des devises utilisées, dans les
 conditions fixées par arrêté du ministre chargé de l'économie, pris après avis du Conseil national de la comptabilité.
 Toutefois, les entreprises dont les opérations en devises ne sont pas significatives peuvent tenir leurs documents comptables
-uniquement en francs français ou en unité euro.
+uniquement en unité euro.
 
-Les comptes annuels sont établis en francs français ou en unité euro. Pour l'établissement des comptes annuels, les
-opérations en devises sont converties en francs français ou en unité euro d'après les cours de change constatés à la date de
-la clôture des comptes ou, à défaut, à la date antérieure la plus proche.
+Les comptes annuels sont établis en unité euro. Pour l'établissement des comptes annuels, les opérations en devises sont
+converties en unité euro d'après les cours de change constatés à la date de la clôture des comptes ou, à défaut, à la date
+antérieure la plus proche.
 
 **Liens relatifs à cet article**
 
@@ -34210,7 +34138,7 @@ la clôture des comptes ou, à défaut, à la date antérieure la plus proche.
 
 	**Modifié par**:
 
-	  - Décret n°98-1188 du 24 décembre 1998 - art. 1 () JORF 26 décembre 1998
+	  - Décret n°2001-95 du 2 février 2001 - art. 4 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -36679,12 +36607,18 @@ territoriale " est remplacée par la référence à la " collectivité départem
 
 ###### Article R421-19
 
-L'indemnisation des dommages aux biens par le fonds de garantie supporte un abattement de 2.000 F par victime et ne peut
-excéder la somme de trois millions de francs par événement.
+L'indemnisation des dommages aux biens par le fonds de garantie supporte un abattement de 300 euros par victime et ne peut
+excéder la somme de 460 000 euros par événement.
 
 Les espèces, valeurs mobilières et objets considérés comme précieux ne donnent pas lieu à indemnisation.
 
-L'indemnisation des dommages occasionnés à des effets personnels ne peut excéder 6.000 F par victime.
+L'indemnisation des dommages occasionnés à des effets personnels ne peut excéder 970 euros par victime.
+
+**Nota:**
+
+- Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à
+la " collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
+territoriale " est remplacée par la référence à la " collectivité départementale ".
 
 **Liens relatifs à cet article**
 
@@ -36692,13 +36626,9 @@ L'indemnisation des dommages occasionnés à des effets personnels ne peut excé
 
 	  - Décret n°76-666 1976-07-16
 
-	**Transféré par**:
-
-	  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
 	**Modifié par**:
 
-	  - Décret n°94-182 du 1 mars 1994 - art. 6 () JORF 3 mars 1994
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
@@ -42973,10 +42903,10 @@ l'article R. 515-1 ou R. 515-3.
 
 ###### Article R530-1
 
-Le montant de la garantie financière prévue à l'article L. 530-1 doit être au moins égal à la somme de 750 000 F et ne peut
-être inférieur au double du montant moyen mensuel des fonds perçus par le courtier ou la société de courtage d'assurance,
-calculé sur la base des fonds perçus au cours des douze derniers mois précédant le mois de la date de souscription ou de
-reconduction de l'engagement de caution.
+Le montant de la garantie financière prévue à l'article L. 530-1 doit être au moins égal à la somme de 115000 euros et ne
+peut être inférieur au double du montant moyen mensuel des fonds perçus par le courtier ou la société de courtage
+d'assurance, calculé sur la base des fonds perçus au cours des douze derniers mois précédant le mois de la date de
+souscription ou de reconduction de l'engagement de caution.
 
 Le calcul du montant défini à l'alinéa précédent tient compte du total des fonds confiés au courtier ou la société de
 courtage d'assurance, par les assurés, en vue d'être versés à des entreprises mentionnées à l'article L. 310-1, ou par toute
@@ -42990,9 +42920,13 @@ accessoirement du règlement des sinistres.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Cite**:
 
@@ -43149,8 +43083,8 @@ nées pendant la période de validité de l'engagement de caution.
 Le contrat d'assurance de responsabilité civile professionnelle prévu à l'article L. 530-2 comporte pour les entreprises
 d'assurance des obligations qui ne peuvent pas être inférieures à celles définies ci-dessous.
 
-Le contrat prévoit une garantie de 10 millions de francs par sinistre et par année pour un même courtier ou société de
-courtage d'assurance assuré.
+Le contrat prévoit une garantie de 1 525 000 euros par sinistre et par année pour un même courtier ou société de courtage
+d'assurance assuré.
 
 Il peut fixer une franchise par sinistre qui ne doit pas excéder 20 p. 100 du montant des indemnités dues. Cette franchise
 n'est pas opposable aux victimes.
@@ -43162,8 +43096,8 @@ au moment de la souscription.
 Il garantit la réparation de tout sinistre connu de l'assuré dans un délai maximum de douze mois à compter de l'expiration du
 contrat, à condition que le fait générateur de ce sinistre se soit produit pendant la période de validité du contrat.
 
-Il inclut en outre une garantie subséquente d'un montant de dix millions de francs qui porte effet pendant la période de dix
-ans qui suit la date de cessation du contrat si celle-ci est consécutive au décès, à la cessation provisoire ou définitive de
+Il inclut en outre une garantie subséquente d'un montant de 1 525 000 euros qui porte effet pendant la période de dix ans qui
+suit la date de cessation du contrat si celle-ci est consécutive au décès, à la cessation provisoire ou définitive de
 l'activité professionnelle pour quelque cause que ce soit, au redressement judiciaire, à la modification de la situation
 juridique de la personne assurée, notamment par fusion, scission, cession totale ou partielle.
 
@@ -43173,9 +43107,9 @@ juridique de la personne assurée, notamment par fusion, scission, cession total
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-843 du 24 septembre 1990 - art. 1 () JORF 25 septembre 1990
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -44478,7 +44412,7 @@ d'après les tables et taux d'intérêt fixés par l'article A. 331-1-1.
 
 Les entreprises d'assurance sur la vie peuvent, dans les conditions spécifiées aux articles A. 160-3 et A. 160-4, procéder au
 rachat des rentes et des majorations de rentes concernant les contrats qui ont été souscrits auprès d'elles, lorsque les
-quittances d'arrérages correspondantes ne dépassent pas 500 F, en y incluant le montant des majorations légales.
+quittances d'arrérages correspondantes ne dépassent pas 72 euros, en y incluant le montant des majorations légales.
 
 **Liens relatifs à cet article**
 
@@ -44486,13 +44420,13 @@ quittances d'arrérages correspondantes ne dépassent pas 500 F, en y incluant l
 
 	  - Arrêté 1976-07-16
 
-	**Modifié par**:
-
-	  - Arrêté 1984-12-21 art. 13 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
-
 	**Liens**:
 
 	  - SPEC_APPLI: Arrêté 1984-12-21 art. 16
+
+	**Modifié par**:
+
+	  - Arrêté 2001-09-03 art. 1 A JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -44502,7 +44436,7 @@ quittances d'arrérages correspondantes ne dépassent pas 500 F, en y incluant l
 
 ###### Article A160-4
 
-Dans le cas où chaque quittance d'arrérage inférieure à 500 F peut être amenée à ce montant ou à un montant supérieur par
+Dans le cas où chaque quittance d'arrérage inférieure à 72 euros peut être amenée à ce montant ou à un montant supérieur par
 transformation du ou des contrats en modifiant la périodicité du paiement des arrérages ou en groupant, le cas échéant, en un
 seul les différents contrats de rentes souscrits à la même entreprise par l'intéressé, ce dernier doit être mis à même
 d'opter entre le rachat et cette transformation.
@@ -44513,13 +44447,13 @@ d'opter entre le rachat et cette transformation.
 
 	  - Arrêté 1976-07-16
 
-	**Modifié par**:
-
-	  - Arrêté 1984-12-21 art. 13 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
-
 	**Liens**:
 
 	  - SPEC_APPLI: Arrêté 1984-12-21 art. 16
+
+	**Modifié par**:
+
+	  - Arrêté 2001-09-03 art. 1 A JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -46218,7 +46152,7 @@ Les entreprises mentionnées à l'article L. 310-1 effectuent la vérification d
 d'assurance ou de capitalisation dès lors que celui-ci donne lieu à la constitution d'une provision mathématique.
 
 Les dispositions du précédent alinéa sont applicables lorsque le contrat donne lieu au versement d'un montant de prime
-supérieur ou égal à 50 000 F par an.
+supérieur ou égal à 8000 euros par an.
 
 **Liens relatifs à cet article**
 
@@ -46226,9 +46160,9 @@ supérieur ou égal à 50 000 F par an.
 
 	  - Arrêté 1976-07-16
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Arrêté 1994-08-08 art. 1 I JORF 23 août 1994
+	  - Arrêté 2001-09-03 art. 1 A JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -70566,12 +70500,12 @@ celle-ci.
 
 ###### Article A333-4
 
-Les entreprises dont les placements en valeurs soumises à la réserve de capitalisation ne dépassent pas 5 millions de francs
-à la date de l'inventaire, peuvent ne pas appliquer les dispositions prévues aux articles A. 333-2 et A. 333-3 (alinéas 2 et
-3). Dans ces cas, ces entreprises sont tenues de porter à la réserve de capitalisation 10 p. 100 de l'excédent résultant de
-la comparaison entre le montant du prix de vente et le prix d'entrée en portefeuille des titres mentionnés à l'article R.
-333-1 vendus dans l'exercice, ou de prélever sur celle-ci la totalité de l'insuffisance résultant de la même comparaison. Une
-fois exercée en faveur de ce forfait, l'option ne peut être remise en cause.
+Les entreprises dont les placements en valeurs soumises à la réserve de capitalisation ne dépassent pas 750 000 euros à la
+date de l'inventaire, peuvent ne pas appliquer les dispositions prévues aux articles A. 333-2 et A. 333-3 (alinéas 2 et 3).
+Dans ces cas, ces entreprises sont tenues de porter à la réserve de capitalisation 10 % de l'excédent résultant de la
+comparaison entre le montant du prix de vente et le prix d'entrée en portefeuille des titres mentionnés à l'article R. 333-1
+vendus dans l'exercice, ou de prélever sur celle-ci la totalité de l'insuffisance résultant de la même comparaison. Une fois
+exercée en faveur de ce forfait, l'option ne peut être remise en cause.
 
 **Liens relatifs à cet article**
 
@@ -70581,13 +70515,13 @@ fois exercée en faveur de ce forfait, l'option ne peut être remise en cause.
 
 	**Modifié par**:
 
-	  - Arrêté 1985-03-05 art. 3 JORF 31 mars 1985
+	  - Arrêté 2001-09-03 art. 1 A JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code des assurances - art. A333-2 (M)
-	  - Code des assurances - art. A333-3 (M)
-	  - Code des assurances - art. R*333-1 (M)
+	  - Code des assurances - art. A333-2 (V)
+	  - Code des assurances - art. A333-3, v. 4.1 (V)
+	  - Code des assurances - art. R333-1, v. 6.1 (V)
 
 	**Liens**:
 
@@ -71281,11 +71215,11 @@ Pour l'application de l'article R. 341-7, sont considérés comme opérations en
 - les créances et prêts de toute nature libellés en devises ;
 
 - les acquisitions, cessions et autres opérations sur immeubles localisés dans des Etats où les transactions s'effectuent
-normalement dans une monnaie autre que le franc français ou l'unité euro, et sur parts de sociétés immobilières non cotées
-détenant de tels immeubles, à proportion de la valeur de ces immeubles ;
+normalement dans une monnaie autre que l'unité euro, et sur parts de sociétés immobilières non cotées détenant de tels
+immeubles, à proportion de la valeur de ces immeubles ;
 
 - les opérations sur titres de créance non amortissables, et titres de propriété ou assimilés autres que les titres de
-propriétés immobilières mentionnés ci-dessus lorsque la monnaie de négociation n'est pas le franc français ou l'unité euro ;
+propriétés immobilières mentionnés ci-dessus lorsque la monnaie de négociation n'est pas l'unité euro ;
 
 - les engagements pris ou reçus lorsque la réalisation de l'engagement constituerait une opération en devises au sens du
 présent article ;
@@ -71293,8 +71227,8 @@ présent article ;
 - les amortissements et provisions pour dépréciation ou risques et charges ainsi que les remboursements se rapportant à des
 opérations en devises au sens du présent article.
 
-Les dispositions du précédent alinéa ne s'appliquent pas aux opérations sur éléments d'actif ou de passif inscrits en francs
-français ou en unité euro au bilan du premier exercice ouvert à compter du 1er janvier 1994.
+Les dispositions du précédent alinéa ne s'appliquent pas aux opérations sur éléments d'actif ou de passif inscrits en euros
+au bilan du premier exercice ouvert à compter du 1er janvier 1994.
 
 Les opérations portant sur des titres représentatifs d'une participation au sens de l'article 20 du décret n° 83-1020 du 29
 novembre 1983 peuvent être considérées comme opérations en francs, même si la monnaie de négociation est une devise, lorsque
@@ -71302,12 +71236,12 @@ les titres ont vocation à être détenus de manière durable en raison de liens
 émettrice, et que la possession de ces titres permet d'exercer une influence notable sur la société émettrice ou d'en assurer
 le contrôle.
 
-Les dotations et reprises sur la réserve de capitalisation sont toujours des opérations en francs français ou en unité euro y
-compris lorsque la cession qui donne lieu à la dotation ou à la reprise est une opération en devises. La conversion est
-effectuée d'après les cours de change au comptant constatés à la date de la clôture des comptes ou, à défaut, à la date
-antérieure la plus proche. La dotation et la reprise annuelle sur la provision pour exigibilité des engagements techniques
-sont toujours des opérations en francs ou en unité euro. Pour le calcul de la provision pour perte de change, les situations
-par devise des différences de conversion actif et passif peuvent être compensées entre toutes devises.
+Les dotations et reprises sur la réserve de capitalisation sont toujours des opérations en euros y compris lorsque la cession
+qui donne lieu à la dotation ou à la reprise est une opération en devises. La conversion est effectuée d'après les cours de
+change au comptant constatés à la date de la clôture des comptes ou, à défaut, à la date antérieure la plus proche. La
+dotation et la reprise annuelle sur la provision pour exigibilité des engagements techniques sont toujours des opérations en
+euros. Pour le calcul de la provision pour perte de change, les situations par devise des différences de conversion actif et
+passif peuvent être compensées entre toutes devises.
 
 **Liens relatifs à cet article**
 
@@ -71315,14 +71249,14 @@ par devise des différences de conversion actif et passif peuvent être compens�
 
 	  - Arrêté 1976-07-16
 
-	**Modifié par**:
-
-	  - Arrêté 1998-12-24 art. 1 JORF 26 décembre 1998
-
 	**Liens**:
 
 	  - SPEC_APPLI: Arrêté 1998-12-24 art. 3 (modalités d'application - date d'effet)
 	  - TXT_ASSOCIE: Code des assurances - art. R*331-17 (Ab)
+
+	**Modifié par**:
+
+	  - Arrêté 2001-09-03 art. 2 I a JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -73350,8 +73284,6 @@ Le compte rendu détaillé annuel visé au 1° du I de l'article A. 344-6 compre
 
 3° Les états d'analyse des comptes énumérés à l'article A. 344-10.
 
-Il est établi dans la même monnaie que les comptes annuels mentionnés au 2° du I de l'article A. 344-6.
-
 Il est certifié par le président du conseil d'administration ou le président du directoire ou le directeur général unique
 dans les sociétés anonymes, par le directeur et par le président du conseil d'administration dans les sociétés d'assurance
 mutuelles et leurs unions, par le mandataire général ou son représentant légal dans les succursales d'entreprises étrangères,
@@ -73376,7 +73308,7 @@ dispositions des chapitres Ier et II du titre IV du livre III du même code.
 
 	**Modifié par**:
 
-	  - Arrêté 1998-12-24 art. 2 JRF 26 décembre 1998
+	  - Arrêté 2001-09-03 art. 2 I b JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -73389,43 +73321,6 @@ dispositions des chapitres Ier et II du titre IV du livre III du même code.
 	**Cite**:
 
 	  - Code des assurances - art. L310-28 (M)
-
-
-###### Article A344-9
-
-Les comptes visés au 2° du premier alinéa de l'article A. 344-8 sont le compte de résultat, le bilan, y compris le tableau
-des engagements reçus et donnés, et l'annexe, ainsi qu'ils ont été arrêtés par le conseil d'administration ou le directoire
-pour être soumis à l'assemblée générale ou, pour une succursale d'entreprise étrangère, par le mandataire général à
-destination du siège social. Ils sont établis dans la forme prévue à l'article A. 344-3 et complétés par les informations
-énumérées à l'annexe au présent article.
-
-(annexe non reproduite, voir au Journal officiel).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1995-07-28 art. 2 JORF 27 août 1995
-
-	**Cité par**:
-
-	  - Code des assurances - art. A321-1 (V)
-	  - Code des assurances - art. A344-10 (V)
-	  - Code des assurances - art. A344-8 (Ab)
-	  - Code des assurances - art. Annexe art. A344-9 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. A344-3 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
-	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
 ###### Article A344-10
@@ -73620,6 +73515,45 @@ de l'état détaillé des placements lorsque celui-ci n'est pas inclus dans l'an
 	**Cite**:
 
 	  - Code des assurances - art. R*341-8 (M)
+
+
+###### Article A344-9
+
+Les comptes visés au 2° du premier alinéa de l'article A. 344-8 sont le compte de résultat, le bilan, y compris le tableau
+des engagements reçus et donnés, et l'annexe, ainsi qu'ils ont été arrêtés par le conseil d'administration ou le directoire
+pour être soumis à l'assemblée générale ou, pour une succursale d'entreprise étrangère, par le mandataire général à
+destination du siège social. Ils sont établis dans la forme prévue à l'article A. 344-3 et complétés par les informations
+énumérées à l'annexe au présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 2001-09-03 art. 2 I c JORF 11 septembre 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Arrêté du 28 décembre 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code des assurances - art. A321-1 (V)
+	  - Code des assurances - art. A344-10 (Ab)
+	  - Code des assurances - art. A344-8 (Ab)
+	  - Code des assurances - art. Annexe art. A344-9 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. A344-3
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
 ###### Article A344-11
