@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-01-01
+Version Consolidée au 1985-01-04
 
 # Partie législative
 
@@ -44088,6 +44088,81 @@ mathématiques doivent être créditées. Les calculs sont faits en se plaçant 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*333-2 (M)
+
+
+#### Chapitre IV : Solvabilité des entreprises
+
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.
+
+##### Paragraphe 1 : Constitution de la marge de solvabilité.
+
+###### Article A334-1
+
+Le bénéfice annuel estimé mentionné à l'article R. 334-11 pour le calcul des bénéfices futurs résulte de la moyenne
+arithmétique des bénéfices réalisés au cours des cinq dernières années. 
+
+Le bénéfice de chaque exercice pris en compte pour ce calcul est le résultat du compte général de pertes et profits, auquel
+sont ajoutées les participations des assurés aux bénéfices autres que celles qui ne dépendent pas du résultat de l'exercice.
+Il n'est pas tenu compte des profits et charges à caractère exceptionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1984-12-29 art. 1 JORF 4 janvier 1985
+
+	**Transféré par**:
+
+	  - Arrêté du 7 novembre 2008 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code des assurances - art. A334-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A334-1-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R334-11 (V)
+
+
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie
+
+##### Paragraphe 1 : Constitution de la marge de solvabilité.
+
+###### Article A334-2
+
+Le facteur mentionné à l'article R. 334-11, par lequel le bénéfice annuel estimé peut être multiplié, représente la durée
+résiduelle moyenne des contrats corrigée comme il est dit au troisième alinéa. Ce facteur ne peut excéder dix.
+
+La durée résiduelle moyenne, à la date du calcul de la marge de solvabilité, est déterminée comme une moyenne pondérée des
+durées résiduelles des contrats à la même date. Ce calcul s'effectue, après accord du ministre de l'économie, des finances et
+du budget, à partir de la prime annuelle (ou une prime équivalente, compte tenu de la durée du contrat) ou de la provision
+mathématique.
+
+Cette durée résiduelle moyenne est corrigée, sur la base des statistiques afférentes aux cinq dernières années, pour tenir
+compte de l'extinction des contrats avant leur terme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1984-12-29 art. 1 JORF 4 janvier 1985
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-11 (M)
 
 
 #### Chapitre V : Tarifs et frais d'acquisition et de gestion
