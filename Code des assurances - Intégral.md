@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-12-04
+Version Consolidée au 2001-12-26
 
 # Partie législative
 
@@ -7610,119 +7610,6 @@ L. 351-7, L. 351-8 et L. 363-4.
 	  - Code des assurances - art. L363-4 (V)
 
 
-#### Chapitre III : Contribution au profit de la sécurité sociale.
-
-###### Article L213-1
-
-Une cotisation est due par toute personne physique ou morale qui, soit en qualité d'employeur, soit en qualité d'affilié,
-cotise à un régime obligatoire d'assurance maladie ou bénéficie d'un tel régime en qualité d'ayant droit d'affilié ou
-acquitte la contribution sociale généralisée sur un revenu d'activité ou de remplacement et qui est soumise à l'obligation
-d'assurance en matière de circulation de véhicules terrestres à moteur instituée par l'article L. 211-1. Cette cotisation est
-perçue au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés.
-
-Cette cotisation est proportionnelle aux primes ou cotisations afférentes à l'assurance obligatoire en matière de circulation
-de véhicules terrestres à moteur instituée par l'article L. 211-1. Elle est recouvrée par les entreprises d'assurance, dans
-les mêmes conditions et en même temps que ces primes.
-
-Il appartient aux personnes physiques ou morales qui ne cotisent pas soit en qualité d'employeur, soit en qualité d'affilié à
-un régime obligatoire d'assurance maladie ou qui ne bénéficient pas d'un tel régime en qualité d'ayants droit ou qui
-n'acquittent pas la contribution sociale généralisée sur un revenu d'activité ou de remplacement, d'en apporter la preuve par
-tous moyens et notamment par une déclaration aux organismes d'assurance auprès desquels elles ont souscrit des contrats en
-application de l'article L. 211-1 susmentionné.
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article et, notamment, le taux de la cotisation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-706 du 21 août 1967 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°81-1165 du 30 décembre 1981
-	  - TXT_SOURCE: Décret n°81-1165 du 30 décembre 1981 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°81-1165 du 30 décembre 1981 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 12 août 1987
-	  - TXT_SOURCE: Arrêté du 12 août 1987 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 12 août 1987 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 12 août 1987 - art. 3 (V)
-	  - SPEC_APPLI: Loi n°99-641 1999-07-27 art. 72 2° (modalités d'application pour les cotisations recouvrées par l'Agence centrale des organismes de sécurité sociale au titre de l'année 2001)
-	  - TXT_SOURCE: Arrêté du 22 juillet 1986
-	  - TXT_SOURCE: Arrêté du 22 juillet 1986 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 22 juillet 1986 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 22 juillet 1986 - art. 3 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L213-2 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*213-1 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*213-2 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*213-3 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*213-4 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*213-5 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*213-6 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1129 du 23 octobre 1985 - art. 2 (Ab)
-	  - Décret n°97-635 du 31 mai 1997 - art. 6 (V)
-	  - Code de la route. - art. L342-3 (V)
-	  - Code de la sécurité sociale. - art. D255-7 (Ab)
-	  - Code de la sécurité sociale. - art. L241-1 (M)
-	  - Code de la sécurité sociale. - art. L612-1 (M)
-	  - Code de la sécurité sociale. - art. R613-2 (Ab)
-	  - Code des assurances - art. A213-1 (Ab)
-	  - Code des assurances - art. A213-4 (Ab)
-	  - Code des assurances - art. L213-2 (Ab)
-	  - Code des assurances - art. L214-3 (M)
-	  - Code des assurances - art. R*213-1 (Ab)
-	  - Code des assurances - art. R*213-3 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°99-641 du 27 juillet 1999 - art. 12 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1246 du 21 décembre 2001 - art. 13 () JORF 26 décembre 2001
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-1 (M)
-
-
-###### Article L213-2
-
-Quiconque, pour apporter la preuve prévue à l'alinéa 4 de l'article L. 213-1, se rendra coupable de fraude ou de fausse
-déclaration, sera puni d'une amende de 25.000 F [*sanctions pénales*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
-	  - TXT_ASSOCIE: Code des assurances - art. L213-1 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1246 du 21 décembre 2001 - art. 13 () JORF 26 décembre 2001
-
-	**Cite**:
-
-	  - Code des assurances - art. L213-1 (M)
-
-
 #### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer et à Mayotte
 
 ##### Section I : Dispositions particulières aux départements d'outre-mer.
@@ -7756,14 +7643,8 @@ chapitres Ier, et II aux départements d'outre-mer.
 
 ###### Article L214-3
 
-Les dispositions du titre Ier du livre II sont applicables à la collectivité territoriale de Mayotte à l'exception des
-articles L. 211-2, L. 211-4, L. 213-1, L. 214-1 et L. 214-2.
-
-**Nota:**
-
-- Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à
-la " collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
-territoriale " est remplacée par la référence à la " collectivité départementale ".
+Les dispositions du titre Ier du livre II sont applicables à Mayotte à l'exception des articles L. 211-2, L. 211-4, L. 214-1
+et L. 214-2.
 
 **Liens relatifs à cet article**
 
@@ -7771,15 +7652,19 @@ territoriale " est remplacée par la référence à la " collectivité départem
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-255 du 4 mars 1992 portant extens - art. 3 () JORF 20 mars 1992
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2001-1246 du 21 décembre 2001 - art. 13 () JORF 26 décembre 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 	**Cite**:
 
 	  - Code des assurances - art. L211-2 (V)
 	  - Code des assurances - art. L211-4 (M)
-	  - Code des assurances - art. L213-1 (M)
 	  - Code des assurances - art. L214-1 (M)
 	  - Code des assurances - art. L214-2 (M)
 
