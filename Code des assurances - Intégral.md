@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-06-19
+Version Consolidée au 2003-07-05
 
 # Partie législative
 
@@ -72172,6 +72172,35 @@ Toutefois, l'évaluation ne peut pas dépasser le prix d'achat majoré de 5 %.
 
 	  - TXT_SOURCE: Code des assurances - art. R*332-20 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. R332-20 (M)
+
+
+###### Article A332-8
+
+Les organismes dont les prévisions d'évolution de l'indice des prix constituent les références en matière de prévisions
+d'évolution de l'indice des prix sont :
+
+"La Commission européenne ;"
+
+"L'Organisation pour la coopération et le développement économique (OCDE)."
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrête 2003-06-24 art. 1 JORF 5 juillet 2003
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Abrogé par**:
+
+	  - Arrêté du 28 décembre 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code des assurances - art. A332-12 (Ab)
+	  - Code des assurances - art. A332-9 (Ab)
 
 
 ##### Section III : Estimation des éléments d'actif.
