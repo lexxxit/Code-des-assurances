@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-06-23
+Version Consolidée au 1990-06-25
 
 # Partie législative
 
@@ -6779,6 +6779,527 @@ professionnels institués entre entreprises d'assurance ou de capitalisation, ag
 
 	  - Code des assurances - art. L310-2 (T)
 	  - Décret n°1938-06-14 art. 34
+
+
+##### Section II : Commission de contrôle des assurances.
+
+###### Article L310-12
+
+Il est institué une commission de contrôle des assurances chargée de contrôler les entreprises mentionnées à l'article L.
+310-1, à l'exception de celles qui ont pour objet exclusif la réassurance.
+
+La commission veille au respect, par les entreprises d'assurance, des dispositions législatives ou réglementaires relatives à
+l'assurance.
+
+La commission s'assure que les entreprises d'assurance tiennent et sont toujours en mesure de tenir les engagements qu'elles
+ont contractés à l'égard des assurés et présentent la marge de solvabilité prescrite ; à cette fin, elle examine leur
+situation financière et leurs conditions d'exploitation.
+
+La commission de contrôle des assurances comprend cinq membres nommés par arrêté du ministre chargé de l'économie et des
+finances pour une durée de cinq ans :
+
+1° Un membre du Conseil d'Etat, ayant au moins le rang de conseiller d'Etat, président, choisi parmi les membres de la
+section des finances et proposé par le vice-président du Conseil d'Etat ;
+
+2° Un membre de la Cour de cassation, ayant au moins le rang de conseiller à la Cour de cassation, proposé par le premier
+président de la Cour de cassation ;
+
+3° Un membre de la Cour des comptes, ayant au moins le rang de conseiller maître, proposé par le premier président de la Cour
+des comptes ;
+
+4° Deux membres choisis en raison de leur expérience en matière d'assurance et de questions financières.
+
+Les membres de la commission ne peuvent, pendant la durée de leur mandat et dans les cinq ans qui suivent l'expiration de
+celui-ci, recevoir de rétribution d'une entreprise d'assurance.
+
+Cinq suppléants sont nommés dans les mêmes conditions.
+
+En cas de partage égal des voix, celle du président est prépondérante.
+
+Les membres titulaires et suppléants de la commission ne peuvent être révoqués.
+
+Le directeur des assurances au ministère de l'économie et des finances, ou son représentant, siège auprès de la commission en
+qualité de commissaire du Gouvernement.
+
+Le secrétariat général de la commission est assuré par le chef du service de contrôle des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cité par**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 88-2 (V)
+	  - Loi n°94-5 du 4 janvier 1994 - art. 39 (V)
+	  - Loi n°2003-775 du 21 août 2003 - art. 108 (Ab)
+	  - Décret n°2008-284 du 26 mars 2008 - art. 7 (V)
+	  - Loi n°2009-1255 du 19 octobre 2009 - art. 3 (V)
+	  - Arrêté du 28 décembre 2009 - art. 1 (P)
+	  - Arrêté du 26 avril 2010 (V)
+	  - Code de la mutualité - art. L510-1 (V)
+	  - Code de la mutualité - art. L531-1-5 (Ab)
+	  - Code de la santé publique - art. L4135-2 (V)
+	  - Code de la sécurité sociale. - art. L732-21 (Ab)
+	  - Code de la sécurité sociale. - art. L951-1 (V)
+	  - Code de la sécurité sociale. - art. L951-12 (M)
+	  - Code de la sécurité sociale. - art. L951-2 (M)
+	  - Code des assurances - art. A331-1-2 (V)
+	  - Code des assurances - art. A335-1 (V)
+	  - Code des assurances - art. A370-2 (V)
+	  - Code des assurances - art. L112-9 (VD)
+	  - Code des assurances - art. L143-4 (V)
+	  - Code des assurances - art. L143-5 (V)
+	  - Code des assurances - art. L144-2 (V)
+	  - Code des assurances - art. L160-11 (V)
+	  - Code des assurances - art. L310-12-7 (T)
+	  - Code des assurances - art. L310-13 (V)
+	  - Code des assurances - art. L310-14 (VT)
+	  - Code des assurances - art. L310-18-1 (Ab)
+	  - Code des assurances - art. L310-28 (V)
+	  - Code des assurances - art. L322-29 (V)
+	  - Code des assurances - art. L323-1-1 (V)
+	  - Code des assurances - art. L334-15 (Ab)
+	  - Code des assurances - art. L334-3 (V)
+	  - Code des assurances - art. L370-4 (V)
+	  - Code des assurances - art. R*310-17-1 (V)
+	  - Code des assurances - art. R*310-17-2 (V)
+	  - Code des assurances - art. R*324-5 (V)
+	  - Code des assurances - art. R310-17 (VT)
+	  - Code des assurances - art. R310-20 (Ab)
+	  - Code des assurances - art. R321-22 (V)
+	  - Code des assurances - art. R331-5-3 (V)
+	  - Code des assurances - art. R334-5-3 (T)
+	  - Code des assurances - art. R370-5 (V)
+	  - Code monétaire et financier - art. L561-36 (VD)
+	  - Code monétaire et financier - art. L612-20 (VD)
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+
+###### Article L310-13
+
+Le contrôle des entreprises d'assurance est effectué sur pièces et sur place. La commission l'organise et en définit les
+modalités. Le corps des commissaires contrôleurs des assurances est mis à sa disposition à cette fin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+
+	**Cité par**:
+
+	  - Loi n°2008-518 du 3 juin 2008 - art. 7 (V)
+
+
+###### Article L310-14
+
+La commission peut demander aux entreprises d'assurance toutes informations nécessaires à l'exercice de sa mission.
+
+Elle peut également leur demander la communication des rapports des commissaires aux comptes et, d'une manière générale, de
+tous documents comptables dont elle peut, en tant que de besoin, demander la certification.
+
+Elle vérifie que les publications auxquelles sont astreintes les entreprises d'assurance sont régulièrement effectuées. Elle
+peut ordonner aux entreprises concernées de procéder à des publications rectificatives dans le cas où des inexactitudes ou
+des omissions auraient été relevées. Elle peut porter à la connaissance du public toutes informations qu'elle estime
+nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+	  - TXT_SOURCE: Arrêté du 16 mai 2002
+	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 1 ()
+	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 2 ()
+	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 3 ()
+	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 12
+	  - Code de la mutualité - art. L222-11 (VT)
+	  - Code de la mutualité - art. L222-6 (VT)
+	  - Code de la mutualité - art. L222-9 (VT)
+	  - Code de la sécurité sociale. - art. L932-43 (VT)
+	  - Code de la sécurité sociale. - art. L932-46 (VT)
+	  - Code de la sécurité sociale. - art. L932-48 (VT)
+	  - Code des assurances - art. L143-4 (VT)
+	  - Code des assurances - art. L143-9 (VT)
+	  - Code des assurances - art. L310-13-1 (Ab)
+	  - Code des assurances - art. L352-4 (VD)
+	  - Code des assurances - art. R310-17-1 (VD)
+	  - Code des assurances - art. R352-28 (VD)
+
+
+###### Article L310-15
+
+Si cela est nécessaire à l'exercice de sa mission et dans la limite de celle-ci, la commission peut décider d'étendre le
+contrôle sur place d'une entreprise mentionnée à l'article L. 310-1 à toute société dans laquelle cette entreprise détient,
+directement ou indirectement, plus de la moitié du capital social ou des droits de vote, ainsi qu'aux organismes de toute
+nature ayant passé, directement ou indirectement, avec cette entreprise une convention de gestion, de réassurance ou de tout
+autre type susceptible d'altérer son autonomie de fonctionnement ou de décision concernant l'un quelconque de ses domaines
+d'activité. Cette extension du contrôle ne peut avoir d'autre objet que la vérification de la situation financière réelle de
+l'entreprise d'assurance contrôlée ainsi que le respect par cette entreprise des engagements qu'elle a contractés à l'égard
+des assurés ou bénéficiaires de contrats.
+
+Si cette entreprise fait l'objet de mesures de redressement et de sauvegarde, le contrôle sur place peut être également
+étendu aux personnes morales qui la contrôlent directement ou indirectement, au sens de l'article 355-1 de la loi n° 66-537
+du 24 juillet 1966 sur les sociétés commerciales, ou qui font partie d'un même ensemble au sens de l'article L. 345-1 du
+présent code, afin de vérifier si ces personnes morales ont la capacité de participer aux mesures de redressement et de
+sauvegarde.
+
+Les contrôles sur place peuvent également, dans le cadre de conventions internationales, être étendus aux succursales ou
+filiales d'assurance implantées à l'étranger d'entreprises d'assurance de droit français.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 355-1
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L345-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+
+	**Cité par**:
+
+	  - Code des assurances - art. R321-22 (T)
+
+
+###### Article L310-16
+
+En cas de contrôle sur place, un rapport est établi. Si des observations sont formulées par le vérificateur, il en est donné
+connaissance à l'entreprise. La commission prend connaissance des observations formulées par le vérificateur et des réponses
+apportées par l'entreprise.
+
+Les résultats des contrôles sur place sont communiqués soit au conseil d'administration, soit au directoire et au conseil de
+surveillance de l'entreprise contrôlée. Ils sont également transmis aux commissaires aux comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+
+	**Cité par**:
+
+	  - Code des assurances - art. L310-22 (Ab)
+
+
+###### Article L310-17
+
+Lorsqu'une entreprise d'assurance enfreint une disposition législative ou réglementaire dans le domaine relevant du contrôle
+de la commission ou a un comportement qui met en péril sa marge de solvabilité ou l'exécution des engagements qu'elle a
+contractés envers les assurés, la commission, après avoir mis ses dirigeants en mesure de présenter leurs observations, peut
+lui adresser une mise en garde.
+
+Elle peut, également, dans les mêmes conditions, lui adresser une injonction à l'effet de prendre, dans un délai déterminé,
+toutes mesures destinées à rétablir ou renforcer son équilibre financier ou à corriger ses pratiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+
+	**Cité par**:
+
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. R321-16 (V)
+	  - Code des assurances - art. R321-22 (V)
+	  - Code des assurances - art. R321-26 (V)
+	  - Code des assurances - art. R323-10-4 (V)
+	  - Code des assurances - art. R323-10-5 (V)
+	  - Code des assurances - art. R323-2 (V)
+	  - Code des assurances - art. R323-3 (V)
+
+
+###### Article L310-18
+
+Lorsqu'une entreprise mentionnée à l'article L. 310-1 n'a pas respecté une disposition législative ou réglementaire dans le
+domaine relevant du contrôle de la commission ou n'a pas déféré à une injonction, la commission peut prononcer, à son
+encontre ou à celle de ses dirigeants, l'une des sanctions disciplinaires suivantes, en fonction de la gravité du
+manquement :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° L'interdiction d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ;
+
+4° La suspension temporaire d'un ou plusieurs dirigeants de l'entreprise ;
+
+5° Le retrait total ou partiel d'agrément ;
+
+6° Le transfert d'office de tout ou partie du portefeuille des contrats.
+
+En outre, la commission peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction pécuniaire. Le montant de
+cette sanction pécuniaire doit être fonction de la gravité des manquements commis, sans pouvoir excéder 3 p. 100 du chiffre
+d'affaires hors taxes réalisé au cours du dernier exercice clos calculé sur une période de douze mois. Ce maximum est porté à
+5 p. 100 en cas de nouvelle violation de la même obligation. Les sommes correspondantes sont versées au Trésor public. Elles
+sont recouvrées comme des créances de l'Etat étrangères à l'impôt et au domaine.
+
+Dans tous les cas visés au présent article, la commission de contrôle des assurances statue après une procédure
+contradictoire. Les responsables de l'entreprise sont obligatoirement mis à même d'être entendus avant que la commission de
+contrôle n'arrête sa décision. Ils peuvent se faire représenter ou assister.
+
+Les personnes sanctionnées peuvent, dans le délai de deux mois qui suit la notification de la décision, former un recours de
+pleine juridiction devant le Conseil d'Etat.
+
+Lorsqu'une sanction prononcée par la commission de contrôle des assurances est devenue définitive, la commission peut, aux
+frais de l'entreprise sanctionnée, ordonner l'insertion de sa décision dans trois journaux ou publications qu'elle désigne et
+l'affichage dans les lieux et pour la durée qu'elle indique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+
+	**Cité par**:
+
+	  - Décret n°2004-1019 du 28 septembre 2004 - art. 2 (Ab)
+	  - Décret n°2004-1023 du 29 septembre 2004 - art. 8 (Ab)
+	  - Décret n°2004-1023 du 29 septembre 2004 - art. 9-1 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1065 (V)
+	  - Code de justice administrative - art. L311-4 (V)
+	  - Code de la mutualité - art. R510-11 (Ab)
+	  - Code de la santé publique - art. L4135-2 (V)
+	  - Code de la sécurité sociale. - art. R951-2-2 (Ab)
+	  - Code des assurances - art. L310-12-7 (T)
+	  - Code des assurances - art. L310-14 (VT)
+	  - Code des assurances - art. L310-18-1 (M)
+	  - Code des assurances - art. L310-18-2 (Ab)
+	  - Code des assurances - art. L310-22 (Ab)
+	  - Code des assurances - art. L323-1-1 (V)
+	  - Code des assurances - art. L323-8 (V)
+	  - Code des assurances - art. L325-1 (V)
+	  - Code des assurances - art. L325-1-1 (Ab)
+	  - Code des assurances - art. L326-2 (V)
+	  - Code des assurances - art. L334-16 (Ab)
+	  - Code des assurances - art. L351-8 (V)
+	  - Code des assurances - art. L363-4 (V)
+	  - Code des assurances - art. L370-4 (V)
+	  - Code des assurances - art. L421-9-1 (V)
+	  - Code des assurances - art. L423-2 (V)
+	  - Code des assurances - art. L423-7 (V)
+	  - Code des assurances - art. L451-2 (V)
+	  - Code des assurances - art. R*310-19 (V)
+	  - Code des assurances - art. R*310-21 (Ab)
+	  - Code des assurances - art. R*321-19 (M)
+	  - Code des assurances - art. R*324-5 (V)
+	  - Code des assurances - art. R310-12 (Ab)
+	  - Code des assurances - art. R310-18 (VT)
+	  - Code des assurances - art. R321-16 (V)
+	  - Code des assurances - art. R321-22 (V)
+	  - Code des assurances - art. R321-26 (V)
+	  - Code des assurances - art. R323-10-4 (V)
+	  - Code des assurances - art. R323-10-5 (V)
+	  - Code des assurances - art. R323-2 (V)
+	  - Code des assurances - art. R323-3 (V)
+	  - Code des assurances - art. R324-4 (V)
+	  - Code des assurances - art. R325-2 (V)
+	  - Code des assurances - art. R325-4 (V)
+	  - Code des assurances - art. R325-7 (V)
+	  - Code des assurances - art. R334-11 (V)
+	  - Code des assurances - art. R334-3 (V)
+	  - Code des assurances - art. R421-27 (V)
+	  - Code des assurances - art. R423-13 (V)
+	  - Code monétaire et financier - art. D341-2 (V)
+	  - Code monétaire et financier - art. D452-2 (V)
+	  - Code monétaire et financier - art. D541-8 (V)
+	  - Code monétaire et financier - art. L341-17 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+
+###### Article L310-19
+
+La commission de contrôle des assurances peut demander aux commissaires aux comptes d'une entreprise d'assurance tout
+renseignement sur l'activité de l'organisme contrôlé. Les commissaires aux comptes sont alors déliés, à son égard, du secret
+professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+
+	**Cité par**:
+
+	  - Code des assurances - art. L310-13-1 (Ab)
+	  - Code des assurances - art. L310-19-1 (Ab)
+	  - Code des assurances - art. R345-1-4 (V)
+
+
+###### Article L310-20
+
+La commission de contrôle des assurances, le conseil de la concurrence, la commission bancaire, le conseil de discipline des
+organismes de placement collectif en valeurs mobilières et la commission des opérations de bourse sont autorisés, nonobstant
+toutes dispositions contraires, à se communiquer les renseignements nécessaires à l'accomplissement de leurs missions
+respectives. Les renseignements ainsi recueillis sont soumis aux règles du secret professionnel en vigueur dans l'organisme
+qui les a communiqués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+
+
+###### Article L310-21
+
+Les membres ainsi que les agents de la commission de contrôle des assurances sont tenus au secret professionnel sous les
+peines prévues à l'article 378 du code pénal. Ce secret n'est pas opposable à l'autorité judiciaire.
+
+La commission de contrôle des assurances peut transmettre de s informations aux autorités chargées de la surveillance des
+entreprises d'assurance dans d'autres pays, sous réserve de réciprocité, et à condition que ces autorités soient elles-mêmes
+soumises au secret professionnel avec les mêmes garanties qu'en France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+
+	**Cite**:
+
+	  - Code pénal 378
+
+
+###### Article L310-22
+
+Lorsque la commission relève des faits de nature à justifier des poursuites pénales, elle transmet le dossier avec un avis
+motivé au procureur de la République territorialement compétent, sans préjudice des sanctions qu'elle peut prononcer en
+application de l'article L. 310-18.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-18 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L370-4 (V)
+
+
+###### Article L310-23
+
+Lorsque la commission relève des pratiques anticoncurrentielles au sens des articles L. 420-1 et L. 420-2 du code de
+commerce, elle en informe le ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3
+
+	**Cite**:
+
+	  - Code de commerce. - art. L420-1 (M)
+	  - Code de commerce. - art. L420-2 (M)
 
 
 ### Titre II : Régime administratif.
