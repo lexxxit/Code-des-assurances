@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1995-10-01
+Version Consolidée au 1995-10-25
 
 # Partie législative
 
@@ -27690,7 +27690,7 @@ diligence de la commission de contrôle des assurances.
 
 Si une entreprise visée au 4° de l'article L. 310-2, soumise à une vérification de solvabilité globale exercée par l'autorité
 de contrôle d'un Etat membre de l'Espace économique européen autre que la France, fait l'objet de la part de cette autorité
-d'un retrait d'agrément motivé par l'insuffisance de la solvabilité globale mentionnée à l'article R. 334-18, le ministre de
+d'un retrait d'agrément motivé par l'insuffisance de la solvabilité globale mentionnée à l'article R. 334-23, le ministre de
 l'économie et des finances procède au retrait de l'agrément administratif précédemment accordé à la succursale française de
 cette entreprise.
 
@@ -27702,16 +27702,16 @@ cette entreprise.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 7 () JORF 25 octobre 1995
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. R*334-18 (M)
+	  - Code des assurances - art. R*334-23 (M)
 
 
 ###### Article R325-2
@@ -29498,9 +29498,10 @@ l'article R. 321-1 :
 
 - les avances sur contrats ;
 
-- les primes ou cotisations restant à recouvrer, de trois mois de date au plus, dans la limite d'un plafond défini par arrêté
-du ministre chargé de l'économie et des finances. Ce plafond est fixé en fonction de l'incidence, aux termes de la
-réglementation, du non-recouvrement éventuel de ces primes ou cotisations sur le montant des engagements réglementés.
+- les primes ou cotisations relatives à ces branches restant à recouvrer, de trois mois de date au plus, dans la limite d'un
+plafond défini par arrêté du ministre chargé de l'économie et des finances. Ce plafond est fixé en fonction de l'incidence,
+aux termes de la réglementation, du non-recouvrement éventuel de ces primes ou cotisations sur le montant des engagements
+réglementés.
 
 **Liens relatifs à cet article**
 
@@ -29510,7 +29511,7 @@ réglementation, du non-recouvrement éventuel de ces primes ou cotisations sur 
 
 	**Modifié par**:
 
-	  - Décret n°90-981 du 5 novembre 1990 - art. 4 () JORF 6 novembre 1990
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 6 () JORF 25 octobre 1995
 
 	**Cité par**:
 
@@ -29575,8 +29576,8 @@ frais d'acquisition reportés au titre de ce contrat, nets des commissions des r
 contrat.
 
 La provision pour primes non acquises constituée par ces mêmes entreprises peut être représentée, jusqu'à 25 % de son
-montant, par des primes émises et non encore encaissées ou des primes restant à émettre, nettes d'impôt, de taxes et de
-commissions, et de trois mois de date au plus.
+montant, par des primes relatives aux mêmes opérations émises et non encore encaissées ou des primes restant à émettre,
+nettes d'impôt, de taxes et de commissions, et de trois mois de date au plus.
 
 **Liens relatifs à cet article**
 
@@ -29586,7 +29587,7 @@ commissions, et de trois mois de date au plus.
 
 	**Modifié par**:
 
-	  - Décret n°95-153 du 7 février 1995 - art. 4 () JORF 14 février 1995
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 6 () JORF 25 octobre 1995
 
 	**Cité par**:
 
@@ -31150,7 +31151,7 @@ relative à l'ensemble de ses activités.
 Cette disposition dispense les sociétés anonymes du prélèvement prescrit par l'article 345 de la loi n° 66-537 du 24 juillet
 1966 sur les sociétés commerciales.
 
-Sous réserve des dispositions de la section IV du présent chapitre, toute entreprise visée au 3° ou au 4° de l'article L.
+Sous réserve des dispositions de la section V du présent chapitre, toute entreprise visée au 3° ou au 4° de l'article L.
 310-2, doit justifier de l'existence d'une marge de solvabilité suffisante relative à ses activités sur le territoire de la
 République française.
 
@@ -31167,11 +31168,11 @@ République française.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 7 () JORF 25 octobre 1995
 
 	**Cité par**:
 
@@ -31189,8 +31190,8 @@ République française.
 
 ###### Article R334-3
 
-La marge de solvabilité mentionnée à l'article R. 334-1 est constituée après déduction des pertes, des amortissements restant
-réaliser sur commissions, des frais d'établissement ou de développement et des autres actifs incorporels, par les éléments
+La marge de solvabilité mentionnée à l'article R. 334-1 est constituée, après déduction des pertes, de la part des frais
+d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
 1. Le capital social versé ou le fonds d'établissement constitué.
@@ -31234,11 +31235,11 @@ sanctions par la commission de contrôle des assurances.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°92-716 du 23 juillet 1992 - art. 1 () JORF 29 juillet 1992
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 8 () JORF 25 octobre 1995
 
 	**Cité par**:
 
@@ -31274,8 +31275,8 @@ sanctions par la commission de contrôle des assurances.
 
 La marge de solvabilité applicable aux entreprises visées au 4° de l'article L. 310-2, mentionnée à l'article R. 334-1, est
 constituée par des actifs dont le montant, afférent aux opérations réalisées sur le territoire de la République française,
-est égal, après déduction des pertes, des amortissements restant à réaliser sur commissions, des frais d'établissement ou de
-développement et des autres actifs incorporels, au total des éléments définis aux 4, 5 et 7 de l'article R. 334-3.
+est égal, après déduction des pertes, de la part des frais d'acquisition non admise en représentation des engagements
+réglementés et des autres éléments incorporels, au total des éléments définis aux 4, 5 et 7 de l'article R. 334-3.
 
 **Liens relatifs à cet article**
 
@@ -31285,11 +31286,11 @@ développement et des autres actifs incorporels, au total des éléments défini
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 8 () JORF 25 octobre 1995
 
 	**Cite**:
 
@@ -31658,8 +31659,9 @@ Le cautionnement initial déposé conformément à l'article R. 321-12 s'impute 
 
 ###### Article R334-11
 
-La marge de solvabilité mentionnée à l'article R. 334-1 est constituée, après déduction des pertes et des éléments
-incorporels, par les éléments suivants :
+La marge de solvabilité mentionnée à l'article R. 334-1 est constituée, après déduction des pertes, de la part des frais
+d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
+suivants :
 
 1. Le capital social versé ou le fonds d'établissement constitué ;
 
@@ -31699,11 +31701,11 @@ sanctions par la commission de contrôle des assurances.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°92-716 du 23 juillet 1992 - art. 2 () JORF 29 juillet 1992
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 8 () JORF 25 octobre 1995
 
 	**Cité par**:
 
@@ -31742,8 +31744,9 @@ sanctions par la commission de contrôle des assurances.
 ###### Article R334-12
 
 La marge de solvabilité des entreprises visées au 4° de l'article L. 310-2 afférente aux opérations réalisées sur le
-territoire de la République française, est constituée, après déduction des pertes et des éléments incorporels, par les
-éléments définis aux 3, 4 et 5 de l'article R. 334-11.
+territoire de la République française, est constituée, après déduction des pertes de la part des frais d'acquisition non
+admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments définis aux 3, 4 et
+5 de l'article R. 334-11.
 
 **Liens relatifs à cet article**
 
@@ -31753,11 +31756,11 @@ territoire de la République française, est constituée, après déduction des 
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 8 () JORF 25 octobre 1995
 
 	**Cite**:
 
@@ -31895,8 +31898,8 @@ sous risque, des primes ou cotisations et des sinistres, ou des avoirs résultan
 entreprise sur le territoire de la République française.
 
 Les éléments constitutifs de la marge doivent être localisés sur le territoire de la République française au moins jusqu'à
-concurrence du fonds de garantie mentionné à l'article R. 334-16 et pour le surplus à l'intérieur de la Communauté économique
-européenne.
+concurrence du fonds de garantie mentionné à l'article R. 334-16 et pour le surplus à l'intérieur de l'Espace économique
+européen.
 
 **Liens relatifs à cet article**
 
@@ -31906,11 +31909,11 @@ européenne.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
 
 	**Modifié par**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 9 () JORF 25 octobre 1995
 
 	**Cité par**:
 
@@ -32021,9 +32024,232 @@ Le cautionnement initial déposé conformément à l'article R. 321-12 s'impute 
 	  - Code des assurances - art. R334-21 (V)
 
 
-##### Section IV : Vérification de solvabilité globale
+##### Section IV : La marge de solvabilité des entreprises mixtes définies à l'article L. 341-1
+
+##### Paragraphe 1 : Constitution de la marge de solvabilité.
 
 ###### Article R334-17
+
+La marge de solvabilité mentionnée à l'article R. 334-1 est constituée, après déduction des pertes, de la part des frais
+d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
+suivants :
+
+a) Les éléments définis aux 1, 2, 3, 4 et 6 de l'article R. 334-11 ;
+
+b) L'élément défini au 5 b de l'article R. 334-11 ;
+
+c) L'élément défini au 3 de l'article R. 334-3, dans la limite du montant de la fraction dommage définie au second alinéa de
+l'article R. 334-19 ;
+
+d) L'élément défini au 5 a de l'article R. 334-11, dans la limite du montant de la fraction vie définie au troisième alinéa
+de l'article R. 334-19.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 2 () JORF 25 octobre 1995
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 3 () JORF 25 octobre 1995
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 9 (V)
+	  - Code des assurances - art. A334-15 (Ab)
+	  - Code des assurances - art. A334-4 (V)
+	  - Code des assurances - art. R334-18 (M)
+	  - Code des assurances - art. R334-19 (M)
+	  - Code des assurances - art. R334-21 (VD)
+	  - Code des assurances - art. R334-42 (V)
+	  - Code des assurances - art. R391-1 (V)
+	  - Code des assurances - art. R423-16 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-1 (M)
+	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R*334-3 (M)
+
+
+###### Article R334-18
+
+La marge de solvabilité des entreprises mentionnées au 4° de l'article L. 310-2 afférente aux opérations réalisées sur le
+territoire de la République française est constituée, après déduction des pertes, de la part des frais d'acquisition non
+admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments définis aux 3, 4 et
+5 de l'article R. 334-11, dans les limites fixées à l'article R. 334-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 2 () JORF 25 octobre 1995
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 3 () JORF 25 octobre 1995
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R*334-17 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*325-9 (M)
+	  - Code des assurances - art. R334-19 (M)
+	  - Code des assurances - art. R334-42 (V)
+
+
+##### Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité.
+
+###### Article R334-19
+
+Le montant minimal réglementaire de la marge de solvabilité des entreprises mixtes est égal à la somme des deux éléments ci-
+après, dénommés respectivement fraction dommage et fraction vie.
+
+Le montant minimal de la fraction dommage est calculé dans les conditions définies aux articles R. 334-5 et R. 334-6, sur la
+base des primes et sinistres afférents aux affaires directes et aux acceptations relevant des branches 1 et 2 définies à
+l'article R. 321-1.
+
+Le montant minimal de la fraction vie est calculé dans les conditions définies aux articles R. 334-13 et R. 334-14, sur la
+base des provisions techniques, des capitaux sous risque, des primes ou cotisations, des sinistres et des avoirs afférents
+aux affaires directes et aux acceptations relevant des branches 20 à 26 de l'article R. 321-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 2 () JORF 25 octobre 1995
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 4 () JORF 25 octobre 1995
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R213-3 (V)
+	  - Code de la sécurité sociale. - art. R933-3 (VT)
+	  - Code des assurances - art. R322-72 (VD)
+	  - Code des assurances - art. R323-1-1 (VT)
+	  - Code des assurances - art. R334-17 (V)
+	  - Code des assurances - art. R334-20 (VT)
+	  - Code des assurances - art. R334-21 (VD)
+	  - Code des assurances - art. R334-42 (V)
+	  - Code des assurances - art. R335-2 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-13 (M)
+	  - Code des assurances - art. R*334-14 (M)
+	  - Code des assurances - art. R*334-5 (M)
+	  - Code des assurances - art. R*334-6 (M)
+	  - Code des assurances R321-1, R334-5, R334-6, R334-13, R334-14
+
+
+###### Article R334-20
+
+Pour les entreprises mentionnées au 4° de l'article L. 310-2, le montant minimal réglementaire de la marge de solvabilité est
+calculé, conformément aux dispositions de l'article R. 334-19, à partir, suivant le cas, des provisions techniques, des
+capitaux sous risque, des primes ou cotisations, des sinistres et des avoirs résultant des opérations réalisées par cette
+entreprise sur le territoire de la République française.
+
+Les éléments constitutifs de la marge doivent être localisés sur le territoire de la République française au moins jusqu'à
+concurrence du fonds de garantie mentionné à l'article R. 334-21 et, pour le surplus, à l'intérieur de l'Espace économique
+européen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 2 () JORF 25 octobre 1995
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 4 () JORF 25 octobre 1995
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R213-3 (V)
+	  - Code des assurances - art. R334-22 (V)
+	  - Code des assurances - art. R334-42 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. R*334-19 (M)
+	  - Code des assurances - art. R*334-21 (M)
+
+
+##### Paragraphe 3 : Le fonds de garantie.
+
+###### Article R334-21
+
+Le fonds de garantie des entreprises mentionnées au 1° de l'article L. 310-2 est égal au tiers du montant réglementaire
+minimal de la marge de solvabilité défini à l'article R. 334-19, sans pouvoir être inférieur aux seuils définis aux articles
+R. 334-15 et R. 334-16.
+
+A concurrence de ces seuils ou de la moitié dudit fonds si cette moitié est supérieure auxdits seuils, le fonds est constitué
+par les éléments mentionnés au a de l'article R. 334-17.
+
+Pour les entreprises mentionnées au 4° de l'article L. 310-2, le cautionnement initial déposé conformément à l'article R.
+321-12 s'impute sur le fonds de garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 2 () JORF 25 octobre 1995
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 5 () JORF 25 octobre 1995
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. R*321-12 (M)
+	  - Code des assurances - art. R*334-15 (M)
+	  - Code des assurances - art. R*334-16 (M)
+	  - Code des assurances - art. R*334-17 (M)
+	  - Code des assurances - art. R*334-19 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*334-22 (M)
+	  - Code des assurances - art. R334-20 (M)
+
+
+##### Section V : Vérification de solvabilité globale.
+
+###### Article R334-22
 
 Une entreprise visée au 4° de l'article L. 310-2, agréée ou demandant l'agrément pour pratiquer les opérations mentionnées
 aux 1 à 18 et 20 à 26 de l'article R. 321-1 en France et dans un ou plusieurs autres Etats membres peut demander, en motivant
@@ -32035,13 +32261,13 @@ de solvabilité globale qu'avec l'accord de ces autorités.
 
 En cas d'acceptation, les mesures suivantes sont appliquées :
 
-a) Par dérogation aux dispositions de l'article R. 334-6 ou de l'article R. 334-14, la marge de solvabilité est calculée en
-fonction de l'activité globale que l'entreprise exerce sur le territoire de la République française et sur celui des autres
-Etats membres concernés ;
+a) Par dérogation aux dispositions de l'article R. 334-6, de l'article R. 334-14 ou de l'article R. 334-20, la marge de
+solvabilité est calculée en fonction de l'activité globale que l'entreprise exerce sur le territoire de la République
+française et sur celui des autres Etats membres concernés ;
 
-b) Par dérogation aux dispositions de l'article R. 334-6 ou de l'article R. 334-14, les actifs formant la contrepartie du
-fonds de garantie sont localisés sur le territoire de la République française ou sur celui de l'un des Etats mentionnés en
-a ;
+b) Par dérogation aux dispositions de l'article R. 334-6, de l'article R. 334-14 ou de l'article R. 334-20, les actifs
+formant la contrepartie du fonds de garantie sont localisés sur le territoire de la République française ou sur celui de l'un
+des Etats mentionnés en a ;
 
 c) L'entreprise doit déposer sur le territoire de la République française un cautionnement égal :
 
@@ -32063,40 +32289,39 @@ intéressés, membres de l'Espace économique européen.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°94-635 1994-07-25 art. 14 VI, IX JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
+	  - Décret n°95-1133 1995-10-23 art. 1 I, II, art. 7 III JORF 25 octobre 1995
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 1 () JORF 25 octobre 1995
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 7 () JORF 25 octobre 1995
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
 
 	**Cité par**:
 
-	  - Arrêté du 3 novembre 2014 - art. 9 (V)
-	  - Code des assurances - art. A334-15 (Ab)
-	  - Code des assurances - art. A334-4 (V)
-	  - Code des assurances - art. R334-18 (M)
-	  - Code des assurances - art. R334-19 (M)
-	  - Code des assurances - art. R334-21 (VD)
-	  - Code des assurances - art. R334-42 (V)
-	  - Code des assurances - art. R391-1 (V)
-	  - Code des assurances - art. R423-16 (V)
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code des assurances - art. R*334-23 (M)
+	  - Code des assurances - art. R*334-25 (Ab)
+	  - Code des assurances - art. R*334-28 (M)
+	  - Code des assurances - art. R*334-29 (M)
+	  - Code des assurances - art. R334-24 (V)
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. R*334-14 (M)
+	  - Code des assurances - art. R*334-20 (M)
 	  - Code des assurances - art. R*334-6 (M)
-	  - Code des assurances L310-2, R321-1, R334-6, R334-14
+	  - Code des assurances L310-2, R321-1, R334-6, R334-14, R334-20
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances R334-22 (3ème version)
+	  - Code des assurances R334-17 (6ème version)
 
 
-###### Article R334-18
+###### Article R334-23
 
 Une entreprise mentionnée à l'article précédent peut également demander, en motivant son choix, à la commission de contrôle
 des assurances de faire l'objet dans un autre Etat membre de la vérification de solvabilité globale.
@@ -32117,39 +32342,37 @@ la succursale française de l'entreprise.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Transféré par**:
+
+	  - Décret n°95-1133 1995-10-23 art. 1 I, II JORF 25 octobre 1995
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 1 () JORF 25 octobre 1995
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
-	**Modifié par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*325-9 (M)
-	  - Code des assurances - art. R334-19 (M)
-	  - Code des assurances - art. R334-42 (V)
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
 
 	**Cite**:
 
-	  - Code des assurances - art. R*334-17 (M)
-	  - Code des assurances R334-17, R321-8
+	  - Code des assurances - art. R*321-12 (M)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code des assurances R334-23 (3ème version)
+	  - Code des assurances - art. R325-9 (VT)
+	  - Code des assurances - art. R334-24 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances R334-18 (6ème version)
 
 
-###### Article R334-19
+###### Article R334-24
 
-L'accord donné par la commission de contrôle des assurances en vertu de l'article R. 334-17 ou de l'article R. 334-18 peut
+L'accord donné par la commission de contrôle des assurances en vertu de l'article R. 334-22 ou de l'article R. 334-23 peut
 être retiré.
 
 Lorsque l'autorité de contrôle d'un autre Etat membre de l'Espace économique européen retire un accord précédemment donné
-pour la vérification de la solvabilité globale, l'entreprise perd le bénéfice des dispositions de l'article R. 334-17 ou de
-l'article R. 334-18.
+pour la vérification de la solvabilité globale, l'entreprise perd le bénéfice des dispositions de l'article R. 334-22 ou de
+l'article R. 334-23.
 
 **Liens relatifs à cet article**
 
@@ -32157,33 +32380,191 @@ l'article R. 334-18.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Créé par**:
+
+	  - Décret n°95-1133 1995-10-23 art. 1 I, II, art. 7 IV JORF 25 octobre 1995
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 1 () JORF 25 octobre 1995
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 7 () JORF 25 octobre 1995
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
-	**Modifié par**:
-
-	  - Décret n°94-635 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R213-3 (V)
-	  - Code de la sécurité sociale. - art. R933-3 (VT)
-	  - Code des assurances - art. R322-72 (VD)
-	  - Code des assurances - art. R323-1-1 (VT)
-	  - Code des assurances - art. R334-17 (V)
-	  - Code des assurances - art. R334-20 (VT)
-	  - Code des assurances - art. R334-21 (VD)
-	  - Code des assurances - art. R334-42 (V)
-	  - Code des assurances - art. R335-2 (VD)
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
 
 	**Cite**:
 
-	  - Code des assurances - art. R*334-18 (M)
+	  - Code des assurances - art. R*334-22 (M)
+	  - Code des assurances - art. R*334-23 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances R334-24 (3ème version)
+	  - Code des assurances R334-19 (6ème version)
+
+
+##### Section VI : Dispositions transitoires relatives à la marge de solvabilité.
+
+###### Article R334-30
+
+Les entreprises françaises agréées à la date du 23 juillet 1976 pour pratiquer une ou plusieurs des branches mentionnées aux
+1 à 17 de l'article R. 321-1, et dont au 31 juillet 1978 le montant annuel des primes ou cotisations émises, accessoires
+compris et annulations déduites, n'atteint pas le sextuple du montant minimal du fonds de garantie, peuvent être dispensées
+par la commission de contrôle des assurances de toute obligation concernant le montant du fonds de garantie, jusqu'à la
+clôture de l'exercice au cours duquel le total annuel des primes ou cotisations définies comme il est dit ci-dessus dépasse
+le sextuple du montant minimal du fonds de garantie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
+	  - Décret n°93-469 du 23 mars 1993 - art. 6 () JORF 26 mars 1993 en vigueur le 4 juillet 1993
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 1 () JORF 25 octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+
+	**Cite**:
+
+	  - Code des assurances R321-1
+
+
+###### Article R334-31
+
+Nonobstant les dispositions de la présente section, les entreprises agréées ne peuvent obtenir une extension d'agrément pour
+pratiquer d'autres branches mentionnées aux 1 à 18 de l'article R. 321-1 que si elles justifient que leur marge de
+solvabilité est au moins égale au montant réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-456 du 27 avril 1988 - art. 2 () JORF 29 avril 1988
+	  - Décret n°93-469 du 23 mars 1993 - art. 6 () JORF 26 mars 1993 en vigueur le 4 juillet 1993
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 1 () JORF 25 octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+
+	**Cite**:
+
+	  - Code des assurances - art. R321-1 (V)
+
+
+###### Article R334-32
+
+Les entreprises mentionnées à l'article R. 310-10-1, agréées à la date du 4 juillet 1993 pour pratiquer sur le territoire de
+la République française une ou plusieurs des branches mentionnées à l'article R. 321-1, et qui satisfont aux dispositions
+réglementaires permanentes relatives aux provisions techniques, à la marge de solvabilité et au fonds de garantie ainsi que
+les entreprises visées au 1° de l'article L. 310-10-1, qui satisfont aux mêmes dispositions, peuvent obtenir de la commission
+de contrôle des assurances la suppression des mesures restrictives, telles qu'hypothèques, dépôts ou cautionnements, qui leur
+avaient été imposées en vertu de la réglementation qui leur était précédemment applicable.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 1 () JORF 25 octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-10-1 (M)
+	  - Code des assurances L310-10-1, R310-10-1, R321-1
+
+
+###### Article R334-38
+
+I. - Lorsqu'une entreprise, filiale d'une entreprise étrangère qui cumule dans un Etat membre de la Communauté économique
+européenne où elle a son siège social, les activités mentionnées aux 1° à 4° de l'article L. 310-1 avec les activités
+mentionnées au 5° du même article, sollicite l'agrément pour les opérations comprises dans une ou plusieurs des branches
+mentionnées aux 20 à 26 de l'article R. 321-1, le montant minimal du fonds de garantie peut, par décision du ministre de
+l'économie, des finances et du budget et par dérogation aux dispositions de l'article R. 334-15, être représenté à
+concurrence de 50 % par une garantie financière irrévocable accordée par l'entreprise étrangère lorsque sont remplies les
+conditions suivantes :
+
+a) 95 % au moins du capital de l'entreprise filiale doivent être détenus par l'entreprise étrangère ;
+
+b) la fraction non versée du capital social ne peut être utilisée pour constituer la moitié du montant minimal du fonds de
+garantie non couverte par la garantie financière irrévocable ;
+
+c) l'entreprise étrangère doit justifier qu'elle remplit les conditions financières imposées par la législation du pays de
+son siège social pour le cumul des activités mentionnées aux 1° à 4° de l'article L. 310-1 et au 5° du même article, les
+fonds correspondant au montant de la garantie financière mentionnée au présent article n'étant pas considérés comme faisant
+partie du patrimoine libre de cette entreprise.
+
+II. - Le bénéfice des mesures mentionnées au présent article ne peut être accordé que pour une période de sept années à
+compter de la date de son octroi par le ministre de l'économie, des finances et du budget. L'entreprise bénéficiaire desdites
+mesures doit, au cours de cette période et au plus tard à partir de la troisième année suivant la date d'octroi du bénéfice
+de ces mesures, remplacer progressivement la garantie financière par des éléments constitutifs du fonds de garantie. Un plan
+établi à cet effet doit être soumis à l'accord du ministre de l'économie, des finances et du budget à l'appui de la demande
+d'agrément présentée par l'entreprise.
+
+III. - Le bénéfice des dispositions du présent article ne peut être octroyé après le 15 mars 1989.
+
+IV. - Le présent article n'est pas applicable aux filiales d'entreprises qui, à la date du 15 septembre 1979, disposaient sur
+le territoire de la République française d'une succursale agréée pour pratiquer une ou plusieurs des branches mentionnées aux
+1 à 17 de l'article R. 321-1.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-456 du 27 avril 1988 - art. 2 () JORF 29 avril 1988
+	  - Décret n°93-469 du 23 mars 1993 - art. 6 () JORF 26 mars 1993 en vigueur le 4 juillet 1993
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 1 () JORF 25 octobre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
+
+	**Cite**:
+
+	  - Code des assurances
+	  - Code des assurances - art. L310-1
+	  - Code des assurances - art. R334-15
+
+
+##### Section VII : Dispositions particulières aux territoires d'outre-mer.
+
+###### Article R334-39
+
+Les dispositions du présent chapitre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
+française, des Terres australes et antarctiques françaises et de Wallis et Futuna ainsi que dans la collectivité territoriale
+de Mayotte.
+
+**Nota:**
+
+- Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à
+la " collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
+territoriale " est remplacée par la référence à la " collectivité départementale ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 1 () JORF 25 octobre 1995
 
 
 ### Titre IV : Dispositions comptables et statistiques
@@ -32558,39 +32939,48 @@ l'assemblée générale, à partir de la date à laquelle ils doivent être tenu
 
 ###### Article R344-1
 
-I. - La quote-part mentionnée à l'article L. 344-1 est un pourcentage de l'ensemble des placements figurant à l'état A 5,
-mentionné à l'article R. 342-17, évalués à leur valeur de réalisation. Ce pourcentage est au moins égal au résultat obtenu en
-divisant par le montant total des placements, ainsi définis, la somme des montants suivants :
+I. - La quote-part mentionnée à l'article L. 344-1 est un pourcentage de la valeur de l'ensemble des placements appartenant à
+l'entreprise et de ceux des autres actifs affectables à la représentation des engagements réglementés, évalués conformément
+aux dispositions de l'article R. 332-20-1. Ce pourcentage est au moins égal au résultat obtenu en divisant par cette valeur
+la somme des montants suivants :
 
-a) Actif mentionné à l'article L. 441-8, correspondant aux opérations relevant de l'article L. 441-1, évalué à sa valeur de
-réalisation ;
+a) Actif mentionné à l'article L. 441-8, correspondant aux opérations relevant de l'article L. 441-1, évalué comme il est dit
+à l'article R. 332-20-1 ;
 
-b) Placements affectés à la représentation des contrats en unités de compte mentionnés au troisième alinéa de l'article L.
-131-1 ;
+b) Placements affectés à la représentation des contrats d'assurance sur la vie ou de capitalisation en unités de compte
+définis au deuxième alinéa de l'article L. 131-1 et évalués comme il est dit au dernier alinéa de l'article R. 332-5 ;
 
-c) Actifs mentionnés au premier alinéa de l'article L. 324-7, évalués à leur valeur de réalisation ;
+c) Actifs mentionnés au premier alinéa de l'article L. 324-7, évalués comme il est dit à l'article R. 332-20-1 ;
 
-d) Montant des provisions techniques brutes de réassurance constituées au titre de l'ensemble des opérations pratiquées par
-l'entreprise autres que celles qui sont mentionnées aux a et b, diminué du montant des actifs mentionnés au premier alinéa de
-l'article L. 324-7, évalués à leur valeur comptable ;
+d) Montant des provisions techniques brutes de réassurance constituées au titre des opérations pratiquées par l'entreprise
+pour les branches 20 à 26 de l'article R. 321-1, autres que celles qui sont mentionnées aux a et b et diminué du montant des
+actifs mentionnés au c, évalués comme il est dit aux articles R. 332-19 et R. 332-20 ;
 
-e) 85 p. 100 de la différence entre la valeur de réalisation de l'ensemble des placements figurant à l'état A 5 susmentionné
-autres que ceux qui sont définis aux a, b et c ci-dessus, et la valeur comptable de ces mêmes placements, le montant ainsi
-obtenu étant affecté du coefficient défini au II ci-après.
+e) Un pourcentage, défini au II du présent article, de la différence entre la valeur, d'une part, évaluée comme il est dit à
+l'article R. 332-20-1, d'autre part, évaluée comme il est dit aux articles R. 332-19 et R. 332-20, de l'ensemble des
+placements appartenant à l'entreprise et de ceux des autres actifs affectables à la représentation des engagements
+réglementés, autres que ceux mentionnés aux a, b et c ci-dessus.
 
-II. - Le coefficient prévu au e du I ci-dessus est égal au quotient du montant moyen des provisions techniques brutes de
-réassurance constituées au titre des opérations autres que celles qui sont mentionnées à l'article L. 441-1 et au troisième
-alinéa de l'article L. 131-1 ou qui sont relatives à des contrats collectifs en cas de décès, diminué du montant moyen des
-actifs visés au premier alinéa de l'article L. 324-7, évalués à leur valeur comptable, par le montant moyen de l'ensemble des
-placements figurant à l'état A 5 autres que ceux qui sont affectés à la représentation des opérations mentionnées à l'article
-L. 441-1 et au troisième alinéa de l'article L. 131-1, ou qui sont mentionnés au premier alinéa de l'article L. 324-7,
-évalués à leur valeur comptable.
+II. - Le pourcentage mentionné au e du I du présent article est égal à 85 p. 100 du quotient A/B, avec :
 
-Le montant moyen mentionné à l'alinéa précédent est obtenu en divisant par deux la somme des valeurs inscrites dans les
+A : montant moyen des provisions techniques brutes de réassurance constituées au titre de l'ensemble des opérations
+pratiquées par l'entreprise autres que celles qui sont mentionnées aux a et b du I du présent article ou qui sont relatives à
+des contrats collectifs en cas de décès ou, pour les entreprises mixtes, à des opérations relevant des branches 1 ou 2 de
+l'article R. 321-1, et diminué du montant moyen des actifs mentionnés au c du I du présent article, évalués comme il est dit
+aux articles R. 332-19 et R. 332-20 ;
+
+B : montant moyen de l'ensemble des placements appartenant à l'entreprise et de ceux des autres actifs affectables à la
+représentation des engagements réglementés, autres que ceux qui sont mentionnés aux a, b et c du I ci-dessus, évalués comme
+il est dit aux articles R. 332-19 et R. 332-20.
+
+Les montants moyens mentionnés à l'alinéa précédent sont obtenus en divisant par deux la somme des montants inscrits dans les
 comptes à l'ouverture et à la clôture de l'exercice.
 
-III. - Les placements et provisions mentionnés au présent article ne comprennent pas ceux qui sont constitués par
-l'entreprise dans le cadre des opérations effectuées par ses établissements à l'étranger.
+III. - Les placements, actifs et provisions mentionnés au présent article ne comprennent pas ceux qui sont constitués par
+l'entreprise dans le cadre des opérations effectuées par ses établissements situés à l'étranger.
+
+IV. - En cas de transfert de portefeuille, la valeur des actifs transférés ne peut excéder celle qui résulte de leur
+évaluation conformément aux dispositions de l'article R. 332-20-1.
 
 **Liens relatifs à cet article**
 
@@ -32598,9 +32988,13 @@ l'entreprise dans le cadre des opérations effectuées par ses établissements �
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°91-113 du 30 janvier 1991 - art. 1 () JORF 31 janvier 1991
+	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+
+	**Modifié par**:
+
+	  - Décret n°95-1133 du 23 octobre 1995 - art. 10 () JORF 25 octobre 1995
 
 	**Cité par**:
 
@@ -32620,6 +33014,10 @@ l'entreprise dans le cadre des opérations effectuées par ses établissements �
 	  - Code des assurances - art. L344-1 (V)
 	  - Code des assurances - art. L441-1 (M)
 	  - Code des assurances - art. L441-8 (M)
+	  - Code des assurances - art. R*332-19 (M)
+	  - Code des assurances - art. R*332-20 (M)
+	  - Code des assurances - art. R*332-5 (M)
+	  - Code des assurances L131-1, L324-7, L344-1, L441-1, L441-8, R321-1, R332-5, R332-19, R332-20, R332-20-1
 
 
 ###### Article R344-2
@@ -41396,6 +41794,219 @@ immeubles, selon la procédure définie par l'article R. 332-20 (2°).
 
 ##### Section III : Participation aux bénéfices techniques et financiers.
 
+###### Article A132-1
+
+Les tarifs pratiqués par les entreprises pratiquant des opérations mentionnées au 1° de l'article L. 310-1 doivent être
+établis d'après un taux au plus égal à 75 p. 100 du taux moyen des emprunts de l'Etat français calculé sur une base
+semestrielle sans pouvoir dépasser, au-delà de huit ans, le plus bas des deux taux suivants : 3,5 p. 100 ou 60 p. 100 du taux
+moyen indiqué ci-dessus. Pour les contrats à primes périodiques ou à capital variable, quelle que soit leur durée, ce taux ne
+peut excéder le plus bas des deux taux suivants :
+
+3,5 p. 100 ou 60 p. 100 du taux moyen indiqué ci-dessus.
+
+En ce qui concerne les contrats libellés en devises étrangères, le taux d'intérêt technique ne sera pas supérieur à 75 p. 100
+du taux moyen des emprunts d'Etat à long terme du pays de la devise concernée calculé sur base semestrielle ou, à défaut, de
+la référence de taux à long terme pertinente pour la devise concernée et équivalente à la référence retenue pour le franc
+français.
+
+Pour les contrats au-delà de huit ans, le taux du tarif ne pourra en outre être supérieur au plafond établi par les
+réglementations en vigueur dans le pays de chaque devise concernée, pour les garanties de même durée, sans pouvoir excéder 60
+p. 100 du taux moyen visé à l'alinéa précédent. Il en est de même pour les contrats à primes périodiques.
+
+Pour ce qui est des contrats libellés en écus, le taux d'intérêt technique ne doit pas être supérieur à 75 p. 100 du taux
+moyen des emprunts de l'Etat français libellés dans cette référence monétaire et calculé sur base semestrielle. Le taux du
+tarif ne peut en outre excéder, au-delà de huit ans, le plus bas des deux taux suivants :
+
+3,5 p. 100 ou 60 p. 100 du taux moyen des emprunts de l'Etat français libellés dans cette référence monétaire, indiqué ci-
+dessus. Il en est de même pour les contrats à primes périodiques.
+
+Le taux moyen des emprunts d'Etat à retenir est le plus élevé des deux taux suivants : taux à l'émission et taux de rendement
+sur le marché secondaire.
+
+Les règles définies au présent article sont à appliquer en fonction des taux en vigueur au moment de la souscription et ne
+sont pas applicables aux opérations de prévoyance collective visées au chapitre Ier du titre IV du livre IV du code des
+assurances. Dans le cas de versements non programmés aux termes du contrat, ces règles sont à apprécier au moment de chaque
+versement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
+	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+	  - Arrêté 1995-03-28 art. 1 JORF 7 avril 1995 en vigueur le 1er juin 1995
+	  - Arrêté 1995-10-23 art. 5 II JORF 25 octobre 1995
+
+	**Cité par**:
+
+	  - Décret n°83-326 du 21 avril 1983 - art. 4 (V)
+	  - Arrêté du 21 avril 1983 - art. 6 (V)
+	  - Code des assurances - art. A132-1-1 (V)
+	  - Code des assurances - art. A132-10 (Ab)
+	  - Code des assurances - art. A132-12 (Ab)
+	  - Code des assurances - art. A132-18 (V)
+	  - Code des assurances - art. A132-3 (V)
+	  - Code des assurances - art. A335-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A331-3 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+
+###### Article A132-2
+
+Les entreprises pratiquant des opérations mentionnées au 1° de l'article L. 310-1 peuvent, dans les conditions fixées à
+l'article A. 132-3, garantir dans leurs contrats un montant total d'intérêts techniques et de participations bénéficiaires
+qui, rapporté aux provisions mathématiques, ne sera pas inférieur à un taux minimum garanti.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
+	  - Arrêté 1993-03-19 art. 1, art. 2 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
+	  - Arrêté 1995-03-28 art. 2 JORF 7 avril 1995 en vigueur le 1er juin 1995
+	  - Arrêté 1995-10-23 art. 5 II JORF 25 octobre 1995
+
+	**Cité par**:
+
+	  - Arrêté du 20 juillet 2010 - art. 1 (VT)
+	  - Code des assurances - art. A132-12 (V)
+	  - Code des assurances - art. A132-3 (V)
+	  - Code des assurances - art. A132-6 (T)
+	  - Code des assurances - art. A331-2 (V)
+	  - Code des assurances - art. A331-5 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-8 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A331-4 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+
+###### Article A132-3
+
+1° Le taux minimum visé à l'article A. 132-2 peut être fixé annuellement pour l'année suivante. Il ne peut excéder alors 85
+p. 100 de la moyenne des taux de rendement des actifs de l'entreprise calculés pour les deux derniers exercices.
+
+2° Ce taux minimum garanti peut également varier annuellement en fonction d'une référence fournie par un marché réglementé et
+en fonctionnement régulier de valeurs mobilières ou de titres admis en représentation des engagements réglementés des
+entreprises d'assurance. Pour les contrats libellés en francs français, la référence peut également être fournie par le taux
+des premiers livrets de caisse d'épargne français. La garantie de ce minimum ne peut être donnée que pour une période
+maximale de huit ans. La commercialisation d'un contrat assorti d'une telle garantie de taux n'est possible que si la moyenne
+des taux de rendement des actifs de l'entreprise calculés pour les deux derniers exercices est au moins égale aux quatre
+tiers du taux minimum qu'elle propose de garantir la première année.
+
+3° Les dispositions visées aux alinéas précédents peuvent être appliquées séparément ou conjointement.
+
+4° Le taux de rendement des actifs est calculé conformément à l'article A. 331-7. Il ne tient pas compte du rendement des
+actifs afférents aux contrats à capital variable et aux opérations de prévoyance collective visées au chapitre Ier du titre
+IV du livre IV du code des assurances.
+
+5° La provision spéciale pour aléas financiers constituée antérieurement à l'entrée en vigueur du présent article fait
+l'objet d'une reprise intégrale dans les comptes de l'exercice suivant cette date, pour être affectée en totalité à la
+provision pour participation aux bénéfices.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1983-04-21 art. 1 JORF 22 avril 1983
+	  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
+	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+	  - Arrêté 1995-03-28 art. 2, art. 3 JORF 7 avril 1995 en vigueur le 1er juin 1995
+	  - Arrêté 1995-07-28 art. 3 JORF 27 août 1995
+	  - Arrêté 1995-10-23 art. 5 III JORF 25 octobre 1995
+
+	**Cité par**:
+
+	  - Arrêté du 20 juillet 2010 - art. 1 (V)
+	  - Code des assurances - art. A132-10 (Ab)
+	  - Code des assurances - art. A132-12 (V)
+	  - Code des assurances - art. A132-2 (V)
+	  - Code des assurances - art. A331-5 (V)
+	  - Code des assurances - art. A335-11 (Ab)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-9 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A331-5 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. A331-7 (Ab)
+
+
+###### Article A132-4
+
+La note d'information visée à l'article L. 132-5-1 du code des assurances contient les informations prévues par le modèle ci-
+annexé.
+
+(annexe non reproduite, voir au Journal officiel).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1982-07-23 art. 4 JORF 7 septembre 1982
+	  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
+	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+	  - Arrêté 1995-03-28 art. 2 JORF 7 avril 1995 en vigueur le 1er juin 1995
+	  - Arrêté 1995-10-23 art. 5 IV JORF 25 octobre 1995
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2004 - art. 17 (Ab)
+	  - Code des assurances - art. A132-4-3 (V)
+	  - Code des assurances - art. A132-4-5 (V)
+	  - Code des assurances - art. A132-5 (T)
+	  - Code des assurances - art. A132-5-1 (M)
+	  - Code des assurances - art. A132-8 (V)
+	  - Code des assurances - art. A150-3 (Ab)
+	  - Code des assurances - art. Annexe art. A344-8 (Ab)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-12 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A331-6 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-5-1 (M)
+
+
 ###### Article A132-5
 
 Pour l'établissement du compte défini à l'article A. 132-4 :
@@ -44340,6 +44951,111 @@ inférieure à la provision correspondant au capital réduit.
 	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
 
 
+###### Article A331-3
+
+La participation aux bénéfices techniques et financiers des entreprises pratiquant des opérations mentionnées au 1° de
+l'article L. 310-1 s'effectue dans les conditions fixées à la présente section.
+
+Le montant minimal de cette participation est déterminé globalement pour les contrats individuels et collectifs de toute
+nature souscrits sur le territoire de la République française, à l'exception des contrats collectifs en cas de décès.
+
+Les articles A. 331-3 à A. 331-8 ne s'appliquent pas aux contrats à capital variable.
+
+**Nota:**
+
+Décision n° 353885 du 23 juillet 2012 du Conseil d'Etat statuant au contentieux (JORF du 28 juillet 2012) :
+
+Il est déclaré que l'article A. 331-3 du code des assurances, dans sa rédaction antérieure à celle issue de l'arrêté du 23
+avril 2007 est entaché d'illégalité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Transféré par**:
+
+	  - Arrêté 1994-08-08 art. 10 I JORF 23 août 1994
+
+	**Modifié par**:
+
+	  - Arrêté 1995-10-23 art. 1 JORF 25 octobre 1995
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A331-4 (M)
+	  - Code des assurances - art. A331-7 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances L310-1, A331-3 à A331-8
+
+
+###### Article A331-7
+
+Pour l'établissement du compte défini à l'article A. 331-6, la part du résultat financier à inscrire en recettes de ce compte
+est égale à la somme des deux éléments suivants :
+
+1. Le produit du montant moyen au cours de l'exercice des provisions techniques brutes de cessions en réassurance des
+contrats mentionnés à l'article A. 331-3, autres que ceux transférés par une entreprise mentionnée au 1° de l'article L.
+310-1 au titre de l'article L. 324-7, par le taux de rendement des placements (tableaux a à h) figurant à l'annexe à
+l'article A. 344-3 (point 1.3 A du modèle d'annexe) ;
+
+2. Le montant total des produits financiers afférents à des actifs transférés avec un portefeuille de contrats par une
+entreprise mentionnée au 1° de l'article L. 310-1 et affectés du code T dans l'état détaillé des placements figurant à
+l'annexe à l'article A. 344-3 (point 1.3 A du modèle d'annexe).
+
+Le taux de rendement prévu au 1 du présent article est égal au rapport :
+
+- du produit net des placements considérés, figurant à l'annexe à l'article A. 334-3, au compte technique de l'assurance vie,
+à la rubrique II.2 "Produits des placements" diminuée de la rubrique II.9 "Charges des placements", déduction faite des
+produits des placements mentionnés aux a, b et c du I de l'article R. 344-1 ;
+
+- au montant moyen, au cours de l'exercice, des placements réalisés sur le territoire de la République française, mentionnés
+dans les tableaux a à h de l'état détaillé de l'annexe, autres que ceux mentionnés aux a, b et c du I de l'article R. 344-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Transféré par**:
+
+	  - Arrêté 1994-08-08 art. 10 V JORF 23 août 1994
+
+	**Modifié par**:
+
+	  - Arrêté 1995-10-23 art. 4 JORF 25 octobre 1995
+
+	**Cité par**:
+
+	  - Arrêté du 17 février 2014 - art. 1 (M)
+	  - Code des assurances - art. A132-3 (V)
+	  - Code des assurances - art. A132-7 (M)
+	  - Code des assurances - art. A331-2 (V)
+	  - Code des assurances - art. A331-6 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-5 (T)
+
+	**Cite**:
+
+	  - Code des assurances - art. A331-3 (Ab)
+	  - Code des assurances - art. A334-3 (M)
+	  - Code des assurances - art. A344-3 (M)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L324-7 (M)
+	  - Code des assurances - art. R344-1 (M)
+
+
 ###### Article A331-8
 
 Pour l'application de l'article A. 331-4, il est prévu, dans le compte de participation aux résultats, une rubrique intitulée
@@ -44531,12 +45247,26 @@ supérieur ou égal à celui obtenu avec la table TV 88-90 homologuée par arrê
 
 ###### Article A331-2
 
-Les provisions mathématiques afférentes aux contrats d'assurance sur la vie mentionnés à l'article A. 335-3 doivent être
-calculées d'après un taux au plus égal au plus faible des taux d'intérêts suivants :
+Si lors de l'inventaire le taux de rendement réel des actifs d'une entreprise, diminué d'un cinquième, est inférieur au
+quotient du montant total des intérêts techniques et du minimum contractuellement garanti de participations aux bénéfices
+dans les conditions définies à l'article A. 132-2 des contrats de l'entreprise par le montant moyen des provisions
+mathématiques constituées, une comparaison entre les deux montants suivants doit être effectuée :
 
-- soit le taux du tarif ;
+1° Les provisions mathématiques recalculées avec le taux de rendement réel des actifs de l'entreprise diminué d'un
+cinquième ;
 
-- soit le taux de rendement réel diminué d'un cinquième, de l'actif représentatif des engagements correspondants.
+2° Les provisions mathématiques à l'inventaire.
+
+Si le premier montant est supérieur au second, une dotation égale à leur différence est affectée à la provision pour aléas
+financiers mentionnée au 5° de l'article R. 331-3. Cette provision est reprise dans les comptes de l'entreprise à
+l'inventaire suivant.
+
+Les contrats à capital variable ainsi que les opérations de prévoyance collective visées au chapitre Ier du titre IV du livre
+IV du code des assurances ne sont pas concernés par ces dispositions.
+
+Le taux de rendement réel des actifs est calculé conformément à l'article A. 331-7. Il ne tient pas compte du rendement des
+actifs afférents aux contrats à capital variable et aux opérations de prévoyance collective visées au chapitre Ier du titre
+IV du livre IV du code des assurances.
 
 **Liens relatifs à cet article**
 
@@ -44546,7 +45276,10 @@ calculées d'après un taux au plus égal au plus faible des taux d'intérêts s
 
 	**Modifié par**:
 
-	  - Arrêté 1978-06-09 art. 3 JORF 24 juin 1978
+	  - Arrêté 1993-03-19 art. 8 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+	  - Arrêté 1994-08-08 art. 10 V JORF 23 août 1994
+	  - Arrêté 1995-03-28 art. 4 JORF 7 avril 1995 en vigueur le 1er juin 1995
+	  - Arrêté 1995-10-23 art. 5 I JORF 25 octobre 1995
 
 	**Cité par**:
 
@@ -44554,12 +45287,67 @@ calculées d'après un taux au plus égal au plus faible des taux d'intérêts s
 
 	**Cite**:
 
-	  - Code des assurances - art. A335-3 (M)
+	  - Code des assurances - art. A132-2 (M)
+	  - Code des assurances - art. A331-7 (Ab)
+	  - Code des assurances - art. R*331-1 (M)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
-	  - SPEC_APPLI: Code des assurances A331-3 *champ d'application*
+
+
+###### Article A331-4
+
+Pour les opérations de chaque entreprise mentionnées au 1° de l'article L. 310-1, le montant minimal de la participation aux
+bénéfices à attribuer au titre d'un exercice est déterminé globalement à partir d'un compte de participation aux résultats.
+
+Ce compte comporte, pour les contrats mentionnés à l'article A. 331-3, les éléments de dépenses et de recettes concernant les
+catégories 1, 2, 3, 4, 5, 7 et 10 de l'article A. 344-2 et figurant, à l'annexe à l'article A. 344-3, dans la ventilation de
+l'ensemble des produits et charges des opérations par catégorie (point 2.2, "Catégories 1 à 19", du modèle d'annexe), aux
+sous-totaux "A. - Solde de souscription" et "B. - Charges d'acquisition et de gestion nettes". Il comporte également en
+dépenses la participation de l'assureur aux bénéfices de la gestion technique, qui est constituée par 10 p. 100 du solde
+créditeur des éléments précédents.
+
+Il est ajouté en recette du compte de participation aux résultats une part des produits financiers. Cette part est égale à 85
+% du solde d'un compte financier comportant les éléments prévus à l'article A. 331-6. Le compte de participation aux
+résultats comporte en outre les sommes correspondant aux "solde de réassurance cédée", calculées conformément aux
+dispositions de l'article A. 331-8 et, s'il y a lieu, le solde débiteur du compte de participation aux résultats de
+l'exercice précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Transféré par**:
+
+	  - Arrêté 1994-08-08 art. 10 II JORF 23 août 1994
+
+	**Modifié par**:
+
+	  - Arrêté 1995-10-23 art. 2 JORF 25 octobre 1995
+
+	**Cité par**:
+
+	  - Décret n°2008-284 du 26 mars 2008 - art. 3 (M)
+	  - Arrêté du 17 février 2014 - art. 1 (M)
+	  - Code des assurances - art. A134-4 (M)
+	  - Code des assurances - art. A142-4 (VT)
+	  - Code des assurances - art. A331-3 (V)
+	  - Code des assurances - art. A331-5 (V)
+	  - Code des assurances - art. A331-6 (V)
+	  - Code des assurances - art. A331-8 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-2 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. A344-2 (M)
+	  - Code des assurances - art. A344-3 (M)
+	  - Code des assurances - art. L310-1 (M)
 
 
 ###### Article A331-5
@@ -44591,6 +45379,38 @@ montant des intérêts crédités aux provisions mathématiques.
 	**Cité par**:
 
 	  - Code des assurances - art. A335-6 (M)
+
+
+###### Article A331-6
+
+Le compte financier mentionné à l'article A. 331-4 comprend, en recettes, la part du produit net des placements calculée
+suivant les règles mentionnées à l'article A. 331-7 et, en dépenses, sur autorisation de la commission de contrôle des
+assurances et après justifications, la part des résultats que l'entreprise a dû affecter aux fonds propres pour satisfaire au
+montant minimal réglementaire de la marge de solvabilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Transféré par**:
+
+	  - Arrêté 1994-08-08 art. 10 IV JORF 23 août 1994
+
+	**Modifié par**:
+
+	  - Arrêté 1995-10-23 art. 3 JORF 25 octobre 1995
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-4 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A331-4 (V)
+	  - Code des assurances - art. A331-7 (V)
+	  - Code des assurances - art. A331-8 (Ab)
 
 
 ###### Article A331-9-1
