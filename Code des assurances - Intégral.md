@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-06-28
+Version Consolidée au 1991-06-30
 
 # Partie législative
 
@@ -19857,16 +19857,40 @@ assertion susceptible d'induire en erreur sur la véritable nature de l'entrepri
 
 ###### Article R*310-6
 
+I. - Les entreprises pratiquant des opérations d'assurance ou de capitalisation sur le territoire de la République française
+doivent, avant de commercialiser un contrat d'assurance ou de capitalisation, transmettre au ministre chargé de l'économie et
+des finances une fiche l'informant de leur intention et comportant le nom commercial du contrat, l'énoncé des garanties
+offertes et la date de commercialisation prévue.
+
+Pendant un délai de dix jours à compter de la réception de la fiche mentionnée au précédent alinéa, le ministre peut exiger
+la communication des documents à caractère contractuel ou publicitaire destinés au public.
+
+Dans le cas où le ministre exige la communication de ces documents, il dispose d'un délai de vingt jours à compter de leur
+réception pour en prescrire, le cas échéant, la modification. A l'expiration de ce délai ou à l'expiration du délai de dix
+jours susmentionné si la communication n'a pas été demandée, les documents peuvent être diffusés.
+
+II. - Les dispositions des deuxième et troisième alinéas du I ci-dessus ne sont pas applicables aux grands risques mentionnés
+au deuxième alinéa de l'article L. 351-4 et à l'article R. 351-1. Les entreprises couvrant des risques de cette nature sont
+tenues, à la demande du ministre chargé de l'économie et des finances, de communiquer leurs documents à caractère contractuel
+ou publicitaire destinés au public, sans que cette exigence puisse constituer une condition préalable à l'exercice de leur
+activité.
+
+III. - Les entreprises mentionnées au premier alinéa du I ci-dessus doivent communiquer au ministre de l'économie et des
+finances, dès la commercialisation de tout contrat d'assurance et de capitalisation, les notes d'information prévues aux
+articles L. 132-5-1 et L. 150-1 du présent code.
+
+IV. - Les documents transmis au ministre chargé de l'économie et des finances en application des dispositions du présent
+article doivent être rédigés en langue française.
+
 Les entreprises mentionnées à l'article L. 310-1 doivent, avant usage, communiquer au ministre de l'économie, des finances et
 du budget qui peut prescrire toutes rectifications ou modifications nécessitées par la réglementation en vigueur, cinq
 exemplaires des conditions générales de leurs polices, propositions, bulletins de souscription, prospectus et imprimés
 destinés à être distribués au public ou publiés ou remis aux porteurs de contrats ou adhérents.
 
-Les entreprises françaises doivent, avant de soumettre à l'assemblée générale des modifications à leurs statuts, obtenir
-l'accord de la commission de contrôle des assurances qui statue dans les trois mois du dépôt de trois spécimens des projets
-de modification aux statuts. Un exemplaire de ces documents est transmis par la commission au commissaire du Gouvernement. A
-l'expiration de ce délai, en l'absence d'observation de la commission, les modifications sont considérées comme approuvées.
-Ce délai est réduit à quarante-cinq jours pour les augmentations du capital social.
+Les entreprises françaises doivent, avant de soumettre à l'assemblée générale des modifications à leurs statuts, obtenir le
+visa du ministre de l'économie, des finances et du budget qui statue dans les trois mois du dépôt de trois spécimens des
+projets de modifications aux statuts. A l'expiration de ce délai, en l'absence d'observation du ministre, le visa est
+considéré comme accordé. Ce délai est réduit à quarante-cinq jours pour les augmentations de capital social.
 
 Les entreprises pratiquant les opérations mentionnées aux 1°, 2°, 3°, 4° ou 6° de l'article L. 310-1, doivent, avant
 d'appliquer leurs tarifs, obtenir le visa du ministre de l'économie, des finances et du budget qui statue dans les trois mois
@@ -19899,13 +19923,13 @@ sont tenues de respecter les dispositions de l'alinéa précédent.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 4 () JORF 28 juin 1991
+	  - Décret n°91-617 du 28 juin 1991 - art. 1 () JORF 30 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
 
 	**Cité par**:
 
@@ -19913,13 +19937,14 @@ sont tenues de respecter les dispositions de l'alinéa précédent.
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L132-5-1 (M)
+	  - Code des assurances - art. L150-1 (M)
 	  - Code des assurances - art. L351-4 (M)
 	  - Code des assurances - art. R351-1 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances R310-6 (5ème version)
+	  - Code des assurances R310-6 (4ème version)
 
 
 ###### Article R*310-9
@@ -19972,6 +19997,38 @@ L'autorité administrative mentionnée aux articles L. 310-7 et L. 310-9, est le
 
 	  - Code des assurances - art. L310-7 (M)
 	  - Code des assurances - art. L310-9 (M)
+
+
+###### Article R310-6-1
+
+Les entreprises françaises mentionnées à l'article L. 310-1 du présent code doivent, avant de soumettre à l'assemblée
+générale des modifications à leurs statuts, obtenir l'accord de la commission de contrôle des assurances qui statue dans les
+trois mois du dépôt de trois spécimens des projets de modification des résolutions portant statuts. Un exemplaire de ces
+documents est transmis par la commission au commissaire du Gouvernement. A l'expiration de ce délai, en l'absence
+d'observation de la commission, les modifications sont considérées comme approuvées. Ce délai est réduit à quarante-cinq
+jours pour les augmentations de capital social.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°91-617 du 28 juin 1991 - art. 1 () JORF 30 juin 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-111 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances R310-6 (4ème version)
 
 
 ###### Article R310-7
@@ -24182,12 +24239,13 @@ réunion de l'assemblée générale, doivent être inscrites à l'ordre du jour.
 ###### Article R*322-111
 
 L'union est chargée, pour le compte et à la place de la société mutuelle réassurée, de faire, au ministre de l'économie et
-des finances, les différentes communications prescrites par l'article R. 310-6, de tenir à son siège les livres de
-comptabilité, registres ou fichiers prévus par le titre IV du présent livre, de mettre à la disposition des commissaires-
-contrôleurs tous les documents mentionnés à l'article R. 310-2 et de produire les comptes et les états dont la publication et
-le dépôt auprès du ministre sont imposés par la réglementation en vigueur. L'union doit constituer et représenter dans les
-conditions fixées par le titre III du présent livre l'intégralité des dettes, réserves et provisions afférentes aux
-engagements souscrits par la mutuelle réassurée.
+des finances, les différentes communications prescrites par l'article R. 310-6 et à la commission de contrôle des assurances
+celles qui sont prévues à l'article R. 310-6-1, de tenir à son siège les livres de comptabilité, registres ou fichiers prévus
+par le titre IV du présent livre, de mettre à la disposition des commissaires-contrôleurs tous les documents mentionnés à
+l'article R. 310-2 et de produire les comptes et les états dont la publication et le dépôt auprès du ministre sont imposés
+par la réglementation en vigueur. L'union doit constituer et représenter dans les conditions fixées par le titre III du
+présent livre l'intégralité des dettes, réserves et provisions afférentes aux engagements souscrits par la mutuelle
+réassurée.
 
 Toutes les écritures comptables afférentes aux engagements pris par la mutuelle réassurée doivent apparaître dans la
 comptabilité de l'union.
@@ -24201,13 +24259,13 @@ les conditions et suivant la forme fixées par arrêté du ministre de l'économ
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°91-617 du 28 juin 1991 - art. 2 () JORF 30 juin 1991
+
 	**Cite**:
 
-	  - Code des assurances R310-2, R310-6
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-05 art. 5
+	  - Code des assurances R310-2, R310-6, R310-6-1
 
 
 ###### Article R*322-112
@@ -24992,8 +25050,7 @@ condition de rester dans les limites fixées par celles-ci.
 
 ###### Article R322-137
 
-La communication au ministre de l'économie et des finances des documents et éléments d'information mentionnés aux premier et
-quatrième alinéas de l'article R. 310-6 incombe au réassureur agréé.
+Le respect des dispositions de l'article R. 310-6 incombe au réassureur agréé.
 
 Les contrats d'assurance souscrits par les organismes dispensés de l'agrément administratif doivent indiquer, en caractères
 très apparents, les nom et adresse du réassureur agréé et mentionner l'engagement formel de ce dernier de prendre les lieu et
@@ -25007,7 +25064,7 @@ place de l'assureur direct.
 
 	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 10 () JORF 12 mai 1984
+	  - Décret n°91-617 du 28 juin 1991 - art. 3 () JORF 30 juin 1991
 
 	**Liens**:
 
@@ -45348,35 +45405,6 @@ ne peut être supérieur à 10 % de la cotisation annuelle.
 	  - Arrêté 1976-07-16
 
 
-##### Section IV : Sociétés d'assurance à forme mutuelle
-
-##### Paragraphe 3 : Obligations des sociétaires et de la société.
-
-###### Article A322-8
-
-Le titre mentionné à l'article A. 322-6 reste soumis à l'obligation de communication avant usage prévue par l'article R.
-310-6.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1968-01-12 art. 2
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1991-06-28 art. 2 JORF 30 juin 1991
-
-	**Cite**:
-
-	  - Code des assurances - art. A322-6 (V)
-	  - Code des assurances R310-6, A322-6
-
-
 #### Chapitre III : Procédures de redressement et de sauvegarde
 
 ##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.
@@ -47139,9 +47167,8 @@ postérieure à la date à laquelle s'est produite la circonstance aggravante do
 
 ###### Article A335-9-3
 
-En assurance de responsabilité civile automobile, la prime de référence correspondant à un risque déterminé et figurant au
-tarif déposé par l'assureur auprès du ministre de l'économie, des finances et du budget, peut faire l'objet de réductions
-supplémentaires, dans les cas suivants :
+En assurance de responsabilité civile automobile, la prime de référence visée à l'article 2 de l'annexe à l'article A. 121-1,
+peut faire l'objet de réductions supplémentaires, dans les cas suivants :
 
 Pour les assurés qui se soumettent, conformément aux stipulations du contrat, à des cycles de formation ou de
 perfectionnement à la conduite automobile ;
@@ -47160,19 +47187,27 @@ le dernier cas, s'il est responsable d'un ou plusieurs sinistres.
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
-
-	  - Arrêté 1983-07-22 art. 1 JORF 2 septembre 1983 en vigueur le 1er janvier 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Arrêté 1983-07-22 art. 2
+
+	**Modifié par**:
+
+	  - Arrêté 1991-06-28 art. 2 JORF 30 juin 1991
+
+	**Abrogé par**:
+
+	  - Arrêté 1991-11-22 art. 4 JORF 29 novembre 1991
 
 	**Cité par**:
 
 	  - Arrêté du 22 novembre 1991 - art. 4 (V)
 	  - Code des assurances - art. A335-9-2 (V)
 	  - Code des assurances - art. Annexe à l'article A121-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances A121-1 annexe art. 2
 
 
 ##### Section I : Tarifs
