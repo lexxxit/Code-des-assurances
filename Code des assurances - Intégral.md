@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-07-01
+Version Consolidée au 1990-07-11
 
 # Partie législative
 
@@ -48811,7 +48811,7 @@ les modalités prévues à l'article A. 421-2.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
 
 
-#### Chapitre II : Le fonds de garantie contre les actes de terrorisme.
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
 
 ###### Article A422-1
 
@@ -48825,15 +48825,15 @@ R. 321-1.
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1988-06-22 art. 2 JORF 2 juillet 1988
+	  - Loi n°90-589 du 6 juillet 1990 - art. 13 () JORF 11 juillet 1990
 
 	**Cite**:
 
-	  - Code des assurances - art. L422-1 (M)
-	  - Code des assurances - art. R422-4 (M)
-	  - Code des assurances L422-1, R422-4, R321-1
+	  - Code des assurances - art. L422-1 (V)
+	  - Code des assurances - art. R321-1 (V)
+	  - Code des assurances - art. R422-4 (V)
 
 
 ### Titre III : Organismes particuliers d'assurance
