@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1999-03-16
+Version Consolidée au 1999-05-05
 
 # Partie législative
 
@@ -88310,6 +88310,33 @@ changement de taux d'intérêt utilisé pour ce calcul.
 
 	  - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 	  - SPEC_APPLI: Code des assurances R441-4-1 (modalités d'application)
+
+
+###### Article A441-4-1
+
+Pour l'application de l'article A 441-4, les tables de mortalité à utiliser pour le calcul de la provision mathématique
+théorique sont les tables de génération homologuées par arrêté du ministre chargé de l'économie.
+
+Les entreprises peuvent répartir sur une période de neuf ans au plus, à compter de la date de publication du présent arrêté,
+les effets sur le calcul de la provision mathématique théorique résultant du changement de table.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1999-05-04 art. 1 JORF 5 mai 1999
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2004 - art. 16 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. A441-4 (M)
 
 
 ###### Article A441-6
