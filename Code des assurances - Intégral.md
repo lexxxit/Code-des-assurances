@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-12-26
+Version Consolidée au 2001-12-29
 
 # Partie législative
 
@@ -7635,38 +7635,6 @@ chapitres Ier, et II aux départements d'outre-mer.
 	  - Code de la route. - art. L342-3 (V)
 	  - Code des assurances - art. L214-3 (Ab)
 	  - Code des assurances - art. L261-1 (V)
-
-
-#### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer et à la collectivité territoriale de Mayotte
-
-##### Section III : Dispositions particulières à la collectivité territoriale de Mayotte.
-
-###### Article L214-3
-
-Les dispositions du titre Ier du livre II sont applicables à Mayotte à l'exception des articles L. 211-2, L. 211-4, L. 214-1
-et L. 214-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Loi n°2001-1246 du 21 décembre 2001 - art. 13 () JORF 26 décembre 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-2 (V)
-	  - Code des assurances - art. L211-4 (M)
-	  - Code des assurances - art. L214-1 (M)
-	  - Code des assurances - art. L214-2 (M)
 
 
 ### Titre II : L'assurance des engins de remontée mécanique
@@ -17583,9 +17551,14 @@ crédit à l'exportation ou à l'importation.
 
 La garantie de l'Etat peut être accordée en totalité ou en partie :
 
-1° A la compagnie française d'assurance pour le commerce extérieur, pour ses opérations d'assurances des risques commerciaux,
-politiques, monétaires, catastrophiques et de certains risques dits extraordinaires, ainsi que pour les opérations de gestion
-des droits et obligations y afférents.
+1° A la Compagnie française du commerce extérieur:
+
+a) Pour ses opérations d'assurances des risques commerciaux, politiques, monétaires, catastrophiques et de certains risques
+dits extraordinaires ;
+
+b) Pour ses garanties spécifiques couvrant les risques de non- paiement, dans des conditions prévues par décret ;
+
+c) Pour les opérations de gestion des droits et obligations afférents aux opérations et garanties mentionnées aux a et b ;
 
 2° Aux exportateurs pour les opérations prévues à l'article 53 de la loi n° 48-1516 du 26 septembre 1948, fixant l'évaluation
 des voies et moyens du budget général pour l'exercice 1948 et relative à diverses dispositions d'ordre financier.
@@ -17647,7 +17620,7 @@ développer les exportations à destination de ces marchés.
 
 	**Modifié par**:
 
-	  - Loi - art. 37 () JORF 30 décembre 1997
+	  - Loi - art. 83 () JORF 29 décembre 2001
 
 
 ###### Article L432-3
@@ -29806,9 +29779,15 @@ et égale à la différence des valeurs actuelles des engagements respectivement
 6° Provision pour égalisation :
 
 a) Provision destinée à faire face aux charges exceptionnelles afférentes aux opérations garantissant les risques dus à des
-éléments naturels, le risque atomique, les risques de responsabilité civile dus à la pollution et les risques spatiaux et
-calculée dans les conditions fixées par l'article 2 de la loi n° 74-1114 du 27 décembre 1974, par le décret n° 75-768 du 13
-août 1975 et le décret n° 86-741 du 14 mai 1986 ;
+éléments naturels, le risque atomique, les risques de responsabilité civile dus à la pollution, les risques spatiaux, les
+risques liés au transport aérien, et les risques liés aux attentats et au terrorisme, et calculée dans les conditions fixées
+par l'article 2 de la loi n° 74-1114 du 27 décembre 1974, par le décret n° 75-768 du 13 août 1975, le décret n° 86-741 du 14
+mai 1986 et l'article 39 quinquies G du code général des impôts. Toutefois, pour la détermination du bénéfice technique
+annuel pris en compte pour le calcul de la dotation annuelle de la provision pour les risques liés aux attentats et au
+terrorisme prévue à l'article 39 quinquies G du code général des impôts et pour la détermination de la limite du montant
+global de cette provision prévue à cet article, les primes pour attentat et terrorisme pour chacun des deux exercices 2001 et
+2002 ne pourront excéder 3,75 % des primes émises au titre des dommages aux biens correspondant aux branches 8 et 9 de
+l'article R. 321-1 et agrégées dans les conditions définies à l'article A. 341-1 ;
 
 b) Provision destinée à compenser en assurance-crédit la perte technique éventuelle apparaissant à la fin de l'exercice, et
 calculée dans les conditions fixées à l'article R. 331-33 ;
@@ -29829,13 +29808,15 @@ définies au premier alinéa de l'article R. 331-5-1.
 
 	**Cite**:
 
+	  - CGI 39 quinquies G
 	  - Loi n°74-1114 du 27 décembre 1974 - art. 2, v. init.
 	  - Décret n°75-768 1975-08-13
 	  - Décret n°86-741 1986-05-14
+	  - Code des assurances - art. A341-1 (V)
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. R*331-1 (M)
-	  - Code des assurances - art. R331-33 (V)
 	  - Code des assurances - art. R331-5-1 (M)
+	  - Code des assurances R331-1, R321-1, A341-1, R331-33, L310-1, R331-5-1
 
 	**Codifié par**:
 
@@ -29849,6 +29830,7 @@ définies au premier alinéa de l'article R. 331-5-1.
 	  - Code des assurances - art. A331-17 (V)
 	  - Code des assurances - art. A332-7 (M)
 	  - Code des assurances - art. R*331-22 (Ab)
+	  - Code des assurances - art. R331-33 (VT)
 	  - Code des assurances - art. R332-2 (M)
 	  - Code des assurances - art. R332-20 (M)
 	  - Code des assurances - art. R332-39 (V)
@@ -29856,8 +29838,7 @@ définies au premier alinéa de l'article R. 331-5-1.
 
 	**Modifié par**:
 
-	  - Décret n°95-153 du 7 février 1995 - art. 1 () JORF 14 février 1995
-	  - Décret n°95-153 du 7 février 1995 - art. 2 () JORF 14 février 1995
+	  - Décret n°2001-1280 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001
 
 
 ##### Paragraphe 1 : Provision mathématique des rentes
