@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1987-12-10
+Version Consolidée au 1988-01-23
 
 # Partie législative
 
@@ -23372,6 +23372,30 @@ associations.
 	  - TXT_SOURCE: Code des assurances - art. R*322-140 (M)
 
 
+###### Article R*322-143
+
+Les fonds des associations doivent être placés, au plus tard, dans le délai d'un mois à dater du recouvrement.
+
+La date de l'achat et le prix des valeurs sont justifiés au moyen du bordereau de la société de bourse, qui doit mentionner,
+d'autre part, les associations au profit desquelles les valeurs ont été acquises.
+
+Les intérêts et arrérages ainsi que les remboursements de primes et lots doivent être placés dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1941-08-03 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+
 ###### Article R*322-145
 
 Les associations en cas de survie ou en cas de décès que créent les sociétés à forme tontinière ne peuvent être valablement
@@ -40904,19 +40928,21 @@ l'article R. 511-2, dans les autres cas.
 	  - TXT_SOURCE: Code des assurances - art. R*511-2 (M)
 
 
-###### Article R*512-3
+###### Article R512-3
 
 Les opérations ci-après définies peuvent être présentées, sous la forme aussi bien de souscriptions d'assurances
 individuelles, que d'adhésions à des assurances collectives, par les personnes respectivement énoncées dans chaque cas :
 
-1° Assurances contre les risques de décès ou d'invalidité souscrites expressément et exclusivement en vue de servir de
-garantie au remboursement d'un prêt : le prêteur ou les personnes concourant à l'octroi de ce prêt ;
+1° Assurances contre les risques de décès, d'invalidité, de perte de l'emploi ou de l'activité professionnelle souscrites
+expressément et exclusivement en vue de servir de garantie au remboursement d'un prêt : le prêteur ou les personnes
+concourant à l'octroi de ce prêt ;
 
-2° Assurances contre les risques de décès ou d'invalidité souscrites expressément et exclusivement en vue de servir de
-garantie au vendeur dans une vente à crédit : le vendeur ou les personnes concourant à la réalisation de la vente ;
+2° Assurances contre les risques de décès, d'invalidité, de perte de l'emploi ou de l'activité professionnelle souscrites
+expressément et exclusivement en vue de servir de garantie au vendeur dans une vente à crédit : le vendeur ou les personnes
+concourant à la réalisation de la vente.
 
 3° Assurances de perte par amortissement de valeurs mobilières au-dessous de leurs cours : les établissements financiers et
-de crédit, les agents de change, les intermédiaires mentionnés à l'article 13 de la loi modifiée du 14 juin 1941 et les
+de crédit, les sociétés de bourse, les intermédiaires mentionnés à l'article 13 de la loi modifiée du 14 juin 1941 et les
 préposés de ces établissements ou personnes, ainsi que les notaires et leurs préposés qu'ils auront mandatés spécialement à
 cet effet ;
 
@@ -40929,15 +40955,30 @@ du code du domaine public fluvial et de la navigation intérieure ;
 6° Assurances de bagages valables pour un seul voyage : les dirigeants et le personnel des agences de voyage ou des
 entreprises effectuant le transport.
 
+7° Assurances souscrites moyennant le versement d'une prime unique au moment de la vente et couvrant, pour des objets
+mobiliers autres que des biens affectés à un usage industriel ou commercial et des véhicules automobiles, le remboursement
+des frais exposés pour le remplacement ou la remise en état, en cas de perte, de vol ou de dommages n'engageant pas la
+garantie due par le fournisseur : le vendeur ou ses préposés.
+
+8° Assurances couvrant à titre principal les frais des interventions d'assistance liées au déplacement et effectuées par des
+tiers : les dirigeants, le personnel des agences de voyages, des banques et établissements financiers et leurs préposés.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-117 1966-02-23 art. 3
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°80-788 1980-10-01 art. 1 JORF 5 octobre 1980
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+	**Cite**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
+	  - Code du domaine public fluvial 188
+	  - Loi n°1941-06-14 art. 13
 
 	**Cité par**:
 
@@ -40956,11 +40997,6 @@ entreprises effectuant le transport.
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*511-2 (M)
-
-	**Cite**:
-
-	  - Code du domaine public fluvial 188
-	  - Loi n°1941-06-14 art. 13
 
 
 ###### Article R512-4
