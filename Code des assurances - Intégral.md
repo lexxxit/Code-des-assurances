@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1988-04-29
+Version Consolidée au 1988-05-08
 
 # Partie législative
 
@@ -13495,6 +13495,53 @@ acte de terrorisme ou un attentat.
 
 
 ### Titre III : Règles relatives aux assurances de personnes
+
+#### Chapitre I : Dispositions générales.
+
+###### Article R131-1
+
+En matière d'assurance sur la vie, les unités de compte visées à l'article L. 131-1, sont constituées par :
+
+1° Les actions de sociétés d'investissement à capital variable et les parts de fonds communs de placement, mentionnées aux 3°
+et 9° de l'article R. 332-2 ;
+
+2° Les parts de sociétés civiles à objet foncier et les parts ou les actions de sociétés immobilières, mentionnées aux 11° et
+13° du même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°88-597 1988-05-06 art. 1 JORF 8 mai 1988
+
+	**Cité par**:
+
+	  - Décret n°2004-342 du 21 avril 2004 - art. 29 (M)
+	  - Décret n°2005-875 du 25 juillet 2005 - art. 22 (V)
+	  - Code des assurances - art. R131-2 (V)
+	  - Code des assurances - art. R131-3 (V)
+	  - Code des assurances - art. R131-4 (V)
+	  - Code des assurances - art. R131-5 (V)
+	  - Code des assurances - art. R131-6 (V)
+	  - Code des assurances - art. R134-14 (V)
+	  - Code des assurances - art. R142-10 (Ab)
+	  - Code des assurances - art. R142-14 (Ab)
+	  - Code des assurances - art. R441-7-1 (V)
+	  - Code des assurances - art. R441-7-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L131-1 (M)
+	  - Code des assurances - art. R*332-2 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L131-1 (M)
+
 
 #### Chapitre II : Les assurances sur la vie
 
@@ -30483,183 +30530,6 @@ solvabilité globale, l'entreprise perd le bénéfice des dispositions de l'arti
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°88-456 1988-04-29 art. 13 *champ d'application territorial*
-
-
-##### Paragraphe 1 : Vérification de solvabilité globale des entreprises d'assurance de dommages.
-
-###### Article R*334-20
-
-Lorsque la vérification de solvabilité globale est exercée par le ministre de l'économie, des finances et du budget et que
-l'entreprise justifie qu'elle a obtenu des autorités de contrôle d'un ou plusieurs des Etats membres de la Communauté
-économique européenne d'être dispensée de déposer dans ces Etats le cautionnement de même nature que celui prévu au d) de
-l'article R. 321-8, elle doit déposer sur le territoire de la République française un cautionnement égal au quart du montant
-minimal du fonds de garantie calculé en fonction de l'activité globale qu'elle exerce en France et dans les autres Etats
-membres ayant accordé la dispense.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
-
-	**Abrogé par**:
-
-	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R213-3 (V)
-	  - Code des assurances - art. R334-22 (V)
-	  - Code des assurances - art. R334-42 (V)
-
-	**Cite**:
-
-	  - Code des assurances R321-8
-
-
-###### Article R*334-21
-
-Le bénéfice de chacune des mesures mentionnées aux a), b) et c) de l'article R. 334-17 peut être retiré par le ministre de
-l'économie, des finances et du budget.
-
-Toute entreprise intéressée peut renoncer à l'application de chacune des mêmes mesures.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
-
-	**Abrogé par**:
-
-	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
-
-	**Cite**:
-
-	  - Code des assurances - art. R*334-17 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*334-22 (M)
-	  - Code des assurances - art. R334-20 (M)
-
-
-##### Paragraphe 2 : Vérification de solvabilité globale des entreprises d'assurance sur la vie.
-
-###### Article R*334-22
-
-I. - Une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
-économique européenne, agréée ou demandant l'agrément pour pratiquer les opérations d'assurances mentionnées aux 20 à 26 de
-l'article R. 321-1, en France et dans un ou plusieurs autres Etats membres, peut demander au ministre de l'économie, des
-finances et du budget que lui soient appliquées conjointement les mesures suivantes :
-
-a) par dérogation aux dispositions de l'article R. 334-14, la marge de solvabilité est calculée en fonction de l'activité
-globale qu'elle exerce sur le territoire de la République française et sur celui des autres Etats membres concernés ;
-
-b) elle est dispensée de l'obligation de déposer en France le cautionnement prévu par le d) de l'article R. 321-8, sous
-réserve de justifier du dépôt auprès d'un autre Etat membre d'un cautionnement égal à 200.000 unités de compte de la
-Communauté économique européenne ;
-
-c) par dérogation aux dispositions de l'article R. 334-14, les actifs formant la contrepartie du fonds de garantie sont
-localisés sur le territoire de la République française ou sur celui de l'un des Etats précités.
-
-II. - L'entreprise doit justifier qu'elle présente une demande analogue aux autorités de contrôle des autres Etats membres
-dans lesquels elle est agréée ou demande l'agrément pour pratiquer les opérations mentionnées ci-dessus.
-
-L'entreprise ne peut bénéficer des mesures mentionnées aux a), b) et c) du présent article qu'avec l'accord des autorités de
-contrôle de tous les Etats membres auprès desquelles une demande a été déposée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
-
-	**Abrogé par**:
-
-	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
-
-	**Cité par**:
-
-	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-	  - Code des assurances - art. R*334-23 (M)
-	  - Code des assurances - art. R*334-25 (Ab)
-	  - Code des assurances - art. R*334-28 (M)
-	  - Code des assurances - art. R*334-29 (M)
-	  - Code des assurances - art. R334-24 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*334-14 (M)
-	  - Code des assurances R321-1, R334-14, R321-8
-
-
-###### Article R*334-23
-
-L'entreprise qui sollicite le bénéfice des dispositions de l'article R. 334-22 doit indiquer, en motivant son choix, l'Etat
-dont l'autorité de contrôle vérifie sa solvabilité globale pour l'ensemble de ses activités pratiquées sur le territoire de
-la République française d'une part et sur celui des autres Etats membres d'autre part.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
-
-	**Abrogé par**:
-
-	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
-
-	**Cite**:
-
-	  - Code des assurances - art. R*334-22 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R325-9 (VT)
-	  - Code des assurances - art. R334-24 (V)
-
-
-###### Article R*334-24
-
-Lorsque le bénéfice des mesures mentionnées à l'article R. 334-22 est accordé à une entreprise, ces mesures prennent effet à
-la date à laquelle le ministre de l'économie, des finances et du budget s'engage, vis-à-vis des autorités de contrôle des
-Etats membres intéressés, à exercer la vérification de solvabilité globale pour l'ensemble des activités pratiquées par
-l'entreprise sur le territoire de la République française et sur celui des autres Etats membres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
-
-	**Abrogé par**:
-
-	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
-
-	**Cite**:
-
-	  - Code des assurances - art. R*334-22 (M)
 
 
 ##### Section V : Dispositions transitoires relatives à la marge de solvabilité
@@ -48475,48 +48345,14 @@ service public ou d'intérêt public.
 	  - TXT_SOURCE: Code des assurances R431-22
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat
+##### Section II : Opérations effectuées avec la garantie de l'Etat.
 
-##### Paragraphe 4 : Risques d'attentats.
+##### Paragraphe 4 : Risques d'attentat.
 
-###### Article A431-3
+###### Article A431-5
 
-La caisse centrale de réassurance est habilitée à couvrir en réassurance, avec la garantie de l'Etat, des risques de pertes
-et de dommages résultant d'incendie ou d'explosion provoqués par attentats, actes de terrorisme ou de sabotage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1985-09-10 art. 3 JORF 9 octobre 1985
-
-	**Abrogé par**:
-
-	  - Arrêté 1988-05-06 art. 3 JORF 8 mai 1988
-
-	**Cité par**:
-
-	  - Code des assurances - art. A431-4 (Ab)
-	  - Code des assurances - art. A431-5 (Ab)
-	  - Code des assurances - art. A431-6 (M)
-
-
-###### Article A431-4
-
-La caisse centrale de réassurance ne peut apporter sa couverture au titre de l'article A. 431-3 que si les conditions
-suivantes sont remplies :
-
-a) Les biens sont situés en France ;
-
-b) Les biens sont assurés ou réassurés par une entreprise agréée en France pour pratiquer les risques correspondants ou
-dispensée de l'agrément administratif en application de l'article L. 321-4.
-
-Si la condition prévue au b n'est pas remplie, la caisse centrale de réassurance peut, par dérogation aux dispositions ci-
-dessus, apporter sa couverture au titre de l'article A. 431-3 avec l'accord du ministre chargé de l'économie et des finances.
+La caisse centrale de réassurance détermine les tarifs destinés à lui permettre de faire face aux charges des opérations
+qu'elle effectue au titre de l'article L. 431-10.
 
 **Liens relatifs à cet article**
 
@@ -48526,48 +48362,40 @@ dessus, apporter sa couverture au titre de l'article A. 431-3 avec l'accord du m
 
 	**Modifié par**:
 
-	  - Arrêté 1985-09-10 art. 3 JORF 9 octobre 1985
-
-	**Abrogé par**:
-
-	  - Arrêté 1988-05-06 art. 3 JORF 8 mai 1988
+	  - Arrêté 1988-05-06 art. 1 JORF 8 mai 1988
 
 	**Cite**:
 
-	  - Code des assurances - art. A431-3 (M)
-	  - Code des assurances - art. L321-4 (Ab)
+	  - Code des assurances - art. L431-10 (V)
 
 
 ###### Article A431-6
 
-Les opérations de réassurance des risques relatifs aux attentats actes de terrorisme ou de sabotage mentionnées à l'article
-A. 431-3 sont retracées au sein de la comptabilité de la caisse centrale de réassurance dans un compte distinct.
+Les opérations de réassurance des risques relatifs aux actes de terrorisme et aux attentats mentionnées à l'article L. 431-10
+sont retracées au sein de la comptabilité de la caisse centrale de réassurance dans un compte distinct. 
 
 Ce compte fait apparaître les recettes de primes et de commissions, la part des produits correspondant au placement des fonds
-gérés par la caisse ainsi que, le cas échéant, les versements effectués par l'Etat au titre de la mise en jeu de la garantie
-et retrace, en dépenses, outre les versements opérés au titre desdites opérations, la part des frais financiers et de
-gestion, commissions, impôts, taxes et frais annexes de toute nature, qui lui sont imputables.
+gérés par la caisse ainsi que, le cas échéant, les versements effectués par l'Etat au titre de la mise en jeu de la garantie.
+Il retrace, en dépenses, outre les versements opérés au titre desdites opérations, la part des frais financiers et de
+gestion, commissions, impôts, taxes et frais annexes de toute nature, qui lui sont imputables. 
 
 Les conditions et modalités de la mise en jeu de la garantie de l'Etat font l'objet d'une convention passée entre le ministre
 chargé de l'économie et des finances et le président du conseil d'administration, directeur général de la caisse centrale de
 réassurance.
 
-Chaque année, les excédents éventuels visés au présent article sont inscrits à un compte de réserves affectées à la
-couverture des opérations mentionnées à l'article A. 431-3.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1985-09-10 art. 3 JORF 9 octobre 1985
+	  - Arrêté 1988-05-06 art. 2 JORF 8 mai 1988
 
 	**Cite**:
 
-	  - Code des assurances - art. A431-3 (M)
+	  - Code des assurances - art. L431-10 (V)
 
 
 ##### Section III : Opérations de gestion.
