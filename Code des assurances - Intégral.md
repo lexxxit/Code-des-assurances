@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-08-01
+Version Consolidée au 1991-10-03
 
 # Partie législative
 
@@ -45151,6 +45151,109 @@ A l'annexe II au présent article, en ce qui concerne l'assurance de dommages.
 
 
 ## Livre III : Les entreprises.
+
+### Titre Ier : Dispositions générales et contrôle de l'Etat.
+
+#### Chapitre I 
+
+##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.
+
+###### Article A310-1
+
+Les entreprises mentionnées à l'article L. 310-1 effectuent la vérification d'identité prévue par l'article 12 de la loi n°
+90-614 du 12 juillet 1990 et par l'article 3 du décret n° 91-160 du 13 février 1991 avant la conclusion de tout contrat
+d'assurance ou de capitalisation dès lors que celui-ci donne lieu à la constitution d'une provision mathématique.
+
+Les dispositions du précédent alinéa sont applicables lorsque le contrat donne lieu au versement d'un montant de prime
+supérieur ou égal à 50 000 F par an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1991-09-25 art. 1 JORF 3 octobre 1991
+
+	**Cite**:
+
+	  - Loi n°90-614 1990-07-12 art. 12
+	  - Décret n°91-160 du 13 février 1991 - art. 3 (M)
+	  - Code des assurances - art. L310-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A310-5 (M)
+	  - Code des assurances - art. A310-5 (V)
+
+
+###### Article A310-3
+
+Lorsqu'une entreprise mentionnée à l'article L. 310-1 fait partie d'un ensemble d'entreprises d'assurance au sens de
+l'article L. 345-1, elle peut, après information de l'entreprise sur laquelle pèse l'obligation de consolidation, désigner,
+pour l'application des articles 2 et 5 du décret n° 91-160 du 13 février 1991, la ou les personnes spécialement habilitées à
+cet effet par une autre entreprise du même ensemble.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1991-09-25 art. 1 JORF 3 octobre 1991
+
+	**Cite**:
+
+	  - Décret n°91-160 du 13 février 1991 - art. 2 (Ab)
+	  - Décret n°91-160 du 13 février 1991 - art. 5 (Ab)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L345-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A310-7 (V)
+
+
+#### Chapitre unique
+
+##### Section I : Dispositions générales.
+
+###### Article A310-2
+
+L'obligation concernant la vérification d'identité mentionnée à l'article A. 310-1 est toutefois considérée comme remplie dès
+lors que le paiement de la prime s'effectue par le débit d'un compte ouvert au nom du client auprès d'un établissement de
+crédit lui-même tenu à l'obligation d'identification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1991-09-25 art. 1 JORF 3 octobre 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. A310-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A310-6 (V)
+
 
 ### Titre II : Régime administratif
 
