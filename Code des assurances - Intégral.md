@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-02-01
+Version Consolidée au 2001-02-08
 
 # Partie législative
 
@@ -18313,6 +18313,25 @@ mentionnés aux 1°, 2° et 3° ci-dessus sont appliqués sur une base consolid�
 
 	  - Code des assurances - art. L111-6 (V)
 	  - Code des assurances - art. R321-1 (V)
+
+
+###### Article R111-2
+
+L'autorité administrative mentionnée à l'article L. 111-4 est le ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2001-112 du 7 février 2001 - art. 1 () JORF 8 février 2001
+
+	**Cite**:
+
+	  - Code des assurances - art. L111-4 (V)
 
 
 #### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.
