@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1995-06-01
+Version Consolidée au 1995-06-13
 
 # Partie législative
 
@@ -53552,22 +53552,20 @@ du change, des droits, taxes ou autres charges payables en euros.
 
 ###### Article A441-1
 
-Les tarifs utilisés pour pratiquer les opérations d'assurance collective prévues aux articles L. 441-1 et L. 441-3 doivent
-être établis avec un chargement global qui ne peut dépasser 6 % du montant de la cotisation brute.
+Les tarifs utilisés pour pratiquer les opérations d'assurance collective prévues à l'article L. 441-1 comprennent la
+rémunération de l'entreprise gestionnaire et des éventuels intermédiaires. 
 
-Toutefois, lorsque l'entreprise d'assurance fait appel à des intermédiaires rémunérés pour présenter au public des opérations
-collectives, le taux fixé au premier alinéa ci-dessus peut, sur autorisation spéciale du ministre de l'économie et des
-finances, être porté à 7,50 % au plus.
+Les contrats doivent indiquer les frais prélevés par l'entreprise.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1968-08-21 art. 1
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1995-06-09 art. 1 JORF 13 juin 1995
 
 	**Cité par**:
 
@@ -53575,39 +53573,210 @@ finances, être porté à 7,50 % au plus.
 
 	**Cite**:
 
-	  - Code des assurances - art. L441-1 (M)
-	  - Code des assurances - art. L441-3 (M)
+	  - Code des assurances - art. L441-1 (V)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
 
-###### Article A441-2
+###### Article A441-5
 
-Les provisions techniques spéciales se rapportant à des conventions gérées par une entreprise d'assurance ou à la gestion
-desquelles elle participe, sont représentées par un actif unique.
-
-En vue de l'affectation prévue au troisième alinéa de l'article R. 441-7, les bénéfices sont répartis au prorata du montant
-de chaque provision technique spéciale.
+L'unité de rente correspondant à un rachat a la même valeur d'acquisition que l'unité de rente acquise normalement dans
+l'année du rachat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Arrêté 1968-08-21 art. 2
+	  - Arrêté 1968-08-21 art. 5
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
+	**Modifié par**:
+
+	  - Arrêté 1995-06-09 art. 4 JORF 13 juin 1995
+
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
+
+##### Section II : Règles techniques et comptables.
+
+###### Article A441-2
+
+Les provisions techniques spéciales correspondant à des conventions gérées par une entreprise d'assurance sont représentées
+par un actif unique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1995-06-09 art. 1 JORF 13 juin 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
+
+
+###### Article A441-3
+
+L'équivalence actuarielle prévue à l'article R. 441-20 est établie dans les conditions suivantes :
+
+Les valeurs limites du quotient de la valeur de service par la valeur d'acquisition, fixées au premier alinéa dudit article
+R. 441-20, doivent être multipliées par un coefficient correcteur égal :
+
+- lorsque la convention prévoit un âge d'entrée en jouissance inférieur à soixante-cinq ans, au quotient du capital
+constitutif de la rente viagère différée reposant sur une tête dont l'âge est l'âge d'entrée en jouissance prévu par la
+convention, le différé étant égal à la différence entre soixante-cinq ans et cet âge, par le capital constitutif d'une rente
+viagère immédiate reposant sur une tête d'âge égal à l'âge d'entrée en jouissance prévu par la convention ;
+
+- lorsque la convention prévoit un âge d'entrée en jouissance supérieur à soixante-cinq ans, au quotient du capital
+constitutif de la rente viagère immédiate reposant sur une tête d'âge soixante-cinq ans, par le capital constitutif d'une
+rente viagère immédiate différée reposant sur une tête d'âge soixante-cinq ans, le différé étant égal à la différence entre
+l'âge d'entrée en jouissance prévu par la convention et soixante-cinq ans ;
+
+- lorsque la convention prévoit la réversion, au quotient du capital constitutif de la rente individuelle différée de vingt
+ans reposant sur une tête d'âge quarante-cinq ans, par le capital constitutif de cette rente, augmenté de la partie
+réversible calculée dans les conditions prévues par la convention, les conjoints étant supposés âgés tous deux de quarante-
+cinq ans.
+
+Si la convention prévoit à la fois une réversion et un âge d'entrée en jouissance différent de soixante-cinq ans, le
+coefficient correcteur est égal au produit du coefficient correspondant à l'anticipation ou à l'ajournement, et du
+coefficient correspondant à la réversion calculés comme il est dit ci-dessus.
+
+Les calculs sont effectués selon les modalités prévues à l'article A. 441-4.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1968-08-21 art. 3
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1984-12-21 art. 10 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
+	  - Arrêté 1993-03-19 art. 11 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+	  - Arrêté 1995-06-09 art. 2 JORF 13 juin 1995
+
+	**Abrogé par**:
+
+	  - Arrêté 2004-06-14 art. 4 JORF 20 juin 2004
+
 	**Cite**:
 
-	  - Code des assurances - art. R*441-7 (M)
+	  - Code des assurances - art. A441-4 (M)
+	  - Code des assurances R441-20, A441-4
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
+
+
+###### Article A441-4
+
+Les calculs de la provision mathématique théorique mentionnée aux articles R. 441-6 et R. 441-21, des équivalences
+actuarielles prévues à l'article R. 441-20 et de la répartition de droits prévue à l'article R. 441-27, doivent être
+effectués à l'aide d'un taux d'intérêt au plus égal à 60 p. 100 du taux moyen des emprunts de l'Etat français, calculé sur
+une base semestrielle, sans pouvoir excéder 3,5 p. 100 et en utilisant une des tables de mortalité prévues au 2° de l'article
+A. 335-1.
+
+La provision mathématique théorique ne peut être inférieure à celle qui résulterait de l'utilisation des tables visées au
+premier tiret du 2° de l'article A. 335-1.
+
+Les entreprises peuvent répartir sur quinze années au plus les effets sur le calcul de la provision mathématique théorique du
+changement de taux d'intérêt utilisé pour ce calcul.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1968-08-21 art. 4
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1984-12-21 art. 11 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
+	  - Arrêté 1993-03-19 art. 12 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+	  - Arrêté 1995-06-09 art. 3 JORF 13 juin 1995
+
+	**Cité par**:
+
+	  - Décret n°2008-284 du 26 mars 2008 - art. 3 (V)
+	  - Décret n°2008-284 du 26 mars 2008 - art. 7 (V)
+	  - Décret n°2015-1780 du 28 décembre 2015 - art. 1
+	  - Code des assurances - art. A441-3 (Ab)
+	  - Code des assurances - art. A441-4-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. A335-1 (M)
+	  - Code des assurances - art. R*441-21 (M)
+	  - Code des assurances - art. R*441-27 (M)
+	  - Code des assurances - art. R*441-6 (M)
+	  - Code des assurances R441-6, R441-20, R441-21, R441-27, A335-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
+	  - SPEC_APPLI: Code des assurances R441-4-1 (modalités d'application)
+
+
+###### Article A441-6
+
+Chaque année, les entreprises d'assurance pratiquant les opérations définies par l'article L. 441-1 doivent communiquer à la
+commission de contrôle des assurances, pour chacune des conventions qu'elles gèrent, la valeur de service et la valeur
+d'acquisition de l'unité de rente pour l'exercice à venir.
+
+Elles doivent également communiquer :
+
+- le montant de la provision mathématique théorique calculée au 31 décembre de l'exercice clos ;
+
+- le montant de la provision technique spéciale à cette même date ;
+
+- le montant de la fraction des bénéfices affectée à ladite provision ;
+
+- le montant des arrérages calculés d'après la nouvelle valeur de service et susceptibles d'être servis pendant l'exercice en
+cours.
+
+- La communication des renseignements ci-dessus doit intervenir au plus tard le 1er juin de chaque année et, en tout état de
+cause, avant la fixation de la nouvelle valeur de service de l'unité de rente.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1968-08-21 art. 6
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1995-06-09 art. 5 JORF 13 juin 1995
+
+	**Cite**:
+
+	  - Code des assurances - art. L441-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
 
 ## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation
