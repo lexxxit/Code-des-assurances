@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-07-26
+Version Consolidée au 1994-08-08
 
 # Partie législative
 
@@ -2097,28 +2097,26 @@ dommages causés par une catastrophe naturelle.
 Les entreprises d'assurance ne peuvent toutefois se soustraire à cette obligation que lors de la conclusion initiale ou du
 renouvellement du contrat.
 
-A l'égard des biens et des activités situés dans les terrains couverts par un plan d'exposition, qui n'ont cependant pas été
-classés inconstructibles à ce titre, les entreprises d'assurance peuvent exceptionnellement déroger aux dispositions de
-l'article L. 125-2, deuxième alinéa, sur décision d'un bureau central de tarification, dont les conditions de constitution et
-les règles de fonctionnement sont fixées par décret en Conseil d'Etat.
-
-A l'égard des biens et activités couverts par un plan d'exposition et implantés antérieurement à sa publication, la même
-possibilité de dérogation pourra être ouverte aux entreprises d'assurance lorsque le propriétaire ou l'exploitant ne se sera
-pas conformé dans un délai de cinq ans aux prescriptions visées au premier alinéa de l'article 5-I de la loi n° 82-600 du 13
-juillet 1982.
+A l'égard des biens et activités situés sur des terrains couverts par un plan d'exposition, les entreprises d'assurance
+peuvent exceptionnellement déroger aux dispositions du deuxième alinéa de l'article L. 125-2 sur décision d'un bureau central
+de tarification, dont les conditions de constitution et les règles de fonctionnement sont fixées par décret en Conseil
+d'Etat, lorsque le propriétaire ou l'exploitant ne se sera pas conformé dans un délai de cinq ans aux prescriptions visées
+par le premier alinéa du I de l'article 5 de la loi n° 82-600 du 13 juillet 1982 relative à l'indemnisation des victimes de
+catastrophes naturelles.
 
 Le bureau central de tarification fixe des abattements spéciaux dont les montants maxima sont déterminés par arrêté, par
 catégorie de contrat.
 
-Lorsqu'un assuré s'est vu refuser par trois entreprises d'assurance l'application des dispositions du présent chapitre, il
+Lorsqu'un assuré s'est vu refuser par deux entreprises d'assurance l'application des dispositions du présent chapitre, il
 peut saisir le bureau central de tarification, qui impose à l'une des entreprises d'assurance concernées, que choisit
 l'assuré, de le garantir contre les effets des catastrophes naturelles.
 
 Toute entreprise d'assurance ayant maintenu son refus de garantir un assuré dans les conditions fixées par le bureau central
 de tarification est considérée comme ne fonctionnant plus conformément à la réglementation en vigueur et encourt le retrait
-de l'agrément administratif prévu aux articles L. 321-1 ou L. 321-7 à L. 321-9.    Est nulle toute clause des traités de
-réassurance tendant à exclure le risque de catastrophe naturelle de la garantie de réassurance en raison des conditions
-d'assurance fixées par le bureau central de tarification.
+de l'agrément administratif prévu aux articles L. 321-1 ou L. 321-7 à L. 321-9.
+
+Est nulle toute clause des traités de réassurance tendant à exclure le risque de catastrophe naturelle de la garantie de
+réassurance en raison des conditions d'assurance fixées par le bureau central de tarification.
 
 **Liens relatifs à cet article**
 
@@ -2134,24 +2132,9 @@ d'assurance fixées par le bureau central de tarification.
 	  - Code des assurances - art. L321-1 (M)
 	  - Code des assurances L125-1, L125-2, L321-1, L321-7 à L321-9
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-	  - TXT_SOURCE: Code des assurances - art. R*125-1 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-10 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-11 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-2 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-3 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-4 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-5 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-6 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-7 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-8 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*125-9 (Ab)
-
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 34 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°94-679 du 8 août 1994 - art. 80 () JORF 10 août 1994
 
 	**Cité par**:
 
@@ -2164,6 +2147,20 @@ d'assurance fixées par le bureau central de tarification.
 	  - Code des assurances - art. R250-1 (V)
 	  - Code des assurances - art. R250-2 (V)
 	  - Code des assurances - art. R250-3 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*125-1 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-10 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-11 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-2 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-3 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-4 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-5 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-6 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-7 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-8 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*125-9 (Ab)
 
 
 #### Chapitre VI : L'assurance contre les actes de terrorisme
@@ -3839,6 +3836,60 @@ d'un accord d'entreprise.
 	**Nouveaux textes**:
 
 	  - Code des assurances - art. L141-5 (M)
+
+
+###### Article L140-6
+
+Pour les contrats d'assurance de groupe au sens de l'article L. 140-1, autres que ceux qui sont régis par le titre Ier de la
+loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques, et pour
+les contrats collectifs de capitalisation présentant les mêmes caractéristiques que les contrats de groupe au sens de
+l'article L. 140-1, le souscripteur est, tant pour les adhésions au contrat que pour l'exécution de celui-ci, réputé agir, à
+l'égard de l'adhérent, de l'assuré et du bénéficiaire, en tant que mandataire de l'entreprise d'assurance auprès de laquelle
+le contrat a été souscrit, à l'exception des actes dont l'adhérent a été préalablement informé, dans des conditions fixées
+par arrêté du ministre chargé de l'économie, que le souscripteur n'a pas pouvoir pour les accomplir.    En cas de dissolution
+ou de liquidation de l'organisme souscripteur, le contrat se poursuit de plein droit entre l'entreprise d'assurance et les
+personnes antérieurement adhérentes au contrat de groupe.
+
+Le présent article ne s'applique pas aux contrats d'assurance en cas de vie dont les prestations sont liées à la cessation
+d'activité professionnelle, souscrits par une entreprise ou un groupe d'entreprises au profit de leurs salariés ou par un
+groupement professionnel représentatif d'entreprises au profit des salariés de celles-ci ou par une organisation
+représentative d'une profession non salariée ou d'agents des collectivités publiques au profit de ses membres. Il ne
+s'applique pas non plus aux contrats de groupe souscrits par un établissement de crédit, ayant pour objet la garantie de
+remboursement d'un emprunt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°89-1009 1989-12-31
+	  - Code des assurances - art. L140-1 (T)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 5 II *modalités*, art. 8 *champ d'application à Mayotte*
+	  - TXT_SOURCE: Code des assurances - art. A140-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 5 (V) JORF 10 août 1994
+
+	**Transféré par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. A140-1 (M)
+	  - Code des assurances - art. L132-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L141-6 (M)
+	  - Code des assurances - art. L141-6 (V)
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
@@ -8850,6 +8901,31 @@ sont de bonne foi, aux assurés, aux souscripteurs et aux bénéficiaires.
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+
+
+###### Article L310-2-1
+
+Pour l'application du présent code, les Etats parties à l'accord sur l'Espace économique européen non membres des Communautés
+européennes sont assimilés, sous réserve de réciprocité, aux Etats membres des Communautés européennes, sauf pour
+l'application de l'article L. 321-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 7 II *date d'effet*, art. 8 *champ d'application à Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 7 (V) JORF 10 août 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-2 (V)
 
 
 ###### Article L310-3
@@ -21852,46 +21928,6 @@ principale.
 	  - Code des assurances R321-1
 
 
-##### Section I : Agrément administratif.
-
-###### Article R*321-2
-
-L'agrément administratif est donné par branche aux entreprises dont le siège social est établi sur le territoire d'un Etat
-membre de la Communauté économique européenne.
-
-Cet agrément couvre la branche entière, sauf si l'entreprise ne désire garantir que les opérations relevant d'une ou
-plusieurs sous-branches.
-
-Pour les entreprises dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté économique
-européenne, le ministre de l'économie et des finances peut, après avis de la commission des entreprises d'assurance
-mentionnée à l'article L. 411-4, dans les conditions prévues à l'article R. 321-13, restreindre l'agrément à une ou plusieurs
-opérations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°90-815 1990-09-14 art. 28 *champ d'application territorial*
-
-	**Modifié par**:
-
-	  - Décret n°90-815 du 14 septembre 1990 - art. 1 () JORF 15 septembre 1990
-	  - Décret n°90-815 du 14 septembre 1990 - art. 3 () JORF 15 septembre 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L411-4 (M)
-	  - Code des assurances L411-4, R321-13
-
-	**Nouveaux textes**:
-
-	  - Code des assurances R321-14 (4ème version)
-
-
 ##### Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen.
 
 ###### Article R321-6
@@ -31459,32 +31495,6 @@ l'article R. 334-18.
 	**Nouveaux textes**:
 
 	  - Code des assurances R334-24 (3ème version)
-
-
-##### Section V : Dispositions transitoires relatives à la marge de solvabilité
-
-###### Article R334-32
-
-Les entreprises mentionnées à l'article R. 310-10-1, agréées à la date du 4 juillet 1993 pour pratiquer sur le territoire de
-la République française une ou plusieurs des branches mentionnées à l'article R. 321-1, et qui satisfont aux dispositions
-réglementaires permanentes relatives aux provisions techniques, à la marge de solvabilité et au fonds de garantie, peuvent
-obtenir de la commission de contrôle des assurances la suppression des mesures restrictives, telles qu'hypothèques, dépôts ou
-cautionnements, qui leur avaient été imposées en vertu de la réglementation qui leur était précédemment applicable.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*, art. 12 *date d'effet*
-
-	**Modifié par**:
-
-	  - Décret n°93-469 1993-03-23 art. 6 I, II JORF 26 mars 1993 en vigueur le 4 juillet 1993
-	  - Décret n°93-469 du 23 mars 1993 - art. 6 () JORF 26 mars 1993 en vigueur le 4 juillet 1993
-
-	**Cite**:
-
-	  - Code des assurances R310-10-1, R321-1
 
 
 ### Titre IV : Dispositions comptables et statistiques
@@ -43169,11 +43179,101 @@ d'assurance permettant de répondre aux prescriptions de l'article R. 250-2.
 
 ### Titre Ier : Dispositions générales et contrôle de l'Etat.
 
-#### Chapitre I 
+#### Chapitre unique
+
+##### Section II : Commission de contrôle des assurances.
+
+###### Article A310-3
+
+I. - Les documents visés au premier alinéa du I de l'article R. 310-20 sont les suivants :
+
+a) La dénomination et l'adresse du siège social de l'entreprise ;
+
+b) Le nom de l'Etat membre sur le territoire duquel elle envisage d'opérer en libre prestation de services ;
+
+c) La liste des branches que l'entreprise est habilitée à pratiquer ;
+
+d) Un document précisant la nature des risques ou engagements que l'entreprise se propose de garantir en libre prestation de
+services ;
+
+e) Dans le cas où l'entreprise se proposerait de couvrir les risques définis à la branche 10 de l'article R. 321-1, à
+l'exception de la responsabilité civile du transporteur, une déclaration d'adhésion au bureau national et au fonds national
+de garantie de l'Etat membre sur le territoire duquel elle envisage d'opérer en libre prestation de services, ainsi que le
+nom et l'adresse du représentant pour la gestion des sinistres qu'elle désigne dans cet Etat membre ;
+
+f) Dans le cas où l'entreprise se proposerait de couvrir les risques définis à la branche 17 de l'article R. 321-1, l'option
+choisie parmi celles énoncées à l'article L. 322-2-3 ;
+
+g) Un dossier décrivant les moyens mis en oeuvre par l'entreprise pour les opérations qu'elle envisage de réaliser en libre
+prestation de services et ses prévisions d'activités.
+
+Les documents cités en a, c, d, e et f ci-dessus sont accompagnés de leur traduction certifiée conforme dans la langue
+officielle de l'Etat membre de libre prestation de services.
+
+II. - La notification visée au premier alinéa du II de l'article R. 310-20 comporte celles des informations visées aux a, b,
+c, d, e ou f du I du présent article qui sont affectées par le projet de modification de la nature ou des conditions
+d'exercice des activités de libre prestation de services dans l'Etat membre concerné, accompagnées de leur traduction
+certifiée conforme dans la langue officielle de l'Etat membre de libre prestation de services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1994-08-08 art. 3 JORF 23 août 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A310-7 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-2-3 (V)
+	  - Code des assurances - art. R310-20 (Ab)
+	  - Code des assurances L322-2-3, R310-20, R321-1
+
+
+###### Article A310-4
+
+I. - Le dossier visé au deuxième alinéa du I de l'article R. 310-20 est composé des éléments mentionnés aux a, c, d, e et f
+de l'article A. 310-3 dans leur traduction certifiée conforme dans la langue de l'Etat membre de libre prestation de
+services, ainsi que d'une attestation de la commission de contrôle des assurances certifiant que l'entreprise dispose de la
+marge de solvabilité conformément aux dispositions des sections II ou III du chapitre IV du titre III du livre III du présent
+code.
+
+II. - Le dossier visé au deuxième alinéa du II de l'article R. 310-20 est composé des éléments mentionnés au I du présent
+article, comportant les modifications envisagées par l'entreprise relatives à la nature ou aux conditions d'exercice des
+activités en libre prestation de services, dans leur traduction certifiée conforme de l'Etat membre de libre prestation de
+services, ainsi que d'une attestation de la commission de contrôle des assurances certifiant que l'entreprise dispose
+toujours de la marge de solvabilité conformément aux dispositions des sections II ou III du chapitre IV du titre III du livre
+III du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1994-08-08 art. 3 JORF 23 août 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. A310-3 (T)
+	  - Code des assurances - art. R310-20 (Ab)
+
 
 ##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.
 
-###### Article A310-1
+###### Article A310-5
 
 Les entreprises mentionnées à l'article L. 310-1 effectuent la vérification d'identité prévue par l'article 12 de la loi n°
 90-614 du 12 juillet 1990 et par l'article 3 du décret n° 91-160 du 13 février 1991 avant la conclusion de tout contrat
@@ -43188,9 +43288,9 @@ supérieur ou égal à 50 000 F par an.
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Transféré par**:
 
-	  - Arrêté 1991-09-25 art. 1 JORF 3 octobre 1991
+	  - Arrêté 1994-08-08 art. 1 I JORF 23 août 1994
 
 	**Cite**:
 
@@ -43198,24 +43298,31 @@ supérieur ou égal à 50 000 F par an.
 	  - Décret n°91-160 du 13 février 1991 - art. 3 (M)
 	  - Code des assurances - art. L310-1 (M)
 
+	**Anciens textes**:
+
+	  - Code des assurances - art. A310-1 (T)
+
 	**Cité par**:
 
-	  - Code des assurances - art. A310-2 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. A310-5 (M)
-	  - Code des assurances - art. A310-5 (V)
+	  - Code des assurances - art. A310-6 (V)
 
 
-###### Article A310-3
+#### Chapitre unique
 
-Lorsqu'une entreprise mentionnée à l'article L. 310-1 fait partie d'un ensemble d'entreprises d'assurance au sens de
-l'article L. 345-1, elle peut, après information de l'entreprise sur laquelle pèse l'obligation de consolidation, désigner,
-pour l'application des articles 2 et 5 du décret n° 91-160 du 13 février 1991, la ou les personnes spécialement habilitées à
-cet effet par une autre entreprise du même ensemble.
+##### Section I : Dispositions générales.
+
+###### Article A310-1
+
+L'information visée au premier alinéa de l'article L. 310-8 prend la forme d'une fiche rédigée en langue française et
+comportant les informations mentionnées à l'annexe du présent article.
+
+(annexe non reproduite, voir au Journal officiel).
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arr êté 2006-08-01 art. 1 7° JORF 26 août 2006
 
 	**Codifié par**:
 
@@ -43223,31 +43330,55 @@ cet effet par une autre entreprise du même ensemble.
 
 	**Créé par**:
 
-	  - Arrêté 1991-09-25 art. 1 JORF 3 octobre 1991
-
-	**Cite**:
-
-	  - Décret n°91-160 du 13 février 1991 - art. 2 (Ab)
-	  - Décret n°91-160 du 13 février 1991 - art. 5 (Ab)
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L345-1 (M)
+	  - Arrêté 1994-08-08 art. 2 JORF 23 août 1994
 
 	**Cité par**:
 
-	  - Code des assurances - art. A310-4 (M)
+	  - Code des assurances - art. A310-2 (T)
 
 	**Nouveaux textes**:
 
-	  - Code des assurances - art. A310-7 (V)
+	  - Code des assurances - art. A310-5 (V)
 
+	**Cite**:
 
-#### Chapitre unique
+	  - Code des assurances - art. L310-8 (M)
 
-##### Section I : Dispositions générales.
 
 ###### Article A310-2
 
-L'obligation concernant la vérification d'identité mentionnée à l'article A. 310-1 est toutefois considérée comme remplie dès
+La déclaration prévue à l'article R. 321-17-1 est accompagnée, pour chacun des changements d'une des personnes chargées de
+conduire l'entreprise, d'un dossier constitué des éléments mentionnés à l'article A. 321-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1994-08-08 art. 2 JORF 23 août 1994
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-02-19 art. 3 JORF 28 février 2007 en vigueur le 28 avril 2007
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A310-6 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. A321-2 (M)
+	  - Code des assurances R321-17-1, A321-2
+
+
+##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.
+
+###### Article A310-6
+
+L'obligation concernant la vérification d'identité mentionnée à l'article A. 310-5 est toutefois considérée comme remplie dès
 lors que le paiement de la prime s'effectue par le débit d'un compte ouvert au nom du client auprès d'un établissement de
 crédit lui-même tenu à l'obligation d'identification.
 
@@ -43257,22 +43388,765 @@ crédit lui-même tenu à l'obligation d'identification.
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Transféré par**:
 
-	  - Arrêté 1991-09-25 art. 1 JORF 3 octobre 1991
+	  - Arrêté 1994-08-08 art. 1 I, II JORF 23 août 1994
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A310-2 (T)
 
 	**Cite**:
 
-	  - Code des assurances - art. A310-1 (T)
+	  - Code des assurances - art. A310-5 (M)
 
-	**Nouveaux textes**:
 
-	  - Code des assurances - art. A310-6 (V)
+###### Article A310-7
+
+Lorsqu'une entreprise mentionnée à l'article L. 310-1 fait partie d'un ensemble d'entreprises d'assurance au sens de
+l'article L. 345-1, elle peut, après information de l'entreprise sur laquelle pèse l'obligation de consolidation, désigner,
+pour l'application des articles R. 562-1 et R. 562-2 du code monétaire et financier, la ou les personnes spécialement
+habilitées à cet effet par une autre entreprise du même ensemble.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Transféré par**:
+
+	  - Arrêté 1994-08-08 art. 1 III JORF 23 août 1994
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R562-1 (M)
+	  - Code monétaire et financier - art. R562-2 (M)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L345-1 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A310-3 (T)
 
 
 ### Titre II : Régime administratif
 
+#### Chapitre Ier : Les agréments.
+
+##### Section I : Agrément administratif des entreprises françaises.
+
+###### Article A321-1
+
+I. - Toute demande d'agrément administratif présentée par une entreprise française doit être produite en double exemplaire et
+comporter :
+
+a) La liste, établie en conformité de l'article R. 321-1, des branches ou sous-branches que l'entreprise se propose de
+pratiquer ;
+
+b) Le cas échéant, l'indication des pays étrangers où l'entreprise se propose d'opérer ;
+
+c) Un des doubles de l'acte constitutif de l'entreprise s'il est sous seing privé, ou une expédition s'il est authentique ;
+
+d) Le procès-verbal de l'assemblée générale constitutive ;
+
+e) Un exemplaire des statuts ;
+
+f) La liste des membres du conseil d'administration ou du directoire, des mandataires sociaux, directeurs généraux et
+directeurs au sens de l'article R. 322-55, ainsi que de toute personne appelée à exercer en fait des fonctions équivalentes
+avec les nom, prénoms, domicile, nationalité, date et lieu de naissance de chacun d'eux. Si ces personnes ont résidé hors de
+France pendant la période de cinq ans précédant la demande d'agrément, elles doivent indiquer leur dernière adresse hors de
+France. Le dossier défini à l'article A. 321-2 doit être fourni par chacune de ces personnes ;
+
+g) Un programme d'activités comprenant les pièces suivantes :
+
+1. Le cas échéant, un document précisant la nature des risques que l'entreprise se propose de garantir ;
+
+2. Les entreprises mentionnées au 1° de l'article L. 310-1 doivent produire une note technique exposant le mode
+d'établissement des tarifs et les bases de calcul des diverses catégories de primes ou cotisations. S'il s'agit d'opérations
+de la branche 26 de l'article R. 321-1, l'entreprise doit produire une note technique exposant le mode d'établissement des
+tarifs, les modalités de détermination des primes ou cotisations annuelles ainsi que les indications relatives à la fixation
+du nombre d'unités de rente correspondant auxdites primes ou cotisations.
+
+S'il s'agit d'opérations d'appel à l'épargne en vue de la capitalisation, l'entreprise doit produire le tarif complet des
+versements ou cotisations, accompagné de tableaux indiquant au moins année par année les provisions mathématiques et les
+valeurs de rachat correspondantes, ainsi que d'une note technique exposant le mode d'établissement de ces divers éléments.
+
+S'il s'agit d'opérations tontinières, l'entreprise doit produire une note technique exposant le mode d'établissement des
+tarifs et des barèmes afférents à toutes ses opérations ;
+
+3. Les principes directeurs que l'entreprise se propose de suivre en matière de réassurance ; la liste des principaux
+réassureurs pressentis et les éléments de nature à démontrer leur intention de contracter avec l'entreprise ;
+
+4. La description de l'organisation administrative et commerciale et des moyens en personnel et en matériel dont dispose
+l'entreprise ; les prévisions de frais d'installation des services administratifs et du réseau de production, ainsi que les
+moyens financiers destinés à y faire face ;
+
+5. Pour la branche mentionnée au 18 de l'article R. 321-1, les moyens en personnels et matériels dont dispose l'entreprise,
+par elle-même ou par personne interposée, pour faire face à ses engagements ;
+
+6. Pour les cinq premiers exercices comptables d'activité : les comptes de résultats et bilans prévisionnels, ainsi que le
+détail des hypothèses retenues (principes de tarification, nature des produits, sinistralité, évolution des frais généraux,
+rendement des placements).
+
+7. Pour les mêmes exercices :
+
+- les prévisions relatives aux moyens financiers destinés à la couverture des engagements ;
+
+- les prévisions relatives à la marge de solvabilité que l'entreprise doit posséder en application des dispositions des
+sections II ou III du chapitre IV du titre III du présent livre ;
+
+- les prévisions de trésorerie.
+
+8. La justification des éléments constituant le montant minimal du fonds de garantie que l'entreprise doit posséder, selon le
+cas, conformément aux dispositions des sections II ou III du chapitre IV du titre III du présent livre ;
+
+9.1. Dans le cas d'une société anonyme, la liste des actionnaires détenant 5 p. 100 ou plus du capital ou des droits de vote
+ainsi que la part du capital social et des droits de vote détenue par chacun d'eux. Est considéré comme actionnaire unique
+pour l'application des présentes dispositions, tout groupe d'actionnaires liés entre eux, soit parce que l'un détient le
+contrôle direct ou indirect de l'autre, soit parce qu'ils sont directement ou indirectement contrôlés par la même personne,
+soit parce qu'ils sont liés par un pacte d'actionnaires ou par tout accord général ou particulier ayant le même effet qu'un
+pacte d'actionnaires. Dans ce cas, la liste des personnes appartenant au groupe d'actionnaires, et l'indication de la part
+détenue par chacun dans le capital et les droits de vote sont complétées par l'indication de la nature du ou des liens
+existant entre elles.
+
+Lorsque l'un des actionnaires de l'entreprise d'assurance figurant sur la liste prévue ci-dessus est lui-même contrôlé par un
+actionnaire unique, l'identité du ou des actionnaires liés entre eux détenant le contrôle est indiquée.
+
+Lorsque l'un des actionnaires de l'entreprise d'assurance figurant sur la liste prévue ci-dessus détient à lui seul le
+contrôle de l'entreprise d'assurance et qu'il est lui-même une société dont l'activité principale consiste à prendre des
+participations dans les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1, la liste de ses
+actionnaires est également fournie, dans les mêmes conditions que la liste des actionnaires de l'entreprise d'assurance.
+
+Pour chacun des actionnaires mentionnés en application des présentes dispositions détenant 10 p. 100 ou plus du capital ou
+des droits de vote, est fourni un dossier composé comme il est prévu à l'article A 322-1-II.
+
+Pour chacun des actionnaires mentionnés détenant de 5 à moins de 10 p. 100 du capital ou des droits de vote, le dossier est
+composé des informations mentionnées à l'article A. 322-1-II 1 (a et b) ou des informations mentionnées au paragraphe II-2
+(a, b, c, d, e) du même article.
+
+9.2. Dans le cas d'une société d'assurance mutuelle, une note détaillant les modalités de constitution du fonds
+d'établissement et des éléments constitutifs de la marge de solvabilité ainsi que l'identité des apporteurs de fonds.
+
+10. Le nom et l'adresse du ou des principaux établissements bancaires où sont domiciliés les comptes de l'entreprise.
+
+II. - En cas de demande d'extension d'agrément, le dossier à communiquer est le même que celui prévu au I du présent article,
+à l'exception des documents mentionnés aux c, d et e.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 5, art. 6 JORF 23 août 1994
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-3 (Ab)
+	  - Code des assurances - art. A321-2 (V)
+	  - Code des assurances - art. A321-3 (Ab)
+	  - Code des assurances - art. A321-7 (V)
+	  - Code des assurances - art. A321-8 (V)
+	  - Code des assurances - art. A362-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R*322-55 (M)
+	  - Code des assurances L310-1, R321-1, R322-55, A321-2
+
+
+###### Article A321-3
+
+Les documents visés au premier alinéa de l'article L. 321-3 sont les suivants :
+
+a) La dénomination et l'adresse du siège social de l'entreprise ;
+
+b) Le nom de l'Etat membre sur le territoire duquel elle envisage d'établir une succursale ;
+
+c) L'adresse de la succursale à laquelle les autorités de l'Etat membre visé au b peuvent demander des informations en vue de
+l'exercice de leurs compétences ;
+
+d) Le nom et les pouvoirs du mandataire général ;
+
+e) Les informations concernant le mandataire général mentionnées à l'article A. 321-2 ;
+
+f) Un programme d'activité relatif à l'établissement envisagé comportant les pièces mentionnées aux a et g (1, 3, 4, 5) de
+l'article A. 321-1 ainsi que, pour les cinq premiers exercices comptables d'activité les comptes de résultat prévisionnels,
+les prévisions relatives aux moyens financiers destinés à la couverture des engagements et celles relatives à la trésorerie ;
+
+g) Un programme d'activité complémentaire relatif à l'établissement envisagé comportant les pièces mentionnées aux g (2 et
+10) de l'article A. 321-1 ;
+
+h) Dans le cas où l'entreprise se proposerait de couvrir les risques définis à la branche 10 de l'article R. 321-1 à
+l'exception de la responsabilité civile du transporteur, une déclaration d'adhésion au bureau national et au fonds national
+de garantie de l'Etat membre sur le territoire duquel elle envisage d'établir une succursale ;
+
+i) Dans le cas où l'entreprise se proposerait de couvrir les risques définis à la branche 17 de l'article R. 321-1, l'option
+choisie parmi celles énoncées à l'article L. 322-2-3.
+
+Ces documents doivent être adressés en double exemplaire, accompagnés de la traduction certifiée conforme dans la langue
+officielle de l'Etat membre de la succursale, des informations mentionnées aux a, c, d, f, h et i du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 5, art. 6 JORF 23 août 1994
+
+	**Abrogé par**:
+
+	  - Arrêté 2005-12-22 art. 1 II JORF 4 janvier 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. A321-1 (Ab)
+	  - Code des assurances - art. A321-2 (M)
+	  - Code des assurances - art. L321-3 (M)
+	  - Code des assurances - art. L322-2-3 (V)
+	  - Code des assurances L321-3, L322-2-3, R321-1, A321-1, A321-2
+
+	**Cité par**:
+
+	  - Code des assurances - art. A321-4 (Ab)
+	  - Code des assurances - art. A321-6 (Ab)
+
+
+###### Article A321-4
+
+La notification visée à l'article L. 321-3 est accompagnée des informations mentionnées aux a, c, d, f, g et h de l'article
+A. 321-3, dans leur traduction certifiée conforme dans la langue de l'Etat de la succursale ainsi que d'une attestation de la
+commission de contrôle des assurances certifiant que l'entreprise dispose de la marge de solvabilité conformément aux
+dispositions des sections II ou III du chapitre IV du titre III du présent code.
+
+La date de réception de la notification par les autorités de la succursale est communiquée à l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 5, art. 6 JORF 23 août 1994
+
+	**Abrogé par**:
+
+	  - Arrêté 2005-12-22 art. 1 II JORF 4 janvier 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. A321-3 (Ab)
+	  - Code des assurances - art. L321-3 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A321-5 (Ab)
+	  - Code des assurances - art. A321-6 (Ab)
+
+
+###### Article A321-5
+
+La succursale peut commencer ses activités dès réception par l'entreprise d'une communication du ministre de l'économie lui
+indiquant les conditions dans lesquelles les autorités de l'Etat de la succursale entendent que ces activités soient exercées
+sur leur territoire.
+
+En tout état de cause, la succursale peut commencer ses activités à l'expiration d'un délai de deux mois à compter de la
+réception par ces dernières autorités de la notification mentionnée à l'article A. 321-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 5, art. 6 JORF 23 août 1994
+
+	**Abrogé par**:
+
+	  - Arrêté 2005-12-22 art. 1 II JORF 4 janvier 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. A321-4 (Ab)
+
+
+###### Article A321-6
+
+Tout projet de modification visé à l'article L. 321-5 est communiqué par l'entreprise simultanément aux autorités compétentes
+de l'Etat membre de la succursale et au ministre de l'économie. La communication au ministre de l'économie est accompagnée
+des documents mentionnés à l'article A. 321-3 affectés par le projet de modification.
+
+Lorsque, en application de l'article L. 321-5, le ministre de l'économie notifie un tel projet de modification aux autorités
+compétentes de l'Etat membre de la succursale, il accompagne la notification d'un dossier comportant ceux des documents
+mentionnés à l'article A. 321-4 qui font l'objet d'une modification.
+
+La modification de la nature ou des conditions d'exercice des activités de la succursale peut intervenir à l'expiration d'un
+délai d'un mois suivant la réception par le ministre de l'économie du projet de modification visé au premier alinéa du
+présent article, à condition que le ministre ait, dans ce délai, notifié le projet de modification conformément aux
+dispositions du deuxième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 5, art. 6 JORF 23 août 1994
+
+	**Abrogé par**:
+
+	  - Arrêté 2005-12-22 art. 1 II JORF 4 janvier 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. A321-3 (Ab)
+	  - Code des assurances - art. A321-4 (Ab)
+	  - Code des assurances - art. L321-5 (Ab)
+
+
+###### Article Annexe art. A321-2
+
+**RENSEIGNEMENTS À FOURNIR PAR LES PERSONNES CHARGÉES DE CONDUIRE UNE ENTREPRISE D'ASSURANCE**
+
+1. Nom ou dénomination sociale de l'entreprise pour laquelle ces renseignements sont fournis.
+
+2. Identité de la personne chargée de conduire l'entreprise (fournir la photocopie d'une pièce d'identité) :
+
+- nom et prénoms ;
+
+- date et lieu de naissance ;
+
+- nationalité ;
+
+- adresse personnelle ;
+
+- intitulé de la fonction pour laquelle le dossier est présenté ;
+
+- date de nomination.
+
+3. Fonctions actuellement exercées au sein de l'entreprise.
+
+4. Fonctions, le cas échéant, qui seront exercées après la nomination (fournir un extrait du procès-verbal de la réunion de
+l'organe social attestant de cette nomination).
+
+5. Modalités de partage des responsabilités avec les autres personnes chargées de conduire l'entreprise.
+
+6. Curriculum vitae daté et signé indiquant notamment les formations suivies et les diplômes obtenus et, pour chacune des
+fonctions exercées au cours des dix dernières années, en France ou à l'étranger :
+
+- nom ou dénomination sociale de l'employeur ;
+
+- responsabilités effectivement exercées ;
+
+- résultats obtenus en termes de développement de l'activité et de rentabilité.
+
+7. Engagements pris, en France ou à l'étranger, au titre des fonctions précédemment exercées (notamment les clauses de non-
+concurrence).
+
+8. Autres fonctions de conduite d'une entreprise exercées en parallèle aux fonctions faisant l'objet du présent dossier, en
+précisant le nom ou la dénomination sociale des entreprises concernées et les modalités prévues pour remplir les différentes
+responsabilités.
+
+9. Nom et activité des entreprises ayant leur siège social en France ou à l'étranger dans lesquelles une participation d'au
+moins 20 % est ou a été détenue, au cours des dix dernières années, en précisant le montant des participations détenues et
+les liens entre ces entreprises et l'entreprise qui dépose le dossier.
+
+10. Nom et activité des entreprises ayant leur siège social en France ou à l'étranger dans lesquelles un mandat d'associé en
+nom ou d'associé commandité est ou a été détenu, au cours des dix dernières années, en précisant les liens entre ces
+entreprises et l'entreprise qui dépose le dossier.
+
+11. Liste des mandats sociaux détenus en France ou à l'étranger, en précisant ceux détenus dans des sociétés n'appartenant
+pas au groupe de l'entreprise qui dépose le dossier et, parmi ces derniers, ceux pour lesquels des conflits d'intérêt
+pourraient avoir lieu et les dispositions qui seront prises pour y remédier.
+
+12. Nom et activité des entreprises ayant leur siège social en France ou à l'étranger dans lesquelles soit des fonctions de
+conduite de l'entreprise ont été exercées, soit une participation d'au moins 20 % est ou a été détenue, soit un mandat
+d'associé en nom ou d'associé commandité est ou a été exercé et qui ont fait l'objet, au cours des dix dernières années,
+d'une condamnation pénale, d'une sanction administrative ou disciplinaire prise par une autorité de contrôle ou une
+organisation professionnelle, notamment une mesure de suspension ou d'exclusion d'une organisation professionnelle, d'un
+refus ou d'un retrait d'une autorisation ou d'un agrément dans le secteur financier ou d'une mesure de redressement ou de
+liquidation judiciaires, en précisant les procédures en cours.
+
+13. Nom et activité des entreprises dans lesquelles des fonctions de conduite de l'entreprise ont été exercées et dont les
+commissaires aux comptes compétents ou les contrôleurs légaux, pour les entreprises ayant leur siège social à l'étranger,
+ont, au cours des dix dernières années, refusé de certifier les comptes ou ont assorti leur certification de réserves.
+
+14. Nom et activité des entreprises ayant leur siège social en France ou à l'étranger dans lesquelles soit des fonctions de
+conduite de l'entreprise sont exercées, soit une participation d'au moins 20 % est détenue, soit un mandat d'associé en nom
+ou d'associé commandité est exercé, et qui entretiennent ou pourraient entretenir des relations d'affaire significatives avec
+l'entreprise qui dépose le dossier.
+
+15. Liste des sanctions administratives ou disciplinaires prises par une autorité de contrôle ou une organisation
+professionnelle, notamment une mesure de suspension ou d'exclusion d'une organisation professionnelle, des licenciements pour
+faute professionnelle ou des mesures équivalentes prises à l'encontre, en France ou à l'étranger et au cours des dix
+dernières années, de la personne nommée, en précisant les procédures en cours.
+
+16. Déclaration sur l'honneur attestant l'absence de condamnation prévue au I ou au II de l'article L. 322-2 du code des
+assurances (fournir un bulletin n° 3 du casier judiciaire datant de moins de trois mois 
+
+Je soussigné (nom et prénom) certifie l'exactitude des informations communiquées et m'engage à porter immédiatement à la
+connaissance du Comité des entreprises d'assurance tout changement significatif des éléments les concernant, notamment ceux
+mentionnés aux points 12, 15 et 16 du présent formulaire.»
+
+Date, lieu
+
+(Signature de la personne chargée de conduire l'entreprise.)
+
+En ma qualité de (fonction), je soussigné (nom et prénom) déclare que les informations communiquées sont à ma connaissance
+exactes et m'engage à porter immédiatement à la connaissance du Comité des entreprises d'assurance tout changement
+significatif dont j'aurais connaissance, notamment les éléments mentionnés aux points 12, 15 et 16 du présent formulaire.»
+
+Date, lieu
+
+(Signature soit du président du conseil d'administration ou du conseil de surveillance, soit de l'actionnaire principal, soit
+d'un autre membre du conseil d'administration de l'entreprise.)
+
+
+
+##### Section I : Agrément administratif des entreprises françaises.
+
+###### Article A321-2
+
+Les personnes mentionnées au I, f de l'article A. 321-1 doivent produire un état descriptif de leurs activités. Elles
+indiquent notamment :
+
+1. La nature de leurs activités professionnelles actuelles et de celles qu'elles ont exercées pendant les dix années
+précédant la demande d'agrément ;
+
+2. Si elles ont fait l'objet, soit de sanctions disciplinaires prises par une autorité de contrôle ou une organisation
+professionnelle compétente, soit d'un refus d'inscription sur une liste professionnelle ;
+
+3. Si elles ont fait l'objet d'un licenciement ou d'une mesure équivalente pour faute ;
+
+4. Si elles ont exercé des fonctions d'administrateur ou de direction dans des entreprises ayant fait l'objet de mesures de
+redressement ou de liquidation judiciaires prévues par la loi n° 85-98 du 25 janvier 1985 ou, dans le régime antérieur, de
+mesures prévues par la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les
+banqueroutes, ou de mesures équivalentes à l'étranger.
+
+Les personnes mentionnées au I, f de l'article A. 321-1 doivent également produire un bulletin n° 3 de leur casier judiciaire
+datant de moins de trois mois ou un document équivalent délivré par une autorité judiciaire ou administrative compétente d'un
+Etat membre de l'Espace économique européen autre que la France. Lorsque ces personnes ne sont pas des ressortissants d'un
+Etat membre de l'Espace économique européen, elles doivent produire un document équivalent ou, à défaut, une déclaration sous
+serment ou une déclaration solennelle faite devant une autorité compétente ou un notaire, aux termes de laquelle elles
+affirment ne pas avoir fait, à l'étranger, l'objet d'une condamnation qui, si elle avait été prononcée par une juridiction
+française, serait inscrite au bulletin n° 3 du casier judiciaire. L'autorité compétente ou le notaire délivre une attestation
+faisant foi de ce serment ou de cette déclaration solennelle. En outre, si elles ne sont pas de nationalité française, ces
+personnes doivent satisfaire aux dispositions des lois et règlements relatifs à la situation et à la police des étrangers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 5, art. 6 JORF 23 août 1994
+
+	**Cite**:
+
+	  - Loi n°67-563 1967-07-13
+	  - Loi n°85-98 1985-01-25
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-2 (Ab)
+	  - Code des assurances - art. A310-3 (Ab)
+	  - Code des assurances - art. A321-1 (M)
+	  - Code des assurances - art. A321-11 (V)
+	  - Code des assurances - art. A321-3 (Ab)
+	  - Code des assurances - art. A321-7 (M)
+	  - Code des assurances - art. A321-9 (V)
+	  - Code des assurances - art. A322-1 (V)
+
+
+##### Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen.
+
+###### Article A321-7
+
+I. - Toute demande d'agrément administratif présentée conformément à l'article L. 321-7 doit être produite en double
+exemplaire et comporter, outre les documents prévus aux a, e et f de l'article A. 321-1 :
+
+a) Le bilan, le compte de résultat et l'annexe pour chacun des trois derniers exercices sociaux. Toutefois, lorsque
+l'entreprise compte moins de trois exercices sociaux, ces documents ne doivent être fournis que pour les exercices clôturés ;
+
+b) Un certificat de solvabilité délivré par l'autorité de contrôle du siège social, énumérant les branches que l'entreprise
+est habilitée à pratiquer ainsi que les risques qu'elle garantit effectivement, attestant qu'elle dispose du montant minimal
+du fonds de garantie ou, s'il est plus élevé, du montant réglementaire de la marge de solvabilité et indiquant qu'elle
+possède les moyens financiers nécessaires aux frais d'installation des services administratifs et du réseau de production ;
+
+c) La désignation d'une personne physique ou morale ayant la qualité de mandataire général accompagnée des informations
+prévues à l'article A. 321-2 ;
+
+d) Un programme d'activités comprenant les pièces mentionnées au g (1 à 6) de l'article A. 321-1 ;
+
+Le programme d'activités doit comporter en outre l'état de la marge de solvabilité de l'entreprise ; l'avis de l'autorité de
+contrôle de l'Etat où l'entreprise a son siège social sur ce programme d'activités est demandé ; en l'absence de réponse à
+l'expiration d'un délai de trois mois à compter de la réception du programme de ladite autorité, l'avis est réputé
+favorable ;
+
+e) La justification que l'entreprise possède sur le territoire de la République française, pour ses opérations sur ce
+territoire, une succursale où elle fait élection de domicile.
+
+II. - En cas de demande d'extension d'agrément, les documents mentionnés aux e et f de l'article A. 321-1 ainsi qu'aux c et e
+du présent article ne sont pas exigés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 5, art. 7 JORF 23 août 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. A321-1 (Ab)
+	  - Code des assurances - art. A321-2 (M)
+	  - Code des assurances - art. L321-7 (V)
+
+
+##### Section III : Agrément spécial des entreprises dont le siège social est situé dans un Etat non membre de l'Espace économique européen.
+
+###### Article A321-8
+
+I.-Toute demande d'agrément administratif présentée conformément à l'article L. 321-9 doit être produite en double exemplaire
+et comporter, outre les documents prévus aux a, e et f de l'article A. 321-1 : 
+
+a) Le bilan, le compte de résultat et l'annexe pour chacun des trois derniers exercices sociaux. Toutefois, lorsque
+l'entreprise compte moins de trois exercices sociaux, ces documents ne doivent être fournis que pour les exercices
+clôturés ; 
+
+b) Un certificat délivré par les autorités administratives compétentes énumérant les branches que l'entreprise est habilitée
+à pratiquer ainsi que les risques qu'elle garantit effectivement et attestant qu'elle est constituée et qu'elle fonctionne
+dans son pays d'origine conformément aux lois de ce pays ; 
+
+c) La proposition à l'acceptation du ministre de l'économie en vue d'obtenir l'agrément spécial prévu à l'article L. 321-9
+d'une personne physique ou morale ayant la qualité de mandataire général ; 
+
+d) La justification que l'entreprise dispose sur le territoire de la République française d'actifs au moins égaux à la moitié
+du montant minimal du fonds de garantie qu'elle doit posséder conformément aux dispositions du chapitre IV du titre III du
+présent livre, et l'engagement de déposer le quart du montant minimal du fonds de garantie à titre de cautionnement, sauf si
+l'entreprise est soumise à une vérification de solvabilité globale exercée par l'autorité de contrôle d'un Etat membre de la
+Communauté économique européenne autre que la France ; 
+
+e) Un programme d'activités comportant les pièces mentionnées au g (1 à 7) de l'article A 321-1 ; 
+
+f) La justification que l'entreprise possède sur le territoire de la République française, pour ses opérations sur ce
+territoire, une succursale où elle fait élection de domicile. 
+
+II.-En cas de demande d'extension d'agrément, les documents mentionnés aux e et f de l'article A. 321-1 ainsi qu'aux c et f
+du présent article ne sont pas exigés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 5, art. 8 JORF 23 août 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. A321-1 (V)
+	  - Code des assurances - art. L321-9 (V)
+
+
+###### Article A321-9
+
+Toute demande d'agrément spécial présentée conformément à l'article L. 321-9 doit comporter les informations prévues à
+l'article A. 321-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 5, art. 8 JORF 23 août 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. A321-2 (M)
+	  - Code des assurances - art. L321-9 (M)
+
+
 #### Chapitre II : Règles de constitution et de fonctionnement
+
+##### Section II : Sociétés anonymes d'assurance et de capitalisation.
+
+###### Article A322-2
+
+Pour les opérations de cession de participation, le dossier mentionné à l'article R. 322-11-1 est composé des pièces
+suivantes :
+
+a) La dénomination et l'adresse du cédant ;
+
+b) La dénomination et l'adresse de l'entreprise pour laquelle l'opération est projetée ;
+
+c) Toutes informations relatives à la part du capital ou des droits de vote déjà détenus dans l'entreprise pour laquelle
+l'entreprise est projetée ;
+
+d) Toutes informations relatives à la nature, au montant et aux mécanismes de l'opération projetée, ainsi que l'identité du
+ou des cessionnaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 9 JORF 23 août 1994
+
+	**Cité par**:
+
+	  - Arrêté du 10 septembre 1985 - art. 8 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*322-33 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. R322-11-1 (M)
+
+
+###### Article A322-3
+
+Pour les opérations de prise, acquisition ou cession de participation du vingtième des droits de vote, la déclaration prévue
+à l'article R. 322-11-1 est composée des pièces suivantes :
+
+a) La dénomination et l'adresse du cédant ;
+
+b) La dénomination et l'adresse de l'entreprise pour laquelle l'opération est projetée ;
+
+c) Toutes informations relatives à la nature, au montant et aux mécanismes de l'opération projetée, ainsi que l'identité du
+ou des vendeurs ou cessionnaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 9 JORF 23 août 1994
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*322-33 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. R322-11-1 (M)
+
+
+##### Section II : Sociétés anonymes d'assurance et de capitalisation.
+
+###### Article A322-1
+
+Pour les opérations de prise ou extension de participation, le dossier mentionné à l'article R. 322-11-1 est composé des
+pièces suivantes rédigées en langue française ou accompagnées de leur traduction conforme en langue française :
+
+I. - Informations relatives à l'opération envisagée :
+
+a) La dénomination et l'adresse de l'entreprise pour laquelle l'opération est projetée ;
+
+b) Le cas échéant, toutes informations relatives à la part du capital ou des droits de vote, déjà détenus par la personne
+visée au II du présent article, ou par des personnes placées sous son contrôle effectif, agissant pour son compte ou avec
+elle, dans l'entreprise pour laquelle l'opération est projetée, ainsi que l'identité du ou des vendeurs ;
+
+c) Toutes informations relatives à la nature, au montant et aux mécanismes de l'opération projetée ;
+
+d) Toutes informations relatives aux objectifs et effets attendus de l'opération projetée ;
+
+e) Toutes informations relatives aux modalités de suivi et de contrôle des activités et des résultats de l'entreprise pour
+laquelle l'opération est projetée.
+
+II. - Informations relatives à la personne (acquéreur) :
+
+1. Pour les personnes physiques :
+
+a) Ses nom, prénoms, domicile, nationalité, date et lieu de naissance. Si cette personne a résidé hors de France pendant la
+période de cinq ans précédant la demande, elle doit indiquer sa dernière adresse hors de France ;
+
+b) Un état descriptif de ses activités comprenant les informations mentionnées à l'article A. 321-2 ;
+
+c) Toutes informations permettant d'apprécier sa situation patrimoniale.
+
+2. Pour les personnes morales :
+
+a) La dénomination et l'adresse de son siège social ;
+
+b) Un document faisant preuve de sa constitution régulière selon les lois et réglements de l'Etat de son siège social sauf
+pour les entreprises d'assurance et les établissements de crédit agréés ou habilités à opérer en France ;
+
+c) La liste des principaux dirigeants avec les nom, prénoms, domicile, nationalité, date et lieu de naissance ;
+
+d) La répartition du capital et des droits de vote, ainsi que la liste des principaux actionnaires et la part du capital
+social et des droits de vote détenue par chacun d'eux ;
+
+e) La description de ses activités et le détail de ses participations dans des entreprises d'assurance françaises ou
+étrangères ;
+
+f) Si elle fait partie d'un groupe, une liste des principales entités constituant le groupe, complété d'un organigramme
+détaillé de sa structure ;
+
+g) Le bilan et le compte de résultats des deux derniers exercices clos ainsi que, le cas échéant, les comptes consolidés du
+groupe pour les deux derniers exercices clos ;
+
+h) Si elle a fait ou est suceptible de faire l'objet d'une enquête ou d'une procédure professionnelle, administrative ou
+judiciaire, les sanctions ou les conséquences financières qui en sont résultées ou sont susceptibles d'en résulter ;
+
+i) S'il s'agit d'une entreprise d'assurance ou d'un établissement de crédit, respectivement le taux de couverture de sa marge
+de solvabilité ou le niveau de son ratio de solvabilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 9 JORF 23 août 1994
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code des assurances - art. A321-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. A321-2 (M)
+	  - Code des assurances - art. R322-11-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R*322-25 (T)
+
 
 ##### Section IV : Sociétés d'assurance à forme mutuelle.
 
@@ -43399,6 +44273,47 @@ inférieure à la provision correspondant au capital réduit.
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
+
+
+###### Article A331-8
+
+Pour l'application de l'article A. 331-4, il est prévu, dans le compte de participation aux résultats, une rubrique intitulée
+" Solde de réassurance cédée ". 
+
+Seule est prise en compte la réassurance de risque, c'est-à-dire celle dans laquelle l'engagement des cessionnaires porte
+exclusivement sur tout ou partie de la différence entre le montant des capitaux en cas de décès ou d'invalidité et celui des
+provisions mathématiques des contrats correspondants. 
+
+Dans les traités limités à la réassurance de risque, le solde de réassurance cédée est égal à la différence entre le montant
+des sinistres à la charge des cessionnaires et celui des primes cédées. Il est inscrit, selon le cas, au débit ou au crédit
+du compte de participation aux résultats. 
+
+Dans les autres traités, le solde de réassurance cédée est établi en isolant la réassurance de risque à l'intérieur des
+engagements des cessionnaires. Les modalités de calcul du solde sont précisées par circulaire, par référence aux conditions
+normales du marché de la réassurance de risque.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Transféré par**:
+
+	  - Arrêté 1994-08-08 art. 10 VI JORF 23 août 1994
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2004 - art. 11 (Ab)
+	  - Code des assurances - art. A331-4 (V)
+
+	**Abrogé par**:
+
+	  - Arrêté du 28 décembre 2015 - art. 2
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-6 (T)
 
 
 ##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.
@@ -43536,6 +44451,59 @@ calculées d'après un taux au plus égal au plus faible des taux d'intérêts s
 
 	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
 	  - SPEC_APPLI: Code des assurances A331-3 *champ d'application*
+
+
+###### Article A331-5
+
+Le montant minimal annuel de la participation aux résultats est le solde créditeur du compte de participation aux résultats
+défini à l'article A. 331-4.
+
+Le montant minimal annuel de la participation aux bénéfices est égal au montant défini à l'alinéa précédent diminué du
+montant des intérêts crédités aux provisions mathématiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Transféré par**:
+
+	  - Arrêté 1994-08-08 art. 10 III JORF 23 août 1994
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-3 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. A331-4 (Ab)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A335-6 (M)
+
+
+###### Article A331-9-1
+
+Lorsqu'une catégorie de contrats est assortie d'une clause de participation aux résultats, la participation affectée
+individuellement à chaque contrat réduit ou suspendu ne peut être inférieure de plus de 25 p. 100 à celle qui serait affectée
+à un contrat en cours de paiement de primes de la même catégorie ayant la même provision mathématique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Transféré par**:
+
+	  - Arrêté 1994-08-08 art. 10 VIII JORF 23 août 1994
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-11 (Ab)
+	  - Code des assurances - art. A132-11 (T)
 
 
 ##### Section III : Provisions techniques des autres opérations d'assurance
@@ -43680,6 +44648,70 @@ définies au 4 de l'article A. 344-4.
 
 
 #### Chapitre II : Réglementation des placements et autres éléments d'actif
+
+##### Section I : Eléments d'actif admis en représentation des engagements réglementés.
+
+###### Article A332-1
+
+I. - La caution ou engagement équivalent visée au troisième alinéa de l'article R. 332-17 doit :
+
+- être régie par le droit français et soumise en cas de litige à la compétence exclusive des juridictions françaises ;
+
+- constituer une garantie à première demande, irrévocable et inconditionnelle.
+
+II. - L'établissement de crédit garant, visé au troisième alinéa de l'article R. 332-17 doit répondre aux conditions
+suivantes :
+
+1° Le garant est un établissement de crédit habilité à opérer en France en application de la loi n° 84-46 du 24 janvier 1984
+modifiée relative à l'activité et au contrôle des établissements de crédit, et respecte, compte tenu de la garantie
+envisagée, l'ensemble des dispositions législatives et réglementaires qui lui sont applicables ;
+
+2° Le garant n'est pas une entreprise liée au réassureur ni à l'entreprise d'assurance garantie, au sens de l'annexe à
+l'article A. 343-1, 3e alinéa, du présent code.
+
+III. - La dérogation visée au troisième alinéa de l'article R. 332-17 ne peut être accordée que dans la mesure où, de l'avis
+de la commission de contrôle des assurances, elle ne diminue pas la qualité de la représentation des engagements réglementés,
+et notamment dans les limites fixées ci-après :
+
+- la durée, fixée initialement par la commission de contrôle des assurances, ne peut excéder un exercice, éventuellement
+renouvelable dans les conditions définies par la commission ;
+
+- le montant total des garanties admises au titre de ladite dérogation ne peut à aucun moment excéder :
+
+- le montant maximum fixé par la commission de contrôle des assurances ;
+
+- la moitié du montant total des engagements réglementés tels que définis à l'article R. 331-1 du présent code ;
+
+- les deux tiers du montant total de la part des réassureurs dans les provisions techniques.
+
+IV. - La dérogation peut être supprimée à tout moment par la commission si celle-ci estime que les conditions l'ayant
+justifiée ne sont plus remplies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 11 JORF 23 août 1994
+
+	**Cite**:
+
+	  - Loi n°84-46 1984-01-24
+	  - Code des assurances - art. A331-1 (T)
+	  - Code des assurances - art. A343-1 (M)
+	  - Code des assurances - art. R332-17 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 5 novembre 1990 - art. 1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R332-3 (M)
+
 
 ##### Section III : Estimation des éléments d'actif.
 
@@ -50957,6 +51989,116 @@ contrôle françaises ".
 	**Cite**:
 
 	  - Code des assurances - art. L353-4
+
+
+### Titre VI : Libre établissement et libre prestation de services communautaires
+
+#### Chapitre II : Conditions d'exercice.
+
+###### Article A362-1
+
+I. Les informations requises visées à l'article L. 362-1 doivent être rédigées en langue française et comporter les éléments
+suivants :
+
+a) La dénomination et l'adresse du siège social de l'entreprise ;
+
+b) L'adresse de la succursale en France, à laquelle la commission de contrôle des assurances et le ministre chargé de
+l'économie et des finances peuvent demander des informations pour l'exercice de leurs compétences ;
+
+c) Le nom et les pouvoirs du mandataire général ;
+
+d) Un programme d'activité comportant les pièces mentionnées aux a et g (1, 3, 4, 5, 6 et 7) de l'article A. 321-1 ;
+
+e) Dans le cas où l'entreprise se proposerait de couvrir les risques définis à la branche 10 de l'article R. 321-1, à
+l'exception de la responsabilité civile du transporteur, une attestation d'adhésion au bureau national d'assurance mentionné
+à l'article L. 421-15 du présent code et au Fonds national de garantie contre les accidents de circulation ;
+
+g) Un certificat des autorités compétentes de l'Etat d'origine de l'entreprise, attestant qu'elle possède bien la marge de
+solvabilité.
+
+II. Dès réception régulière de l'ensemble des informations visées au I du présent article, un accusé de réception est adressé
+aux autorités de contrôle de l'Etat d'origine de l'entreprise qui se chargent d'en aviser cette dernière. Un courrier peut
+également être adressé à ces mêmes autorités, indiquant le cas échéant les conditions dans lesquelles la succursale peut
+commencer ses activités.
+
+La succursale peut commencer ses activités soit dès que l'entreprise a reçu communication de la part des autorités de
+contrôle de son Etat d'origine du courrier visé à l'alinéa précédent, soit, en toute hypothèse, à l'expiration d'un délai de
+deux mois à compter de la date de l'accusé de réception prévu à l'alinéa précédent.
+
+III. Toute modification envisagée de l'une des informations visées au I du présent article doit être préalablement notifiée
+par l'entreprise en langue française au ministre de l'économie.
+
+La modification de la nature et des conditions d'exercice des activités d'une succursale en France peut intervenir à la date
+de réception par le ministre de l'économie d'un dossier, en langue française, de la part des autorités compétentes de l'Etat
+membre d'origine de l'entreprise, comportant ceux des documents mentionnés au I du présent article qui font l'objet d'une
+modification, ou, si elle est postérieure, à la date à laquelle l'entreprise a prévu de procéder à la modification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 12 JORF 23 août 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. A321-1 (Ab)
+	  - Code des assurances - art. L362-1 (M)
+	  - Code des assurances - art. L421-15 (M)
+	  - Code des assurances L362-1, L421-15, R321-1, A321-1
+
+
+###### Article A362-2
+
+I. Les informations requises visées à l'article L. 362-2 doivent être rédigées en langue française et comporter les éléments
+suivants : 
+
+a) La dénomination et l'adresse du siège social de l'entreprise ; 
+
+b) La liste des branches que l'entreprise est habilitée à pratiquer ; 
+
+c) La nature des risques ou engagements que l'entreprise se propose de prendre ou garantir sur le territoire français ; 
+
+d) Dans le cas où l'entreprise se proposerait de couvrir les risques définis à la branche 10 de l'article R. 321-1, à
+l'exclusion de la responsabilité civile du transporteur, une déclaration d'adhésion au bureau national d'assurance mentionné
+à l'article L. 421-15 et au Fonds national de garantie contre les accidents de circulation ainsi que le nom et l'adresse du
+représentant pour la gestion des sinistres qu'elle désigne sur le territoire français ; 
+
+e) Dans le cas où l'entreprise se proposerait de couvrir les risques définis à la branche 17 de l'article R. 321-1, l'option
+choisie parmi celles énoncées à l'article L. 322-2-3 ; 
+
+f) Un certificat des autorités compétentes de l'Etat d'origine de l'entreprise attestant qu'elle possède bien la marge de
+solvabilité. 
+
+II. L'entreprise peut commencer ses activités sur le territoire français dès que le ministre de l'économie a reçu
+communication des informations visées au I du présent article. 
+
+III. Toute modification envisagée de l'une des informations visées au I du présent article doit être préalablement notifiée
+en langue française au ministre chargé de l'économie et des finances par les autorités compétentes de l'Etat d'origine de
+l'entreprise. 
+
+La modification envisagée peut intervenir dès que l'entreprise a été avisée par les autorités compétentes de son Etat
+d'origine de la notification visée à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1994-08-08 art. 12 JORF 23 août 1994
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-2-3 (V)
+	  - Code des assurances - art. L362-2 (V)
+	  - Code des assurances - art. L421-15 (V)
+	  - Code des assurances - art. R321-1 (V)
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
