@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1993-03-26
+Version Consolidée au 1993-03-28
 
 # Partie législative
 
@@ -16624,19 +16624,9 @@ et ceux qui sont utilisés dans le cadre de l'activité professionnelle du sousc
 
 ###### Article R211-4
 
-L'obligation d'assurance s'applique aux véhicules terrestres à moteur et à leurs remorques ou semi-remorques.
-
-Par remorques ou semi-remorques, au sens du présent article, il faut entendre :
-
-1° Les véhicules terrestres construits en vue d'être attelés à un véhicule terrestre à moteur et destinés au transport de
-personnes ou de choses ;
-
-2° Tout appareil terrestre attelé à un véhicule terrestre à moteur.
-
-Sauf en cas de réticence ou de fausse déclaration intentionnelle, l'adjonction à un véhicule terrestre à moteur de petites
-remorques ou semi-remorques aux caractéristiques définies par arrêté conjoint du ministre chargé de l'économie et du ministre
-chargé des transports constitue, au sens des articles L. 113-4 et L. 113-9, une aggravation du risque couvert par le contrat
-garantissant ce véhicule.
+Les contrats prévus à l'article L. 211-1 doivent spécifier les caractéristiques des remorques dont l'adjonction à un véhicule
+terrestre à moteur ne constitue pas, au sens des articles L. 113-4 et L. 113-9, une aggravation du risque couvert par le
+contrat garantissant ce véhicule.
 
 **Liens relatifs à cet article**
 
@@ -16646,7 +16636,7 @@ garantissant ce véhicule.
 
 	**Modifié par**:
 
-	  - Décret n°86-21 du 7 janvier 1986 - art. 3 () JORF 8 janvier 1986
+	  - Décret n°93-581 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
 
 	**Liens**:
 
@@ -16659,8 +16649,9 @@ garantissant ce véhicule.
 
 	**Cite**:
 
-	  - Code des assurances - art. L113-4 (M)
+	  - Code des assurances - art. L113-4 (V)
 	  - Code des assurances - art. L113-9 (V)
+	  - Code des assurances - art. L211-1 (V)
 
 
 ###### Article R211-5
@@ -16689,12 +16680,8 @@ objets et substances qu'il transporte ;
 
 ###### Article R211-7
 
-L'assurance doit être souscrite pour une somme d'au moins cinq millions de francs par victime de sinistre corporel, et d'au
-moins trois millions de francs par véhicule et par sinistre matériel, sans préjudice des dispositions de l'article L. 211-7.
-
-Par dérogation aux dispositions de l'alinéa précédent, l'assurance doit être souscrite sans limitation de somme en ce qui
-concerne les véhicules pour la conduite desquels est exigée la possession d'un permis entrant dans l'une des catégories C, D
-ou E prévues à l'article R. 124 du code de la route.
+L'assurance doit être souscrite sans limitation de somme en ce qui concerne les dommages corporels et pour une somme d'au
+moins 3 millions de francs par véhicule et par sinistre matériel, sans préjudice des dispositions de l'article L. 211-7.
 
 **Liens relatifs à cet article**
 
@@ -16704,7 +16691,7 @@ ou E prévues à l'article R. 124 du code de la route.
 
 	**Modifié par**:
 
-	  - Décret n°86-21 du 7 janvier 1986 - art. 5 () JORF 8 janvier 1986
+	  - Décret n°93-581 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
 
 	**Cité par**:
 
@@ -16720,7 +16707,6 @@ ou E prévues à l'article R. 124 du code de la route.
 	**Cite**:
 
 	  - Code des assurances - art. L211-7 (V)
-	  - Code de la route R124
 
 
 ###### Article R211-8
@@ -16772,62 +16758,23 @@ personnes transportées, lorsque celle-ci est l'accessoire d'un accident corpore
 
 ##### Section III : Franchises, exclusions de garanties, déchéances et recours de l'assureur.
 
-###### Article R211-9
-
-Nonobstant les dispositions de l'article R. 211-7, et compte tenu de celles de l'article R. 211-13, il peut être stipulé au
-contrat d'assurance que l'assuré conserve à sa charge une partie de l'indemnité due aux tiers lésés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°93-581 du 26 mars 1993 - art. 1 (V) JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Décret n°93-581 du 26 mars 1993 - art. 1 (V)
-	  - Code des assurances - art. A211-2 (Ab)
-	  - Code des assurances - art. R*420-27 (T)
-	  - Code des assurances - art. R211-13 (M)
-	  - Code des assurances - art. R421-27 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*211-7 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 7
-
-
 ###### Article R211-10
 
 Le contrat d'assurance peut, sans qu'il soit contrevenu aux dispositions de l'article L. 211-1 comporter des clauses
-prévoyant une exclusion de garantie dans les cas suivants :
+prévoyant une exclusion de garantie dans les cas suivants : 
 
 1° Lorsque au moment du sinistre, le conducteur n'a pas l'âge requis ou ne possède pas les certificats, en état de validité,
 exigés par la réglementation en vigueur pour la conduite du véhicule, sauf en cas de vol, de violence ou d'utilisation du
-véhicule à l'insu de l'assuré ;
+véhicule à l'insu de l'assuré ; 
 
 2° En ce qui concerne les dommages subis par les personnes transportées, lorsque le transport n'est pas effectué dans les
 conditions suffisantes de sécurité fixées par un arrêté conjoint du ministre de l'économie et des finances, du garde des
-sceaux, ministre de la justice, du ministre de l'intérieur, du ministre de la défense et du ministre chargé des transports.
+sceaux, ministre de la justice, du ministre de l'intérieur, du ministre de la défense et du ministre chargé des transports. 
 
-En outre, le contrat peut comporter des clauses de déchéance non prohibées par la loi, sous réserve qu'elles soient insérées
-aux conditions générales et que la déchéance soit motivée par des faits postérieurs au sinistre.
-
-L'exclusion prévue au 1° du premier alinéa du présent article ne peut être opposée au conducteur détenteur d'un certificat
-déclaré à l'assureur lors de la souscription ou du renouvellement du contrat, lorsque ce certificat est sans validité pour
-des raisons tenant au lieu ou à la durée de résidence de son titulaire ou lorsque les conditions restrictives d'utilisation,
-autres que celles relatives aux catégories de véhicules, portées sur celui-ci n'ont pas été respectées.
+L'exclusion prévue au 1° de l'alinéa précédent ne peut être opposée au conducteur détenteur d'un certificat déclaré à
+l'assureur lors de la souscription ou du renouvellement du contrat, lorsque ce certificat est sans validité pour des raisons
+tenant au lieu ou à la durée de résidence de son titulaire ou lorsque les conditions restrictives d'utilisation, autres que
+celles relatives aux catégories de véhicules, portées sur celui-ci n'ont pas été respectées.
 
 **Liens relatifs à cet article**
 
@@ -16837,7 +16784,7 @@ autres que celles relatives aux catégories de véhicules, portées sur celui-ci
 
 	**Modifié par**:
 
-	  - Décret n°86-21 du 7 janvier 1986 - art. 7 () JORF 8 janvier 1986
+	  - Décret n°93-581 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
 
 	**Liens**:
 
@@ -16851,7 +16798,7 @@ autres que celles relatives aux catégories de véhicules, portées sur celui-ci
 
 	**Cite**:
 
-	  - Code des assurances - art. L211-1 (M)
+	  - Code des assurances - art. L211-1 (V)
 
 
 ###### Article R211-11
@@ -16863,8 +16810,7 @@ l'assuré :
 1° Du fait des dommages causés par le véhicule lorsqu'il transporte des sources de rayonnements ionisants destinés à être
 utilisées hors d'une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre ;
 
-2° Du fait des dommages subis par les personnes transportées à titre onéreux, sauf en ce qui concerne les contrats souscrits
-par des transporteurs de personnes pour les véhicules servant à l'exercice de leur profession ;
+2° paragraphe abrogé.
 
 3° Du fait des dommages causés par le véhicule, lorsqu'il transporte des matières inflammables, explosives, corrosives ou
 comburantes et à l'occasion desquels lesdites matières auraient provoqué ou aggravé le sinistre ; toutefois la non-assurance
@@ -16872,10 +16818,7 @@ ne saurait être invoquée du chef de transports d'huiles, d'essences minérales
 kilogrammes ou 600 litres, y compris l'approvisionnement de carburant liquide ou gazeux nécessaire au moteur ;
 
 4° Du fait des dommages survenus au cours d'épreuves, courses, compétitions ou leurs essais, soumis par la réglementation en
-vigueur à l'autorisation préalable des pouvoirs publics. Toute personne participant à l'une de ces épreuves, courses,
-compétitions ou essais en qualité de concurrent ou d'organisateur n'est réputée avoir satisfait aux prescriptions du présent
-titre que si sa responsabilité est garantie par une assurance, dans les conditions exigées par la réglementation applicable
-en la matière.
+vigueur à l'autorisation préalable des pouvoirs publics.
 
 **Liens relatifs à cet article**
 
@@ -16885,7 +16828,7 @@ en la matière.
 
 	**Modifié par**:
 
-	  - Décret n°83-482 1983-06-09 art. 5 JORF 14 juin 1983
+	  - Décret n°93-581 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
 
 	**Liens**:
 
@@ -16927,19 +16870,17 @@ l'article R. 211-45 et la majoration prévue par l'article L. 211-26, 1er aliné
 
 ###### Article R211-13
 
-Ne sont pas opposables aux victimes ou à leurs ayants droit :
+Ne sont pas opposables aux victimes ou à leurs ayants droit : 
 
-1° La limitation de garantie prévue à l'article R. 211-9 et à l'article R. 212-7, sauf dans le cas où le sinistre n'ayant
-causé que des dégâts matériels, le montant de ceux-ci n'excède pas la somme fixée par arrêté du ministre de l'économie et des
-finances ;
+1° La franchise prévue à l'article L. 121-1 ; 
 
-2° Les déchéances, à l'exception de la suspension régulière de la garantie pour non-paiement de prime ;
+2° Les déchéances, à l'exception de la suspension régulière de la garantie pour non-paiement de prime ; 
 
-3° La réduction de l'indemnité applicable conformément à l'article L. 113-9.
+3° La réduction de l'indemnité applicable conformément à l'article L. 113-9 ; 
 
-4° Les exclusions de garanties prévues aux articles R. 211-10 et R. 211-11.
+4° Les exclusions de garanties prévues aux articles R. 211-10 et R. 211-11. 
 
-Dans les cas susmentionnés, l'assureur procède au paiement de l'indemnité pour le compte du responsable.
+Dans les cas susmentionnés, l'assureur procède au paiement de l'indemnité pour le compte du responsable. 
 
 Il peut exercer contre ce dernier une action en remboursement pour toutes les sommes qu'il a ainsi payées ou mises en réserve
 à sa place.
@@ -16952,19 +16893,17 @@ Il peut exercer contre ce dernier une action en remboursement pour toutes les so
 
 	**Modifié par**:
 
-	  - Décret n°86-21 du 7 janvier 1986 - art. 8 () JORF 8 janvier 1986
+	  - Décret n°93-581 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. A211-2 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
 
 	**Cite**:
 
 	  - Code des assurances - art. L113-9 (V)
-	  - Code des assurances - art. R*211-10 (M)
-	  - Code des assurances - art. R*211-11 (M)
-	  - Code des assurances - art. R212-7 (M)
+	  - Code des assurances - art. L121-1 (V)
+	  - Code des assurances - art. R211-10 (V)
 
 	**Cité par**:
 
@@ -16972,30 +16911,6 @@ Il peut exercer contre ce dernier une action en remboursement pour toutes les so
 	  - Code des assurances - art. R*421-50 (Ab)
 	  - Code des assurances - art. R211-9 (Ab)
 	  - Code des assurances - art. R421-24-1 (V)
-
-
-###### Article R211-13-1
-
-Le contrat peut comporter une clause prévoyant une action en remboursement contre le conducteur responsable du sinistre,
-lorsque la garde ou la conduite a été obtenue contre le gré du propriétaire ou du locataire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°86-21 du 7 janvier 1986 - art. 9 () JORF 8 janvier 1986
-
-	**Abrogé par**:
-
-	  - Décret n°93-581 du 26 mars 1993 - art. 1 (V) JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Décret n°93-581 du 26 mars 1993 - art. 1 (V)
 
 
 ##### Section IV : Contrôle de l'obligation d'assurance.
@@ -18731,24 +18646,17 @@ transmutation de noyaux d'atomes ou de radioactivité, ainsi que des effets de r
 artificielle de particules ;
 
 c) Des dommages causés par les actes de terrorisme ou de sabotage commis dans le cadre d'actions concertées de terrorisme ou
-de sabotage ;
-
-d) Des dommages mentionnés aux articles L. 113-1 (2ème alinéa) et L. 121-8.
+de sabotage.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-541 1964-06-09 art. 3
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des assurances - art. L113-1 (M)
-	  - Code des assurances - art. L121-8 (V)
+	  - Décret n°93-581 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
 
 	**Liens**:
 
@@ -18758,22 +18666,17 @@ d) Des dommages mentionnés aux articles L. 113-1 (2ème alinéa) et L. 121-8.
 
 ###### Article R220-4
 
-L'assurance doit être souscrite sans aucune limitation supérieure de somme en ce qui concerne les dommages corporels et pour
-une somme au moins égale à celle qui est fixée, pour chaque catégorie de moyens de transport, par arrêté conjoint du ministre
-de l'économie et des finances et du ministre chargé des transports en ce qui concerne les dommages matériels.
-
-Le contrat ne peut contenir d'autres clauses de déchéance que celles fondées sur le manquement de l'assuré aux obligations
-postérieures aux sinistres prévues par le contrat.
+L'assurance doit être souscrite sans limitation supérieure de somme en ce qui concerne les dommages corporels.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-541 1964-06-09 art. 4
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°93-581 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
 
 	**Liens**:
 
@@ -18785,46 +18688,13 @@ postérieures aux sinistres prévues par le contrat.
 	  - Code des assurances - art. R220-5 (Ab)
 
 
-###### Article R220-5
-
-Nonobstant les dispositions des articles R. 220-2 et R. 220-4 et compte tenu de celles de l'article R. 220-6, il peut être
-stipulé au contrat d'assurance que l'assuré conserve à sa charge une partie de l'indemnité due aux personnes lésées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-541 1964-06-09 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°93-581 du 26 mars 1993 - art. 1 (V) JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Décret n°93-581 du 26 mars 1993 - art. 1 (V)
-	  - Code des assurances - art. A220-2 (Ab)
-	  - Code des assurances - art. R220-6 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. R220-2 (V)
-	  - Code des assurances - art. R220-4 (M)
-
-
 ###### Article R220-6
 
-Ne sont pas opposables aux victimes ou à leurs ayants droit :
+Ne sont pas opposables aux victimes ou à leurs ayants droit : 
 
-1° La limitation de garantie prévue à l'article R. 220-5 et au deuxième alinéa de l'article R. 220-13, sauf dans le cas où,
-le sinistre n'ayant causé que des dégâts matériels, le montant de ceux-ci n'excède pas la somme fixée par arrêté du ministre
-de l'économie et des finances ;
+1° La franchise prévue à l'article L. 121-1 ; 
 
-2° La réduction de l'indemnité applicable conformément à l'article L. 113-9.
+2° La réduction de l'indemnité applicable conformément à l'article L. 113-9. 
 
 Dans les deux cas mentionnés ci-dessus, l'assureur procède au paiement de l'indemnité pour le compte de l'assuré responsable.
 Il peut exercer contre ce dernier une action en remboursement pour toutes les sommes qu'il a ainsi payées ou mises en réserve
@@ -18832,23 +18702,23 @@ Il peut exercer contre ce dernier une action en remboursement pour toutes les so
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°64-541 1964-06-09 art. 6
-
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°93-581 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
+
 	**Cité par**:
 
 	  - Code des assurances - art. A220-2 (Ab)
+	  - Code des assurances - art. R220-5 (Ab)
 
 	**Cite**:
 
 	  - Code des assurances - art. L113-9 (V)
-	  - Code des assurances - art. R220-13 (Ab)
-	  - Code des assurances - art. R220-5 (Ab)
+	  - Code des assurances - art. L121-1 (V)
 
 
 ###### Article R220-7
@@ -18907,99 +18777,7 @@ Il n'implique qu'une présomption de garantie à la charge de l'assureur.
 	  - Code des assurances - art. A220-4 (V)
 
 
-### Titre III : L'assurance de la responsabilité civile des chasseurs
-
-#### Chapitre unique.
-
-###### Article R*230-1
-
-Comme il est dit à l'article 11 du décret n° 75-544 du 30 juin 1975 :
-
-"Les contrats d'assurance garantissant la responsabilité civile des chasseurs dans les conditions prévues à l'article 366 bis
-III du Code rural doivent, en ce qui concerne ce risque, comporter des garanties et conditions conformes ou au moins
-équivalentes à celles qui sont fixées par arrêté du ministre d'Etat, ministre de l'intérieur, du garde des sceaux, ministre
-de la justice, du ministre de l'économie et des finances et du ministre de la qualité de la vie.
-
-L'attestation prévue à l'article 366 bis III du code rural et dont la forme est fixée par un arrêté du ministre d'Etat,
-ministre de l'intérieur, du garde des sceaux, ministre de la justice, du ministre de l'économie et des finances et du
-ministre de la qualité de la vie, est remise aux assurés, sur demande de leur part, dans un délai de quinze jours à compter
-de la date de la demande.
-
-Le nom de l'entreprise d'assurance, l'adresse de son siège social et le numéro de la police sont mentionnés sur la demande de
-visa et sur le permis de chasser.
-
-En cas de résiliation du contrat d'assurance ou de suspension de la garantie, l'entreprise d'assurance est tenue d'informer
-le préfet du département du domicile de l'assuré ou, à Paris, le préfet de police, quinze jours au moins avant la date à
-laquelle la garantie cessera d'avoir effet.
-
-Dès réception de cette notification, le préfet prend les mesures nécessaires pour le retrait provisoire du permis. Celui-ci
-sera restitué soit après justification, par le demandeur, de la souscription d'un nouveau contrat ou de la cessation de la
-suspension de la garantie, soit après l'expiration de la durée de validation du visa".
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 366 bis
-	  - Décret n°75-544 du 30 juin 1975 - art. 11 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°75-544 du 30 juin 1975 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°93-581 du 26 mars 1993 - art. 1 (V) JORF 28 mars 1993
-
-
 ### Titre IV : L'assurance des travaux de bâtiment.
-
-###### Article R243-1
-
-Les dérogations prévues à l'article L. 243-1 sont accordées :
-
-a) Par arrêté du commissaire de la République du département, après avis du trésorier-payeur général, pour les communes, les
-départements, leurs groupements et leurs établissements publics.
-
-Dans le cas d'un établissement public constitué de plusieurs de ces collectivités, le commissaire de la République compétent
-est celui du département dans lequel ledit établissement a son siège :
-
-b) Par arrêté du commissaire de la République de région, après avis du trésorier-payeur général de région, pour les régions,
-leurs groupements et leurs établissements publics.
-
-Dans le cas d'un établissement public constitué de plusieurs de ces collectivités, le commissaire de la République compétent
-est celui de la région dans laquelle ledit établissement à son siège ;
-
-c) Par arrêté conjoint du ministre des finances et du ministre de tutelle, pris après avis du ministre chargé de la
-construction, pour les autres établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°86-551 1986-03-14 art. 1 JORF 18 mars 1986
-
-	**Abrogé par**:
-
-	  - Décret n°93-581 du 26 mars 1993 - art. 1 (V) JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Code des assurances - art. Annexe I art A243-1 (V)
-	  - Code des assurances - art. R243-3 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L243-1 (M)
-
-	**Anciens textes**:
-
-	  - Code des assurances R241-1 (2ème version)
-
 
 ###### Article R243-2
 
@@ -42144,6 +41922,55 @@ la vie en temps de guerre.
 
 #### Chapitre Ier : L'obligation de s'assurer
 
+##### Section I : Personnes assujetties.
+
+###### Article A211-1
+
+Les collectivités publiques, entreprises ou organismes qui bénéficient, dans les conditions prévues à l'article L. 211-3,
+d'une dérogation à l'obligation d'assurance sont, en cas de dommages causés par un véhicule faisant l'objet de cette
+dérogation, substitués, vis-à-vis des tiers, à toute personne ayant la garde ou la conduite dudit véhicule, même non
+autorisée. Leurs obligations sont celles qui incomberaient à un assureur aux termes des articles R. 211-2 à R. 211-13 et des
+dispositions de la loi n° 85-677 du 5 juillet 1985 et des textes pris pour son application.
+
+L'octroi de la dérogation implique, pour les collectivités publiques, entreprises ou organismes qui l'ont sollicitée, la
+renonciation à tout droit de recours à l'encontre des personnes mentionnées au premier alinéa du présent article, pour le
+remboursement des sommes qu'ils ont payées pour leur compte.
+
+Toutefois, la collectivité publique ou l'organisme bénéficiaire d'une dérogation peut exercer une action en remboursement
+contre le conducteur du véhicule lorsque la garde ou la conduite du véhicule a été obtenue contre le gré de la collectivité
+publique ou l'organisme dérogataire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1959-12-10 art. 1
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1988-04-13 art. 1, art. 2 JORF 20 avril 1988
+	  - Arrêté 1993-03-26 art. 2 JORF 28 mars 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1988-04-13 art. 3 *champ d'application*
+	  - TXT_SOURCE: Code des assurances - art. L211-3 (Ab)
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-07-19 art. 2 3° JORF 21 juillet 2007
+
+	**Cite**:
+
+	  - Loi n°85-677 1985-07-05
+	  - Code des assurances - art. L211-3 (Ab)
+	  - Code des assurances L211-3, R211-2 à R211-13
+
+
 ##### Section II : Etendue de l'obligation d'assurance.
 
 ###### Article A211-1-1
@@ -42189,76 +42016,6 @@ pour l'assureur, à deux mois.
 	**Créé par**:
 
 	  - Arrêté 1983-06-09 art. 2 JORF 14 juin 1983
-
-
-##### Section II : Etendue de l'obligation d'assurance.
-
-###### Article A211-1-3
-
-Les petites remorques ou semi-remorques mentionnées à l'article R. 211-4, troisième alinéa, sont celles dont le poids total
-autorisé en charge n'excède pas 750 kilogrammes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1986-11-13 art. 1, art. 2 JORF 22 novembre 1986
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-26 art. 1 JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Arrêté du 26 mars 1993 - art. 1 (V)
-	  - Arrêté du 2 mai 2017 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*211-4 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*211-4 (M)
-
-
-##### Section III : Franchises, exclusions de garantie et déchéances.
-
-###### Article A211-2
-
-Lorsque le contrat d'assurance comporte une franchise, dans les conditions prévues à l'article R. 211-9, la limitation de
-garantie résultant de cette franchise n'est pas opposable aux victimes d'accidents ou à leurs ayants droit, sauf si, le
-sinistre n'ayant causé que des dégâts matériels, le montant de ceux-ci est égal ou inférieur à 200 F.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1959-02-17 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-26 art. 1 JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Arrêté du 26 mars 1993 - art. 1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*211-13 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. R211-9 (Ab)
 
 
 ##### Section III : Franchises, exclusions de garantie et déchéances.
@@ -42977,95 +42734,20 @@ des contrats souscrits par eux, les dates d'échéance et les montants des prime
 
 #### Chapitre unique.
 
-###### Article A220-1
-
-Les exploitants de chemins de fer funiculaires ou à crémaillère, de téléphériques ou d'autres engins de remontée mécanique
-doivent souscrire, en ce qui concerne les dommages matériels, une assurance d'un montant au moins égal, par sinistre, à :
-
-- 5000 F pour les remonte-pentes ;
-
-- 10000 F pour les téléphériques ne survolant ni des immeubles bâtis, ni des lignes aériennes de transports d'énergie
-électrique, ni des lignes aériennes de télécommunications ou des voies de communication ;
-
-- 1 million de francs pour les autres engins de remontée mécanique mentionnés par l'article L. 220-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1964-08-07 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-26 art. 1 JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Arrêté du 26 mars 1993 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L220-1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R220-4 (M)
-
-
-###### Article A220-2
-
-Lorsque le contrat d'assurance comporte une franchise dans les conditions prévues aux articles R. 220-5 et R. 220-6, la
-limitation de garantie résultant de cette franchise n'est pas opposable aux victimes d'accidents ou à leurs ayants droit,
-sauf si, le sinistre n'ayant causé que des dommages matériels, le montant de ceux-ci est égal ou inférieur à 200 F.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1964-07-23 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-26 art. 1 JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Arrêté du 26 mars 1993 - art. 1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R220-4 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. R220-5 (Ab)
-	  - Code des assurances - art. R220-6 (M)
-
-
 ###### Article A220-3
 
 Les contrats d'assurance mentionnés à l'article R. 220-7 doivent, lorsque les garanties et conditions qu'ils définissent
 n'excèdent pas celles prévues aux articles R. 220-1 à R. 220-6, comporter les clauses annexées au présent article.
 
-(annexe non reproduite, voir au Journal officiel).
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1964-07-23 art. 1
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1993-03-26 art. 2 JORF 28 mars 1993
 
 	**Liens**:
 
@@ -43074,8 +42756,8 @@ n'excèdent pas celles prévues aux articles R. 220-1 à R. 220-6, comporter les
 
 	**Cite**:
 
+	  - Code des assurances - art. R220-1 (V)
 	  - Code des assurances - art. R220-7 (V)
-	  - Code des assurances R220-7, R220-1 à R220-6
 
 
 ###### Article A220-4
@@ -43134,89 +42816,139 @@ compétente.
 	  - TXT_SOURCE: Code des assurances - art. R220-8 (V)
 
 
+###### Article Annexe art. A220-3
+
+<font size="2">Clauses devant être insérées dans les contrats d'assurance souscrits en application de l'article </font>
+  <font size="2">
+  <font size="2">L. 220-1 du code des assurances 
+  <font size="2">instituant une obligation d'assurance pour les exploitants de chemins de fer funiculaires ou à crémaillère,
+de téléphériques ou d'autres engins de remontée mécanique. </font>
+</font></font>
+
+<font size="2"><font size="2">
+
+Art. 1er. Objet du contrat.
+
+- Par le présent contrat et sous réserve des exclusions prévues à l'article 4, l'assuré est garanti contre les conséquences
+pécuniaires de la responsabilité civile qu'il peut encourir du fait de tous dommages corporels ou matériels causés tant aux
+usagers de la ou des installations désignées aux conditions particulières qu'à toute autre personne, à l'occasion de
+l'exploitation de ces installations, et résultant : 
+
+1° d'accident, incendie ou explosion causés tant par les biens définis à l'article 3 que par les accessoires ou produits
+servant à leur exploitation et par les personnes, objets ou substances transportés ou halés ; 
+
+2° de la chute de ces personnes, matériels, accessoires, produits, objets ou substances. 
+
+Art. 2 Montant de la garantie
+
+- Sous déduction, le cas échéant, de la franchise par sinistre prévue aux conditions particulières, la garantie est
+accordée :
+
+- sans limitation de somme en ce qui concerne les dommages corporels ;
+
+- à concurrence du montant indiqué auxdites conditions particulières en ce qui concerne les dommages matériels. 
+
+Art. 3. Définitions. 
+
+1° Assuré : 
+
+a) la personne physique ou morale qui, remplissant les conditions édictées par l'article  
+L. 220-1du code des assurances et titulaire de l'autorisation prévue par les articles 1er du décret n° 61-1404 du 13 décembre
+1961 modifiant l'article 6 du décret du 30 décembre 1953 relatif aux transports publics secondaires et d'intérêt local et 1er
+de l'arrêté du 25 juillet 1963 relatif aux autorisations nécessaires pour la construction et l'exploitation des
+téléphériques, remonte-pentes ou tous autres engins utilisant des câbles porteurs ou tracteurs transportant des voyageurs,
+est désignée aux conditions particulières ; 
+
+b) toute personne participant, sous les ordres et avec l'autorisation de la personne mentionnée au a) ci-dessus, à tout ou
+partie de l'exploitation dont il s'agit dans l'exercice de ses fonctions. 
+
+2° Biens : 
+
+a) les véhicules, cabines, sièges, sellettes et dispositifs de halage qui font partie des moyens de transport énumérés à
+l'article  L. 220-1 du code des assurances ; 
+
+b) les véhicules et engins de secours correspondants ; 
+
+c) les installations destinées à la sustentation, à la traction, à la direction et au freinage des véhicules et engins
+mentionnés aux a) et b) ci-dessus ; 
+
+d) les ascenseurs lorsqu'ils sont l'accessoire des moyens de transport mentionnés au présent article. 
+
+3° Installations (au sens de l'article 2 précité) : 
+
+L'ensemble des biens destinés au transport de voyageurs entre deux points donnés. 
+
+Art. 4. Exclusions.
+
+- Le contrat ne garantit pas : 
+
+a) les dommages causés à l'exploitant ou à ses représentants légaux s'il est une personne morale ; 
+
+b) les dommages causés aux conjoint, ascendants et descendants des personnes mentionnées au a) ci-dessus et dont la
+responsabilité est engagée du fait du sinistre ; 
+
+c) les dommages causés aux préposés, salariés ou non, de l'exploitant ou au personnel des services de contrôle, pendant leur
+service ; 
+
+d) les dommages résultant des effets, directs ou indirects, d'explosion, de dégagement de chaleur, d'irradiation provenant de
+transmutations de noyaux d'atomes ou de la radioactivité, ainsi que des effets de radiations provoquées par l'accélération
+artificielle de particules ; 
+
+e) les dommages causés par des actes de terrorisme ou de sabotage commis dans le cadre d'actions concertées de terrorisme ou
+de sabotage ; 
+
+f) les dommages causés par les moyens de transport autres que ceux mentionnés à l'article  R. 220-1 du code des assurances ; 
+
+g) les dommages occasionnés par une guerre étrangère, une guerre civile, une émeute ou un mouvement populaire ; 
+
+h) en ce qui concerne chaque assuré, les dommages résultant de sa faute intentionnelle ou dolosive ; 
+
+i) les dommages subis par les biens mentionnés au 2° de l'article 3 ainsi que par tous autres biens appartenant à l'assuré
+responsable ou dont celui-ci fait usage. 
+
+Art. 5. Sauvegarde des droits des victimes
+
+- Ne sont pas opposables aux victimes ou à leurs ayants droit : 
+
+1° les franchises ; 
+
+2° les déchéances motivées par un manquement de l'assuré à ses obligations commis postérieurement au sinistre ; 
+
+3° la réduction de l'indemnité prévue par l'article  L. 113-9 du code des assurances dans le cas de déclaration inexacte ou
+incomplète du risque. 
+
+Dans les cas susmentionnés, l'assureur procède au paiement de l'indemnité pour le compte de l'assuré responsable. Il peut
+exercer contre ce dernier une action en remboursement pour toutes les sommes qu'il a ainsi payées ou mises en réserve à sa
+place. 
+
+Art. 6. Attestation d'assurance.
+
+- L'attestation d'assurance prévue par l'article  R. 220-8 du code des assurances est délivrée sans frais au souscripteur
+dans un délai de quinze jours suivant sa demande. toute personne participant, sous les ordres et avec l'autorisation de la
+personne mentionnée au a) ci-dessus, à tout ou partie de l'exploitation dont il s'agit dans l'exercice de ses fonctions.
+
+</font></font>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des assurances - art. L220-1 (V)
+
+
 ### Titre III : L'assurance de la responsabilité civile des chasseurs
 
 #### Chapitre unique.
 
-###### Article A230-1
+###### Article A230-5
 
-Les contrats d'assurance garantissant la responsabilité civile des chasseurs mentionnés à l'article 11 du décret n° 75-544 du
-30 juin 1975 doivent comporter des garanties et conditions conformes ou au moins équivalentes à celles qui sont définies aux
-articles A. 230-2 à A. 230-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1975-06-30 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-26 art. 1 JORF 28 mars 1993
-
-	**Cite**:
-
-	  - Décret n°75-544 du 30 juin 1975 - art. 11 (Ab)
-	  - Code des assurances A230-2 à A230-4
-
-	**Cité par**:
-
-	  - Arrêté du 26 mars 1993 - art. 1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R213-3
-
-
-###### Article A230-2
-
-Les contrats ont pour objet de garantir l'assuré, sans limitation de somme, contre les conséquences pécuniaires de la
-responsabilité civile qu'il peut encourir :
-
-1° En raison des accidents corporels occasionnés par tout acte de chasse ou de destruction d'animaux nuisibles prévue aux
-articles 393 à 395 du code rural ;
-
-2° En raison des accidents corporels occasionnés au cours d'un acte de chasse ou de destruction d'animaux nuisibles par les
-chiens dont l'assuré a la garde.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1975-06-30 art. 2
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-26 art. 1 JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Arrêté du 26 mars 1993 - art. 1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R213-3
-
-	**Cite**:
-
-	  - Code rural 393 à 395
-
-
-###### Article A230-3
-
-Sont exclus de la garantie :
-
-1° Les dommages provenant de la faute intentionnelle ou dolosive de l'assuré ;
-
-2° Les dommages causés aux préposés et salariés de l'assuré pendant leur service.
+L'assureur doit remettre à l'assuré, lors du paiement de la première prime, l'attestation d'assurance prévue à l'article L.
+223-13 du nouveau code rural afférente à la période se terminant le 30 juin suivant. Si le contrat a une durée supérieure à
+une année ou s'il est renouvelable par tacite reconduction, l'assureur doit faire parvenir chaque année à l'assuré, soit sur
+la demande de celui-ci, soit d'office, l'attestation valable pour la période annuelle, commençant le 1er juillet suivant,
+quelle que soit la date d'expiration de la période d'assurance en cours. Les attestations doivent être délivrées sans frais
+et sous une forme telle que l'assuré puisse les remettre aux autorités compétentes sans se déssaisir de ses quittances de
+prime.
 
 **Liens relatifs à cet article**
 
@@ -43226,44 +42958,7 @@ Sont exclus de la garantie :
 
 	**Modifié par**:
 
-	  - Arrêté 1983-06-09 art. 1 JORF 14 juin 1983
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-26 art. 1 JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Arrêté du 26 mars 1993 - art. 1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R213-3
-
-
-###### Article A230-4
-
-Aucune déchéance n'est opposable aux victimes d'accidents ou à leurs ayants droit, l'assureur conservant la faculté de leur
-opposer la suspension régulière de la garantie pour non-paiement de la prime, à condition de l'avoir notifiée au préfet du
-département du domicile de l'assuré, conformément à l'article 366 bis III du code rural.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1975-06-30 art. 4
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1993-03-26 art. 1 JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Arrêté du 26 mars 1993 - art. 1 (V)
+	  - Arrêté 1993-03-26 art. 2 JORF 28 mars 1993
 
 	**Liens**:
 
@@ -43271,53 +42966,23 @@ département du domicile de l'assuré, conformément à l'article 366 bis III du
 
 	**Cite**:
 
-	  - Code rural 366 bis
-
-
-###### Article A230-5
-
-L'assureur doit remettre à l'assuré, lors du paiement de la première prime, l'attestation d'assurance prévue à l'article 366
-bis III du code rural afférente à la période se terminant le 30 juin suivant. Si le contrat a une durée supérieure à une
-année ou s'il est renouvelable par tacite reconduction, l'assureur doit faire parvenir chaque année à l'assuré, soit sur la
-demande de celui-ci, soit d'office, l'attestation valable pour la période annuelle, commençant le 1er juillet suivant, quelle
-que soit la date d'expiration de la période d'assurance en cours. Les attestations doivent être délivrées sans frais et sous
-une forme telle que l'assuré puisse les remettre aux autorités compétentes sans se déssaisir de ses quittances de prime.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1975-06-30 art. 5
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R213-3
-
-	**Cite**:
-
-	  - Code rural 366 bis
+	  - Code rural L223-13
 
 
 ###### Article A230-6
 
-A compter du 1er juillet 1976, l'attestation d'assurance prévue à l'article 366 bis III du code rural doit être conforme au
-modèle annexé au présent article.
-
-(annexe non reproduite, voir au Journal officiel).
+A compter du 1er juillet 1976, l'attestation d'assurance prévue à l'article L. 223-13 du nouveau code rural doit être
+conforme au modèle annexé au présent article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1975-06-30 art. 6
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1993-03-26 art. 2 JORF 28 mars 1993
 
 	**Liens**:
 
@@ -43325,28 +42990,26 @@ modèle annexé au présent article.
 
 	**Cite**:
 
-	  - Code rural 366 bis
+	  - Code rural L223-13
 
 
 ###### Article A230-7
 
 Lorsqu'un étranger non-résident demande une licence de chasse, la période de validité de l'attestation d'assurance prévue à
-l'article 366 bis III du code rural ne peut excéder un délai de quarante-huit heures.
+l'article L. 223-13 du nouveau code rural ne peut excéder un délai de quarante-huit heures.
 
 L'assureur doit remettre à l'étranger non-résident une attestation d'assurance temporaire conforme au modèle annexé au
 présent article.
 
-(annexe non reproduite, voir au Journal officiel).
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1975-06-30 art. 7
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1993-03-26 art. 2 JORF 28 mars 1993
 
 	**Liens**:
 
@@ -43354,7 +43017,61 @@ présent article.
 
 	**Cite**:
 
-	  - Code rural 366 bis
+	  - Code rural L223-13
+
+
+###### Article Annexe art A230-6
+
+(Nom et siège de l'entreprise et mentions obligatoires) 
+
+Attestation d'assurance de responsabilité civile chasse  
+
+L'entreprise d'assurance susnommée...... atteste que M...... demeurant à..... est assuré par elle pour la période du...... au
+30 juin...... en vertu d'un contrat d'assurance n°...... souscrit par...... 
+
+Ce contrat garantit, dans les conditions minimales fixées par l'article  
+L. 223-13 du nouveau code rural, la responsabilité civile encourue par le chasseur sans limitation de somme en raison des
+accidents corporels occasionnés par un acte de chasse ou de destruction d'animaux nuisibles et par les chiens dont il a la
+garde. 
+
+Aucune déchéance n'est opposable aux victimes d'accidents ou à leurs ayants droit. 
+
+Fait à......., le........ 
+
+Pour la société
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural - art. L223-13 (V)
+
+
+###### Article Annexe art A230-7
+
+(Nom et siège de l'entreprise et mentions obligatoires) 
+
+Attestation d'assurance temporaire de responsabilité civile chasse  
+
+L'entreprise d'assurance susnommée...... atteste que M...... demeurant à...... est assuré par elle pour une période de
+quarante-huit heures à compter du......, à....... heure, en vertu d'un contrat d'assurance n°......, souscrit par...... 
+
+Ce contrat garantit, dans les conditions minimales fixées par l'article  
+L. 223-13 du nouveau code rural, la responsabilité civile encourue par le chasseur sans limitation de somme en raison des
+accidents corporels occasionnés par un acte de chasse ou de destruction d'animaux nuisibles et par les chiens dont il a la
+garde. 
+
+Aucune déchéance n'est opposable aux victimes d'accidents ou à leurs ayants droit. 
+
+Fait à......., le...... 
+
+Pour la société
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural - art. L223-13 (V)
 
 
 ### Titre IV : L'assurance des travaux de bâtiment
