@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2002-06-28
+Version Consolidée au 2002-07-11
 
 # Partie législative
 
@@ -30252,6 +30252,14 @@ règles prévues à l'article R. 332-20-1. La provision à constituer est égale
 comporte un tel ajournement, accorder aux entreprises dont la gestion n'est entachée d'aucune faute lourde, le délai
 strictement nécessaire pour constituer cette provision.
 
+Pour le calcul mentionné à l'alinéa précédent, les valeurs déterminées selon l'article R. 332-20-1 prennent en compte les
+moins-values latentes des opérations sur instruments financiers à terme prévues aux articles R. 332-45 à R. 332-47 ayant
+comme sous-jacent les actifs mentionnés à l'article R. 332-20. Ces moins-values latentes sont prises en compte à hauteur de
+la partie excédant la valeur des titres ou espèces donnés en garantie.
+
+Les plus-values latentes ne sont prises en compte que si elles sont garanties dans les conditions prévues à l'article R.
+332-56.
+
 La provision pour frais d'acquisition reportés doit être constituée pour un montant égal au montant des frais d'acquisitions
 reportés en application des dispositions de l'article R. 332-35.
 
@@ -30266,10 +30274,6 @@ reportés en application des dispositions de l'article R. 332-35.
 	  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
 	  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
 
-	**Créé par**:
-
-	  - Décret n°94-481 du 8 juin 1994 - art. 6 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
-
 	**Cité par**:
 
 	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
@@ -30282,11 +30286,17 @@ reportés en application des dispositions de l'article R. 332-35.
 	  - Code des assurances - art. R332-63 (M)
 	  - Code des assurances - art. R342-14 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
+
 	**Cite**:
 
 	  - Code des assurances - art. R*332-20 (M)
 	  - Code des assurances - art. R332-20-1 (M)
 	  - Code des assurances - art. R332-35 (Ab)
+	  - Code des assurances - art. R332-56 (V)
+	  - Code des assurances R332-20, R332-20-1, R332-45 à R332-47, R332-56, R332-35
 
 
 ###### Article R331-5-2
@@ -30954,10 +30964,19 @@ D. - Dispositions communes :
 
 Les intérêts courus des placements énumérés au présent article sont assimilés auxdits placements.
 
+Lorsqu'un instrument financier à terme a été souscrit dans les conditions définies à l'article R. 332-45 et qu'il est lié à
+un titre ou à un groupe de titres de même nature, parmi ceux mentionnés au paragraphe A du présent article, les primes ou
+soultes versées ou reçues pour la mise en place de l'instrument sont assimilées audit titre ou groupe de titres de même
+nature, dans la limite de la part restant à amortir et, pour les primes ou soultes versées au titre d'opérations de gré à
+gré, du montant des garanties reçues dans les conditions de l'article R. 332-56.
+
 Les actifs représentatifs des provisions techniques sont évalués en net des dettes contractées pour l'acquisition de ces
 mêmes actifs.
 
 Les actifs donnés en garantie d'un engagement particulier ne sont pas admissibles en représentation des autres engagements.
+Par exception, les actifs remis en garantie d'opérations de taux sur instruments financiers à terme mentionnées aux articles
+R. 332-45 et R. 332-46 sont admis en représentation à hauteur des plus-values latentes enregistrées sur les actifs visés à
+l'article R. 332-19 auxquels ces instruments financiers à terme sont liés.
 
 **Liens relatifs à cet article**
 
@@ -31060,8 +31079,9 @@ Les actifs donnés en garantie d'un engagement particulier ne sont pas admissibl
 	  - Loi n°88-1201 1988-12-23
 	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
 	  - Code des assurances - art. R*331-1 (M)
+	  - Code des assurances - art. R*332-45 (T)
 	  - Code des assurances - art. R332-1-1 (V)
-	  - Code des assurances R332-1, R332-1-1, R332-3-3 à R332-10, R331-1, R332-14-1, R332-14, R332-15, R332-12, R332-13, R332-16
+	  - Code des assurances R332-1, R332-1-1, R332-3-3 à R332-10, R331-1, R332-14-1, R332-14, R332-15, R332-12, R332-13, R332-16, R332-45, R332-56, R332-46, R332-19
 
 	**Liens**:
 
@@ -31073,15 +31093,15 @@ Les actifs donnés en garantie d'un engagement particulier ne sont pas admissibl
 
 	**Modifié par**:
 
-	  - Décret n°2000-142 du 18 février 2000 - art. 1 () JORF 22 février 2000
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
 
 
 ###### Article R332-3
 
-Rapportée au montant total des engagements réglementés mentionnés à l'article R. 331-1, toutes monnaies confondues, diminuée
-du montant total des actifs mentionnés aux articles R. 332-3-4 à R. 332-10, toutes monnaies confondues, la valeur au bilan de
-chacune des catégories d'actifs énumérées ci-après ne peut excéder, sauf dérogation accordée cas par cas par la commission de
-contrôle des assurances :
+Rapportée à la base de dispersion constituée par la différence entre le montant total des engagements réglementés mentionnés
+à l'article R. 331-1, toutes monnaies confondues, et le montant total des actifs mentionnés aux articles R. 332-3-4 à R.
+332-10, toutes monnaies confondues, la valeur au bilan de chacune des catégories d'actif énumérées ci-après ne peut excéder,
+sauf dérogation accordée cas par cas par la commission de contrôle des assurances :
 
 1° 65 p. 100 pour l'ensemble des valeurs mentionnées du 4° au 8° de l'article R. 332-2 et des prêts mentionnés au troisième
 alinéa du 1° de l'article R. 332-13, dont 5 p. 100 au maximum pour l'ensemble formé par les actions d'entreprises étrangères
@@ -31092,6 +31112,8 @@ l'article R. 332-2 et par les prêts mentionnés ci-dessus ;
 
 3° 10 p. 100 pour l'ensemble des valeurs mentionnées aux 10°, 11° et 12° de l'article R. 332-2 à l'exception des prêts
 mentionnés au 1° du présent article.
+
+4° 0,5 % pour le montant total des primes ou soultes mentionnées au second alinéa du paragraphe D de l'article R. 332-2.
 
 **Liens relatifs à cet article**
 
@@ -31141,7 +31163,7 @@ mentionnés au 1° du présent article.
 
 	**Modifié par**:
 
-	  - Décret n°2000-142 du 18 février 2000 - art. 2 () JORF 22 février 2000
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
 
 	**Liens**:
 
@@ -31152,7 +31174,7 @@ mentionnés au 1° du présent article.
 	  - Code des assurances - art. R*331-1 (M)
 	  - Code des assurances - art. R*332-13 (M)
 	  - Code des assurances - art. R*332-2 (M)
-	  - Code des assurances R331-1, R332-3-4 à R332-10, R332-13, R332-2
+	  - Code des assurances R331-1, R332-3-4 à R332-10, R332-2, R332-13
 
 
 ###### Article R332-3-1
@@ -31925,6 +31947,10 @@ I Les valeurs amortissables énumérées aux 1°, 2°, 2° bis et 2° ter de l'a
 indexées, les parts de fonds communs de créance et les titres participatifs, sont inscrites à leur prix d'achat à la date
 d'acquisition.
 
+Lorsqu'un instrument financier à terme est utilisé dans les conditions définies à l'article R. 332-46 et qu'il est lié à
+l'achat d'un titre ou d'un groupe de titres de même nature, la valeur de réalisation de l'instrument est prise en compte dans
+le prix d'achat de ce titre ou de ce groupe de titres.
+
 Lorsque le prix d'achat de ces titres est supérieur à leur prix de remboursement, la différence est amortie sur la durée de
 vie résiduelle des titres.
 
@@ -31985,7 +32011,11 @@ même indice à la date d'émission du titre.
 
 	**Modifié par**:
 
-	  - Décret n°2000-142 du 18 février 2000 - art. 9 () JORF 22 février 2000
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. R332-46 (M)
 
 
 ###### Article R332-20
@@ -31994,8 +32024,10 @@ A l'exception des valeurs inscrites comme il est dit à l'article R. 332-19, les
 autres placements financiers et immobiliers sont inscrits au bilan sur la base du prix d'achat ou de revient, dans les
 conditions ci-après :
 
-a) Les valeurs mobilières et les parts de fonds communs de placement sont retenues pour leur prix d'achat. Le prix d'achat
-s'entend hors intérêt couru ;
+a) Les valeurs mobilières et les parts de fonds communs de placement sont retenues pour leur prix d'achat. Lorsqu'un
+instrument financier à terme est utilisé dans les conditions définies à l'article R. 332-46 et qu'il est lié à l'achat d'un
+titre ou d'un groupe de titres de même nature, la valeur de réalisation de l'instrument est prise en compte dans le prix
+d'achat de ce titre ou de ce groupe de titres. Le prix d'achat s'entend hors intérêt couru ;
 
 b) Les immeubles et les parts ou actions des sociétés immobilières ou foncières non inscrites à la cote d'une bourse de
 valeurs d'un Etat membre de l'organisation de coopération et de développement économiques sont retenus pour leur prix d'achat
@@ -32028,10 +32060,6 @@ commission de contrôle des assurances, cette renonciation étant alors définit
 	  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
 	  - TXT_SOURCE: Code des assurances - art. A332-5 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. A332-6 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°94-481 du 8 juin 1994 - art. 2 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -32066,9 +32094,14 @@ commission de contrôle des assurances, cette renonciation étant alors définit
 	  - Code des assurances - art. R343-4 (M)
 	  - Code des assurances - art. R344-1 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
+
 	**Cite**:
 
 	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances - art. R332-46 (M)
 
 
 ###### Article R332-20-1
@@ -32250,14 +32283,16 @@ passif.
 
 La commission de contrôle des assurances peut requérir la fixation par une expertise de la valeur de tout ou partie de
 l'actif des entreprises et notamment des immeubles et des parts et actions de sociétés immobilières leur appartenant ou sur
-lesquels elles ont consenti un prêt ou une ouverture de crédit hypothécaire.
+lesquels elles ont consenti un prêt ou une ouverture de crédit hypothécaire, ainsi que des instruments financiers à terme
+utilisés par les entreprises.
 
 Cette expertise peut être également demandée à la commission de contrôle des assurances par les entreprises.
 
-La valeur résultant de l'expertise doit figurer dans l'évaluation de la valeur de réalisation des placements prévue à
-l'article R. 332-20-1. Elle peut également être inscrite à l'actif du bilan dans les limites et les conditions fixées dans
-chaque cas par la commission de contrôle des assurances. Elle constitue alors le nouveau prix d'achat mentionné à l'article
-R. 332-20, la différence entre cette valeur et la valeur comptable antérieure étant constatée en compte de résultat.
+La valeur résultant de l'expertise doit figurer dans l'évaluation de la valeur de réalisation des placements prévue aux
+articles R. 332-20-1 et R. 332-20-2. Elle peut également être inscrite à l'actif du bilan dans les limites et les conditions
+fixées dans chaque cas par la commission de contrôle des assurances. Elle constitue alors le nouveau prix d'achat mentionné à
+l'article R. 332-20, la différence entre cette valeur et la valeur comptable antérieure étant constatée en compte de
+résultat.
 
 Les conditions de l'expertise sont fixées par décret et les frais en sont à la charge des entreprises.
 
@@ -32266,11 +32301,6 @@ Les conditions de l'expertise sont fixées par décret et les frais en sont à l
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°94-481 du 8 juin 1994 - art. 3 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
-	  - Décret n°94-481 du 8 juin 1994 - art. 5 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
 
 	**Cité par**:
 
@@ -32281,6 +32311,14 @@ Les conditions de l'expertise sont fixées par décret et les frais en sont à l
 	  - Code des assurances - art. R332-20 (V)
 	  - Code des assurances - art. R332-20-1 (V)
 	  - Code des assurances - art. R343-2 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. R332-20-2 (M)
 
 	**Liens**:
 
@@ -32856,18 +32894,25 @@ de contrôle des assurances.
 	  - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
 
 
-##### Section VI : Dispositions particulières aux territoires d'outre-mer.
+##### Section VI : Instruments financiers à terme.
 
-###### Article R*332-45
+###### Article R332-45
 
-Les dispositions du présent chapitre sont applicables dans les territoires d'outre-mer et la collectivité territoriale de
-Mayotte.
+Une entreprise d'assurance peut utiliser un instrument financier à terme au sens de l'article L. 211-1 du code monétaire et
+financier, lié à un placement ou à un groupe de placements détenu ou à détenir si sont remplies durant toute l'opération les
+conditions suivantes : 
 
-**Nota:**
+a) Le placement ou le groupe de placements est détenu ou a été acquis à terme avec une échéance antérieure à la date
+d'échéance ou d'exercice de cet instrument ; 
 
-- Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à
-la " collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
-territoriale " est remplacée par la référence à la " collectivité départementale ".
+b) Le placement ou le groupe de placements est identique ou assimilable au sous-jacent de cet intrument, et de montant au
+moins égal au montant notionnel de cet instrument ; 
+
+c) Pour les contrats d'échange, le sous-jacent visé au b est celui que l'entreprise s'engage à échanger ; 
+
+d) L'instrument financier à terme permet, en adéquation avec les engagements de l'entreprise, une gestion efficace et
+prudente du placement ou du groupe de placements détenus, visant à titre principal au maintien de sa valeur ou de son
+rendement.
 
 **Liens relatifs à cet article**
 
@@ -32877,7 +32922,7 @@ territoriale " est remplacée par la référence à la " collectivité départem
 
 	**Créé par**:
 
-	  - Décret n°84-1023 1984-11-14 art. 31 JORF 23 novembre 1984
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
 
 	**Cité par**:
 
@@ -32896,21 +32941,470 @@ territoriale " est remplacée par la référence à la " collectivité départem
 	  - Code des assurances - art. R336-4 (V)
 	  - Code des assurances - art. R343-14 (VD)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
+	  - Code monétaire et financier - art. L211-1 (V)
 
 	**Nouveaux textes**:
 
 	  - Code des assurances - art. R332-59 (T)
 
 
+###### Article R332-46
+
+Une entreprise d'assurance peut utiliser un instrument financier à terme en anticipation de placement si sont remplies durant
+toute l'opération les conditions suivantes :
+
+a) L'entreprise détient ou recevra avant la date d'échéance ou d'exercice de cet instrument un montant de liquidités au moins
+égal au montant notionnel de l'instrument. Lorsque l'instrument financier à terme n'emporte pour l'entreprise aucune
+obligation financière exigible à la date d'exercice ou ultérieurement, les liquidités peuvent être à recevoir de façon
+probable ;
+
+b) L'opération a pour objet de diminuer l'aléa des conditions de placement futur, en adéquation avec les engagements de
+l'entreprise.
+
+Sont assimilées à des liquidités détenues les actions des sociétés d'investissement à capital variable et parts de fonds
+communs de placement mentionnés aux 3° et 8° de l'article R. 332-2 et classés dans la catégorie des OPCVM monétaires, définie
+par la Commission des opérations de bourse.
+
+Lorsque les liquidités sont à recevoir à une échéance supérieure à un an, les créances découlant de l'opération à terme
+doivent être intégralement garanties dans les conditions prévues à l'article R. 332-56.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cité par**:
+
+	  - Code des assurances - art. R332-19 (VT)
+	  - Code des assurances - art. R332-2 (V)
+	  - Code des assurances - art. R332-20 (V)
+	  - Code des assurances - art. R332-48 (V)
+	  - Code des assurances - art. R334-11 (VD)
+	  - Code des assurances - art. R334-3 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R332-56 (V)
+
+
+###### Article R332-47
+
+Une entreprise d'assurance peut utiliser un instrument financier à terme de taux ou de devise lié à une dette financière si
+sont remplies durant toute l'opération les conditions suivantes :
+
+a) L'emprunt contracté ou la dette émise est identique ou assimilable au sous-jacent de cet instrument ;
+
+b) Pour les contrats d'échange, le sous-jacent visé au a est celui que l'entreprise s'engage à échanger ;
+
+c) L'emprunt contracté ou la dette émise par l'entreprise est de montant au moins égal au montant notionnel de cet
+instrument ;
+
+d) L'instrument financier à terme permet une gestion efficace et prudente de cette dette en adéquation avec les placements de
+l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-161 (M)
+	  - Code des assurances - art. R332-48 (V)
+
+
+###### Article R332-48
+
+Sauf dérogation expresse de la commission de contrôle des assurances, une entreprise d'assurance ne peut utiliser
+d'instrument financier à terme que dans les cas prévus par les articles R. 332-45, R. 332-46 et R. 332-47.
+
+Toute opération financière à terme ne respectant plus les conditions fixées à ces articles doit être dénouée dans un délai de
+trois mois, et fait l'objet d'une analyse détaillée dans le rapport prévu à l'article R. 336-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code des assurances - art. R322-161 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-45 (T)
+	  - Code des assurances - art. R332-46 (M)
+	  - Code des assurances - art. R332-47 (V)
+	  - Code des assurances - art. R336-1 (M)
+
+
+###### Article R332-49
+
+Une entreprise d'assurance ne peut procéder à des ventes d'option que dans les cas suivants : 
+
+a) Vendre une option précédemment acquise dans le cadre défini par les articles R. 332-45 à R. 332-48 ; 
+
+b) Vendre une option lorsque l'entreprise d'assurance achète simultanément une option similaire, à la seule différence du
+prix d'exercice ; 
+
+c) Vendre une option d'achat à la condition que le sous-jacent soit un placement déjà détenu, à l'exclusion de tout placement
+à détenir comme de toute anticipation de placement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cité par**:
+
+	  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R332-45 (V)
+
+
+###### Article R332-50
+
+Les modalités d'enregistrement et de comptabilisation des opérations mentionnées aux articles R. 332-45 à R. 332-48 sont
+fixées par règlement du Comité de la réglementation comptable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cite**:
+
+	  - Code des assurances R332-45 à R332-48
+
+
+###### Article R332-51
+
+Sauf dérogation accordée au cas par cas par la Commission de contrôle des assurances, notamment au regard d'une modification
+globale des conditions de marché, la somme des valeurs de réalisation positives de l'ensemble des instruments financiers à
+terme conclus de gré à gré avec l'ensemble des contreparties ne peut excéder 10 % de la base de dispersion définie au premier
+alinéa de l'article R. 332-3.
+
+Les valeurs de réalisation positives peuvent être compensées avec des valeurs de réalisation négatives vis-à-vis d'une même
+contrepartie s'il existe entre les parties à l'opération une convention de compensation bilatérale conforme à l'article R.
+332-56.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cité par**:
+
+	  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-3 (M)
+	  - Code des assurances - art. R332-56 (V)
+
+
+###### Article R332-52
+
+Sauf dérogation accordée au cas par cas par la Commission de contrôle des assurances, le montant des liquidités à recevoir
+qui proviennent d'actifs mentionnés aux 1°, 2°, 2° bis et 2° ter du A de l'article R. 332-2 et qui font l'objet d'opérations
+d'anticipation de placement dans des titres de mêmes nature ne peut excéder 20 % de la base de dispersion définie au premier
+alinéa de l'article R. 332-3.
+
+Dans les cas autres que prévus au premier alinéa, le montant des liquidités à recevoir faisant l'objet d'opérations
+d'anticipation de placement ne peut excéder 5 % de la base de dispersion.
+
+Lorsque l'instrument financier à terme n'emporte pour l'entreprise aucune obligation financière exigible à la date d'exercice
+ou ultérieurement, les limitations du présent article ne s'appliquent pas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances - art. R*332-3 (M)
+
+
+###### Article R332-53
+
+Une entreprise d'assurance ne peut souscrire d'instruments financiers à terme que :
+
+1. Sur les marchés reconnus au sens du dernier alinéa du A de l'article R. 332-2 ;
+
+2. De gré à gré, auprès :
+
+a) Des établissements de crédit et entreprises d'investissement ayant leur siège social sur le territoire de l'un des Etats
+membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen ;
+
+b) Des organismes mentionnés à l'article L. 518-1 du code monétaire et financier ;
+
+c) Des établissements de crédit ou entreprises d'investissement de pays tiers assujettis à des règles prudentielles
+considérées comme équivalentes par la Commission bancaire ;
+
+d) D'entreprises d'assurance, de réassurance ou d'autres organismes, sur accord de la Commission de contrôle des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-1 (M)
+	  - Code des assurances - art. R*332-2 (M)
+
+
+###### Article R332-54
+
+La somme des valeurs de réalisation positives de l'ensemble des contrats conclus avec une même société ou plusieurs sociétés
+appartenant au même groupe au sens de l'article R. 332-13 est prise en compte dans le plafond mentionné au 1° de l'article R.
+332-3-1. 
+
+Les valeurs de réalisation positives peuvent être compensées avec des valeurs de réalisation négatives des instruments
+financiers à terme conclus avec un même organisme, s'il existe entre les parties à l'opération une convention de compensation
+bilatérale conforme à l'article R. 332-56.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. R332-13 (V)
+	  - Code des assurances - art. R332-3-1 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R332-56 (V)
+
+
+###### Article R332-55
+
+La somme des valeurs de réalisation positives des contrats financiers à terme conclus de gré à gré avec une même société ou
+plusieurs sociétés appartenant au même groupe au sens de l'article R. 332-13 ne peut excéder 0,5 % de la base de dispersion
+définie au premier alinéa de l'article R. 332-3. 
+
+Les valeurs de réalisation positives peuvent être compensées avec des valeurs de réalisation négatives des instruments
+financiers à terme conclus avec un même organisme s'il existe entre les parties à l'opération une convention de compensation
+bilatérale conforme à l'article R. 332-56.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. R332-13 (V)
+	  - Code des assurances - art. R332-3 (V)
+	  - Code des assurances - art. R332-56 (V)
+
+
+###### Article R332-56
+
+Les montants prévus aux articles R. 332-54 et R. 332-55 sont calculés net de la valeur des garanties reçues en application
+d'une convention-cadre admissible.
+
+Est admissible une convention-cadre qui remplit l'ensemble des conditions suivantes :
+
+a) Elle respecte les principes généraux d'une convention-cadre de place nationale ou internationale ;
+
+b) Elle prévoit de façon explicite la compensation entre valeurs de réalisation positives et négatives ;
+
+c) Elle prévoit que la garantie prend la forme de remises en pleine propriété, opposables aux tiers sans formalité,
+d'espèces, de valeurs mentionnées au 1° du A de l'article R. 332-2, ou de parts ou d'actions d'organismes de placement
+collectif en valeurs mobilières mentionnés au 3° de cet article dont le portefeuille est exclusivement composé des valeurs
+mentionnées au 1° de cet article ;
+
+d) Elle prévoit que les lois ou règlements régissant la contrepartie, notamment en cas d'insolvabilité, ne font pas obstacle
+à la mise en oeuvre des modalités de résiliation, d'évaluation et de compensation, en application notamment de l'article L.
+431-7 du code monétaire et financier.
+
+La liste des conventions-cadres qui remplissent ces conditions est déterminée par un arrêté du ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L431-7 (M)
+	  - Code des assurances - art. R332-55 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R331-5-1 (VT)
+	  - Code des assurances - art. R332-2 (V)
+	  - Code des assurances - art. R332-46 (V)
+	  - Code des assurances - art. R332-51 (V)
+	  - Code des assurances - art. R332-54 (V)
+	  - Code des assurances - art. R334-11 (VD)
+	  - Code des assurances - art. R334-3 (VD)
+
+
+###### Article R332-57
+
+La Commission de contrôle des assurances peut, pour apprécier les limites fixées à la présente section, prendre en compte les
+instruments financiers utilisés par les organismes :
+
+a) Dans lesquels, d'une part, l'entreprise a investi un montant supérieur à 0,5 % de la base de dispersion définie au premier
+alinéa de l'article R. 332-3 et dans lesquels, d'autre part, le groupe auquel appartient l'entreprise d'assurance dispose de
+plus de 50 % du capital ou des parts ;
+
+b) Ou bien dans lesquels l'entreprise a investi un montant supérieur à 5 % de la base de dispersion.
+
+Les dispositions du présent article s'appliquent notamment aux organismes visés aux 3° et 8° de l'article R. 332-2. Elles ne
+s'appliquent pas aux actifs mis en représentation de contrats d'assurance vie ou de capitalisation, en unités de compte, dont
+l'assureur n'assume pas le risque de placement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances - art. R*332-3 (M)
+
+
+###### Article R332-58
+
+L'entreprise d'assurance utilisant des instruments financiers à terme effectue, au moins une fois par mois, des projections
+concernant la composition de son portefeuille de placements afin de prendre en compte l'impact sur celle-ci de ses opérations
+sur instruments financiers à terme.
+
+Ces projections sont établies pour les échéances d'un mois, trois mois, six mois, un an, et annuellement jusqu'à l'échéance
+maximale des instruments financiers à terme utilisés, en distinguant l'impact des opérations qui n'emportent aucune
+obligation pour l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Cité par**:
+
+	  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
+
+
+##### Section VII : Dispositions particulières aux territoires d'outre-mer.
+
+###### Article R332-59
+
+Les dispositions du présent chapitre sont applicables dans les territoires d'outre-mer et à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
+
+	**Transféré par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. R*332-45 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R332-64 (V)
+
+
 #### Chapitre III : Revenu des placements.
 
-###### Article R333-1
+###### Article R*333-1
 
 En cas de vente de valeurs évaluées conformément à l'article R. 332-19, à l'exception des obligations à taux variable, des
 versements ou des prélèvements sont effectués sur la réserve de capitalisation prévue aux articles R. 331-3 et R. 331-6.
+
+Lorsqu'un instrument financier à terme est utilisé dans les conditions définies à l'article R. 332-45, et qu'il est lié à un
+titre ou un groupe de titres mentionnés à l'alinéa précédent, la valeur de réalisation de cet instrument au dénouement est
+prise en compte dans le prix de vente de ce titre ou de ce groupe de titres.
 
 Le montant de ces versements ou prélèvements, calculé dans les conditions fixées par arrêté du ministre chargé de l'économie
 et des finances, doit être tel que le rendement actuariel des titres soit, après prélèvement ou versement, égal à celui qui
@@ -32924,7 +33418,7 @@ en était attendu lors de l'acquisition de ces mêmes titres.
 
 	**Modifié par**:
 
-	  - Décret n°91-1419 du 28 décembre 1991 - art. 2 () JORF 22 janvier 1992
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
 
 	**Cité par**:
 
@@ -32940,13 +33434,13 @@ en était attendu lors de l'acquisition de ces mêmes titres.
 	  - TXT_SOURCE: Code des assurances - art. A333-3 (V)
 	  - TXT_SOURCE: Code des assurances - art. A333-4 (V)
 	  - TXT_SOURCE: Code des assurances - art. A333-5 (Ab)
-	  - TXT_ASSOCIE: Code des assurances A333-1 à A333-5
 
 	**Cite**:
 
 	  - Code des assurances - art. R*331-3 (M)
 	  - Code des assurances - art. R*331-6 (M)
 	  - Code des assurances - art. R*332-19 (M)
+	  - Code des assurances - art. R*332-45 (T)
 
 
 ###### Article R333-2
@@ -33093,6 +33587,14 @@ sanctions par la commission de contrôle des assurances.
 9. Pour les entreprises adhérentes au fonds de garantie institué par l'article L. 423-1, la réserve pour fonds de garantie
 prévue à l'article R. 423-13, à hauteur de la part de cotisation versée par l'entreprise et non utilisée par le fonds.
 
+10. Sur demande et justification de l'entreprise et avec l'accord de la Commission de contrôle des assurances, les plus-
+values latentes sur les instruments financiers à terme mentionnés aux articles R. 332-45 et R. 332-46, lorsque les opérations
+correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 332-2 ou réalisées de gré
+à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 332-56.
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés au 7 et au
+10.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -33105,7 +33607,7 @@ prévue à l'article R. 423-13, à hauteur de la part de cotisation versée par 
 
 	**Modifié par**:
 
-	  - Décret n°2002-360 du 14 mars 2002 - art. 1 () JORF 17 mars 2002
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
 
 	**Cité par**:
 
@@ -33135,7 +33637,11 @@ prévue à l'article R. 423-13, à hauteur de la part de cotisation versée par 
 	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. L334-1 (M)
 	  - Code des assurances - art. L423-1 (V)
+	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances - art. R*332-45 (T)
 	  - Code des assurances - art. R*334-5 (M)
+	  - Code des assurances - art. R332-46 (M)
+	  - Code des assurances - art. R332-56 (V)
 	  - Code des assurances - art. R423-13 (M)
 
 
@@ -33564,6 +34070,14 @@ sanctions par la commission de contrôle des assurances.
 7. La réserve pour fonds de garantie prévue à l'article R. 423-13, à hauteur de la part de cotisation versée par l'entreprise
 et non utilisée par le fonds.
 
+8. Sur demande et justification de l'entreprise et avec l'accord de la Commission de contrôle des assurances, les plus-values
+latentes sur les instruments financiers à terme mentionnés aux articles R. 332-45 et R. 332-46, dès lors que les opérations
+correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 332-2 ou réalisées de gré
+à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 332-56. 
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés au 5 (b)
+et au 8.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -33576,7 +34090,7 @@ et non utilisée par le fonds.
 
 	**Modifié par**:
 
-	  - Décret n°2002-360 du 14 mars 2002 - art. 1 () JORF 17 mars 2002
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
 
 	**Cité par**:
 
@@ -33610,6 +34124,10 @@ et non utilisée par le fonds.
 
 	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. L334-1 (M)
+	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances - art. R*332-45 (T)
+	  - Code des assurances - art. R332-46 (M)
+	  - Code des assurances - art. R332-56 (V)
 	  - Code des assurances - art. R423-13 (M)
 
 
@@ -33906,7 +34424,7 @@ La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, apr�
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
-a) Les éléments définis aux 1, 2, 3, 4, 6 et 7 de l'article R. 334-11 ;
+a) Les éléments définis aux 6, 7 et 8 de l'article R. 334-11 ;
 
 b) L'élément défini au 5 b de l'article R. 334-11 ;
 
@@ -33915,6 +34433,8 @@ l'article R. 334-19 ;
 
 d) L'élément défini au 5 a de l'article R. 334-11, dans la limite du montant de la fraction vie définie au troisième alinéa
 de l'article R. 334-19.
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -33928,7 +34448,7 @@ de l'article R. 334-19.
 
 	**Modifié par**:
 
-	  - Décret n°2002-360 du 14 mars 2002 - art. 1 () JORF 17 mars 2002
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
 
 	**Cité par**:
 
@@ -34716,6 +35236,151 @@ nécessaires au rétablissement ou au maintien de sa solvabilité.
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+
+
+#### Chapitre VI : Contrôle interne
+
+##### Section I : Dispositions générales
+
+###### Article R336-1
+
+L'entreprise d'assurance est tenue de disposer en permanence d'un contrôle interne de la gestion de ses placements.
+
+Le conseil d'administration ou le conseil de surveillance approuve au moins annuellement les lignes directrices de la
+politique de placement et se prononce notamment sur la qualité des actifs, les opérations sur instruments financiers à terme
+et le choix des intermédiaires financiers.
+
+Un rapport sur la politique de placement lui est soumis au moins annuellement. Il détaille dans ce cadre :
+
+a) Les méthodes utilisées pour assurer la mesure, l'évaluation et le contrôle des placements, en particulier en ce qui
+concerne l'évaluation de la qualité des actifs, le suivi des opérations sur instruments financiers à terme et l'appréciation
+des performances et des marges des intermédiaires financiers utilisés ;
+
+b) Le dispositif interne de contrôle de la gestion des placements : répartition interne des responsabilités au sein du
+personnel, les personnes chargées d'effectuer les transactions ne pouvant être également chargées de leur suivi ; délégations
+de pouvoir ; diffusion de l'information ; procédures internes de contrôle ; audit interne ;
+
+c) La structure des différents portefeuilles de placements, par type et par catégories, ainsi que les résultats obtenus sur
+les placements correspondants.
+
+Ce rapport peut être inclus dans le rapport de solvabilité mentionné à l'article L. 322-2-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 3 () JORF 11 juillet 2002
+
+	**Cité par**:
+
+	  - Arrêté du 13 mars 2006 - art. 2 (V)
+	  - Code des assurances - art. A310-9 (M)
+	  - Code des assurances - art. A332-2 (V)
+	  - Code des assurances - art. A344-6 (Ab)
+	  - Code des assurances - art. R332-48 (M)
+	  - Code des assurances - art. R336-3 (V)
+	  - Code des assurances - art. R341-9 (VD)
+	  - Code des assurances - art. R391-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-2-4 (M)
+
+
+###### Article R336-2
+
+Le rapport sur la politique de placement présente en détail les opérations mentionnées aux articles R. 332-45 à R. 332-48 et
+réalisées au cours de la période écoulée. Il fixe les limites aux risques de marché, de contrepartie et de liquidité encourus
+sur les opérations à venir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 3 () JORF 11 juillet 2002
+
+	**Cité par**:
+
+	  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
+	  - Code des assurances - art. R336-4 (V)
+
+	**Cite**:
+
+	  - Code des assurances R332-45 à R332-48
+
+
+###### Article R336-3
+
+Lorsqu'elle utilise pour la première fois des instruments financiers à terme, l'entreprise d'assurance en informe
+préalablement la Commission de contrôle des assurances, en lui transmettant le rapport sur la politique de placement
+mentionné à l'article R. 336-1 après son approbation par le conseil d'administration ou le conseil de surveillance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-970 2002-07-04 art. 5 (délai pour procéder à l'information)
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 3 () JORF 11 juillet 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 5 (V)
+	  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
+	  - Décret n°2007-243 du 23 février 2007 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R336-1 (M)
+
+
+###### Article R336-4
+
+L'entreprise effectue un suivi permanent des opérations mentionnées aux articles R. 332-45 à R. 332-48. Elle tient à cet
+effet un relevé quotidien des positions prises pour chaque catégorie de placement sous-jacent, échéance par échéance. 
+
+Le système de suivi doit permettre : 
+
+a) Une évaluation sans délai des valeurs de réalisation ; 
+
+b) Le respect à tout moment des limites internes mentionnées à l'article R. 336-2 ; 
+
+c) Le contrôle à tout moment du respect par les gestionnaires de ces limites et des procédures internes nécessaires à
+l'accomplissement des dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2002-970 du 4 juillet 2002 - art. 3 () JORF 11 juillet 2002
+
+	**Cité par**:
+
+	  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
+	  - Décret n°2007-243 du 23 février 2007 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R332-45 (V)
+	  - Code des assurances - art. R336-2 (V)
 
 
 ### Titre IV : Dispositions comptables et statistiques
