@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-11-20
+Version Consolidée au 1985-11-21
 
 # Partie législative
 
@@ -37219,9 +37219,9 @@ cet effet, elle assure, dans les conditions définies par décret en Conseil d'E
 
 a) Les exportateurs et les importateurs pour leurs opérations de commerce extérieur ;
 
-b) Les banques et établissements financiers installés en France pour les prêts ou crédits qu'ils consentent soit à des
-personnes étrangères, physiques ou morales, de droit public ou de droit privé, soit à des banques ou établissements
-financiers étrangers, pour le financement d'opérations d'exportation ou connexes à des exportations ;
+b) Les banques et établissements financiers pour les prêts ou crédits qu'ils consentent soit à des personnes étrangères,
+physiques ou morales, de droit public ou de droit privé, soit à des banques ou établissements financiers étrangers, pour le
+financement d'opérations d'exportation ou connexes à des exportations ;
 
 c) Les entreprises installées en France, pour les investissements à l'étranger connexes à des opérations d'exportation.
 
@@ -37238,13 +37238,13 @@ l'exportateur ou de l'importateur qui sont afférents à des opérations de comm
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°46-1332 1946-06-01 art. 5, art. 7
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-1209 1985-11-20 art. 1 JORF 21 novembre 1985
 
 
 ###### Article R*432-2
@@ -37623,20 +37623,17 @@ Cette comptabilité fait apparaître notamment en un compte distinct l'ensemble 
 compte dit "Compte du Trésor", conformément aux dispositions de la présente section et aux instructions du ministre de
 l'économie et des finances, toutes les opérations prévues à l'article R. 432-13 et aux articles R. 432-15 à R. 432-17, ainsi
 que les versements effectués par l'Etat au titre de la garantie prévue à l'article R. 432-13 et les sommes reversées à l'Etat
-en application de l'article R. 432-18.    Les fonds qui sont provisoirement laissés à la disposition de la compagnie en
-application du deuxième alinéa de l'article R. 432-18 doivent être déposés soit à la banque française du commerce extérieur,
-soit aux chèques postaux, soit, au-delà d'un montant fixé par le ministre de l'économie et des finances, à un compte ouvert
-au nom de la compagnie dans les écritures du Trésor.
+en application de l'article R. 432-18.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-318 1957-03-16 art. 5
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°85-1209 1985-11-20 art. 2 JORF 21 novembre 1985
 
 	**Cite**:
 
@@ -47370,6 +47367,34 @@ commerce extérieur et en application des dispositions de la présente section.
 	  - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
+###### Article A432-2
+
+La garantie peut être accordée :
+
+Aux personnes physiques ou morales françaises ou étrangères pour les opérations d'exportation ou d'importation qu'elles
+réalisent en provenance ou à destination de la France ou des départements ou territoires d'outre-mer ;
+
+Aux banques et établissements français ou étrangers pour les prêts ou crédits qu'ils consentent soit à des personnes
+étrangères physiques ou morales de droit public ou de droit privé, soit à des banques ou établissements financiers étrangers
+pour le financement d'opérations d'exportation ou connexes à des exportations ;
+
+Aux entreprises installées en France pour les investissements à l'étranger connexes à des opérations d'exportation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1985-11-20 art. 1 JORF 21 novembre 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R432-4, R432-47
+
+
 ###### Article A432-3
 
 Les droits résultant de la garantie peuvent être transférés par l'assuré à un tiers, sous réserve de l'autorisation de la
@@ -47549,38 +47574,6 @@ du change, des droits, taxes ou autres charges payables en euros.
 	**Anciens textes**:
 
 	  - Arrêté 1948-04-16 art. 9
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R432-4, R432-47
-
-
-##### Section III : Risques garantis
-
-##### Paragraphe 6 : Dispositions communes.
-
-###### Article A432-2
-
-La garantie peut être accordée :
-
-Aux personnes physiques ou morales françaises ou étrangères pour les opérations d'exportation ou d'importation qu'elles
-réalisent en provenance ou à destination de la France ou des départements ou territoires d'outre-mer ;
-
-Aux banques et établissements français ou étrangers exerçant leur activité en France pour les prêts ou crédits qu'ils
-consentent soit à des personnes étrangères physiques ou morales de droit public ou de droit privé, soit à des banques ou
-établissements financiers étrangers pour le financement d'opérations d'exportation ou connexes à des exportations.
-
-Aux entreprises installées en France pour les investissements à l'étranger connexes à des opérations d'exportation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1948-04-16 art. 2
 
 	**Codifié par**:
 
