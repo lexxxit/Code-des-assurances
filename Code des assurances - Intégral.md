@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1983-12-15
+Version Consolidée au 1984-01-01
 
 # Partie législative
 
@@ -42486,6 +42486,48 @@ mathématiques doivent être créditées. Les calculs sont faits en se plaçant 
 
 #### Chapitre V : Tarifs et frais d'acquisition et de gestion
 
+##### Section I : Tarifs.
+
+##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.
+
+###### Article A335-9-3
+
+En assurance de responsabilité civile automobile, la prime de référence correspondant à un risque déterminé et figurant au
+tarif déposé par l'assureur auprès du ministre de l'économie, des finances et du budget, peut faire l'objet de réductions
+supplémentaires, dans les cas suivants :
+
+Pour les assurés qui se soumettent, conformément aux stipulations du contrat, à des cycles de formation ou de
+perfectionnement à la conduite automobile ;
+
+Pour les assurés qui soumettent, conformément aux stipulations du contrat, leur véhicule à des contrôles techniques ;
+
+Pour les assurés qui répondent à des critères de bonne conduite automobile, distincts de ceux pris en compte pour
+l'application de la clause de réduction-majoration précitée.
+
+La réduction peut être supprimée, dans les deux premiers cas, si l'assuré ne respecte pas son engagement contractuel et, dans
+le dernier cas, s'il est responsable d'un ou plusieurs sinistres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1983-07-22 art. 1 JORF 2 septembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1983-07-22 art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 22 novembre 1991 - art. 4 (V)
+	  - Code des assurances - art. A335-9-2 (V)
+	  - Code des assurances - art. Annexe à l'article A121-1 (V)
+
+
 ##### Section I : Tarifs
 
 ##### Paragraphe 1 : Assurances sur la vie.
@@ -42770,6 +42812,58 @@ est inférieur au taux de ce tarif majoré de 33 p. 100.
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
+
+
+##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.
+
+###### Article A335-9-2
+
+En assurance de responsabilité civile automobile, la prime demandée à l'assuré, c'est-à-dire après application de la clause
+de réduction-majoration prévue à l'article A. 121-1, peut faire l'objet de majorations supplémentaires, dont les montants
+maximaux sont les suivants :
+
+Pour les assurés responsables d'un accident et reconnus en état d'imprégnation alcoolique au moment de l'accident : 150 p.
+100.
+
+Pour les assurés responsables d'un accident ou d'une infraction aux règles de la circulation qui a conduit à la suspension ou
+à l'annulation du permis de conduire :
+
+- suspension de 2 à 6 mois : 50 p. 100 ;
+
+- suspension de plus de 6 mois : 100 p. 100 ;
+
+- annulation ou plusieurs suspensions de plus de deux mois au cours de la même période de référence : 200 p. 100.
+
+Pour les assurés coupables de délit de fuite après accident :
+
+100 p. 100.
+
+Pour les assurés n'ayant pas déclaré à la souscription d'un contrat une ou plusieurs des circonstances aggravables indiquées
+ci-dessus ou n'ayant pas déclaré les sinistres dont ils ont été responsables au cours des trois dernières années précédant la
+souscription du contrat : 100 p. 100.
+
+Pour les assurés responsables de trois sinistres ou plus au cours de la période annuelle de référence : 50 p. 100.
+
+Le cumul de ces majorations ne peut excéder 400 p. 100 de la prime de référence. Chacune de ces majorations est supprimée
+après deux années au plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1983-07-22 art. 1 JORF 2 septembre 1983 en vigueur le 1er janvier 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1983-07-22 art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. A121-1 (M)
 
 
 ##### Section II : Frais d'acquisition et de gestion
