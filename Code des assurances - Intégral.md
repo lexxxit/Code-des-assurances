@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-02-21
+Version Consolidée au 1986-03-16
 
 # Partie législative
 
@@ -33389,23 +33389,22 @@ des finances et du ministre de l'éducation.
 
 #### Chapitre unique
 
-##### Section I : Dispositions applicables aux accidents de la circulation
+##### Section I : Dispositions applicables aux accidents de la circulation survenus en France métropolitaine et dans les départements d'outre-mer
 
-##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages corporels et matériels.
+##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.
 
 ###### Article R*420-1
 
 Sont prises en charge par le fonds de garantie, conformément aux dispositions de la présente section, les indemnités dues aux
-victimes d'accidents de la circulation sur le sol ou à leurs ayants droit à la condition que ces accidents soient survenus en
-France métropolitaine ou dans les départements d'outre-mer.
+victimes d'accidents mentionnés à l'article L. 420-1 ou à leurs ayants droit à la condition que ces accidents soient survenus
+en France métropolitaine ou dans les départements d'outre-mer.
 
-Ne sont pas prises en charge par le fonds de garantie les indemnités dues aux victimes d'accidents causés par des véhicules
-terrestres à moteur ainsi que par les remorques ou semi-remorques de ces véhicules, ayant leur stationnement habituel sur le
-territoire d'un des Etats membres de la Communauté économique européenne autres que la France ou sur le territoire d'un des
-Etats suivants :
-
-Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et Liechtenstein, sauf quand l'indemnisation de ces
-victimes n'incombe pas au bureau central français, pour leur totalité ou en partie.
+Ne sont pas prises en charge par le fonds de garantie les indemnités dues aux victimes d'accidents dans lesquels sont
+impliqués des véhicules terrestres à moteur ainsi que par les remorques ou semi-remorques de ces véhicules, ayant leur
+stationnement habituel sur le territoire d'un des Etats membres de la Communauté économique européenne autres que la France
+ou sur le territoire d'un des Etats suivants : Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et
+Liechtenstein, sauf quand l'indemnisation de ces victimes n'incombe pas au bureau central français, pour leur totalité ou en
+partie.
 
 Le bureau central français est le bureau national d'assurance constitué en France dans les conditions mentionnées au deuxième
 alinéa de l'article R. 211-22.
@@ -33415,31 +33414,40 @@ français.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1987-02-12 art. 1 *pays tiers*
+	  - SPEC_APPLI: Décret n°86-452 1986-03-14 art. 33 *Espagne - Portugal*
+	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
 
 	**Cite**:
 
-	  - Code des assurances R211-22, R420-5 à R420-9
+	  - Code des assurances - art. L420-1 (M)
+	  - Code des assurances L420-1, R211-22, R420-5 à R420-9
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-1 (M)
 
 
-##### Paragraphe 2 : Dispositions applicables à l'indemnisation des dommages corporels.
+##### Paragraphe 2 : Dispositions applicables à l'indemnisation des dommages résultant d'atteintes à la personne.
 
 ###### Article R*420-2
 
 Sont exclus du bénéfice du fonds de garantie :
 
-1° Lorsque les dommages ont été causés par un véhicule terrestre à moteur, les dommages causés au conducteur.
+1° Lorsque les dommages sont nés d'un accident dans lequel est impliqué un véhicule terrestre à moteur, les dommages causés
+au conducteur.
 
 2° Lorsque les dommages ont été causés par un animal ou par une chose autre qu'un véhicule terrestre à moteur.
 
@@ -33451,9 +33459,10 @@ du fait de l'accident ainsi que les représentants légaux de la personne morale
 3° Dans les cas autres que ceux mentionnés aux 1° et 2° ci-dessus, l'auteur de l'accident, son conjoint, ses ascendants et
 descendants.
 
-Lorsque le véhicule, l'animal ou la chose qui ont causé l'accident ont été volés, sont également exclus du bénéfice du fonds
-de garantie les complices du vol et d'une manière générale toutes les personnes transportées dans le véhicule ou sur l'animal
-si elles ne peuvent justifier de leur bonne foi.
+En cas de vol du véhicule impliqué dans l'accident, de vol de l'animal ou de la chose qui a causé l'accident, sont également
+exclus du bénéfice du fonds de garantie les complices du vol et, d'une manière générale, toutes les personnes transportées
+dans le véhicule ou sur l'animal. Cette exclusion n'est applicable que si le fonds de garantie apporte la preuve de la
+connaissance du vol du véhicule ou de l'animal par les personnes transportées.
 
 Toutefois, les personnes désignées au présent article peuvent invoquer la garantie du fonds lorsque l'accident a été causé en
 tout ou partie par la circulation d'un tiers ou d'une chose ou d'un animal appartenant à un tiers ou sous sa garde et dans la
@@ -33467,12 +33476,18 @@ mesure de sa responsabilité.
 
 	**Modifié par**:
 
-	  - Décret n°83-482 1983-06-09 art. 6 JORF 14 juin 1983
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 4 () JORF 16 mars 1986
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-2 (M)
 
 
 ###### Article R*420-3
@@ -33484,11 +33499,11 @@ Dans le cas où l'auteur est connu et sur les déclarations que celui-ci est ten
 obligatoirement si ledit auteur est assuré contre les accidents. Dans l'affirmative, il précise le nom et l'adresse de
 l'entreprise d'assurance ainsi que le numéro de la police.
 
-Toute omission volontaire de déclaration ou fausse déclaration faite de mauvaise foi sera punie d'une amende de 300 F à 600
-F.
+Toute omission volontaire de déclaration ou fausse déclaration faite de mauvaise foi sera punie de l'amende prévue pour les
+contraventions de troisième classe.
 
 Si un ou plusieurs des renseignements prévus au second alinéa sont ignorés de l'auteur de l'accident au moment de
-l'établissement du procès-verbal ou du rapport, cette circonstance est mentionnée ainsi que l'engagement qui doit avoir été
+l'établissement du procès-verbal ou du rapport cette circonstance est mentionnée ainsi que l'engagement qui doit avoir été
 pris par ledit auteur de faire parvenir ces renseignements sous huitaine. Dans ce cas, il est dressé ultérieurement un
 procès-verbal ou rapport complémentaire.
 
@@ -33503,29 +33518,32 @@ transmis au fonds de garantie dans les dix jours de sa date par les autorités d
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-3 (M)
+
 
 ###### Article R*420-4
 
 Lorsqu'un contrat d'assurance a été souscrit pour garantir les conséquences pécuniaires de la responsabilité civile de
-l'auteur d'un accident corporel résultant de la circulation sur le sol, le fonds de garantie ne peut être appelé, sauf
-insolvabilité de l'assureur, à payer l'indemnité allouée à la victime ou à ses ayants droit qu'en cas de nullité du contrat,
-de suspension du contrat ou de la garantie de non-assurance ou d'assurance partielle, opposables à la victime ou à ses ayants
-droit.
+l'auteur de dommages résultant d'atteintes aux personnes nés d'un accident mentionné à l'article L. 420-1, le fonds de
+garantie ne peut être appelé, sauf insolvabilité de l'assureur, à payer l'indemnité allouée à la victime ou à ses ayants
+droit qu'en cas de nullité du contrat, de suspension du contrat ou de la garantie de non-assurance ou d'assurance partielle,
+opposables à la victime ou à ses ayants droit.
 
 Dans le cas où, par suite de l'insuffisance du montant de la garantie stipulée au contrat, une part de l'indemnité due à la
-victime ou à ses ayants droit pour les dommages résultant de l'accident corporel reste à la charge du responsable et si
-celui-ci n'accepte pas de se libérer en même temps que son assureur de la part d'indemnité restant à sa charge, ce dernier
-lui envoie au nom de la victime ou de ses ayants droit la mise en demeure mentionnée au dernier alinéa de l'article R.
-420-13. Si cette mise en demeure n'a pas été suivie d'effet à l'expiration d'un délai d'un mois, l'assureur, après avoir
-recueilli, en cas de règlement transactionnel, l'accord du fonds de garantie, verse pour le compte de ce dernier le reliquat
-de l'indemnité et l'avise de ce versement.
+victime ou à ses ayants droit pour les dommages ci-dessus mentionnés reste à la charge du responsable, l'assureur de ce
+dernier, après avoir recueilli en cas de règlement transactionnel l'accord du fonds de garantie, verse pour le compte de ce
+dernier le reliquat de l'indemnité et l'avise de ce versement.
 
 **Liens relatifs à cet article**
 
@@ -33535,7 +33553,13 @@ de l'indemnité et l'avise de ce versement.
 
 	**Modifié par**:
 
-	  - Décret n°85-864 1985-08-02 art. 4 JORF 15 août 1985
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 6 () JORF 16 mars 1986
+
+	**Cite**:
+
+	  - Code des assurances - art. L420-1 (M)
 
 	**Liens**:
 
@@ -33543,9 +33567,9 @@ de l'indemnité et l'avise de ce versement.
 	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code des assurances R420-13
+	  - Code des assurances - art. R421-4 (M)
 
 
 ###### Article R*420-5
@@ -33553,8 +33577,8 @@ de l'indemnité et l'avise de ce versement.
 Lorsque l'assureur entend invoquer la nullité du contrat d'assurance, sa suspension ou la suspension de la garantie, une non-
 assurance ou une assurance partielle opposables à la victime ou à ses ayants droit, il doit, par lettre recommandée avec
 demande d'avis de réception, le déclarer au fonds de garantie et joindre à sa déclaration les pièces justificatives de son
-exception ; il doit en aviser en même temps et dans les mêmes formes la victime ou ses ayants droit en précisant le numéro de
-la police.
+exception ; il doit en aviser en même temps et dans les mêmes formes la victime ou ses ayants droit en précisant le numéro du
+contrat.
 
 Si l'assureur entend contester l'existence du contrat d'assurance, nonobstant la présentation par le responsable de
 l'accident du document justificatif mentionné à l'article R. 211-15, il doit, d'une part, le déclarer sans délai au fonds de
@@ -33569,7 +33593,9 @@ formes la victime ou ses ayants droit.
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 7 () JORF 16 mars 1986
 
 	**Liens**:
 
@@ -33581,13 +33607,18 @@ formes la victime ou ses ayants droit.
 
 	  - Code des assurances - art. R211-15 (M)
 
+	**Nouveaux textes**:
 
-###### Article R*420-9
+	  - Code des assurances - art. R421-5 (M)
 
-Si la demande d'indemnité a été portée devant une juridiction civile dans les conditions prévues à l'article R. 420-7, la
-victime ou ses ayants droit peuvent, lorsque sont remplies les conditions mentionnées au 1° de l'article R. 420-8, demander à
-l'assureur le paiement des sommes qui leur ont été allouées en application des articles 515, 771 et 808 à 811 du nouveau code
-de procédure civile, et qui leur seraient versées par le fonds de garantie si le règlement était effectué par ce dernier.
+
+###### Article R*420-6
+
+Si le fonds de garantie entend contester le bien-fondé d'une des exceptions mentionnées à l'article R. 420-5, invoquée par
+l'assureur, ou s'il n'est pas en mesure de prendre une décision définitive à ce sujet, il doit, dans un délai de trois mois à
+compter de la réception de la déclaration, en aviser l'assureur ainsi que la victime ou ses ayants droits. Il leur donne
+également son avis sur la recevabilité à son encontre d'une demande d'indemnisation de la victime ou de ses ayants droit pour
+le cas où l'exception invoquée par l'assureur serait reconnue fondée.
 
 **Liens relatifs à cet article**
 
@@ -33598,6 +33629,137 @@ de procédure civile, et qui leur seraient versées par le fonds de garantie si 
 	**Modifié par**:
 
 	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L420-1 (M)
+	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-6 (M)
+
+	**Cite**:
+
+	  - Code des assurances R420-5
+
+
+###### Article R*420-7
+
+Lorsque, dans l'hypothèse prévue à l'article R. 420-6, la demande d'indemnité est portée devant une juridiction autre qu'une
+juridiction répressive, la victime ou ses ayants droit doivent, en cas d'action dirigée soit contre l'assureur, soit contre
+le responsable, mettre en cause, suivant le cas, le responsable ou l'assureur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L420-1 (M)
+	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-7 (M)
+
+	**Cite**:
+
+	  - Code des assurances R420-6
+
+
+###### Article R*420-8
+
+Si la demande d'indemnité a été portée devant une juridiction répressive ou si une transaction approuvée par le fonds de
+garantie est intervenue avec le responsable de l'accident, la victime ou ses ayants droit peuvent demander à l'assureur le
+paiement des sommes qui leur seraient versées par le fonds si le règlement était effectué par ce dernier, à la condition de
+justifier :
+
+1° Que le fonds de garantie leur a fait connaître, conformément à l'article R. 420-6 :
+
+a) Qu'il conteste le bien-fondé de l'exception invoquée par l'assureur ou qu'il n'est pas en mesure de prendre une décision
+définitive à ce sujet ;
+
+b) Qu'en l'absence de garantie de l'assureur ils seraient admis à bénéficier de la garantie dudit fonds.
+
+2° Que le montant de l'indemnité a été fixé par une décision de justice exécutoire opposable au fonds ou par une transaction
+approuvée par lui.
+
+L'assureur est alors tenu de procéder au paiement des sommes susmentionnées pour le compte de qui il appartiendra. S'il
+n'exécute pas cette obligation, il peut y être contraint par une ordonnance rendue par le juge des référés à la requête de la
+victime ou de ses ayants droit.
+
+Lorsque le bien-fondé de l'exception par lui opposée est reconnu soit par accord avec le fonds de garantie, soit
+judiciairement par une décision définitive opposable à cet organisme, cet assureur peut réclamer au fonds de garantie le
+remboursement des sommes qu'il a payées pour le compte de celui-ci après établissement de l'insolvabilité totale ou partielle
+du responsable dans les conditions prévues à l'article R. 420-13.
+
+En cas d'instance judiciaire, pour rendre opposable au fonds de garantie la décision à intervenir, l'assureur doit lui
+adresser une copie de l'acte introductif d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-8 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Cite**:
+
+	  - Code des assurances R420-6, R420-13
+
+
+###### Article R*420-9
+
+Si la demande d'indemnité a été portée devant une juridiction civile dans les conditions prévues à l'article R. 420-7, la
+victime ou ses ayants droit peuvent, lorsque sont remplies les conditions mentionnées au 1° de l'article R. 420-8, demander à
+l'assureur le paiement des sommes qui leur ont été allouées en application des articles 515, 771 et 808 à 811 du nouveau code
+de procédure civile, et qui leur seraient versées par le fonds de garantie si le règlement était effectué par ce dernier.
+
+L'assureur est alors tenu de procéder au paiement des sommes susmentionnées pour le compte de qui il appartiendra. S'il
+n'exécute pas cette obligation, il peut y être contraint par une ordonnance rendue par le juge des référés à la requête de la
+victime ou de ses ayants droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-482 1983-06-09 art. 7 JORF 14 juin 1983
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-9 (M)
 
 	**Liens**:
 
@@ -33609,11 +33771,10 @@ de procédure civile, et qui leur seraient versées par le fonds de garantie si 
 	  - Nouveau code de procédure civile 515, 771, 808 à 811
 
 
-###### Article R*420-11
+###### Article R*420-10
 
-Toute transaction ayant pour objet de fixer ou de régler les indemnités dues par les responsables non assurés d'accidents
-corporels résultant de la circulation sur le sol doit être notifiée au fonds de garantie par le débiteur de l'indemnité dans
-un délai d'un mois par lettre recommandée avec demande d'avis de réception, sous peine d'une amende de 300 F à 600 F.
+Le règlement intérieur mentionné à l'article R. 420-25 précise les obligations des entreprises d'assurance pour l'application
+des articles R. 420-4 à R. 420-9.
 
 **Liens relatifs à cet article**
 
@@ -33624,6 +33785,41 @@ un délai d'un mois par lettre recommandée avec demande d'avis de réception, s
 	**Modifié par**:
 
 	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-10 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Cite**:
+
+	  - Code des assurances R420-25, R420-4 à R420-9
+
+
+###### Article R*420-11
+
+Toute transaction ayant pour objet de fixer ou de régler les indemnités dues par les responsables non assurés de dommages
+résultant des atteintes à la personne nés d'un accident mentionné à l'article L. 420-1 doit être notifiée au fonds de
+garantie par le débiteur de l'indemnité dans un délai d'un mois par lettre recommandée avec demande d'avis de réception, sous
+peine de l'amende prévue pour les contraventions de troisième classe [*sanctions*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 8 () JORF 16 mars 1986
 
 	**Liens**:
 
@@ -33631,17 +33827,25 @@ un délai d'un mois par lettre recommandée avec demande d'avis de réception, s
 	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
+	**Cite**:
+
+	  - Code des assurances - art. L420-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-11 (M)
+
 
 ###### Article R*420-12
 
 Lorsque le responsable des dommages est inconnu, la demande des victimes ou de leurs ayants droit tendant à la réparation des
-dommages qui leur ont été causés doit être adressée au fonds de garantie dans le délai d'un an à compter de l'accident.
+dommages qui leur ont été causés doit être adressée au fonds de garantie dans le délai de trois ans à compter de l'accident.
 
-Lorsque le responsable des dommages est connu, la demande d'indemnité doit être adressée au fonds de garantie dans le même
-délai d'un an à compter soit de la date de la transaction, soit de la date de la décision de justice passée en force de chose
+Lorsque le responsable des dommages est connu, la demande d'indemnité doit être adressée au fonds de garantie dans le délai
+d'un an à compter soit de la date de la transaction, soit de la date de la décision de justice passée en force de chose
 jugée.
 
-En outre, les victimes ou leurs ayants droit doivent, dans le délai de trois ans à compter de l'accident :
+En outre, les victimes ou leurs ayants droit doivent, dans le délai de cinq ans à compter de l'accident :
 
 a) Si le responsable est inconnu, avoir réalisé un accord avec le fonds de garantie ou exercé contre celui-ci l'action prévue
 à l'article R. 420-14 ;
@@ -33666,13 +33870,19 @@ l'impossibilité d'agir avant l'expiration desdits délais.
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 9 () JORF 16 mars 1986
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
 	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-12 (M)
 
 	**Cite**:
 
@@ -33684,25 +33894,72 @@ l'impossibilité d'agir avant l'expiration desdits délais.
 Les victimes d'accidents ou leurs ayants droit doivent adresser au fonds de garantie leurs demandes d'indemnité par lettre
 recommandée avec demande d'avis de réception. A l'appui de leur demande, ils sont tenus de justifier :
 
-1° Soit qu'ils sont français, soit qu'ils ont leur résidence principale sur le territoire de la République française ;
+1° Soit qu'ils sont français ;
+
+- Soit qu'ils ont leur résidence principale sur le territoire de la République française ;
 
 Soit qu'ils sont ressortissants d'un Etat ayant conclu avec la France un accord de réciprocité et qu'ils remplissent les
 conditions fixées par cet accord ;
 
-Soit enfin, pour les accidents causés par l'emploi des véhicules définis à l'article R. 420-1, 2e alinéa, qu'ils sont
-ressortissants d'un Etat membre de la Communauté économique européenne autre que la France, du Saint-Siège, de Saint-Marin ou
-de Monaco, ou qu'ils ont leur résidence principale dans un de ces Etats.
+Soit enfin, pour les accidents dans lesquels sont impliqués des véhicules définis à l'article R. 420-1, 2e alinéa, qu'ils
+sont ressortissants d'un Etat membre de la Communauté économique européenne autre que la France, du Saint-Siège, de Saint-
+Marin ou de Monaco, ou qu'ils ont leur résidence principale dans un de ces Etats.
 
 2° Que l'accident ouvre droit à réparation à leur profit dans les termes de la législation française sur la responsabilité
 civile et qu'il ne peut donner droit à indemnisation complète à aucun titre. Si la victime ou ses ayants droit peuvent
-prétendre à une indemnisation partielle à un autre titre, le fonds de garantie ne prend en charge que le complément.
+prétendre à une indemnisation partielle à un autre titre, le fonds de garantie ne prend en charge que le complément. Pour
+permettre de déterminer le préjudice complémentaire de la victime ou de ses ayants droit, les tiers payeurs, définis par la
+loi n° 85-677 du 5 juillet 1985, doivent faire connaître au fonds de garantie le montant des versements effectués au profit
+de ceux-ci, au plus tard dans un délai de quatre mois à compter de la demande émanant du fonds.
 
 Les réclamants doivent également justifier soit que le responsable de l'accident n'a pu être identifié, soit qu'il s'est
 révélé, ainsi qu'éventuellement son assureur, totalement ou partiellement insolvable après la fixation de l'indemnité par une
 transaction ou une décision de justice exécutoire.
 
-L'insolvabilité du responsable de l'accident sera établie par une mise en demeure restée sans effet pendant un mois. Celle de
-l'assureur résulte du retrait de l'agrément administratif.
+L'insolvabilité de l'assureur résulte du retrait de l'agrément administratif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°85-677 1985-07-05
+	  - Code des assurances R420-1
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-13 (M)
+
+
+###### Article R*420-14
+
+Les demandes d'indemnités doivent obligatoirement être accompagnées d'une expédition de la décision de justice intervenue ou
+d'une copie certifiée conforme de l'acte portant règlement transactionnel pour la fixation définitive de l'indemnité.
+
+A défaut d'accord du fonds de garantie avec la victime ou ses ayants droit soit sur la transaction intervenue, soit sur la
+fixation de l'indemnité lorsque le responsable des dommages est inconnu ou lorsque la décision de justice invoquée est
+inopposable au fonds de garantie, soit sur l'existence des diverses conditions d'ouverture du droit à l'indemnité, la victime
+ou ses ayants droit saisissent, suivant le taux de la demande, le tribunal d'instance ou le tribunal de grande instance. Le
+litige peut être porté devant la juridiction du lieu où l'accident s'est produit.
+
+En dehors de ces cas mentionnés à l'alinéa précédent et des contestations auxquelles peut donner lieu l'application des
+dispositions du dernier alinéa de l'article R. 420-15, le fonds de garantie ne peut être cité en justice par la victime ou
+ses ayants droit, notamment en déclaration de jugement commun pour l'application de l'article L. 420-1.
 
 **Liens relatifs à cet article**
 
@@ -33712,7 +33969,9 @@ l'assureur résulte du retrait de l'agrément administratif.
 
 	**Modifié par**:
 
-	  - Décret n°83-482 1983-06-09 art. 8 JORF 14 juin 1983
+	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
 
 	**Liens**:
 
@@ -33722,7 +33981,12 @@ l'assureur résulte du retrait de l'agrément administratif.
 
 	**Cite**:
 
-	  - Code des assurances R420-1
+	  - Code des assurances - art. L420-1 (M)
+	  - Code des assurances L420-1, R420-15
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-14 (M)
 
 
 ###### Article R*420-15
@@ -33741,13 +34005,13 @@ n'est pas établi que la responsabilité civile est couverte par une assurance.
 Tout acte introductif d'instance, dont une copie doit être adressée au fonds de garantie en application de l'alinéa
 précédent, doit contenir les précisions suivantes : date et lieu de l'accident, nature du véhicule ou agent ou instrument du
 dommage, autorité ayant dressé le procès-verbal ou le rapport mentionné à l'article R. 420-3, montant de la demande en ce qui
-concerne la répartition des dommages résultant de l'accident corporel ou, à défaut, nature et gravité de ces dommages. Il
+concerne la réparation des dommages résultant d'atteintes à la personne ou, à défaut, nature et gravité de ces dommages. Il
 doit, en outre, mentionner d'après les indications contenues dans le procès-verbal ou le rapport précité ou celles
 recueillies ultérieurement, notamment celles fournies par l'assureur en application du premier alinéa de l'article R. 420-5 :
 
 Soit que la responsabilité civile du défendeur n'est pas couverte par un contrat d'assurance ;
 
-Soit que l'assureur, dont les nom et adresse doivent être précisés ainsi que le numéro de la police, entend contester sa
+Soit que l'assureur, dont les nom et adresse doivent être précisés ainsi que le numéro du contrat, entend contester sa
 garantie ou invoquer la limitation de celle-ci ;
 
 Soit que le demandeur ne possède aucun des deux renseignements ci-dessus, les éléments lui permettant de douter de
@@ -33773,13 +34037,19 @@ demandeur contre le fonds de garantie.
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 11 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
 	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-15 (M)
 
 	**Cite**:
 
@@ -33788,15 +34058,58 @@ demandeur contre le fonds de garantie.
 
 ###### Article R*420-16
 
-Sans préjudice de l'exercice de l'action résultant de la subrogation légale du fonds de garantie dans les droits que possède
-le créancier de l'indemnité contre l'auteur de l'accident ou l'assureur, le fonds de garantie a le droit de réclamer
-également au débiteur de l'indemnité, d'une part, des intérêts qui sont calculés au taux légal et courent depuis la date du
-paiement des indemnités jusqu'à la date de remboursement de celles-ci, d'autre part, une allocation forfaitaire qui est
-destinée à couvrir les frais de recouvrement et dont le montant est fixé sur les bases que détermine un décret pris sur la
-proposition du ministre du budget.
+Sans préjudice de l'exercice résultant de la subrogation légale du fonds de garantie dans les droits que possède le créancier
+de l'indemnité contre l'auteur de l'accident ou l'assureur, le fonds de garantie a le droit de réclamer également au débiteur
+de l'indemnité : d'une part, des intérêts qui sont calculés au taux légal depuis la date du paiement des indemnités lorsque
+celles-ci ont été fixées judiciairement, ou depuis la mise en demeure adressée par le fonds de garantie lorsque les
+indemnités ont été fixées par une transaction ; d'autre part, une allocation forfaitaire qui est destinée à couvrir les frais
+de recouvrement et dont le montant est fixé sur les bases que détermine un décret pris sur proposition du ministre du budget.
 
 Le cas échéant, le fonds de garantie recouvre également sur le débiteur de l'indemnité la contribution mentionnée au 2° de
 l'article R. 420-27.
+
+Lorsque l'auteur des dommages entend user du droit de contestation prévu par l'article L. 420-3, il doit porter son action
+devant le tribunal compétent dans un délai de trois mois à compter de la mise en demeure de remboursement adressée par le
+fonds de garantie.
+
+La mise en demeure prévue aux alinéas ci-dessus résulte de l'envoi par le fonds d'une lettre recommandée avec demande d'avis
+de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 12 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+
+	**Cite**:
+
+	  - Code des assurances - art. L420-3 (M)
+	  - Code des assurances L420-3, R420-27
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-16 (M)
+
+
+###### Article R*420-17
+
+Sont interdites les conventions par lesquelles des intermédiaires se chargeraient, moyennant émoluments convenus au
+préalable, de faire obtenir aux victimes d'accidents corporels ou à leurs ayants droit une indemnisation du fonds de
+garantie.
+
+Au cas d'inobservation de cette prohibition, il sera fait, s'il échet, application des dispositions de la loi du 3 avril 1942
+proscrivant les pactes sur le règlement des indemnités dues aux victimes d'accidents dans les conditions prévues par la loi.
 
 **Liens relatifs à cet article**
 
@@ -33807,31 +34120,42 @@ l'article R. 420-27.
 	**Modifié par**:
 
 	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-17 (M)
+
 	**Cite**:
 
-	  - Code des assurances R420-27
+	  - Loi n°1942-04-03
 
 
-##### Paragraphe 3 : Dispositions applicables à l'indemnisation des dommages matériels.
+##### Paragraphe 3 : Dispositions applicables à l'indemnisation des dommages aux biens.
 
 ###### Article R*420-18
 
-1. Les dommages matériels que le fonds de garantie prend en charge par application de l'article L. 420-1 du code sont
-uniquement ceux qui sont causés accidentellement par un ou plusieurs véhicules terrestres à moteur ainsi que par les
-remorques ou semi-remorques de ces véhicules.
+Les dommages aux biens pris en charge par le fonds de garantie en application du 2e alinéa de l'article R. 420-1 sont tous
+ceux qui résultent d'un accident dans lequel est impliqué un véhicule terrestre à moteur en circulation, ainsi que ses
+remorques et semi-remorques, lorsque l'auteur des dommages est identifié.
 
-Sont exclus du bénéfice du fonds de garantie les dommages subis par le véhicule qui a causé l'accident ainsi que les dommages
-aux biens du conducteur.
+Sont, dans ce cas, exclus du bénéfice du fonds de garantie les dommages subis par le véhicule impliqué dans l'accident ainsi
+que les dommages aux biens du conducteur de ce même véhicule.
 
-Lorsque le véhicule qui a causé l'accident a été volé, sont également exclus du bénéfice du fonds de garantie les complices
-du vol et d'une manière générale toutes les personnes transportées dans le véhicule si elles ne peuvent justifier de leur
-bonne foi.
+Lorsque le véhicule impliqué dans l'accident a été volé, sont exclus du bénéfice du fonds de garantie les complices du vol
+et, d'une manière générale, toutes les personnes transportées dans le véhicule. Cette exclusion n'est applicable que si le
+fonds de garantie apporte la preuve de la connaissance du vol par les personnes transportées.
+
+Lorsque l'auteur des dommages demeure inconnu, le fonds prend également en charge tous les dommages aux biens à condition que
+le conducteur du véhicule accidenté, ou toute autre personne, ait été victime d'une atteinte à sa personne ayant entraîné son
+décès, ou une hospitalisation d'au moins sept jours suivie d'une incapacité temporaire égale ou supérieure à un mois, ou une
+incapacité permanente partielle d'au moins 10 p. 100.
 
 Toutefois, les personnes désignées au présent article peuvent invoquer la garantie du fonds lorsque l'accident a été causé
 par un autre véhicule terrestre à moteur, dans la mesure de la responsabilité de celui qui a la garde de ce véhicule.
@@ -33845,7 +34169,7 @@ droit en précisant le numéro de la police.
 
 2. Les dispositions des articles R. 420-13 à R. 420-16 sont applicables à l'indemnisation des dommages matériels.
 
-3. Le fonds de garantie ne prend pas en charge les dommages matériels subis par l'Etat et par les collectivités publiques,
+3. Le fonds de garantie ne prend pas en charge des dommages matériels subis par l'Etat et par les collectivités publiques,
 entreprises et organismes bénéficiaires d'une dérogation à l'obligation d'assurance accordée en application de l'article L.
 211-3.
 
@@ -33857,28 +34181,33 @@ entreprises et organismes bénéficiaires d'une dérogation à l'obligation d'as
 
 	**Modifié par**:
 
-	  - Décret n°83-482 1983-06-09 art. 9 JORF 14 juin 1983
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 13 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 14 () JORF 16 mars 1986
 
 	**Cite**:
 
 	  - Code des assurances - art. L211-3 (Ab)
-	  - Code des assurances - art. L420-1 (M)
-	  - Code des assurances L420-1, R420-13 à R420-16, L211-3
+	  - Code des assurances R420-1, R420-13 à R420-16, L211-3
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-18 (M)
+
 
 ###### Article R*420-19
 
-L'indemnisation des dommages matériels par le fonds de garantie supporte un abattement de 1.500 F par victime et ne peut
-excéder la somme de 3 millions de francs par événement.
+L'indemnisation des dommages aux biens par le fonds de garantie supporte un abattement de 2.000 F par victime et ne peut
+excéder la somme de trois millions de francs par événement.
 
 Les espèces, valeurs mobilières et objets considérés comme précieux ne donnent pas lieu à indemnisation.
 
-L'indemnisation des dommages occasionnés à des effets et objets personnels ne peut excéder 4.500 F par victime.
+L'indemnisation des dommages occasionnés à des effets personnels ne peut excéder 6.000 F par victime.
 
 **Liens relatifs à cet article**
 
@@ -33888,44 +34217,55 @@ L'indemnisation des dommages occasionnés à des effets et objets personnels ne 
 
 	**Modifié par**:
 
-	  - Décret n°83-482 1983-06-09 art. 10 JORF 14 juin 1983
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 13 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 15 () JORF 16 mars 1986
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-19 (M)
+
 
 ###### Article R*420-20
 
-1. Pour bénéficier des dispositions de l'article R. 420-18 toute victime de dommages matériels mentionnés audit article doit,
-sous peine de déchéance de ses droits éventuels à l'égard du fonds de garantie, adresser audit fonds une déclaration
-accompagnée de l'état descriptif des dommages et de justifications relatives à l'identité de l'adversaire, à sa
-responsabilité et à l'absence ou à l'insuffisance d'assurance ou de garantie de la personne présumée responsable des
-dommages. Cette déclaration doit être adressée au fonds dans le délai de deux mois à compter du jour où la victime a eu
-connaissance de l'absence ou de l'insuffisance de garantie de la personne présumée responsable des dommages notamment par le
-refus de prise en charge du sinistre par l'assureur de cette personne et au plus tard dans le délai de six mois à compter du
-jour de l'accident, sauf si la victime est en mesure de rapporter la preuve qu'ayant fait elle-même ou par mandataire des
-diligences nécessaires pour obtenir la prise en charge de ses dommages par un assureur, il ne lui a pas été possible dans ce
-délai de six mois de déterminer si une garantie d'assurance pouvait ou non jouer à son profit.
+1. Lorsque l'auteur des dommages est identifié, toute victime de dommages aux biens doit, sous peine de déchéance de ses
+droits à l'égard du fonds de garantie, adresser au fonds une déclaration accompagnée de l'état descriptif des dommages et des
+justifications relatives à l'identité de l'adversaire, à sa responsabilité et à l'absence ou à l'insuffisance d'assurance ou
+de garantie de la personne présumée responsable des dommages. Cette déclaration doit être adressée au fonds dans le délai de
+six mois à compter du jour où la victime a eu connaissance de l'absence ou de l'insuffisance de garantie de la personne
+présumée responsable des dommages, notamment par le refus de prise en charge du sinistre par l'assureur de cette personne et,
+au plus tard, dans le délai de douze mois à compter du jour de l'accident, sauf si la victime est en mesure de rapporter la
+preuve qu'ayant fait elle-même ou par mandataire des diligences nécessaires pour obtenir la prise en charge de ses dommages
+par un assureur, il ne lui a pas été possible dans ce délai de douze mois de déterminer si une garantie d'assurance pouvait
+ou non jouer à son profit.
 
 Toutefois, la déchéance prévue à l'alinéa précédent n'est pas opposable à la victime de l'accident qui a subi à la fois des
-dommages corporels et des dommages matériels.
+dommages atteignant sa personne et ses biens ou encore lorsque l'auteur des dommages est inconnu.
+
+Lorsque l'auteur des dommages est inconnu, toute victime de dommages aux biens doit, sous peine de déchéance de ses droits à
+l'égard du fonds de garantie, dans le délai de trois ans à compter de l'accident, faire une déclaration accompagnée de l'état
+descriptif des dommages et établir que les conditions prévues à l'article R. 420-18 sont réunies.
 
 2. La demande d'indemnité doit être adressée au fonds de garantie dans le délai d'un an à compter soit de la date de la
 transaction, soit de la date de la décision de justice passée en force de chose jugée.
 
-En outre, les victimes ou leurs ayants droit doivent, dans le délai de trois ans à compter de l'accident, avoir conclu une
-transaction avec l'auteur de celui-ci ou intenté contre lui une action en justice.
+En outre, les victimes ou leurs ayants droit doivent, dans le délai de cinq ans à compter de l'accident, avoir conclu une
+transaction avec l'auteur de celui-ci ou intenté contre lui une action en justice ou, si l'auteur est inconnu, avoir réalisé
+un accord avec le fonds ou exercé contre celui-ci l'action prévue à l'article R. 420-14.
 
 Les délais prévus aux deux alinéas précédents ne courent que du jour où les intéressés ont eu connaissance du dommage, s'ils
 prouvent qu'ils l'ont ignoré jusque-là.
 
 Ces délais sont impartis à peine de forclusion, à moins que les intéressés ne prouvent qu'ils ont été dans l'impossibilité
-d'agir avant l'expiration desdits délais.
+d'agir avant l'expiration de ces délais.
 
-3. Les dispositions des articles R. 420-4 à R. 420-11 sont applicables à l'indemnisation des dommages matériels de la victime
-d'un accident qui a subi également des dommages corporels.
+3. Les dispositions des articles R. 420-4 à R. 420-11 sont applicables à l'indemnisation des dommages aux biens de la victime
+d'un accident qui a subi également des dommages atteignant sa personne.
 
 **Liens relatifs à cet article**
 
@@ -33935,50 +34275,62 @@ d'un accident qui a subi également des dommages corporels.
 
 	**Modifié par**:
 
-	  - Décret n°83-482 1983-06-09 art. 11 JORF 14 juin 1983
+	  - Décret n°86-452 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 13 () JORF 16 mars 1986
+	  - Décret n°86-452 du 14 mars 1986 - art. 16 () JORF 16 mars 1986
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-20 (M)
+
 	**Cite**:
 
-	  - Code des assurances R420-18, R420-4 à R420-11
+	  - Code des assurances R420-18, R420-14, R420-4 à R420-11
 
 
 ##### Section II : Dispositions applicables aux accidents de chasse.
 
 ###### Article R*420-21
 
-Les indemnités dues en vertu des dispositions de l'article 366 ter du code rural aux victimes d'accidents corporels ou à
-leurs ayants droit sont prises en charge par le fonds de garantie conformément aux dispositions de la présente section et à
-la condition que ces accidents soient survenus sur le territoire de la France métropolitaine et des départements d'outre-mer,
-à l'exception du département de la Guyane.
+Les indemnités dues en vertu des dispositions de l'article 366 ter du code rural aux victimes d'accidents qui donnent
+naissance à des dommages résultant d'une atteinte à la personne ou à leurs ayants droit sont prises en charge par le fonds de
+garantie conformément aux dispositions de la présente section et à la condition que ces accidents soient survenus sur le
+territoire de la France métropolitaine et des départements d'outre-mer, à l'exception du département de la Guyane.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 17 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L420-8 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-21 (M)
 
 	**Cite**:
 
 	  - Code rural 366 ter
 
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-8 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
 
 ###### Article R*420-22
 
-L'auteur de l'accident est exclu du bénéfice du fonds dans la mesure de sa responsabilité.
+Est exclu du bénéfice du fonds de garantie l'auteur d'un accident de chasse ou de destruction des animaux nuisibles, sauf si
+celui-ci peut apporter la preuve que la responsabilité d'une autre personne est engagée. La garantie du fonds est acquise
+dans la mesure de cette responsabilité.
 
 **Liens relatifs à cet article**
 
@@ -33988,22 +34340,27 @@ L'auteur de l'accident est exclu du bénéfice du fonds dans la mesure de sa res
 
 	**Modifié par**:
 
-	  - Décret n°83-482 1983-06-09 art. 12 JORF 14 juin 1983
+	  - Décret n°86-452 du 14 mars 1986 - art. 18 () JORF 16 mars 1986
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L420-8 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-22 (M)
+
 
 ###### Article R*420-23
 
-Tout auteur d'un accident corporel survenu au cours d'un acte de chasse ou de destruction des animaux nuisibles doit
-présenter, le cas échéant, son permis et faire connaître à l'agent de la force publique qui dresse le procès-verbal ou
-établit le rapport de l'accident la ou les assurances autres que celles prévues par l'article 366 ter du code rural qui
-serait de nature à couvrir les dommages causés. Il doit également préciser le nom et l'adresse de la ou des entreprises
-d'assurances ainsi que le numéro de la ou des polices. Toute omission volontaire de déclaration ou fausse déclaration faite
-de mauvaise fois sera punie d'une amende de 300 F à 600 F.
+Tout auteur d'un accident qui donne naissance à des dommages résultant d'atteintes à la personne survenu au cours d'un acte
+de chasse ou de destruction des animaux nuisibles doit présenter, le cas échéant, son permis et faire connaître à l'agent de
+la force publique qui dresse le procès-verbal ou établit le rapport de l'accident la ou les assurances autres que celles
+prévues par l'article 366 ter du code rural qui serait de nature à couvrir les dommages causés. Il doit également préciser le
+nom et l'adresse de la ou des entreprises d'assurances ainsi que le numéro du ou des contrats. Toute omission volontaire de
+déclaration ou fausse déclaration faite de mauvaise fois sera punie d'une amende prévue pour les contraventions de troisième
+classe.
 
 Les renseignements résultant soit des mentions figurant sur le permis de chasser en vertu des dispositions du dernier alinéa
 de l'article 366 ter du code rural, soit de la déclaration prévue ci-dessus, doivent être obligatoirement indiqués sur le
@@ -34012,8 +34369,8 @@ prévue à l'alinéa précédent sont ignorés de l'auteur de l'accident au mome
 rapport, cette circonstance est mentionnée ainsi que l'engagement qui doit avoir été pris par ledit auteur de faire parvenir
 ces renseignements sous huitaine. Dans ce cas, il est dressé ultérieurement un procès-verbal ou un rapport complémentaire.
 
-Si l'auteur d'un accident corporel est inconnu, le procès-verbal ou le rapport relatif à cet accident doit mentionner
-expressément cette circonstance.
+Si l'auteur d'un accident qui donne naissance à des dommages résultant d'atteintes à la personne est inconnu, le procès-
+verbal ou le rapport relatif à cet accident doit mentionner expressément cette circonstance.
 
 Un exemplaire de tout procès-verbal ou rapport relatif à un accident corporel causé par un auteur inconnu ou non assuré est
 transmis au fonds de garantie dans les dix jours de sa date par les autorités de police ou de gendarmerie.
@@ -34030,12 +34387,16 @@ transmis au fonds de garantie dans les dix jours de sa date par les autorités d
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°86-452 du 14 mars 1986 - art. 19 () JORF 16 mars 1986
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L420-8 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-23 (M)
 
 
 ###### Article R*420-24
@@ -34046,12 +34407,14 @@ l'auteur d'un accident résultant d'actes de chasse ou de destruction d'animaux 
 garantie.
 
 Les dispositions des articles R. 420-12 à R. 420-17 sont applicables à l'indemnisation par le fonds de garantie des dommages
-corporels de chasse mentionnés à l'article 366 ter du code rural, étant précisé qu'en matière d'accidents de chasse
-l'interdiction de citation en justice mentionnée par l'article R. 420-14 s'applique aux citations pour l'application de
-l'article 366 ter du code rural et que, dans la même matière, le rapport mentionné au 3e alinéa de l'article R. 420-15 est
-celui qui est prévu par l'article R. 420-23.    Toutefois, le bénéfice du fonds n'est donné que lorsqu'il est justifié que la
-victime a la nationalité française ou a sa résidence principale sur le territoire de la République française ou est
-ressortissant d'un Etat ayant conclu avec la France un accord de réciprocité et remplit les conditions fixées par cet accord.
+de chasse résultant d'atteintes à la personne mentionnés à l'article 366 ter du code rural, étant précisé qu'en matière
+d'accidents de chasse l'interdiction de citation en justice mentionnée par l'article R. 420-14 s'applique aux citations pour
+l'application de l'article 366 ter du code rural et que, dans la même matière, le rapport mentionné au 3e alinéa de l'article
+R. 420-15 est celui qui est prévu par l'article R. 420-23.
+
+Toutefois, le bénéfice du fonds n'est donné que lorsqu'il est justifié que la victime a la nationalité française ou a sa
+résidence principale sur le territoire de la République française ou est ressortissant d'un Etat ayant conclu avec la France
+un accord de réciprocité et remplit les conditions fixées par cet accord.
 
 La contribution que le fonds peut recouvrer, le cas échéant, sur le débiteur de l'indemnité est, en matière de chasse, celle
 prévue au 2° de l'article R. 420-38.
@@ -34059,7 +34422,7 @@ prévue au 2° de l'article R. 420-38.
 Toute transaction ayant pour objet de fixer ou de régler les indemnités dues par les responsables non assurés d'accidents
 corporels de chasse ou de destruction des animaux nuisibles définis à l'article 366 ter du code rural doit être notifiée au
 fonds de garantie par le débiteur de l'indemnité dans un délai d'un mois par lettre recommandée avec demande d'avis de
-réception sous peine d'une amende de 300 F à 600 F.
+réception sous peine de l'amende prévue pour les contraventions de troisième classe.
 
 **Liens relatifs à cet article**
 
@@ -34074,12 +34437,16 @@ réception sous peine d'une amende de 300 F à 600 F.
 
 	**Modifié par**:
 
-	  - Décret n°81-30 1981-01-14 art. 1 JORF 18 janvier 1981
+	  - Décret n°86-452 du 14 mars 1986 - art. 20 () JORF 16 mars 1986
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L420-8 (T)
 	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-24 (M)
 
 
 ##### Section III : Organisation, fonctionnement et contrôle du fonds de garantie.
@@ -34174,39 +34541,75 @@ les décisions ne comportant pas un engagement financier pour le fonds.
 	  - Code des assurances - art. R421-26 (M)
 
 
-##### Section III : Dispositions communes aux accidents d'automobile survenus en France métropolitaine et dans les départements d'outre-mer, et aux accidents de chasse survenus en France métropolitaine.
+##### Section IV : Régime financier du fonds de garantie
 
-###### Article R*420-14
+##### Paragraphe 1 : Dispositions spéciales aux accidents d'automobile.
 
-Lorsque, dans l'hypothèse prévue à l'article R. 420-13, la demande d'indemnité est portée devant une juridiction autre qu'une
-juridiction répressive, la victime ou ses ayants droit doivent en cas d'action dirigée, soit contre l'assureur, soit contre
-le responsable, mettre en cause, suivant le cas, le responsable ou l'assureur.
+###### Article R*420-27
+
+Pour l'application des dispositions de l'article L. 420-4, les contributions prévues pour l'alimentation du fonds de garantie
+sont assises et recouvrées dans les conditions suivantes :
+
+1° La contribution des entreprises d'assurance est proportionnelle aux primes ou cotisations du dernier exercice, accessoires
+et rappels compris et annulations déduites, relative à l'assurance des véhicules terrestres à moteur et des remorques ou
+semi-remorques des véhicules. Elle est liquidée et recouvrée par le fonds de garantie.
+
+2° La contribution des responsables d'accidents causés par l'utilisation des véhicules définis au 1° ci-dessus, non
+bénéficiaires d'une assurance, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des
+dommages résultant de ces accidents. Sont considérées comme bénéficiaires d'une assurance, au sens du présent article, les
+personnes dont la responsabilité civile est couverte par un contrat d'assurance dans les conditions prévues par l'article L.
+211-1 ; un tel bénéfice ne leur est toutefois acquis, au sens du présent article, que pour la part excédant la franchise
+prévue éventuellement par leur contrat en application de l'article R. 211-9.
+
+En cas d'instance judiciaire, la décision doit faire apparaître si le responsable est ou non bénéficiaire d'une assurance. La
+décision de justice ou la transaction doit opérer, le cas échéant, une ventilation entre les indemnités dues à titre de
+réparation des dommages résultant des dommages résultant d'atteintes à la personne et celles qui sont dues en réparation de
+dommages aux biens.
+
+La contribution est liquidée et recouvrée par les services de la direction générale des impôts selon les mêmes règles, sous
+les mêmes garanties et sous les mêmes sanctions qu'en matière de droits d'enregistrement. Elle est perçue sur la notification
+faite à la direction générale des impôts par le fonds de garantie.
+
+La contribution doit être acquittée dans le délai d'un mois à compter de la réclamation adressée par la direction générale
+des impôts.
+
+3° La contribution des assurés est assise sur toutes les primes ou cotisations qu'ils versent aux entreprises d'assurance
+mentionnées à l'article L. 420-2 pour l'assurance des risques de responsabilité civile résultant d'accidents causés par les
+véhicules définis au 1° ci-dessus. Elle est perçue par les entreprises d'assurance et recouvrée selon les modalités fixées
+par arrêté du ministre du budget.
+
+Un décret en Conseil d'Etat détermine les modalités d'assiette de la contribution exigée pour les véhicules étrangers.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 15
-	  - Décret n°68-170 1968-02-19 art. 5
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+	  - Décret n°86-452 du 14 mars 1986 - art. 21 () JORF 16 mars 1986
+
+	**Cité par**:
+
+	  - Code des assurances - art. A421-2 (V)
 
 	**Cite**:
 
-	  - Code des assurances R420-13
+	  - Code des assurances - art. L211-1 (M)
+	  - Code des assurances - art. L420-2 (T)
+	  - Code des assurances - art. L420-4 (T)
+	  - Code des assurances - art. R211-9 (Ab)
 
+	**Liens**:
 
-##### Section IV : Régime financier du fonds de garantie
+	  - TXT_SOURCE: Code des assurances - art. L420-4 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16, R420-32 à R420-36
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents d'automobile.
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-27 (M)
+
 
 ###### Article R*420-28
 
@@ -34250,6 +34653,39 @@ Contribution des assurés : 2 % des primes mentionnées au 3° de l'article R. 4
 	  - Décret n°1949-11-14 art. 47
 
 
+###### Article R*420-29
+
+Sur le montant des encaissements effectués par les services de la direction générale des impôts au titre des contributions
+mentionnées aux articles R. 420-27 et R. 420-28, il est opéré un prélèvement de 2 p. 100. Le produit de ce prélèvement est
+rattaché au budget du ministère de l'économie et des finances. Il sert à couvrir dans les limites et conditions déterminées
+par arrêté du ministre de l'économie et des finances les dépenses de matériel et de personnel résultant des recouvrements
+effectués pour le compte du fonds de garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 22 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*421-29 (Ab)
+	  - Code des assurances R421-29
+
+	**Cite**:
+
+	  - Code des assurances R420-27, R420-28
+
+
 ###### Article R*420-32
 
 Sont considérés comme véhicules étrangers, pour l'application du dernier alinéa de l'article R. 420-27 :
@@ -34282,6 +34718,72 @@ française, les personnes dont la résidence habituelle est située hors de ce t
 	**Nouveaux textes**:
 
 	  - Code des assurances R421-32
+
+
+###### Article R*420-33
+
+Toute personne responsable d'un accident dans lequel est impliqué un véhicule à moteur étranger sur le territoire de la
+République française, et dont la responsabilité n'est pas garantie par une assurance dans les conditions définies aux
+articles R. 211-22, R. 211-23 et R. 211-25 à R. 211-27 est tenue au paiement de la contribution prévue au 2° de l'article R.
+420-27.
+
+Lorsque dans un accident est impliqué un véhicule appartenant à un Etat étranger pour lequel a été fournie l'attestation
+prévue à l'article R. 211-25, la contribution est fixée dans les mêmes conditions que pour les véhicules appartenant à l'Etat
+français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 23 () JORF 16 mars 1986
+
+	**Cite**:
+
+	  - Code des assurances R211-22, R211-23, R211-25 à R211-27, R420-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+	  - TXT_SOURCE: Code des assurances R420-27
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R421-33
+
+
+###### Article R*420-34
+
+Les contrats souscrits auprès des entreprises d'assurance mentionnées à l'article L. 420-2 pour l'assurance des risques de
+responsabilité civile résultant d'accidents dans lesquels sont impliqués des véhicules étrangers donnent lieu au versement de
+la contribution prévue au 3° de l'article R. 420-27.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 24 () JORF 16 mars 1986
+
+	**Cite**:
+
+	  - Code des assurances - art. L420-2 (T)
+	  - Code des assurances L420-2, R420-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+	  - TXT_SOURCE: Code des assurances R420-27
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R421-34
 
 
 ###### Article R*420-35
@@ -34320,6 +34822,43 @@ Son montant et les modalités de son recouvrement sont fixés par arrêté du mi
 	**Nouveaux textes**:
 
 	  - Code des assurances R421-35
+
+
+###### Article R*420-37
+
+Les comptables publics, consignataires des extraits de jugements et d'arrêts, recouvrent, dans les mêmes conditions que les
+amendes, la majoration de 50 % instituée au profit du fonds de garantie par le deuxième alinéa de l'article L. 211-8 et les
+sommes dues par l'assureur en cas d'offre manifestement insuffisante constatée par le juge en application de l'article 17 de
+la loi n° 85-677 du 5 juillet 1985.
+
+Les encaissements ainsi effectués sont versés trimestriellement au fonds de garantie sous déduction d'un prélèvement de 2 p.
+100. Le produit de ce prélèvement est rattaché au budget du ministère de l'économie et des finances et sert à couvrir, dans
+les limites et conditions déterminées par arrêté du ministre de l'économie et des finances, les dépenses de matériel et de
+personnel résultant des recouvrements effectués pour le compte du fonds de garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°85-677 du 5 juillet 1985 - art. 17 (M)
+	  - Code des assurances - art. L211-8 (T)
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 25 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-37 (M)
 
 
 ###### Article R420-30
@@ -34452,6 +34991,139 @@ intérieurs de la commission économique pour l'Europe.
 
 
 ##### Paragraphe 2 : Dispositions spéciales aux accidents de chasse.
+
+###### Article R*420-38
+
+Pour l'application des dispositions de l'article 366 ter du code rural, les contributions prévues pour l'alimentation du
+fonds de garantie sont assises dans les conditions suivantes :
+
+1° La contribution des entreprises d'assurance est proportionnelle aux sommes recouvrées par elles au titre de la
+contribution des assurés mentionnée au 3° ci-dessous.
+
+2° La contribution des responsables, non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteintes à la
+personne non bénéficiaires d'une assurance, est assise sur le montant total des indemnités mises à leur charge à titre de
+réparation des dommages résultant de ces accidents. Sont considérées comme bénéficiaires d'une assurance au sens du présent
+article les personnes dont la responsabilité civile résultant d'accidents de chasse ou de destruction des animaux nuisibles
+est couverte par un contrat d'assurance. En cas d'instance judiciaire, la décision doit faire apparaître si le responsable
+est ou non bénéficiaire d'une assurance. La décision de justice ou la transaction doit opérer le cas échéant une ventilation
+entre les indemnités dues à titre de réparation des dommages résultant d'atteintes à la personne et celles qui sont dues en
+réparation des dommages aux biens.
+
+3° La contribution des assurés est fixée à une somme forfaitaire par personne garantie pour sa responsabilité civile
+résultant d'accidents de chasse ou de destruction des animaux nuisibles.
+
+Ces contributions sont liquidées et recouvrées selon les modalités prévues en matière d'accidents de la circulation en
+application des dispositions de l'article R. 420-27.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 26 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L420-8 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+	  - TXT_SOURCE: Code rural 366 ter
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-38 (M)
+
+	**Cite**:
+
+	  - Code des assurances R420-27
+	  - Code rural 366 ter
+
+
+###### Article R*420-39
+
+Les taux et quotité des contributions mentionnées à l'article R. 420-38 sont fixés par décret rendu sur le rapport du
+ministre de l'économie et des finances, dans la limite des montants maximaux ci-après :
+
+Contribution des entreprises d'assurance : 12 % de la totalité des charges des opérations du fonds de garantie afférentes à
+la chasse et à la destruction des animaux nuisibles ;
+
+Contribution des responsables, non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteintes à la
+personne : 10 % des indemnités restant à leur charge. Toutefois ce taux est ramené à 5 % lorsque l'accident résulte d'une
+opération de destruction des animaux nuisibles effectuée en vertu des articles 393 à 395 du code rural ;
+
+Contribution des assurés : somme forfaitaire maximale de 2,50 F par personne garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 27 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. R420-40 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R420-41 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16, R420-40, R420-41
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-39 (M)
+
+	**Cite**:
+
+	  - Code des assurances R420-38
+	  - Code rural 393 à 395
+
+
+###### Article R*420-42
+
+Les comptables publics, consignataires des extraits de jugements et d'arrêts ainsi que des décisions de transaction
+intervenues conformément aux dispositions du décret n° 66-136 du 4 mars 1966 recouvrent, dans les mêmes conditions que les
+amendes, la majoration de 50 % instituée au profit du fonds de garantie par le deuxième alinéa de l'article 366 ter du code
+rural.
+
+Les encaissements effectués au titre de cette majoration sont versés trimestriellement au fonds de garantie sous déduction
+d'un prélèvement de 2 p. 100.
+
+Par ailleurs, sur le montant des encaissements effectués par les services de la direction générale des impôts au titre des
+contributions mentionnées à l'article R. 420-38, il est opéré un prélèvement analogue de 2 p. 100.
+
+Le produit des prélèvements mentionnés aux alinéas 2 et 3 ci-dessus du présent article est rattaché au budget du ministère de
+l'économie et des finances. Il sert à couvrir, dans les limites et conditions déterminées par arrêté du ministre de
+l'économie et des finances, les dépenses de matériel et de personnel résultant des recouvrements effectués pour le compte du
+fonds de garantie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 366 ter
+	  - Décret n°66-136 1966-03-04
+	  - Code des assurances R420-38
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 28 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L420-8 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-42 (M)
+
 
 ###### Article R*420-43
 
@@ -34753,330 +35425,6 @@ mentionnées à l'article R. 332-2.
 	  - Code des assurances - art. R421-47 (M)
 
 
-##### Section IV : Régime financier du fonds de garantie
-
-##### Paragraphe I : Dispositions spéciales aux accidents d'automobile.
-
-###### Article R*420-27
-
-Pour l'application des dispositions de l'article L. 420-4, les contributions prévues pour l'alimentation du fonds de garantie
-sont assises et recouvrées dans les conditions suivantes :
-
-1° La contribution des entreprises d'assurance est proportionnelle aux primes ou cotisations du dernier exercice, accessoires
-et rappels compris et annulations déduites, relative à l'assurance des véhicules terrestres à moteur et des remorques ou
-semi-remorques des véhicules. Elle est liquidée et recouvrée par le fonds de garantie.
-
-2° La contribution des responsables d'accidents causés par l'utilisation des véhicules définis au 1° ci-dessus, non
-bénéficiaires d'une assurance, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des
-dommages résultant de ces accidents. Sont considérées comme bénéficiaires d'une assurance, au sens du présent article, les
-personnes dont la responsabilité civile est couverte par un contrat d'assurance dans les conditions prévues par l'article L.
-211-1 ; un tel bénéfice ne leur est toutefois acquis, au sens du présent article, que pour la part excédant la franchise
-prévue éventuellement par leur contrat en application de l'article R. 211-9.
-
-En cas d'instance judiciaire, la décision doit faire apparaître si le responsable est ou non bénéficiaire d'une assurance. La
-décision de justice ou la transaction doit opérer, le cas échéant, une ventilation entre les indemnités dues à titre de
-réparation des dommages résultant d'accidents corporels et celles qui sont dues à titre de réparation des dégâts matériels.
-
-La contribution est liquidée et recouvrée par les services de la direction générale des impôts selon les mêmes règles, sous
-les mêmes garanties et sous les mêmes sanctions qu'en matière de droits d'enregistrement. Elle est perçue sur la notification
-faite à la direction générale des impôts par le fonds de garantie.
-
-La contribution doit être acquittée dans le délai d'un mois à compter de la réclamation adressée par la direction générale
-des impôts.
-
-3° La contribution des assurés est assise sur toutes les primes ou cotisations qu'ils versent aux entreprises d'assurance
-mentionnées à l'article L. 420-2 pour l'assurance des risques de responsabilité civile résultant d'accidents causés par les
-véhicules définis au 1° ci-dessus. Elle est perçue par les entreprises d'assurance et recouvrée selon les modalités fixées
-par arrêté du ministre du budget.
-
-Un décret en Conseil d'Etat détermine les modalités d'assiette de la contribution exigée pour les véhicules étrangers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
-
-	**Cité par**:
-
-	  - Code des assurances - art. A421-2 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-1 (M)
-	  - Code des assurances - art. L420-2 (T)
-	  - Code des assurances - art. L420-4 (T)
-	  - Code des assurances - art. R211-9 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16, R420-32 à R420-36
-
-
-###### Article R*420-33
-
-Toute personne responsable d'un accident causé par un véhicule étranger sur le territoire de la République française, et dont
-la responsabilité n'est pas garantie par une assurance dans les conditions définies aux articles R. 211-22, R. 211-23 et R.
-211-25 à R. 211-27 est tenue au paiement de la contribution prévue au 2° de l'article R. 420-27.
-
-Lorsque l'accident a été causé par un véhicule appartenant à un Etat étranger pour lequel a été fournie l'attestation prévue
-à l'article R. 211-25, la contribution est fixée dans les mêmes conditions que pour les véhicules appartenant à l'Etat
-français.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
-
-	**Cite**:
-
-	  - Code des assurances - art. R*211-27 (M)
-	  - Code des assurances R211-22, R211-23, R211-25, R211-26, R211-27
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-	  - TXT_SOURCE: Code des assurances R420-27
-
-
-###### Article R*420-34
-
-Les contrats souscrits auprès des entreprises d'assurance mentionnées à l'article L. 420-2 pour l'assurance des risques de
-responsabilité civile résultant d'accidents causés par des véhicules étrangers donnent lieu au versement de la contribution
-prévue au 3° de l'article R. 420-27.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-461 1959-03-26 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
-
-	**Cite**:
-
-	  - Code des assurances - art. L420-2 (T)
-	  - Code des assurances L420-2, R420-27
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-	  - TXT_SOURCE: Code des assurances R420-27
-
-
-###### Article R420-29
-
-Sur le montant des encaissements effectués par les services de la direction générale des impôts au titre des contributions
-mentionnées aux articles R. 420-27 et R. 420-28, il est opéré un prélèvement de 3 %. Le produit de ce prélèvement est
-rattaché au budget du ministère de l'économie et des finances. Il sert à couvrir dans les limites et conditions déterminées
-par arrêté du ministre de l'économie et des finances les dépenses de matériel et de personnel résultant de l'application de
-la section I du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°52-763 1952-06-30 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. R*421-29 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances R420-27, R420-28
-
-
-###### Article R420-37
-
-Les comptables publics, consignataires des extraits de jugements et d'arrêts, recouvrent, dans les mêmes conditions que les
-amendes, la majoration de 50 % instituée au profit du fonds de garantie par le deuxième alinéa de l'article L. 211-8.
-
-Les encaissements effectués au titre de cette majoration sont versés trimestriellement au fonds de garantie sous déduction
-d'un prélèvement de 3 %. Le produit de ce prélèvement est rattaché au budget du ministère de l'économie et des finances et
-sert à couvrir, dans les limites et conditions déterminées par arrêté du ministre de l'économie et des finances, les dépenses
-de matériel et de personnel résultant des recouvrements effectués pour le compte du fonds de garantie.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-	**Cite**:
-
-	  - Code des assurances - art. L211-8 (T)
-
-	**Anciens textes**:
-
-	  - Décret n°59-135 1959-01-07 art. 35
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
-
-
-##### Paragraphe II : Dispositions spéciales aux accidents de chasse.
-
-###### Article R*420-38
-
-Pour l'application des dispositions de l'article 366 ter du code rural, les contributions prévues pour l'alimentation du
-fonds de garantie sont assises dans les conditions suivantes :
-
-1° La contribution des entreprises d'assurance est proportionnelle aux sommes recouvrées par elles au titre de la
-contribution des assurés mentionnée au 3° ci-dessous.
-
-2° La contribution des responsables d'accidents corporels, non bénéficiaires d'une assurance, est assise sur le montant total
-des indemnités mises à leur charge à titre de réparation des dommages résultant de ces accidents. Sont considérées comme
-bénéficiaires d'une assurance au sens du présent article les personnes dont la responsabilité civile résultant d'accidents de
-chasse ou de destruction des animaux nuisibles est couverte par un contrat d'assurance. En cas d'instance judiciaire, la
-décision doit faire apparaître si le responsable est ou non bénéficiaire d'une assurance. La décision de justice ou la
-transaction doit opérer le cas échéant une ventilation entre les indemnités dues à titre de réparation des dommages résultant
-d'accidents corporels et celles qui sont dues à titre de réparation des dégâts matériels.
-
-3° La contribution des assurés est fixée à une somme forfaitaire par personne garantie pour sa responsabilité civile
-résultant d'accidents de chasse ou de destruction des animaux nuisibles.
-
-Ces contributions sont liquidées et recouvrées selon les modalités prévues en matière d'accidents de la circulation en
-application des dispositions de l'article R. 420-27.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-8 (T)
-	  - TXT_ASSOCIE: Code des assurances R224-6, R325-16
-	  - TXT_SOURCE: Code rural 366 ter
-
-	**Cite**:
-
-	  - Code des assurances R420-27
-	  - Code rural 366 ter
-
-
-###### Article R*420-39
-
-Les taux et quotité des contributions mentionnées à l'article R. 420-38 sont fixés par décret rendu sur le rapport du
-ministre de l'économie et des finances, dans la limite des montants maximaux ci-après :
-
-Contribution des entreprises d'assurance : 12 % de la totalité des charges des opérations du fonds de garantie afférentes à
-la chasse et à la destruction des animaux nuisibles ;
-
-Contribution des responsables d'accidents corporels non assurés :
-
-10 % des indemnités restant à leur charge. Toutefois ce taux est ramené à 5 % lorsque l'accident résulte d'une opération de
-destruction des animaux nuisibles effectuée en vertu des articles 393 à 395 du code rural ;
-
-Contribution des assurés : somme forfaitaire maximale de 2,50 F par personne garantie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 393, 394, 395
-	  - Code des assurances R420-38
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°83-482 1983-06-09 art. 14 JORF 14 juin 1983
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R420-40 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R420-41 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16, R420-40, R420-41
-
-
-###### Article R*420-42
-
-Les comptables publics, consignataires des extraits de jugements et d'arrêts ainsi que des décisions de transaction
-intervenues conformément aux dispositions du décret n° 66-136 du 4 mars 1966 recouvrent, dans les mêmes conditions que les
-amendes, la majoration de 50 % instituée au profit du fonds de garantie par le deuxième alinéa de l'article 366 ter du code
-rural.
-
-Les encaissements effectués au titre de cette majoration sont versés trimestriellement au fonds de garantie sous déduction
-d'un prélèvement de 3 %.
-
-Par ailleurs, sur le montant des encaissements effectués par les services de la direction générale des impôts au titre des
-contributions mentionnées à l'article R. 420-38, il est opéré un prélèvement analogue de 3 %.
-
-Le produit des prélèvements mentionnés aux alinéas 2 et 3 ci-dessus du présent article est rattaché au budget du ministère de
-l'économie et des finances. Il sert à couvrir, dans les limites et conditions déterminées par arrêté du ministre de
-l'économie et des finances, les dépenses de matériel et de personnel résultant des recouvrements effectués pour le compte du
-fonds de garantie.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-8 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-	**Cite**:
-
-	  - Code des assurances R420-38
-	  - Code rural 366 ter
-	  - Décret n°66-136 1966-03-04
-
-	**Anciens textes**:
-
-	  - Décret n°68-170 1968-02-19 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
-
-
 ##### Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile.
 
 ###### Article R*420-48
@@ -35174,6 +35522,80 @@ concernant les dommages causés aux tiers par les véhicules terrestres à moteu
 	  - Code des assurances R421-49
 
 
+###### Article R*420-50
+
+Lorsque, par suite du retrait d'agrément d'une entreprise, le fonds de garantie prend en charge l'indemnisation des dommages
+résultant d'atteintes à la personne et dommages aux biens nés d'un accident dans lequel sont impliqués des véhicules
+terrestres à moteur assurés par l'entreprise, cette prise en charge s'effectue dans les conditions et limites de garantie
+prévues par les contrats d'assurance souscrits auprès de cette entreprise.
+
+Le fonds est substitué à l'assureur pour les obligations et les droits mentionnés à l'article R. 211-13.
+
+Le liquidateur effectue, sur demande et pour le compte du fonds, les enquêtes et formalités nécessaires à l'exercice des
+recours prévus à l'alinéa précédent ainsi que, le cas échéant, à l'exercice des recours contre les coresponsables. Les sommes
+récupérées par le fonds à la suite de ces recours viennent en déduction de sa créance sur la liquidation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 29 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-452 du 14 mars 1986 - art. 34 (V)
+	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Cite**:
+
+	  - Code des assurances - art. R*211-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R421-50
+
+
+###### Article R*420-51
+
+Sous réserve des dispositions du dernier alinéa de l'article R. 420-50, le liquidateur désigné à la suite du retrait
+d'agrément dans les conditions prévues à l'article L. 326-2, gère, suivant les directives du fonds de garantie, les dossiers
+relatifs à l'indemnisation des dommages nés d'un accident dans lequel sont impliqués terrestres à moteur assurés auprès de
+l'entreprise en liquidation. Il doit, sur demande du fonds, lui fournir toutes explications ou lui communiquer tous documents
+relatifs à ces dossiers.
+
+Les frais et dépenses de toute nature afférents à cette gestion sont à la charge de la liquidation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 30 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-452 du 14 mars 1986 - art. 34 (V)
+	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Cite**:
+
+	  - Code des assurances - art. L326-2 (M)
+	  - Code des assurances L326-2, R420-50
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R421-51
+
+
 ###### Article R*420-52
 
 Pour la détermination du principe ou de l'étendue de leur droit à indemnisation, les tiers lésés ne peuvent citer le fonds de
@@ -35231,6 +35653,37 @@ qu'après avoir obtenu l'accord du fonds de garantie.
 	**Nouveaux textes**:
 
 	  - Code des assurances R421-53
+
+
+###### Article R*420-54
+
+Dans le cas où, par suite de l'insuffisance du montant de la garantie stipulée au contrat, une part de l'indemnité reste à la
+charge de l'auteur responsable des dommages, le liquidateur en avise le fonds de garantie, qui met à la disposition du
+liquidateur le complément d'indemnité dû et exerce contre le responsable l'action récursoire prévue à l'article R. 420-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 31 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-452 du 14 mars 1986 - art. 34 (V)
+	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-54 (M)
+
+	**Cite**:
+
+	  - Code des assurances R420-16
 
 
 ###### Article R*420-55
@@ -35299,108 +35752,6 @@ même section.
 	**Nouveaux textes**:
 
 	  - Code des assurances R421-56
-
-
-##### Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile.
-
-###### Article R*420-50
-
-Lorsque, par suite du retrait d'agrément d'une entreprise, le fonds de garantie prend en charge l'indemnisation des dommages
-corporels et matériels causés aux tiers par les véhicules terrestres à moteur assurés, cette prise en charge s'effectue dans
-les conditions et limites de garantie prévues par les contrats d'assurance souscrits auprès de cette entreprise.
-
-Le fonds est substitué à l'assureur pour les obligations et les droits mentionnés à l'article R. 211-13.
-
-Le liquidateur effectue, sur demande et pour le compte du fonds, les enquêtes et formalités nécessaires à l'exercice des
-recours prévus à l'alinéa précédent ainsi que, le cas échéant, à l'exercice des recours contre les coresponsables. Les sommes
-récupérées par le fonds à la suite de ces recours viennent en déduction de sa créance sur la liquidation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-498 1967-06-23 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 6 JORF 18 janvier 1981
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-	**Cite**:
-
-	  - Code des assurances - art. R*211-13 (M)
-
-
-###### Article R*420-51
-
-Sous réserve des dispositions du dernier alinéa de l'article R. 420-50, le liquidateur désigné à la suite du retrait
-d'agrément dans les conditions prévues à l'article L. 326-2, gère, suivant les directives du fonds de garantie, les dossiers
-relatifs à l'indemnisation des dommages causés aux tiers par les véhicules les véhicules terrestres à moteur assurés auprès
-de l'entreprise en liquidation. Il doit, sur demande du fonds, lui fournir toutes explications ou lui communiquer tous
-documents relatifs à ces dossiers.
-
-Les frais et dépenses de toute nature afférents à cette gestion sont à la charge de la liquidation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-998 1967-06-23 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 6 JORF 18 janvier 1981
-
-	**Cite**:
-
-	  - Code des assurances - art. L326-2 (M)
-	  - Code des assurances L326-2, R420-50
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-
-###### Article R*420-54
-
-Dans le cas où, par suite de l'insuffisance du montant de la garantie stipulée au contrat, une part de l'indemnité reste à la
-charge de l'auteur responsable des dommages, le liquidateur envoie à ce dernier la sommation prévue à l'article R. 420-4.
-
-Si cette sommation n'a pas été suivie d'effet à l'expiration d'un délai d'un mois, le liquidateur en avise le fonds de
-garantie, qui met à la disposition du liquidateur le complément d'indemnité dû et exerce contre le responsable l'action
-récursoire prévue à l'article R. 420-16.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 6, art. 7 JORF 18 janvier 1981
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-	**Cite**:
-
-	  - Code des assurances R420-4, R420-16
 
 
 ##### Section VI : Dispositions particulières aux départements d'outre-mer.
@@ -35772,6 +36123,38 @@ l'accident.
 	  - Code des assurances - art. R421-66 (M)
 
 
+###### Article R*420-67
+
+Sauf dans les cas prévus aux articles R. 420-68 et R. 420-69, le bureau central français doit également justifier de
+l'insolvabilité totale ou partielle de l'assureur du responsable dans les conditions prévues au dernier alinéa de l'article
+R. 420-13.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1987-02-12 art. 1 *pays tiers*
+	  - SPEC_APPLI: Décret n°86-452 1986-03-14 art. 33 *Espagne - portugal*
+	  - TXT_SOURCE: Code des assurances - art. L420-14 (T)
+	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 32 () JORF 16 mars 1986
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R421-67 (M)
+
+	**Cite**:
+
+	  - Code des assurances R420-13, R420-68, R420-69
+
+
 ###### Article R*420-68
 
 Lorsqu'un contrat d'assurance a été souscrit pour garantir les conséquences pécuniaires de la responsabilité civile découlant
@@ -35879,35 +36262,6 @@ présent chapitre sont applicables à l'indemnisation des accidents d'automobile
 	**Nouveaux textes**:
 
 	  - Code des assurances - art. R421-70 (M)
-
-
-##### Section VIII : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger.
-
-###### Article R*420-67
-
-Sauf dans les cas prévus aux articles R. 420-68 et R. 420-69, le bureau central français doit également justifier de
-l'insolvabilité totale ou partielle du responsable de l'accident et éventuellement de son assureur, l'insolvabilité du
-responsable résultant d'une sommation de payer faite par le bureau central français dans les conditions prévues au dernier
-alinéa de l'article R. 420-13.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°81-30 1981-01-14 art. 10, art. 11 JORF 18 janvier 1981
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L420-14 (T)
-	  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-	**Cite**:
-
-	  - Code des assurances R420-13, R420-68, R420-69
 
 
 ### Titre III : Organismes particuliers d'assurance
