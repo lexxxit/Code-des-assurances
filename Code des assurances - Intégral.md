@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1984-05-08
+Version Consolidée au 1984-05-12
 
 # Partie législative
 
@@ -16121,19 +16121,28 @@ départements ou territoires, les attributions dévolues aux commissaires-contr�
 
 Lorsqu'une entreprise dont le siège social est établi sur le territoire d'un des Etats membres de la Communauté économique
 européenne pratique sur le territoire de la République française et sur celui d'autres Etats membres de la Communauté une ou
-plusieurs des branches mentionnées aux 1 à 17 de l'article R. 321-1, le ministre de l'économie et des finances communique aux
-autorités compétentes desdits Etats les documents et renseignements utiles à l'exercice du contrôle et prend connaissance des
-documents et renseignements de même nature qui lui sont communiqués par les mêmes autorités.
+plusieurs des branches mentionnées aux 1 à 17 et 20 à 28 de l'article R. 321-1, le ministre de l'économie et des finances
+communique aux autorités compétentes desdits Etats les documents et renseignements utiles à l'exercice du contrôle et prend
+connaissance des documents et renseignements de même nature qui lui sont communiqués par les mêmes autorités.
 
 Il en est de même lorsqu'il s'agit d'une entreprise dont le siège social n'est pas établi sur le territoire d'un Etat membre
-de la Communauté économique européenne et qui fait l'objet de la vérification de solvabilité globale définie à la section II
+de la Communauté économique européenne et qui fait l'objet de la vérification de solvabilité globale définie à la section IV
 du chapitre IV du titre III du présent livre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 1984-05-09 art. 3, art. 35-1 JORF 12 mai 1984
+	  - Décret n°84-349 du 9 mai 1984 - art. 3 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
 
 	**Cite**:
 
@@ -16174,39 +16183,48 @@ assertion susceptible d'induire en erreur sur la véritable nature de l'entrepri
 
 ###### Article R*310-6
 
-Les entreprises mentionnées à l'article L. 310-1 doivent, avant usage, communiquer au ministre de l'économie et des finances,
-qui peut prescrire toutes rectifications ou modifications nécessitées par la réglementation en vigueur, cinq exemplaires des
-conditions générales de leurs polices, propositions, bulletins de souscription, prospectus et imprimés destinés à être
-distribués au public ou publiés ou remis aux porteurs de contrats ou adhérents.
+Les entreprises mentionnées à l'article L. 310-1 doivent, avant usage, communiquer au ministre de l'économie, des finances et
+du budget qui peut prescrire toutes rectifications ou modifications nécessitées par la réglementation en vigueur, cinq
+exemplaires des conditions générales de leurs polices, propositions, bulletins de souscription, prospectus et imprimés
+destinés à être distribués au public ou publiés ou remis aux porteurs de contrats ou adhérents.
 
-Les sociétés anonymes doivent communiquer au ministre de l'économie et des finances, dans les quinze jours qui suivent le
-vote de l'assemblée générale, les modifications aux statuts décidées par celle-ci.
-
-Les sociétés d'assurance à forme mutuelle, les sociétés mutuelles d'assurance, les unions de mutuelles et les tontines
-doivent, sans préjudice des dispositions de l'alinéa suivant, avant de soumettre à l'assemblée générale des modifications à
-leurs statuts, adresser au ministre de l'économie et des finances trois spécimens des modifications proposées.
+Les entreprises françaises doivent, avant de soumettre à l'assemblée générale des modifications à leurs statuts, obtenir le
+visa du ministre de l'économie, des finances et du budget qui statue dans les trois mois du dépôt de trois spécimens des
+projets de modifications aux statuts. A l'expiration de ce délai, en l'absence d'observation du ministre, le visa est
+considéré comme accordé. Ce délai est réduit à quarante-cinq jours pour les augmentations de capital social.
 
 Les entreprises pratiquant les opérations mentionnées aux 1°, 2°, 3°, 4° ou 6° de l'article L. 310-1, doivent, avant
-d'appliquer leurs tarifs ou des modifications à leurs statuts, obtenir le visa du ministre de l'économie et des finances qui
-statue dans les six mois du dépôt de trois spécimens de tarifs ou projets de modifications aux statuts.
+d'appliquer leurs tarifs, obtenir le visa du ministre de l'économie, des finances et du budget qui statue dans les trois mois
+du dépôt de trois spécimens de tarifs. Les demandes de visa des tarifs applicables aux contrats d'assurance sur la vie
+comportant des clauses spéciales relatives aux risques de décès accidentel et d'invalidité doivent être accompagnées des
+justifications techniques relatives aux dites clauses.
 
-Les entreprises pratiquant les opérations mentionnées au 5° de l'article L. 310-1, doivent, à titre d'information, donner
-communication au ministre de l'économie et des finances des bases des tarifs qu'elles se proposent d'utiliser sur le
-territoire de la République française.
+Les entreprises pratiquant les opérations mentionnées aux 5° et 7° de l'article L. 310-1, doivent, à titre d'information,
+donner communication au ministre de l'économie, des finances et du budget, deux mois avant la date d'application envisagée,
+des bases des tarifs qu'elles se proposent d'utiliser sur le territoire de la République française.
 
-Les visas accordés par le ministre de l'économie et des finances par application des dispositions du présent article
-n'impliquent qu'une absence d'opposition de la part du ministre, aux dates auxquelles ils sont donnés ; ils peuvent toujours
-être révoqués après avis du conseil national des assurances.
+Les visas accordés par le ministre de l'économie, des finances et du budget par application des dispositions du présent
+article n'impliquent qu'une absence d'opposition de la part du ministre, aux dates auxquelles ils sont donnés ; ils peuvent
+toujours être révoqués après avis du Conseil national des assurances.
 
-Les entreprises sont tenues d'envoyer au ministre de l'économie et des finances, dans le délai qu'il détermine, la traduction
-en langue française, certifiée conforme, de tous les documents se rapportant à leurs opérations et non rédigés dans cette
-langue.
+Les entreprises sont tenus d'envoyer au ministre de l'économie, des finances et du budget, dans le délai qu'il détermine, la
+traduction en langue française, certifiée conforme, de tous les documents se rapportant à leurs opérations et non rédigés
+dans cette langue.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 4 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -16216,10 +16234,6 @@ langue.
 
 	  - Code des assurances - art. L310-1 (M)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
-
 
 ###### Article R*310-8
 
@@ -16228,18 +16242,21 @@ territoire de la République française des opérations d'assurance maritime son
 les marchandises ou facultés, par le ministre de l'économie et des finances.
 
 Les dispositions du présent article sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis-et-Futuna.
+française, des Terres australes et antarctiques françaises et de Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-123 1945-01-23 art. 2
-	  - Décret n°66-623 1966-08-19 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 1984-05-09 art. 35-2 JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 5 (V) JORF 28 juin 1991
 
 
 ###### Article R*310-9
@@ -16350,7 +16367,7 @@ c) Combinaisons.
 
 3. Corps de véhicules terrestres (autres que ferroviaires) :
 
-Tout dommage subi par :
+Toute dommage subi par :
 
 a) Véhicules terrestres à moteur ;
 
@@ -16388,7 +16405,7 @@ b) Explosion ;
 
 c) Tempête ;
 
-d) Eléments naturels autre que la tempête ;
+d) Eléments naturels autres que la tempête ;
 
 e) Energie nucléaire ;
 
@@ -16397,7 +16414,7 @@ f) Affaissement de terrain.
 9. Autres dommages aux biens :
 
 Tout dommage subi par les biens (autres que les biens compris dans les branches 3, 4, 5, 6 et 7) lorsque ce dommage est causé
-par la grêle ou la gelée, ainsi que par tout événement tel le vol, autre que ceux compris dans la branche 8.
+par la grêle ou la gelée, ainsi que par tout événement, tel le vol, autre que ceux compris dans la branche 8.
 
 10. Responsabilité civile véhicules terrestres automoteurs :
 
@@ -16442,7 +16459,7 @@ b) Insuffisance de recettes (générale) ;
 
 c) Mauvais temps ;
 
-d) Pertes de bénéfice ;
+d) Pertes de bénéfices ;
 
 e) Persistance de frais généraux ;
 
@@ -16460,40 +16477,72 @@ k) Autres pertes pécuniaires.
 
 17. Protection juridique.
 
-18. Réassurance :
-
-Toute opération d'acceptation en réassurance pratiquée par les entreprises dont l'activité s'étend à d'autres branches.
-
-19. Vie :
+20. Vie-Décès :
 
 Toute opération comportant des engagements dont l'exécution dépend de la durée de la vie humaine.
 
-20. Nuptialité et natalité :
+21. Nuptialité-Natalité :
 
 Toute opération ayant pour objet le versement d'un capital en cas de mariage ou de naissance d'enfants.
 
-21. Capitalisation :
+22. Assurances liées à des fonds d'investissement :
+
+Toutes opérations comportant des engagements dont l'exécution dépend de la durée de la vie humaine et liées à un fonds
+d'investissement.
+
+Les branches mentionnées aux 20, 21 et 22 comportent la pratique d'assurances complémentaires au risque principal, notamment
+celles ayant pour objet des garanties en cas de décès accidentel ou d'invalidité.
+
+23. Opérations tontinières :
+
+Toutes opérations comportant la constitution d'associations réunissant des adhérents en vue de capitaliser en commun leurs
+cotisations et de répartir l'avoir ainsi constitué soit entre les survivants, soit entre les ayants droit des décédés.
+
+24. Capitalisation :
 
 Toute opération d'appel à l'épargne en vue de la capitalisation et comportant, en échange de versements uniques ou
-périodiques, directs ou indirects, des engagements déterminés.
+périodiques, directs ou indirects, des engagements déterminés quant à leur durée et à leur montant.
 
-22. Acquisition d'immeubles :
+25. Gestion de fonds collectifs :
+
+Toute opération consistant à gérer les placements et notamment les actifs représentatifs des réserves d'entreprises autres
+que celles mentionnées à l'article L. 310-1 et qui fournissent des prestations en cas de vie, en cas de décès ou en cas de
+cessation ou de réduction d'activités.
+
+26. Prévoyance collective :
+
+Toute opération à caractère collectif définie à la section I du chapitre Ier du titre IV du livre IV.
+
+27. Acquisition d'immeubles :
 
 Toute opération ayant pour objet l'acquisition d'immeubles au moyen de la constitution de rentes viagères.
 
-23. Epargne :
+28. Epargne :
 
 Toute opération d'appel à l'épargne dans le but de réunir des sommes versées par les adhérents, soit en vue de les affecter à
 des comptes de dépôt portant intérêt, soit en vue de la capitalisation en commun, avec participation aux bénéfices d'autres
 sociétés, gérées ou administrées directement ou indirectement.
 
-24. Opérations tontinières.
+30. Réassurance :
+
+Toute opération d'acceptation en réassurance pratiquée par les entreprises dont l'activité s'étend à d'autres branches.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 1 () JORF 12 mai 1984
+	  - Décret n°84-349 du 9 mai 1984 - art. 2 (V) JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 2 (V)
+	  - TXT_SOURCE: Code des assurances - art. L321-1 (M)
+	  - TXT_ASSOCIE: Code des assurances R322-3
 
 	**Cité par**:
 
@@ -16567,11 +16616,8 @@ sociétés, gérées ou administrées directement ou indirectement.
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L321-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L321-1 (M)
 
 
 ###### Article R*321-2
@@ -16723,66 +16769,56 @@ de pertes et profits se substitue l'obligation de présenter les comptes globaux
 d'assurance, accompagnés de l'attestation que les certificats de commissaires aux comptes ont été fournis pour chaque
 assureur, prouvant que les engagements résultant de ces opérations sont entièrement couverts par l'actif ;
 
-b) Si la demande d'agrément a pour objet une ou plusieurs des branches ou sous-branches mentionnées aux 1 à 17 de l'article
-R. 321-1, un certificat de solvabilité délivré par l'autorité de contrôle du siège social, énumérant les branches que
-l'entreprise est habilitée à pratiquer ainsi que les risques qu'elle garantit effectivement, attestant qu'elle dispose du
-montant minimal du fonds de garantie ou, s'il est plus élevé, du montant réglementaire de la marge de solvabilité et
-indiquant qu'elle possède les moyens financiers nécessaires aux frais d'installation des services administratifs et du réseau
-de production ;
+b) un certificat de solvabilité délivré par l'autorité de contrôle du siège social, énumérant les branches que l'entreprise
+est habilitée à pratiquer ainsi que les risques qu'elle garantit effectivement, attestant qu'elle dispose du montant minimal
+du fonds de garantie ou, s'il est plus élevé, du montant réglementaire de la marge de solvabilité et indiquant qu'elle
+possède les moyens financiers nécessaires aux frais d'installation des services administratifs et du réseau de production ;
 
-b bis) Si la demande d'agrément est relative à une ou plusieurs des branches ou sous-branches mentionnées aux 19 à 24 de
-l'article R. 321-1, un certificat délivré par les autorités administratives compétentes, énumérant les branches que
-l'entreprise est habilitée à pratiquer ainsi que les risques qu'elle garantit effectivement, et attestant qu'elle est
-constituée et qu'elle fonctionne dans son pays d'origine conformément aux lois de ce pays ;
-
-c) Si la demande d'agrément a pour objet une ou plusieurs des branches ou sous-branches mentionnées aux 1 à 17 de l'article
-R. 321-1, la désignation d'une personne physique ou morale ayant la qualité de mandataire général et satisfaisant aux
-conditions fixées par décret en Conseil d'Etat pris après avis du conseil national des assurances.
+c) la désignation d'une personne physique ou morale ayant la qualité de mandataire général et satisfaisant aux conditions
+fixées par décret en Conseil d'Etat pris après avis du conseil national des assurances.
 
 Ce mandataire ne peut être récusé par le ministre de l'économie et des finances que pour des raisons touchant à
 l'honorabilité ou à la qualification technique, dans des conditions identiques à celles qui sont applicables aux dirigeants
 des entreprises françaises ;
 
-c bis) Si la demande d'agrément est relative à une ou plusieurs des branches mentionnées aux 19 à 24 de l'article R. 321-1,
-la proposition à l'acceptation du ministre de l'économie et des finances, en vue d'obtenir l'agrément spécial prévu à
-l'article L. 321-2, d'une personne physique ou morale ayant la qualité de mandataire général et satisfaisant aux conditions
-fixées par décret en Conseil d'Etat pris après avis du conseil national des assurances ;
-
 d) Un programme d'activités comprenant les pièces mentionnées au g, 1 à 6, de l'article R. 321-6.
 
-Pour les entreprises sollicitant l'agrément pour une ou plusieurs des branches ou sous-branches mentionnées aux 1 à 17 de
-l'article R. 321-1, le programme d'activités doit comporter en outre l'état de la marge de solvabilité de l'entreprise ; le
-ministre de l'économie et des finances demande l'avis de l'autorité de contrôle de l'Etat où l'entreprise a son siège social
-sur ce programme d'activités et, en l'absence de réponse à l'expiration d'un délai de trois mois à compter de la réception du
+Le programme d'activités doit comporter en outre l'état de la marge de solvabilité de l'entreprise ; le ministre de
+l'économie et des finances demande l'avis de l'autorité de contrôle de l'Etat où l'entreprise a son siège social sur ce
+programme d'activités et, en l'absence de réponse à l'expiration d'un délai de trois mois à compter de la réception du
 programme par ladite autorité, l'avis de celle-ci est réputé favorable ;
 
 e) La justification que l'entreprise possède, sur le territoire de la République française, pour ses opérations sur ce
 territoire, une succursale où elle fait élection de domicile.
 
-II. - En cas de demande d'extension d'agrément, les documents mentionnés au e et f de l'article R. 321-6 ainsi qu'aux c, c
-bis et e du présent article ne sont pas exigés.
+II. - En cas de demande d'extension d'agrément, les documents mentionnés aux e et f de l'article R. 321-6 ainsi qu'aux c et e
+du présent article ne sont pas exigés.
 
-Toutefois, si par application du 4ème alinéa de l'article R. 321-9 l'entreprise propose un second mandataire général, les
-documents mentionnés au c ou au c bis du présent article doivent être produits.
+Toutefois, si par application du 4e alinéa de l'article R. 321-9 l'entreprise propose un second mandataire général, les
+documents mentionnés au c du présent article doivent être produits.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
 
-	**Cite**:
+	**Liens**:
 
-	  - Code des assurances - art. L321-2 (M)
-	  - Code des assurances L321-2, R321-1, R321-6, R321-9
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - TXT_ASSOCIE: Code des assurances R321-9
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 6 () JORF 12 mai 1984
 
 	**Cité par**:
 
 	  - Code des assurances - art. R351-6 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code des assurances R321-9
+	  - Code des assurances R321-6, R321-9
 
 
 ###### Article R*321-11
@@ -16863,15 +16899,14 @@ publiés ;
 aux 4, 5, 6, 7, 12, 14 et 15 de l'article R. 321-1, deux exemplaires des tarifs.
 
 S'il s'agit d'opérations d'assurance comportant des engagements dont l'exécution dépend de la durée de la vie humaine,
-d'opérations ayant pour objet le versement d'un capital en cas de mariage ou de naissance d'enfants ou d'opérations ayant
-pour objet l'acquisition d'immeubles au moyen de la constitution de rentes viagères, l'entreprise doit produire le tarif
-complet des primes brutes ou cotisations, des primes pures et s'il y a lieu, des primes d'inventaire afférentes à toutes ces
-opérations, ainsi qu'une note technique exposant le mode d'établissement des tarifs et les bases de calcul des diverses
-catégories de primes ou cotisations.
-
-S'il s'agit d'opérations d'appel à l'épargne en vue de la capitalisation, l'entreprise doit produire le tarif complet des
-versements ou cotisations, accompagné de tableaux indiquant au moins année par année les provisions mathématiques et les
-valeurs de rachat correspondantes, ainsi que d'une note technique exposant le mode d'établissement de ces divers éléments.
+d'opérations complémentaires aux opérations précédentes, notamment celles ayant pour objet des garanties en cas de décès
+accidentel ou d'invalidité, ou d'opérations ayant pour objet le versement d'un capital en cas de mariage ou de naissance
+d'enfants, ou d'opérations ayant pour objet l'acquisition d'immeubles au moyen de la constitution de rentes viagères,
+l'entreprise doit produire le tarif afférent à toutes ces opérations, ainsi qu'une note technique exposant le mode
+d'établissement des tarifs et les bases de calcul des diverses catégories de primes ou cotisations. S'il s'agit d'opérations
+de prévoyance collective, l'entreprise doit produire une note technique exposant le mode d'établissement des tarifs, les
+modalités de détermination des primes ou cotisations annuelles ainsi que les indications relatives à la fixation du nombre
+d'unités de rente correspondant auxdites primes ou cotisations.
 
 S'il s'agit d'opérations tontinières, l'entreprise doit produire les tarifs et les barèmes afférents à toutes ses opérations,
 ainsi qu'une note technique exposant leur mode d'établissement.
@@ -16886,7 +16921,7 @@ financiers destinés à y faire face.
 - les prévisions relatives aux frais de gestion autres que les frais d'installation, notamment les frais généraux et les
 commissions ;
 
-- les prévisions relatives aux primes ou cotisations et aux sinistres ;
+- Les prévisions relatives aux primes ou cotisations et sinistres ;
 
 - la situation probable de trésorerie.
 
@@ -16894,13 +16929,11 @@ commissions ;
 
 - les prévisions relatives aux moyens financiers destinés à la couverture des engagements ;
 
-- lorsque la demande d'agrément concerne une ou plusieurs des branches ou sous-branches mentionnées aux 1 à 17 de l'article
-R. 321-1, les prévisions relatives à la marge de solvabilité que l'entreprise doit posséder en application du chapitre IV du
-titre III du présent livre.
+- Les prévisions relatives à la marge de solvabilité que l'entreprise doit posséder en application des dispositions des
+sections II ou III du chapitre IV du titre III du présent livre.
 
-8. Pour les entreprises sollicitant l'agrément pour les opérations comprises dans une ou plusieurs des branches ou sous-
-branches mentionnées aux 1 à 17 de l'article R. 321-1 la justification des éléments constituant le montant minimal du fonds
-de garantie que l'entreprise doit posséder conformément aux dispositions du chapitre IV du titre III du présent livre.
+8. La justification des éléments constituant le montant minimal du fonds de garantie que l'entreprise doit posséder, selon le
+cas, conformément aux dispositions des sections II ou III du chapitre IV du titre III du présent livre.
 
 II. - En cas de demande d'extension d'agrément, les documents mentionnés aux c, d, e et f du présent article ne sont pas
 exigés. L'entreprise doit en revanche justifier qu'elle dispose d'une marge de solvabilité au moins égale au montant
@@ -16910,15 +16943,19 @@ réglementaire.
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 5 () JORF 12 mai 1984
 
 	**Cité par**:
 
 	  - Code des assurances - art. R351-6 (V)
-
-	**Cite**:
-
-	  - Code des assurances R321-1
 
 
 ###### Article R321-8
@@ -16939,12 +16976,11 @@ c) La proposition à l'acceptation du ministre de l'économie et des finances, e
 l'article L. 321-2, d'une personne physique ou morale ayant la qualité de mandataire général et satisfaisant aux conditions
 fixées par décret en Conseil d'Etat pris après avis du conseil national des assurances ;
 
-d) Si la demande d'agrément est relative à une ou plusieurs des branches ou sous-branches mentionnées aux 1 à 17 de l'article
-R. 321-1, la justification que l'entreprise dispose sur le territoire de la République française d'actifs au moins égaux à la
-moitié du montant minimal du fonds de garantie qu'elle doit posséder conformément aux dispositions du chapitre IV du titre
-III du présent livre, et l'engagement de déposer le quart de ce montant à titre de cautionnement, sauf si l'entreprise est
-soumise à une vérification de solvabilité globale exercée par l'autorité de contrôle d'un Etat membre de la Communauté
-économique européenne autre que la France ;
+d) la justification que l'entreprise dispose sur le territoire de la République française d'actifs au moins égaux à la moitié
+du montant minimal du fonds de garantie qu'elle doit posséder conformément aux dispositions du chapitre IV du titre III du
+présent livre, et l'engagement de déposer le quart de ce montant à titre de cautionnement, sauf si l'entreprise est soumise à
+une vérification de solvabilité globale exercée par l'autorité de contrôle d'un Etat membre de la Communauté économique
+européenne autre que la France ;
 
 e) Un programme d'activités comportant les pièces mentionnées au g, 1 à 7, de l'article R. 321-6 ;
 
@@ -16961,24 +16997,29 @@ documents mentionnés au c du présent article doivent être produits.
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - TXT_ASSOCIE: Code des assurances R321-9
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 7 () JORF 12 mai 1984
 
 	**Cite**:
 
 	  - Code des assurances - art. L321-2 (M)
-	  - Code des assurances R321-6, L321-2, R321-1, R321-9
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R321-9
+	  - Code des assurances R321-6, L321-2, R321-9
 
 
 ###### Article R321-9
 
-Le mandataire général mentionné aux articles R. 321-7, c et c bis, et R. 321-8, c, s'il est une personne physique, doit avoir
-son domicile et résider sur le territoire de la République française et doit produire un extrait de son casier judiciaire
-datant de moins de trois mois ou un document équivalent délivré par une autorité judiciaire ou administrative compétente d'un
-Etat membre de la Communauté économique européenne autre que la France, ou à défaut, une déclaration sous serment ou une
+Le mandataire général mentionné aux articles R. 321-7, c et R. 321-8, c, s'il est une personne physique, doit avoir son
+domicile et résider sur le territoire de la République française et doit produire un extrait de son casier judiciaire datant
+de moins de trois mois ou un document équivalent délivré par une autorité judiciaire ou administrative compétente d'un Etat
+membre de la Communauté économique européenne autre que la France, ou à défaut, une déclaration sous serment ou une
 déclaration solennelle faite par lui devant une autorité compétente ou un notaire qui délivre une attestation faisant foi de
 ce serment ou de cette déclaration solennelle. S'il n'est pas de nationalité française, le mandataire général doit satisfaire
 aux dispositions des lois et règlements relatifs à la situation et à la police des étrangers.
@@ -17017,16 +17058,21 @@ françaises au Lloyd's, sont fixées par décret en Conseil d'Etat pris après a
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - TXT_ASSOCIE: Code des assurances R321-10
+	  - TXT_SOURCE: Code des assurances R321-7, R321-8
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 8 () JORF 12 mai 1984
 
 	**Cite**:
 
 	  - Code des assurances R321-1, R321-7, R321-8
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R321-10
-	  - TXT_SOURCE: Code des assurances R321-7, R321-8
 
 
 ###### Article R321-10
@@ -17080,13 +17126,21 @@ qualité et d'engager les souscripteurs ou syndicats de souscripteurs intéress�
 
 En ce qui concerne les entreprises dont le siège social est établi sur le territoire d'un Etat membre de la Communauté
 économique européenne, l'agrément administratif sollicité pour pratiquer l'une des branches ou sous-branches mentionnées aux
-1 à 17 de l'article R. 321-1, ne peut être refusé pour des motifs relatifs aux besoins économiques du marché.
+1 à 17 et 20 à 28, de l'article R. 321-1, ne peut être refusé pour des motifs relatifs aux besoins économiques du marché.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 3 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
 
 	**Cité par**:
 
@@ -17105,13 +17159,17 @@ En ce qui concerne les entreprises dont le siège social est établi sur le terr
 
 Le ministre de l'économie et des finances présente dans un délai de trois mois ses observations à l'autorité de contrôle d'un
 Etat membre de la Communauté économique européenne qui lui transmet pour avis le programme d'activité présenté par une
-entreprise française sollicitant de cette autorité l'agrément pour pratiquer des opérations d'assurances dommages.
+entreprise française sollicitant de cette autorité l'agrément pour pratiquer des opérations d'assurances.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 9 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -17483,6 +17541,34 @@ la moitié au moins du montant des actions ou coupures d'actions en numéraire s
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances R322-6, R322-9, R322-10
+
+
+###### Article R*322-6
+
+Les entreprises mentionnées à l'article R. 322-5 doivent avoir un capital social, non compris les apports en nature, au moins
+égal à cinq millions de francs pour pratiquer les opérations entrant dans les branches mentionnées aux 10 à 15 et aux 20, 21,
+22, 24, 25, 27, 28 et 30 de l'article R. 321-1.
+
+Les mêmes entreprises doivent, pour pratiquer des opérations entrant dans d'autres branches que celles énumérées à l'alinéa
+précédent, avoir un capital social, non compris les apports en nature, au moins égal à trois millions de francs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 2 (V) JORF 12 mai 1984
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R322-5 (2ème version)
+
+	**Cite**:
+
+	  - Code des assurances R322-5, R321-1
 
 
 ###### Article R*322-7
@@ -18493,6 +18579,41 @@ dispositions du premier alinéa de l'article R. 322-77.
 
 	  - TXT_ASSOCIE: Code des assurances - art. R*322-77 (M)
 	  - TXT_ASSOCIE: Code des assurances - art. R322-73 (M)
+
+
+###### Article R*322-44
+
+Les sociétés d'assurance à forme mutuelle doivent avoir un fonds d'établissement au moins égal à :
+
+- 2.500.000 F pour pratiquer les opérations mentionnées aux 10 à 15, 20, 21, 22, 24, 25, 27 et 28 de l'article R. 321-1 ;
+
+- 1.500.000 F pour pratiquer les opérations entrant dans d'autres branches que celles énumérées ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1206 1962-10-15 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 2 (V) JORF 12 mai 1984
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-80 (V)
+
+	**Cite**:
+
+	  - Code des assurances R321-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R322-42
 
 
 ###### Article R*322-45
@@ -21568,34 +21689,6 @@ susmentionnées pendant l'exercice inventorié, sans pouvoir excéder 5 % du mon
 	  - Code des assurances - art. R*322-135 (V)
 
 
-###### Article R*322-137
-
-La communication au ministre de l'économie et des finances des documents et éléments d'information mentionnés aux premier et
-cinquième alinéas de l'article R. 310-6 incombe au réassureur agréé.
-
-Les contrats d'assurance souscrits par les organismes dispensés de l'agrément administratif doivent indiquer, en caractères
-très apparents, les nom et adresse du réassureur agréé et mentionner l'engagement formel de ce dernier de prendre les lieu et
-place de l'assureur direct.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-446 1964-05-23 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
-
-	**Cite**:
-
-	  - Code des assurances R310-6
-
-
 ###### Article R*322-138
 
 Les organismes ayant demandé l'agrément administratif constitués avant le 27 mai 1964 peuvent conserver les placements
@@ -21627,6 +21720,34 @@ condition de rester dans les limites fixées par celles-ci.
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
+
+
+###### Article R322-137
+
+La communication au ministre de l'économie et des finances des documents et éléments d'information mentionnés aux premier et
+quatrième alinéas de l'article R. 310-6 incombe au réassureur agréé.
+
+Les contrats d'assurance souscrits par les organismes dispensés de l'agrément administratif doivent indiquer, en caractères
+très apparents, les nom et adresse du réassureur agréé et mentionner l'engagement formel de ce dernier de prendre les lieu et
+place de l'assureur direct.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 10 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
+
+	**Cite**:
+
+	  - Code des assurances R310-6
 
 
 ##### Section VII : Tontines.
@@ -21722,32 +21843,6 @@ associations.
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*322-140 (M)
-
-
-###### Article R*322-144
-
-Les valeurs appartenant aux associations formées par les entreprises françaises doivent être déposées aussitôt après leur
-acquisition soit à la Caisse des dépôts et consignations, soit à la Banque de France, au nom de l'entreprise, avec
-désignation des associations auxquelles elles appartiennent, reproduite sur les récépissés de dépôt.
-
-Ces valeurs ne peuvent être réalisées qu'à l'époque de la liquidation des associations ou en cas de remplois. Cette
-réalisation et ces remplois ne peuvent être effectués que sur visa préalable du ministre de l'économie et des finances.
-
-Ce visa ne peut être délivré qu'au vu d'une décision du conseil d'administration de l'entreprise indiquant le nombre et la
-nature des titres à aliéner, ainsi que la nature des titres de remploi. La valeur des titres de remploi doit être au moins
-égale à la valeur des titres aliénés.
-
-Les titres de remploi doivent être déposés, aussitôt après leur acquisition, dans les conditions prévues ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-03 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
 
 
 ###### Article R*322-145
@@ -21904,43 +21999,6 @@ l'association, sous réserve des délais fixés par les statuts pour la producti
 	  - Décret n°1941-08-03 art. 6, art. 7
 
 
-###### Article R*322-152
-
-A la fin de chaque année, l'intégralité de l'avoir de chaque association en cas de décès est répartie entre les ayants droit
-des sociétaires décédés au cours de l'année, sous la seule déduction des prélèvements qui pourraient être spécifiés par les
-statuts en conformité du 9° de l'article R. 322-155.
-
-La répartition de l'intégralité de l'avoir de chaque association en cas de décès ne peut être faite que sur visa du ministre
-de l'économie et des finances.
-
-La répartition est effectuée au prorata des sommes correspondant à chaque cotisation, conformément à l'article R. 322-149.
-
-Pour l'association dite de contre-assurance, la répartition est effectuée au prorata des sommes versées sur les souscriptions
-aux associations en cas de survie.
-
-La répartition ne peut être arrêtée qu'au vu des pièces justifiant du décès des sociétaires, sous réserve des délais fixés
-par les statuts pour la production desdites pièces.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*322-140 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*322-155 (M)
-	  - Code des assurances R322-149, R322-155
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-03 art. 9, art. 10, art. 11
-
-
 ###### Article R*322-153
 
 Chaque association en cas de survie doit être liquidée dans l'année qui suit son expiration.
@@ -21976,60 +22034,6 @@ font partie leur procurera une somme déterminée à l'avance.
 	**Anciens textes**:
 
 	  - Décret n°1938-12-30 art. 94
-
-
-###### Article R*322-155
-
-Les statuts des sociétés à forme tontinière doivent spécifier, sous réserve des prescriptions contenues dans le présent
-livre :
-
-1° Les conditions de formation et de durée des associations en cas de survie et des associations en cas de décès ;
-
-2° La cessation, en cas de décès du sociétaire, du versement des annuités que le souscripteur aurait encore à faire aux
-associations en cas de survie ;
-
-3° La réduction des droits acquis au bénéficiaire s'il y a eu cessation des versements du souscripteur aux associations en
-cas de survie, sous la condition de justifier de l'existence du sociétaire et du paiement d'une fraction de la souscription
-totale, sans que les statuts puissent fixer cette fraction à plus de trois dixièmes ;
-
-4° Les bases de répartition pour les contrats ainsi réduits, avec exclusion ou non du partage des intérêts et bénéfice ;
-
-5° Les délais et les formes dans lesquels la société est tenue d'aviser les intéressés de l'expiration des associations en
-cas de survie ;
-
-6° Les délais pour la production des pièces et justifications réglementaires à l'appui des liquidations d'associations, ainsi
-que l'affectation des sommes non retirées par les ayants droit, dans un délai déterminé, à partir du 31 décembre de l'année
-pendant laquelle a eu lieu la répartition ;
-
-7° L'affectation des fonds des associations en cas de survie, qui ne pourraient être liquidées par suite du décès ou de la
-forclusion de tous leurs membres, ainsi que des associations en cas de décès qui ne pourraient être liquidées par suite de
-l'absence de décès ;
-
-8° Le mode de paiement des cotisations aux associations en cas de décès, qui doivent être exigibles d'avance au début de
-chaque année, sauf la première, qui peut être payée à l'échéance choisie par le souscripteur et qui doit alors être réduite
-d'un quart, de la moitié ou des trois quarts, selon que le versement de la cotisation a lieu dans le deuxième, le troisième
-ou le quatrième trimestre de l'année ;
-
-9° La quotité des prélèvements qui pourraient être affectés à la constitution d'une provision en faveur des survivants des
-associations en cas de décès ;
-
-10° Les conditions dans lesquelles la société, en cas de dissolution non motivée par un retrait d'agrément, peut procéder à
-la liquidation par anticipation des associations en cours, en vertu d'une délibération spéciale de l'assemblée générale des
-souscripteurs et sous réserve du visa du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. R322-152 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 95
 
 
 ###### Article R*322-156
@@ -22156,6 +22160,126 @@ mention ci-après en caractères uniformes : "société à forme tontinière".
 	  - TXT_ASSOCIE: Code des assurances R322-159 *sanctions civiles*
 
 
+###### Article R322-144
+
+Pour les sociétés à forme tontinière dont la marge de solvabilité n'atteint pas le montant minimal réglementaire, le ministre
+de l'économie, des finances et du budget peut requérir que les valeurs appartenant aux associations formées par lesdites
+sociétés soient déposées, aussitôt après leur acquisition ou, le cas échéant, inscrites en compte soit à la Caisse des dépôts
+et consignations, soit à la Banque de France, au nom de l'entreprise, avec désignation des associations auxquelles elles
+appartiennent, reproduite sur les récépissés de dépôt ou certificats constatant l'indisponibilité des valeurs.
+
+Ces valeurs ne peuvent être réalisées qu'à l'époque de la liquidation des associations ou en cas de remplois. Cette
+réalisation et ces remplois ne peuvent être effectués que sur visa préalable du ministre de l'économie et des finances.
+
+Ce visa ne peut être délivré qu'au vu d'une décision du conseil d'administration de l'entreprise indiquant le nombre et la
+nature des titres à aliéner, ainsi que la nature des titres de remploi. La valeur des titres de remploi doit être au moins
+égale à la valeur des titres aliénés.
+
+Les titres de remploi doivent être déposés, aussitôt après leur acquisition, dans les conditions prévues ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 1984-04-09 art. 36
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 11 () JORF 12 mai 1984
+
+
+###### Article R322-152
+
+A la fin de chaque année, l'intégralité de l'avoir de chaque association en cas de décès est répartie entre les ayants droit
+des sociétaires décédés au cours de l'année, sous la seule déduction des prélèvements qui pourraient être spécifiés par les
+statuts en conformité du 9° de l'article R. 322-155. 
+
+La répartition est effectuée au prorata des sommes correspondant à chaque cotisation, conformément à l'article R. 322-149.
+
+Pour l'association dite de contre-assurance, la répartition est effectuée au prorata des sommes versées sur les souscriptions
+aux associations en cas de survie. 
+
+La répartition ne peut être arrêtée qu'au vu des pièces justifiant du décès des sociétaires, sous réserve des délais fixés
+par les statuts pour la production desdites pièces.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 12 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*322-149 (V)
+	  - Code des assurances - art. R322-155 (V)
+
+
+###### Article R322-155
+
+Les statuts des sociétés à forme tontinière doivent spécifier, sous réserve des prescriptions contenues dans le présent
+livre :
+
+1° Les conditions de formation et de durée des associations en cas de survie et des associations en cas de décès ;
+
+2° La cessation, en cas de décès du sociétaire, du versement des annuités que le souscripteur aurait encore à faire aux
+associations en cas de survie ;
+
+3° La réduction des droits acquis au bénéficiaire s'il y a eu cessation des versements du souscripteur aux associations en
+cas de survie, sous la condition de justifier de l'existence du sociétaire et du paiement d'une fraction de la souscription
+totale, sans que les statuts puissent fixer cette fraction à plus de trois dixièmes ;
+
+4° Les bases de répartition pour les contrats ainsi réduits, avec exclusion ou non du partage des intérêts et bénéfices ;
+
+5° Les délais et les formes dans lesquels la société est tenue d'aviser les intéressés de l'expiration des associations en
+cas de survie ;
+
+6° Les délais pour la production des pièces et justifications réglementaires à l'appui des liquidations d'associations, ainsi
+que l'affectation des sommes non retirées par les ayants droit, dans un délai déterminé, à partir du 31 décembre de l'année
+pendant laquelle a eu lieu la répartition ;
+
+7° L'affectation des fonds des associations en cas de survie, qui ne pourraient être liquidées par suite du décès ou de la
+forclusion de tous leurs membres, ainsi que des associations en cas de décès qui ne pourraient être liquidées par suite de
+l'absence de décès ;
+
+8° Le mode de paiement des cotisations aux associations en cas de décès, qui doivent être exigibles d'avance au début de
+chaque année, sauf la première, qui peut être payée à l'échéance choisie par le souscripteur et qui doit alors être réduite
+d'un quart, de la moitié ou des trois quarts, selon que le versement de la cotisation a lieu dans le deuxième, le troisième
+ou le quatrième trimestre de l'année ;
+
+9° La quotité des prélèvements qui pourraient être affectés à la constitution d'une provision en faveur des survivants des
+associations en cas de décès ;
+
+10° Les conditions dans lesquelles la société, en cas de dissolution non motivée par un retrait d'agrément, peut procéder à
+la liquidation par anticipation des associations en cours, en vertu d'une délibération spéciale de l'assemblée générale des
+souscripteurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 13 () JORF 12 mai 1984
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-152 (V)
+
+
 #### Chapitre III : Procédures de redressement et de sauvegarde
 
 ###### Article R*323-10
@@ -22243,194 +22367,6 @@ qu'après examen de sa situation par la commission.
 
 
 ##### Section I : Règles générales.
-
-###### Article R*323-1
-
-Lorsque l'activité d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1 est de nature à conduire à
-une situation telle que cette entreprise ne donnerait plus de garanties suffisantes pour tenir ses engagements ou qu'elle
-risquerait de ne plus fonctionner conformément à la réglementation en vigueur, le ministre de l'économie et des finances peut
-lui adresser un avertissement par lettre recommandée et exiger que lui soit soumis pour approbation, dans le délai d'un mois,
-un programme de rétablissement, prévoyant toutes mesures propres à restaurer l'équilibre de l'entreprise.
-
-Dès l'envoi de l'avertissement prévu à l'alinéa précédent, le ministre de l'économie et des finances peut charger un
-commissaire-contrôleur d'exercer une surveillance permanente de l'entreprise. Ce commissaire-contrôleur, qui a notamment pour
-mission de veiller à l'exécution du programme de rétablissement, dispose, en outre des pouvoirs de vérification et de
-contrôle réglementairement attribués aux commissaires-contrôleurs des assurances, des droits d'investigation les plus
-étendus : il doit, notamment, être avisé immédiatement de toutes les décisions prises par le conseil d'administration ou par
-la direction de l'entreprise ; il peut se faire rendre compte de l'exécution de ces décisions et des mesures prévues par le
-programme de rétablissement.
-
-Si l'entreprise refuse de produire un programme de rétablissement, ou si celui qu'elle a soumis ne recueille pas
-l'approbation du ministre de l'économie et des finances, ou si le programme approuvé n'est pas exécuté dans les conditions et
-délais prévus, le ministre peut, sans préjudice de l'application des dispositions relatives au retrait de l'agrément
-administratif, adresser une communication au conseil national des assurances sur la situation de l'entreprise en cause, et,
-après avis de ce conseil, rendre éventuellement publique cette communication.
-
-Si l'entreprise ne satisfait pas à la réglementation relative aux provisions techniques, le ministre de l'économie et des
-finances peut interdire la libre disposition des actifs de l'entreprise localisés sur le territoire de la République
-française et prendre toutes mesures propres à sauvegarder les intérêts des assurés et bénéficiaires de contrats. S'il s'agit
-d'une entreprise étrangère pratiquant une ou plusieurs des branches mentionnées aux 1 à 17 de l'article R. 321-1 et dont le
-siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne, le ministre de l'économie
-et des finances doit au préalable informer de cette interdiction l'autorité de contrôle du pays du siège social. Lorsque
-l'interdiction concerne une entreprise étrangère pratiquant une ou plusieurs des branches mentionnées aux 1 à 17 de l'article
-R. 321-1, dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté économique européenne, et
-qui fait l'objet d'une vérification de solvabilité globale définie à l'article R. 334-11 et exercée par une autorité de
-contrôle autre que le ministre de l'économie et des finances, celui-ci doit au préalable informer de cette interdiction
-l'autorité qui exerce ladite vérification.
-
-Les dirigeants de l'entreprise qui ne produit pas un programme de rétablissement, ou qui n'exécute pas dans les conditions et
-délais prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
-	  - TXT_ASSOCIE: Code des assurances R328-1, R323-8 *sanctions*
-
-	**Cite**:
-
-	  - Code des assurances - art. R*334-11 (M)
-	  - Code des assurances R321-1, R334-11, R328-1
-
-	**Cité par**:
-
-	  - Code des assurances - art. R310-17 (VT)
-	  - Code des assurances - art. R322-11-1 (M)
-	  - Code des assurances - art. R323-1-1 (V)
-	  - Code des assurances - art. R323-5 (VT)
-	  - Code des assurances - art. R323-8 (M)
-	  - Code des assurances - art. R328-1 (V)
-	  - Code des assurances - art. R364-1 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-06-14 art. 8 bis
-
-
-###### Article R*323-2
-
-Lorsque la marge de solvabilité d'une entreprise française pratiquant une ou plusieurs des branches mentionnées aux 1 à 17 de
-l'article R. 321-1 n'atteint pas le montant réglementaire, le ministre de l'économie et des finances exige un plan de
-redressement, qui doit être soumis dans le délai d'un mois à son approbation.
-
-Les dirigeants de l'entreprise qui ne produit pas un plan de redressement, ou qui n'exécute pas dans les conditions et délais
-prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*325-1 (Ab)
-	  - Code des assurances - art. R*334-33 (Ab)
-	  - Code des assurances - art. R322-11-1 (M)
-	  - Code des assurances - art. R328-1 (V)
-	  - Code des assurances - art. R334-28 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances R321-1, R328-1
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R328-1 *sanctions pénales*
-
-
-###### Article R*323-3
-
-Lorsque la marge de solvabilité d'une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat
-membre de la Communauté économique européenne, qui pratique une ou plusieurs des branches mentionnées aux 1 à 17 de l'article
-R. 321-1, et qui ne fait l'objet d'aucune vérification de solvabilité globale, n'atteint pas le montant réglementaire, le
-ministre de l'économie et des finances exige un plan de redressement, qui doit être soumis à son approbation dans le délai
-d'un mois.
-
-Il en est de même lorsque l'entreprise fait l'objet d'une vérification de solvabilité globale exercée par le ministre de
-l'économie et des finances.
-
-Les dirigeants de l'entreprise qui ne produit pas un plan de redressement, ou qui n'exécute pas dans les conditions et délais
-prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*325-6 (Ab)
-	  - Code des assurances - art. R328-1 (V)
-
-	**Cite**:
-
-	  - Code des assurances R321-1, R328-1
-
-
-###### Article R*323-4
-
-Lorsque la marge de solvabilité d'une entreprise française pratiquant une ou plusieurs des branches mentionnées aux 1 à 17 de
-l'article R. 321-1 n'atteint pas le fonds de garantie, le ministre de l'économie et des finances exige de l'entreprise un
-plan de financement à court terme, qui doit être soumis dans le délai d'un mois à son approbation.
-
-Les dirigeants de l'entreprise qui ne produit pas un plan de financement à court terme, ou qui n'exécute pas dans les
-conditions et délais prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*325-1 (Ab)
-	  - Code des assurances - art. R*334-33 (Ab)
-	  - Code des assurances - art. R322-11-1 (M)
-	  - Code des assurances - art. R328-1 (M)
-	  - Code des assurances - art. R334-28 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances R321-1, R328-1
-
-
-###### Article R*323-5
-
-Lorsque la marge de solvabilité d'une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat
-membre de la Communauté économique européenne, qui pratique une ou plusieurs des branches mentionnées aux 1 à 17 de l'article
-R. 321-1 et qui ne fait l'objet d'aucune vérification de solvabilité globale, n'atteint pas le fonds de garantie, le ministre
-de l'économie et des finances exige de l'entreprise un plan de financement à court terme, qui doit être soumis à son
-approbation dans le délai d'un mois.
-
-Il en est de même lorsque l'entreprise fait l'objet d'une vérification de solvabilité globale exercée par le ministre de
-l'économie et des finances.
-
-Les dirigeants de l'entreprise qui ne produit pas un plan de financement à court terme, ou qui n'exécute pas dans les
-conditions et délais prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*325-6 (Ab)
-	  - Code des assurances - art. R328-1 (M)
-
-	**Cite**:
-
-	  - Code des assurances R321-1, R328-1
-
 
 ###### Article R*323-6
 
@@ -22698,6 +22634,202 @@ assurés suivant les modalités qui sont fixées par le ministre de l'économie 
 	  - Code des assurances - art. L323-6 (Ab)
 
 
+###### Article R323-1
+
+Lorsque l'activité d'une entreprise soumise au contrôle d'Etat en vertu de l'article L. 310-1 est de nature à conduire à une
+situation telle que cette entreprise ne donnerait plus de garanties suffisantes pour tenir ses engagements ou qu'elle
+risquerait de ne plus fonctionner conformément à la réglementation en vigueur, le ministre de l'économie et des finances peut
+lui adresser un avertissement par lettre recommandée et exiger que lui soit soumis pour approbation, dans le délai d'un mois,
+un programme de rétablissement, prévoyant toutes mesures propres à restaurer l'équilibre de l'entreprise.
+
+Dès l'envoi de l'avertissement prévu à l'alinéa précédent, le ministre de l'économie et des finances peut charger un
+commissaire-contrôleur d'exercer une surveillance permanente de l'entreprise. Ce commissaire-contrôleur, qui a notamment pour
+mission de veiller à l'exécution du programme de rétablissement, dispose, en outre des pouvoirs de vérification et de
+contrôle réglementaire attribués aux commissaires-contrôleurs des assurances, des droits d'investigation les plus étendus :
+il doit, notamment, être avisé immédiatement de toutes les décisions prises par le conseil d'administration ou par la
+direction de l'entreprise ; il peut se faire rendre compte de l'exécution de ces décisions et des mesures prévues par le
+programme de rétablissement.
+
+Si l'entreprise refuse de produire un programme de rétablissement, ou si celui qu'elle a soumis ne recueille pas
+l'approbation du ministre de l'économie et des finances, ou si le programme approuvé n'est pas exécuté dans les conditions et
+délais prévus, le ministre peut, sans préjudice de l'application des dispositions relatives au retrait de l'agrément
+administratif, adresser une communication au conseil national des assurances sur la situation de l'entreprise en cause, et,
+après avis de ce conseil, rendre éventuellement publique cette communication.
+
+Si l'entreprise ne satisfait pas à la réglementation relative aux provisions techniques, le ministre de l'économie et des
+finances peut interdire la libre disposition des actifs de l'entreprise localisés sur le territoire de la République
+française et prendre toutes mesures propres à sauvegarder les intérêts des assurés et bénéficiaires de contrats. S'il s'agit
+d'une entreprise étrangère dont le siège social est établi sur le territoire d'un Etat membre de la Communauté économique
+européenne, le ministre de l'économie, des finances et du budget doit au préalable informer de cette interdiction l'autorité
+de contrôle du pays du siège social. Lorsque l'interdiction concerne une entreprise étrangère dont le siège social n'est pas
+établi sur le territoire d'un Etat membre de la Communauté économique européenne, et qui fait l'objet d'une vérification de
+solvabilité globale définie à la section IV du chapitre IV du titre III du présent livre et exercée par une autorité de
+contrôle autre que le ministre de l'économie, des finances et du budget, celui-ci doit au préalable informer de cette
+interdiction l'autorité qui exerce ladite vérification.
+
+Les dirigeants de l'entreprise qui ne produit pas un programme de rétablissement, ou qui n'exécute pas dans les conditions et
+délais prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 14 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+	  - TXT_ASSOCIE: Code des assurances R328-1 *sanctions pénales*
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R310-17 (VT)
+	  - Code des assurances - art. R322-11-1 (M)
+	  - Code des assurances - art. R323-1-1 (V)
+	  - Code des assurances - art. R323-5 (VT)
+	  - Code des assurances - art. R323-8 (M)
+	  - Code des assurances - art. R328-1 (V)
+	  - Code des assurances - art. R364-1 (VD)
+
+
+###### Article R323-2
+
+Lorsque la marge de solvabilité d'une entreprise française n'atteint pas le montant réglementaire, le ministre de l'économie,
+des finances et du budget exige un plan de redressement, qui doit être soumis dans le délai d'un mois à son approbation.
+
+Les dirigeants de l'entreprise qui ne produit pas un plan de redressement, ou qui n'exécute pas dans les conditions et délais
+prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 15 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*325-1 (Ab)
+	  - Code des assurances - art. R*334-33 (Ab)
+	  - Code des assurances - art. R322-11-1 (M)
+	  - Code des assurances - art. R328-1 (V)
+	  - Code des assurances - art. R334-28 (Ab)
+
+
+###### Article R323-3
+
+Lorsque la marge de solvabilité d'une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat
+membre de la Communauté économique européenne et qui ne fait l'objet d'aucune vérification de solvabilité globale, n'atteint
+pas le montant réglementaire, le ministre de l'économie, des finances et du budget exige un plan de redressement, qui doit
+être soumis à son approbation dans le délai d'un mois.
+
+Il en est de même lorsque l'entreprise fait l'objet d'une vérification de solvabilité globale exercée par le ministre de
+l'économie et des finances.
+
+Les dirigeants de l'entreprise qui ne produit pas un plan de redressement, ou qui n'exécute pas dans les conditions et délais
+prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 16 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*325-6 (Ab)
+	  - Code des assurances - art. R328-1 (V)
+
+
+###### Article R323-4
+
+Lorsque la marge de solvabilité d'une entreprise française n'atteint pas le fonds de garantie, ou si le fonds n'est pas
+constitué réglementairement, le ministre de l'économie, des finances et du budget exige de l'entreprise un plan de
+financement à court terme, qui doit être soumis dans le délai d'un mois à son approbation.
+
+Les dirigeants de l'entreprise qui ne produit pas un plan de financement à court terme, ou qui n'exécute pas dans les
+conditions et délais prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 17 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*325-1 (Ab)
+	  - Code des assurances - art. R*334-33 (Ab)
+	  - Code des assurances - art. R322-11-1 (M)
+	  - Code des assurances - art. R328-1 (M)
+	  - Code des assurances - art. R334-28 (Ab)
+
+
+###### Article R323-5
+
+Lorsque la marge de solvabilité d'une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat
+membre de la Communauté économique européenne et qui ne fait l'objet d'aucune vérification de solvabilité globale, n'atteint
+pas le fonds de garantie ou si ce fonds n'est pas constitué réglementairement, le ministre de l'économie, des finances et du
+budget exige de l'entreprise un plan de financement à court terme, qui doit être soumis à son approbation dans le délai d'un
+mois.
+
+Il en est de même lorsque l'entreprise fait l'objet d'une vérification de solvabilité globale exercée par le ministre de
+l'économie et des finances.
+
+Les dirigeants de l'entreprise qui ne produit pas un plan de financement à court terme, ou qui n'exécute pas dans les
+conditions et délais prévus celui qui a été approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 18 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*325-6 (Ab)
+	  - Code des assurances - art. R328-1 (M)
+
+
 #### Chapitre IV : Transfert de portefeuille
 
 ##### Section I : Règles générales.
@@ -22736,36 +22868,53 @@ L'autorité administrative mentionnée à l'article L. 324-1 est le ministre de 
 
 ###### Article R*324-2
 
-A l'égard des entreprises agréées pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de l'article R. 321-1,
-le ministre de l'économie et des finances ne prend la décision d'approbation de transfert prévue à l'article L. 324-1 que si
-l'entreprise cessionnaire possède, compte tenu du transfert, une marge de solvabilité au moins égale au montant réglementaire
-et qu'après avoir consulté, s'il y a lieu, les autorités de contrôle d'Etats membres de la Communauté économique européenne
-autres que la France.
+Le ministre de l'économie, des finances et du budget ne prend la décision d'approbation de transfert prévue à l'article L.
+324-1 que si l'entreprise cessionnaire possède, compte tenu du transfert, une marge de solvabilité au moins égale au montant
+réglementaire et qu'après avoir consulté, s'il y a lieu, les autorités de contrôle d'Etats membres de la Communauté
+économique européenne autres que la France.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 19 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°94-635 du 25 juillet 1994 - art. 10 () JORF 26 juillet 1994
 
 	**Cite**:
 
 	  - Code des assurances - art. L324-1 (M)
-	  - Code des assurances R321-1, L324-1
 
 
 ###### Article R*324-3
 
-Le ministre de l'économie et des finances fait connaître ses observations à l'autorité de contrôle d'un Etat membre de la
-Communauté économique européenne qui l'informe qu'une demande est présentée par une entreprise française d'assurance
-pratiquant des opérations d'assurances dommages aux fins de transférer dans ledit Etat tout ou partie de son portefeuille de
-contrats.
+Le ministre de l'économie, des finances et du budget fait connaître ses observations à l'autorité de contrôle d'un Etat
+membre de la Communauté économique européenne qui l'informe qu'une demande est présentée par une entreprise française
+d'assurance aux fins de transférer dans ledit Etat tout ou partie de son portefeuille de contrats.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 20 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
 
 
 ##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur - Transfert d'office.
@@ -22900,24 +23049,6 @@ financement à court terme mentionnés aux articles R. 323-2 et R. 323-4 ;
 	  - Code des assurances - art. R*323-4 (M)
 
 
-###### Article R*325-2
-
-Si le retrait d'agrément prévu à l'article R. 325-1 concerne une entreprise pratiquant une ou plusieurs des branches
-mentionnées aux 1 à 17 de l'article R. 321-1, le ministre de l'économie et des finances informe, le cas échéant, les
-autorités de contrôle des Etats membres de la Communauté économique européenne sur le territoire desquels l'entreprise est
-agréée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances R321-1, R325-1
-
-
 ###### Article R*325-3
 
 L'agrément administratif accordé à une entreprise étrangère dont le siège social est établi sur le territoire d'un Etat
@@ -22938,39 +23069,6 @@ concerne les provisions techniques.
 	**Abrogé par**:
 
 	  - Décret n°90-815 du 14 septembre 1990 - art. 17 (V) JORF 15 septembre 1990
-
-
-###### Article R*325-4
-
-Si le retrait d'agrément prévu à l'article R. 325-3 concerne une entreprise pratiquant une ou plusieurs des branches
-mentionnées aux 1 à 17 de l'article R. 321-1, avant de procéder au retrait d'agrément, le ministre de l'économie et des
-finances consulte l'autorité de contrôle de l'Etat où est situé le siège social de l'entreprise.
-
-Toutefois, le ministre peut suspendre l'activité de l'entreprise sur le territoire de la République française avant l'issue
-de cette consultation. Dans ce cas, il en informe immédiatement l'autorité de contrôle intéressée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances R321-1, R325-3
-
-
-###### Article R*325-5
-
-Le ministre de l'économie et des finances fait connaître ses observations à l'autorité de contrôle d'un Etat membre de la
-Communauté économique européenne qui le consulte à l'occasion du retrait d'un agrément précédemment accordé dans cet Etat à
-une entreprise française d'assurance pratiquant des opérations d'assurances dommages.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
 
 
 ###### Article R*325-6
@@ -23074,24 +23172,6 @@ notamment celles prévues à l'article R. 323-8.
 	  - Code des assurances - art. R*323-8 (M)
 
 
-###### Article R*325-11
-
-Toute décision de retrait de l'agrément administratif ou de suspension d'activité doit être motivée de façon précise et
-notifiée à l'entreprise intéressée si cette décision s'applique à une entreprise française ou à une entreprise étrangère dont
-le siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne, pratiquant une ou
-plusieurs des branches mentionnées aux 1 à 17 de l'article R. 321-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-
 ###### Article R*325-12
 
 Sauf dans les cas prévus aux articles R. 325-8 et R. 325-9, l'agrément administratif ne peut être retiré, totalement ou
@@ -23141,20 +23221,122 @@ L'agrément administratif est retiré par arrêté publié au Journal officiel.
 	  - Décret n°76-667 1976-07-16
 
 
-###### Article R*325-14
+###### Article R325-2
 
-Les dispositions de la présente section sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis-et-Futuna.
+Si le retrait d'agrément prévu à l'article R. 325-1 concerne une entreprise agréée également sur le territoire d'autres Etats
+membres de la Communauté économique européenne, le ministre de l'économie, des finances et du budget informe les autorités de
+contrôle de ces Etats.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Ordonnance 45-2241 1945-09-29 art. 14
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 21 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+
+	**Cite**:
+
+	  - Code des assurances R325-1
+
+
+###### Article R325-4
+
+Avant de procéder au retrait d'agrément prévu à l'article R. 325-3, le ministre de l'économie, des finances et du budget
+consulte l'autorité de contrôle de l'Etat où est situé le siège social de l'entreprise concernée.
+
+Toutefois, le ministre peut suspendre l'activité de l'entreprise sur le territoire de la République française avant l'issue
+de cette constitution. Dans ce cas, il en informe immédiatement l'autorité de contrôle intéressée.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 22 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+
+	**Cite**:
+
+	  - Code des assurances R325-3
+
+
+###### Article R325-5
+
+Le ministre de l'économie, des finances et du budget fait connaître ses observations à l'autorité de contrôle d'un Etat
+membre de la Communauté économique européenne qui le consulte à l'occasion du retrait d'un agrément précédemment accordé dans
+cet Etat à une entreprise française mentionnée à l'article L. 310-1 du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 23 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+
+###### Article R325-11
+
+Toute décision de retrait de l'agrément administratif ou de suspension d'activité doit être motivée de façon précise et
+notifiée à l'entreprise intéressée, si cette décision s'applique à une entreprise française ou à une entreprise étrangère
+dont le siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 24 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
+
+
+###### Article R325-14
+
+Les dispositions de la présente section sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
+française, des Terres australes et antarctiques françaises et de Wallis-et-Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 35 () JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
 
 
 ##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.
@@ -23564,20 +23746,24 @@ conseil national des assurances.
 	  - Décret n°1938-12-30 art. 149
 
 
-###### Article R*331-2
+###### Article R331-2
 
 Les dispositions du présent chapitre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis et Futuna.
+française, des Terres australes et antarctiques françaises et de Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2241 1945-09-29 art. 14
-
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 1984-05-09 art. 35 2 JORF 12 mai 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
 
 
 ##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.
@@ -25400,10 +25586,11 @@ l'économie et des finances, afin qu'après transfert l'entreprise satisfasse in
 représentation de ses engagements et la localisation de ses actifs sur le territoire de la République française.
 
 Toutefois, cette autorisation préalable n'est pas exigée d'une entreprise française ou d'une entreprise étrangère dont le
-siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne, agréée pour pratiquer une
-ou plusieurs des branches mentionnées aux 1 à 17 de l'article R. 321-1. L'entreprise intéressée doit néanmoins être en mesure
-de justifier qu'après transfert elle satisfait intégralement à ses obligations concernant la représentation de ses
-engagements et la localisation de ses actifs sur le territoire de la République française.
+siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne.
+
+L'entreprise intéressée doit néanmoins être en mesure de justifier qu'après transfert elle satisfait intégralement à ses
+obligations concernant la représentation de ses engagements et la localisation de ses actifs sur le territoire de la
+République française.
 
 Les dirigeants d'une entreprise qui procède sans autorisation préalable à un transfert mentionné au premier alinéa sont
 passibles des sanctions prévues à l'article R. 328-1.
@@ -25414,15 +25601,19 @@ passibles des sanctions prévues à l'article R. 328-1.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 25 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°90-981 du 5 novembre 1990 - art. 13 (V) JORF 6 novembre 1990
+
 	**Cité par**:
 
 	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
 	  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
-
-	**Cite**:
-
 	  - Code des assurances - art. R*328-1 (M)
-	  - Code des assurances R321-1, R328-1
 
 	**Liens**:
 
@@ -26437,26 +26628,61 @@ française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques fr
 
 ##### Section I : La marge de solvabilité
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.
+##### Dispositions communes.
 
-###### Article R*334-1
+###### Article R*334-2
 
-Toute entreprise française agréée pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de l'article R. 321-1
-doit justifier de l'existence d'une marge de solvabilité suffisante, relative à l'ensemble de ses activités.
+Pour l'application des dispositions du présent chapitre, le ministre de l'Economie, des Finances et du Budget constate et
+notifie aux entreprises la contre-valeur en francs de l'unité de compte de la Communauté économique européenne à retenir.
 
-Cette obligation dispense les sociétés anonymes du prélèvement prescrit par l'article 345 de la loi n° 66-537 du 24 juillet
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-1 (M)
+	  - Code des assurances - art. R*334-5 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R323-1-1 (V)
+	  - Code des assurances - art. R335-2 (VD)
+
+
+###### Article R334-1
+
+Toute entreprise française soumise au contrôle de l'Etat en vertu de l'article L. 310-1 doit justifier de l'existence d'une
+marge de solvabilité suffisante, relative à l'ensemble de ses activités.
+
+Cette disposition dispense les sociétés anonymes du prélèvement prescrit par l'article 345 de la loi n° 66-537 du 24 juillet
 1966 sur les sociétés commerciales.
+
+Sous réserve des dispositions de la section IV du présent chapitre, toute entreprise étrangère soumise au contrôle de l'Etat
+en vertu de l'article L. 310-1 et dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
+économique européenne, doit justifier de l'existence d'une marge de solvabilité suffisante relative à ses activités sur le
+territoire de la République française.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°66-537 1966-07-24 art. 345
-	  - Code des assurances R321-1
+	  - Code des assurances - art. L310-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -26468,11 +26694,15 @@ Cette obligation dispense les sociétés anonymes du prélèvement prescrit par 
 	  - Code des assurances - art. R334-4 (M)
 
 
-###### Article R*334-2
+##### Section II : La marge de solvabilité des entreprises d'assurance de dommages
 
-La marge de solvabilité mentionnée à l'article R. 334-1 est constituée par des actifs dont le montant est égal, après
-déduction des pertes, des amortissements restant à réaliser sur commissions, des frais d'établissement ou de développement et
-des autres actifs incorporels, au total des éléments suivants :
+##### Paragraphe 1 : Constitution de la marge de solvabilité.
+
+###### Article R334-3
+
+La marge de solvabilité mentionnée à l'article R. 334-1 est constituée après déduction des pertes, des amortissements restant
+réaliser sur commissions, des frais d'établissement ou de développement et des autres actifs incorporels, par les éléments
+suivants :
 
 1. Le capital social versé ou le fonds d'établissement constitué.
 
@@ -26491,13 +26721,13 @@ de capitalisation.
 6. Les rappels de cotisations que les sociétés mutuelles d'assurance et les sociétés d'assurance à forme mutuelle à
 cotisations variables peuvent exiger de leurs sociétaires au titre de l'exercice, à concurrence de la moitié de la différence
 entre les cotisations maximales et les cotisations effectivement appelées ; toutefois, ces possibilités de rappel ne peuvent
-représenter, d'une part, plus de 50 p. 100 de la marge prévue au présent article, d'autre part, plus de 50 p. 100 du montant
+représenter d'une part, plus de 50 p. 100 de la marge prévue au présent article, d'autre part, plus de 50 p. 100 du montant
 réglementaire de la marge défini à l'article R. 334-5.
 
-7. Sur demande et justification de l'entreprise et avec l'accord du ministre de l'économie et des finances et des autorités
-de contrôle des Etats membres de la Communauté économique européenne où l'entreprise exerce son activité, les plus-values
-pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'éléments de passif, dans la mesure où de
-telles plus-values n'ont pas un caractère exceptionnel.
+7. Sur demande et justification de l'entreprise et avec l'accord du ministre de l'économie, des finances et du budget, et des
+autorités de contrôle des Etats membres de la Communauté économique européenne où l'entreprise exerce son activité, les plus-
+values pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'éléments de passif, dans la mesure
+où de telles plus-values n'ont pas un caractère exceptionnel.
 
 **Liens relatifs à cet article**
 
@@ -26505,32 +26735,9 @@ telles plus-values n'ont pas un caractère exceptionnel.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des assurances - art. R*334-1 (M)
-	  - Code des assurances - art. R*334-5 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R323-1-1 (V)
-	  - Code des assurances - art. R335-2 (VD)
-
-
-###### Article R*334-3
-
-Toute entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
-économique européenne, agréée pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de l'article R. 321-1, doit
-justifier de l'existence d'une marge de solvabilité suffisante, relative à ses activités sur le territoire de la République
-française.
-
-Toutefois, le présent article ne s'applique pas aux entreprises qui font l'objet d'une vérification de solvabilité globale
-conformément aux dispositions de la section II du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -26557,15 +26764,17 @@ conformément aux dispositions de la section II du présent chapitre.
 
 	**Cite**:
 
-	  - Code des assurances R321-1
+	  - Code des assurances - art. R*334-1 (M)
+	  - Code des assurances - art. R*334-5 (M)
 
 
-###### Article R*334-4
+###### Article R334-4
 
-La marge de solvabilité mentionnée à l'article R. 334-3 est constituée par des actifs dont le montant, afférent aux
-opérations réalisées sur le territoire de la République française, est égal, après déduction des pertes, des amortissements
-restant à réaliser sur commissions, des frais d'établissement ou de développement et des autres actifs incorporels, au total
-des éléments définis aux 4, 5 et 7 de l'article R. 334-2.
+La marge de solvabilité applicable aux entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un
+Etat membre de la Communauté économique européenne, mentionnée à l'article R. 334-1, est constituée par des actifs dont le
+montant, afférent aux opérations réalisées sur le territoire de la République française, est égal, après déduction des
+pertes, des amortissements restant à réaliser sur commissions, des frais d'établissement ou de développement et des autres
+actifs incorporels, au total des éléments définis aux 4, 5 et 7 de l'article R. 334-3.
 
 **Liens relatifs à cet article**
 
@@ -26573,21 +26782,25 @@ des éléments définis aux 4, 5 et 7 de l'article R. 334-2.
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-1 (M)
+
 	**Cité par**:
 
 	  - Code des assurances - art. R334-3 (M)
 	  - Code des assurances - art. R334-42 (V)
 
-	**Cite**:
-
-	  - Code des assurances R334-2, R334-3
-
 
 ##### Paragraphe 2 : Montant réglementaire de la marge de solvabilité.
 
-###### Article R*334-5
+###### Article R334-5
 
-Pour les entreprises françaises, le montant réglementaire de la marge de solvabilité est déterminé soit par rapport au
+Pour les entreprises françaises, le montant réglementaire de la marge de solvabilité est déterminé, soit par rapport au
 montant annuel des primes ou cotisations, soit par rapport à la charge moyenne annuelle des sinistres. Ce montant
 réglementaire est égal au plus élevé des résultats obtenus par application des deux méthodes suivantes :
 
@@ -26624,20 +26837,21 @@ de compte de la Communauté économique européenne. A 26 p. 100 de la première
 
 Le résultat déterminé par application de la deuxième méthode est obtenu en multipliant la somme des deux termes de l'addition
 prévue à l'alinéa précédent, par le rapport existant, pour le dernier exercice, entre le montant des sinistres demeurant à la
-charge de l'entreprise après cession en réassurance, et le montant des sinistres brut de réassurance, sans que ce rapport
+charge de l'entreprise après cession en réassurance et le montant des sinistres brut de réassurance, sans que ce rapport
 puisse être inférieur à 50 p. 100.
 
 Lorsqu'une entreprise pratique principalement un ou plusieurs des risques tempête, grêle, gelée, il est tenu compte pour le
 calcul de la charge moyenne annuelle des sinistres des sept derniers exercices sociaux au lieu des trois derniers.
-
-Le ministre de l'économie et des finances constate et notifie aux entreprises la contre-valeur en francs de l'unité de compte
-de la Communauté économique européenne à retenir pour les calculs prévus par le présent article.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -26660,7 +26874,7 @@ de la Communauté économique européenne à retenir pour les calculs prévus pa
 	  - Code des assurances - art. R335-2 (VD)
 
 
-###### Article R*334-6
+###### Article R334-6
 
 Pour les entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
 économique européenne, le montant réglementaire de la marge de solvabilité est calculé, conformément aux dispositions de
@@ -26676,6 +26890,10 @@ concurrence du fonds de garantie mentionné à l'article R. 334-10, et pour le s
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -26695,7 +26913,7 @@ concurrence du fonds de garantie mentionné à l'article R. 334-10, et pour le s
 
 ##### Paragraphe 3 : Le fonds de garantie.
 
-###### Article R*334-7
+###### Article R334-7
 
 Le fonds de garantie des entreprises françaises agréées pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 17
 de l'article R. 321-1 est égal au tiers du montant réglementaire de la marge de solvabilité défini à l'article R. 334-5.
@@ -26718,14 +26936,15 @@ de la Communauté économique européenne.
 Lorsqu'une entreprise est agréée pour pratiquer des opérations entrant dans plusieurs branches, seule est prise en
 considération pour le calcul du fonds de garantie la branche à laquelle correspond le montant le plus élevé.
 
-Le ministre de l'économie et des finances constate et notifie aux entreprises la contre-valeur en francs de l'unité de compte
-de la Communauté économique européenne à retenir pour déterminer les montants précités.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cite**:
 
@@ -26749,7 +26968,7 @@ de la Communauté économique européenne à retenir pour déterminer les montan
 	  - Code des assurances - art. R334-9-1 (VD)
 
 
-###### Article R*334-8
+###### Article R334-8
 
 Les dispositions de l'article R. 334-7 ne sont pas applicables aux sociétés mutuelles d'assurance intégralement réassurées
 par une union de sociétés mutuelles mentionnées à l'article R. 322-107, ainsi qu'aux sociétés ou caisses d'assurances
@@ -26760,6 +26979,10 @@ mutuelles agricoles dispensées de l'agrément administratif dans les conditions
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cite**:
 
@@ -26773,7 +26996,7 @@ mutuelles agricoles dispensées de l'agrément administratif dans les conditions
 	  - SPEC_APPLI: Code des assurances - art. R334-7-1 (Ab)
 
 
-###### Article R*334-9
+###### Article R334-9
 
 Les dispositions de l'article R. 334-7 concernant le montant minimal du fonds de garantie ne sont applicables ni aux sociétés
 à forme mutuelle ni aux sociétés mutuelles d'assurance qui remplissent simultanément les conditions suivantes :
@@ -26789,20 +27012,21 @@ d'unités de compte de la Communauté économique européenne ;
 
 d) La moitié au moins de leurs cotisations sont versées par des personnes physiques.
 
-Le ministre de l'économie et des finances constate et notifie aux entreprises la contre-valeur en francs de l'unité de compte
-de la Communauté économique européenne à retenir pour déterminer le montant précité.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
 	**Cite**:
 
 	  - Code des assurances - art. R*321-3 (M)
 	  - Code des assurances - art. R*334-7 (M)
-	  - Code des assurances R334-7, R321-3, R321-1
+	  - Code des assurances R321-1, R321-3, R334-7
 
 	**Cité par**:
 
@@ -26815,7 +27039,7 @@ de la Communauté économique européenne à retenir pour déterminer le montant
 	  - SPEC_APPLI: Code des assurances - art. R334-7-1 (Ab)
 
 
-###### Article R*334-10
+###### Article R334-10
 
 Le fonds de garantie des entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un Etat membre de
 la Communauté économique européenne, agréées pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de l'article
@@ -26823,13 +27047,17 @@ R. 321-1, est égal au tiers du montant réglementaire de la marge de solvabilit
 
 Ce fonds ne peut être inférieur à la moitié du montant minimal mentionné au second alinéa de l'article R. 334-7.
 
-Le cautionnement initial déposé conformément au d de l'article R. 321-8 s'impute sur le fonds de garantie.
+Le cautionnement initial déposé conformément au d) de l'article R. 321-8 s'impute sur le fonds de garantie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cite**:
 
@@ -26843,36 +27071,46 @@ Le cautionnement initial déposé conformément au d de l'article R. 321-8 s'imp
 	  - Code des assurances - art. R335-2 (VD)
 
 
-##### Section II : Vérification de solvabilité globale.
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie
 
-###### Article R*334-11
+##### Paragraphe 1 : Constitution de la marge de solvabilité.
 
-Une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté économique
-européenne, agréée ou demandant l'agrément pour pratiquer les opérations d'assurances dommages en France et dans un ou
-plusieurs autres Etats membres, peut demander au ministre de l'économie et des finances que lui soient appliquées une ou
-plusieurs des mesures suivantes :
+###### Article R334-11
 
-a) Que, par dérogation aux dispositions de l'article R. 334-6, la marge de solvabilité soit calculée en fonction de
-l'activité globale qu'elle exerce sur le territoire de la République française et sur celui des autres Etats membres qui
-acceptent cette mesure ;
+La marge de solvabilité mentionnée à l'article R. 334-1 est constituée, après déduction des pertes et des éléments
+incorporels, par les éléments suivants :
 
-b) Qu'elle soit dispensée de l'obligation de déposer en France le cautionnement prévu par le d de l'article R. 321-8, sous
-réserve de justifier du dépôt auprès d'un autre Etat membre d'un cautionnement égal au quart du montant minimal du fonds de
-garantie calculé en fonction de l'activité globale qu'elle exerce en France et dans les autres Etats membres ayant accepté
-cette procédure ;
+1. Le capital social versé ou le fonds d'établissement constitué ;
 
-c) Que, par dérogation aux dispositions de l'article R. 334-6, les actifs formant la contrepartie du fonds de garantie,
-calculé en fonction de l'activité globale qu'elle exerce en France et dans les autres Etats membres qui acceptent cette
-mesure, soient localisés sur le territoire de la République française ou sur celui d'un des Etats précités.
+2. La moitié de la fraction non versée du capital ou de la part restant à rembourser de l'emprunt pour fonds
+d'établissement ;
 
-L'entreprise doit justifier qu'elle présente une demande analogue aux autorités de contrôle des Etats membres dans lesquels
-elle est agréée ou demande l'agrément pour pratiquer les opérations mentionnées ci-dessus.
+3. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
+de capitalisation ;
+
+4. Les bénéfices reportés.
+
+5. Sur demande et justification de l'entreprise et avec l'accord du ministre de l'économie, des finances et du Budget ;
+
+a) un montant représentant 50 % des bénéfices futurs de l'entreprise. Le montant des bénéfices futurs est obtenu en
+multipliant le bénéfice annuel estimé de l'entreprise par le facteur qui représente la durée résiduelle moyenne des contrats.
+
+Un arrêté du ministre de l'Economie, des Finances et du Budget fixe les modalités de calcul du facteur mentionné à l'alinéa
+précédent ainsi que les éléments constitutifs du bénéfice annuel estimé ;
+
+b) avec l'accord des autorités de contrôle des Etats membres de la Communauté économique européenne où l'entreprise exerce
+son activité, les plus-values pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'éléments de
+passif autres que les provisions mathématiques, dans la mesure où de telles plus-values n'ont pas un caractère exceptionnel.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -26905,32 +27143,24 @@ elle est agréée ou demande l'agrément pour pratiquer les opérations mentionn
 	**Cite**:
 
 	  - Code des assurances - art. R*334-6 (M)
-	  - Code des assurances R334-6, R321-8
+	  - Code des assurances R321-8, R334-6
 
 
-###### Article R*334-12
+###### Article R334-12
 
-L'entreprise qui obtient le bénéfice de la mesure mentionnée au a de l'article R. 334-11 est assujettie à une vérification de
-solvabilité globale pour l'ensemble de ses activités pratiquées sur le territoire de la République française et sur celui des
-autres Etats membres de la Communauté économique européenne qui acceptent ladite mesure.
-
-Cette vérification est exercée par le ministre de l'économie et des finances soit lorsque le plus ancien établissement de
-l'entreprise dans les Etats mentionnés à l'alinéa précédent est situé sur le territoire de la République française, soit
-lorsque l'entreprise justifie qu'elle a obtenu, pour l'exercice par le ministre de l'économie et des finances de ladite
-vérification, l'approbation des autorités de contrôle des Etats membres ayant accepté l'application de la mesure mentionnée
-au a de l'article R. 334-11.
-
-Toutefois, par dérogation aux dispositions de l'alinéa précédent, lorsque le plus ancien établissement de l'entreprise dans
-les Etats mentionnés au premier alinéa du présent article est situé sur le territoire de la République française, le ministre
-de l'économie et des finances peut, sur demande de l'entreprise, accepter que la vérification de solvabilité globale soit
-exercée par l'autorité de contrôle d'un des Etats membres ayant donné leur accord à la mesure mentionnée au a de l'article R.
-334-11. Dans ce cas, l'entreprise doit justifier de l'approbation des autorités de contrôle des Etats membres intéressés.
+La marge de solvabilité des entreprises étrangères mentionnées à l'article R. 334-1 afférente aux opérations réalisées sur le
+territoire de la République française, est constituée, après déduction des pertes et des éléments incorporels, par les
+éléments définis aux 3, 4 et 5 de l'article R. 334-11.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -26939,24 +27169,99 @@ exercée par l'autorité de contrôle d'un des Etats membres ayant donné leur a
 
 	**Cite**:
 
+	  - Code des assurances - art. R*334-1 (M)
 	  - Code des assurances - art. R*334-11 (M)
 
 
-###### Article R*334-13
+##### Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité.
 
-Lorsqu'il exerce la vérification de solvabilité globale, le ministre de l'économie et des finances utilise à cette fin les
-informations qu'il doit solliciter des autorités de contrôle des Etats membres de la Communauté économique européenne qui ont
-accepté l'application de la mesure mentionnée au a de l'article R. 334-11.
+###### Article R334-13
 
-Lorsqu'il n'exerce pas cette vérification, le ministre de l'économie et des finances doit communiquer à l'autorité de
-contrôle qui procède à ladite vérification toutes informations utiles concernant l'activité de la succursale française de
-l'entreprise.
+Pour les entreprises françaises, le montant minimal réglementaire de la marge de solvabilité est déterminé, en fonction des
+branches exercées, en application des dispositions suivantes :
+
+a) Pour les branches 20 et 21, à l'exception des assurances complémentaires :
+
+Le montant minimal réglementaire de la marge est calculé par rapport aux provisions mathématiques et aux capitaux sous
+risque. Ce montant est égal à la somme des deux résultats suivants :
+
+Le "premier résultat" est obtenu en multipliant un nombre représentant 4 % des provisions mathématiques, relatives aux
+opérations d'assurances directes sans déduction des cessions en réassurance et aux acceptations en réassurance, par le
+rapport existant, par le dernier exercice, entre le montant des provisions mathématiques après cessions en réassurance et le
+montant des provisions mathématiques brut de réassurance, sans que ce rapport puisse être inférieur à 85 %.
+
+Le "second résultat" est obtenu en multipliant un nombre représentant 0,3 % des capitaux sous risque par le rapport existant,
+pour le dernier exercice, entre le montant des capitaux sous risque après cession et rétrocession en réassurance et le
+montant des capitaux sous risque brut de réassurance sans que ce rapport puisse être inférieur à 50 %.
+
+Pour les assurances temporaires en cas de décès, d'une durée maximale de trois années, le facteur multiplicateur des capitaux
+sous risque est égal à 0,1 %. Il est fixé à 0,15 % desdits capitaux pour les assurances temporaires en cas de décès dont la
+durée est supérieure à trois années mais n'excède pas cinq années.
+
+Le capital sous risque est égal au risque décès, déduction faite de la provision mathématique du risque principal.
+
+b) Pour les assurances complémentaires à des contrats comportant des engagements résultant d'opérations classées aux branches
+20, 21 et 22 ;
+
+Le montant minimal réglementaire de la marge est égal au résultat obtenu par application de la méthode suivante :
+
+Au total des primes ou cotisations émises en affaires directes au cours du dernier exercice, quel que soit l'exercice au
+titre duquel elles ont été émises, accessoires compris, sont ajoutées les primes acceptées en réassurance au cours du dernier
+exercice.
+
+De cette somme sont déduits, d'une part, le total des primes ou cotisations annulées au cours du dernier exercice, d'autre
+part, le total des impôts et taxes afférents auxdites primes ou cotisations.
+
+Le montant ainsi obtenu est réparti en deux branches, respectivement inférieure et supérieure à 10 millions d'unités de
+compte de la Communauté économique européenne. A 18 % de la première tranche sont ajoutés 16 % de la seconde.
+
+La somme des deux termes prévus à l'alinéa précédent est multipliée par le rapport existant, pour le dernier exercice, entre
+le montant des sinistres demeurant à la charge de l'entreprise après cession et rétrocession en réassurance et le montant des
+sinistres brut de réassurance, sans que ce rapport puisse être inférieur à 50 %.
+
+c) Pour la branche 23 :
+
+Le montant minimal réglementaire de la marge est égal à 1 % des avoirs des associations tontinières.
+
+d) Pour les branches 24, 27 et 28 :
+
+Le montant minimal réglementaire de la marge est égal au résultat obtenu en multipliant un nombre représentant 4 % des
+provisions mathématiques relatives aux opérations d'assurances directes et aux acceptations brutes de réassurance par le
+rapport mentionné au "premier résultat" défini au a) du présent article.
+
+e) Pour les branches 22, à l'exception des assurances complémentaires, et 25 :
+
+Le montant minimal réglementaire de la marge est égal :
+
+- lorsque l'entreprise assume un risque de placement, à un nombre représentant 4 % des provisions techniques relatives aux
+opérations d'assurances directes et d'acceptations brutes de réassurance multiplié par le rapport mentionné au "premier
+résultat" défini au a) du présent article ;
+
+- lorsque l'entreprise n'assume pas de risque de placement, à un nombre représentant 1 % des provisions techniques des
+contrats multiplié par le rapport mentionné au premier résultat du a) du présent article, à la condition que la durée des
+contrats soit supérieure à cinq années et que le montant destiné à couvrir les frais de gestion prévus dans ces contrats soit
+fixé pour une période supérieure à cinq années ;
+
+- lorsque l'entreprise assume un risque de mortalité, le montant réglementaire de la marge est obtenu en ajoutant à l'un ou
+l'autre des résultats déterminés par application des dispositions des deux alinéas précédents un nombre représentant 0,3 %
+des capitaux sous risque, multiplié par le rapport existant, pour le dernier exercice, entre le montant des capitaux sous
+risque après cessions et rétrocessions en réassurance et le montant des capitaux sous risque brut de réassurance, sans que ce
+rapport puisse être inférieur à 50 %.
+
+f) Pour la branche 26 ;
+
+Le montant minimal réglementaire de la marge est égal à un nombre représentant 4 % de la provision technique spéciale
+mentionnée à l'article R. 441-7, dans la limite de la provision mathématique théorique mentionnée à l'article R. 441-21.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -26977,23 +27282,31 @@ l'entreprise.
 
 	**Cite**:
 
-	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R*441-21 (M)
+	  - Code des assurances - art. R*441-7 (M)
 
 
-###### Article R*334-14
+###### Article R334-14
 
-Lorsque la vérification de solvabilité globale est exercée par le ministre de l'économie et des finances et que l'entreprise
-justifie qu'elle a obtenu des autorités de contrôle d'un ou plusieurs des Etats membres de la Communauté économique
-européenne d'être dispensée de déposer dans ces Etats le cautionnement de même nature que celui prévu au d de l'article R.
-321-8, elle doit déposer sur le territoire de la République française un cautionnement égal au quart du montant minimal du
-fonds de garantie calculé en fonction de l'activité globale qu'elle exerce en France et dans les autres Etats membres ayant
-accordé la dispense.
+Pour les entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
+économique européenne, le montant réglementaire de la marge de solvabilité est calculé, conformément aux dispositions de
+l'article R. 334-13, à partir, suivant le cas, des provisions techniques et des capitaux sous risque, des primes ou
+cotisations et des sinistres, ou des avoirs résultant des opérations réalisées par cette entreprise sur le territoire de la
+République française.
+
+Les éléments constitutifs de la marge doivent être localisés sur le territoire de la République française au moins jusqu'à
+concurrence du fonds de garantie mentionné à l'article R. 334-16 et pour le surplus à l'intérieur de la Communauté économique
+européenne.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -27007,15 +27320,30 @@ accordé la dispense.
 
 	**Cite**:
 
-	  - Code des assurances R321-8
+	  - Code des assurances - art. R*334-13 (M)
 
 
-###### Article R*334-15
+##### Paragraphe 3 : Le fonds de garantie.
 
-Le bénéfice de chacune des mesures mentionnées aux a, b et c de l'article R. 334-11 peut être retiré par le ministre de
-l'économie et des finances.
+###### Article R334-15
 
-Toute entreprise intéressée peut renoncer à l'application de chacune des mêmes mesures.
+Le fonds de garantie des entreprises françaises agréées pour pratiquer une ou plusieurs des branches mentionnées aux 20 à 28
+de l'article R. 321-1 est égal au tiers du montant réglementaire de la marge de solvabilité défini à l'article R. 334-13,
+sans pouvoir être inférieur aux seuils définis ci-après :
+
+- 800.000 unités de compte de la Communauté économique européenne pour les entreprises constituées sous la forme de société
+anonyme ;
+
+- 600.000 unités de compte de la Communauté économique européenne pour les entreprises constituées sous la forme de société à
+forme mutuelle et les sociétés à forme tontinière ;
+
+- 100.000 unités de compte de la Communauté économique européenne pour les entreprises constituées sous la forme de société à
+forme tontinière et dont les encaissements sont inférieurs à 500.000 unités de compte. Ce montant est progressivement porté à
+600.000 unités de compte par tranches successives de 100.000 unités de compte, chaque fois que le montant des cotisations
+augmente de 500.000 unités de compte.
+
+A concurrence de ces seuils ou de la moitié du fonds si cette moitié est supérieure auxdits seuils, le fonds est constitué
+par des éléments mentionnés aux 1, 2, 3 et 4 de l'article R. 334-11.
 
 **Liens relatifs à cet article**
 
@@ -27023,9 +27351,15 @@ Toute entreprise intéressée peut renoncer à l'application de chacune des mêm
 
 	  - Décret n°76-667 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
 	**Cite**:
 
 	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R*334-13 (M)
+	  - Code des assurances R321-1, R334-11, R334-13
 
 	**Cité par**:
 
@@ -27037,26 +27371,32 @@ Toute entreprise intéressée peut renoncer à l'application de chacune des mêm
 	  - Code des assurances - art. R334-38 (Ab)
 
 
-##### Section III : La réserve de garantie.
+###### Article R334-16
 
-###### Article R*334-16
+Le fonds de garantie des entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un Etat membre de
+la Communauté économique européenne, agréées pour pratiquer une ou plusieurs des branches mentionnées aux 20 à 26 de
+l'article R. 321-1, est égal au tiers du montant réglementaire de la marge de solvabilité défini à l'article R. 334-14, sans
+pouvoir être inférieur à un seuil fixé à 400.000 unités de compte de la Communauté économique européenne.
 
-Les entreprises agréées pour pratiquer une ou plusieurs des branches mentionnées aux 19 à 24 de l'article R. 321-1 doivent
-constituer une réserve de garantie destinée à suppléer à une insuffisance des provisions techniques.
+A concurrence de ce seuil, ou de la moitié du fonds si cette moitié est supérieure audit seuil, le fonds doit être constitué
+par les éléments mentionnés aux 3 et 4 de l'article R. 334-11.
 
-La constitution de cette réserve dispense les sociétés anonymes du prélèvement prescrit par l'article 345 de la loi n° 66-537
-du 24 juillet 1966 sur les sociétés commerciales.
+Le cautionnement initial déposé conformément au d) de l'article R. 321-8 s'impute sur le fonds de garantie.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 345
-	  - Code des assurances R321-1
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances R321-1, R334-14, R334-11, R321-8
 
 	**Cité par**:
 
@@ -27064,22 +27404,108 @@ du 24 juillet 1966 sur les sociétés commerciales.
 	  - Code des assurances - art. R334-14 (VT)
 	  - Code des assurances - art. R334-21 (V)
 
-	**Anciens textes**:
 
-	  - Décret n°1938-12-30 art. 144, art. 146
+##### Section IV : Vérification de solvabilité globale
 
+##### Paragraphe 1 : Vérification de solvabilité globale des entreprises d'assurance de dommages.
 
-###### Article R*334-17
+###### Article R*334-20
 
-L'organe statutaire d'administration ou de surveillance ne peut proposer à l'assemblée générale d'imputer un déficit sur la
-réserve de garantie qu'après autorisation du ministre de l'économie et des finances qui fixe, le cas échéant, les conditions
-dans lesquelles cette réserve doit être reconstituée.
+Lorsque la vérification de solvabilité globale est exercée par le ministre de l'économie, des finances et du budget et que
+l'entreprise justifie qu'elle a obtenu des autorités de contrôle d'un ou plusieurs des Etats membres de la Communauté
+économique européenne d'être dispensée de déposer dans ces Etats le cautionnement de même nature que celui prévu au d) de
+l'article R. 321-8, elle doit déposer sur le territoire de la République française un cautionnement égal au quart du montant
+minimal du fonds de garantie calculé en fonction de l'activité globale qu'elle exerce en France et dans les autres Etats
+membres ayant accordé la dispense.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R213-3 (V)
+	  - Code des assurances - art. R334-22 (V)
+	  - Code des assurances - art. R334-42 (V)
+
+	**Cite**:
+
+	  - Code des assurances R321-8
+
+
+###### Article R*334-21
+
+Le bénéfice de chacune des mesures mentionnées aux a), b) et c) de l'article R. 334-17 peut être retiré par le ministre de
+l'économie, des finances et du budget.
+
+Toute entreprise intéressée peut renoncer à l'application de chacune des mêmes mesures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-17 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*334-22 (M)
+	  - Code des assurances - art. R334-20 (M)
+
+
+###### Article R334-17
+
+Une entreprise étrangère, dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
+économique européenne, agréée ou demandant l'agrément pour pratiquer les opérations d'assurances dommages en France et dans
+un ou plusieurs autres Etats membres, peut demander au ministre de l'économie, des finances et du budget que lui soient
+appliquées une ou plusieurs des mesures suivantes :
+
+a) que, par dérogation aux dispositions de l'article R. 334-6, la marge de solvabilité soit calculée en fonction de
+l'activité globale qu'elle exerce sur le territoire de la République française et sur celui des autres Etats membres qui
+acceptent cette mesure ;
+
+b) qu'elle soit dispensée de l'obligation de déposer en France le cautionnement prévu par le d) de l'article R. 321-8, sous
+réserve de justifier du dépôt auprès d'un autre Etat membre d'un cautionnement égal au quart du montant minimal du fonds de
+garantie calculé en fonction de l'activité globale qu'elle exerce en France et dans les autres Etats membres ayant accepté
+cette procédure ;
+
+c) que, par dérogation aux dispositions de l'article R. 334-6, les actifs formant la contrepartie du fonds de garantie,
+calculé en fonction de l'activité globale qu'elle exerce en France et dans les autres Etats membres qui acceptent cette
+mesure, soient localisés sur le territoire de la République française ou sur celui d'un des Etats précités.
+
+L'entreprise doit justifier qu'elle présente une demande analogue aux autorités de contrôle des Etats membres dans lesquels
+elle est agréée ou demande l'agrément pour pratiquer les opérations mentionnées ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -27093,20 +27519,40 @@ dans lesquelles cette réserve doit être reconstituée.
 	  - Code des assurances - art. R391-1 (V)
 	  - Code des assurances - art. R423-16 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°1938-12-30 art. 144
+	  - Code des assurances - art. R*334-6 (M)
+	  - Code des assurances R321-8, R334-6
 
 
-###### Article R*334-18
+###### Article R334-18
 
-Des prélèvements peuvent être opérés sur la réserve de réévaluation pour être portés à la réserve de garantie.
+L'entreprise qui obtient le bénéfice de la mesure mentionnée au a) de l'article R. 334-17 est assujettie à une vérification
+de solvabilité globale pour l'ensemble de ses activités pratiquées sur le territoire de la République française et sur celui
+des autres Etats membres de la communauté économique européenne qui acceptent ladite mesure.
+
+Cette vérification est exercée par le ministre de l'économie, des finances et du budget, soit lorsque le plus ancien
+établissement de l'entreprise dans les Etats mentionnés à l'alinéa précédent est situé sur le territoire de la République
+française, soit lorsque l'entreprise justifie qu'elle a obtenu, pour l'exercice par le ministre de l'économie, des finances
+et du budget de ladite vérification, l'approbation des autorités de contrôle des Etats membres ayant accepté l'application de
+la mesure mentionnée au a) de l'article R. 334-17.
+
+Toutefois, par dérogation aux dispositions de l'alinéa précédent, lorsque le plus ancien établissement de l'entreprise dans
+les Etats mentionnés au premier alinéa du présent article est situé sur le territoire de la République française, le ministre
+de l'économie, des finances et du budget peut, sur demande de l'entreprise, accepter que la vérification de solvabilité
+globale soit exercée par l'autorité de contrôle d'un des Etats membres ayant donné leur accord à la mesure mentionnée au a)
+de l'article R. 334-17. Dans ce cas, l'entreprise doit justifier de l'approbation des autorités de contrôle des Etats membres
+intéressés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -27114,30 +27560,30 @@ Des prélèvements peuvent être opérés sur la réserve de réévaluation pour
 	  - Code des assurances - art. R334-19 (M)
 	  - Code des assurances - art. R334-42 (V)
 
+	**Cite**:
 
-###### Article R*334-19
+	  - Code des assurances - art. R*334-17 (M)
 
-La réserve de garantie est alimentée par un prélèvement de 0,50 p. 100 sur les primes ou cotisations uniques et périodiques
-encaissées, sans déduction des cessions en réassurance.
 
-Le prélèvement cesse d'être obligatoire lorsque le montant de la réserve de garantie, augmenté soit, pour les entreprises
-françaises, du montant du capital social versé ou du montant du fonds d'établissement constitué, soit, en ce qui concerne les
-entreprises étrangères, du montant de la partie indisponible de la réserve de réévaluation, atteint 5 p. 100 des provisions
-techniques.
+###### Article R334-19
 
-En ce qui concerne toutefois les sociétés anonymes françaises, si le montant de la réserve de garantie est inférieur à 20 p.
-100 du montant du capital social, le prélèvement prévu au présent article est effectué jusqu'à ce que ce dernier pourcentage
-soit atteint.
+Lorsqu'il exerce la vérification de solvabilité globale, le ministre de l'économie, des finances et du budget utilise à cette
+fin les informations qu'il doit solliciter des autorités de contrôle des Etats membres de la communauté économique européenne
+qui ont accepté l'application de la mesure mentionnée au a) de l'article R. 334-17.
+
+Lorsqu'il n'exerce pas cette vérification, le ministre de l'économie, des finances et du budget doit communiquer à l'autorité
+de contrôle qui procède à ladite vérification toutes informations utiles concernant l'activité de la succursale française de
+l'entreprise.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1304 1970-12-22 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cité par**:
 
@@ -27152,74 +27598,44 @@ soit atteint.
 	  - Code des assurances - art. R335-2 (VD)
 
 
-##### Section IV : Dispositions transitoires relatives à la marge de solvabilité.
-
-###### Article R*334-20
-
-Les entreprises françaises agréées à la date de publication du présent code pour pratiquer une ou plusieurs des branches
-mentionnées aux 1 à 17 de l'article R. 321-1, et dont à la même date la marge de solvabilité n'atteint pas le montant
-réglementaire, disposent d'un délai expirant le 31 juillet 1978 pour justifier dudit montant.
-
-Si elles ne sont pas en mesure de respecter ce délai, elles peuvent bénéficier, avec l'accord du ministre de l'économie et
-des finances, d'un délai supplémentaire expirant le 31 juillet 1980.
-
-Ce délai supplémentaire ne peut être accordé que si l'entreprise soumet à l'approbation du ministre de l'économie et des
-finances, suivant le cas, soit le plan de redressement prévu à l'article R. 323-2, soit le plan de financement à court terme
-prévu à l'article R. 323-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R213-3 (V)
-	  - Code des assurances - art. R334-22 (V)
-	  - Code des assurances - art. R334-42 (V)
-
-
-###### Article R*334-21
-
-Les entreprises françaises agréées à la date de publication du présent code pour pratiquer une ou plusieurs des branches
-mentionnées aux 1 à 17 de l'article R. 321-1, et dont au 31 juillet 1978 le montant annuel des primes ou cotisations émises,
-accessoires compris et annulations déduites, n'atteint pas le sextuple du montant minimal du fonds de garantie, peuvent être
-dispensées par le ministre de l'économie et des finances de toute obligation concernant le montant du fonds de garantie,
-jusqu'à la clôture de l'exercice au cours duquel le total annuel des primes ou cotisations définies comme il est dit ci-
-dessus dépasse le sextuple du montant minimal du fonds de garantie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. R*334-22 (M)
-	  - Code des assurances - art. R334-20 (M)
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
+##### Paragraphe 2 : Vérification de solvabilité globale des entreprises d'assurance sur la vie.
 
 ###### Article R*334-22
 
-Nonobstant les dispositions de la présente section, les entreprises françaises ne peuvent obtenir une extension d'agrément
-pour pratiquer d'autres branches mentionnées aux 1 à 17 de l'article R. 321-1 que si elles justifient que leur marge de
-solvabilité est au moins égale au montant réglementaire.
+I. - Une entreprise étrangère dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
+économique européenne, agréée ou demandant l'agrément pour pratiquer les opérations d'assurances mentionnées aux 20 à 26 de
+l'article R. 321-1, en France et dans un ou plusieurs autres Etats membres, peut demander au ministre de l'économie, des
+finances et du budget que lui soient appliquées conjointement les mesures suivantes :
 
-Toutefois, les entreprises mentionnées à l'article R. 334-21 peuvent obtenir une extension d'agrément pour pratiquer d'autres
-branches mentionnées aux 1 à 17 de l'article R. 321-1 en étant dispensées jusqu'au 31 juillet 1983 de l'obligation de
-disposer d'un fonds de garantie égal au montant minimal.
+a) par dérogation aux dispositions de l'article R. 334-14, la marge de solvabilité est calculée en fonction de l'activité
+globale qu'elle exerce sur le territoire de la République française et sur celui des autres Etats membres concernés ;
+
+b) elle est dispensée de l'obligation de déposer en France le cautionnement prévu par le d) de l'article R. 321-8, sous
+réserve de justifier du dépôt auprès d'un autre Etat membre d'un cautionnement égal à 200.000 unités de compte de la
+Communauté économique européenne ;
+
+c) par dérogation aux dispositions de l'article R. 334-14, les actifs formant la contrepartie du fonds de garantie sont
+localisés sur le territoire de la République française ou sur celui de l'un des Etats précités.
+
+II. - L'entreprise doit justifier qu'elle présente une demande analogue aux autorités de contrôle des autres Etats membres
+dans lesquels elle est agréée ou demande l'agrément pour pratiquer les opérations mentionnées ci-dessus.
+
+L'entreprise ne peut bénéficer des mesures mentionnées aux a), b) et c) du présent article qu'avec l'accord des autorités de
+contrôle de tous les Etats membres auprès desquelles une demande a été déposée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
 
 	**Cité par**:
 
@@ -27232,70 +27648,430 @@ disposer d'un fonds de garantie égal au montant minimal.
 
 	**Cite**:
 
-	  - Code des assurances - art. R*334-21 (M)
-	  - Code des assurances R321-1, R334-21
+	  - Code des assurances - art. R*334-14 (M)
+	  - Code des assurances R321-1, R334-14, R321-8
 
 
 ###### Article R*334-23
 
-Les entreprises dont le siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne,
-agréées à la date de publication du présent code pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de
-l'article R. 321-1, et qui satisfont aux dispositions réglementaires permanentes relatives aux provisions techniques, à la
-marge de solvabilité et au fonds de garantie, peuvent obtenir du ministre de l'économie et des finances la suppression des
-mesures restrictives, telles qu'hypothèques, dépôts ou cautionnements, qui leur avaient été régulièrement imposées en vertu
-de la réglementation en vigueur avant la date de publication du présent code.
+L'entreprise qui sollicite le bénéfice des dispositions de l'article R. 334-22 doit indiquer, en motivant son choix, l'Etat
+dont l'autorité de contrôle vérifie sa solvabilité globale pour l'ensemble de ses activités pratiquées sur le territoire de
+la République française d'une part et sur celui des autres Etats membres d'autre part.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-22 (M)
 
 	**Cité par**:
 
 	  - Code des assurances - art. R325-9 (VT)
 	  - Code des assurances - art. R334-24 (V)
 
+
+###### Article R*334-24
+
+Lorsque le bénéfice des mesures mentionnées à l'article R. 334-22 est accordé à une entreprise, ces mesures prennent effet à
+la date à laquelle le ministre de l'économie, des finances et du budget s'engage, vis-à-vis des autorités de contrôle des
+Etats membres intéressés, à exercer la vérification de solvabilité globale pour l'ensemble des activités pratiquées par
+l'entreprise sur le territoire de la République française et sur celui des autres Etats membres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-22 (M)
+
+
+###### Article R*334-25
+
+Lorsque la vérification de solvabilité globale est exercée par l'autorité de contrôle d'un autre Etat membre de la communauté
+économique européenne, les mesures mentionnées à l'article R. 334-22 prennent effet, pour ce qui concerne les activités
+pratiquées par l'entreprise sur le territoire de la République française, à la date à laquelle le ministre de l'économie, des
+finances et du budget reçoit notification de l'engagement souscrit par l'autorité de contrôle d'un autre Etat membre
+d'assurer la vérification de solvabilité globale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-22 (M)
+
+
+###### Article R*334-26
+
+Lorsqu'il exerce la vérification de solvabilité globale, le ministre de l'économie, des finances et du budget utilise à cette
+fin les informations qu'il reçoit des autorités de contrôle des Etats membres intéressés de la Communauté économique
+européenne.
+
+Lorsque la vérification de solvabilité globale est exercée par l'autorité de contrôle d'un autre Etat membre de la Communauté
+européenne, le ministre de l'économie, des finances et du budget lui adresse toutes informations utiles concernant l'activité
+de la succursale française de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 9 (V)
+	  - Code des assurances - art. A334-1 (M)
+	  - Code des assurances - art. A334-15 (Ab)
+	  - Code des assurances - art. A334-4 (V)
+	  - Code des assurances - art. R323-1-1 (VT)
+	  - Code des assurances - art. R323-10-2 (VT)
+	  - Code des assurances - art. R323-10-3 (V)
+	  - Code des assurances - art. R334-2 (VT)
+	  - Code des assurances - art. R391-1 (V)
+
+
+###### Article R*334-27
+
+Lorsque la vérification de solvabilité globale est exercée par le ministre de l'économie, des finances et du budget,
+l'entreprise doit déposer sur le territoire de la République française le cautionnement égal à 200.000 unités de compte de la
+communauté économique européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°88-456 du 27 avril 1988 - art. 9 () JORF 29 avril 1988
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code des assurances - art. A344-10 (Ab)
+	  - Code des assurances - art. Annexe A344-10 ETAT C6 (V)
+	  - Code des assurances - art. R323-10-3 (VT)
+	  - Code des assurances - art. R334-1-1 (V)
+
+
+###### Article R*334-28
+
+Le bénéfice des mesures mentionnées à l'article R. 334-22 peut être retiré par le ministre de l'économie, des finances et du
+budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Cité par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 5 (V)
+	  - Code des assurances - art. R334-29 (Ab)
+	  - Code des assurances - art. R391-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-22 (M)
+
+
+###### Article R*334-29
+
+Lorsqu'une autorité de contrôle d'un Etat membre de la communauté économique européenne autre que la France, exerçant la
+vérification de solvabilité globale, retire à une entreprise le bénéfice des mesures mentionnées à l'article R. 334-22, le
+ministre de l'économie, des finances et du budget procède également au retrait du bénéfice desdites mesures accordées à la
+succursale française de cette entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Cité par**:
+
+	  - Décret n°93-469 du 23 mars 1993 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-22 (M)
+
+
+##### Section V : Dispositions transitoires relatives à la marge de solvabilité
+
+##### Paragraphe 1 : Dispositions transitoires relatives à la marge de solvabilité des entreprises d'assurance de dommages.
+
+###### Article R334-30
+
+Les entreprises françaises agréées à la date du 23 juillet 1976 pour pratiquer une ou plusieurs des branches mentionnées aux
+1 à 17 de l'article R. 321-1, et dont au 31 juillet 1978 le montant annuel des primes ou cotisations émises, accessoires
+compris et annulations déduites, n'atteint pas le sextuple du montant minimal du fonds de garantie, peuvent être dispensées
+par le ministre de l'économie, des finances et du budget de toute obligation concernant le montant du fonds de garantie,
+jusqu'à la clôture de l'exercice au cours duquel le total annuel des primes ou cotisations définies comme il est dit ci-
+dessus dépasse le sextuple du montant minimal du fonds de garantie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
 	**Cite**:
 
 	  - Code des assurances R321-1
 
 
-###### Article R*334-24
+###### Article R334-31
 
-Les entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un Etat membre de la Communauté
-économique européenne, agréées à la date de publication du présent code pour pratiquer une ou plusieurs des branches
-mentionnées aux 1 à 17 de l'article R. 321-1, et qui à la même date ne satisfont pas aux dispositions de l'article R. 334-6
-en ce qui concerne le montant réglementaire de la marge de solvabilité et la localisation des actifs correspondant à la
-marge, disposent d'un délai expirant le 31 juillet 1978 pour se conformer auxdites dispositions.
-
-Les dispositions de l'alinéa précédent ne sont pas applicables aux entreprises qui sollicitent une extension d'agrément pour
-pratiquer d'autres branches mentionnées aux 1 à 17 de l'article R. 321-1.
+Nonobstant les dispositions de la présente section, les entreprises agréées ne peuvent obtenir une extension d'agrément pour
+pratiquer d'autres branches mentionnées aux 1 à 17 de l'article R. 321-1 que si elles justifient que leur marge de
+solvabilité est au moins égale au montant réglementaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
 
 	**Cite**:
 
-	  - Code des assurances - art. R*334-6 (M)
-	  - Code des assurances R321-1, R334-6
+	  - Code des assurances R321-1
 
 
-##### Section V : Dispositions particulières aux territoires d'outre-mer.
+###### Article R334-32
 
-###### Article R*334-25
-
-Les dispositions du présent chapitre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques et de Wallis et Futuna.
+Les entreprises dont le siège social est établi sur le territoire d'un Etat membre de la communauté économique européenne
+agréées à la date du 23 juillet 1976 pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de l'article R.
+321-1, et qui satisfont aux dispositions réglementaires permanentes relatives aux provisions techniques, à la marge de
+solvabilité, et au fonds de garantie peuvent obtenir du ministre de l'économie, des finances et du budget la suppression des
+mesures restrictives, telles qu'hypothèques, dépôts ou cautionnements, qui leur avaient été précédemment imposées en vertu de
+la réglementation en vigueur avant le 23 juillet 1976.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Cite**:
+
+	  - Code des assurances R321-1
+
+
+##### Paragraphe 2 : Dispositions transitoires relatives à la marge de solvabilité des entreprises d'assurance sur la vie.
+
+###### Article R*334-33
+
+Les entreprises françaises agréées à la date de publication du présent décret pour pratiquer une ou plusieurs des branches
+mentionnées aux 20 à 26 de l'article R. 321-1 et dont à la même date la marge de solvabilité n'atteint pas le montant minimal
+réglementaire, disposent d'un délai expirant le 15 mars 1984 pour justifier dudit montant.
+
+Si elles ne sont pas en mesure de respecter ce délai, elles peuvent bénéficier, avec l'accord du ministre de l'économie, des
+finances et du budget, d'un délai supplémentaire expirant le 15 mars 1986.
+
+Ce délai supplémentaire ne peut être accordé que si l'entreprise soumet à l'approbation du ministre de l'économie, des
+finances et du budget, soit le plan de redressement prévu à l'article R. 323-2, soit le plan de financement à court terme
+prévu à l'article R. 323-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 30 (V) JORF 28 juin 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. R*323-2 (M)
+	  - Code des assurances - art. R*323-4 (M)
+	  - Code des assurances R321-1, R323-2, R323-4
+
+
+###### Article R*334-34
+
+Les entreprises françaises agréées à la date de publication du présent décret pour pratiquer une ou plusieurs des branches
+mentionnées aux 20 à 26 de l'article R. 321-1, et dont au 15 mars 1984 le montant minimal réglementaire de la marge de
+solvabilité calculé conformément aux dispositions de l'article R. 334-13 n'atteint pas le montant minimal du fonds de
+garantie mentionné à l'article R. 334-15, peuvent être dispensées par le ministre de l'économie, des finances et du budget de
+toute obligation concernant le montant du fonds de garantie, jusqu'à la clôture de l'exercice au cours duquel le montant
+minimal réglementaire de la marge de solvabilité calculé comme indiqué ci-dessus atteint le montant minimal du fonds de
+garantie.
+
+Pour ces entreprises, le délai accordé pour justifier du montant du fonds de garantie expire au plus tard le 15 mars 1989.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 30 (V) JORF 28 juin 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-13 (M)
+	  - Code des assurances - art. R*334-15 (M)
+	  - Code des assurances R321-1, R334-13, R334-15
+
+
+###### Article R*334-35
+
+Nonobstant les dispositions de la présente section, les entreprises agréées ne peuvent obtenir une extension d'agrément pour
+pratiquer d'autres branches mentionnées aux 20 à 26 de l'article R. 321-1 que si elles justifient que leur marge de
+solvabilité est au moins égale au montant minimal réglementaire et que leur fonds de garantie est constitué dans les
+conditions réglementaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 30 (V) JORF 28 juin 1991
+
+	**Cite**:
+
+	  - Code des assurances R321-1
+
+
+###### Article R*334-36
+
+Les entreprises dont le siège social est établi sur le territoire d'un Etat membre de la communauté économique européenne
+agréées à la date de publication du présent décret pour pratiquer une ou plusieurs des branches mentionnées aux 20 à 26 de
+l'article R. 321-1, et qui satisfont aux dispositions réglementaires permanentes relatives aux provisions mathématiques, à la
+marge de solvabilité et au fonds de garantie, peuvent obtenir du ministre de l'économie, des finances et du budget la
+suppression des mesures restrictives, telles qu'hypothèques, dépôts ou cautionnements, qui leur avaient été précédemment
+imposées en vertu de la réglementation en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Cite**:
+
+	  - Code des assurances R321-1
+
+
+###### Article R*334-37
+
+Les entreprises étrangères dont le siège social n'est pas établi sur le territoire d'un Etat membres de la communauté
+économique européenne, agréées à la date de publication du présent décret pour pratiquer une ou plusieurs des branches
+mentionnées aux 20 à 26 de l'article R. 321-1 et qui, à la même date ne satisfont pas aux dispositions de l'article R. 334-14
+en ce qui concerne le montant minimal réglementaire de la marge de solvabilité et la localisation des éléments constitutifs
+de la marge disposent d'un délai expirant le 15 mars 1984 pour se conformer auxdites dispositions.
+
+Les dispositions de l'alinéa précédent ne sont pas applicables aux entreprises qui sollicitent une extension d'agrément pour
+pratiquer d'autres branches mentionnées aux 20 à 26 de l'article R. 321-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 30 (V) JORF 28 juin 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-14 (M)
+	  - Code des assurances R321-1, R334-14
+
+
+###### Article R334-38
+
+I. - Lorsqu'une entreprise, filiale d'une entreprise étrangère qui cumule dans un Etat membre de la Communauté économique
+européenne où elle a son siège social, les activités mentionnées aux 1° à 4° de l'article L. 310-1 avec les activités
+mentionnées au 5° du même article, sollicite l'agrément pour les opérations comprises dans une ou plusieurs des branches
+mentionnées aux 20 à 26 de l'article R. 321-1, le montant minimal du fonds de garantie peut, par décision du ministre de
+l'économie, des finances et du budget et par dérogation aux dispositions de l'article R. 334-15, être représenté à
+concurrence de 50 % par une garantie financière irrévocable accordée par l'entreprise étrangère lorsque sont remplies les
+conditions suivantes :
+
+a) 95 % au moins du capital de l'entreprise filiale doivent être détenus par l'entreprise étrangère ;
+
+b) la fraction non versée du capital social ne peut être utilisée pour constituer la moitié du montant minimal du fonds de
+garantie non couverte par la garantie financière irrévocable ;
+
+c) l'entreprise étrangère doit justifier qu'elle remplit les conditions financières imposées par la législation du pays de
+son siège social pour le cumul des activités mentionnées aux 1° à 4° de l'article L. 310-1 et au 5° du même article, les
+fonds correspondant au montant de la garantie financière mentionnée au présent article n'étant pas considérés comme faisant
+partie du patrimoine libre de cette entreprise.
+
+II. - Le bénéfice des mesures mentionnées au présent article ne peut être accordé que pour une période de sept années à
+compter de la date de son octroi par le ministre de l'économie, des finances et du budget. L'entreprise bénéficiaire desdites
+mesures doit, au cours de cette période et au plus tard à partir de la troisième année suivant la date d'octroi du bénéfice
+de ces mesures, remplacer progressivement la garantie financière par des éléments constitutifs du fonds de garantie. Un plan
+établi à cet effet doit être soumis à l'accord du ministre de l'économie, des finances et du budget à l'appui de la demande
+d'agrément présentée par l'entreprise.
+
+III. - Le bénéfice des dispositions du présent article ne peut être octroyé après le 15 mars 1989.
+
+IV. - Le présent article n'est pas applicable aux filiales d'entreprises qui, à la date du 15 septembre 1979, disposaient sur
+le territoire de la République française d'une succursale agréée pour pratiquer une ou plusieurs des branches mentionnées aux
+1 à 17 de l'article R. 321-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R*334-15 (M)
+	  - Code des assurances L310-1, R321-1, R334-15
 
 
 ### Titre IV : Dispositions comptables et statistiques
@@ -27546,43 +28322,6 @@ Le décret mentionné à l'article R. 341-1 fixe les conditions de publicité au
 	  - Décret n°1938-12-30 art. 188
 
 
-###### Article R*341-7
-
-Les dispositions des articles R. 341-1 à R. 341-6 sont applicables aux entreprises étrangères pour leurs opérations sur le
-territoire de la République française dans les conditions fixées par le décret mentionné à l'article R. 341-1.
-
-Pour les entreprises soumises à une vérification de solvabilité globale exercée par le ministre de l'économie et des
-finances, en vertu de la section II du chapitre IV du titre III du présent livre, les mêmes dispositions sont applicables aux
-opérations effectuées dans l'ensemble des pays auxquels s'étend cette vérification.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. A342-3 (V)
-	  - Code des assurances - art. R332-21 (VT)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code des assurances - art. R*341-2 (M)
-	  - SPEC_APPLI: Code des assurances - art. R*341-3 (M)
-	  - SPEC_APPLI: Code des assurances - art. R*341-4 (M)
-	  - SPEC_APPLI: Code des assurances - art. R*341-5 (M)
-	  - SPEC_APPLI: Code des assurances - art. R*341-6 (M)
-
-	**Cite**:
-
-	  - Code des assurances R341-1 à R341-6
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 189
-
-
 ###### Article R*341-8
 
 Le décret prévu par l'article R. 341-1 détermine les conditions dans lesquelles les entreprises qui acceptent des contrats en
@@ -27636,6 +28375,43 @@ b) La liste des rétrocessionnaires pour l'année en cours.
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+
+###### Article R341-7
+
+Les dispositions des articles R. 341-1 à R. 341-6 sont applicables aux entreprises étrangères pour leurs opérations sur le
+territoire de la République française dans les conditions fixées par le décret mentionné à l'article R. 341-1.
+
+Pour les entreprises soumises à une vérification de solvabilité globale exercée par le ministre de l'économie et des
+finances, en vertu de la section IV du chapitre IV du titre III du présent livre, les mêmes dispositions sont applicables aux
+opérations effectuées dans l'ensemble des pays auxquels s'étend cette vérification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 35 () JORF 12 mai 1984
+
+	**Cité par**:
+
+	  - Code des assurances - art. A342-3 (V)
+	  - Code des assurances - art. R332-21 (VT)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des assurances - art. R*341-2 (M)
+	  - SPEC_APPLI: Code des assurances - art. R*341-3 (M)
+	  - SPEC_APPLI: Code des assurances - art. R*341-4 (M)
+	  - SPEC_APPLI: Code des assurances - art. R*341-5 (M)
+	  - SPEC_APPLI: Code des assurances - art. R*341-6 (M)
+
+	**Cite**:
+
+	  - Code des assurances R341-1 à R341-6
 
 
 #### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation
@@ -35809,13 +36585,15 @@ droits au lieu et place de la compagnie.
 Sont applicables à la caisse nationale de prévoyance les dispositions suivantes de la deuxième partie "Réglementaire" du
 présent code :
 
-a) Titres Ier et III du livre Ier ;
+a) Titre Ier et III du livre Ier ;
 
 b) Titre IV du livre Ier, à l'exception de l'article R. 140-6 ;    c) Sections I, II et III du titre VI du livre Ier ;
 
-d) Titre III du livre III, à l'exception du chapitre V, ainsi que de l'article R. 331-7.
+d) Articles R. 310-1 à R. 310-2 ;
 
-e) Titre IV du livre III.
+e) Titre III du livre III, à l'exception du chapitre V, ainsi que de l'article R. 331-7 ;
+
+f) Titre IV du livre III ;
 
 Toutefois, les pouvoirs du ministre de l'économie et des finances et du conseil national des assurances sont exercés par la
 commission supérieure de la caisse nationale de prévoyance pour l'application des dispositions du titre III du livre III.
@@ -35826,10 +36604,14 @@ commission supérieure de la caisse nationale de prévoyance pour l'application 
 
 	  - Décret n°76-666 1976-07-16
 
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 29 () JORF 12 mai 1984
+
 	**Cite**:
 
 	  - Code des assurances - art. R*331-7 (M)
-	  - Code des assurances R140-6, R331-7
+	  - Code des assurances R140-6, R310-1 à R310-2, R331-7
 
 	**Liens**:
 
@@ -35880,8 +36662,7 @@ accepté par ladite caisse, ainsi que le montant minimal de rentes inscriptible 
 5° Le barème de rachat des rentes inférieures au montant minimal inscriptible au grand-livre de la caisse nationale de
 prévoyance ;
 
-6° La limite et les conditions dans lesquelles la caisse nationale peut consentir au rachat de ses contrats, ainsi que les
-combinaisons d'assurances pour lesquelles ce rachat peut être accordé ;
+6° Les conditions de rachat des contrats.
 
 7° Les conditions de garantie de l'invalidité ;
 
@@ -35897,21 +36678,13 @@ rapport est distribué à l'Assemblée nationale et au Sénat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-719 1945-04-17 art. 1er
-	  - Loi n°53-75 1953-02-06 art. 28
-	  - Décret n°68-16 1968-01-02 art. 2
-	  - Décret n°71-916 1971-11-10 art. 2
-	  - Décret n°1938-05-02 art. 3
-	  - Décret n°46-812 1946-04-25 art. 2
-	  - Loi n°1868-07-11 art. 17
-	  - Loi n°1886-07-20 art. 23
-	  - Loi n°1928-03-08 art. 9
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 30 () JORF 12 mai 1984
 
 	**Liens**:
 
@@ -36092,6 +36865,56 @@ chapitre du budget du ministère de l'économie et des finances afférent aux ma
 	**Nouveaux textes**:
 
 	  - Code des assurances R433-1
+
+
+###### Article R*433-15
+
+Les écritures comptables de la caisse nationale de prévoyance doivent faire apparaître respectivement les sources des
+résultats, d'une part, pour les activités mentionnées aux 1°, 2°, 3° et 4° de l'article L. 310-1, d'autre part, pour les
+activités mentionnées au 5° dudit article. A cet effet, l'ensemble des recettes, notamment les primes, les commissions et
+revenus provenant des opérations de cession en réassurance, les produits financiers et l'ensemble des dépenses, notamment les
+prestations et frais payés, les dotations aux provisions techniques, les primes cédées en réassurance, les dépenses de
+fonctionnement liées aux opérations d'assurance, doivent être ventilées en fonction de leur origine. La caisse nationale de
+prévoyance doit établir, sur la base des écritures comptables mentionnées ci-dessus, un document faisant apparaître d'une
+manière distincte les éléments correspondant respectivement à chacune des marges de solvabilité à constituer, en application
+des dispositions des articles R. 334-3 et R. 334-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 31 () JORF 12 mai 1984
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R*334-3 (M)
+
+
+###### Article R*433-16
+
+Le fonds de garantie mentionné aux articles R. 334-7 et R. 334-15 ne peut pas être respectivement inférieur, en ce qui
+concerne la caisse nationale de prévoyance, à 300.000 et à 800.000 unités de compte de la Communauté économique européenne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°84-349 du 9 mai 1984 - art. 31 () JORF 12 mai 1984
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-15 (M)
+	  - Code des assurances - art. R*334-7 (M)
 
 
 ###### Article R433-9
@@ -36850,36 +37673,155 @@ dessus sur autorisation du ministre de l'économie et des finances.    Des déro
 
 ##### Section III : Règles relatives au retrait de l'agrément.
 
-###### Article R*441-25
+###### Article R*441-29
 
-L'agrément particulier prévu à l'article L. 441-9 est accordé par arrêté du ministre de l'économie et des finances, publié au
-Journal officiel de la République française.
+En cas de retrait de l'agrément, l'actif est réparti entre les bénéficiaires de la convention considérée, dans la limite du
+total des provisions constituées pour chacune des conventions.
+
+La répartition de cet actif entre les bénéficiaires est proportionnelle à des provisions mathématiques fictives, calculées
+sans intervention d'un taux d'intérêt, correspondant à la totalité des unités de rente ayant donné lieu ou non à versement
+d'arrérages et figurant aux comptes individuels à l'intérieur de la convention.    La part ainsi déterminée est transformée
+en rentes viagères immédiates ou différées, couvertes intégralement par des provisions mathématiques.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-537 1964-06-04 art. 3
-	  - Code des assurances - art. R441-26 (T)
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°84-349 du 9 mai 1984 - art. 32 () JORF 12 mai 1984
+	  - Décret n°84-349 1984-05-09 art. 33, art. 34 JORF 12 mai 1984
+	  - Décret n°84-349 du 9 mai 1984 - art. 34 () JORF 12 mai 1984
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*441-28 (M)
+
+
+###### Article R441-26
+
+L'agrément prévu à la branche 26 de l'article R. 321-1 est retiré par arrêté du ministre de l'économie et des finances,
+publié au Journal officiel de la République française.
+
+Le retrait de l'agrément peut être prononcé en cas d'infraction aux règles fixées par le présent chapitre, notamment lorsque,
+pour une convention, le rapport de la provision technique spéciale à la provision mathématique théorique est inférieur à 0,5,
+ou lorsque le quotient de la valeur de service par la valeur d'acquisition de l'unité de rente est supérieur ou inférieur aux
+limites fixées à l'article R. 441-20 ou, dans les conditions prévues à l'article R. 441-28, lorsque le nombre de participants
+est inférieur à l'effectif prévu à l'article R. 441-15.
+
+Il peut également être prononcé lorsque les provisions techniques spéciales ne sont pas représentées régulièrement ou lorsque
+la trésorerie est insuffisante.
+
+Lorsque l'infraction ne porte que sur les opérations afférentes à une convention déterminée, le retrait de l'agrément peut
+être limité à cette seule convention.
+
+Le retrait de l'agrément peut être prononcé même si la ou les infractions constatées proviennent, non de l'entreprise
+d'assurance, mais d'un ou de plusieurs organismes qui ont contracté avec elle.
+
+Lorsque, pour les opérations pratiquées en consortium, la ou les infractions constatées concernent l'application d'une
+convention dont les opérations relèvent du consortium, le retrait de l'agrément peut être prononcé à l'encontre de toutes les
+entreprises d'assurance participant au consortium. Il est alors procédé à la liquidation de celui-ci sur décision du ministre
+de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 1984-05-09 art. 33, art. 34 JORF 12 mai 1984
+	  - Décret n°84-349 du 9 mai 1984 - art. 34 () JORF 12 mai 1984
 
 	**Cité par**:
 
-	  - Code des assurances - art. A441-7 (Ab)
-	  - Code des assurances - art. R*441-26 (M)
-	  - Code des assurances - art. R441-28 (M)
-	  - Code des assurances - art. R441-5 (M)
+	  - Code des assurances - art. D441-22 (V)
+	  - Code des assurances - art. R144-18 (V)
+	  - Code des assurances - art. R441-28 (V)
+	  - Code des assurances - art. R441-5 (V)
 
 	**Cite**:
 
-	  - Code des assurances - art. L441-9 (Ab)
+	  - Code des assurances - art. R*441-15 (M)
+	  - Code des assurances R321-1, R441-20, R441-28, R441-15
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*441-25 (Ab)
+	  - Code des assurances - art. R441-25 (Ab)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. R441-27 (T)
+
+
+###### Article R441-27
+
+Le retrait de l'agrément entraîne, dans un délai fixé pour chaque cas par le ministre de l'économie et des finances, la
+transformation des opérations faisant l'objet du retrait de l'agrément particulier en opérations d'assurance couvertes,
+intégralement et à tout moment, par des provisions mathématiques. La part des provisions revenant à chaque adhérent dans la
+liquidation des opérations considérées détermine la prestation que comporte l'opération d'assurance de substitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 1984-05-09 art. 33, art. 34 JORF 12 mai 1984
+	  - Décret n°84-349 du 9 mai 1984 - art. 34 () JORF 12 mai 1984
+
+	**Cité par**:
+
+	  - Code des assurances - art. A441-4 (V)
+	  - Code des assurances - art. D441-22 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*441-26 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. R441-28 (T)
+
+
+###### Article R441-28
+
+Lorsque le nombre de participants à une convention, après expiration du délai prévu à l'article R. 441-15, est ou devient
+inférieur à l'effectif prévu audit article, le retrait de l'agrément est prononcé, soit immédiatement, soit après
+l'expiration d'un nouveau délai fixé par le ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°84-349 1984-05-09 art. 33, art. 34 JORF 12 mai 1984
+	  - Décret n°84-349 du 9 mai 1984 - art. 34 () JORF 12 mai 1984
+
+	**Cite**:
+
+	  - Code des assurances - art. R*441-15 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R*441-27 (M)
+	  - Code des assurances - art. R441-27 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. R*441-29 (T)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R441-26 (T)
 
 
 ##### Section IV : Dispositions transitoires.
@@ -37029,140 +37971,6 @@ rente ayant donné lieu ou non au versement d'arrérages et figurant aux comptes
 	  - Code des assurances - art. R*441-1 (M)
 	  - Code des assurances - art. R*441-15 (M)
 	  - Code des assurances R441-1, R441-13, R441-15, R441-20
-
-
-#### Chapitre I : Dispositions relatives à certaines opérations de prévoyance et d'assurance
-
-##### Section III : Règles relatives à l'agrément particulier.
-
-###### Article R*441-26
-
-L'agrément particulier mentionné à l'article R. 441-25 est retiré par arrêté du ministre de l'économie et des finances,
-publié au Journal officiel de la République française.
-
-Le retrait de l'agrément particulier peut être prononcé en cas d'infraction aux règles fixées par le présent chapitre,
-notamment lorsque, pour une convention, le rapport de la provision technique spéciale à la provision mathématique théorique
-est inférieur à 0,5, ou lorsque le quotient de la valeur de service par la valeur d'acquisition de l'unité de rente est
-supérieur ou inférieur aux limites fixées à l'article R. 441-20 ou, dans les conditions prévues à l'article R. 441-28,
-lorsque le nombre de participants est inférieur à l'effectif prévu à l'article R. 441-15.
-
-Il peut également être prononcé lorsque les provisions techniques spéciales ne sont pas représentées régulièrement ou lorsque
-la trésorerie est insuffisante.
-
-Lorsque l'infraction ne porte que sur les opérations afférentes à une convention déterminée, le retrait de l'agrément
-particulier peut être limité à cette seule convention.
-
-Le retrait de l'agrément particulier peut être prononcé même si la ou les infractions constatées proviennent, non de
-l'entreprise d'assurance, mais d'un ou de plusieurs organismes qui ont contracté avec elle.
-
-Lorsque, pour les opérations pratiquées en consortium, la ou les infractions constatées concernent l'application d'une
-convention dont les opérations relèvent du consortium, le retrait de l'agrément particulier peut être prononcé à l'encontre
-de toutes les entreprises d'assurance participant au consortium. Il est alors procédé à la liquidation de celui-ci sur
-décision du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-537 1964-06-04 art. 24
-	  - Code des assurances - art. R441-27 (T)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. D441-22 (V)
-	  - Code des assurances - art. R144-18 (V)
-	  - Code des assurances - art. R441-28 (V)
-	  - Code des assurances - art. R441-5 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*441-15 (M)
-	  - Code des assurances - art. R*441-25 (Ab)
-	  - Code des assurances R441-25, R441-20, R441-28, R441-15
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. R441-25 (Ab)
-
-
-###### Article R*441-27
-
-Le retrait de l'agrément particulier entraîne, dans un délai fixé pour chaque cas par le ministre de l'économie et des
-finances, la transformation des opérations faisant l'objet du retrait de l'agrément particulier en opérations d'assurance
-couvertes, intégralement et à tout moment, par des provisions mathématiques. La part des provisions revenant à chaque
-adhérent dans la liquidation des opérations considérées détermine la prestation que comporte l'opération d'assurance de
-substitution.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-537 1964-06-04 art. 25
-	  - Code des assurances - art. R441-28 (T)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. A441-4 (V)
-	  - Code des assurances - art. D441-22 (V)
-
-
-###### Article R*441-28
-
-Lorsque le nombre de participants à une convention, après expiration du délai prévu à l'article R. 441-15, est ou devient
-inférieur à l'effectif prévu audit article, le retrait de l'agrément particulier est prononcé, soit immédiatement, soit après
-l'expiration d'un nouveau délai fixé par le ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-537 1964-06-04 art. 26
-	  - Code des assurances - art. R*441-29 (T)
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Code des assurances - art. R*441-15 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R441-26 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. R441-27 (V)
-
-
-###### Article R*441-29
-
-En cas de retrait de l'agrément particulier, l'actif est réparti entre les bénéficiaires de la convention considérée, dans la
-limite du total des provisions constituées pour chacune des conventions.
-
-La répartition de cet actif entre les bénéficiaires est proportionnelle à des provisions mathématiques fictives, calculées
-sans intervention d'un taux d'intérêt, correspondant à la totalité des unités de rente ayant donné lieu ou non à versement
-d'arrérages et figurant aux comptes individuels à l'intérieur de la convention.    La part ainsi déterminée est transformée
-en rentes viagères immédiates ou différées, couvertes intégralement par des provisions mathématiques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-537 1964-06-04 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
 
 
 ## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation
