@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1983-03-03
+Version Consolidée au 1983-04-22
 
 # Partie législative
 
@@ -12789,6 +12789,65 @@ territoriale de Mayotte, à l'exclusion des acceptations en réassurance.
 	  - Décret n°93-382 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 
+###### Article R150-20
+
+Le montant des participations aux bénéfices des porteurs de contrats de capitalisation peut être affecté directement aux
+provisions mathématiques ou porté, partiellement ou totalement, à la provision pour participation aux excédents mentionnée à
+l'article R. 331-3. Les sommes portées à cette dernière provision sont affectées à la provision mathématique ou versées aux
+porteurs de titres au cours des cinq exercices suivant celui au titre duquel elles ont été portées à la provision pour
+participation aux excédents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°83-328 1983-04-21 art. 2 JORF 22 avril 1983
+
+	**Abrogé par**:
+
+	  - Décret n°93-382 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+	**Cite**:
+
+	  - Code des assurances - art. R*331-3 (M)
+
+
+##### Section V : Participation des porteurs de titres aux bénéfices.
+
+###### Article R150-21
+
+Les dispositions du présent titre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française,
+des Terres australes et antarctiques françaises et de Wallis et Futuna, et dans la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Transféré par**:
+
+	  - Décret n°83-328 1983-04-21 art. 2 JORF 22 avril 1983
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. R150-20 (MMN)
+	  - Code des assurances R150-20 (1ère version)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R150-22 (Ab)
+	  - Code des assurances - art. R150-23 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R150-24 (Ab)
+
+
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
 
 #### Chapitre unique
@@ -17543,26 +17602,23 @@ Le montant restant à amortir des dépenses d'établissement et des commissions 
 reporté à l'actif du bilan et augmenté, s'il y a lieu, des réserves inscrites au passif du bilan dans la mesure où il
 pourrait être fait sur celles-ci un prélèvement pour l'équilibre des comptes.
 
-Pour l'application des dispositions de l'alinéa précédent, le montant restant à amortir des commissions afférentes aux
-opérations mentionnées aux 19 et 21 de l'article R. 321-1 ne comprend pas les frais d'acquisition non amortis portés à
-l'actif du bilan dans un compte spécial dans les conditions fixées par arrêté du ministre de l'économie et des finances.
-
-Avant amortissement total de ce compte spécial, les entreprises ne peuvent procéder à une distribution ou une répartition
-annuelle de bénéfices que pour un montant au plus égal à celui de la distribution ou de la répartition la plus élevée
-effectuée avant l'exercice où les frais d'acquisition non amortis ont été inscrits pour la première fois au compte spécial
-mentionné ci-dessus ; toutefois, le dividende peut être majoré de l'intérêt à 5 % l'an au plus des versements en espèces
-effectués par les actionnaires postérieurement à cet exercice. Toute distribution ou répartition supérieure est subordonnée à
-l'autorisation du ministre de l'économie et des finances.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 7
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-327 1983-04-21 art. 1 JORF 22 avril 1983
+
+	**Abrogé par**:
+
+	  - Décret n°91-603 du 27 juin 1991 - art. 11 (V) JORF 28 juin 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-30 (M)
 
 
 ###### Article R*322-10
@@ -19640,42 +19696,6 @@ doit être établi dans la forme prévue par arrêté du ministre de l'économie
 	  - Décret n°1938-12-30 art. 41
 
 
-###### Article R*322-76
-
-Les frais d'établissement comprennent toutes les dépenses des trois premières années prévues au programme d'activités
-mentionné à l'article R. 321-6 et qui ne sont pas couvertes par les ressources annuelles de la société.
-
-La somme totale comprenant, d'une part, le montant restant à amortir des dépenses d'établissement et, d'autre part, le
-montant restant à amortir des commissions versées d'avance aux intermédiaires ne peut être supérieure au montant des fonds
-d'établissement et de développement prévus aux 1° et 3° du premier alinéa de l'article R. 322-74, diminué, le cas échéant, du
-solde débiteur qui n'aurait pu être amorti et augmenté, s'il y a lieu, des réserves inscrites au passif du bilan dans la
-mesure où il pourrait être fait sur celles-ci un prélèvement pour l'équilibre des comptes.
-
-Pour l'exécution des dispositions de l'alinéa précédent, le montant restant à amortir des commissions afférentes aux
-opérations mentionnées aux 19 et 21 de l'article R. 321-1 ne comprend pas les frais d'acquisition non amortis portés à
-l'actif du bilan dans un compte spécial dans les conditions fixées par arrêté du ministre de l'économie et des finances.
-
-Avant amortissement total de ce compte spécial, les sociétés ne peuvent procéder à une distribution ou une répartition
-annuelle d'excédents que pour un montant au plus égal à celui de la distribution ou de la répartition la plus élevée
-effectuée avant l'exercice où des commissions escomptées ont été inscrites pour la première fois au compte spécial
-susmentionné. Toute distribution ou répartition supérieure est subordonnée à l'autorisation du ministre de l'économie et des
-finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. R322-163 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 42
-
-
 ###### Article R*322-77
 
 Il ne peut être procédé à des répartitions d'excédents de recettes qu'après constitution des réserves et provisions
@@ -20324,6 +20344,41 @@ Signature
 
 
 ##### Paragraphe 3 : Obligations des sociétaires et de la société.
+
+###### Article R*322-76
+
+Les frais d'établissement comprennent toutes les dépenses des trois premières années prévues au programme d'activités
+mentionné à l'article R. 321-6 et qui ne sont pas couvertes par les ressources annuelles de la société.
+
+La somme totale comprenant, d'une part, le montant restant à amortir des dépenses d'établissement et, d'autre part, le
+montant restant à amortir des commissions versées d'avance aux intermédiaires ne peut être supérieure au montant des fonds
+d'établissement et de développement prévus aux 1° et 3° du premier alinéa de l'article R. 322-74, diminué, le cas échéant, du
+solde débiteur qui n'aurait pu être amorti et augmenté, s'il y a lieu, des réserves inscrites au passif du bilan dans la
+mesure où il pourrait être fait sur celles-ci un prélèvement pour l'équilibre des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-327 1983-04-21 art. 2 JORF 22 avril 1983
+
+	**Abrogé par**:
+
+	  - Décret n°91-1050 du 30 septembre 1991 - art. 19 () JORF 15 octobre 1991
+
+	**Cite**:
+
+	  - Code des assurances - art. R*322-74 (M)
+	  - Code des assurances R321-6, R322-74
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-163 (V)
+
 
 ###### Article R*322-80
 
@@ -24688,39 +24743,6 @@ l'inventaire.
 
 ##### Section I : Eléments d'actif admis en représentation des engagements réglementés.
 
-###### Article R*332-4
-
-Sont admises en représentation des provisions techniques correspondant aux branches mentionnées aux 19, 20 et 21 de l'article
-R. 321-1, au même titre que les placements ou fonds prévus à l'article R. 332-2 :
-
-- les avances sur contrats ;
-
-- les primes ou cotisations restant à recouvrer, de trois mois de date au plus, jusqu'à concurrence de 90 p. 100 de leur
-montant ;
-
-- les sommes portées, à l'actif du bilan, dans le compte spécial de frais d'acquisition non amortis, prévu aux articles R.
-322-9 et R. 322-76.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Cité par**:
-
-	  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*332-2 (M)
-	  - Code des assurances R321-1, R332-2, R322-9, R322-76
-
-	**Anciens textes**:
-
-	  - Décret n°1938-12-30 art. 159
-
-
 ###### Article R*332-5
 
 Les provisions mathématiques des contrats d'assurance sur la vie à capital variable, dans lesquels la somme assurée est
@@ -25347,6 +25369,36 @@ Il peut de même, à titre exceptionnel, accorder aux entreprises des dérogatio
 	**Cite**:
 
 	  - Code des assurances - art. R*332-2 (M)
+
+
+###### Article R332-4
+
+Sont admises en représentation des provisions techniques correspondant aux branches mentionnées aux 19, 20 et 21 de l'article
+R. 321-1, au même titre que les placements ou fonds prévus à l'article R. 332-2 :
+
+- les avances sur contrats ;
+
+- les primes ou cotisations restant à recouvrer, de trois mois de date au plus, jusqu'à concurrence de 90 p. 100 de leur
+montant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-327 1983-04-21 art. 3 JORF 22 avril 1983
+
+	**Cité par**:
+
+	  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances R321-1, R332-2
 
 
 ###### Article R332-9
@@ -26053,21 +26105,23 @@ réclamée.
 
 ##### Section IV : Commissions et frais d'acquisition à amortir.
 
-###### Article R*332-33
+###### Article R332-33
 
 Les entreprises qui versent des commissions à leurs représentants ou à leurs intermédiaires sans les amortir dans l'exercice
 peuvent inscrire ces avances à l'actif de leur bilan, dans un compte "Commissions à amortir". Ce compte doit être établi dans
 les conditions déterminées par décret pris après avis du conseil national des assurances. Le compte correspondant à chaque
-exercice doit être amorti en cinq ans au plus.
-
-Toutefois, le ministre de l'économie et des finances peut autoriser les entreprises d'assurance sur la vie, d'assurance
-nuptialité et natalité et de capitalisation qui en font la demande, à amortir ce compte en dix ans au plus.
+exercice doit être amorti en cinq ans au plus. Les dispositions du présent décret ne sont applicables qu'aux entreprises
+pratiquant les opérations des branches 1 à 17 mentionnées à l'article R. 321-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°83-327 1983-04-21 art. 4 JORF 22 avril 1983
 
 	**Cité par**:
 
@@ -26083,9 +26137,9 @@ nuptialité et natalité et de capitalisation qui en font la demande, à amortir
 	  - TXT_SOURCE: Code des assurances - art. R332-35 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. R332-36 (Ab)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°1938-12-30 art. 191
+	  - Code des assurances R321-1
 
 
 ###### Article R332-34
@@ -26137,120 +26191,6 @@ exercice où sont inscrites les primes ou cotisations ayant donné lieu à l'ava
 	**Anciens textes**:
 
 	  - Décret n°1939-07-29 art. 57, art. 58, art. 59
-
-
-###### Article R332-35
-
-Les entreprises pratiquant une ou plusieurs des branches mentionnées aux 19 à 24 de l'article R. 321-1 doivent établir un
-compte "Commissions à amortir" distinct par exercice, afférent exclusivement aux contrats souscrits dans un même exercice.
-
-Aucune commission à amortir ne peut être admise pour les contrats libérés. Chaque entreprise détermine elle-même le montant
-maximal de la commission à amortir afférente à chacun des contrats non libérés, sans que ce montant puisse dépasser :
-
-a) La valeur actuelle du chargement compris dans les primes en sus d'un chargement de 10 p. 100 ;
-
-b) 5 p. 100 de la valeur actuelle des primes brutes du contrat ;
-
-c) Le montant total de la commission allouée pour la souscription du contrat.
-
-Ces différentes limites sont établies réassurances cédées déduites.
-
-La limite a n'intervient pas pour les assurances vie entière, mixte et à terme fixe.
-
-Pour les rentes viagères différées, la valeur actuelle du chargement compris dans les primes s'entend déduction faite des
-chargements pour frais de gestion et de paiement de la rente.
-
-Sur leur demande, les entreprises peuvent être autorisées à substituer au taux de 10 p. 100 prévu à l'alinéa a le pourcentage
-réel de leurs frais généraux pendant le dernier exercice, y compris les frais et commissions d'encaissement, par rapport au
-montant annuel des primes, calculé en supposant que tous les contrats comportent des primes payables pendant toute leur
-durée.
-
-Le montant maximal de la commission à amortir ainsi fixé pour un exercice de souscription ne peut pas être augmenté par la
-suite en ce qui concerne les contrats souscrits pendant cet exercice.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°83-328 1983-04-21 art. 1 JORF 22 avril 1983
-
-	**Cité par**:
-
-	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
-	  - Code des assurances - art. A332-11 (Ab)
-	  - Code des assurances - art. A332-12 (Ab)
-	  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
-	  - Code des assurances - art. R331-3 (V)
-	  - Code des assurances - art. R331-5-1 (VT)
-	  - Code des assurances - art. R332-36 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*332-33 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R332-33 (M)
-
-	**Cite**:
-
-	  - Code des assurances R321-1
-
-	**Anciens textes**:
-
-	  - Décret n°1939-07-29 art. 54, art. 55
-
-
-###### Article R332-36
-
-L'inscription au compte de "Commissions à amortir" du montant maximal fixé conformément à l'article R. 332-35 donne lieu au
-même fractionnement que le paiement de la commission.
-
-Les différentes fractions du montant maximal ne peuvent être portées au compte de commissions à amortir qu'au fur et à mesure
-de l'inscription des fractions de commission au crédit des intéressés et dans la limite du montant atteint par la provision
-mathématique du contrat.
-
-Toute commission afférente à un contrat résilié, réduit, sinistré, remboursé ou entièrement libéré doit être amortie
-immédiatement en totalité.
-
-En outre, lors de chaque inventaire à partir du deuxième, il doit être porté en amortissement du compte, pour chacun des
-contrats en cours, une somme égale au cinquième du montant maximal de commissions à amortir.
-
-Toutefois, pour les contrats de capitalisation qui ont été suspendus au cours d'un exercice, l'amortissement exigible pour
-cet exercice est réduit proportionnellement aux fractions de primes échues dans cet exercice qui n'ont pas été payées.
-
-Lorsque la durée de paiement des primes est inférieure à six ans, l'amortissement est fait par fractions égales à raison de
-chaque prime ou fraction de prime échue en sus de la première annuité. Si ces primes sont décroissantes, l'amortissement doit
-être fait dans les mêmes délais et proportionnellement aux primes encaissées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Décret n°83-328 1983-04-21 art. 1 JORF 22 avril 1983
-
-	**Cité par**:
-
-	  - Code des assurances - art. A332-11 (Ab)
-	  - Code des assurances - art. A332-12 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*332-33 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R332-33 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. R332-35 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1939-07-29 art. 56
 
 
 ##### Section V : Règles particulières à certaines entreprises étrangères.
@@ -39310,6 +39250,38 @@ chaque année à la date anniversaire de sa prise d'effet, moyennant préavis d'
 	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
+### Titre III : Règles relatives aux assurances de personnes
+
+#### Chapitre II : Les assurances sur la vie
+
+##### Section III : Participation des assurés aux bénéfices techniques et financiers.
+
+###### Article A132-10
+
+Le montant des participations aux bénéfices des assurés peut être affecté directement aux provisions mathématiques ou porté,
+partiellement ou totalement, à la provision pour participation aux excédents mentionnée à l'article R. 331-3. Les sommes
+portées à cette dernière provision sont affectées à la provision mathématique ou versées aux assurés au cours des cinq
+exercices suivant celui au titre duquel elles ont été portées à la provision pour participation aux excédents.
+
+Les sommes figurant à la clôture des comptes de l'exercice 1981 à la provision pour participation aux excédents mentionnée à
+l'article R. 331-3 sont affectées à la provision mathématique ou versées aux assurés au plus tard le 31 décembre 1986, date à
+laquelle sont arrêtés les comptes relatifs à cet exercice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1983-04-21 art. 2 JORF 22 avril 1983
+
+	**Cite**:
+
+	  - Code des assurances - art. R*331-3 (M)
+
+
 ### Titre V : Le contrat de capitalisation
 
 #### Chapitre unique
@@ -39335,6 +39307,46 @@ terme du contrat.
 	**Abrogé par**:
 
 	  - Arrêté 1993-03-19 art. 3 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+
+##### Section II : Rachat.
+
+###### Article A150-1
+
+La valeur de rachat d'un contrat de capitalisation est égale à la provision mathématique diminuée, le cas échéant, d'une
+indemnité fixée dans les conditions suivantes :
+
+Pour les contrats à primes périodiques, l'indemnité ne peut pas dépasser :
+
+6 % de la valeur actuelle des primes brutes restant à percevoir si la durée totale du paiement des primes est inférieure ou
+égale à quinze ans ;
+
+5,5 % si elle est supérieure à quinze ans et inférieure ou égale à dix-sept ans ;
+
+5 % si elle est supérieure à dix-sept ans et inférieure ou égale à vingt ans ;
+
+4,5 % si elle est supérieure à vingt ans et inférieure ou égale à vingt-cinq ans ;
+
+4 % si elle est supérieure à vingt-cinq ans et inférieure ou égale à trente ans.
+
+Ces pourcentages sont réduits dans la proportion qui existe, au moment du rachat, entre le montant de la partie non encore
+échue de la commission d'acquisition et la commission d'acquisition totale. Le calcul est effectué sur le montant maximal de
+la commission d'acquisition en appliquant les règles relatives à l'échelonnement et à la limitation des dépenses
+d'acquisition.
+
+Pour les contrats à prime unique, l'indemnité ne peut pas dépasser 6 % du montant de la prime brute pendant les quatre
+premières années, 4,5 % de la cinquième à la huitième année, 3 % de la neuvième à la douzième année et 1,5 % de la treizième
+à la seizième. Elle doit être nulle ensuite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 1983-04-21 art. 3 JORF 22 avril 1983
 
 
 ##### Section V : Participation des porteurs de titres aux bénéfices.
@@ -42121,400 +42133,6 @@ Toutefois, l'évaluation ne peut pas dépasser le prix d'achat majoré de 5 %.
 	  - TXT_ASSOCIE: Code des assurances - art. R332-20 (M)
 
 
-##### Section IV : Commissions et frais d'acquisition à amortir.
-
-###### Article A332-7
-
-En ce qui concerne les opérations d'assurance sur la vie, il ne peut, pour un exercice déterminé, être inscrit de frais
-d'acquisition à amortir au compte spécial prévu par les articles R. 322-9 et R. 322-76 que si, dans cet exercice, pour les
-opérations d'assurances directes effectuées sur le territoire de la République française, le montant des frais de gestion,
-d'organisation et de production de toute nature et des commissions d'acquisition et d'encaissement est inférieur au total des
-éléments suivants :
-
-1° 10 p. 100 des primes émises nettes d'annulations relatives aux opérations d'assurances collectives en cas de vie :
-
-15 p. 100 des primes émises nettes d'annulations relatives aux opérations d'assurances grande branche ;
-
-20 p. 100 des primes émises nettes d'annulations relatives aux opérations d'assurances populaires et collectives en cas de
-décès.
-
-2° 3 p. 100 des primes périodiques relatives aux opérations d'assurances grande branche ;
-
-5 p. 100 des primes périodiques relatives aux opérations d'assurances populaires.
-
-3° Sur la production de l'exercice en capitaux :
-
-- en ce qui concerne la grande branche :
-
-1,25 p. 100 pour les assurances temporaires ;
-
-2,75 p. 100 pour les assurances vie entière ;
-
-4 p. 100 pour les assurances mixtes, à terme fixe et combinées ;
-
-2 p. 100 pour les autres assurances.
-
-- en ce qui concerne la branche populaire :
-
-5 p. 100 pour les assurances mixtes ;
-
-3 p. 100 pour les autres assurances.
-
-4° Sur la production de l'exercice précédent en capitaux :
-
-- en ce qui concerne la grande branche :
-
-0,50 p. 100 pour les assurances temporaires ;
-
-1 p. 100 pour les assurances vie entière ;
-
-1,50 p. 100 pour les assurances mixtes, à terme fixe et combinées ;
-
-0,75 p. 100 pour les autres assurances.
-
-- en ce qui concerne la branche populaire :
-
-2,50 p. 100 pour les assurances mixtes ;
-
-1,50 p. 100 pour les autres assurances.
-
-On évalue le montant de la production d'un exercice en déduisant des capitaux entrés par souscription et par transformation
-les sorties par transformation ou sans effet et le tiers des sorties par résiliation.
-
-Les pourcentages prévus au 1° du présent article sont diminués de 50 p. 100 de leur montant pour les affaires grande branche
-et populaires souscrites à primes uniques ; ils sont majorés de 25 p. 100 de leur montant pour les entreprises dont le
-montant total des primes émises sur le territoire de la République française est inférieur à 2 millions de francs, de 20 p.
-100 lorsque le montant des primes est compris entre 2 et 5 millions de francs, de 15 p. 100 lorsque le montant des primes est
-compris entre 5 et 10 millions de francs, de 10 p. 100 lorsque le montant des primes est compris entre 10 et 20 millions de
-francs.
-
-Pour les entreprises dont l'exploitation de la branche populaire ou de la grande branche n'a été entreprise que depuis trois
-ans au plus, la majoration prévue à l'alinéa précédent est calculée en considérant séparément la branche populaire, d'une
-part, et la grande branche et les assurances collectives, d'autre part.
-
-Si le total des frais de gestion, d'organisation et de production de toute nature et des commissions d'acquisition et
-d'encaissement est supérieur à la limite fixée au premier alinéa du présent article, le ministre de l'économie et des
-finances peut, à titre exceptionnel, autoriser les entreprises qui en font la demande à inscrire les frais d'acquisition à
-amortir au compte spécial.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1983-04-21 art. 4 JORF 22 avril 1983
-
-	**Cité par**:
-
-	  - Code des assurances - art. A332-11 (Ab)
-	  - Code des assurances - art. A332-9 (Ab)
-	  - Code des assurances - art. A344-13 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances R322-9, R322-76
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R322-9, R322-76
-
-
-###### Article A332-8
-
-En ce qui concerne les opérations de capitalisation, il ne peut, pour un exercice déterminé, être inscrit de frais
-d'acquisition à amortir au compte spécial prévu par les articles R. 322-9 et R. 322-76 que si, dans cet exercice, pour les
-opérations directes effectuées sur le territoire de la République française, le montant des frais de gestion, d'organisation
-et de production de toute nature et des commissions d'acquisition et d'encaissement est inférieur au total des éléments
-suivants :
-
-1° 10 p. 100 des primes ;
-
-2°  5 p. 100 des primes périodiques ;
-
-3° 50 p. 100 des primes annuelles correspondant à la production de l'exercice ;
-
-4° 25 p. 100 des primes annuelles correspondant à la production de l'exercice précédent.
-
-On évalue les primes annuelles correspondant à la production d'un exercice en multipliant, pour chaque catégorie de titres,
-la prime annuelle relative à 1 franc de capital par les capitaux entrés par souscription et transformation, sous déduction
-des sorties par transformation ou sans effet, et de la moitié des sorties par résiliation.
-
-Le pourcentage prévu au 1° du présent article est diminué de 50 p. 100 de son montant pour les affaires souscrites à prime
-unique.
-
-Il est majoré de 25 p. 100 de son montant pour les entreprises dont le montant total des primes émises sur le territoire de
-la République française est inférieur à 2 millions de francs, de 20 p. 100 lorsque le montant des primes est compris entre 2
-et 5 millions de francs, de 15 p. 100 lorsque le montant des primes est compris entre 5 et 10 millions de francs, de 10 p.
-100 lorsque le montant des primes est compris entre 10 et 20 millions de francs.
-
-Si le total des frais de gestion, d'organisation et de production de toute nature et des commissions d'acquisition et
-d'encaissement est supérieur à la limite fixée au premier alinéa du présent article, le ministre de l'économie et des
-finances peut autoriser exceptionnellement les entreprises qui en font la demande à inscrire les frais d'acquisition à
-amortir au compte spécial.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1983-04-21 art. 4 JORF 22 avril 1983
-
-	**Cité par**:
-
-	  - Code des assurances - art. A332-12 (Ab)
-	  - Code des assurances - art. A332-9 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances R322-9, R322-76
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R322-9, R322-76
-
-
-###### Article A332-9
-
-Si les conditions fixées aux articles A. 332-7 et A. 332-8 ont été satisfaites pour un exercice, il peut, par dérogation
-auxdits articles, être inscrit des frais d'acquisition à amortir au compte spécial pour l'exercice suivant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1952-05-27 art. 2
-	  - Arrêté 1952-05-28 art. 2
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1983-04-21 art. 4 JORF 22 avril 1983
-
-	**Cité par**:
-
-	  - Code des assurances - art. A332-11 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. A332-7 (Ab)
-	  - Code des assurances - art. A332-8 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R322-9, R322-76
-
-
-###### Article A332-10
-
-Le compte spécial de frais d'acquisition à amortir doit faire l'objet d'une rubrique spéciale aux états A et B prévus par
-l'article R. 342-17.
-
-Il est établi un compte distinct par exercice de souscription, les contrats souscrits étant rattachés à l'exercice au cours
-duquel les commissions échues ont été créditées ou payées aux ayants droit.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1952-05-27 art. 3
-	  - Arrêté 1952-05-28 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1983-04-21 art. 4 JORF 22 avril 1983
-
-	**Cité par**:
-
-	  - Code des assurances - art. A332-11 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. R342-17 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R322-9, R322-76
-
-
-###### Article A332-11
-
-Pour chaque exercice de souscription, le montant du compte mentionné à l'article A. 332-7 est calculé uniquement à raison des
-capitaux restant en cours à la date de l'inventaire considéré.
-
-Il ne peut pas dépasser :
-
-1° Les limites fixées aux articles R. 332-35 et R. 332-36 diminuées, s'il y a lieu, des autres commissions non amorties
-figurant à l'actif du bilan afférentes au même exercice de souscription ;
-
-2° En ce qui concerne la grande branche : à la fin de l'exercice de souscription et à la fin des deux exercices suivants :
-
-1,50 p. 100 des capitaux pour les assurances vie entière ;
-
-2,50 p. 100 des capitaux pour les assurances mixtes et à terme fixe.
-
-En ce qui concerne la branche populaire :
-
-a) A la fin de l'exercice de souscription :
-
-1 p. 100 des capitaux pour les assurances vie entière ;
-
-1,50 p. 100 des capitaux pour les assurances mixtes et à terme fixe ;
-
-b) A la fin des deux exercices suivant l'exercice de souscription :
-
-1,50 p. 100 des capitaux pour les assurances vie entière ;
-
-2,50 p. 100 des capitaux pour les assurances mixtes et à terme fixe.
-
-Les assurances sont, compte tenu de la modification du taux d'intérêt, définies par les formules données dans la notice
-insérée dans le bulletin administratif des assurances, publié par le ministère des finances, n° 8 (mai 1947, p. 251).
-
-Toutes les assurances dont les primes sont établies au moyen de formules qui ne reproduisent pas exactement celles
-mentionnées ci-dessus sont exclues, à l'exception des assurances dont l'assimilation à l'une des catégories susmentionnées
-est admise par le ministre de l'économie et des finances, sur demande particulière présentée par l'entreprise intéressée.
-
-Les contrats à prime unique ne bénéficient pas des dispositions du présent article, le montant des capitaux correspondant à
-ces primes uniques étant, s'il ne peut être exactement obtenu, réputé égal à deux fois le montant des primes uniques
-correspondantes pour les assurances vie entière et une fois et demie ce montant pour les assurances mixtes et à terme fixe.
-
-Il n'est tenu compte des entrées par transformation qu'en cas d'augmentation de capital et seulement pour la différence entre
-le nouveau et l'ancien capital.
-
-Tous les calculs doivent être faits réassurances cédées déduites.
-
-Les dispositions des articles A. 332-7 et A. 332-9 à A. 332-11 ne s'appliquent ni aux réassurances acceptées, ni aux
-opérations à l'étranger. Pour ces dernières opérations, les entreprises sont autorisées à appliquer les règles fixées par les
-autorités de contrôle des pays intéressés en matière de frais d'acquisition à amortir.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1952-05-27 art. 4
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1983-04-21 art. 4 JORF 22 avril 1983
-
-	**Cite**:
-
-	  - Code des assurances - art. A332-10 (Ab)
-	  - Code des assurances - art. A332-11 (Ab)
-	  - Code des assurances - art. A332-7 (Ab)
-	  - Code des assurances - art. A332-9 (Ab)
-	  - Code des assurances - art. R332-35 (Ab)
-	  - Code des assurances - art. R332-36 (Ab)
-
-	**Cité par**:
-
-	  - Code des assurances - art. A332-13 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R322-9, R322-76
-
-
-###### Article A332-12
-
-Le montant du compte mentionné à l'article A. 332-8 ne peut dépasser, pour chaque exercice de souscription :
-
-1° Les limites fixées aux articles R. 332-35 et R. 332-36, diminuées, s'il y a lieu, des autres commissions non amorties
-figurant à l'actif du bilan et afférentes au même exercice de souscription ;
-
-2° A la fin de l'exercice de souscription et de l'exercice suivant :
-
-3 p. 100 de la valeur actuelle à la date de la souscription des quinze premières primes annuelles afférentes aux contrats
-restant en cours à l'inventaire.
-
-Les valeurs actuelles sont calculées en tenant compte de la probabilité de sortir aux tirages et au moyen du taux d'intérêt
-du tarif.
-
-Il n'est pas tenu compte des réassurances acceptées, des contrats à prime unique, des contrats à effet rétroactif qui, dès la
-souscription, ont une valeur de rachat, ni des contrats entrés par transformation, sauf en cas d'augmentation du capital et
-seulement pour la différence entre le nouveau et l'ancien capital.
-
-Tous les calculs doivent être faits réassurances cédées déduites.
-
-Les contrats suspendus sont considérés comme en cours jusqu'à ce qu'ils soient résiliés ou rachetés. Les contrats annulés
-puis remis en vigueur sont comptés dans leur exercice de souscription.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1952-05-28 art. 4
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1983-04-21 art. 4 JORF 22 avril 1983
-
-	**Cité par**:
-
-	  - Code des assurances - art. A332-13 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. A332-8 (Ab)
-	  - Code des assurances - art. R332-35 (Ab)
-	  - Code des assurances - art. R332-36 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R322-9, R322-76
-
-
-###### Article A332-13
-
-Le compte établi conformément aux dispositions de l'article A. 332-11 ou de l'article A. 332-12, arrêté à la fin du deuxième
-exercice suivant l'exercice de souscription, doit être amorti en trois ans au plus et par fractions annuelles d'un tiers au
-moins.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1952-05-27 art. 5
-	  - Arrêté 1952-05-28 art. 5
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté 1983-04-21 art. 4 JORF 22 avril 1983
-
-	**Cite**:
-
-	  - Code des assurances - art. A332-11 (Ab)
-	  - Code des assurances - art. A332-12 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R322-9, R322-76
-
-
 #### Chapitre III : Revenu des placements.
 
 ###### Article A333-1
@@ -42991,6 +42609,30 @@ exprimées en unités de compte.
 	**Cite**:
 
 	  - Code des assurances - art. A335-1 (M)
+
+
+###### Article A335-5-1
+
+Les règlements généraux soumis à l'avis de l'autorité administrative indiquent les modalités de calcul applicables au rachat,
+à la réduction et à toutes les formes de transformation des contrats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 1983-04-21 art. 5 JORF 22 avril 1983
+
+	**Abrogé par**:
+
+	  - Arrêté 1993-03-19 art. 15 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
 ##### Paragraphe 2 : Assurances nuptialité et natalité.
