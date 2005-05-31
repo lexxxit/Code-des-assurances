@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-05-05
+Version Consolidée au 2005-06-01
 
 # Partie législative
 
@@ -37032,7 +37032,10 @@ I. - La marge de solvabilité mentionnée à l'article L. 334-1 est constituée,
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
-1. Le capital social versé ou le fonds d'établissement constitué ;
+1. Le capital social versé ou le fonds d'établissement constitué ; toutefois, les actions de préférence définies à l'article
+L. 228-11 du code de commerce ne sont admises que si elles remplissent les conditions fixées par arrêté du ministre chargé de
+l'économie relatives notamment aux droits financiers attachés et aux versements correspondants, lesquels doivent pouvoir être
+suspendus et ne sont pas dans ce cas reportés à un exercice ultérieur ;
 
 2. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
 de capitalisation ;
@@ -37047,14 +37050,16 @@ La marge de solvabilité est diminuée du montant de ses actions propres détenu
 
 II. - La marge de solvabilité peut également être constituée par :
 
-1. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés.
+1. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés, ainsi que d'actions de
+préférence définies à l'article L. 228-11 du code de commerce autres que celles à caractère non cumulatif mentionnées au 1 du
+I ;
 
-Ces titres et emprunts doivent répondre aux conditions, notamment de durée et de remboursements, qui sont fixées par arrêté
-du ministre chargé de l'économie. La prise en compte de ces fonds est limitée à hauteur de 50 % de l'exigence de marge de
-solvabilité ou de la marge de solvabilité disponible, le montant le plus faible étant retenu. Toutefois, la prise en compte
-de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 %. Tout
-remboursement effectué irrégulièrement peut, conformément aux dispositions de l'article L. 310-18, donner lieu à application
-de sanctions par la commission de contrôle ;
+Ces titres et emprunts subordonnés et actions de préférence doivent répondre aux conditions, notamment de durée et de
+remboursements, qui sont fixées par arrêté du ministre chargé de l'économie. La prise en compte de ces fonds est limitée à
+hauteur de 50 % de l'exigence de marge de solvabilité ou de la marge de solvabilité disponible, le montant le plus faible
+étant retenu. Toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée
+n'est admise qu'à concurrence de 25 %. Tout remboursement effectué irrégulièrement peut, conformément aux dispositions de
+l'article L. 310-18, donner lieu à application de sanctions par la commission de contrôle ;
 
 2. Pour les entreprises adhérentes au fonds de garantie institué par l'article L. 423-1, la réserve pour fonds de garantie
 prévue à l'article R. 423-16, à hauteur de la part de cotisation versée par l'entreprise et non utilisée par le fonds.
@@ -37089,7 +37094,7 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 	**Modifié par**:
 
-	  - Décret n°2003-1236 du 22 décembre 2003 - art. 5 () JORF 24 décembre 2003
+	  - Décret n°2005-641 du 31 mai 2005 - art. 1 () JORF 1er juin 2005
 
 	**Cité par**:
 
@@ -37116,6 +37121,7 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 	**Cite**:
 
+	  - Code de commerce. - art. L228-11 (M)
 	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. L334-1 (M)
 	  - Code des assurances - art. L423-1 (V)
@@ -37460,7 +37466,10 @@ I. - La marge de solvabilité mentionnée à l'article L. 334-1 est constituée,
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
-1. Le capital social versé ou le fonds d'établissement constitué ;
+1. Le capital social versé ou le fonds d'établissement constitué ; toutefois, les actions de préférence définies à l'article
+L. 228-11 du code de commerce ne sont admises que si elles remplissent les conditions fixées par arrêté du ministre chargé de
+l'économie relatives notamment aux droits financiers attachés et aux versements correspondants, lesquels doivent pouvoir être
+suspendus et ne sont pas dans ce cas reportés à un exercice ultérieur ;
 
 2. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
 de capitalisation ;
@@ -37471,13 +37480,14 @@ La marge de solvabilité est diminuée du montant de ses actions propres détenu
 
 II. - La marge de solvabilité peut également être constituée par :
 
-1. Les fonds effectivement versés provenant de l'émission de titres ou emprunts subordonnés. Ces titres et emprunts doivent
-répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du ministre chargé de l'économie.
-La prise en compte de ces fonds est admise jusqu'à concurrence de 50 % du montant le plus faible de l'exigence de marge de
-solvabilité ou de la marge de solvabilité. Toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou
-emprunts à durée déterminée n'est admise qu'à concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement
-peut, conformément aux dispositions de l'article L. 310-18, donner lieu à application de sanctions par la commission de
-contrôle.
+1. Les fonds effectivement versés provenant de l'émission de titres ou emprunts subordonnés, ainsi que d'actions de
+préférence définies à l'article L. 228-11 du code de commerce autres que celles à caractère non cumulatif mentionnées au 1 du
+I. Ces titres et emprunts subordonnés et actions de préférence doivent répondre aux conditions, notamment de durée et de
+remboursements, qui sont fixées par arrêté du ministre chargé de l'économie. La prise en compte de ces fonds est admise
+jusqu'à concurrence de 50 % du montant le plus faible de l'exigence de marge de solvabilité ou de la marge de solvabilité.
+Toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise qu'à
+concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement peut, conformément aux dispositions de
+l'article L. 310-18, donner lieu à application de sanctions par la commission de contrôle.
 
 2. La réserve pour fonds de garantie prévue à l'article R. 423-16, à hauteur de la part de cotisation versée par l'entreprise
 et non utilisée par le fonds.
@@ -37512,10 +37522,6 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°2003-1236 du 22 décembre 2003 - art. 11 () JORF 24 décembre 2003
-
 	**Cité par**:
 
 	  - Décret n°2004-342 du 21 avril 2004 - art. 27 (Ab)
@@ -37544,8 +37550,13 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 	  - Code des assurances - art. R391-1 (V)
 	  - Code des assurances - art. R423-16 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2005-641 du 31 mai 2005 - art. 2 () JORF 1er juin 2005
+
 	**Cite**:
 
+	  - Code de commerce. - art. L228-11 (M)
 	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. L334-1 (M)
 	  - Code des assurances - art. R*332-2 (M)
@@ -75940,51 +75951,80 @@ compte de l'extinction des contrats avant leur terme.
 
 ###### Article A334-3
 
-I. - Les emprunts et titres subordonnés entrant dans la composition de la marge de solvabilité visés aux articles R. 334-3 et
-R. 334-11 doivent répondre aux conditions suivantes :
+- I. - Les actions de préférence entrant dans la composition de la marge de solvabilité mentionnées au 1 du I des articles R.
+334-3 et R. 334-11 doivent répondre aux conditions suivantes :
+
+a) Ces titres sont assortis de droits financiers définis par les statuts ; les versements correspondant à ces droits
+équivalent à une fraction du bénéfice distribuable de l'exercice, au sens de l'article L. 232-11 du code de commerce ;
+
+b) L'entreprise a la faculté de suspendre le versement de ces droits financiers dans des conditions prévues par les statuts ;
+elle est tenue de le faire si cette suspension est nécessaire au respect par l'entreprise des dispositions de l'article L.
+334-1 ;
+
+c) Dans les cas visés au b, le versement des droits financiers ne peut être reporté à un exercice ultérieur ;
+
+d) Dans l'hypothèse d'une liquidation de l'entreprise d'assurance débitrice, ces titres ne peuvent être remboursés qu'après
+règlement de toutes les dettes existant à la date de la liquidation ou contractées pour les besoins de celle-ci ;
+
+e) Ces titres ont la capacité d'absorber les pertes, même en cas de poursuite de l'activité ;
+
+f) Les statuts prévoient qu'ils ne peuvent être modifiés qu'après que la commission de contrôle aura déclaré, après avoir
+vérifié que le contrat modifié continuera de remplir les conditions fixées au présent article, ne pas s'opposer à la
+modification envisagée ;
+
+g) Si les statuts prévoient une possibilité de rachat des actions de préférence par l'entreprise émettrice ou si la
+conversion des actions de préférence en actions ordinaires se traduit par une réduction de capital, ce rachat ou cette
+conversion ne peut intervenir avant 5 ans à compter de la date d'émission et nécessite l'approbation préalable de la
+commission de contrôle
+
+II. - Les actions de préférence entrant dans la composition de la marge de solvabilité mentionnées au 1 du Il des articles R.
+334-3 et R. 334-11 doivent répondre aux conditions fixées au I du présent article, à l'exception du a, du b et du c.
+
+III. - Les emprunts et titres subordonnés entrant dans la composition de la marge de solvabilité visés aux articles R. 334-3
+et R. 334-11 doivent répondre aux conditions suivantes :
 
 1° Dans l'hypothèse d'une liquidation de l'entreprise d'assurance débitrice, ces titres ou emprunts ne peuvent être
 remboursés qu'après règlement de toutes les autres dettes existant à la date de la liquidation ou contractées pour les
-besoins de celle-ci.
+besoins de celle-ci ;
 
 2° Le contrat d'émission ou d'emprunt ne comporte pas de clause prévoyant que, dans des circonstances déterminées autres que
-la liquidation de l'entreprise d'assurance débitrice, la dette devra être remboursée avant l'échéance convenue.
+la liquidation de l'entreprise d'assurance débitrice, la dette devra être remboursée avant l'échéance convenue ;
 
-3° Le contrat d'émission ou d'emprunt prévoit qu'il ne pourra être modifié qu'après que la commission de contrôle des
+3° Le contrat d'émission ou d'emprunt prévoit qu'il ne pourra être modifié qu'après que la Commission de contrôle des
 assurances aura déclaré, après avoir vérifié que le contrat modifié continuera de remplir les conditions fixées au présent
-article, ne pas s'opposer à la modification envisagée.
+article, ne pas s'opposer à la modification envisagée ;
 
 4° Le contrat d'émission ou d'emprunt doit prévoir une échéance de remboursement des fonds au moins égale à cinq ans ou,
 lorsque aucune échéance n'est fixée, un préavis d'au moins cinq ans pour tout remboursement.
 
-II. - Au plus tard un an avant la date prévue pour le remboursement de tout ou partie des fonds visés au I ci-dessus,
-l'entreprise d'assurance débitrice soumet à la commission de contrôle des assurances un plan indiquant comment la marge de
-solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. Ce plan n'est pas exigé si la
-part des fonds incluse dans la marge de solvabilité est progressivement et régulièrement ramenée à zéro par l'entreprise
-d'assurance au cours des cinq dernières années au moins avant l'échéance de remboursement.
+IV. - Au plus tard un an avant la date prévue pour le remboursement de tout ou partie des fonds visés au II et au III ci-
+dessus, l'entreprise d'assurance débitrice soumet à la Commission de contrôle des assurances un plan indiquant comment la
+marge de solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. Ce plan n'est pas exigé
+si la part des fonds incluse dans la marge de solvabilité est progressivement et régulièrement ramenée à zéro par
+l'entreprise d'assurance au cours des cinq dernières années au moins avant l'échéance de remboursement.
 
-III. - Les fonds provenant des emprunts et titres subordonnés à durée déterminée entrant dans la composition de la marge de
-solvabilité peuvent être remboursés par anticipation à l'initiative de l'entreprise d'assurance débitrice si la commission de
+V. - Les fonds provenant des emprunts et titres subordonnés à durée déterminée entrant dans la composition de la marge de
+solvabilité peuvent être remboursés par anticipation à l'initiative de l'entreprise d'assurance débitrice si la Commission de
 contrôle des assurances a préalablement autorisé un tel remboursement, après s'être assurée que la marge de solvabilité ne
 risquait pas d'être ramenée en dessous du niveau nécessaire pour garantir durablement le respect de la marge requise par la
 réglementation.
 
-Dans les mêmes conditions, la commission de contrôle des assurances peut autoriser le remboursement des fonds provenant des
+Dans les mêmes conditions, la Commission de contrôle des assurances peut autoriser le remboursement des fonds provenant des
 emprunts et titres subordonnés à durée indéterminée entrant dans la composition de la marge de solvabilité sans application
-du préavis prévu au 4° du paragraphe I du présent article.
+du préavis prévu au 4° du III du présent article.
 
 Dans les cas visés au présent paragraphe, l'entreprise d'assurance débitrice soumet au moins six mois à l'avance à la
-commission de contrôle des assurances, à l'appui de sa demande d'autorisation, un plan indiquant comment la marge de
+Commission de contrôle des assurances, à l'appui de sa demande d'autorisation, un plan indiquant comment la marge de
 solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. L'absence de décision notifiée à
 l'entreprise à l'expiration d'un délai de six mois vaut autorisation.
 
 Sont notamment soumis aux dispositions du présent paragraphe l'amortissement anticipé par offre publique d'achat ou d'échange
 et le rachat en bourse de titres cotés ; toutefois un émetteur peut racheter en bourse sans autorisation préalable jusqu'à 5
-p. 100 des titres émis, à condition d'informer la commission de contrôle des assurances des rachats effectués.
+% des titres émis, à condition d'informer la Commission de contrôle des assurances des rachats effectués.
 
-IV. - Les contrats d'émission concernant des emprunts et titres à durée indéterminée qui prévoient formellement que tout
-remboursement est subordonné à autorisation préalable de la commission de contrôle des assurances n'ont pas à prévoir le
-délai de préavis minimum visé au 4° du I du présent article.
+VI. - Les contrats d'émission concernant des emprunts et titres à durée indéterminée qui prévoient formellement que tout
+remboursement est subordonné à autorisation préalable de la Commission de contrôle des assurances n'ont pas à prévoir le
+délai de préavis minimum visé au 4° du III du présent article.
 
 **Liens relatifs à cet article**
 
@@ -75994,7 +76034,14 @@ délai de préavis minimum visé au 4° du I du présent article.
 
 	**Modifié par**:
 
-	  - Arrêté 1992-09-01 art. 1 JORF 9 septembre 1992 rectificatif JORF 10 octobre 1992
+	  - Arrêté 2005-05-31 art. 1 JORF 1er juin 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L232-11 (M)
+	  - Code des assurances - art. L334-1 (M)
+	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R*334-3 (M)
 
 	**Cité par**:
 
@@ -76002,66 +76049,8 @@ délai de préavis minimum visé au 4° du I du présent article.
 	  - Code des assurances - art. A331-7 (M)
 	  - Code des assurances - art. A334-4 (V)
 
-	**Cite**:
-
-	  - Code des assurances - art. R*334-11 (M)
-	  - Code des assurances - art. R*334-3 (M)
-
 
 ##### Section VIII : La surveillance complémentaire des entreprises d' assurance faisant partie d'un groupe d'assurance
-
-###### Article A334-4
-
-Sont considérés comme pouvant être effectivement rendus disponibles pour couvrir la solvabilité ajustée des entreprises
-participantes visées à l'article R. 334-40 et des entreprises d'assurance visées à l'article R. 334-44, et comme pouvant être
-pris en compte au titre des entreprises apparentées intégrées dans le calcul de solvabilité ajustée les éléments suivants :
-
-1. Les plus-values latentes sur actifs dans la limite, s'agissant d'entreprises d'assurance sur la vie ou de capitalisation
-ou mixtes, de l'exigence de marge de solvabilité de l'entreprise à l'actif duquel ces actifs sont inscrits. Au-delà, les
-plus-values latentes sur actifs de ces entreprises ne sont prises en compte qu'une fois déduits les droits à participations
-des assurés. Pour les entreprises contrôlées au titre de l'article L. 310-1, ces droits sont calculés conformément à
-l'article R. 344-1 ;
-
-2. Les titres et emprunts subordonnés détenus en dehors du groupe dans la mesure où ils sont admis à contribuer à la
-constitution de la marge de solvabilité de l'entreprise au passif duquel ils sont inscrits. En particulier, les titres et
-emprunts subordonnés des sociétés de groupe d'assurance visées au premier alinéa de l'article L. 322-1-2 ne peuvent être
-considérés comme pouvant être effectivement rendus disponibles que s'ils répondent à des conditions identiques à celles
-mentionnées aux articles R. 334-3, R. 334-11, R. 334-17 et A. 334-3. Toutefois, la CCA dispose de la capacité de considérer
-comme pouvant être rendue disponible une plus grande part de ces titres et emprunts, dès lors qu'elle considère comme
-adéquate la répartition à l'intérieur du groupe de l'ensemble des éléments admissibles pour la marge ;
-
-3. Les rappels de cotisations des sociétés d'assurance mutuelle dans la mesure et pour le montant où ils sont admis à
-contribuer à la constitution de la marge de solvabilité de l'entreprise qui a la possibilité d'y faire appel ;
-
-4. Les intérêts minoritaires dans la mesure où ils sont admis à contribuer à la constitution de la marge de solvabilité de
-l'entreprise dont ils représentent une partie des fonds propres et dans la limite de la part de l'exigence de solvabilité de
-cette entreprise correspondant au pourcentage de détention par lesdits intérêts minoritaires.
-
-En outre, dans tous les cas, ne peuvent être considérés comme pouvant être effectivement rendus disponibles les actifs des
-entreprises dont le siège est situé dans un Etat exerçant des restrictions aux mouvements de capitaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 2002-05-16 art. 1 JORF 17 mai 2002
-
-	**Cite**:
-
-	  - Code des assurances - art. A334-3 (M)
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L322-1-2 (M)
-	  - Code des assurances - art. R*334-11 (M)
-	  - Code des assurances - art. R*334-17 (M)
-	  - Code des assurances - art. R*334-3 (M)
-	  - Code des assurances - art. R334-40 (M)
-	  - Code des assurances - art. R334-44 (M)
-	  - Code des assurances - art. R344-1 (M)
-
 
 ###### Article A334-5
 
@@ -76098,6 +76087,71 @@ complémentaire.
 
 	  - Code des assurances - art. A344-14 (M)
 	  - Code des assurances - art. R334-45 (M)
+
+
+##### Section VIII : La surveillance complémentaire des entreprises d'assurance faisant partie d'un groupe d'assurance.
+
+###### Article A334-4
+
+Sont considérés comme pouvant être effectivement rendus disponibles pour couvrir la solvabilité ajustée des entreprises
+participantes visées à l'article R. 334-40 et des entreprises d'assurance visées à l'article R. 334-44, et comme pouvant être
+pris en compte au titre des entreprises apparentées intégrées dans le calcul de solvabilité ajustée les éléments suivants :
+
+1. Les plus-values latentes sur actifs dans la limite, s'agissant d'entreprises d'assurance sur la vie ou de capitalisation
+ou mixtes, de l'exigence de marge de solvabilité de l'entreprise à l'actif duquel ces actifs sont inscrits. Au-delà, les
+plus-values latentes sur actifs de ces entreprises ne sont prises en compte qu'une fois déduits les droits à participations
+des assurés. Pour les entreprises contrôlées au titre de l'article L. 310-1, ces droits sont calculés conformément à
+l'article R. 344-1 ;
+
+2. Les titres et emprunts subordonnés ainsi que les actions de préférence mentionnées au 1 du II de l'article R. 334-3 ou au
+1 du II de l'article R. 334-11 détenus en dehors du groupe dans la mesure où ils sont admis à contribuer à la constitution de
+la marge de solvabilité de l'entreprise au passif duquel ils sont inscrits. En particulier, lorsque la société émettrice ou
+emprunteuse est une société de groupe d'assurance définie au premier alinéa de l'article L. 322-1-2 ou une compagnie
+financière holding mixte définie à l'article L. 334-9, ces titres et emprunts ne peuvent être considérés comme pouvant être
+effectivement rendus disponibles que s'ils répondent à des conditions identiques à celles mentionnées aux articles R. 334-3,
+R. 334-11, R. 334-17 et A. 334-3. Toutefois, la commission de contrôle dispose de la capacité de considérer comme pouvant
+être rendue disponible une plus grande part de ces titres et emprunts, dès lors qu'elle considère comme adéquate la
+répartition à l'intérieur du groupe de l'ensemble des éléments admissibles pour la marge ;
+
+3. Les rappels de cotisations des sociétés d'assurance mutuelle dans la mesure et pour le montant où ils sont admis à
+contribuer à la constitution de la marge de solvabilité de l'entreprise qui a la possibilité d'y faire appel ;
+
+4. Les intérêts minoritaires dans la mesure où ils sont admis à contribuer à la constitution de la marge de solvabilité de
+l'entreprise dont ils représentent une partie des fonds propres et dans la limite de la part de l'exigence de solvabilité de
+cette entreprise correspondant au pourcentage de détention par lesdits intérêts minoritaires ;
+
+5. Les actions de préférence visées au 1 du I de l'article R. 334-3 ou au 1 du I de l'article R. 334-11 émises par une
+entreprise d'assurance ou par une société de groupe d'assurance et détenues en dehors du groupe, dans les conditions
+mentionnées aux articles R. 334-3, R. 334-11 et A. 334-3. L'entreprise d'assurance ou la société de groupe d'assurance
+émettrice des ces actions de préférence doit suspendre le versement des droits financiers correspondant à ces titres si cela
+s'avère nécessaire au respect des dispositions de l'article R. 334-41 ou de l'article R. 334-44.
+
+En outre, dans tous les cas, ne peuvent être considérés comme pouvant être effectivement rendus disponibles les actifs des
+entreprises dont le siège est situé dans un Etat exerçant des restrictions aux mouvements de capitaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 2005-05-31 art. 2 JORF 1er juin 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. A334-3 (M)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L322-1-2 (M)
+	  - Code des assurances - art. L334-9 (V)
+	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R*334-17 (M)
+	  - Code des assurances - art. R*334-3 (M)
+	  - Code des assurances - art. R334-40 (M)
+	  - Code des assurances - art. R334-41 (M)
+	  - Code des assurances - art. R334-44 (M)
+	  - Code des assurances - art. R344-1 (M)
 
 
 #### Chapitre V : Tarifs et frais d'acquisition et de gestion
