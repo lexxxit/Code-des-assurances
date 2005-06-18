@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-06-10
+Version Consolidée au 2005-06-19
 
 # Partie législative
 
@@ -45165,24 +45165,25 @@ des responsabilités qui lui sont confiées par l'Etat.
 
 ###### Article R442-5
 
-Les commissaires du Gouvernement assistent à toutes les séances du conseil d'administration ou des comités qui pourraient
-être institués par ce conseil. Ils peuvent prendre connaissance, à tout moment, de la comptabilité de l'établissement, ainsi
-que de tout document ou information nécessaires à l'exécution de leur mission.
+La société transmet aux commissaires du Gouvernement copie des documents et informations transmis aux membres du conseil
+d'administration et ce dans les mêmes délais.
 
-Ils peuvent demander une deuxième délibération du conseil d'administration ou exercer un droit de veto :
+La société porte notamment à la connaissance des commissaires du Gouvernement, préalablement aux réunions du conseil
+d'administration dont l'ordre du jour comprend la désignation du président du conseil d'administration de la société, la
+nomination du directeur général ou celle du directeur général délégué, s'il en existe un, ayant dans ses compétences la
+gestion des activités pour le compte de l'Etat, l'ensemble des informations qu'elle détient sur les personnes pressenties.
+Elle porte également à la connaissance des commissaires du Gouvernement, préalablement aux réunions de l'assemblée générale
+des actionnaires dont l'ordre du jour comprend la désignation d'administrateurs, l'ensemble des informations qu'elle détient
+sur les personnes pressenties. Ces informations sont transmises au plus tard cinq jours francs avant la réunion du conseil
+d'administration ou de l'assemblée générale des actionnaires.
 
-- sur la nomination du président du conseil d'administration de la société ;
+Les commissaires du Gouvernement peuvent prendre connaissance, à tout moment, de la comptabilité de l'établissement, ainsi
+que de tout document ou information nécessaire à l'exécution de leur mission.
 
-- sur la nomination du directeur général ayant dans ses compétences la gestion des activités pour le compte de l'Etat s'il en
-existe un ;
-
-- sur toute décision relative à la garantie de l'Etat ou de nature à compromettre l'exercice des responsabilités confiées par
-l'Etat à la société.
-
-Cette deuxième délibération a lieu au plus tôt quinze jours francs après la réunion du conseil d'administration.
-
-En cas de veto, la société dispose d'un délai de huit jours pour faire appel devant le ministre chargé de l'économie qui est
-tenu de se prononcer dans les dix jours.
+Les commissaires du Gouvernement peuvent s'opposer à toute décision relative à la garantie de l'Etat ou de nature à
+compromettre l'exercice des responsabilités confiées par l'Etat à la société, dans un délai de dix jours suivant la
+transmission qui leur est faite de cette décision. En cas d'opposition, la société dispose d'un délai de huit jours pour
+faire appel devant le ministre chargé de l'économie, qui dispose d'un délai de dix jours pour confirmer cette opposition.
 
 **Liens relatifs à cet article**
 
@@ -45190,13 +45191,9 @@ tenu de se prononcer dans les dix jours.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-
-	**Créé par**:
-
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+	  - Décret n°2004-560 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
 
 	**Cité par**:
 
@@ -45205,8 +45202,8 @@ tenu de se prononcer dans les dix jours.
 
 ###### Article R442-6
 
-Le franchissement par une personne, agissant seule ou de concert, du seuil de 5 p. 100 du capital social ou des droits de
-vote de la société fait l'objet d'une délibération du conseil d'administration soumise à l'approbation du ministre chargé de
+Le franchissement par une personne, agissant seule ou de concert, du seuil de 10 % du capital social ou des droits de vote de
+la société fait l'objet d'une délibération du conseil d'administration soumise à l'approbation du ministre chargé de
 l'économie. Cette approbation est réputée acquise, sauf opposition du ministre chargé de l'économie dans un délai de quinze
 jours suivant la délibération du conseil d'administration.
 
@@ -45220,13 +45217,9 @@ trois mois.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-
-	**Créé par**:
-
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+	  - Décret n°2004-560 du 11 juin 2004 - art. 2 () JORF 19 juin 2004
 
 	**Cité par**:
 
@@ -78545,132 +78538,6 @@ les entreprises agréées pour les opérations mentionnées au 1° de l'article 
 
 	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
 	  - TXT_SOURCE: Code des assurances - art. R342-17 (M)
-
-
-##### Section II : Définition des catégories et sous-catégories.
-
-###### Article A344-2
-
-Les opérations effectuées par les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1 ou de l'article
-L. 310-1-1 sont réparties entre les catégories d'opérations suivantes :
-
-1 Contrats de capitalisation à prime unique (ou versements libres) ;
-
-2 Contrats de capitalisation à prime périodique ;
-
-3 Contrats individuels d'assurance temporaire décès (y compris groupes ouverts) ;
-
-4 Autres contrats individuels d'assurance vie à prime unique (ou versements libres) (y compris groupes ouverts) ;
-
-5 Autres contrats individuels d'assurance vie à prime périodique (y compris groupes ouverts) ;
-
-6 Contrats collectifs d'assurance en cas de décès ;
-
-7 Contrats collectifs d'assurance en cas de vie ;
-
-8 Contrats d'assurance vie ou de capitalisation en unités de compte à prime unique (ou versements libres) ;
-
-9 Contrats d'assurance vie ou de capitalisation en unités de compte à prime périodique ;
-
-10 Contrats collectifs relevant de l'article L. 441-1 du code des assurances ;
-
-19 Acceptations en réassurance (Vie) ;
-
-20 Dommages corporels (contrats individuels) (y compris garanties accessoires aux contrats d'assurance vie individuels) ;
-
-21 Dommages corporels (contrats collectifs) (y compris garanties accessoires aux contrats d'assurance vie collectifs) ;
-
-22 Automobile (responsabilité civile) ;
-
-23 Automobile (dommages) ;
-
-24 Dommages aux biens des particuliers ;
-
-25 Dommages aux biens professionnels ;
-
-26 Dommages aux biens agricoles ;
-
-27 Catastrophes naturelles ;
-
-28 Responsabilité civile générale ;
-
-29 Protection juridique ;
-
-30 Assistance ;
-
-31 Pertes pécuniaires diverses ;
-
-34 Transports ;
-
-35 Assurance construction (dommages) ;
-
-36 Assurance construction (responsabilité civile) ;
-
-37 Crédit ;
-
-38 Caution ;
-
-39 Acceptations en réassurance (Non-vie).
-
-Les garanties nuptialité - natalité sont à inclure, selon le cas, dans les catégories 4 à 9.
-
-Les entreprises qui pratiquent plusieurs catégories d'opérations doivent, dans leur comptabilité, ventiler par exercice et
-par catégorie les éléments suivants de leurs affaires brutes de cessions et de leurs affaires cédées : primes, sinistres,
-commissions, provisions techniques. Ces mêmes éléments doivent être ventilés, dans la comptabilité, pour chaque catégorie :
-
-- par Etat de situation du risque ou de l'engagement ;
-
-- entre les affaires du siège et les affaires de chacune des succursales établies à l'étranger.
-
-Toutefois, les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1-1 peuvent ne pas procéder à la
-ventilation des primes, sinistres, commissions et provisions techniques par état de situation du risque ou de l'engagement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1994-06-20 art. 1, art. 6 III JORF 19 juillet 1994 en vigueur le 1er janvier 1995
-	  - Arrêté 1995-09-11 art. 2 III JORF 1er octobre 1995
-
-	**Cité par**:
-
-	  - Arrêté du 11 septembre 1995 - art. 6 (V)
-	  - Code des assurances - art. A125-2 (V)
-	  - Code des assurances - art. A132-11 (V)
-	  - Code des assurances - art. A132-14 (V)
-	  - Code des assurances - art. A132-3 (V)
-	  - Code des assurances - art. A132-5 (M)
-	  - Code des assurances - art. A132-7 (V)
-	  - Code des assurances - art. A331-16 (V)
-	  - Code des assurances - art. A331-17 (V)
-	  - Code des assurances - art. A331-2 (V)
-	  - Code des assurances - art. A331-4 (M)
-	  - Code des assurances - art. A331-7 (V)
-	  - Code des assurances - art. A342-5 (V)
-	  - Code des assurances - art. A342-6 (V)
-	  - Code des assurances - art. A343-1 (M)
-	  - Code des assurances - art. A343-4-2 (V)
-	  - Code des assurances - art. A344-10 (Ab)
-	  - Code des assurances - art. A344-3 (Ab)
-	  - Code des assurances - art. Annexe A344-10 ETAT C1 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C10 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C11 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C12 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C13 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C21 (V)
-	  - Code des assurances - art. Annexe A344-10 ETAT C4 (V)
-	  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
-	  - Code des assurances - art. Annexe art. A344-3 (suite 4) (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L441-1 (M)
 
 
 ##### Section III : Etats à produire.
