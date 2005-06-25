@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-06-19
+Version Consolidée au 2005-06-26
 
 # Partie législative
 
@@ -78540,6 +78540,134 @@ les entreprises agréées pour les opérations mentionnées au 1° de l'article 
 	  - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
+##### Section II : Définition des catégories et sous-catégories.
+
+###### Article A344-2
+
+Les opérations effectuées par les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1 ou de l'article
+L. 310-1-1 sont réparties entre les catégories d'opérations suivantes :
+
+1 Contrats de capitalisation à prime unique (ou versements libres) ;
+
+2 Contrats de capitalisation à primes périodiques ;
+
+3 Contrats individuels d'assurance temporaire décès (y compris groupes ouverts) ;
+
+4 Autres contrats individuels d'assurance vie à prime unique (ou versements libres) (y compris groupes ouverts) ;
+
+5 Autres contrats individuels d'assurance vie à primes périodiques (y compris groupes ouverts) ;
+
+6 Contrats collectifs d'assurance en cas de décès ;
+
+7 Contrats collectifs d'assurance en cas de vie ;
+
+8 Contrats d'assurance vie ou de capitalisation en unités de compte à prime unique (ou versements libres) ;
+
+9 Contrats d'assurance vie ou de capitalisation en unités de compte à primes périodiques ;
+
+10 Contrats collectifs relevant de l'article L. 441-1 du code des assurances ;
+
+11 Plans d'épargne retraite populaires relevant de l'article 108 de la loi n° 2003-775 du 21 août 2003 ;
+
+19 Acceptations en réassurance (vie) ;
+
+20 Dommages corporels (contrats individuels) (y compris garanties accessoires aux contrats d'assurance vie individuels) ;
+
+21 Dommages corporels (contrats collectifs) (y compris garanties accessoires aux contrats d'assurance vie collectifs) ;
+
+22 Automobile (responsabilité civile) ;
+
+23 Automobile (dommages) ;
+
+24 Dommages aux biens des particuliers ;
+
+25 Dommages aux biens professionnels ;
+
+26 Dommages aux biens agricoles ;
+
+27 Catastrophes naturelles ;
+
+28 Responsabilité civile générale ;
+
+29 Protection juridique ;
+
+30 Assistance ;
+
+31 Pertes pécuniaires diverses ;
+
+34 Transports ;
+
+35 Assurance construction (dommages) ;
+
+36 Assurance construction (responsabilité civile) ;
+
+37 Crédit ;
+
+38 Caution ;
+
+39 Acceptations en réassurance (non-vie).
+
+Les garanties nuptialité-natalité sont à inclure, selon le cas, dans les catégories 4 à 9.
+
+Les entreprises qui pratiquent plusieurs catégories d'opérations doivent, dans leur comptabilité, ventiler par exercice et
+par catégorie les éléments suivants de leurs affaires brutes de cessions et de leurs affaires cédées : primes, sinistres,
+commissions, provisions techniques. Ces mêmes éléments doivent être ventilés, dans la comptabilité, pour chaque catégorie :
+
+- par état de situation du risque ou de l'engagement ;
+
+- entre les affaires du siège et les affaires de chacune des succursales établies à l'étranger.
+
+Toutefois, les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1-1 peuvent ne pas procéder à la
+ventilation des primes, sinistres, commissions et provisions techniques par état de situation du risque ou de l'engagement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 2005-06-10 art. 1 JORF 26 juin 2005
+
+	**Cité par**:
+
+	  - Arrêté du 11 septembre 1995 - art. 6 (V)
+	  - Code des assurances - art. A125-2 (V)
+	  - Code des assurances - art. A132-11 (V)
+	  - Code des assurances - art. A132-14 (V)
+	  - Code des assurances - art. A132-3 (V)
+	  - Code des assurances - art. A132-5 (M)
+	  - Code des assurances - art. A132-7 (V)
+	  - Code des assurances - art. A331-16 (V)
+	  - Code des assurances - art. A331-17 (V)
+	  - Code des assurances - art. A331-2 (V)
+	  - Code des assurances - art. A331-4 (M)
+	  - Code des assurances - art. A331-7 (V)
+	  - Code des assurances - art. A342-5 (V)
+	  - Code des assurances - art. A342-6 (V)
+	  - Code des assurances - art. A343-1 (M)
+	  - Code des assurances - art. A343-4-2 (V)
+	  - Code des assurances - art. A344-10 (Ab)
+	  - Code des assurances - art. A344-3 (Ab)
+	  - Code des assurances - art. Annexe A344-10 ETAT C1 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C10 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C11 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C12 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C13 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C21 (V)
+	  - Code des assurances - art. Annexe A344-10 ETAT C4 (V)
+	  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
+	  - Code des assurances - art. Annexe art. A344-3 (suite 4) (V)
+
+	**Cite**:
+
+	  - Loi n°2003-775 2003-08-21 art. 108
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L441-1 (M)
+
+
 ##### Section III : Etats à produire.
 
 ###### Article A344-3
@@ -78595,25 +78723,26 @@ modèle d'annexe.
 
 ###### Article A344-6
 
-I. - Les entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 et celles soumises au contrôle de l'Etat en application de
-l'article L. 310-1-1 remettent chaque année à la Commission de contrôle :
+I. - Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 et celles soumises au contrôle de l'Etat en application de
+l'article L. 310-1-1 remettent chaque année à la commission de contrôle :
 
-1° Dans les cinq mois suivant la clôture de l'exercice, le compte rendu détaillé annuel défini à l'article A. 344-8 ci-
+1° Dans les quatre mois suivant la clôture de l'exercice, le compte rendu détaillé annuel défini à l'article A. 344-8 ci-
 après ;
 
 2° Dans les trente jours qui suivent leur approbation par l'assemblée générale, leurs comptes annuels dans les conditions
-définies à l'article A. 344-11 ci-après.
+définies à l'article A. 344-1-1 ci-après ;
 
-II. - 1° Les entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 remettent en outre chaque année à la Commission de
-contrôle avant le 15 mars suivant la clôture de l'exercice les états provisoires définis au premier alinéa de l'article A.
-344-12.
+3° Dans les trente jours suivant leur approbation par le conseil d'administration ou le conseil de surveillance, les rapports
+mentionnés aux articles L. 322-2-4 et R. 336-1 et R. 336-5.
 
-2° Les mêmes entreprises remettent chaque année à la commission de contrôle avant le 15 mars suivant la clôture de l'exercice
-les états provisoires définis au deuxième alinéa de l'article A. 344-12.
-
-III. - Les entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 et celles soumises au contrôle de l'Etat en application
-de l'article L. 310-1-1 remettent à la Commission de contrôle, dans le mois suivant la fin de chaque trimestre, les états
+II. - Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 et celles soumises au contrôle de l'Etat en application
+de l'article L. 310-1-1 remettent à la commission de contrôle, dans le mois suivant la fin de chaque trimestre, les états
 relatifs aux opérations réalisées au cours du trimestre définis à l'article A. 344-13.
+
+**Nota:**
+
+Arrêté 2005-06-10 art. 8 : Ces dispositions sont applicables, pour la première fois, à l'élaboration et à la remise des états
+relatifs aux comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année.
 
 **Liens relatifs à cet article**
 
@@ -78623,7 +78752,7 @@ relatifs aux opérations réalisées au cours du trimestre définis à l'article
 
 	**Modifié par**:
 
-	  - Arrêté 2004-04-16 art. 3 JORF 11 mai 2004
+	  - Arrêté 2005-06-10 art. 2 JORF 26 juin 2005
 
 	**Cité par**:
 
@@ -78631,20 +78760,19 @@ relatifs aux opérations réalisées au cours du trimestre définis à l'article
 	  - Arrêté du 28 juillet 1995 - art. 4 (V)
 	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 159 quater A (P)
 	  - Code des assurances - art. A132-5 (T)
+	  - Code des assurances - art. A344-11 (Ab)
 	  - Code des assurances - art. A344-12 (Ab)
 	  - Code des assurances - art. A344-13 (Ab)
 	  - Code des assurances - art. A344-7 (M)
 	  - Code des assurances - art. A344-8 (V)
 	  - Code des assurances - art. R342-25 (Ab)
 
-	**Cite**:
-
-	  - Code des assurances - art. A344-11 (V)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L310-2 (M)
-
 	**Liens**:
 
+	  - TXT_SOURCE: Code des assurances - art. A344-13 (M)
+	  - TXT_SOURCE: Code des assurances - art. L310-1-1 (V)
+	  - TXT_SOURCE: Code des assurances - art. L310-2 (M)
+	  - TXT_SOURCE: Code des assurances - art. L322-2-4 (M)
 	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
 	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
@@ -78678,103 +78806,11 @@ entreprises pour la fourniture des documents mentionnés à l'article A. 344-6 e
 	  - Code des assurances A344-6 et A344-14
 
 
-###### Article A344-8
-
-Le compte rendu détaillé annuel visé au 1° du I de l'article A. 344-6 comprend :
-
-1° Les renseignements généraux énumérés à l'annexe au présent article ;
-
-2° Les comptes définis à l'article A. 344-9 ;
-
-3° Les états d'analyse des comptes énumérés à l'article A. 344-10.
-
-Il est certifié par le président du conseil d'administration ou le président du directoire ou le directeur général unique
-dans les sociétés anonymes, par le directeur et par le président du conseil d'administration dans les sociétés d'assurance
-mutuelles et leurs unions, par le mandataire général ou son représentant légal dans les succursales d'entreprises étrangères,
-sous la formule suivante : "Le présent document, comprenant X feuillets numérotés, est certifié, sous peine de l'application
-des sanctions prévues à l'article L. 310-28 du code des assurances, conforme aux écritures de l'entreprise et aux
-dispositions des chapitres Ier et II du titre IV du livre III du même code.
-
-(annexe non reproduite, voir au Journal officiel).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1998-12-24 art. 2 (modalités d'application - date d'effet)
-	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R342-23 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
-
-	**Modifié par**:
-
-	  - Arrêté 2001-09-03 art. 2 I b JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Cité par**:
-
-	  - Arrêté du 28 juillet 1995 - art. 1 (V)
-	  - Code des assurances - art. A344-10 (V)
-	  - Code des assurances - art. A344-16 (Ab)
-	  - Code des assurances - art. A344-6 (Ab)
-	  - Code des assurances - art. A344-9 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-28 (M)
-
-
-###### Article A344-12
-
-Les états provisoires mentionnés au 1° du II de l'article A. 344-6 sont établis, dans la forme des états C 10 et C 11 définie
-à l'annexe à l'article A. 344-10, pour les opérations réalisées par l'entreprise dans les branches 3, 10 ou 13 de l'article
-R. 321-1 au cours de l'exercice écoulé.
-
-Les états provisoires mentionnés au 2° de l'article A. 344-6 sont établis dans la forme de l'état C 8, défini à l'annexe de
-l'article A. 344-10, pour l'ensemble des risques souscrits en affaires directes par l'entreprise.
-
-**Nota:**
-
-Arrêté 2005-06-10 art. 8 : Ces dispositions sont applicables, pour la première fois, à l'élaboration et à la remise des états
-relatifs aux comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 2004-04-16 art. 6 JORF 11 mai 2004
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-06-10 art. 5 JORF 26 juin 2005
-
-	**Cite**:
-
-	  - Code des assurances - art. A344-10 (M)
-	  - Code des assurances A344-6, A344-10, R321-1
-
-	**Cité par**:
-
-	  - Code des assurances - art. A344-6 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
-	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
-
-
 ###### Article A344-14
 
 Les entreprises soumises à la surveillance complémentaire en application du premier alinéa de l'article L. 334-3 et des
 articles R. 334-40, R. 334-44 et R. 334-45 et les sociétés de groupe d'assurance fournissent chaque année à la commission de
-contrôle des assurances, avant le 31 mai, un dossier constitué conformément aux annexes 1 et 2 du présent article. Les
+contrôle des assurances, avant le 30 avril, un dossier constitué conformément aux annexes 1 et 2 du présent article. Les
 entreprises mentionnées au deuxième alinéa de l'article L. 334-3 fournissent seulement les états décrits à l'annexe 2.
 
 Le dossier est certifié par le président du conseil d'administration ou le président du directoire ou le directeur général
@@ -78788,7 +78824,7 @@ La commission de contrôle des assurances peut dispenser une entreprise de produ
 1 lorsque ce dossier est fourni par une entreprise apparentée ou lorsque la commission a attribué l'exercice de la
 surveillance complémentaire à une autre autorité conformément à l'article R. 334-44.
 
-A N N E X E   1
+ANNEXE 1
 
 1. Renseignements généraux
 
@@ -78885,7 +78921,7 @@ qui doivent faire l'objet d'une ventilation sont celles qui sont retenues comme 
 Notamment, au niveau du chiffre d'affaires : produit net bancaire, commissions de services financières, et au niveau du
 bilan : dépôts clientèles, crédits consentis.
 
-A N N E X E   2
+ANNEXE 2
 
 Chaque entreprise soumise à la surveillance complémentaire fournit les tableaux suivants relatifs au groupe considéré,
 constitué de l'ensemble des entreprises apparentées au sens de l'article L. 334-2 du code des assurances :
@@ -78945,6 +78981,11 @@ Liste des apports de fonds aux autres entreprises du groupe sous toute forme, en
 Liste des engagements donnés aux autres entreprises du groupe dès lors qu'ils dépassent 5 % du minimum de marge de
 solvabilité de l'entreprise.
 
+**Nota:**
+
+Arrêté 2005-06-10 art. 8 : Ces dispositions sont applicables, pour la première fois, à l'élaboration et à la remise des états
+relatifs aux comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -78953,12 +78994,7 @@ solvabilité de l'entreprise.
 
 	**Modifié par**:
 
-	  - Arrêté 2002-05-16 art. 2 JORF 17 mai 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2002-05-16 art. 4 (dossier à fournir avant le 31 juillet 2002 en ce qui concerne l'année 2002)
-	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+	  - Arrêté 2005-06-10 art. 6 JORF 26 juin 2005
 
 	**Cité par**:
 
@@ -78976,59 +79012,9 @@ solvabilité de l'entreprise.
 	  - Code des assurances - art. R334-44 (M)
 	  - Code des assurances - art. R334-45 (M)
 
-
-###### Article A344-15
-
-Le test d'exigibilité mentionné à l'article R. 344-4 vise à quantifier l'impact d'une détérioration marquée des marchés
-financiers sur la capacité de l'entreprise à faire face à ses engagements vis-à-vis des assurés. Il est pratiqué à partir
-d'hypothèses financières standardisées. Ces hypothèses consistent, par rapport à leur moyenne respective constatée sur les
-trois dernières années :
-
-- en une baisse de l'indice boursier de référence de 30 % ;
-
-- en une hausse de deux points des taux d'intérêt de l'obligation de référence ;
-
-- en une baisse de 20 % du prix des transactions immobilières.
-
-Le test consiste à comparer l'ensemble des décaissements et des encaissements prévisibles de l'entreprise au cours des cinq
-exercices qui suivent le dernier arrêté comptable. Quatre simulations sont successivement réalisées. Les trois premières
-prennent en compte séparément chacune des trois hypothèses mentionnées aux alinéas précédents. La quatrième résulte de la
-combinaison de l'ensemble des hypothèses énumérées. Pour l'établissement de ce test, l'entreprise tient compte des
-encaissements et des décaissements constatés au cours des exercices précédents. Les prévisions d'encaissement sont calculées
-après prise en compte des disponibilités, des revenus financiers, des dépôts à court terme et des prêts et titres du marché
-monétaire et du marché obligataire énumérés à l'article R. 332-2 venant à échéance à moins de cinq ans et les autres actifs
-en proportion de leur part dans le portefeuille résiduel de l'entreprise. Les prévisions de décaissement sont calculées à
-partir des engagements comptabilisés. Les engagements pour sinistres à payer sont recalculés sur la base de prestations
-majorées de 20 % et le taux des rachats exceptionnels pris en compte est égal au triple du taux annuel moyen des rachats
-constatés au cours des années passées.
-
-Les entreprises transmettent les résultats du test chaque année à la commission de contrôle avant le 31 mars dans la forme de
-l'état C 6 bis Test d'exigibilité défini dans l'annexe à l'article A. 344-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 2004-04-16 art. 1 II, III JORF 11 mai 2004
-
-	**Cité par**:
-
-	  - Arrêté du 26 décembre 2003 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. A344-10 (M)
-	  - Code des assurances - art. R*332-2 (M)
-	  - Code des assurances - art. R344-4 (V)
-
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
-	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
 ##### Section III : Etats à produire.
@@ -79056,6 +79042,51 @@ de l'état détaillé des placements lorsque celui-ci n'est pas inclus dans l'an
 	**Cite**:
 
 	  - Code des assurances - art. R*341-8 (M)
+
+
+###### Article A344-8
+
+Le compte rendu détaillé annuel visé au 1° du I de l'article A. 344-6 comprend :
+
+1° Les renseignements généraux énumérés à l'annexe au présent article ;
+
+2° Les comptes définis à l'article A. 344-9 ;
+
+3° Les états d'analyse des comptes énumérés à l'article A. 344-10.
+
+Il est certifié par le président du directoire ou le directeur général unique dans les sociétés anonymes, les sociétés
+d'assurance mutuelles et leurs unions, par le mandataire général ou son représentant légal dans les succursales d'entreprises
+étrangères, sous la formule suivante : "Le présent document, comprenant X feuillets numérotés, est certifié, sous peine de
+l'application des sanctions prévues à l'article L. 310-28 du code des assurances, conforme aux écritures de l'entreprise et
+aux dispositions des chapitres Ier et II du titre IV du livre III du même code".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 2005-06-10 art. 3 JORF 26 juin 2005
+
+	**Cité par**:
+
+	  - Arrêté du 28 juillet 1995 - art. 1 (V)
+	  - Code des assurances - art. A344-10 (V)
+	  - Code des assurances - art. A344-16 (Ab)
+	  - Code des assurances - art. A344-6 (Ab)
+	  - Code des assurances - art. A344-9 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-28 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+	  - TXT_ASSOCIE: Code des assurances - art. R342-23 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
 ###### Article A344-9
@@ -79270,6 +79301,60 @@ Ces états sont établis dans la forme fixée en annexe au présent article.
 
 	  - Code des assurances - art. A332-7 (M)
 	  - Code des assurances - art. A344-6 (Ab)
+
+
+###### Article A344-15
+
+Le test d'exigibilité mentionné à l'article R. 344-4 vise à quantifier l'impact d'une détérioration marquée des marchés
+financiers sur la capacité de l'entreprise à faire face à ses engagements vis-à-vis des assurés. Il est pratiqué à partir
+d'hypothèses financières standardisées. Ces hypothèses consistent, par rapport à leur moyenne respective constatée sur les
+trois dernières années :
+
+- en une baisse de l'indice boursier de référence de 30 % ;
+
+- en une hausse de deux points des taux d'intérêt de l'obligation de référence ;
+
+- en une baisse de 20 % du prix des transactions immobilières. 
+
+Le test consiste à comparer l'ensemble des décaissements et des encaissements prévisibles de l'entreprise au cours des cinq
+exercices qui suivent le dernier arrêté comptable. Quatre simulations sont successivement réalisées. Les trois premières
+prennent en compte séparément chacune des trois hypothèses mentionnées aux alinéas précédents. La quatrième résulte de la
+combinaison de l'ensemble des hypothèses énumérées. Pour l'établissement de ce test, l'entreprise tient compte des
+encaissements et des décaissements constatés au cours des exercices précédents. Les prévisions d'encaissement sont calculées
+après prise en compte des disponibilités, des revenus financiers, des dépôts à court terme et des prêts et titres du marché
+monétaire et du marché obligataire énumérés à l'article R. 332-2 venant à échéance à moins de cinq ans et les autres actifs
+en proportion de leur part dans le portefeuille résiduel de l'entreprise. Les prévisions de décaissement sont calculées à
+partir des engagements comptabilisés. Les engagements pour sinistres à payer sont recalculés sur la base de prestations
+majorées de 20 % et le taux des rachats exceptionnels pris en compte est égal au triple du taux annuel moyen des rachats
+constatés au cours des années passées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 2005-06-10 art. 7 JORF 26 juin 2005
+
+	**Cité par**:
+
+	  - Arrêté du 26 décembre 2003 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Arrêté du 28 décembre 2015 - art. 2
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. R332-2
+	  - Code des assurances - art. R344-4
 
 
 ###### Article Annexe art. A344-3 (suite 1)
