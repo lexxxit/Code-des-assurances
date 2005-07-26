@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-06-27
+Version Consolidée au 2005-07-27
 
 # Partie législative
 
@@ -4135,9 +4135,9 @@ ministres chargés de l'économie et de la santé ".
 
 ### Titre IV : Les assurances de groupe
 
-#### Chapitre unique.
+#### Chapitre Ier (en vigueur jusqu'au 1er octobre 2007).
 
-###### Article L140-1
+###### Article L141-1
 
 Est un contrat d'assurance de groupe le contrat souscrit par une personne morale ou un chef d'entreprise en vue de l'adhésion
 d'un ensemble de personnes répondant à des conditions définies au contrat, pour la couverture des risques dépendant de la
@@ -4152,36 +4152,38 @@ Les adhérents doivent avoir un lien de même nature avec le souscripteur.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 (date d'effet)
-	  - SPEC_APPLI: Code des assurances L132-7 (dérogations)
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 16 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
-
 	**Cité par**:
 
-	  - Décret n°2004-342 du 21 avril 2004 - art. 60 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 998 (M)
-	  - Code des assurances - art. L132-7 (M)
-	  - Code des assurances - art. L140-6 (T)
-	  - Code des assurances - art. L141-6 (M)
-	  - Code général des collectivités territoriales - art. L2223-35-1 (M)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 60 (Ab)
+	  - Loi n°2008-1330 du 17 décembre 2008 - art. 69 (V)
+	  - Code des assurances - art. A132-5-3 (M)
+	  - Code des assurances - art. A132-9 (V)
+	  - Code des assurances - art. L113-15-1 (V)
+	  - Code des assurances - art. L129-1 (V)
+	  - Code des assurances - art. L132-5-3 (V)
+	  - Code des assurances - art. L132-7 (V)
+	  - Code des assurances - art. L141-6 (VD)
+	  - Code des assurances - art. L142-1 (Ab)
+	  - Code des assurances - art. L144-1 (V)
+	  - Code des assurances - art. L144-2 (VD)
+	  - Code des assurances - art. L160-13 (V)
+	  - Code des assurances - art. L160-14 (V)
+	  - Code des assurances - art. L441-2 (V)
+	  - Code des assurances - art. R142-2 (Ab)
+	  - Code des assurances - art. R142-5 (Ab)
+	  - Code général des collectivités territoriales - art. L2223-35-1 (V)
+	  - Code général des impôts, CGI. - art. 998 (V)
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. L140-5 (T)
-	  - Code des assurances - art. L141-1 (M)
-	  - Code des assurances - art. L141-1 (V)
+	  - Code des assurances - art. L140-1 (T)
 
 
-###### Article L140-2
+###### Article L141-2
 
 Les sommes dues par l'adhérent au souscripteur au titre de l'assurance doivent lui être décomptées distinctement de celles
 qu'il peut lui devoir, par ailleurs, au titre d'un autre contrat.
@@ -4192,25 +4194,16 @@ qu'il peut lui devoir, par ailleurs, au titre d'un autre contrat.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
 	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 16 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
-
-	**Transféré par**:
 
 	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. L141-2 (M)
-	  - Code des assurances - art. L141-2 (V)
+	  - Code des assurances - art. L140-2 (T)
 
 
-###### Article L140-3
+###### Article L141-3
 
 Le souscripteur ne peut exclure un adhérent du bénéfice du contrat d'assurance de groupe que si le lien qui les unit est
 rompu ou si l'adhérent cesse de payer la prime.
@@ -4231,25 +4224,54 @@ cotisations versées antérieurement par l'assuré.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
 	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 16 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
-
-	**Transféré par**:
 
 	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code des assurances - art. L141-3 (M)
-	  - Code des assurances - art. L141-3 (V)
+	  - Code de la consommation - art. L311-22-2 (VT)
+	  - Code de la consommation - art. L312-36 (VD)
+	  - Code des assurances - art. L145-6 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L140-3 (T)
 
 
-###### Article L140-4
+###### Article L141-5
+
+Par dérogation aux dispositions des articles L. 132-2 et L. 132-3, le représentant légal d'un majeur en tutelle peut adhérer
+au nom de celui-ci à un contrat d'assurance de groupe en cas de décès, conclu pour l'exécution d'une convention de travail ou
+d'un accord d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-2 (M)
+	  - Code des assurances - art. L132-3 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L140-5 (T)
+
+
+#### Chapitre Ier : Dispositions générales relatives aux assurances de groupe.
+
+###### Article L141-4
 
 Le souscripteur est tenu :
 
@@ -4278,64 +4300,33 @@ ne sont pas soumises aux dispositions du présent article.
 
 	**Cité par**:
 
-	  - Loi n°84-610 du 16 juillet 1984 - art. 38 (M)
-	  - Code de la sécurité sociale. - art. D242-1 (V)
-	  - Code rural et de la pêche maritime - art. D741-39 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - Loi n°84-610 du 16 juillet 1984 - art. 38 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 56 (Ab)
+	  - Code des assurances - art. A132-5-3 (M)
+	  - Code des assurances - art. D132-7 (VD)
+	  - Code des assurances - art. L132-5-3 (V)
+	  - Code des assurances - art. L143-6 (M)
+	  - Code des assurances - art. L145-3 (V)
+	  - Code des assurances - art. L441-2 (V)
+	  - Code des assurances - art. L441-3 (V)
+	  - Code des assurances - art. R134-8 (VD)
+	  - Code des assurances - art. R142-10 (Ab)
+	  - Code des assurances - art. R142-13 (Ab)
+	  - Code des assurances - art. R142-8 (Ab)
+	  - Code du sport. - art. L321-6 (V)
 
 	**Créé par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 16 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
-
-	**Transféré par**:
-
 	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L141-4 (M)
-	  - Code des assurances - art. L141-4 (V)
-
-
-###### Article L140-5
-
-Par dérogation aux dispositions des articles L. 132-2 et L. 132-3, le représentant légal d'un majeur en tutelle peut adhérer
-au nom de celui-ci à un contrat d'assurance de groupe en cas de décès, conclu pour l'exécution d'une convention de travail ou
-d'un accord d'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Transféré par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 16 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
-
-	**Cite**:
-
-	  - Code des assurances - art. L132-2 (M)
-	  - Code des assurances - art. L132-3 (M)
 
 	**Anciens textes**:
 
-	  - Code des assurances - art. L140-1 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L141-5 (M)
+	  - Code des assurances - art. L140-4 (T)
 
 
-###### Article L140-6
+#### Chapitre Ier.
+
+###### Article L141-6
 
 Pour les contrats d'assurance de groupe au sens de l'article L. 140-1, autres que ceux qui sont régis par le titre Ier de la
 loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques, et pour
@@ -4365,28 +4356,144 @@ remboursement d'un emprunt.
 	  - Loi n°89-1009 1989-12-31
 	  - Code des assurances - art. L140-1 (T)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 5 II *modalités*, art. 8 *champ d'application à Mayotte*
-	  - TXT_SOURCE: Code des assurances - art. A140-1 (M)
-
 	**Créé par**:
-
-	  - Loi n°94-679 du 8 août 1994 - art. 5 (V) JORF 10 août 1994
-
-	**Transféré par**:
 
 	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
 
 	**Cité par**:
 
-	  - Code des assurances - art. A140-1 (M)
-	  - Code des assurances - art. L132-7 (M)
+	  - Code des assurances - art. A140-1 (T)
+	  - Code des assurances - art. A141-1 (V)
+	  - Code des assurances - art. L132-7 (V)
+	  - Code des assurances - art. L145-7 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L140-6 (T)
+
+
+#### Chapitre II.
+
+###### Article L142-1
+
+Les entreprises d'assurance sur la vie sont autorisées à contracter, sous la forme de contrats d'assurance de groupe tels que
+définis à l'article L. 141-1, dans les conditions prévues au présent chapitre, des engagements en cas de vie ou en cas de
+décès non liés à la cessation d'activité professionnelle, à l'exception d'engagements d'assurance temporaire en cas de décès,
+qui donnent lieu à la constitution d'une provision destinée à absorber les fluctuations des actifs du contrat et sur laquelle
+chaque adhérent détient un droit individualisé sous forme de parts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2005-842 2005-07-26 art. 1 IV : Spécificité d'application
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. A132-5-2 (M)
+	  - Code des assurances - art. A132-5-3 (M)
+	  - Code des assurances - art. A331-2 (M)
+	  - Code des assurances - art. A331-5 (V)
+	  - Code des assurances - art. A344-2 (M)
+	  - Code des assurances - art. D132-7 (M)
+	  - Code des assurances - art. R142-1 (Ab)
+	  - Code des assurances - art. R142-2 (Ab)
+	  - Code des assurances - art. R144-19 (VD)
+	  - Code des assurances - art. R331-3 (V)
+	  - Code des assurances - art. R332-62 (M)
+	  - Code des assurances - art. R332-63 (M)
+	  - Code des assurances - art. R344-1 (VD)
+	  - Code des assurances - art. R423-4 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L141-1 (M)
+
+
+###### Article L142-4
+
+Un décret en Conseil d'Etat précise les règles techniques ainsi que les conditions d'application de présent chapitre,
+notamment les cas où, nonobstant l'article L. 132-23, les contrats sont ou non rachetables ou transférables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-23 (M)
 
 	**Nouveaux textes**:
 
-	  - Code des assurances - art. L141-6 (M)
-	  - Code des assurances - art. L141-6 (V)
+	  - Code des assurances - art. L142-5 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L144-2 (V)
+	  - Code général des impôts, CGI. - art. 38 (VT)
+	  - Code général des impôts, CGI. - art. 39 duodecies (M)
+
+
+#### Chapitre II (en vigueur jusqu'au 1er octobre 2007).
+
+###### Article L142-2
+
+Nonobstant les dispositions du code de commerce relatives aux comptes sociaux, l'entreprise d'assurance établit, pour chaque
+contrat, une comptabilité auxiliaire d'affectation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. L142-4 (M)
+	  - Code des assurances - art. L143-4 (V)
+	  - Code des assurances - art. R142-1 (Ab)
+	  - Code des assurances - art. R142-10 (Ab)
+	  - Code des assurances - art. R142-2 (Ab)
+
+
+###### Article L142-3
+
+En cas d'insuffisance de représentation des engagements d'un contrat, l'entreprise d'assurance parfait cette représentation
+par apport d'actifs représentatifs de ses réserves ou de ses provisions autres que ceux représentatifs de ses engagements
+réglementés. Lorsque le niveau de la représentation de ses engagements relatifs à ce contrat le permet, l'entreprise
+d'assurance réaffecte des actifs du contrat à la représentation d'autres réserves ou provisions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
@@ -12027,8 +12134,8 @@ les territoires d'outre-mer.
 
 ###### Article L322-1
 
-Toute entreprise française mentionnée à l'article L. 310-1 doit être constituée sous forme de société anonyme ou de société
-d'assurance mutuelle.
+Toute entreprise française mentionnée à l'article L. 310-1 doit être constituée sous forme de société européenne, de société
+anonyme ou de société d'assurance mutuelle.
 
 **Liens relatifs à cet article**
 
@@ -12036,23 +12143,9 @@ d'assurance mutuelle.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-	  - TXT_SOURCE: Code des assurances - art. R*322-103 (V)
-	  - TXT_SOURCE: Code des assurances - art. R*322-67 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*322-68 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*322-69 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*322-7 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*322-70 (V)
-
-	**Transféré par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 14 () JORF 27 juillet 2005
 
 	**Anciens textes**:
 
@@ -12062,6 +12155,15 @@ d'assurance mutuelle.
 
 	  - Code des assurances - art. L328-5 (V)
 	  - Code des assurances - art. R322-1-1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*322-103 (V)
+	  - TXT_SOURCE: Code des assurances - art. R*322-67 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*322-68 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*322-69 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*322-7 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*322-70 (V)
 
 
 ###### Article L322-1-1
@@ -13398,6 +13500,61 @@ prévues par leurs statuts.
 	  - TXT_SOURCE: Code des assurances - art. R322-127 (M)
 	  - TXT_SOURCE: Code des assurances - art. R322-132 (V)
 	  - TXT_SOURCE: Code des assurances - art. R322-137 (M)
+
+
+##### Section VIII : Sociétés européennes
+
+###### Article L322-28
+
+Sous réserve des dispositions de la présente section, la société européenne est régie par les dispositions du règlement (CE)
+n° 2157/2001 du Conseil du 8 octobre 2001 relatif au statut de la société européenne (SE), par les dispositions du chapitre
+IX du titre II du livre II du code de commerce et par les règles du présent code applicables aux sociétés anonymes non
+contraires à celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 14 () JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Règlement 2157-2001 CE 2001-10-08
+
+
+###### Article L322-29
+
+Lorsqu'une entreprise d'assurance constituée sous forme de société européenne immatriculée en France envisage de transférer
+son siège statutaire hors de France, elle en informe le Comité des entreprises d'assurance au plus tard le jour de la
+publication du projet de transfert.
+
+Sans préjudice des dispositions de l'article L. 229-4 du code de commerce et après consultation de la commission mentionnée à
+l'article L. 310-12 du présent code, le Comité des entreprises d'assurance est également compétent pour s'opposer,
+conformément aux dispositions du 14 de l'article 8 et de l'article 19 du règlement (CE) n° 2157/2001 du Conseil du 8 octobre
+2001 précité, au transfert de siège social d'une entreprise d'assurance constituée sous forme de société européenne
+immatriculée en France et dont résulterait un changement du droit applicable ainsi qu'à la constitution d'une société
+européenne par voie de fusion impliquant une entreprise d'assurance agréée en France. Cette décision est susceptible de
+recours devant le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 14 () JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L229-4 (V)
+	  - Code des assurances - art. L310-12 (M)
+	  - Règlement 2157-2001 CE 2001-10-08
 
 
 #### Chapitre III : Mesures de sauvegarde et d'assainissement
