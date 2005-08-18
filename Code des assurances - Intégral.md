@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-08-10
+Version Consolidée au 2005-08-19
 
 # Partie législative
 
@@ -76323,45 +76323,6 @@ délai de préavis minimum visé au 4° du III du présent article.
 	  - Code des assurances - art. A334-4 (V)
 
 
-##### Section VIII : La surveillance complémentaire des entreprises d' assurance faisant partie d'un groupe d'assurance
-
-###### Article A334-5
-
-La déclaration des opérations mentionnées à l'article R. 334-45 est jointe au dossier mentionné à l'article A. 344-14, annexe
-II. L'entreprise soumise à surveillance complémentaire présente en outre, dès lors qu'elles ne sont pas incluses dans les
-documents décrits à l'article A. 344-14, annexe II, les opérations, effectuées directement ou indirectement entre entreprises
-du groupe auquel elle appartient, supérieures à 5 % des fonds propres ou à 0,5 % des provisions techniques du groupe tels que
-calculés à la clôture de l'exercice précédent. Ce tableau doit isoler les opérations suivantes : les prêts, les transactions
-portant sur les éléments admissibles pour la marge de solvabilité, les investissements, l'état des cessions d'actifs internes
-au groupe (notamment les ventes d'immeubles ou de titres non cotés) et les engagements d'un montant défini reçus ou donnés
-hors bilan.
-
-Chacune de ces opérations doit être déclarée en précisant la société vendeuse, la société acheteuse, la valeur comptable dans
-la première, le prix de vente et la référence ayant permis d'établir celui-ci.
-
-Les opérations nouvelles visées à cet article sont déclarées à l'issue de chaque trimestre dans les 30 jours à la commission
-de contrôle des assurances.
-
-En outre, dans tous les cas, les rachats ou remboursements des titres et emprunts subordonnés effectués directement ou
-indirectement entre entreprises apparentées du même groupe sont déclarés sans délai par l'entreprise soumise à surveillance
-complémentaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 2002-05-16 art. 1 JORF 17 mai 2002
-
-	**Cite**:
-
-	  - Code des assurances - art. A344-14 (M)
-	  - Code des assurances - art. R334-45 (M)
-
-
 ##### Section VIII : La surveillance complémentaire des entreprises d'assurance faisant partie d'un groupe d'assurance.
 
 ###### Article A334-4
@@ -76425,6 +76386,45 @@ entreprises dont le siège est situé dans un Etat exerçant des restrictions au
 	  - Code des assurances - art. R334-41 (M)
 	  - Code des assurances - art. R334-44 (M)
 	  - Code des assurances - art. R344-1 (M)
+
+
+###### Article A334-5
+
+Les retraitements prévus à l'article R. 334-42 pour les entreprises appliquant les normes comptables internationales adoptées
+par règlement de la Commission européenne portent notamment sur les points suivants :
+
+a) Les éléments affectés par les changements de méthode comptable autorisés par les paragraphes 21 à 30 de la norme IFRS 4,
+en particulier l'actualisation des provisions techniques au taux d'intérêt actuel du marché et l'utilisation d'une
+comptabilité reflet ;
+
+b) Les plus-values latentes sur placements et sur instruments financiers à terme incluses dans les fonds propres ;
+
+c) Les composantes d'instruments financiers incluses dans la marge de solvabilité ajustée ;
+
+d) La part des capitaux propres correspondant à la provision d'égalisation maintenue comme provision technique par le
+règlement n° 2000-05 du Comité de la réglementation comptable ;
+
+e) Les avantages du personnel ;
+
+f) Le périmètre de consolidation.
+
+La commission de contrôle peut dispenser une entreprise ou l'ensemble des entreprises d'assurance d'effectuer un ou plusieurs
+des retraitements mentionnés à l'article R. 334-42 dès lors que ce ou ces retraitements, pris ensemble ou séparément, ont un
+impact marginal sur le calcul de la marge de solvabilité ajustée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 2005-08-02 art. 1 JORF 19 août 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. R334-42 (M)
 
 
 #### Chapitre V : Tarifs et frais d'acquisition et de gestion
@@ -79046,7 +79046,7 @@ entreprises mentionnées au deuxième alinéa de l'article L. 334-3 fournissent 
 Le dossier est certifié par le président du conseil d'administration ou le président du directoire ou le directeur général
 unique dans les sociétés anonymes, par le directeur et par le président du conseil d'administration dans les sociétés
 d'assurance mutuelles et leurs unions, par le mandataire général ou son représentant légal dans les succursales d'entreprises
-étrangères, sous la formule suivante : "Le présent document, comprenant x feuillets numérotés, est certifié, sous peine de
+étrangères, sous la formule suivante : "Le présent document, comprenant X feuillets numérotés, est certifié, sous peine de
 l'application des sanctions prévues à l'article L. 310-28 du code des assurances, conforme aux écritures de l'entreprise et
 de ses entreprises apparentées, et aux dispositions du titre IV du livre III du même code".
 
@@ -79122,6 +79122,10 @@ Un second tableau analyse la façon dont ces exigences sont satisfaites au nivea
 
 - autres éléments éventuels.
 
+Pour les entreprises appliquant les normes comptables internationales adoptées par règlement de la Commission européenne, un
+troisième tableau fait apparaître les retraitements mentionnnés à l'article R. 334-42. Ce tableau est accompagné d'une annexe
+décrivant les règles et principes retenus pour l'identification et le calcul de ces retraitements.
+
 5. Etat d'analyse de l'équilibre technique non-vie (état G3)
 
 Ventilation par entreprise des soldes de souscription séparant résultat de l'exercice et résultat de la liquidation sur
@@ -79180,7 +79184,7 @@ sur des titres externes au groupe.
 Au-delà d'un montant supérieur à 5 % du minimum de marge de solvabilité de l'entreprise concernée, les ventes ou achats
 d'immeubles ou de titres à l'intérieur du groupe sont recensés, faisant apparaître l'entreprise vendeuse, l'entreprise
 acheteuse, la valeur comptable dans la première, le prix de vente et la référence ayant permis d'établir celui-ci (expertise,
-capitalisation du résultat...).
+capitalisation du résultat ...).
 
 Ceci inclut les souscriptions de titres émis par une entreprise du groupe même s'ils sont destinés à être cotés.
 
@@ -79196,10 +79200,9 @@ dépassent 10 % des frais de gestion de l'entreprise.
 Liste des GIE, pools et autres groupements de coassurance ou coréassurance dans lesquels l'entreprise est solidaire sans
 limites des autres membres ; montants des provisions de sinistres à payer au bilan de ces groupements.
 
-5. Recensement des opérations avec une personne physique (G 14)
-
-Liste des opérations de toute nature avec une personne physique visée à l'article R. 334-45 dès lors qu'elles dépassent 5 %
-du minimum de marge de solvabilité de l'entreprise.
+5. Recensement des opérations avec une personne physique (G 14)<rl avec="" 5="" de="" physique="" l'entreprise.=""
+opérations="" lors="" solvabilité="" nature="" du="" à="" des="" dépassent="" marge="" personne="" dès="" l'article=""
+liste="" minimum="" r.="" toute="" %="" visée="" qu'elles="" une="" 334-45="" <br="">
 
 6. Recensement des apports de fonds (G 15)
 
@@ -79210,6 +79213,8 @@ Liste des apports de fonds aux autres entreprises du groupe sous toute forme, en
 
 Liste des engagements donnés aux autres entreprises du groupe dès lors qu'ils dépassent 5 % du minimum de marge de
 solvabilité de l'entreprise.
+
+</rl>
 
 **Nota:**
 
@@ -79224,7 +79229,7 @@ relatifs aux comptes de l'exercice social commençant le 1er janvier 2005 ou dur
 
 	**Modifié par**:
 
-	  - Arrêté 2005-06-10 art. 6 JORF 26 juin 2005
+	  - Arrêté 2005-08-02 art. 2 JORF 19 août 2005
 
 	**Cité par**:
 
@@ -79239,6 +79244,7 @@ relatifs aux comptes de l'exercice social commençant le 1er janvier 2005 ou dur
 	  - Code des assurances - art. L334-2 (M)
 	  - Code des assurances - art. L334-3 (M)
 	  - Code des assurances - art. R334-40 (M)
+	  - Code des assurances - art. R334-42 (M)
 	  - Code des assurances - art. R334-44 (M)
 	  - Code des assurances - art. R334-45 (M)
 
