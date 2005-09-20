@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-09-09
+Version Consolidée au 2005-09-21
 
 # Partie législative
 
@@ -26125,10 +26125,11 @@ connaître, dans les délais mentionnés au troisième alinéa du I et au deuxi�
 ###### Article R310-18
 
 Lorsque la commission de contrôle, saisie par son secrétaire général sur le fondement d'un rapport de contrôle réalisé par
-ses services, décide de l'ouverture d'une procédure de sanction dans le cadre des articles L. 310-18 et L. 310-18-1 du
-présent code, de l'article L. 951-10 du code de la sécurité sociale ou de l'article L. 510-11 du code de la mutualité, la
-notification des griefs est adressée, par lettre recommandée avec demande d'avis de réception, remise en main propre contre
-récépissé ou exploit d'huissier, à la personne mise en cause, accompagnée du rapport de contrôle.
+ses services, décide de l'ouverture d'une procédure de sanction dans le cadre des articles L. 310-18, L. 310-18-1 et L.
+334-16 du présent code, de l'article L. 951-10 et L. 933-4-13 du code de la sécurité sociale ou de l'article L. 510-11 et L.
+212-7-16 du code de la mutualité, la notification des griefs est adressée, par lettre recommandée avec demande d'avis de
+réception, remise en main propre contre récépissé ou exploit d'huissier, à la personne mise en cause, accompagnée du rapport
+de contrôle.
 
 La personne mise en cause transmet ses observations écrites au président de la commission dans un délai de quinze jours. La
 notification des griefs mentionne ce délai et précise que la personne mise en cause peut prendre connaissance et copie des
@@ -26142,14 +26143,14 @@ autres pièces du dossier auprès de la commission et se faire assister ou repr�
 
 	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Décret n°2005-1185 du 19 septembre 2005 - art. 1 () JORF 21 septembre 2005
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L951-10 (M)
 	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. L310-18-1 (M)
-	  - Code de la mutualité - art. L510-11 (M)
+	  - Code des assurances - art. L334-16 (M)
+	  - Code des assurances L310-18, L310-18-1, L334-16, L951-10, L510-11, L933-4-13, L212-7-16
 
 	**Anciens textes**:
 
@@ -26644,6 +26645,32 @@ risques qui résultent de l'utilisation de navires de mer ou qui sont en rapport
 	**Cite**:
 
 	  - Code des assurances R321-1
+
+
+###### Article R321-2
+
+Lorsqu'en application de l'article L. 321-1-2, le Comité des entreprises d'assurance consulte l'autorité compétente, au sens
+du 11° de l'article L. 334-2, cette autorité dispose d'un délai d'un mois pour formuler ses observations. A sa demande, ce
+délai peut être prorogé d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2005-1185 du 19 septembre 2005 - art. 2 () JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-1-2 (V)
+	  - Code des assurances - art. L334-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances R321-14 (4ème version)
 
 
 ###### Article R321-4
@@ -27171,13 +27198,14 @@ dispositions de l'article L. 325-1.
 
 ###### Article R321-17-1
 
-Toute entreprise mentionnée aux 1°, 3° et 4° de l'article L. 310-2 est tenue de déclarer au comité des entreprises
-d'assurance tout changement de l'une des personnes chargées de la conduire au sens de l'article L. 321-10, au plus tard le
-jour de ce changement.
+Toute entreprise mentionnée aux 1°, 3° et 4° de l'article L. 310-2, au 1° de l'article L. 322-1-2 et au 9° de l'article L.
+334-2 est tenue de déclarer au comité des entreprises d'assurance tout changement de l'une des personnes chargées de la
+conduire au sens de l'article L. 321-10, au plus tard le jour de ce changement.
 
 Dans un délai de trois mois à compter de la réception de cette déclaration, le comité des entreprises d'assurance fait savoir
 à l'entreprise si ce changement est de nature à entraîner la mise en oeuvre des compétences dont il dispose aux termes de
-l'article L. 325-1.
+l'article L. 325-1. Le Comité des entreprises d'assurance transmet cette information à la Commission de contrôle des
+assurances, des mutuelles et des institutions de prévoyance.
 
 **Liens relatifs à cet article**
 
@@ -27187,7 +27215,7 @@ l'article L. 325-1.
 
 	**Modifié par**:
 
-	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+	  - Décret n°2005-1185 du 19 septembre 2005 - art. 3 () JORF 21 septembre 2005
 
 	**Cité par**:
 
@@ -27200,7 +27228,9 @@ l'article L. 325-1.
 
 	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. L321-10 (M)
+	  - Code des assurances - art. L322-1-2 (M)
 	  - Code des assurances - art. L325-1 (M)
+	  - Code des assurances - art. L334-2 (M)
 
 	**Anciens textes**:
 
@@ -27671,11 +27701,26 @@ dans le présent paragraphe sont calculés en termes d'actions ou de parts socia
 une opération de prise ou d'extension de participation et le moins élevé lorsqu'elles concernent une opération de cession de
 participation.
 
-II. - Les dispositions du paragraphe I s'appliquent également aux opérations de prise, d'extensions ou de cessions de
-participations, directes ou indirectes, dans des entreprises ayant leur siège social en France dont l'activité principale
-consiste à prendre des participations dans des entreprises soumises au contrôle de l'Etat en application de l'article L.
-310-1 et qui détiennent, directement ou indirectement, un pouvoir de contrôle effectif sur une ou plusieurs des entreprises
-visées au 1° de l'article L. 310-2.
+II. - Les dispositions du paragraphe I s'appliquent également aux opérations de prise, d'extension ou de cession de
+participation, directes ou indirectes, dans des sociétés de groupe d'assurance définies à l'article L. 322-1-2 et dont le
+siège social est situé en France ou dans des compagnies financières holding mixtes définies au 9° de l'article L. 334-2, dont
+le siège social est situé en France et appartenant à un conglomérat financier dont la surveillance est coordonnée par la
+Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance dans les conditions prévues à
+l'article L. 334-9.
+
+III. - Avant toute décision prévue au I, le Comité des entreprises d'assurance consulte les autorités compétentes mentionnées
+aux articles L. 321-1 et L. 321-1-2 lorsque les deux conditions suivantes sont remplies :
+
+1° L'acquéreur est une entreprise d'assurance agréée dans un autre Etat membre, un établissement de crédit agréé ou une
+entreprise d'investissement agréée dans un Etat membre ou l'entreprise mère d'une telle entité ou un établissement contrôlé
+par une personne, physique ou morale, qui contrôle également une telle entité ;
+
+2° En conséquence de l'opération déclarée au Comité des entreprises d'assurances, l'entreprise dans laquelle l'acquéreur
+envisage de détenir une participation deviendra la filiale de l'acquéreur ou sera contrôlée par lui.
+
+Lorsque, dans ces conditions, le Comité des entreprises d'assurance consulte l'autorité compétente, au sens du 11° de
+l'article L. 334-2, celle-ci dispose d'un délai d'un mois pour formuler ses observations. A sa demande, ce délai peut être
+prorogé d'un mois.
 
 **Liens relatifs à cet article**
 
@@ -27685,8 +27730,7 @@ visées au 1° de l'article L. 310-2.
 
 	**Modifié par**:
 
-	  - Décret n°2004-221 2004-03-12 art. 2 III, VI 2° 3° JORF 14 mars 2004
-	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+	  - Décret n°2005-1185 du 19 septembre 2005 - art. 4 () JORF 21 septembre 2005
 
 	**Cité par**:
 
@@ -27700,8 +27744,12 @@ visées au 1° de l'article L. 310-2.
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-1-2 (V)
+	  - Code des assurances - art. L322-1-2 (M)
+	  - Code des assurances - art. L334-2 (M)
+	  - Code des assurances - art. L334-9 (V)
 
 
 ##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance
@@ -37335,6 +37383,22 @@ constant égal au double du montant total de cet emprunt divisé par le nombre d
 
 La marge de solvabilité est diminuée du montant de ses actions propres détenues directement par l'entreprise d'assurance.
 
+Lorsque l'entreprise n'est pas soumise à une surveillance complémentaire en application de l'article L. 334-3 ou de l'article
+L. 334-4, la marge de solvabilité est également diminuée des éléments suivants :
+
+a) Les participations au sens du 2° de l'article L. 334-2 que l'entreprise d'assurance détient dans des établissements de
+crédit, des entreprises d'investissement ou des établissements financiers ;
+
+b) Les créances subordonnées et autres instruments financiers que l'entreprise d'assurance détient sur des établissements de
+crédit, des entreprises d'investissement ou des établissements financiers dans lesquels elle détient une participation, et
+qui sont considérés comme des fonds propres pour le calcul des exigences de fonds propres applicables aux entreprises et
+établissements mentionnés ci-dessus.
+
+Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
+détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de cette entité, la Commission de contrôle des
+assurances, des mutuelles et des institutions de prévoyance peut autoriser l'entreprise d'assurance à ne pas effectuer les
+déductions prévues aux a et b.
+
 II. - La marge de solvabilité peut également être constituée par :
 
 1. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés, ainsi que d'actions de
@@ -37381,7 +37445,7 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 	**Modifié par**:
 
-	  - Décret n°2005-641 du 31 mai 2005 - art. 1 () JORF 1er juin 2005
+	  - Décret n°2005-1185 2005-09-19 art. 5 1° JORF 21 septembre 2005
 
 	**Cité par**:
 
@@ -37411,6 +37475,9 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 	  - Code de commerce. - art. L228-11 (M)
 	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. L334-1 (M)
+	  - Code des assurances - art. L334-2 (M)
+	  - Code des assurances - art. L334-3 (M)
+	  - Code des assurances - art. L334-4 (V)
 	  - Code des assurances - art. L423-1 (V)
 	  - Code des assurances - art. R*332-2 (M)
 	  - Code des assurances - art. R*332-45 (T)
@@ -37424,7 +37491,7 @@ La marge de solvabilité applicable aux entreprises visées au 4° de l'article 
 constituée par des actifs dont le montant, afférent aux opérations réalisées sur le territoire de la République française,
 est égal, après déduction des pertes, de la part des frais d'acquisition non admise en représentation des engagements
 réglementés et des autres éléments incorporels, au total des éléments définis aux 2 et 3 du I et au 3 du III de l'article R.
-334-3.
+334-3 en tenant compte des déductions prévues à cet article.
 
 **Liens relatifs à cet article**
 
@@ -37434,12 +37501,16 @@ réglementés et des autres éléments incorporels, au total des éléments déf
 
 	**Modifié par**:
 
-	  - Décret n°2003-1236 du 22 décembre 2003 - art. 6 () JORF 24 décembre 2003
+	  - Décret n°2005-1185 2005-09-19 art. 5 2° JORF 21 septembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. L334-1 (M)
+	  - Code des assurances - art. L310-2
+	  - Code des assurances - art. L334-1
 
 	**Cité par**:
 
@@ -37765,6 +37836,22 @@ de capitalisation ;
 
 La marge de solvabilité est diminuée du montant de ses actions propres détenues directement par l'entreprise d'assurance.
 
+Lorsque l'entreprise n'est pas soumise à une surveillance complémentaire en application de l'article L. 334-3 ou de l'article
+L. 334-4, la marge de solvabilité est également diminuée des éléments suivants :
+
+a) Les participations au sens du 2° de l'article L. 334-2 que l'entreprise d'assurance détient dans des établissements de
+crédit, des entreprises d'investissement ou des établissements financiers ;
+
+b) Les créances subordonnées et autres instruments financiers que l'entreprise d'assurance détient sur des établissements de
+crédit, des entreprises d'investissement ou des établissements financiers dans lesquels elle détient une participation, et
+qui sont considérés comme des fonds propres pour le calcul des exigences de fonds propres applicables aux entreprises et
+établissements mentionnés ci-dessus.
+
+Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
+détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de cette entité, la Commission de contrôle des
+assurances, des mutuelles et des institutions de prévoyance peut autoriser l'entreprise d'assurance à ne pas effectuer les
+déductions prévues aux a et b.
+
 II. - La marge de solvabilité peut également être constituée par :
 
 1. Les fonds effectivement versés provenant de l'émission de titres ou emprunts subordonnés, ainsi que d'actions de
@@ -37839,13 +37926,16 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 	**Modifié par**:
 
-	  - Décret n°2005-641 du 31 mai 2005 - art. 2 () JORF 1er juin 2005
+	  - Décret n°2005-1185 2005-09-19 art. 5 3° JORF 21 septembre 2005
 
 	**Cite**:
 
 	  - Code de commerce. - art. L228-11 (M)
 	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. L334-1 (M)
+	  - Code des assurances - art. L334-2 (M)
+	  - Code des assurances - art. L334-3 (M)
+	  - Code des assurances - art. L334-4 (V)
 	  - Code des assurances - art. R*332-2 (M)
 	  - Code des assurances - art. R*332-45 (T)
 	  - Code des assurances - art. R332-46 (M)
@@ -37857,22 +37947,26 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 La marge de solvabilité des entreprises visées au 4° de l'article L. 310-2 afférente aux opérations réalisées sur le
 territoire de la République française, est constituée, après déduction des pertes de la part des frais d'acquisition non
 admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments définis aux 2 et 3
-du I et aux 2 et 4 du III de l'article R. 334-11.
+du I et aux 2 et 4 du III de l'article R. 334-11 en tenant compte des déductions prévues à cet article.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-667 du 16 juillet 1976
 
 	**Modifié par**:
 
-	  - Décret n°2003-1236 du 22 décembre 2003 - art. 12 () JORF 24 décembre 2003
+	  - Décret n°2005-1185 2005-09-19 art. 5 4° JORF 21 septembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. L310-2
+	  - Code des assurances - art. R*334-11
 
 	**Cité par**:
 
@@ -38107,7 +38201,8 @@ La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, apr�
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
 suivants :
 
-a) Les éléments définis aux 1, 2, 3 du I, 1 et 2 du II et 1 et 3 du III de l'article R. 334-11 ;
+a) Les éléments définis aux 1, 2, 3 du I, 1 et 2 du II et 1 et 3 du III de l'article R. 334-11 en tenant compte des
+déductions prévues au I de cet article ;
 
 b) L'élément défini au 2 du III de l'article R. 334-11 ;
 
@@ -38127,7 +38222,7 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 	**Modifié par**:
 
-	  - Décret n°2003-1236 du 22 décembre 2003 - art. 16 () JORF 24 décembre 2003
+	  - Décret n°2005-1185 2005-09-19 art. 5 5° JORF 21 septembre 2005
 
 	**Cité par**:
 
@@ -38590,7 +38685,7 @@ Mayotte.
 	  - Décret n°2002-360 du 14 mars 2002 - art. 2 () JORF 17 mars 2002
 
 
-##### Section VIII : La surveillance complémentaire.
+##### Section VIII : Dispositions relatives à la surveillance complémentaire des groupes d'assurances.
 
 ###### Article R334-40
 
@@ -38603,9 +38698,9 @@ production des données et informations destinées à permettre la surveillance 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-360 du 14 mars 2002 - art. 3 () JORF 17 mars 2002
+	  - Décret n°2005-1185 du 19 septembre 2005 - art. 5 () JORF 21 septembre 2005
 
 	**Cité par**:
 
@@ -38625,7 +38720,9 @@ production des données et informations destinées à permettre la surveillance 
 
 Les entreprises mentionnées à l'article R. 334-40 doivent présenter une solvabilité ajustée positive déterminée selon les
 modalités précisées à l'article R. 334-42 sur la base des comptes consolidés ou combinés établis conformément aux
-dispositions de l'article L. 345-2.
+dispositions de l'article L. 345-2. Toutefois, lorsque ces entreprises sont des entreprises participantes d'un établissement
+de crédit, d'une entreprise d'investissement ou d'un établissement financier, elles peuvent, alternativement, présenter une
+solvabilité ajustée positive selon les modalités précisées aux articles R. 334-49 et R. 334-50.
 
 Toutefois, la commission de contrôle des assurances peut dispenser du calcul de la solvabilité ajustée une entreprise
 d'assurance :
@@ -38659,9 +38756,9 @@ qu'elle prenne les mesures nécessaires au rétablissement d'une solvabilité aj
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-360 du 14 mars 2002 - art. 3 () JORF 17 mars 2002
+	  - Décret n°2005-1185 2005-09-19 art. 5 6° 7° JORF 21 septembre 2005
 
 	**Cité par**:
 
@@ -38677,6 +38774,8 @@ qu'elle prenne les mesures nécessaires au rétablissement d'une solvabilité aj
 	  - Code des assurances - art. L345-2 (M)
 	  - Code des assurances - art. R334-40 (M)
 	  - Code des assurances - art. R334-42 (M)
+	  - Code des assurances - art. R334-49 (V)
+	  - Code des assurances - art. R334-50 (M)
 
 
 ###### Article R334-42
@@ -38691,7 +38790,9 @@ R. 334-4, R. 334-11, R. 334-12, R. 334-17 et R. 334-18. Toutefois, des élément
 latentes, les emprunts subordonnés, les intérêts minoritaires et les rappels de cotisations des sociétés d'assurance mutuelle
 ne sont pris en compte, selon des modalités précisées par arrêté du ministre chargé de l'économie, que dans la mesure où ils
 peuvent être effectivement rendus disponibles pour couvrir la marge de solvabilité de l'entreprise d'assurance participante
-pour laquelle la solvabilité ajustée est calculée.
+pour laquelle la solvabilité ajustée est calculée. En outre, sont déduites les participations, créances subordonnées et
+autres instruments financiers détenus sur des établissements de crédit, des entreprises d'investissement et des
+établissements financiers, et mentionnés au I de l'article R. 334-3.
 
 L'exigence de solvabilité des entreprises incluses dans le calcul de solvabilité ajustée se définit de la manière suivante :
 
@@ -38729,7 +38830,7 @@ d'effectuer un ou plusieurs de ces retraitements.
 
 	**Modifié par**:
 
-	  - Décret n°2005-952 du 9 août 2005 - art. 1 () JORF 10 août 2005
+	  - Décret n°2005-1185 2005-09-19 art. 5 6° 8° JORF 21 septembre 2005
 
 	**Cité par**:
 
@@ -38765,7 +38866,8 @@ Lorsque la méthode décrite à l'article R. 334-42 ne permet pas d'obtenir un r
 groupe concerné, la commission de contrôle des assurances est autorisée à appliquer, à titre exceptionnel et dérogatoire,
 l'une des deux méthodes suivantes :
 
-1. Méthode n° 1 : La solvabilité ajustée de l'entreprise d'assurance participante est la différence entre :
+1. Méthode n° 1 : déduction et agrégation : La solvabilité ajustée de l'entreprise d'assurance participante est la différence
+entre :
 
 a) La somme des éléments admissibles pour la marge de solvabilité de l'entreprise d'assurance participante et de la part
 proportionnelle de cette dernière dans les éléments admissibles pour la marge de solvabilité de l'entreprise apparentée ;
@@ -38774,7 +38876,8 @@ b) La somme de la valeur comptable de l'entreprise d'assurance apparentée dans 
 l'exigence de solvabilité de l'entreprise d'assurance participante et de la part proportionnelle de l'exigence de solvabilité
 de l'entreprise d'assurance apparentée.
 
-2. Méthode n° 2 : La solvabilité ajustée de l'entreprise d'assurance participante est la différence entre :
+2. Méthode n° 2 : déduction d'une exigence : La solvabilité ajustée de l'entreprise d'assurance participante est la
+différence entre :
 
 a) La somme des éléments admissibles pour la marge de solvabilité de l'entreprise d'assurance participante ;
 
@@ -38788,18 +38891,29 @@ ambiguïté, à cette part de capital, la commission de contrôle des assurances
 l'entreprise filiale est pris en compte sur une base proportionnelle.
 
 Pour le calcul de la solvabilité ajustée en application de ces deux méthodes, les opérations intragroupe sont éliminées d'une
-manière équivalente à celle définie à l'article R. 341-1.
+manière équivalente à celle prévue pour l'établissement des comptes consolidés ou combinés mentionnés à l'article L. 345-2.
+En outre, sont déduits des éléments admissibles pour la marge de solvabilité les participations, créances et autres
+instruments détenus sur des établissements de crédit, des entreprises d'investissement et des établissements financiers
+mentionnés au I de l'article R. 334-3.
+
+Lorsque l'entreprise est une entreprise participante d'un établissement de crédit, d'une entreprise d'investissement ou d'un
+établissement financier, la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est
+également autorisée à appliquer, alternativement à ces deux méthodes, les méthodes définies aux articles R. 334-49 et R.
+334-50.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-360 du 14 mars 2002 - art. 3 () JORF 17 mars 2002
+	  - Décret n°2005-1185 2005-09-19 art. 5 6° 9° JORF 21 septembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. R*341-1 (M)
+	  - Code des assurances - art. L345-2 (M)
+	  - Code des assurances - art. R*334-3 (M)
 	  - Code des assurances - art. R334-42 (M)
+	  - Code des assurances - art. R334-49 (V)
+	  - Code des assurances - art. R334-50 (M)
 
 	**Cité par**:
 
@@ -38809,12 +38923,13 @@ manière équivalente à celle définie à l'article R. 341-1.
 ###### Article R334-44
 
 Les entreprises d'assurance agréées en France et soumises au contrôle de l'Etat en application de l'article L. 310-1 dont
-l'entreprise mère est une société de groupe d'assurance, une entreprise soumise au contrôle de l'Etat en application de
-l'article L. 310-1-1 ou une entreprise d'assurance ou de réassurance dont le siège social est situé hors d'un Etat membre de
-la Communauté européenne ou partie à l'accord sur l'Espace économique européen doivent justifier d'une solvabilité ajustée
-positive selon les modalités définies aux articles R. 334-41 à R. 334-43. Dans ce but, elles procèdent à un calcul de la
-solvabilité de leur entreprise mère dans les mêmes conditions que celles permettant de déterminer la marge de solvabilité
-d'une entreprise d'assurance participante agréée en France et pratiquant les mêmes opérations.
+l'entreprise mère est une société de groupe d'assurance, une compagnie financière holding mixte dont le coordonnateur est la
+Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, une entreprise soumise au contrôle de
+l'Etat en application de l'article L. 310-1-1 ou une entreprise d'assurance ou de réassurance dont le siège social est situé
+hors d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen doivent justifier
+d'une solvabilité ajustée positive selon les modalités définies aux articles R. 334-41 à R. 334-43. Dans ce but, elles
+procèdent à un calcul de la solvabilité de leur entreprise mère dans les mêmes conditions que celles permettant de déterminer
+la marge de solvabilité d'une entreprise d'assurance participante agréée en France et pratiquant les mêmes opérations.
 
 La commission de contrôle des assurances peut dispenser du calcul de la solvabilité ajustée une entreprise d'assurance s'il
 s'agit :
@@ -38822,17 +38937,20 @@ s'agit :
 1. D'une entreprise apparentée à une autre entreprise d'assurance et si cette entreprise apparentée est déjà prise en compte
 dans le calcul effectué pour cette autre entreprise d'assurance ;
 
-2. D'une entreprise dont l'entreprise mère est une société de groupe d'assurance, entreprise d'assurance ou de réassurance
-dont le siège social est situé hors d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
-européen et est, à la fois, commune avec une ou plusieurs autres entreprises d'assurance agréées en France et déjà prise en
-compte dans le calcul effectué pour l'une de ces autres entreprises d'assurance ;
+2. D'une entreprise dont l'entreprise mère est une société de groupe d'assurance, compagnie financière holding mixte dont le
+coordonnateur est la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, entreprise
+d'assurance ou de réassurance dont le siège social est situé hors d'un Etat membre de la Communauté européenne ou partie à
+l'accord sur l'Espace économique européen et est, à la fois, commune avec une ou plusieurs autres entreprises d'assurance
+agréées en France et déjà prise en compte dans le calcul effectué pour l'une de ces autres entreprises d'assurance ;
 
-3. D'une entreprise dont l'entreprise mère est une société de groupe d'assurance, entreprise d'assurance ou de réassurance
-dont le siège social est situé dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
-européen et est commune avec une ou plusieurs autres entreprises d'assurance agréées dans d'autres Etats membres de la
-Communauté européenne ou parties à l'accord sur l'Espace économique européen dès lors que la commission de contrôle des
-assurances a conclu un accord avec une autorité compétente d'un Etat membre de la Communauté européenne ou partie à l'accord
-sur l'Espace économique européen pour attribuer à cette autorité l'exercice de la surveillance complémentaire.
+3. D'une entreprise dont l'entreprise mère est une société de groupe d'assurance, compagnie financière holding mixte dont le
+coordonnateur est la Commision de contrôle des assurances, des mutuelles et des institutions de prévoyance, entreprise
+d'assurance ou de réassurance dont le siège social est situé dans un Etat membre de la Communauté européenne ou partie à
+l'accord sur l'Espace économique européen et est commune avec une ou plusieurs autres entreprises d'assurance agréées dans
+d'autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen dès lors que la
+commission de contrôle des assurances a conclu un accord avec une autorité compétente d'un Etat membre de la Communauté
+européenne ou partie à l'accord sur l'Espace économique européen pour attribuer à cette autorité l'exercice de la
+surveillance complémentaire.
 
 Si la commission de contrôle des assurances estime, à partir de ce calcul de solvabilité ajustée, que la solvabilité de
 l'entreprise d'assurance concernée est compromise ou susceptible de l'être, elle exige de celle-ci qu'elle prenne les mesures
@@ -38840,9 +38958,9 @@ nécessaires au rétablissement ou au maintien de sa solvabilité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-360 du 14 mars 2002 - art. 3 () JORF 17 mars 2002
+	  - Décret n°2005-1185 2005-09-19 art. 5 6° 10° JORF 21 septembre 2005
 
 	**Cité par**:
 
@@ -38864,8 +38982,10 @@ en France effectue avec ses entreprises apparentées, ou avec une personne physi
 ces entreprises, sont soumises au contrôle de la commission de contrôle des assurances, notamment celles qui portent sur les
 prêts, les garanties et les opérations hors bilan, les éléments admissibles pour la marge de solvabilité, les
 investissements, les opérations de réassurance et les accords de répartition des coûts. L'entreprise déclare au moins une
-fois par an à cette commission les opérations importantes mentionnées ci-dessus. Un arrêté du ministre chargé de l'économie
-précise les conditions dans lesquelles ces opérations doivent être déclarées.
+fois par an à cette commission les opérations importantes mentionnées ci-dessus. L'entreprise se dote en outre de procédures
+de gestion des risques et de dispositifs de contrôle interne visant à identifier, mesurer, encadrer et contrôler ces
+opérations. Un arrêté du ministre chargé de l'économie précise les conditions dans lesquelles ces opérations doivent être
+déclarées.
 
 Si la commission de contrôle des assurances estime, à partir de l'examen de ces déclarations, que la solvabilité de
 l'entreprise d'assurance est compromise ou susceptible de l'être, elle exige de cette entreprise qu'elle prenne les mesures
@@ -38873,9 +38993,9 @@ nécessaires au rétablissement ou au maintien de sa solvabilité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-360 du 14 mars 2002 - art. 3 () JORF 17 mars 2002
+	  - Décret n°2005-1185 2005-09-19 art. 5 6° 11° JORF 21 septembre 2005
 
 	**Cité par**:
 
@@ -38888,6 +39008,233 @@ nécessaires au rétablissement ou au maintien de sa solvabilité.
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
+
+
+###### Article R334-46
+
+Lorsqu'une société acquiert, lors de sa création ou à l'occasion d'une acquisition, la qualité de société de groupe
+d'assurance et que la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est responsable
+de la surveillance prudentielle du groupe d'assurance concerné, cette société de groupe d'assurance est tenue de transmettre
+au Comité des entreprises d'assurance, dans un délai d'un mois, l'ensemble des informations nécessaires à l'appréciation de
+l'honorabilité, la compétence et l'expérience de ses dirigeants. La liste de ces informations est fixée par arrêté du
+ministre chargé de l'économie.
+
+Le Comité des entreprises d'assurance transmet ces informations à la Commission de contrôle des assurances, des mutuelles et
+des institutions de prévoyance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1185 2005-09-19 art. 5 12° JORF 21 septembre 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-1185 du 19 septembre 2005 - art. 6 (V)
+	  - Code des assurances - art. A321-2 (V)
+
+
+##### Section IX : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier.
+
+###### Article R334-47
+
+La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance établit et met à jour la liste des
+compagnies financières holding mixtes dont elle assure la surveillance complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1185 2005-09-19 art. 5 13° JORF 21 septembre 2005
+
+
+###### Article R334-48
+
+Lorsque, en application des articles L. 334-5 et L. 334-6, un conglomérat financier a été identifié, que l'entité placée à la
+tête du groupe est une compagnie financière holding mixte et que la Commission de contrôle des assurances, des mutuelles et
+des institutions de prévoyance est désignée comme coordonnateur, la compagnie financière holding mixte est tenue de
+transmettre au Comité des entreprises d'assurance, dans un délai d'un mois après avoir été informée de cette désignation,
+conformément à l'article L. 334-6, l'ensemble des informations nécessaires à l'appréciation de l'honorabilité, la compétence
+et l'expérience de ses dirigeants précisées par arrêté du ministre en charge de l'économie.
+
+Le Comité des entreprises d'assurance transmet ces informations à la Commission de contrôle des assurances, des mutuelles et
+des institutions de prévoyance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1185 2005-09-19 art. 5 13° JORF 21 septembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. A321-2 (M)
+	  - Code des assurances - art. R391-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-5 (V)
+	  - Code des assurances - art. L334-6 (M)
+
+
+###### Article R334-49
+
+Les exigences complémentaires en matière d'adéquation des fonds propres mentionnées à l'article L. 334-8 sont déterminées sur
+la base des comptes consolidés ou combinés du conglomérat financier établis conformément aux dispositions de l'article L.
+345-2.
+
+Elles résultent de la différence, calculée selon des modalités précisées par arrêté du ministre chargé de l'économie, entre
+les fonds propres du conglomérat financier et les exigences de solvabilité relatives aux différents secteurs financiers du
+conglomérat. Cette différence doit être positive.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1185 2005-09-19 art. 5 13° JORF 21 septembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 7
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-15 (Ab)
+	  - Code des assurances - art. R334-11 (M)
+	  - Code des assurances - art. R334-26 (M)
+	  - Code des assurances - art. R334-3 (M)
+	  - Code des assurances - art. R334-41 (M)
+	  - Code des assurances - art. R334-43 (M)
+	  - Code des assurances - art. R334-50 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-8
+	  - Code des assurances - art. L345-2
+
+
+###### Article R334-50
+
+Lorsqu'elle est désignée comme coordonnateur, la Commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance peut, après consultation des autres autorités compétentes concernées, au sens du 12° de l'article L. 334-2, et du
+conglomérat financier considéré, faire appliquer, à la place de la méthode prévue à l'article R. 334-49 pour le calcul des
+exigences complémentaires, l'une des trois méthodes suivantes, si elle lui apparaît plus pertinente au regard des impératifs
+de la surveillance complémentaire, en raison notamment de la structure du conglomérat financier considéré, ou à la demande de
+ce dernier.
+
+1° Méthode n° 1 : Déduction et agrégation.
+
+Les exigences complémentaires résultent de la différence entre :
+
+a) D'une part, la somme des fonds propres de toutes les entités du secteur financier ;
+
+b) D'autre part, la somme des exigences de solvabilité de toutes les entités du secteur financier et de la valeur comptable
+des participations dans d'autres entités du groupe.
+
+L'exigence de solvabilité d'une entité non réglementée est une exigence notionnelle calculée en application des règles
+sectorielles qui s'appliqueraient si elle était une entité réglementée du secteur considéré.
+
+La différence doit être positive.
+
+2° Méthode n° 2 : Valeur comptable/déduction d'une exigence.
+
+Les exigences complémentaires résultent de la différence entre :
+
+a) D'une part, les fonds propres de l'entreprise mère ou de l'entité qui se trouve à la tête du conglomérat financier ;
+
+b) Et, d'autre part, la somme de l'exigence de solvabilité de l'entreprise mentionnée au a et de la valeur comptable des
+participations de celle-ci dans d'autres entités du groupe ou des exigences de solvabilité de ces entités, le montant le plus
+élevé des deux étant retenu.
+
+L'exigence de solvabilité d'une entité non réglementée est une exigence notionnelle calculée en application des règles
+sectorielles qui s'appliqueraient si elle était une entité réglementée du secteur considéré.
+
+La différence doit être positive.
+
+3° Méthode n° 3 : combinaison des trois méthodes.
+
+Lorsqu'elle est coordonnateur, la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
+peut, sous réserve des conditions mentionnées au premier alinéa, permettre au conglomérat financier de combiner deux ou trois
+des méthodes mentionnées à l'article R. 334-49 et au présent article.
+
+Un arrêté du ministre chargé de l'économie détermine les modalités de calcul des fonds propres et des exigences de
+solvabilité d'une entité qui doivent être retenues dans le cadre de l'application des méthodes n°s 1 à 3 mentionnées au
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1185 2005-09-19 art. 5 13° JORF 21 septembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-15 (Ab)
+	  - Code des assurances - art. R334-41 (M)
+	  - Code des assurances - art. R334-43 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-2 (M)
+	  - Code des assurances - art. R334-49 (V)
+
+
+###### Article R334-51
+
+Sans préjudice des dispositions de l'article L. 334-16, la Commission de contrôle des assurances, des mutuelles et des
+institutions de prévoyance peut, lorsqu'elle est désignée comme coordonnateur et si la situation du conglomérat financier en
+matière d'adéquation des fonds propres le justifie, demander que les exigences complémentaires soient couvertes par des
+éléments prudentiels admis à la fois par la réglementation applicable au secteur des assurances et par celle applicable au
+secteur bancaire et des services d'investissement dans les limites propres à ces réglementations sectorielles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1185 2005-09-19 art. 5 13° JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-16 (M)
+
+
+###### Article R334-52
+
+I. - Les entités réglementées appartenant à un conglomérat financier se dotent de procédures coordonnées de gestion des
+risques et de contrôle interne.
+
+II. - Les procédures de gestion des risques mentionnées à l'alinéa précédent portent sur :
+
+1° L'approbation et l'examen périodique, par les organes dirigeants au niveau du conglomérat financier, des stratégies et
+politiques conduites pour l'ensemble des risques encourus ;
+
+2° La satisfaction des exigences réglementaires en matière d'adéquation des fonds propres et l'existence de procédures visant
+à anticiper l'impact des stratégies de développement sur le profil de risques et les exigences en matière de fonds propres ;
+
+3° Des procédures permettant de garantir que les dispositifs de surveillance des risques sont adaptés à l'organisation du
+conglomérat financier et que les mesures mises en place au sein de chaque entité, en vue de s'assurer que les risques
+puissent être mesurés, surveillés et maîtrisés au niveau du conglomérat, sont cohérentes.
+
+III. - Les dispositifs de contrôle interne mis en place doivent permettre :
+
+1° D'identifier et de mesurer tous les risques importants encourus et de déterminer un niveau des fonds propres adapté aux
+risques ;
+
+2° D'identifier, de mesurer, d'encadrer et de contrôler, par des procédures d'information et de comptabilité appropriées, les
+transactions intragroupe ainsi que la concentration des risques.
+
+IV. - Les entités réglementées appartenant à un conglomérat financier disposent d'un système de contrôle interne pour la
+production des données ou informations destinées à permettre leur surveillance complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1185 2005-09-19 art. 5 13° JORF 21 septembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. R336-1 (M)
 
 
 #### Chapitre VI : Contrôle interne
@@ -52008,6 +52355,63 @@ II. - En cas de demande d'extension d'agrément, le dossier à communiquer est l
 	  - Code des assurances L310-1, R321-1, R322-55, A321-2
 
 
+###### Article A321-2
+
+Les personnes mentionnées au I, f de l'article A. 321-1 et celles mentionnées aux articles R. 334-46 et R. 334-48 doivent
+produire un état descriptif de leurs activités. Elles indiquent notamment :
+
+1. La nature de leurs activités professionnelles actuelles et de celles qu'elles ont exercées pendant les dix années
+précédant la demande d'agrément ;
+
+2. Si elles ont fait l'objet, soit de sanctions disciplinaires prises par une autorité de contrôle ou une organisation
+professionnelle compétente, soit d'un refus d'inscription sur une liste professionnelle ;
+
+3. Si elles ont fait l'objet d'un licenciement ou d'une mesure équivalente pour faute ;
+
+4. Si elles ont exercé des fonctions d'administrateur ou de direction dans des entreprises ayant fait l'objet de mesures de
+redressement ou de liquidation judiciaires prévues par la loi n° 85-98 du 25 janvier 1985 ou, dans le régime antérieur, de
+mesures prévues par la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les
+banqueroutes, ou de mesures équivalentes à l'étranger.
+
+Les personnes mentionnées au I, f de l'article A. 321-1 doivent également produire un bulletin n° 3 de leur casier judiciaire
+datant de moins de trois mois ou un document équivalent délivré par une autorité judiciaire ou administrative compétente d'un
+Etat membre de l'Espace économique européen autre que la France. Lorsque ces personnes ne sont pas des ressortissants d'un
+Etat membre de l'Espace économique européen, elles doivent produire un document équivalent ou, à défaut, une déclaration sous
+serment ou une déclaration solennelle faite devant une autorité compétente ou un notaire, aux termes de laquelle elles
+affirment ne pas avoir fait, à l'étranger, l'objet d'une condamnation qui, si elle avait été prononcée par une juridiction
+française, serait inscrite au bulletin n° 3 du casier judiciaire. L'autorité compétente ou le notaire délivre une attestation
+faisant foi de ce serment ou de cette déclaration solennelle. En outre, si elles ne sont pas de nationalité française, ces
+personnes doivent satisfaire aux dispositions des lois et règlements relatifs à la situation et à la police des étrangers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 2005-09-19 art. 1 JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Loi n°67-563 1967-07-13
+	  - Loi n°85-98 1985-01-25
+	  - Code des assurances - art. R334-46 (M)
+	  - Code des assurances - art. R334-48 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-2 (Ab)
+	  - Code des assurances - art. A310-3 (Ab)
+	  - Code des assurances - art. A321-1 (M)
+	  - Code des assurances - art. A321-11 (V)
+	  - Code des assurances - art. A321-3 (Ab)
+	  - Code des assurances - art. A321-7 (M)
+	  - Code des assurances - art. A321-9 (V)
+	  - Code des assurances - art. A322-1 (V)
+
+
 ###### Article A321-3
 
 Les documents visés au premier alinéa de l'article L. 321-3 sont les suivants :
@@ -52263,63 +52667,6 @@ Date, lieu
 (Signature soit du président du conseil d'administration ou du conseil de surveillance, soit de l'actionnaire principal, soit
 d'un autre membre du conseil d'administration de l'entreprise.)
 
-
-
-##### Section I : Agrément administratif des entreprises françaises.
-
-###### Article A321-2
-
-Les personnes mentionnées au I, f de l'article A. 321-1 doivent produire un état descriptif de leurs activités. Elles
-indiquent notamment :
-
-1. La nature de leurs activités professionnelles actuelles et de celles qu'elles ont exercées pendant les dix années
-précédant la demande d'agrément ;
-
-2. Si elles ont fait l'objet, soit de sanctions disciplinaires prises par une autorité de contrôle ou une organisation
-professionnelle compétente, soit d'un refus d'inscription sur une liste professionnelle ;
-
-3. Si elles ont fait l'objet d'un licenciement ou d'une mesure équivalente pour faute ;
-
-4. Si elles ont exercé des fonctions d'administrateur ou de direction dans des entreprises ayant fait l'objet de mesures de
-redressement ou de liquidation judiciaires prévues par la loi n° 85-98 du 25 janvier 1985 ou, dans le régime antérieur, de
-mesures prévues par la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les
-banqueroutes, ou de mesures équivalentes à l'étranger.
-
-Les personnes mentionnées au I, f de l'article A. 321-1 doivent également produire un bulletin n° 3 de leur casier judiciaire
-datant de moins de trois mois ou un document équivalent délivré par une autorité judiciaire ou administrative compétente d'un
-Etat membre de l'Espace économique européen autre que la France. Lorsque ces personnes ne sont pas des ressortissants d'un
-Etat membre de l'Espace économique européen, elles doivent produire un document équivalent ou, à défaut, une déclaration sous
-serment ou une déclaration solennelle faite devant une autorité compétente ou un notaire, aux termes de laquelle elles
-affirment ne pas avoir fait, à l'étranger, l'objet d'une condamnation qui, si elle avait été prononcée par une juridiction
-française, serait inscrite au bulletin n° 3 du casier judiciaire. L'autorité compétente ou le notaire délivre une attestation
-faisant foi de ce serment ou de cette déclaration solennelle. En outre, si elles ne sont pas de nationalité française, ces
-personnes doivent satisfaire aux dispositions des lois et règlements relatifs à la situation et à la police des étrangers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1994-08-08 art. 5, art. 6 JORF 23 août 1994
-
-	**Cite**:
-
-	  - Loi n°67-563 1967-07-13
-	  - Loi n°85-98 1985-01-25
-
-	**Cité par**:
-
-	  - Code des assurances - art. A310-2 (Ab)
-	  - Code des assurances - art. A310-3 (Ab)
-	  - Code des assurances - art. A321-1 (M)
-	  - Code des assurances - art. A321-11 (V)
-	  - Code des assurances - art. A321-3 (Ab)
-	  - Code des assurances - art. A321-7 (M)
-	  - Code des assurances - art. A321-9 (V)
-	  - Code des assurances - art. A322-1 (V)
 
 
 ##### Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen.
@@ -76337,6 +76684,45 @@ délai de préavis minimum visé au 4° du III du présent article.
 	  - Code des assurances - art. A334-4 (V)
 
 
+##### Section VIII : La surveillance complémentaire des entreprises d' assurance faisant partie d'un groupe d'assurance
+
+###### Article A334-6
+
+La déclaration des opérations mentionnées à l'article R. 334-45 est jointe au dossier mentionné à l'article A. 344-14, annexe
+II. L'entreprise soumise à surveillance complémentaire présente en outre, dès lors qu'elles ne sont ni incluses dans les
+documents décrits à l'annexe II de l'article A. 344-14 ni, le cas échéant, décrites dans l'état G 22 prévu à l'article A.
+344-14-1, les opérations, effectuées directement ou indirectement entre entreprises du groupe auquel elle appartient,
+supérieures à 5 % des fonds propres ou à 0,5 % des provisions techniques du groupe tels que calculés à la clôture de
+l'exercice précédent. Ce tableau doit isoler les opérations suivantes : les prêts, les transactions portant sur les éléments
+admissibles pour la marge de solvabilité, les investissements, l'état des cessions d'actifs internes au groupe (notamment les
+ventes d'immeubles ou de titres non cotés) et les engagements d'un montant défini reçus ou donnés hors bilan. Chacune de ces
+opérations doit être déclarée en précisant la société vendeuse, la société acheteuse, la valeur comptable dans la première,
+le prix de vente et la référence ayant permis d'établir celui-ci.
+
+Les opérations nouvelles mentionnées à cet article sont déclarées à l'issue de chaque trimestre dans les 30 jours à la
+Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+
+En outre, dans tous les cas, les rachats ou remboursements des titres et emprunts subordonnés effectués directement ou
+indirectement entre entreprises apparentées du même groupe sont déclarés sans délai par l'entreprise soumise à surveillance
+complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. A344-14 (M)
+	  - Code des assurances - art. A344-14-1 (M)
+	  - Code des assurances - art. R334-45 (M)
+
+
 ##### Section VIII : La surveillance complémentaire des entreprises d'assurance faisant partie d'un groupe d'assurance.
 
 ###### Article A334-4
@@ -76439,6 +76825,439 @@ impact marginal sur le calcul de la marge de solvabilité ajustée.
 	**Cite**:
 
 	  - Code des assurances - art. R334-42 (M)
+
+
+##### Section IX : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier.
+
+###### Article A334-7
+
+Les activités d'un groupe s'exercent principalement dans le secteur financier au sens de l'article L. 334-5 lorsque le
+rapport entre le total du bilan des entités du groupe appartenant au secteur financier et le total du bilan du groupe est
+supérieur à 40 %.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-9 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-5 (V)
+
+
+###### Article A334-8
+
+I. - Les activités d'un groupe dans un secteur financier sont importantes au sens de l'article L. 334-5 lorsque la valeur
+moyenne des deux rapports mentionnés ci dessous dépasse 10 % :
+
+- le rapport entre le total du bilan dudit secteur et le total du bilan des entités du secteur financier du groupe ;
+
+- le rapport entre les exigences de solvabilité dudit secteur et l'exigence de solvabilité totale des entités du secteur
+financier du groupe.
+
+Pour ce calcul, les exigences de solvabilité sont calculées conformément aux dispositions des règles sectorielles prévues :
+
+- pour les entreprises relevant du secteur des assurances, par le chapitre IV du titre III du livre III du présent code, le
+chapitre Ier du titre III du livre IX du code de la sécurité sociale et le chapitre II du titre Ier du livre II du code de la
+mutualité ;
+
+- pour les entreprises relevant du secteur bancaire et des services d'investissement, par les règlements n° 91-05, n° 95-02
+et n° 97-04 du Comité de la réglementation bancaire et financière ;
+
+- pour les sociétés de gestion de portefeuille qui ne sont pas déjà reprises dans les exigences du secteur bancaire et des
+services d'investissement, par l'article 322-8 du règlement général de l'Autorité des marchés financiers.
+
+Le secteur financier qui présente la moyenne la plus basse est considéré comme le secteur financier le moins important.
+
+II. - Les activités d'un groupe dans un secteur financier sont également importantes au sens de l'article L. 334-5 lorsque le
+total du bilan du secteur financier le moins important au sein du groupe dépasse 6 milliards d'euros.
+
+III. - Si un groupe remplissant les conditions mentionnées au 1° et au 2° de l'article L. 334-5 n'atteint pas le seuil visé
+au I, mais atteint le seuil visé au II du présent article, les autorités compétentes concernées définies à l'article L. 334-2
+peuvent décider d'un commun accord de ne pas considérer ce groupe comme un conglomérat financier ou de ne lui appliquer que
+les dispositions relatives à l'adéquation des fonds propres définies aux articles R. 334-47 à R. 334-52. Les décisions prises
+conformément au présent paragraphe sont notifiées aux autres autorités compétentes.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 17
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code des assurances
+	  - Code des assurances - art. L334-2
+	  - Code des assurances - art. L334-5
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-9 (Ab)
+
+
+###### Article A334-9
+
+I- Pour le calcul des ratios mentionnés à l'article A. 334-7 et au I de l'article A. 334-8, les autorités compétentes
+concernées peuvent, d'un commun accord :
+
+a) Exclure une entité de ce calcul, dans les cas mentionnés à l'article A. 334-16 ;
+
+b)  Décider qu'un groupe peut ne pas être identifié comme un conglomérat financier si les seuils mentionnés aux articles A.
+334-7 et A. 334-8 n'ont pas été respectés pendant trois années consécutives et ne pas tenir compte de ce respect en cas de
+modification importante de la structure du groupe ;
+
+c) Dans des circonstances exceptionnelles, soit remplacer le critère fondé sur le total du bilan par le critère de la
+structure des revenus ou le critère des activités hors bilan ou ces deux critères, soit intégrer l'un de ces critères ou les
+deux, si elles estiment que ceux-ci présentent un intérêt particulier aux fins de la surveillance complémentaire des
+conglomérats financiers.
+
+Lorsqu'un conglomérat financier a été identifié, les décisions mentionnées au a et au b sont prises sur la base d'une
+proposition faite par le coordonnateur du conglomérat financier considéré.
+
+II. - Lorsque, pour un conglomérat financier soumis à la surveillance complémentaire, les seuils mentionnés à l'article A.
+334-7 et au I de l'article A. 334-8 deviennent inférieurs respectivement à 40 % et 10 %, des seuils fixés respectivement à 35
+% et 8 % s'appliquent pendant les trois années qui suivent.
+
+De même, lorsque le seuil mentionné au II de l'article A. 334-8 devient inférieur à 6 milliards d'euros, un seuil inférieur
+fixé à 5 milliards d'euros s'applique pendant les trois années qui suivent.
+
+Pendant cette période, le coordonnateur peut, avec l'accord des autorités compétentes concernées, décider que la surveillance
+complémentaire ne s'applique plus au conglomérat financier considéré, dans la mesure où les ratios ou montants ne remontent
+pas au-dessus des seuils normaux.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 17
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. A334-16
+	  - Code des assurances - art. A334-7
+	  - Code des assurances - art. A334-8 (Ab)
+
+
+###### Article A334-10
+
+Les calculs relatifs au bilan mentionnés aux articles A. 334-7 à A. 334-9 sont effectués sur la base des comptes consolidés
+ou combinés du groupe.
+
+Si ces comptes ne sont pas disponibles, le coordonnateur peut autoriser le conglomérat financier à utiliser les comptes
+agrégés. Dans ce cas, les entreprises dans lesquelles une participation est détenue sont prises en compte à concurrence du
+montant du total de leur bilan correspondant à la part proportionnelle agrégée détenue par le groupe.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 17
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code des assurances
+
+
+###### Article A334-11
+
+Conformément au III de l'article L. 334-5, la commission de contrôle, en tant que coordonnateur, peut décider d'assujettir un
+sous-groupe d'un conglomérat financier à la surveillance complémentaire, dès lors que le conglomérat financier auquel ce
+sous-groupe appartient ne respecte pas les exigences de la surveillance complémentaire ou que la répartition de ses fonds
+propres n'est pas adaptée aux objectifs de la surveillance complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-5 (V)
+
+
+###### Article A334-12
+
+En application de l'article L. 334-9, le coordonnateur est désigné parmi les autorités compétentes des Etats parties à
+l'accord sur l'Espace économique européen selon les critères suivants :
+
+1. Lorsqu'une entité réglementée est placée à la tête du conglomérat financier, le coordonnateur est l'autorité responsable
+de la surveillance prudentielle de cette entité.
+
+2. Lorsqu'une compagnie financière holding mixte est placée à la tête du conglomérat financier, le coordonnateur est
+l'autorité responsable de la surveillance prudentielle de l'entité réglementée filiale de la compagnie financière holding
+mixte, et qui remplit les conditions suivantes :
+
+a) Lorsque la compagnie financière holding mixte est la société mère de plusieurs entités réglementées ayant leur siège
+social dans des Etats parties à l'accord sur l'Espace économique européen, l'entité est agréée dans l'Etat dans lequel la
+compagnie financière holding mixte a son siège social ;
+
+b) Lorsque les entités réglementées filiales de la compagnie financière holding mixte ont leur siège dans le même Etat que
+celle-ci et exercent leurs activités dans différents secteurs financiers, l'entité exercent ses activités dans le secteur
+financier le plus important ;
+
+c) Lorsque aucune entité réglementée filiale de la compagnie financière holding mixte n'a été agréée dans l'Etat où celle-ci
+a son siège social, l'entité possède le total de bilan le plus élevé dans le secteur financier le plus important.
+
+3. Lorsque plusieurs compagnies financières holding mixtes ayant leur siège dans différents Etats parties à l'accord sur
+l'Espace économique européen sont placées à la tête du conglomérat financier et ont chacune au moins une entité réglementée
+filiale agréée dans l'Etat de leur siège, le coordonnateur est l'autorité responsable de la surveillance prudentielle de
+l'entité réglementée exerçant ses activités dans le secteur financier le plus important ou de l'entité réglementée qui
+possède le total de bilan le plus élevé si ces entités exercent leur activité dans le même secteur financier.
+
+4. Dans tous les autres cas, le coordonnateur est l'autorité responsable de la surveillance prudentielle de l'entité
+réglementée qui possède le total de bilan le plus élevé dans le secteur financier le plus important.
+
+Les autorités compétentes concernées peuvent, d'un commun accord et après avoir recueilli l'avis du conglomérat financier,
+déroger à ces critères et désigner une autre autorité compétente comme coordonnateur s'il apparaît inapproprié de les
+appliquer, compte tenu de la structure du conglomérat financier et de l'importance relative de ses activités dans les
+différents Etats.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 17
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-9
+
+
+###### Article A334-13
+
+La coopération entre autorités compétentes prévue à l'article L. 334-13 s'exerce dans les conditions suivantes :
+
+1° Sans préjudice de leurs responsabilités respectives, toute autorité compétente communique, de sa propre initiative ou à la
+demande d'une autre autorité compétente, toute information utile permettant à cette dernière d'exercer ses fonctions
+prudentielles, au titre de la surveillance complémentaire des conglomérats financiers.
+
+Les autorités compétentes collectent et s'échangent des informations concourant à l'exercice de cette surveillance
+complémentaire. Ces informations portent notamment sur la structure du groupe, les principales entités faisant partie du
+conglomérat financier et les autorités compétentes de ces entités réglementées, la stratégie du conglomérat financier et sa
+situation financière ainsi que ses principaux actionnaires et dirigeants, le dispositif de gestion des risques et le système
+de contrôle interne. Elles concernent également les procédures de collecte et de vérification d'informations auprès des
+entités du conglomérat financier, les difficultés éventuellement rencontrées par ces dernières ainsi que les principales
+sanctions et mesures exceptionnelles prises à leur encontre par les autorités compétentes.
+
+2° Sans préjudice de leurs responsabilités respectives, avant de prendre une décision intéressant les fonctions prudentielles
+exercées par d'autres autorités compétentes, les autorités compétentes intéressées se consultent et échangent des
+informations sur la modification de la structure de l'actionnariat, l'organisation ou la direction des entités réglementées
+d'un conglomérat financier requérant l'approbation ou l'autorisation des autorités compétentes, ainsi que sur les principales
+sanctions et mesures exceptionnelles envisagées par les autorités compétentes.
+
+En cas d'urgence, ou lorsque cette consultation risque de compromettre l'efficacité de la décision, une autorité compétente
+peut décider de ne pas consulter ses homologues, sous réserve de les informer sans délai de cette décision.
+
+3° La Commission de contrôle coopère étroitement avec les autres autorités compétentes en vue de rechercher l'effectivité des
+sanctions ou mesures adoptées conformément aux articles L. 334-16 et L. 334-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-13 (M)
+	  - Code des assurances - art. L334-16 (M)
+	  - Code des assurances - art. L334-17 (M)
+
+
+###### Article A334-14
+
+I. - Lorsque l'entité à la tête d'un conglomérat financier, dont la commission de contrôle est le coordonnateur, a son siège
+social dans un autre Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen, la commission de
+contrôle peut inviter les autorités compétentes de cet Etat, d'une part, à demander à cette entité de leur fournir toutes
+informations utiles à l'accomplissement de sa mission de coordination, au sens de l'article L. 334-10, d'autre part, à lui
+communiquer lesdites informations.
+
+La commission de contrôle communique, à la demande d'un coordonnateur d'un autre Etat membre ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen, toutes informations utiles à l'accomplissement de la mission de ce coordonnateur,
+définie à l'article L. 334-11.
+
+II. - Lorsque la commission de contrôle est l'autorité en charge de la vérification mentionnée à l'article L. 334-18, elle
+consulte les autres autorités compétentes concernées. Elle consulte également, avant de prendre une décision, le comité des
+conglomérats financiers prévu à l'article 21 de la directive 2002/ 87/CE du Parlement européen et du Conseil du 16 décembre
+2002 pour tenir compte des lignes directrices élaborées par ce comité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+
+	**Cité par**:
+
+	  - Arrêté du 16 mai 2002 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-10 (M)
+	  - Code des assurances - art. L334-11 (V)
+	  - Code des assurances - art. L334-18 (M)
+
+
+###### Article A334-15
+
+I. - Les exigences de solvabilité relatives aux différents secteurs financiers du conglomérat financier sont la somme :
+
+a) Des exigences applicables aux entités réglementées dont le siège social est situé en France, telles que prévues par le
+chapitre IV du titre II du livre III du présent code, le chapitre Ier du titre III du livre IX du code de la sécurité
+sociale, le chapitre II du titre Ier du livre II du code de la mutualité, les règlements n° 91-05 et n° 95-02 du Comité de la
+réglementation bancaire et financière et l'article 322-8 du règlement général de l'Autorité des marchés financiers ;
+
+b) Des exigences équivalentes à celles mentionnées au a, pour les entités réglementées dont le siège social est situé hors de
+France et pour les organismes d'assurances, les entreprises d'investissement et les établissements de crédit ayant leur siège
+dans un Etat qui n'est pas partie à l'accord sur l'Espace économique européen, et
+
+c) Des exigences de solvabilité notionnelles calculées pour les entités non réglementées selon les règles applicables aux
+entités réglementées du secteur financier auquel elles appartiennent.
+
+II. - Pour l'application de l'article R. 334-49, les fonds propres du conglomérat financier sont constitués des éléments
+suivants :
+
+a) Les éléments mentionnés aux articles R. 334-3, R. 334-11, R. 334-17 et R. 334-42, hormis ceux figurant à l'alinéa suivant,
+calculés conformément aux règles précisées par ces dispositions et sur la base des comptes consolidés ou combinés du
+conglomérat financier, et
+
+b) Les éléments inclus, selon des règles spécifiques, dans les fonds propres prudentiels des entités relevant du secteur
+bancaire et des services d'investissement.
+
+Aux fins de l'admission des éléments prudentiels dans les fonds propres du conglomérat financier, la commission de contrôle,
+en tant que coordonnateur, tient compte de la disponibilité et la transférabilité effectives des fonds entre les différentes
+entités du conglomérat financier.
+
+III. - Pour l'application des méthodes 2 et 3 définies à l'article R. 334-50, les fonds propres et les exigences de
+solvabilité d'une entité sont déterminés à partir de ses comptes annuels conformément aux dispositions de l'arrêté prévu à
+l'article R. 334-49.
+
+Ils sont pris en compte à concurrence de la part de capital souscrit détenue, directement ou indirectement, par les entités
+du conglomérat financier ou, lorsqu'il n'y a pas de lien en capital, pour la part déterminée par la commission de contrôle,
+après consultation des autres autorités compétentes concernées, en fonction de la responsabilité née de la relation existant
+entre l'entité et les autres entités du conglomérat financier.
+
+En outre, lorsque l'entité présente un déficit de solvabilité, ce déficit est pris en compte en totalité. Toutefois, dans le
+cas où la responsabilité de l'entreprise mère détenant une part de capital est limitée, strictement et sans ambiguïté, à
+cette part de capital, la commission de contrôle peut décider d'admettre que le déficit de l'entité est pris en compte sur
+une base proportionnelle.
+
+Les opérations intragroupe sont éliminées d'une manière équivalente à celle prévue pour l'établissement des comptes
+consolidés ou combinés mentionnés à l'article L. 345-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L345-2 (M)
+	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R*334-17 (M)
+	  - Code des assurances - art. R*334-3 (M)
+	  - Code des assurances - art. R334-42 (M)
+	  - Code des assurances - art. R334-49 (V)
+	  - Code des assurances - art. R334-50 (M)
+
+
+###### Article A334-16
+
+Le coordonnateur peut décider de ne pas inclure une entité particulière dans le périmètre de calcul des exigences
+complémentaires en matière d'adéquation des fonds propres dans les cas suivants :
+
+a) Elle est située dans un Etat qui n'est pas partie à l'accord sur l'Espace économique européen où des obstacles juridiques
+empêchent le transfert des informations nécessaires ;
+
+b) Elle présente un intérêt négligeable au regard des objectifs de la surveillance complémentaire ;
+
+c) Son inclusion dans le périmètre de calcul est inopportune au regard des objectifs de cette surveillance complémentaire.
+Dans ce cas, le coordonnateur consulte, sauf urgence, les autres autorités compétentes concernées.
+
+Toutefois, si plusieurs entités sont à exclure sur la base du b, mais que, collectivement, elles présentent un intérêt non
+négligeable, elles sont incluses dans le périmètre de calcul.
+
+Lorsque le coordonnateur n'inclut pas une entité réglementée dans le périmètre de calcul dans l'un des cas visés aux points b
+et c et que cette entité a son siège dans un Etat partie à l'accord sur l'Espace économique européen, l'entité qui se trouve
+à la tête du conglomérat financier doit fournir aux autorités compétentes de cet Etat, à leur demande, toute information de
+nature à faciliter la surveillance de l'entité réglementée.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 17
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. A334-9 (Ab)
 
 
 #### Chapitre V : Tarifs et frais d'acquisition et de gestion
@@ -79551,6 +80370,48 @@ Ces états sont établis dans la forme fixée en annexe au présent article.
 
 	  - Code des assurances - art. A332-7 (M)
 	  - Code des assurances - art. A344-6 (Ab)
+
+
+###### Article A344-14-1
+
+Lorsqu'en application de l'article L. 334-9, la commission de contrôle est coordonnateur de la surveillance complémentaire
+des entités réglementées appartenant à un conglomérat financier, l'entité réglementée placée à la tête du conglomérat
+financier fournit chaque année à la commission de contrôle, avant le 30 avril, un dossier constitué conformément à l'annexe
+au présent article.
+
+Lorsque le conglomérat financier n'a pas d'entité réglementée placée à sa tête, le dossier est transmis par la compagnie
+financière holding mixte ou par l'entité réglementée désignée par la commission de contrôle après consultation des autres
+autorités compétentes définies au 11° de l'article L. 334-2 et du conglomérat financier.
+
+Le dossier est certifié par le représentant légal de l'entité transmettant le dossier, sous la formule suivante : "Le présent
+document, comprenant x feuillets numérotés, est certifié, sous peine de l'application des sanctions prévues à l'article L.
+310-28 du code des assurances, conforme aux écritures des entités appartenant au conglomérat financier, et aux dispositions
+du titre IV du livre III du même code".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-19 art. 3 JORF 21 septembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. A321-1 (V)
+	  - Code des assurances - art. A322-1 (V)
+	  - Code des assurances - art. A334-6 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-2 (M)
+	  - Code des assurances - art. L334-9 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
 
 
 ###### Article A344-15
@@ -86735,6 +87596,283 @@ points de base à chacun des taux retenus.
 	**Abrogé par**:
 
 	  - Arrêté du 28 décembre 2015 - art. 2
+
+
+###### Article Annexe art. A344-14-1
+
+I.-Le dossier est établi sur la base des comptes du dernier exercice. Sous réserve des adaptations prévues au II, il comprend
+les éléments suivants : 
+
+a) Les éléments mentionnés à l'annexe I à l'article A. 344-14. Toutefois, lorsqu'il est fait usage de la faculté, prévue à
+l'article R. 334-41, de calculer la marge ajustée de la même façon que les exigences complémentaires de fonds propres d'un
+conglomérat financier, l'état G2 n'est pas fourni et les informations prévues à cet état sont portées dans l'état G20 défini
+ci-après : 
+
+b) Etat G20-Exigences complémentaires 
+
+en matière d'adéquation des fonds propres 
+
+Un premier tableau indique les exigences de solvabilité du secteur financier définies au II de l'article A. 334-14, en
+distinguant au minimum les exigences relatives au secteur des assurances de celles relatives au secteur bancaire et des
+services d'investissement. 
+
+Un second tableau indique les fonds propres du conglomérat financier définis au I de l'article A. 334-14 avec leur
+décomposition par catégorie d'éléments de fonds propres et en distinguant les capitaux transsectoriels, les éléments du
+secteur des assurances et ceux du secteur bancaire et des services d'investissement. 
+
+c) Etat G21-Concentrations de risques 
+
+Tableau A : risque de contrepartie 
+
+Le tableau indique, pour chaque contrepartie et conformément au modèle ci-dessous, le montant agrégé des risques sur cette
+contrepartie, provenant notamment d'instruments financiers, de prêts, de garanties et cautions, de contrats d'assurance ou de
+réassurance. Sont toutefois exclus les placements d'assurance pour lequel le risque de placement est intégralement supporté
+par les assurés, ou dont la contrepartie est un Etat membre de l'OCDE ou un organisme international à caractère public dont
+un ou plusieurs Etats membres de l'Union européenne font partie. En outre, sont seulement indiquées les contreparties pour
+lesquelles le montant brut agrégé excède 300 millions d'euros ou 10 % des fonds propres du conglomérat financier. Une
+contrepartie est soit une société isolée, soit plusieurs sociétés appartenant au même groupe au sens du 1° de l'article R.
+332-13. Le tableau fait apparaître le montant agrégé des risques de contrepartie pour le secteur de l'assurance, d'une part,
+pour le secteur bancaire et des entreprises d'investissement, d'autre part.A cette fin, il est considéré que la compagnie
+financière holding mixte appartient au secteur financier le plus important. 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="98">
+
+NOM 
+
+de la contrepartie 
+
+</td>
+      <td width="83">
+
+MONTANTS 
+
+bruts 
+
+</td>
+      <td width="106">
+
+DÉPRÉCIATION 
+
+</td>
+      <td width="85">
+
+MONTANTS 
+
+nets 
+
+de provisions 
+
+</td>
+      <td width="95">
+
+DÉDUCTIONS 
+
+</td>
+      <td width="73">
+
+RISQUES 
+
+après 
+
+déduction 
+
+</td>
+      <td width="73">
+
+RISQUES 
+
+nets 
+
+</td>
+    </tr>
+    <tr>
+      <td width="98">
+
+Contrepartie X 
+
+</td>
+      <td width="83">
+      </td><td width="106">
+      </td><td width="85">
+      </td><td width="95">
+      </td><td width="73">
+      </td><td width="73">
+    </td></tr>
+    <tr>
+      <td width="98">
+
+Total du secteur des assurances 
+
+</td>
+      <td width="83">
+      </td><td width="106">
+      </td><td width="85">
+      </td><td width="95">
+      </td><td width="73">
+      </td><td width="73">
+    </td></tr>
+    <tr>
+      <td width="98">
+
+Total du secteur bancaire et des services d'investissement 
+
+</td>
+      <td width="83">
+      </td><td width="106">
+      </td><td width="85">
+      </td><td width="95">
+      </td><td width="73">
+      </td><td width="73">
+    </td></tr>
+    <tr>
+      <td width="98">
+
+Total 
+
+</td>
+      <td width="83">
+      </td><td width="106">
+      </td><td width="85">
+      </td><td width="95">
+      </td><td width="73">
+      </td><td width="73">
+    </td></tr>
+    <tr>
+      <td width="98">
+
+Contrepartie Y 
+
+</td>
+      <td width="83">
+      </td><td width="106">
+      </td><td width="85">
+      </td><td width="95">
+      </td><td width="73">
+      </td><td width="73">
+    </td></tr>
+  </tbody>
+</table>
+
+Tableau B : risque de placement en actions et en immobilier 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="205">
+
+</td>
+      <td width="205">
+
+VALEUR NETTE 
+
+comptable 
+
+des placements en actions 
+
+</td>
+      <td width="205">
+
+VALEUR NETTE 
+
+comptable 
+
+des placements immobiliers 
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+Secteur des assurances 
+
+</td>
+      <td width="205">
+      </td><td width="205">
+    </td></tr>
+    <tr>
+      <td width="205">
+
+Secteur bancaire et des services d'investissement 
+
+</td>
+      <td width="205">
+      </td><td width="205">
+    </td></tr>
+    <tr>
+      <td width="205">
+
+Total 
+
+</td>
+      <td width="205">
+      </td><td width="205">
+    </td></tr>
+  </tbody>
+</table>
+
+d) Etat G22-Transactions intragroupes importantes 
+
+Doit être déclarée toute transaction intragroupe dont le montant excède 5 % des exigences de solvabilité relatives au secteur
+financier du conglomérat financier. Pour chaque transaction intragroupe soumise à l'obligation de déclaration, sont indiquées
+les caractéristiques de la transaction, selon le modèle ci-après. 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="125">
+
+Type de transaction 
+
+</td>
+      <td width="120">
+
+Date 
+
+</td>
+      <td width="120">
+
+Montant 
+
+</td>
+      <td width="249">
+
+Description de l'opération (contreparties, sens, objectifs poursuivis...). 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Pour les engagements figurant dans le tableau des engagements reçus et donnés ou le hors-bilan, le montant est celui repris
+dans ces états comptables. 
+
+Doit également être déclaré tout ensemble de transactions intragroupes d'un même type lorsque le montant total de ces
+transactions excède le même seuil. Pour chaque type de transaction intragroupe soumise à cette obligation de déclaration, est
+indiqué le montant total des transactions. 
+
+II.-La Commission de contrôle définit, après consultation des autres autorités compétentes concernées et du conglomérat
+financier, les seuils de déclaration appropriés. 
+
+Après consultation des autres autorités compétentes concernées définies au 11° de l'article L. 334-2 et du conglomérat
+financier, elle détermine les autres catégories de risques à inclure dans l'état G21, compte tenu de la structure du
+conglomérat financier et de sa gestion des risques.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 17
+
+	**Cite**:
+
+	  - Code des assurances - art. A334-14 (Ab)
+	  - Code des assurances - art. A344-14
+	  - Code des assurances - art. L334-2
+	  - Code des assurances - art. R332-13
+	  - Code des assurances - art. R334-41
 
 
 ###### Article Annexe à l'article A344-3
