@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-09-21
+Version Consolidée au 2005-11-30
 
 # Partie législative
 
@@ -21776,6 +21776,123 @@ Les dispositions de l'article L321-6 sont transférées sous l'article L322-2-3 
 	  - Code des assurances - art. L321-6 (T)
 
 
+#### Chapitre VIII : L'assurance des risques de catastrophes technologiques.
+
+###### Article R128-1
+
+L'état de catastrophe technologique est constaté en cas de survenance d'un accident rendant inhabitables plus de cinq cents
+logements. Le préfet désigne les services en charge du recueil des informations nécessaires au constat.
+
+L'état de catastrophe technologique est constaté, dans un délai maximal de quinze jours, par un arrêté conjoint du ministre
+chargé de l'économie, du ministre chargé de la sécurité civile et du ministre chargé de l'environnement, publié au Journal
+officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°90-697 1990-08-01
+
+	**Créé par**:
+
+	  - Décret n°2005-1466 du 28 novembre 2005 - art. 1 () JORF 30 novembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. R128-4 (V)
+	  - Code des assurances - art. R421-78 (V)
+
+
+###### Article R128-2
+
+La réparation intégrale au titre de l'état de catastrophe technologique doit permettre au propriétaire des biens immobiliers
+désignés à l'article L. 128-2 d'être indemnisé sans plafond ni déduction de franchise. 
+
+La réparation intégrale doit permettre à son propriétaire, lorsque l'ampleur des dégâts subis par un immeuble rend impossible
+sa réparation, de recouvrer dans un secteur comparable la propriété d'un immeuble de consistance et de confort équivalents. 
+
+Dans les limites des valeurs déclarées ou des capitaux assurés au contrat, les biens mobiliers sont indemnisés à leur valeur
+de remplacement sans application des coefficients de vétusté prévus au contrat et sans déduction de la franchise
+contractuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°90-697 1990-08-01
+
+	**Créé par**:
+
+	  - Décret n°2005-1466 du 28 novembre 2005 - art. 1 () JORF 30 novembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L128-2 (V)
+
+
+###### Article R128-3
+
+Les biens à usage professionnel placés dans les locaux à usage d'habitation ne sont pas indemnisables au titre des articles
+L. 128-1 et L. 128-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°90-697 1990-08-01
+
+	**Créé par**:
+
+	  - Décret n°2005-1466 du 28 novembre 2005 - art. 1 () JORF 30 novembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L128-1 (V)
+
+
+###### Article R128-4
+
+Lorsque le montant des indemnités versées à la victime en application des articles L. 128-1 à L. 128-3 : 
+
+1° Est inférieur à 2 000 euros, au titre de dommages autres que ceux affectant un véhicule terrestre à moteur ; 
+
+2° Est inférieur à 325 euros, au titre de dommages affectant un véhicule terrestre à moteur, 
+
+la victime est présumée avoir subi les dommages mentionnés au descriptif et les indemnités sont présumées réparer lesdits
+dommages dans les conditions fixées par les articles L. 128-1 à L. 128-3, même s'il n'a pas été procédé à une expertise. 
+
+Lorsque le montant de ces indemnités : 
+
+1° Est compris entre 2 000 euros et 100 000 euros, au titre de dommages autres que ceux affectant un véhicule terrestre à
+moteur ; 
+
+2° Est compris entre 325 euros et 6 500 euros, au titre de dommages affectant un véhicule terrestre à moteur, 
+
+la victime est présumée avoir subi les dommages mentionnés au descriptif et les indemnités sont présumées réparer lesdits
+dommages dans les conditions fixées par les articles L. 128-1 à L. 128-3, à condition qu'il ait été procédé au moins à une
+expertise par un expert choisi par son assureur ou le fonds de garantie. 
+
+Les montants mentionnés au présent article sont révisés en fonction des variations de l'indice du coût de la construction
+publié par l'Institut national de la statistique et des études économiques constatées entre la date de publication du décret
+n° 2005-1466 du 28 novembre 2005 et la date de publication de l'arrêté mentionné à l'article R. 128-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°90-697 1990-08-01
+
+	**Cite**:
+
+	  - Décret n°2005-1466 du 28 novembre 2005 (V)
+	  - Code des assurances - art. L128-1 (V)
+	  - Code des assurances - art. R128-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2005-1466 du 28 novembre 2005 - art. 1 () JORF 30 novembre 2005
+
+
 ### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation
 
 #### Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte.
@@ -43531,6 +43648,31 @@ l'immeuble sinistré.
 
 	  - Code des assurances - art. L421-17 (V)
 	  - Code des assurances - art. R421-75 (V)
+
+
+##### Section XI : Dispositions spéciales aux catastrophes technologiques
+
+###### Article R421-78
+
+Le plafond mentionné à l'article L. 421-16 est de 100 000 euros. Ce montant est révisé en fonction des variations de l'indice
+du coût de la construction publié par l'Institut national de la statistique et des études économiques constatées entre la
+date de publication du décret n° 2005-1466 du 28 novembre 2005 et la date de publication de l'arrêté mentionné à l'article R.
+128-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2005-1466 du 28 novembre 2005 - art. 2 () JORF 30 novembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L421-16 (V)
+	  - Code des assurances - art. R128-1 (V)
 
 
 #### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
