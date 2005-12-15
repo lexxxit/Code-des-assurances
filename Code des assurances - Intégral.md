@@ -1,9 +1,27 @@
 # Code des assurances  
-Version Consolidée au 2005-12-01
+Version Consolidée au 2005-12-16
 
 # Partie législative
 
 ## Livre Ier : Le contrat
+
+###### Article L100-1
+
+Pour l'application du présent livre, les mots : "la France", les mots : "en France", et les mots : "territoire de la
+République française" désignent la France métropolitaine et les collectivités territoriales régies par l'article 73 de la
+Constitution. Sauf pour les dispositions qui concernent la libre prestation de services et la liberté d'établissement, ces
+mots désignent également Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
 
 ### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes
 
@@ -136,54 +154,6 @@ L'autorité administrative peut imposer l'usage de clauses types de contrats.
 
 	  - Code des assurances - art. L433-3 (Ab)
 	  - Code des assurances - art. R111-2 (VT)
-
-
-###### Article L111-5
-
-I. Les dispositions des titres Ier, II et III du livre Ier, dans la rédaction du présent code antérieure à la loi n° 91-716
-du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans les territoires
-d'outre-mer, à l'exception, toutefois, des articles L. 122-7, L. 124-4, L. 125-1 à L. 125-6, L. 132-30 et L. 132-31.
-
-Les articles L. 122-7 et L. 125-1 à L. 125-6 sont cependant applicables dans le territoire des îles Wallis-et-Futuna, à
-l'exception du premier et du quatrième alinéa de l'article L. 125-6 et sous réserve des adaptations suivantes :
-
-- les mots : "et les dommages mentionnés à l'article L. 242-1" figurant au deuxième alinéa de l'article L. 125-5 sont
-supprimés ;
-
-- les mots : "Cette obligation ne s'impose pas non plus" figurant au deuxième alinéa de l'article L. 125-6 sont remplacés par
-les mots : "L'obligation prévue au premier alinéa de l'article L. 125-2 ne s'impose pas".
-
-II. Les dispositions des titres Ier, II et III du livre Ier sont applicables à Mayotte, à l'exclusion des articles L. 124-4,
-L. 132-30 et L. 132-31.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°91-716 1991-07-26
-	  - Code des assurances - art. L122-7 (M)
-	  - Code des assurances - art. L124-4 (V)
-	  - Code des assurances - art. L125-5 (V)
-	  - Code des assurances - art. L132-30 (M)
-	  - Code des assurances - art. L132-31 (V)
-	  - Code des assurances L122-7, L124-4, L125-1 à L125-6, L132-30, L132-31, L125-5
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-352 du 19 avril 2000 - art. 1 (V) JORF 22 avril 2000 en vigueur le 1er juillet 2000
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ###### Article L111-6
@@ -347,205 +317,204 @@ Les dispositions de l'alinéa précédent ne sont pas applicables aux assurances
 
 ###### Article L112-2-1
 
-I. - 1° La fourniture à distance d'opérations d'assurance à un consommateur est régie par les dispositions du présent livre
-et par celles des dispositions des sous-sections 2 et 3 de la section 2 du chapitre Ier du titre II du livre Ier du code de
-la consommation, à l'exception des articles L. 121-20-10, L. 121-20-12 et L. 121-20-17, ci-après reproduites :
+I.-1° La fourniture à distance d'opérations d'assurance à un consommateur est régie par les dispositions du présent livre et
+par celles des dispositions des sous-sections 2 et 3 de la section 2 du chapitre Ier du titre II du livre Ier du code de la
+consommation, à l'exception des articles L. 121-20-10, L. 121-20-12 et L. 121-20-17, ci-après reproduites : 
 
-"Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers
+" Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers 
 
-"Art. L. 121-20-8
+" Art.L. 121-20-8 
 
-"La présente sous-section régit la fourniture de services financiers à un consommateur dans le cadre d'un système de vente ou
-de prestation de services à distance organisé par le fournisseur ou par un intermédiaire qui, pour ce contrat, utilise
-exclusivement une ou plusieurs techniques de communication à distance jusqu'à, et y compris, la conclusion du contrat.
+" La présente sous-section régit la fourniture de services financiers à un consommateur dans le cadre d'un système de vente
+ou de prestation de services à distance organisé par le fournisseur ou par un intermédiaire qui, pour ce contrat, utilise
+exclusivement une ou plusieurs techniques de communication à distance jusqu'à, et y compris, la conclusion du contrat. 
 
-"Elle s'applique aux services mentionnés aux livres Ier à III et au titre V du livre V du code monétaire et financier ainsi
+" Elle s'applique aux services mentionnés aux livres Ier à III et au titre V du livre V du code monétaire et financier ainsi
 que les opérations pratiquées par les entreprises régies par le code des assurances, par les mutuelles et unions régies par
 le livre II du code de la mutualité et par les institutions de prévoyance et unions régies par le titre III du livre IX du
-code de la sécurité sociale sans préjudice des dispositions spécifiques prévues par ces codes."
+code de la sécurité sociale sans préjudice des dispositions spécifiques prévues par ces codes. " 
 
-"Art. L. 121-20-9
+" Art.L. 121-20-9 
 
-"Pour les contrats portant sur des services financiers comportant une première convention de service suivie d'opérations
+" Pour les contrats portant sur des services financiers comportant une première convention de service suivie d'opérations
 successives ou d'une série d'opérations distinctes, de même nature, échelonnées dans le temps, les dispositions de la
 présente sous-section ne s'appliquent qu'à la première convention de service. Pour les contrats renouvelables par tacite
 reconduction, les dispositions de la présente sous-section ne s'appliquent qu'en vue et lors de la conclusion du contrat
-initial.
+initial. 
 
-"En l'absence de première convention de service, lorsque les opérations successives ou distinctes, de même nature,
+" En l'absence de première convention de service, lorsque les opérations successives ou distinctes, de même nature,
 échelonnées dans le temps, sont exécutées entre les mêmes parties, les dispositions de l'article L. 121-20-10 ne sont
 applicables qu'à la première opération. Cependant, lorsqu'aucune opération de même nature n'est effectuée pendant plus d'un
-an, ces dispositions s'appliquent à l'opération suivante, considérée comme une première opération."
+an, ces dispositions s'appliquent à l'opération suivante, considérée comme une première opération. " 
 
-"Art. L. 121-20-11
+" Art.L. 121-20-11 
 
-"Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa disposition et auquel il a accès en temps
+" Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa disposition et auquel il a accès en temps
 utile et avant tout engagement, les conditions contractuelles ainsi que les informations mentionnées à l'article L.
 121-20-10. Le fournisseur peut remplir ses obligations au titre de l'article L. 121-20-10 et du présent article par l'envoi
 au consommateur d'un document unique, à la condition qu'il s'agisse d'un support écrit ou d'un autre support durable et que
-les informations mentionnées ne varient pas jusqu'à et y compris la conclusion du contrat.
+les informations mentionnées ne varient pas jusqu'à et y compris la conclusion du contrat. 
 
-"Le fournisseur exécute ses obligations de communication immédiatement après la conclusion du contrat, lorsque celui-ci a été
-conclu à la demande du consommateur en utilisant une technique de communication à distance ne permettant pas la transmission
-des informations précontractuelles et contractuelles sur un support papier ou sur un autre support durable.
+" Le fournisseur exécute ses obligations de communication immédiatement après la conclusion du contrat, lorsque celui-ci a
+été conclu à la demande du consommateur en utilisant une technique de communication à distance ne permettant pas la
+transmission des informations précontractuelles et contractuelles sur un support papier ou sur un autre support durable. 
 
-"A tout moment au cours de la relation contractuelle, le consommateur a le droit, s'il en fait la demande, de recevoir les
+" A tout moment au cours de la relation contractuelle, le consommateur a le droit, s'il en fait la demande, de recevoir les
 conditions contractuelles sur un support papier. En outre, le consommateur a le droit de changer les techniques de
 communication à distance utilisées, à moins que cela ne soit incompatible avec le contrat à distance conclu ou avec la nature
-du service financier fourni."
+du service financier fourni. " 
 
-"Art. L. 121-20-13
+" Art.L. 121-20-13 
 
-"I. - Les contrats pour lesquels s'applique le délai de rétractation mentionné à l'article L. 121-20-12 ne peuvent recevoir
-de commencement d'exécution par les parties avant l'arrivée du terme de ce délai sans l'accord du consommateur. Lorsque
-celui-ci exerce son droit de rétractation, il ne peut être tenu qu'au paiement proportionnel du service financier
-effectivement fourni, à l'exclusion de toute pénalité.
+" I.-Les contrats pour lesquels s'applique le délai de rétractation mentionné à l'article L. 121-20-12 ne peuvent recevoir de
+commencement d'exécution par les parties avant l'arrivée du terme de ce délai sans l'accord du consommateur. Lorsque celui-ci
+exerce son droit de rétractation, il ne peut être tenu qu'au paiement proportionnel du service financier effectivement
+fourni, à l'exclusion de toute pénalité. 
 
-"Le fournisseur ne peut exiger du consommateur le paiement du service mentionné au premier alinéa que s'il peut prouver que
+" Le fournisseur ne peut exiger du consommateur le paiement du service mentionné au premier alinéa que s'il peut prouver que
 le consommateur a été informé du montant dû, conformément à l'article L. 121-20-10. Toutefois, il ne peut pas exiger ce
 paiement s'il a commencé à exécuter le contrat avant l'expiration du délai de rétractation sans demande préalable du
-consommateur.
+consommateur. 
 
-"Pour les contrats de crédit à la consommation prévus au chapitre Ier du titre Ier du livre III, même avec l'accord du
+" Pour les contrats de crédit à la consommation prévus au chapitre Ier du titre Ier du livre III, même avec l'accord du
 consommateur, ils ne peuvent recevoir de commencement d'exécution durant les sept premiers jours, sauf s'agissant des
 contrats de crédit affecté mentionnés au IV de l'article L. 121-20-12, qui ne peuvent recevoir de commencement d'exécution
-durant les trois premiers jours.
+durant les trois premiers jours. 
 
-"II. - Le fournisseur est tenu de rembourser au consommateur dans les meilleurs délais et au plus tard dans les trente jours
+" II.-Le fournisseur est tenu de rembourser au consommateur dans les meilleurs délais et au plus tard dans les trente jours
 toutes les sommes qu'il a perçues de celui-ci en application du contrat, à l'exception du montant mentionné au premier alinéa
 du I. Ce délai commence à courir le jour où le fournisseur reçoit notification par le consommateur de sa volonté de se
 rétracter. Au-delà du délai de trente jours, la somme due est, de plein droit, productive d'intérêts au taux légal en
-vigueur.
+vigueur. 
 
-"Le consommateur restitue au fournisseur dans les meilleurs délais et au plus tard dans les trente jours toute somme et tout
+" Le consommateur restitue au fournisseur dans les meilleurs délais et au plus tard dans les trente jours toute somme et tout
 bien qu'il a reçus de ce dernier. Ce délai commence à courir à compter du jour où le consommateur communique au fournisseur
-sa volonté de se rétracter."
+sa volonté de se rétracter. " 
 
-"Art. L. 121-20-14
+" Art.L. 121-20-14 
 
-"Les dispositions de l'article L. 34-5 du code des postes et communications électroniques, reproduites à l'article L.
-121-20-5, sont applicables aux services financiers.
+" Les dispositions de l'article L. 34-5 du code des postes et communications électroniques, reproduites à l'article L.
+121-20-5, sont applicables aux services financiers. 
 
-"Les techniques de communication à distance destinées à la commercialisation de services financiers autres que celles
+" Les techniques de communication à distance destinées à la commercialisation de services financiers autres que celles
 mentionnées à l'article L. 34-5 du code des postes et communications électroniques ne peuvent être utilisées que si le
-consommateur n'a pas manifesté son opposition.
+consommateur n'a pas manifesté son opposition. 
 
-"Les mesures prévues au présent article ne doivent pas entraîner de frais pour le consommateur."
+" Les mesures prévues au présent article ne doivent pas entraîner de frais pour le consommateur. " 
 
-"Sous-section 3 : Dispositions communes
+" Sous-section 3 : Dispositions communes 
 
-"Art. L. 121-20-15
+" Art.L. 121-20-15 
 
-"Lorsque les parties ont choisi la loi d'un Etat non membre de la Communauté européenne pour régir le contrat, le juge devant
-lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la loi de
-la résidence habituelle du consommateur assurant la transposition de la directive 97/7/CE du Parlement européen et du Conseil
-du 20 mai 1997 concernant la protection des consommateurs en matière de contrats à distance et de la directive 2002/65/CE du
-Parlement européen et du Conseil du 23 septembre 2002, concernant la commercialisation à distance de services financiers
-auprès des consommateurs, lorsque le contrat présente un lien étroit avec le territoire d'un ou plusieurs Etats membres de la
-Communauté européenne ; cette condition est présumée remplie si la résidence des consommateurs est située dans un Etat
-membre."
+" Lorsque les parties ont choisi la loi d'un Etat non membre de la Communauté européenne pour régir le contrat, le juge
+devant lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la
+loi de la résidence habituelle du consommateur assurant la transposition de la directive 97 / 7 / CE du Parlement européen et
+du Conseil du 20 mai 1997 concernant la protection des consommateurs en matière de contrats à distance et de la directive
+2002 / 65 / CE du Parlement européen et du Conseil du 23 septembre 2002, concernant la commercialisation à distance de
+services financiers auprès des consommateurs, lorsque le contrat présente un lien étroit avec le territoire d'un ou plusieurs
+Etats membres de la Communauté européenne ; cette condition est présumée remplie si la résidence des consommateurs est située
+dans un Etat membre. " 
 
-"Art. L. 121-20-16
+" Art.L. 121-20-16
 
-"Les dispositions de la présente section sont d'ordre public ;"
+" Les dispositions de la présente section sont d'ordre public ; " 
 
-2° Pour l'application du 1°, il y a lieu d'entendre :
+2° Pour l'application du 1°, il y a lieu d'entendre : 
 
-a) "Le souscripteur, personne physique, qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale ou
-professionnelle" là où est mentionné "le consommateur" ;
+a) " Le souscripteur, personne physique, qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale ou
+professionnelle " là où est mentionné " le consommateur " ; 
 
-b) "L'assureur ou l'intermédiaire d'assurance" là où est mentionné "le fournisseur" ;
+b) " L'assureur ou l'intermédiaire d'assurance " là où est mentionné " le fournisseur " ; 
 
-c) "Le montant total de la prime ou cotisation" là où est mentionné "le prix total" ;
+c) " Le montant total de la prime ou cotisation " là où est mentionné " le prix total " ; 
 
-d) "Droit de renonciation" là où est mentionné "le droit de rétractation" ;
+d) " Droit de renonciation " là où est mentionné " le droit de rétractation " ; 
 
-e) "Le II de l'article L. 112-2-1 du code des assurances" là où est mentionné "l'article L. 121-20-12" ;
+e) " Le II de l'article L. 112-2-1 du code des assurances " là où est mentionné " l'article L. 121-20-12 " ; 
 
-f) "Le III de l'article L. 112-2-1 du code des assurances" là où est mentionné "l'article L. 121-20-10" ;
+f) " Le III de l'article L. 112-2-1 du code des assurances " là où est mentionné " l'article L. 121-20-10 " ; 
 
 3° Pour l'application de l'article L. 121-20-11 du code de la consommation, les conditions contractuelles doivent comprendre,
 outre les informations prévues selon les cas à l'article L. 112-2 ou à l'article L. 132-5-1, un modèle de lettre destiné à
-faciliter l'exercice du droit de renonciation lorsque ce droit existe.
+faciliter l'exercice du droit de renonciation lorsque ce droit existe. 
 
-II. - 1° Toute personne physique ayant conclu à des fins qui n'entrent pas dans le cadre de son activité commerciale ou
+II.-1° Toute personne physique ayant conclu à des fins qui n'entrent pas dans le cadre de son activité commerciale ou
 professionnelle un contrat à distance dispose d'un délai de quatorze jours calendaires révolus pour renoncer, sans avoir à
-justifier de motif ni à supporter de pénalités. Ce délai commence à courir :
+justifier de motif ni à supporter de pénalités. Ce délai commence à courir : 
 
-a) Soit à compter du jour où le contrat à distance est conclu ;
+a) Soit à compter du jour où le contrat à distance est conclu ; 
 
 b) Soit à compter du jour où l'intéressé reçoit les conditions contractuelles et les informations, conformément à l'article
-L. 121-20-11 du code de la consommation, si cette dernière date est postérieure à celle mentionnée au a ;
+L. 121-20-11 du code de la consommation, si cette dernière date est postérieure à celle mentionnée au a ; 
 
 2° Toutefois, en ce qui concerne les contrats d'assurance vie, le délai précité est porté à trente jours calendaires révolus.
-Ce délai commence à courir :
+Ce délai commence à courir : 
 
-a) Soit à compter du jour où l'intéressé est informé que le contrat à distance a été conclu ;
+a) Soit à compter du jour où l'intéressé est informé que le contrat à distance a été conclu ; 
 
 b) Soit à compter du jour où l'intéressé reçoit les conditions contractuelles et les informations, conformément à l'article
-L. 121-20-11, si cette dernière date est postérieure à celle mentionnée au a ;
+L. 121-20-11, si cette dernière date est postérieure à celle mentionnée au a ; 
 
-3° Le droit de renonciation ne s'applique pas :
+3° Le droit de renonciation ne s'applique pas : 
 
 a) Aux polices d'assurance de voyage ou de bagage ou aux polices d'assurance similaires à court terme d'une durée inférieure
-à un mois ;
+à un mois ; 
 
-b) Aux contrats d'assurance mentionnés à l'article L. 211-1 du présent code ;
+b) Aux contrats d'assurance mentionnés à l'article L. 211-1 du présent code ; 
 
 c) Aux contrats exécutés intégralement par les deux parties à la demande expresse du consommateur avant que ce dernier
-n'exerce son droit de renonciation.
+n'exerce son droit de renonciation. 
 
-III. - En temps utile avant la conclusion à distance d'un contrat le souscripteur reçoit les informations suivantes :
+III.-En temps utile avant la conclusion à distance d'un contrat le souscripteur reçoit les informations suivantes : 
 
 1° La dénomination de l'entreprise d'assurance contractante, l'adresse de son siège social, lorsque l'entreprise d'assurance
 est inscrite au registre du commerce et des sociétés, son numéro d'immatriculation, les coordonnées de l'autorité chargée de
-son contrôle ainsi que, le cas échéant, l'adresse de la succursale qui propose la couverture ;
+son contrôle ainsi que, le cas échéant, l'adresse de la succursale qui propose la couverture ; 
 
 2° Le montant total de la prime ou cotisation ou, lorsque ce montant ne peut être indiqué, la base de calcul de cette prime
-ou cotisation permettant au souscripteur de vérifier celle-ci ;
+ou cotisation permettant au souscripteur de vérifier celle-ci ; 
 
-3° La durée minimale du contrat ainsi que les garanties et exclusions prévues par celui-ci ;
+3° La durée minimale du contrat ainsi que les garanties et exclusions prévues par celui-ci ; 
 
 4° La durée pendant laquelle les informations fournies sont valables, les modalités de conclusion du contrat et de paiement
 de la prime ou cotisation ainsi que l'indication, le cas échéant, du coût supplémentaire spécifique à l'utilisation d'une
-technique de commercialisation à distance ;
+technique de commercialisation à distance ; 
 
-5° L'existence ou l'absence d'un droit à rétractation et, si ce droit existe, sa durée, les modalités pratiques de son
+5° L'existence ou l'absence d'un droit à renonciation et, si ce droit existe, sa durée, les modalités pratiques de son
 exercice notamment l'adresse à laquelle la notification de la renonciation doit être envoyée. Le souscripteur doit également
 être informé du montant de prime ou de cotisation que l'assureur peut lui réclamer en contrepartie de la prise d'effet de la
-garantie, à sa demande expresse, avant l'expiration du délai de renonciation ;
+garantie, à sa demande expresse, avant l'expiration du délai de renonciation ; 
 
 6° La loi sur laquelle l'assureur se fonde pour établir les relations précontractuelles avec le consommateur ainsi que la loi
 applicable au contrat et la langue que l'assureur s'engage à utiliser, avec l'accord du souscripteur, pendant la durée du
-contrat ;
+contrat ; 
 
 7° Les modalités d'examen des réclamations que le souscripteur peut formuler au sujet du contrat y compris, le cas échéant,
 l'existence d'une instance chargée en particulier de cet examen, sans préjudice pour lui d'intenter une action en justice
-ainsi que, le cas échéant, l'existence de fonds de garantie ou d'autres mécanismes d'indemnisation.
+ainsi que, le cas échéant, l'existence de fonds de garantie ou d'autres mécanismes d'indemnisation. 
 
 Les informations sur les obligations contractuelles communiquées en phase précontractuelle doivent être conformes à la loi
-applicable au contrat.
+applicable au contrat. 
 
 Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont fournies de manière claire et
-compréhensible par tout moyen adapté à la technique de commercialisation à distance utilisée.
+compréhensible par tout moyen adapté à la technique de commercialisation à distance utilisée. 
 
-IV. - L'assureur doit également indiquer, pour les contrats d'assurance vie les informations mentionnées à l'article L.
+IV.-L'assureur doit également indiquer, pour les contrats d'assurance vie les informations mentionnées à l'article L.
 132-5-1, notamment le montant maximal des frais qu'il peut prélever et, lorsque les garanties de ces contrats sont exprimées
 en unités de compte, les caractéristiques principales de celles-ci. Dans ce dernier cas, il doit en outre préciser qu'il ne
 s'engage que sur le nombre des unités de compte et non sur leur valeur qui peut être sujette à des fluctuations à la hausse
 comme à la baisse.
 
-V. - Un décret en Conseil d'Etat fixe les informations communiquées au souscripteur en cas de communication par téléphonie
-vocale.
+V.-Un décret en Conseil d'Etat fixe les informations communiquées au souscripteur en cas de communication par téléphonie
+vocale. 
 
-VI. - Les infractions aux dispositions du présent article sont constatées et sanctionnées par la Commission de contrôle des
-assurances des mutuelles et des institutions de prévoyance dans les conditions prévues à la section 2 du chapitre unique du
-titre Ier du livre III.
+VI.-Les infractions aux dispositions du présent article sont constatées et sanctionnées par l'Autorité de contrôle des
+assurances et des mutuelles dans les conditions prévues à la section 2 du chapitre unique du titre Ier du livre III. 
 
 Les infractions constituées par l'absence matérielle des éléments d'information prévus au III du présent article, ainsi que
 le refus de l'assureur de rembourser le souscripteur personne physique dans les conditions fixées à l'article L. 121-20-13 du
 code de la consommation peuvent également être constatées et poursuivies dans les conditions prévues à l'article L. 121-20-17
-du même code.
+du même code. 
 
 Les conditions d'application du présent article sont définies en tant que de besoin par décret en Conseil d'Etat.
 
@@ -555,9 +524,9 @@ Les conditions d'application du présent article sont définies en tant que de b
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 2 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+	  - Loi n°2006-387 du 31 mars 2006 - art. 25 (V) JORF 1 avril 2006 en vigueur le 1er décembre 2005
 
 	**Cite**:
 
@@ -568,6 +537,16 @@ Les conditions d'application du présent article sont définies en tant que de b
 	  - Code des assurances - art. L112-2 (M)
 	  - Code des assurances - art. L132-5-1 (M)
 	  - Code des assurances L121-20-10, L121-20-12, L121-20-17, L121-20-5, L112-2-1, L112-2, L132-5-1, L121-20-11
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-11 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-13 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-14 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-15 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-16 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-8 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-9 (V)
 
 	**Cité par**:
 
@@ -3498,18 +3477,18 @@ bénéficiaire de l'endossement et être signé de l'endosseur.
 ###### Article L132-7
 
 L'assurance en cas de décès est de nul effet si l'assuré se donne volontairement la mort au cours de la première année du
-contrat.
+contrat. 
 
 L'assurance en cas de décès doit couvrir le risque de suicide à compter de la deuxième année du contrat. En cas
 d'augmentation des garanties en cours de contrat, le risque de suicide, pour les garanties supplémentaires, est couvert à
-compter de la deuxième année qui suit cette augmentation.
+compter de la deuxième année qui suit cette augmentation. 
 
-Les dispositions du premier alinéa ne sont pas applicables aux contrats mentionnés à l'article L. 140-1 souscrits par les
-organismes mentionnés au dernier alinéa de l'article L. 140-6.
+Les dispositions du premier alinéa ne sont pas applicables aux contrats mentionnés à l'article L. 141-1 souscrits par les
+organismes mentionnés au dernier alinéa de l'article L. 141-6. 
 
 L'assurance en cas de décès doit couvrir dès la souscription, dans la limite d'un plafond qui sera défini par décret, les
-contrats mentionnés à l'article L. 140-1 souscrits par les organismes mentionnés à la dernière phrase du dernier alinéa de
-l'article L. 140-6, pour garantir le remboursement d'un prêt contracté pour financer l'acquisition du logement principal de
+contrats mentionnés à l'article L. 141-1 souscrits par les organismes mentionnés à la dernière phrase du dernier alinéa de
+l'article L. 141-6, pour garantir le remboursement d'un prêt contracté pour financer l'acquisition du logement principal de
 l'assuré.
 
 **Liens relatifs à cet article**
@@ -3518,26 +3497,25 @@ l'assuré.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à la date d'entrée en vigueur), II (ouverture des successions)
-	  - TXT_SOURCE: Décret n°2002-452 du 28 mars 2002
-	  - TXT_SOURCE: Décret n°2002-452 du 28 mars 2002 - art. 1 ()
-
-	**Modifié par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 5 () JORF 4 décembre 2001
-
 	**Cité par**:
 
 	  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
 	  - Code des assurances - art. L132-18 (V)
 	  - Code des assurances - art. R132-5 (V)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2002-452 du 28 mars 2002
+	  - TXT_SOURCE: Décret n°2002-452 du 28 mars 2002 - art. 1 ()
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 15 (V) JORF 16 décembre 2005
+
 	**Cite**:
 
-	  - Code des assurances - art. L140-1 (T)
-	  - Code des assurances - art. L140-6 (T)
+	  - Code des assurances - art. L141-1 (V)
+	  - Code des assurances - art. L141-6 (V)
 
 
 ###### Article L132-8
@@ -3565,6 +3543,9 @@ peut être opérée, à peine de nullité, qu'avec l'accord de l'assuré, lorsqu
 désignation ou cette substitution peut être réalisée soit par voie d'avenant au contrat, soit en remplissant les formalités
 édictées par l'article 1690 du code civil, soit par endossement quand la police est à ordre, soit par voie testamentaire.
 
+Lorsque l'assureur est informé du décès de l'assuré, l'assureur est tenu d'aviser le bénéficiaire, si les coordonnées sont
+portées au contrat, de la stipulation effectuée à son profit.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -3573,13 +3554,7 @@ désignation ou cette substitution peut être réalisée soit par voie d'avenant
 
 	**Modifié par**:
 
-	  - Loi n°81-5 du 7 janvier 1981 - art. 7 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
-	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 7 () JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -3629,6 +3604,68 @@ contraire ne résulte des termes de la stipulation.
 	  - Code de la sécurité sociale. - art. L932-23 (VD)
 	  - Code des assurances - art. L131-1 (V)
 	  - Code des assurances - art. L441-2 (V)
+
+
+###### Article L132-9-1
+
+Le contrat comporte une information sur les conséquences de la désignation du ou des bénéficiaires et sur les modalités de
+cette désignation. Il précise que la clause bénéficiaire peut faire l'objet d'un acte sous seing privé ou d'un acte
+authentique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 8 () JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - Loi n°2007-1775 du 17 décembre 2007 - art. 4 (V)
+	  - Code des assurances - art. A132-9 (V)
+
+
+###### Article L132-9-2
+
+Toute personne physique ou morale peut demander par lettre à un ou plusieurs organismes professionnels représentatifs,
+habilités à cet effet par arrêté du ministre chargé de l'économie, à être informée de l'existence d'une stipulation effectuée
+à son bénéfice dans une police souscrite par une personne physique dont elle apporte, par tout moyen, la preuve du décès.
+
+Dans les quinze jours suivant la réception de la lettre mentionnée au premier alinéa, l'organisme transmet cette demande aux
+entreprises agréées pour exercer les opérations d'assurance dépendant de la durée de la vie humaine. Lorsque la personne
+morale ou physique mentionnée audit alinéa est désignée dans une police comme bénéficiaire, ces entreprises disposent d'un
+délai d'un mois pour l'informer de l'existence d'un capital ou d'une rente garantis payables à son bénéfice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 8 () JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - Arrêté du 19 décembre 2007 (V)
+	  - Code de la mutualité - art. R223-5 (V)
+	  - Code de la sécurité sociale. - art. L931-3-2 (V)
+	  - Code de la sécurité sociale. - art. L932-23-1 (V)
+	  - Code des assurances - art. A111-2 (V)
+	  - Code des assurances - art. A111-3 (V)
+	  - Code des assurances - art. A111-4 (V)
+	  - Code des assurances - art. A132-9-1 (V)
+	  - Code des assurances - art. A132-9-4 (V)
+	  - Code des assurances - art. A132-9-6 (V)
+	  - Code des assurances - art. Annexe à l'article A132-9-6 (V)
+	  - Code des assurances - art. L111-7 (V)
+	  - Code des assurances - art. L132-9-3 (VD)
+	  - Code des assurances - art. L132-9-4 (V)
+	  - Code des assurances - art. L310-9-1 (V)
 
 
 ###### Article L132-10
@@ -4085,7 +4122,14 @@ plan d'épargne retraite populaire ".
 
 ###### Article L132-22-1
 
-L'indemnité maximale, en cas de rachat, susceptible d'être retenue par l'assureur est fixée par décret.
+Pour chaque contrat d'assurance sur la vie ou de capitalisation, la valeur de rachat ou de transfert ne peut être inférieure
+de plus de 5 % à la valeur de rachat ou de transfert qui serait calculée sans que la provision mathématique ne tienne compte
+des chargements d'acquisition dudit contrat contenus dans les primes devant être versées par l'intéressé.
+
+**Nota:**
+
+Loi 2005-1564 du 15 décembre 2005 art. 13 II : Les dispositions du I s'appliquent aux contrats souscrits à l'issue d'un délai
+de deux ans à compter de la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -4095,16 +4139,7 @@ L'indemnité maximale, en cas de rachat, susceptible d'être retenue par l'assur
 
 	**Créé par**:
 
-	  - Loi n°85-608 1985-06-11 art. 5 JORF 20 juin 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
-
-	**Modifié par**:
-
-	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 13 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -4112,7 +4147,6 @@ L'indemnité maximale, en cas de rachat, susceptible d'être retenue par l'assur
 
 	**Nouveaux textes**:
 
-	  - Code des assurances - art. L331-2 (M)
 	  - Code des assurances - art. L331-2 (V)
 
 
@@ -4126,8 +4160,11 @@ Les contrats d'assurance de groupe en cas de vie dont les prestations sont liée
 comportent pas de possibilité de rachat. Toutefois, ces contrats doivent prévoir une faculté de rachat intervenant lorsque se
 produisent l'un ou plusieurs des événements suivants :
 
-- expiration des droits de l'assuré aux allocations d'assurance chômage prévues par le code du travail en cas de
-licenciement ;
+- expiration des droits de l'assuré aux allocations chômage prévues par le code du travail en cas de licenciement, ou le fait
+pour un assuré qui a exercé des fonctions d'administrateur, de membre du directoire ou de membre de conseil de surveillance,
+et n'a pas liquidé sa pension dans un régime obligatoire d'assurance vieillesse, de ne pas être titulaire d'un contrat de
+travail ou d'un mandat social depuis deux ans au moins à compter du non-renouvellement de son mandat social ou de sa
+révocation ;
 
 - cessation d'activité non salariée de l'assuré à la suite d'un jugement de liquidation judiciaire en application des
 dispositions de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ;
@@ -4194,18 +4231,10 @@ aux articles L620-1 et suivants.
 	**Cite**:
 
 	  - Loi n°85-98 1985-01-25
-	  - Code de la sécurité sociale. - art. L341-4 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
 
 	**Modifié par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 29 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 11 () JORF 16 décembre 2005
 
 
 ###### Article L132-24
@@ -4549,6 +4578,52 @@ d'un accord d'entreprise.
 	  - Code des assurances - art. L140-5 (T)
 
 
+###### Article L141-6
+
+Pour les contrats d'assurance de groupe au sens de l'article L. 141-1, autres que ceux qui sont régis par le titre Ier de la
+loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques, et pour
+les contrats collectifs de capitalisation présentant les mêmes caractéristiques que les contrats de groupe au sens de
+l'article L. 141-1, le souscripteur est, tant pour les adhésions au contrat que pour l'exécution de celui-ci, réputé agir, à
+l'égard de l'adhérent, de l'assuré et du bénéficiaire, en tant que mandataire de l'entreprise d'assurance auprès de laquelle
+le contrat a été souscrit, à l'exception des actes dont l'adhérent a été préalablement informé, dans des conditions fixées
+par arrêté du ministre chargé de l'économie, que le souscripteur n'a pas pouvoir pour les accomplir.    En cas de dissolution
+ou de liquidation de l'organisme souscripteur, le contrat se poursuit de plein droit entre l'entreprise d'assurance et les
+personnes antérieurement adhérentes au contrat de groupe.
+
+Le présent article ne s'applique pas aux contrats d'assurance en cas de vie dont les prestations sont liées à la cessation
+d'activité professionnelle, souscrits par une entreprise ou un groupe d'entreprises au profit de leurs salariés ou par un
+groupement professionnel représentatif d'entreprises au profit des salariés de celles-ci ou par une organisation
+représentative d'une profession non salariée ou d'agents des collectivités publiques au profit de ses membres. Il ne
+s'applique pas non plus aux contrats de groupe souscrits par un établissement de crédit, ayant pour objet la garantie de
+remboursement d'un emprunt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°89-1009 1989-12-31
+	  - Code des assurances - art. L141-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 15 (V) JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. A140-1 (T)
+	  - Code des assurances - art. A141-1 (V)
+	  - Code des assurances - art. L132-7 (V)
+	  - Code des assurances - art. L145-7 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L140-6 (T)
+
+
 #### Chapitre Ier : Dispositions générales relatives aux assurances de groupe.
 
 ###### Article L141-4
@@ -4602,54 +4677,6 @@ ne sont pas soumises aux dispositions du présent article.
 	**Anciens textes**:
 
 	  - Code des assurances - art. L140-4 (T)
-
-
-#### Chapitre Ier.
-
-###### Article L141-6
-
-Pour les contrats d'assurance de groupe au sens de l'article L. 140-1, autres que ceux qui sont régis par le titre Ier de la
-loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques, et pour
-les contrats collectifs de capitalisation présentant les mêmes caractéristiques que les contrats de groupe au sens de
-l'article L. 140-1, le souscripteur est, tant pour les adhésions au contrat que pour l'exécution de celui-ci, réputé agir, à
-l'égard de l'adhérent, de l'assuré et du bénéficiaire, en tant que mandataire de l'entreprise d'assurance auprès de laquelle
-le contrat a été souscrit, à l'exception des actes dont l'adhérent a été préalablement informé, dans des conditions fixées
-par arrêté du ministre chargé de l'économie, que le souscripteur n'a pas pouvoir pour les accomplir.    En cas de dissolution
-ou de liquidation de l'organisme souscripteur, le contrat se poursuit de plein droit entre l'entreprise d'assurance et les
-personnes antérieurement adhérentes au contrat de groupe.
-
-Le présent article ne s'applique pas aux contrats d'assurance en cas de vie dont les prestations sont liées à la cessation
-d'activité professionnelle, souscrits par une entreprise ou un groupe d'entreprises au profit de leurs salariés ou par un
-groupement professionnel représentatif d'entreprises au profit des salariés de celles-ci ou par une organisation
-représentative d'une profession non salariée ou d'agents des collectivités publiques au profit de ses membres. Il ne
-s'applique pas non plus aux contrats de groupe souscrits par un établissement de crédit, ayant pour objet la garantie de
-remboursement d'un emprunt.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°89-1009 1989-12-31
-	  - Code des assurances - art. L140-1 (T)
-
-	**Créé par**:
-
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
-
-	**Cité par**:
-
-	  - Code des assurances - art. A140-1 (T)
-	  - Code des assurances - art. A141-1 (V)
-	  - Code des assurances - art. L132-7 (V)
-	  - Code des assurances - art. L145-7 (V)
-
-	**Anciens textes**:
-
-	  - Code des assurances - art. L140-6 (T)
 
 
 #### Chapitre II.
@@ -5038,30 +5065,6 @@ réquisition, aura fait garantir d'autres risques par l'assureur.
 	  - Code des assurances - art. L160-7 (V)
 
 
-###### Article L160-9
-
-Comme il résulte de l'article L. 2234-19 du code de la défense, des décrets en Conseil d'Etat déterminent les conditions
-d'adaptation de la présente section aux départements et territoires d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-63 1959-01-06 art. 32
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2234-19 (V)
-
-
 ### Titre VII : Le contrat d'assurance maritime et d'assurance fluviale et lacustre
 
 #### Chapitre Ier : Dispositions générales.
@@ -5218,31 +5221,6 @@ constitution du fonds de limitation telles qu'elles sont prévues par les articl
 	  - Code des assurances - art. L124-3 (V)
 	  - Code des assurances - art. L173-23 (V)
 	  - Code des assurances - art. L173-24 (V)
-
-
-###### Article L171-6
-
-Le présent titre est applicable dans les territoires d'outre-mer et à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°92-665 du 16 juillet 1992 - art. 37 () JORF 17 juillet 1992
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 #### Chapitre II : Règles communes aux diverses assurances maritimes
@@ -7066,9 +7044,9 @@ régissant le contrat.
 	  - Code des assurances - art. L183-1 (V)
 
 
-### Titre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle
+### Titre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle et dispositions applicables à Mayotte et dans les îles Wallis et Futuna
 
-#### Chapitre I : Dispositions générales.
+#### Chapitre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle en matière d'assurance générale
 
 ###### Article L191-1
 
@@ -7081,9 +7059,9 @@ sous réserve des dispositions ci-après.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ###### Article L191-2
@@ -7108,9 +7086,9 @@ rapporte est situé dans ces départements.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ###### Article L191-3
@@ -7124,15 +7102,14 @@ faculté et qui sont contenues dans les articles L. 191-7, L. 192-2 et L. 192-3.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L191-7 (M)
-	  - Code des assurances - art. L192-2 (M)
-	  - Code des assurances - art. L192-3 (M)
+	  - Code des assurances - art. L191-7 (V)
+	  - Code des assurances - art. L192-2 (V)
 
 
 ###### Article L191-4
@@ -7141,19 +7118,25 @@ Il n'y a pas lieu à résiliation ni à réduction par application de l'article 
 connu de l'assureur ou s'il ne modifie pas l'étendue de ses obligations ou s'il est demeuré sans incidence sur la réalisation
 du sinistre.
 
+**Nota:**
+
+Dans sa décision n° 2014-414 QPC du 26 septembre 2014 (NOR : CSCX1422900S), le Conseil constitutionnel a déclaré l'article L.
+191-4 du code des assurances contraire à la Constitution. La déclaration d'inconstitutionnalité prend effet à compter de la
+publication de la présente décision dans les conditions fixées au considérant 11.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code des assurances - art. L113-9 (V)
+	  - DÉCISION n°2014-414 QPC du 26 septembre 2014 - art. 1, v. init.
 
 
 ###### Article L191-5
@@ -7167,9 +7150,9 @@ cas de faute lourde ou d'inexécution intentionnelle de sa part.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ###### Article L191-6
@@ -7186,18 +7169,18 @@ la période pour laquelle le risque n'a pas couru, période calculée à compter
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ###### Article L191-7
 
 Sans préjudice des dispositions des articles L. 211-17 et L. 242-1, l'indemnité due à l'assuré porte intérêt au taux légal à
-partir de l'expiration du mois qui suit la déclaration du sinistre.
+partir de l'expiration du mois qui suit la déclaration du sinistre. 
 
 Si le préjudice n'est pas encore complètement chiffré à cette date, l'assuré peut demander le versement d'une provision égale
-au montant du dommage déjà établi.
+au montant du dommage déjà établi. 
 
 Le délai ne court pas tant que l'évaluation du dommage est retardée par la faute de l'assuré.
 
@@ -7207,9 +7190,9 @@ Le délai ne court pas tant que l'évaluation du dommage est retardée par la fa
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -7218,10 +7201,10 @@ Le délai ne court pas tant que l'évaluation du dommage est retardée par la fa
 	**Cite**:
 
 	  - Code des assurances - art. L211-17 (V)
-	  - Code des assurances - art. L242-1 (M)
+	  - Code des assurances - art. L242-1 (V)
 
 
-#### Chapitre II : Dispositions applicables aux assurances non fluviales.
+#### Chapitre II : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle applicables aux assurances non fluviales
 
 ###### Article L192-1
 
@@ -7233,13 +7216,13 @@ Le délai prévu à l'article L. 114-1, alinéa 1er, est porté à cinq ans en m
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L114-1 (M)
+	  - Code des assurances - art. L114-1 (V)
 
 
 ###### Article L192-2
@@ -7253,13 +7236,13 @@ suivant celui de l'aliénation.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L121-11 (M)
+	  - Code des assurances - art. L121-11 (V)
 
 	**Cité par**:
 
@@ -7279,13 +7262,13 @@ assurés.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L122-4 (M)
+	  - Code des assurances - art. L122-4 (V)
 
 	**Cité par**:
 
@@ -7321,9 +7304,9 @@ L'assureur ne peut refuser la prime offerte par le créancier hypothécaire, alo
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ###### Article L192-5
@@ -7339,9 +7322,9 @@ s'opposer au paiement de l'indemnité d'assurance.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ###### Article L192-6
@@ -7355,9 +7338,9 @@ est valablement faite par l'assureur au dernier domicile connu du créancier hyp
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ###### Article L192-7
@@ -7367,10 +7350,110 @@ applicables aux créanciers privilégiés.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
 	**Cite**:
 
-	  - Code civil local 1127, 1128
-	  - Code des assurances L192-3 à L192-5
+	  - Code civil - art. 1127 (V)
+	  - Code des assurances - art. L192-3 (V)
+
+
+#### Chapitre III : Dispositions applicables à Mayotte et dans les îles Wallis et Futuna
+
+###### Article L193-1
+
+Les titres Ier, II et III du présent livre, à l'exception des articles L. 112-7, L. 112-8, L. 132-30 et L. 132-31, sont
+applicables à Mayotte dans leur rédaction en vigueur lors de la promulgation de la loi n° 94-5 du 4 janvier 1994 modifiant le
+code des assurances. Les articles L. 160-6 à L. 160-8 ainsi que le titre VII du présent livre sont applicables à Mayotte dans
+leur rédaction en vigueur lors de la promulgation de la loi n° 89-1014 du 31 décembre 1989 portant adaptation du code des
+assurances à l'ouverture du marché européen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°89-1014 1989-12-31
+	  - Loi n°94-5 1994-01-04
+	  - Code des assurances - art. L112-7 (M)
+	  - Code des assurances - art. L112-8 (V)
+	  - Code des assurances - art. L132-30 (M)
+	  - Code des assurances - art. L132-31 (V)
+	  - Code des assurances L112-7, L112-8, L132-30, L132-31, L160-6 à L160-8
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+
+###### Article L193-2
+
+Les titres Ier, II et III du présent livre, à l'exception des articles L. 112-7, L. 112-8, L. 122-7, L. 125-1, à L. 125-6, L.
+132-30 et L. 132-31, sont applicables dans les îles Wallis et Futuna dans leur rédaction en vigueur antérieurement à la
+promulgation de la loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier.
+
+Les articles L. 122-7 et L. 125-1 à L. 125-6 sont applicables dans les îles Wallis et Futuna dans leur rédaction en vigueur
+le 1er juillet 2000, à l'exception du quatrième alinéa de l'article L. 125-6 et sous réserve des adaptations suivantes :
+
+a) Dans le deuxième alinéa de l'article L. 125-5, les mots : "et les dommages mentionnés à l'article L. 242-1" sont
+supprimés ;
+
+b) Dans le deuxième alinéa de l'article L. 125-6, les mots :
+
+"Cette obligation ne s'impose pas non plus" sont remplacés par les mots : "L'obligation prévue au premier alinéa de l'article
+L. 125-2 ne s'impose pas" ;
+
+Les articles L. 160-6 à L. 160-8 ainsi que le titre VII du présent livre sont applicables dans les îles Wallis et Futuna dans
+leur rédaction en vigueur lors de la promulgation de la loi n° 89-1014 du 31 décembre 1989 précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°89-1014 1989-12-31
+	  - Loi n°91-716 1991-07-26
+	  - Code des assurances - art. L112-7 (M)
+	  - Code des assurances - art. L112-8
+	  - Code des assurances - art. L122-7
+	  - Code des assurances - art. L125-1 (M)
+	  - Code des assurances - art. L125-5
+	  - Code des assurances L112-7, L112-8, L122-7, L125-1, L125-1 à L125-6, L125-5, L160-6 à L160-8
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2007-1801 du 21 décembre 2007 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L194-1 (V)
+
+
+## Livre II : Assurances obligatoires
+
+###### Article L200-1
+
+Pour l'application du présent livre, les mots : "la France" et les mots : "en France" désignent la France métropolitaine et
+les collectivités territoriales régies par l'article 73 de la Constitution. Sauf pour les dispositions qui concernent la
+libre prestation de services et la liberté d'établissement, ces mots désignent également Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -7378,10 +7461,8 @@ applicables aux créanciers privilégiés.
 
 	**Créé par**:
 
-	  - Loi n°91-412 du 6 mai 1991 - art. 2 () JORF 7 mai 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
-
-## Livre II : Assurances obligatoires
 
 ### Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques
 
@@ -9419,7 +9500,93 @@ vigueur. Elle encourt, selon le cas, soit le retrait des agréments prévus aux 
 	  - Code des assurances - art. L363-4 (V)
 
 
+### Titre VI : Dispositions applicables à Mayotte et dans les îles Wallis et Futuna
+
+###### Article L261-1
+
+A l'exception des articles L. 211-2, L. 211-4 et L. 214-1, le titre Ier du présent livre est applicable à Mayotte dans sa
+rédaction en vigueur lors de la promulgation de la loi n° 92-1441 du 31 décembre 1992 portant ratification des ordonnances
+prises en application de la loi n° 91-1380 du 28 décembre 1991 d'habilitation relative à l'adaptation de la législation
+applicable dans la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°91-1380 1991-12-28
+	  - Loi n°92-1441 1992-12-31
+	  - Code des assurances - art. L211-2 (V)
+	  - Code des assurances - art. L211-4 (M)
+	  - Code des assurances - art. L214-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+
+###### Article L261-2
+
+Le troisième alinéa de l'article L. 211-26, les articles L. 212-1 à L. 212-3 sont applicables dans les îles Wallis et Futuna
+dans leur rédaction en vigueur lors de la promulgation de la loi n° 91-716 du 26 juillet 1991 précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°91-716 du 26 juillet 1991 (V)
+	  - Code des assurances - art. L211-26 (V)
+	  - Code des assurances - art. L212-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2007-1801 du 21 décembre 2007 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L271-1 (V)
+
+
 ## Livre III : Les entreprises.
+
+###### Article L300-1
+
+I. - Pour l'application du présent livre :
+
+a) Les mots : "France" et les mots : "territoire de la République française" désignent la France métropolitaine et les
+collectivités territoriales régies par l'article 73 de la Constitution ;
+
+b) Les mots : "entreprises françaises" désignent les entreprises qui ont leur siège social en France métropolitaine ou dans
+les collectivités territoriales susmentionnées.
+
+Sauf pour les dispositions qui concernent la libre prestation de services et la liberté d'établissement, ces mots désignent
+également Saint-Pierre-et-Miquelon.
+
+II. - Par dérogation au I, pour l'application des dispositions du 1° de l'article L. 310-2, de l'article L. 310-6 et de
+l'article L. 310-10, les mots : "en France" désignent la France métropolitaine, les collectivités territoriales régies par
+l'article 73 de la Constitution, Mayotte, Saint-Pierre-et-Miquelon ainsi que les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
 
 ### Titre Ier : Dispositions générales et contrôle de l'Etat.
 
@@ -10515,109 +10682,64 @@ applicables.
 	  - Code des assurances - art. R334-32 (V)
 
 
-###### Article L310-11
-
-I. Le livre III du présent code est applicable à Mayotte.
-
-II. Les dispositions des articles L. 310-1 à L. 310-3, L. 310-8 et L. 310-10, dans la rédaction du présent code antérieure à
-l'entrée en vigueur de la loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier,
-sont applicables dans les territoires d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°91-716 1991-07-26
-	  - Code des assurances - art. L310-10 (M)
-	  - Code des assurances - art. L310-8 (M)
-	  - Code des assurances L310-1 à L310-3, L310-8, L310-10
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41
-
-	**Modifié par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cité par**:
-
-	  - Loi n°97-277 du 25 mars 1997 - art. 17 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
-
-
-##### Section II : Commission de contrôle des assurances.
+##### Section II : Autorité de contrôle des assurances.
 
 ###### Article L310-12
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, autorité publique indépendante
-dotée de la personnalité morale, est chargée de veiller au respect, par les entreprises mentionnées aux articles L. 310-1 et
-L. 310-1-1 du présent code, par les mutuelles, unions et fédérations régies par le code de la mutualité, par les institutions
-de prévoyance, unions et groupements régis par le titre III du livre IX du code de la sécurité sociale, les institutions de
-retraite supplémentaire régies par le titre IV du livre IX du même code et les organismes régis par l'article L. 727-2 du
-code rural, des dispositions législatives et réglementaires qui leur sont applicables, ainsi que des engagements contractuels
-qui les lient aux assurés ou adhérents.
+L'Autorité de contrôle des assurances et des mutuelles, autorité publique indépendante dotée de la personnalité morale, est
+chargée de veiller au respect, par les entreprises mentionnées aux articles L. 310-1 et L. 310-1-1 du présent code, par les
+mutuelles, unions et fédérations régies par le code de la mutualité, par les institutions de prévoyance, unions et
+groupements régis par le titre III du livre IX du code de la sécurité sociale, les institutions de retraite supplémentaire
+régies par le titre IV du livre IX du même code et les organismes régis par l'article L. 727-2 du code rural, des
+dispositions législatives et réglementaires qui leur sont applicables, ainsi que des engagements contractuels qui les lient
+aux assurés ou adhérents.
 
-La commission s'assure que les entreprises mentionnées aux 1°, 3° et 4° de l'article L. 310-2 ainsi que les mutuelles et les
+L'Autorité s'assure que les entreprises mentionnées aux 1°, 3° et 4° de l'article L. 310-2 ainsi que les mutuelles et les
 institutions mentionnées au premier alinéa du présent article sont en mesure de tenir à tout moment les engagements qu'elles
 ont contractés envers les assurés ou adhérents et présentent la marge de solvabilité fixée par voie réglementaire ; à cette
 fin, elle examine leur situation financière et leurs conditions d'exploitation. Elle veille en outre à ce que les modalités
 de constitution et de fonctionnement des organes délibérants et des organes dirigeants des organismes soumis à son contrôle
 soient conformes aux dispositions qui les régissent.
 
-La commission s'assure que tout organisme soumis à son contrôle en vertu du premier alinéa et projetant d'ouvrir une
+L'Autorité s'assure que tout organisme soumis à son contrôle e n vertu du premier alinéa et projetant d'ouvrir une
 succursale, ou d'exercer pour la première fois des activités en libre prestation de services sur le territoire d'un autre
 Etat membre des Communautés européennes, ou de modifier la nature ou les conditions d'exercice de ces activités, dispose
 d'une structure administrative et d'une situation financière adéquates au regard de son projet. Si elle estime que ces
-conditions ne sont pas remplies, la commission de contrôle ne communique pas à l'autorité de contrôle de cet autre Etat
-membre les documents permettant l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe les conditions
-d'application du présent alinéa, notamment les modalités du contrôle préalable et les délais dans lesquels la commission doit
-se prononcer.
+conditions ne sont pas remplies, l'Autorité de contrôle ne communique pas à l'autorité de contrôle de cet autre Etat membre
+les documents permettant l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe les conditions d'application du
+présent alinéa, notamment les modalités du contrôle préalable et les délais dans lesquels l'Autorité doit se prononcer.
 
-La commission peut décider de soumettre au contrôle toute personne physique ou morale ayant reçu d'une entreprise mentionnée
-à l'article L. 310-1 un mandat de souscription ou de gestion, ou exerçant, à quelque titre que ce soit, le courtage
-d'assurance ou la présentation d'opérations d'assurance. Elle peut en outre décider de soumettre à son contrôle toute
-personne morale ou physique qui s'entremet, directement ou indirectement, entre une mutuelle ou une union régie par le code
-de la mutualité, ou une institution régie par le titre III du livre IX du code de la sécurité sociale, d'une part, et une
-personne qui souhaite adhérer ou adhère à cette mutuelle, à cette union ou à cette institution, d'autre part.
+L'autorité peut soumettre à son contrôle toute personne physique ou morale ayant reçu d'une entreprise mentionnée à l'article
+L. 310-1 un mandat de souscription ou de gestion ou souscrivant à un contrat d'assurance de groupe, ou exerçant, à quelque
+titre que ce soit, une activité d'intermédiation en assurance ou en réassurance mentionnée à l'article L. 511-1. Elle peut en
+outre décider de soumettre à son contrôle toute personne morale ou physique qui s'entremet, directement ou indirectement,
+entre une mutuelle ou une union régie par le code de la mutualité, ou une institution régie par le titre III du livre IX du
+code de la sécurité sociale, d'une part, et une personne qui souhaite adhérer ou adhère à cette mutuelle, à cette union ou à
+cette institution, d'autre part.
 
-La commission veille également au respect, par les entreprises soumises au contrôle de l'Etat en application de l'article L.
+L'Autorité veille également au respect, par les entreprises soumises au contrôle de l'Etat en application de l'article L.
 310-1-1, les sociétés de groupe d'assurance, les sociétés de groupe mixte d'assurance définies à l'article L. 322-1-2 ainsi
 que par toute entité appartenant à un conglomérat financier défini à l'article L. 334-5 dont la surveillance est coordonnée
-par la commission de contrôle dans les conditions prévues à l'article L. 334-9, des dispositions législatives et
-réglementaires qui leur sont applicables en vertu du présent livre. Un arrêté du ministre chargé de l'économie détermine la
-nature, la périodicité et le contenu des informations et des documents que les entreprises mentionnées au présent alinéa sont
-tenues de communiquer périodiquement à la commission de contrôle des assurances pour lui permettre d'exercer sa mission.
+par l'Autorité de contrôle dans les conditions prévues à l'article L. 334-9, des dispositions législatives et réglementaires
+qui leur sont applicables en vertu du présent livre. Un arrêté du ministre chargé de l'économie détermine la nature, la
+périodicité et le contenu des informations et des documents que les entreprises mentionnées au présent alinéa sont tenues de
+communiquer périodiquement à l'Autorité de contrôle des assurances et des mutuelles pour lui permettre d'exercer sa mission.
 
-La commission s'assure également que les dispositions du titre VI du livre V du code monétaire et financier sont appliquées
-par les entreprises mentionnées à l'article L. 310-1, les mutuelles régies par le code de la mutualité et les institutions
-régies par le livre IX du code de la sécurité sociale ainsi que par les personnes physiques ou morales mentionnées au
-quatrième alinéa et soumises à son contrôle.
+L'Autorité s'assure également que les dispositions du titre VI du livre V du code monétaire et financier sont appliquées par
+les entreprises mentionnées à l'article L. 310-1, les mutuelles régies par le code de la mutualité et les institutions régies
+par le livre IX du code de la sécurité sociale ainsi que par les personnes physiques ou morales mentionnées au quatrième
+alinéa et soumises à son contrôle.
 
 Les opérations de gestion d'un régime légal d'assurance maladie et maternité, et d'assurance contre les accidents du travail
-et les maladies professionnelles, visées au titre IV du livre IV du présent code, ne sont pas soumises au contrôle de la
-commission.
+et les maladies professionnelles, visées au titre IV du livre IV du présent code, ne sont pas soumises au contrôle de
+l'Autorité.
 
 Les opérations de retraite complémentaire réalisées par les institutions régies par le livre IX du code de la sécurité
-sociale faisant l'objet d'une compensation interprofessionnelle et générale ne sont pas soumises au contrôle de la
-commission.
+sociale faisant l'objet d'une compensation interprofessionnelle et générale ne sont pas soumises au contrôle de l'Autorité.
 
 Les opérations de gestion d'un régime légal d'assurance maladie et maternité et de gestion d'activités et de prestations pour
 le compte de l'Etat ou d'autres collectivités publiques visées au 4° du I de l'article L. 111-1 du code de la mutualité ne
-sont pas soumises au contrôle de la commission.
-
-**Nota:**
-
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+sont pas soumises au contrôle de l'Autorité.
 
 **Liens relatifs à cet article**
 
@@ -10671,27 +10793,27 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 	  - Code monétaire et financier - art. L561-36 (VD)
 	  - Code monétaire et financier - art. L612-20 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
+
 	**Cite**:
 
-	  - Ordonnance 2004-1201 2004-11-12
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-1-1 (V)
 	  - Code des assurances - art. L310-2 (M)
 	  - Code des assurances - art. L322-2-1 (M)
 	  - Code des assurances - art. L334-5 (V)
 	  - Code des assurances - art. L334-9 (V)
-	  - Code des assurances L310-1, L310-1-1, L310-2, L322-2-1, L334-5, L334-9, 20
+	  - Code des assurances - art. L511-1 (M)
 	  - Code de la mutualité - art. L111-1 (Ab)
 	  - Code rural L727-2
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 4 () JORF 16 novembre 2004
 
 
 ###### Article L310-12-1
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est composée de neuf membres :
+L'Autorité de contrôle des assurances et des mutuelles est composée de neuf membres :
 
 1° Un président nommé par décret ;
 
@@ -10706,54 +10828,54 @@ La Commission de contrôle des assurances, des mutuelles et des institutions de 
 6° Quatre membres choisis en raison de leur compétence en matière d'assurance, de mutualité et de prévoyance.
 
 Les membres mentionnés aux 3° et 6° sont nommés par arrêté conjoint des ministres chargés de l'économie, de la sécurité
-sociale et de la mutualité. Un vice-président de la commission de contrôle est également nommé parmi ces membres par arrêté
+sociale et de la mutualité. Un vice-président de l'Autorité de contrôle est également nommé parmi ces membres par arrêté
 conjoint des ministres, pris après avis du président. Le vice-président exerce les compétences du président en cas d'absence
 ou d'empêchement de celui-ci.
 
 Le gouverneur de la Banque de France peut être représenté. Des suppléants des membres mentionnés aux 3° à 6° sont nommés dans
-les mêmes conditions que les titulaires. Le suppléant du membre nommé vice-président de la commission de contrôle le remplace
+les mêmes conditions que les titulaires. Le suppléant du membre nommé vice-président de l'Autorité de contrôle le remplace
 lorsqu'il exerce les compétences du président en application de l'alinéa précédent.
 
 Le directeur du Trésor, ou son représentant, et le directeur de la sécurité sociale, ou son représentant, siègent auprès de
 la commission de contrôle en qualité de commissaires du Gouvernement, sans voix délibérative. Ils peuvent, sauf en matière de
 sanctions, demander une seconde délibération dans des conditions fixées par décret en Conseil d'Etat. Lorsqu'elle décide
-d'une sanction, la commission de contrôle délibère hors de leur présence.
+d'une sanction, l'Autorité de contrôle délibère hors de leur présence.
 
 Le président et les membres mentionnés aux 3° à 6° sont nommés pour une durée de cinq ans. Leur mandat est renouvelable une
 fois.
 
-En cas de vacance d'un siège de membre de la commission de contrôle pour quelque cause que ce soit, il est procédé à son
+En cas de vacance d'un siège de membre de l'Autorité de contrôle pour quelque cause que ce soit, il est procédé à son
 remplacement pour la durée du mandat restant à courir. Un mandat exercé pendant moins de deux ans n'est pas pris en compte
-pour l'application de la règle de renouvellement. Les membres titulaires et suppléants de la commission ne peuvent être
+pour l'application de la règle de renouvellement. Les membres titulaires et suppléants de l'Autorité ne peuvent être
 révoqués.
 
-Les décisions de la commission de contrôle sont prises à la majorité des voix. En cas de partage égal des voix, celle du
+Les décisions de l'Autorité de contrôle sont prises à la majorité des voix. En cas de partage égal des voix, celle du
 président est prépondérante.
 
-Dans des matières et conditions fixées par décret en Conseil d'Etat, la commission de contrôle peut créer en son sein une ou
+Dans des matières et conditions fixées par décret en Conseil d'Etat, l'Autorité de contrôle peut créer en son sein une ou
 plusieurs commissions spécialisées et leur donner délégation pour prendre des décisions de portée individuelle. Il est créé
 au moins une commission spécialisée compétente à l'égard des organismes régis par le livre III du code de la mutualité.
 
-La commission de contrôle peut également constituer des commissions consultatives, dans lesquelles elle nomme le cas échéant
-des experts, pour préparer et instruire ses décisions.
+L'Autorité de contrôle peut également constituer des commissions consultatives, dans lesquelles elle nomme le cas échéant des
+experts, pour préparer et instruire ses décisions.
 
-Le président de la commission de contrôle a qualité pour agir au nom de celle-ci devant toute juridiction.
+Le président de l'Autorité de contrôle a qualité pour agir au nom de celle-ci devant toute juridiction.
 
 Il peut déléguer sa signature dans les matières où il tient de dispositions législatives ou réglementaires une compétence
 propre.
 
-Les services de la commission de contrôle sont dirigés par un secrétaire général nommé parmi les membres du corps de contrôle
+Les services de l'Autorité de contrôle sont dirigés par un secrétaire général nommé parmi les membres du corps de contrôle
 des assurances par arrêté conjoint des ministres chargés de l'économie, de la sécurité sociale et de la mutualité, après avis
 de la commission.
 
-Le personnel des services de la commission de contrôle est composé d'agents publics mis à sa disposition dans des conditions
+Le personnel des services de l'Autorité de contrôle est composé d'agents publics mis à sa disposition dans des conditions
 fixées par décret en Conseil d'Etat, d'agents contractuels de droit public et de salariés de droit privé.
 
-Sur proposition du secrétaire général, la commission de contrôle fixe les règles de déontologie applicables au personnel des
-services de la commission.
+Sur proposition du secrétaire général, l'Autorité de contrôle fixe les règles de déontologie applicables au personnel des
+services de l'Autorité.
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance et la Commission bancaire se
-réunissent conjointement au moins deux fois par an et en tant que de besoin sur des sujets d'intérêt commun.
+L'Autorité de contrôle des assurances et des mutuelles et la Commission bancaire se réunissent conjointement au moins deux
+fois par an et en tant que de besoin sur des sujets d'intérêt commun.
 
 **Liens relatifs à cet article**
 
@@ -10772,7 +10894,7 @@ réunissent conjointement au moins deux fois par an et en tant que de besoin sur
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 74 () JORF 10 décembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Liens**:
 
@@ -10787,7 +10909,7 @@ réunissent conjointement au moins deux fois par an et en tant que de besoin sur
 
 ###### Article L310-12-2
 
-Tout membre de la commission de contrôle doit informer le président :
+Tout membre de l'Autorité de contrôle doit informer le président :
 
 1° Des intérêts qu'il a détenus au cours des deux ans précédant sa nomination, qu'il détient ou qu'il vient à détenir ;
 
@@ -10800,19 +10922,19 @@ détient ou vient à détenir.
 Ces informations, ainsi que celles concernant le président, sont tenues à la disposition des membres de la commission de
 contrôle.
 
-Les membres de la commission ne peuvent en aucun cas, pendant la durée de leur mandat, recevoir de rétribution d'une
-entreprise d'assurance ou d'un établissement de crédit, d'une mutuelle, union ou fédération régie par le code de la mutualité
-ou d'une institution régie par le livre IX du code de la sécurité sociale.
+Les membres de l'Autorité ne peuvent en aucun cas, pendant la durée de leur mandat, recevoir de rétribution d'une entreprise
+d'assurance ou d'un établissement de crédit, d'une mutuelle, union ou fédération régie par le code de la mutualité ou d'une
+institution régie par le livre IX du code de la sécurité sociale.
 
-Aucun membre de la commission de contrôle ne peut délibérer ou participer aux travaux de celle-ci, dans une affaire dans
+Aucun membre de l'Autorité de contrôle ne peut délibérer ou participer aux travaux de celle-ci, dans une affaire dans
 laquelle lui-même ou, le cas échéant, une personne morale au sein de laquelle il exerce des fonctions ou détient un mandat ou
 dont il est l'avocat ou le conseil a un intérêt ; il ne peut davantage participer à une délibération concernant une affaire
 dans laquelle lui-même ou, le cas échéant, une personne morale au sein de laquelle il exerce des fonctions ou détient un
 mandat ou dont il est l'avocat ou le conseil a représenté une des parties intéressées au cours des deux années précédant la
 délibération.
 
-Le président de la commission de contrôle prend les mesures appropriées pour assurer le respect des obligations et
-interdictions résultant du présent article.
+Le président de l'Autorité de contrôle prend les mesures appropriées pour assurer le respect des obligations et interdictions
+résultant du présent article.
 
 **Liens relatifs à cet article**
 
@@ -10826,15 +10948,15 @@ interdictions résultant du présent article.
 	  - Arrêté du 8 novembre 2011 (V)
 	  - Décret n°2011-1474 du 8 novembre 2011 - art. 5 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 30 () JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article L310-12-3
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance dispose de l'autonomie financière.
-Elle arrête son budget sur proposition du secrétaire général.
+L'Autorité de contrôle des assurances et des mutuelles dispose de l'autonomie financière. Elle arrête son budget sur
+proposition du secrétaire général.
 
 Elle perçoit le produit de la contribution établie à l'article L. 310-12-4.
 
@@ -10844,9 +10966,9 @@ Elle perçoit le produit de la contribution établie à l'article L. 310-12-4.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 30 () JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -10859,33 +10981,49 @@ Elle perçoit le produit de la contribution établie à l'article L. 310-12-4.
 
 ###### Article L310-12-4
 
-Les entreprises soumises au contrôle de la commission en vertu du présent code sont assujetties à une contribution pour frais
-de contrôle dont l'assiette est constituée par les primes ou cotisations émises et acceptées entre le 1er janvier et le 31
-décembre de chaque année, y compris les accessoires de primes, de cotisations, de coûts de contrats et règlements et coûts de
-police, nettes d'impôts, de cessions et d'annulations de l'exercice et de tous les exercices antérieurs, auxquelles
-s'ajoutent le total des primes ou cotisations acquises à l'exercice et non émises.
+Les entreprises soumises au contrôle de l'Autorité de contrôle des assurances et des mutuelles sont assujetties à une
+contribution pour frais de contrôle, acquittée chaque année, dont l'assiette est constituée par les primes ou cotisations
+émises et acceptées au cours de l'exercice clos durant l'année civile précédente, y compris les accessoires de primes, de
+cotisations, de coûts de contrats et règlements et coûts de police, nettes d'impôts, de cessions et d'annulations de
+l'exercice et de tous les exercices antérieurs, auxquelles s'ajoute la variation, au cours du même exercice, du total des
+primes ou cotisations restant à émettre, nettes de cession. 
 
-Le taux de la contribution, fixé par décret, est compris entre 0,05 pour mille et 0,15 pour mille. Ce même décret peut fixer
-un taux distinct pour les organismes régis par le livre III du code de la mutualité.
+Le taux de la contribution, fixé par décret, est compris entre 0, 05 pour mille et 0, 15 pour mille. Ce même décret peut
+fixer un taux distinct pour les organismes régis par le livre III du code de la mutualité. 
 
 La contribution est liquidée, ordonnancée et recouvrée selon les modalités prévues pour les recettes des établissements
-administratifs de l'Etat. Les contestations relatives à cette contribution sont portées devant le juge administratif.
+administratifs de l'Etat. Les contestations relatives à cette contribution sont portées devant le juge administratif. 
+
+La contribution donne lieu au versement, au comptable de l'autorité de contrôle, d'un acompte provisionnel de 75 % de la
+contribution due au titre de l'année précédente, effectué au plus tard le 31 mars de chaque année. Le solde de la
+contribution due au titre de l'année en cours est versé au plus tard le 30 septembre. 
+
+Lorsque ces sommes n'ont pas été versées aux dates limites d'exigibilité mentionnées au quatrième alinéa, la majoration et
+l'intérêt de retard mentionnés au 1 de l'article 1731 et à l'article 1727 du code général des impôts sont applicables aux
+sommes dont le versement a été différé.L'intérêt de retard est calculé à compter du premier jour du mois suivant celui au
+cours duquel la contribution devait être acquittée jusqu'au dernier jour du mois du paiement. 
+
+La majoration et l'intérêt de retard ne peuvent être prononcés avant l'expiration d'un délai de trente jours à compter de la
+notification du document indiquant au redevable la majoration qu'il est envisagé de lui appliquer, les motifs de celle-ci et
+la possibilité dont dispose l'intéressé de présenter dans ce délai ses observations. 
 
 Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas
-applicables à la commission de contrôle.
+applicables à l'Autorité de contrôle. 
 
-Un décret en Conseil d'Etat fixe le régime comptable de la commission de contrôle et les modalités d'application du présent
+Un décret en Conseil d'Etat fixe le régime comptable de l'Autorité de contrôle et les modalités d'application du présent
 article.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi du 10 août 1922
+	  - Code général des impôts, CGI. - art. 1727
+	  - Code général des impôts, CGI. - art. 1731
+
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 30 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -10902,9 +11040,9 @@ article.
 	  - Code des assurances - art. R310-12-5 (VT)
 	  - Code des assurances - art. R310-12-6 (VT)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°1922-08-10
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article L310-12-5
@@ -10918,22 +11056,14 @@ prévus aux articles L. 321-1, L. 321-7 et L. 321-9 ou qui n'ont pas obtenu l'au
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 30 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-12-4 (M)
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L321-1-1 (M)
-	  - Code des assurances - art. L321-7 (V)
-	  - Code des assurances - art. L321-9 (M)
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article L310-12-6
 
-Lorsque la commission de contrôle envisage de recourir à un fonds de garantie, elle entend le président de ce fonds. Les
+Lorsque l'Autorité de contrôle envisage de recourir à un fonds de garantie, elle entend le président de ce fonds. Les
 présidents des fonds de garantie sont également entendus à leur demande.
 
 **Liens relatifs à cet article**
@@ -10942,29 +11072,28 @@ présidents des fonds de garantie sont également entendus à leur demande.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 31 () JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 
 ###### Article L310-13
 
 Le contrôle des entreprises visées aux articles L. 310-1 et L. 310-1-1, des sociétés de groupe d'assurance et des sociétés de
 groupe mixtes d'assurance définies à l'article L. 322-1-2 et des compagnies financières holding mixtes définies à l'article
-L. 334-2 ainsi que des personnes mentionnées au cinquième alinéa de l' article L. 310-12 est effectué sur pièces et sur
-place. La commission l'organise et en définit les modalités. Le corps des commissaires contrôleurs des assurances est mis à
-sa disposition à cette fin.
+L. 334-2 ainsi que des personnes mentionnées au quatrième alinéa de l'article L. 310-12 est effectué sur pièces et sur place.
+L'Autorité l'organise et en définit les modalités. Le corps des commissaires contrôleurs des assurances est mis à sa
+disposition à cette fin.
 
-Sont également mis à la disposition de la commission, les membres de l'inspection générale des affaires sociales dans des
+Sont également mis à la disposition de l'Autorité, les membres de l'inspection générale des affaires sociales dans des
 conditions définies par décret.
 
-En outre, pour l'exercice de ses attributions, la commission de contrôle peut faire appel à toute personne compétente dans le
+En outre, pour l'exercice de ses attributions, l'Autorité de contrôle peut faire appel à toute personne compétente dans le
 cadre de conventions établies à cet effet par son secrétariat général.
-
-**Nota:**
-
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -10972,19 +11101,10 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	  - Décret n°76-666 1976-07-16
 
-	**Cite**:
-
-	  - Ordonnance 2004-1201 2004-11-12
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L310-12 (M)
-	  - Code des assurances - art. L322-1-2 (M)
-	  - Code des assurances - art. L334-2 (M)
-	  - Code des assurances L310-1, L310-1-1, L322-1-2, L334-2, L310-12, 20
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 4 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -10993,10 +11113,10 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 ###### Article L310-14
 
-La commission peut demander aux entreprises visées aux articles L. 310-1 et L. 310-1-1, aux sociétés de groupe d'assurance,
-aux sociétés de groupe mixte d'assurance définies à l'article L. 322-1-2 et aux compagnies financières holding mixtes
-définies à l'article L. 334-2 ainsi qu'aux personnes mentionnées au cinquième alinéa de l'article L. 310-12 toutes
-informations nécessaires à l'exercice de sa mission.
+L'Autorité peut demander aux entreprises visées aux articles L. 310-1 et L. 310-1-1, aux sociétés de groupe d'assurance, aux
+sociétés de groupe mixte d'assurance définies à l'article L. 322-1-2 et aux compagnies financières holding mixtes définies à
+l'article L. 334-2 ainsi qu'aux personnes mentionnées au quatrième alinéa de l'article L. 310-12 toutes informations
+nécessaires à l'exercice de sa mission.
 
 Elle peut leur demander la communication des rapports des commissaires aux comptes et, d'une manière générale, de tous
 documents comptables dont elle peut, en tant que de besoin, demander la certification. Elle peut demander la certification
@@ -11011,20 +11131,15 @@ les sociétés de groupe d'assurance sont régulièrement effectuées. Elle peut
 des publications rectificatives dans le cas où des inexactitudes ou des omissions auraient été relevées. Elle peut porter à
 la connaissance du public toutes informations qu'elle estime nécessaires.
 
-La Commission de contrôle des assurances peut demander aux entreprises soumises à une surveillance complémentaire en
-application de l'article L. 334-3 les données ou informations qui, nécessaires à l'exercice de cette surveillance, sont
-détenues par leurs entreprises apparentées. Si ces dernières entreprises ne fournissent pas ces données et informations, la
-Commission de contrôle peut leur demander directement.
+L'Autorité de contrôle des assurances peut demander aux entreprises soumises à une surveillance complémentaire en application
+de l'article L. 334-3 les données ou informations qui, nécessaires à l'exercice de cette surveillance, sont détenues par
+leurs entreprises apparentées. Si ces dernières entreprises ne fournissent pas ces données et informations, l'Autorité de
+contrôle peut leur demander directement.
 
 Les entreprises soumises à une surveillance complémentaire et dont le siège social est situé en France transmettent les
 données ou informations nécessaires à leurs entreprises apparentées ayant leur siège social dans un Etat membre de la
 Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen pour l'exercice de la
 surveillance complémentaire par les autorités compétentes de cet Etat.
-
-**Nota:**
-
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -11040,20 +11155,10 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 3 ()
 	  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 4 (V)
 
-	**Cite**:
-
-	  - Ordonnance 2004-1201 2004-11-12
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L310-12 (M)
-	  - Code des assurances - art. L310-18 (M)
-	  - Code des assurances - art. L322-1-2 (M)
-	  - Code des assurances - art. L334-2 (M)
-	  - Code des assurances - art. L334-3 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 1 (V) JORF 29 juillet 2005
+	  - Loi n°2005-1564 2005-12-15 art. 2 2°, art. 14 JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -11074,7 +11179,7 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 ###### Article L310-15
 
-Si cela est nécessaire à l'exercice de sa mission et dans la limite de celle-ci, la commission peut décider d'étendre le
+Si cela est nécessaire à l'exercice de sa mission et dans la limite de celle-ci, l'Autorité peut décider d'étendre le
 contrôle sur place d'une entreprise mentionnée à l'article L. 310-1 à ses entreprises apparentées au sens du 4° de l'article
 L. 334-2 ainsi qu'aux organismes de toute nature ayant passé, directement ou indirectement, avec cette entreprise une
 convention de gestion, de réassurance ou de tout autre type susceptible d'altérer son autonomie de fonctionnement ou de
@@ -11088,13 +11193,13 @@ de participer à d'éventuelles mesures de redressement et de sauvegarde de cett
 Les contrôles sur place peuvent également, dans le cadre de conventions internationales, être étendus aux succursales ou
 filiales d'assurance implantées à l'étranger d'entreprises d'assurance de droit français.
 
-La commission de contrôle peut procéder à la vérification sur place des informations nécessaires à la surveillance
+L'Autorité de contrôle peut procéder à la vérification sur place des informations nécessaires à la surveillance
 complémentaire instituée aux articles L. 334-3 du présent code, L. 212-7-2 du code de la mutualité ou L. 933-3 du code de la
 sécurité sociale, auprès de l'entreprise d'assurance, de la mutuelle ou de l'union, de l'institution de prévoyance et de
 leurs organismes apparentés.
 
-Lorsque, dans le cadre de la surveillance complémentaire, la commission de contrôle souhaite vérifier des informations utiles
-à l'exercice de sa surveillance concernant une entreprise située dans un Etat membre de la Communauté européenne ou dans un
+Lorsque, dans le cadre de la surveillance complémentaire, l'Autorité de contrôle souhaite vérifier des informations utiles à
+l'exercice de sa surveillance concernant une entreprise située dans un Etat membre de la Communauté européenne ou dans un
 autre Etat partie à l'accord sur l'Espace économique européen, elle demande aux autorités compétentes de cet Etat qu'il soit
 procédé à cette vérification.
 
@@ -11106,14 +11211,7 @@ procédé à cette vérification.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 31 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de commerce. - art. L233-3 (M)
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L334-2 (M)
-	  - Code des assurances - art. L334-3 (M)
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -11123,7 +11221,7 @@ procédé à cette vérification.
 ###### Article L310-16
 
 En cas de contrôle sur place, un rapport est établi. Si des observations sont formulées par le vérificateur, il en est donné
-connaissance à l'entreprise. La commission prend connaissance des observations formulées par le vérificateur et des réponses
+connaissance à l'entreprise. L'Autorité prend connaissance des observations formulées par le vérificateur et des réponses
 apportées par l'entreprise.
 
 Les résultats des contrôles sur place sont communiqués soit au conseil d'administration, soit au directoire et au conseil de
@@ -11135,13 +11233,17 @@ surveillance de l'entreprise contrôlée. Ils sont également transmis aux commi
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 	**Cité par**:
 
@@ -11150,9 +11252,9 @@ surveillance de l'entreprise contrôlée. Ils sont également transmis aux commi
 
 ###### Article L310-17
 
-La commission de contrôle peut adresser à tout organisme ou toute personne soumis à son contrôle une recommandation de
-prendre toutes les mesures appropriées pour restaurer ou renforcer sa situation financière, améliorer ses méthodes de gestion
-ou assurer l'adéquation de son organisation à ses activités ou à ses objectifs de développement. L'organisme est tenu de
+L'Autorité de contrôle peut adresser à tout organisme ou toute personne soumis à son contrôle une recommandation de prendre
+toutes les mesures appropriées pour restaurer ou renforcer sa situation financière, améliorer ses méthodes de gestion ou
+assurer l'adéquation de son organisation à ses activités ou à ses objectifs de développement. L'organisme est tenu de
 répondre dans un délai de deux mois en précisant les mesures prises à la suite de cette recommandation.
 
 **Liens relatifs à cet article**
@@ -11163,7 +11265,11 @@ répondre dans un délai de deux mois en précisant les mesures prises à la sui
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 32 () JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 	**Cité par**:
 
@@ -11181,9 +11287,9 @@ répondre dans un délai de deux mois en précisant les mesures prises à la sui
 
 Si une entreprise mentionnée à l'article L. 310-1-1, aux 1°, 3° ou 4° de l'article L. 310-2 ou à l'article L. 322-1-2 a
 enfreint une disposition législative ou réglementaire qui lui est applicable ou a des pratiques qui mettent en péril sa marge
-de solvabilité ou l'exécution des engagements qu'elle a contractés envers les assurés, adhérents ou ayants droit, la
-commission peut prononcer à son encontre, ou à celle de ses dirigeants, l'une ou plusieurs des sanctions disciplinaires
-suivantes, en fonction de la gravité du manquement :
+de solvabilité ou l'exécution des engagements qu'elle a contractés envers les assurés, adhérents ou ayants droit, l'Autorité
+peut prononcer à son encontre, ou à celle de ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes, en
+fonction de la gravité du manquement :
 
 1° L'avertissement ;
 
@@ -11199,10 +11305,10 @@ suivantes, en fonction de la gravité du manquement :
 
 6° Le transfert d'office de tout ou partie du portefeuille des contrats.
 
-La commission de contrôle peut décider de reporter sa décision à l'issue d'un délai qu'elle impartit à l'entreprise, pour
+L'Autorité de contrôle peut décider de reporter sa décision à l'issue d'un délai qu'elle impartit à l'entreprise, pour
 prendre toute mesure de nature à mettre fin aux manquements ou pratiques mentionnés au premier alinéa.
 
-En outre, la Commission peut prononcer soit à la place, soit en sus de ces sanctions, une sanction pécuniaire. Le montant de
+En outre, l'Autorité peut prononcer soit à la place, soit en sus de ces sanctions, une sanction pécuniaire. Le montant de
 cette sanction pécuniaire doit être fonction de la gravité des manquements commis, sans pouvoir excéder 3 % du chiffre
 d'affaires hors taxes réalisé au cours du dernier exercice clos calculé sur une période de 12 mois. Ce maximum est porté à 5
 % en cas de nouvelle violation de la même obligation. Les sommes correspondantes sont versées au Trésor public. Elles sont
@@ -11212,26 +11318,21 @@ Pour les sociétés de groupe d'assurance définies à l'article L. 322-1-2, le 
 défini par référence au chiffre d'affaires de celle des entreprises d'assurance incluses par intégration globale dans la
 consolidation ou la combinaison dont le total des primes émises au cours du dernier exercice clos est le plus élevé.
 
-Dans tous les cas visés au présent article, la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance statue après une procédure contradictoire. Elle informe obligatoirement les intéressés de leur droit à être
-entendus. Lorsqu'ils font usage de cette faculté, ils peuvent se faire représenter ou assister.
+Dans tous les cas visés au présent article, l'Autorité de contrôle des assurances et des mutuelles statue après une procédure
+contradictoire. Elle informe obligatoirement les intéressés de leur droit à être entendus. Lorsqu'ils font usage de cette
+faculté, ils peuvent se faire représenter ou assister.
 
 Les personnes sanctionnées peuvent, dans le délai de deux mois qui suit la notification de la décision, former un recours de
 pleine juridiction devant le Conseil d'Etat.
 
-Lorsqu'une sanction prononcée par la commission de contrôle des assurances est devenue définitive, la commission peut, aux
-frais de l'entreprise sanctionnée, ordonner l'insertion de sa décision dans trois journaux ou publications qu'elle désigne et
-l'affichage dans les lieux et pour la durée qu'elle indique.
+L'autorité de contrôle peut rendre publique sa décision dans les journaux, publications ou supports qu'elle désigne. Les
+frais sont supportés par la personne sanctionnée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 32 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -11287,43 +11388,53 @@ l'affichage dans les lieux et pour la durée qu'elle indique.
 	  - Code monétaire et financier - art. D541-8 (V)
 	  - Code monétaire et financier - art. L341-17 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L310-17 (M)
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. L322-1-2 (M)
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 
 ###### Article L310-18-1
 
-Si une personne physique ou morale mentionnée au quatrième alinéa de l'article L. 310-12 a enfreint une disposition du titre
-VI du livre V du code monétaire et financier, ou du livre V du présent code, la commission peut prononcer, à son encontre ou
-le cas échéant à l'encontre de ses dirigeants, l'une des sanctions disciplinaires suivantes, en fonction de la gravité du
-manquement :
+Si une personne physique ou morale mentionnée au quatrième alinéa de l'article L. 310-12 a enfreint une disposition du
+présent code ou du titre VI du livre V du code monétaire et financier, l'autorité peut prononcer à son encontre ou, le cas
+échéant, à l'encontre de ses dirigeants, associés ou tiers ayant le pouvoir de gérer ou d'administrer, l'une ou plusieurs des
+sanctions disciplinaires suivantes, en fonction de la gravité du manquement :
 
 1. Le blâme ;
 
 2. L'avertissement.
 
-En outre, la commission peut prononcer soit à la place, soit en sus de ces sanctions, une sanction pécuniaire au plus égale
-soit à 3 % du chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos, soit à 37 500 euros si cette dernière
-somme est plus élevée. Les sommes correspondantes sont versées au Trésor public. Elles sont recouvrées comme des créances de
-l'Etat étrangères à l'impôt et au domaine.
+3. L'interdiction d'effectuer certaines opérations d'intermédiation et toutes autres limitations dans l'exercice de cette
+activité ;
 
-La commission peut décider de reporter sa décision à l'issue d'un délai qu'elle impartit à la personne, pour prendre toute
+4. La suspension temporaire d'un ou plusieurs dirigeants de l'organisme qui exerce une activité d'intermédiation ;
+
+5. La démission d'office d'un ou plusieurs dirigeants de l'organisme qui exerce une activité d'intermédiation ;
+
+6. La radiation du registre mentionné à l'article L. 512-1 ;
+
+7. L'interdiction de pratiquer l'activité d'intermédiation.
+
+Les sanctions mentionnées aux 3, 4, 6 et 7 ne peuvent, dans leur durée, excéder dix ans.
+
+En outre, l'autorité peut prononcer soit à la place, soit en sus de ces sanctions, une sanction pécuniaire au plus égale soit
+à 3 % du chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos, soit à 37 500 euros si cette dernière somme
+est plus élevée. Les sommes correspondantes sont versées au Trésor public. Elles sont recouvrées comme des créances de l'Etat
+étrangères à l'impôt et au domaine.
+
+L'autorité peut décider de reporter sa décision à l'issue d'un délai qu'elle impartit à la personne, pour prendre toute
 mesure de nature à mettre fin aux manquements ou pratiques mentionnés au premier alinéa.
 
-Dans tous les cas visés au présent article, la commission statue après une procédure contradictoire. Les personnes
-mentionnées au premier alinéa sont obligatoirement mises à même d'être entendues avant que la commission n'arrête sa
-décision. Elles peuvent se faire représenter ou assister.
+Dans tous les cas visés au présent article, l'autorité statue après une procédure contradictoire. Les personnes mentionnées
+au premier alinéa sont obligatoirement mises à même d'être entendues avant que l'Autorité n'arrête sa décision. Elles peuvent
+se faire représenter ou assister.
 
 Les personnes sanctionnées peuvent, dans le délai de deux mois qui suit la notification de la décision, former un recours de
 pleine juridiction devant le Conseil d'Etat.
 
-Lorsqu'une sanction prononcée par la commission est devenue définitive, celle-ci peut, aux frais de la personne sanctionnée,
-ordonner l'insertion de sa décision dans trois journaux ou publications qu'elle désigne et l'affichage dans les lieux et pour
-la durée qu'elle indique.
+L'autorité de contrôle peut rendre publique sa décision dans les journaux, publications ou supports qu'elle désigne. Les
+frais sont supportés par la personne sanctionnée.
 
 **Liens relatifs à cet article**
 
@@ -11333,7 +11444,12 @@ la durée qu'elle indique.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 75 () JORF 10 décembre 2004
+	  - Loi n°2005-1564 2005-12-15 art. 2 4°, art. 14 JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 	**Cité par**:
 
@@ -11347,26 +11463,27 @@ la durée qu'elle indique.
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. L310-12
+	  - Code des assurances - art. L512-1
 
 
 ###### Article L310-19
 
-La commission de contrôle des assurances peut demander aux commissaires aux comptes d'une entreprise visée à l'article L.
-310-1, d'une entreprise visée à l'article L. 310-1-1, d'une société de groupe d'assurance ou d'une société de groupe mixte
+L'Autorité de contrôle des assurances peut demander aux commissaires aux comptes d'une entreprise visée à l'article L. 310-1,
+d'une entreprise visée à l'article L. 310-1-1, d'une société de groupe d'assurance ou d'une société de groupe mixte
 d'assurance définies à l'article L. 322-1-2 ou d'une compagnie financière holding mixte appartenant à un conglomérat
-financier dont la surveillance est coordonnée par la commission de contrôle dans les conditions prévues à l'article L. 334-9,
+financier dont la surveillance est coordonnée par l'Autorité de contrôle dans les conditions prévues à l'article L. 334-9,
 tout renseignement sur l'activité de l'organisme contrôlé. Les commissaires aux comptes sont alors déliés, à son égard, du
 secret professionnel.
 
-La commission de contrôle peut également transmettre aux commissaires aux comptes des personnes mentionnées au premier alinéa
+L'autorité de contrôle peut également transmettre aux commissaires aux comptes des personnes mentionnées au premier alinéa
 les informations nécessaires à l'accomplissement de leur mission. Ces informations sont couvertes par le secret
 professionnel.
 
-La commission de contrôle peut en outre transmettre des observations écrites aux commissaires aux comptes qui sont alors
-tenus d'apporter des réponses en cette forme.
+L'autorité de contrôle peut en outre transmettre des observations écrites aux commissaires aux comptes qui sont alors tenus
+d'apporter des réponses en cette forme.
 
-Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais à la Commission de contrôle des assurances tout
+Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais à l'autorité de contrôle des assurances tout
 fait concernant l'entreprise ou la société visée au premier alinéa ou toute décision prise par ses dirigeants, dont ils ont
 eu connaissance dans l'exercice de leur mission, de nature :
 
@@ -11381,16 +11498,11 @@ La même obligation s'applique aux faits et aux décisions dont ils viendraient 
 mission de commissaire aux comptes dans une entreprise mère ou filiale de l'entreprise visée à l'article L. 310-1 ou à
 l'article L. 310-1-1 ou des sociétés mentionnées à l'article L. 322-1-2 ou d'une société entrant dans le périmètre
 d'établissement des comptes combinés au sens de l'article L. 345-2 ou d'une société appartenant à un conglomérat financier
-dont la surveillance est coordonnée par la commission de contrôle dans les conditions prévues à l'article L. 334-9  dont ils
+dont la surveillance est coordonnée par l'autorité de contrôle dans les conditions prévues à l'article L. 334-9  dont ils
 certifient les comptes.
 
 La responsabilité des commissaires aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
 ils procèdent en exécution des obligations imposées par le présent article.
-
-**Nota:**
-
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -11398,18 +11510,9 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	  - Décret n°76-666 1976-07-16
 
-	**Cite**:
-
-	  - Ordonnance 2004-1201 2004-11-12
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L322-1-2 (M)
-	  - Code des assurances - art. L334-9 (V)
-	  - Code des assurances - art. L345-2 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 4 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -11420,16 +11523,16 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 ###### Article L310-19-1
 
-La commission de contrôle est saisie pour avis de toute proposition de désignation ou de renouvellement du mandat des
-commissaires aux comptes dans les organismes soumis à son contrôle dans des conditions fixées par décret. La commission peut
-en outre, lorsque la situation le justifie, procéder à la désignation d'un commissaire aux comptes supplémentaire.
+L'Autorité de contrôle est saisie pour avis de toute proposition de désignation ou de renouvellement du mandat des
+commissaires aux comptes dans les organismes soumis à son contrôle dans des conditions fixées par décret. L'Autorité peut en
+outre, lorsque la situation le justifie, procéder à la désignation d'un commissaire aux comptes supplémentaire.
 
 Lorsqu'elle a connaissance d'une infraction aux dispositions des articles L. 822-9 à L. 822-18 et L. 234-1 à L. 234-3 du code
 de commerce et de l'article L. 310-19 du présent code commise par un commissaire aux comptes d'une entreprise soumise à son
-contrôle, la Commission de contrôle des assurances peut demander au tribunal compétent de relever ce commissaire aux comptes
-de ses fonctions selon les modalités prévues à l'article L. 823-7 du code de commerce.
+contrôle, l'Autorité de contrôle des assurances peut demander au tribunal compétent de relever ce commissaire aux comptes de
+ses fonctions selon les modalités prévues à l'article L. 823-7 du code de commerce.
 
-La Commission de contrôle des assurances peut également dénoncer cette infraction à l'autorité disciplinaire compétente. Elle
+L'Autorité de contrôle des assurances peut également dénoncer cette infraction à l'autorité disciplinaire compétente. Elle
 peut, à cette fin, communiquer les informations qu'elle estime nécessaires à la bonne information de cette autorité.
 
 **Liens relatifs à cet article**
@@ -11440,7 +11543,7 @@ peut, à cette fin, communiquer les informations qu'elle estime nécessaires à 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -11457,7 +11560,7 @@ peut, à cette fin, communiquer les informations qu'elle estime nécessaires à 
 
 ###### Article L310-20
 
-La Commission de contrôle des assurances, l'Autorité des marchés financiers, la Commission bancaire, le Comité des
+L'Autorité de contrôle des assurances, l'Autorité des marchés financiers, la Commission bancaire, le Comité des
 établissements de crédit et des entreprises d'investissement, le Comité des entreprises d'assurance, le Conseil de la
 concurrence, les entreprises de marché et les chambres de compensation visées à l'article L. 631-1 du code monétaire et
 financier, le fonds de garantie des dépôts institué par l'article L. 312-4 du code monétaire et financier, le fonds de
@@ -11476,26 +11579,25 @@ communiqués, et à l'organisme destinataire.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L312-4 (M)
-	  - Code monétaire et financier - art. L631-1 (M)
-	  - Code de la sécurité sociale. - art. L931-35 (M)
-	  - Code des assurances - art. L421-1 (M)
+	  - Code monétaire et financier - art. L312-4 (V)
+	  - Code monétaire et financier - art. L631-1 (V)
+	  - Code de la sécurité sociale. - art. L931-35 (V)
+	  - Code des assurances - art. L421-1 (V)
 	  - Code des assurances - art. L423-1 (V)
 	  - Code de la mutualité - art. L431-1 (V)
 
 
 ###### Article L310-20-1
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est autorisée à communiquer à
-l'Institut national de la statistique et des études économiques et aux services statistiques des ministères chargés de la
-sécurité sociale et de la mutualité les documents qui lui sont transmis par les organismes soumis à son contrôle lorsque ces
-documents sont de nature à apporter des informations en matière de santé, de retraite et de prévoyance. La nature des
-documents transmis et les modalités de leur transmission sont déterminées par décret.
+L'Autorité de contrôle des assurances et des mutuelles est autorisée à communiquer à l'Institut national de la statistique et
+des études économiques et aux services statistiques des ministères chargés de la sécurité sociale et de la mutualité les
+documents qui lui sont transmis par les organismes soumis à son contrôle lorsque ces documents sont de nature à apporter des
+informations en matière de santé, de retraite et de prévoyance. La nature des documents transmis et les modalités de leur
+transmission sont déterminées par décret.
 
 **Liens relatifs à cet article**
 
@@ -11503,55 +11605,54 @@ documents transmis et les modalités de leur transmission sont déterminées par
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 31 () JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 
 ###### Article L310-21
 
-Les membres ainsi que les agents de la commission de contrôle des assurances sont tenus au secret professionnel sous les
-peines fixées par les articles 226-13 et 226-14 du code pénal. Ce secret n'est pas opposable à l'autorité judiciaire agissant
-dans le cadre d'une procédure pénale.
+Les membres ainsi que les agents de l'Autorité de contrôle des assurances sont tenus au secret professionnel sous les peines
+fixées par les articles 226-13 et 226-14 du code pénal. Ce secret n'est pas opposable l'autorité judiciaire agissant dans le
+cadre d'une procédure pénale.
 
-La commission de contrôle des assurances peut transmettre des informations aux autorités chargées de la surveillance des
+L'Autorité de contrôle des assurances peut transmettre des informations aux autorités chargées de la surveillance des
 entreprises d'assurance dans d'autres pays, sous réserve de réciprocité, et à condition que ces autorités soient elles-mêmes
 soumises au secret professionnel avec les mêmes garanties qu'en France.
 
-La commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut transmettre aux banques
-centrales des Etats membres ou des autres Etats parties à l'accord sur l'Espace économique européen, au Système européen de
-banques centrales, à la Banque centrale européenne et aux autres organismes agissant au titre de leurs compétences
-monétaires, et, le cas échéant, à d'autres autorités publiques chargées de la surveillance des systèmes de paiement, des
-informations destinées à l'accomplissement de leur mission. Les informations reçues dans ce cadre sont soumises au secret
-professionnel.
+L'Autorité de contrôle des assurances et des mutuelles peut transmettre aux banques centrales des Etats membres ou des autres
+Etats parties à l'accord sur l'Espace économique européen, au Système européen de banques centrales, à la Banque centrale
+européenne et aux autres organismes agissant au titre de leurs compétences monétaires, et, le cas échéant, à d'autres
+autorités publiques chargées de la surveillance des systèmes de paiement, des informations destinées à l'accomplissement de
+leur mission. Les informations reçues dans ce cadre sont soumises au secret professionnel.
 
 Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 relative à la communication de documents et
 renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques ou morales
-étrangères, la Commission de contrôle des assurances peut, en outre, conclure avec les autorités de contrôle des assurances
-des pays qui ne sont pas parties à l'accord sur l'Espace économique européen, à condition que ces autorités soient elles-
-mêmes soumises au secret professionnel, des conventions bilatérales ayant pour objet, outre les échanges d'information prévus
-à l'alinéa précédent, d'étendre les contrôles sur place de la Commission aux succursales ou aux filiales d'entreprises
-d'assurance soumises à son contrôle qui sont situées sur le territoire de compétence de l'autorité cocontractante et,
-réciproquement, de permettre à cette autorité de participer à des contrôles sur place de succursales ou de filiales
-françaises d'entreprises d'assurance soumises à son contrôle. A la demande de cette autorité, la Commission de contrôle des
-assurances effectue les contrôles sur place de succursales ou filiales françaises d'entreprises d'assurance soumises au
-contrôle de cette autorité étrangère ou, le cas échéant, conjointement avec elle. Seule la Commission de contrôle des
-assurances peut prononcer des sanctions à l'égard de la succursale ou de la filiale contrôlée en France. L'assistance
-demandée par une autorité étrangère à la Commission de contrôle des assurances est refusée par celle-ci lorsque l'exécution
-de la demande est de nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques essentiels ou à
-l'ordre public français ou lorsqu'une procédure pénale quelconque a déjà été engagée en France sur la base des mêmes faits et
-contre les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une décision définitive pour les mêmes
-faits. Lorsque les autorités d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
-économique européen souhaitent vérifier des informations utiles à l'exercice de leur surveillance concernant une entreprise
-située en France et qui est une entreprise apparentée d'une entreprise d'assurance soumise à leur surveillance
-complémentaire, la Commission de contrôle des assurances doit répondre à leur demande soit en procédant elle-même à cette
-vérification, soit en permettant à des représentants de ces autorités d'y procéder. Lorsqu'elle ne procède pas elle-même à la
-vérification, l'autorité qui a présenté la demande peut, si elle le souhaite, y être associée.
-
-**Nota:**
-
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+étrangères, l'Autorité de contrôle des assurances peut, en outre, conclure avec les autorités de contrôle des assurances des
+pays qui ne sont pas parties à l'accord sur l'Espace économique européen, à condition que ces autorités soient elles-mêmes
+soumises au secret professionnel, des conventions bilatérales ayant pour objet, outre les échanges d'information prévus à
+l'alinéa précédent, d'étendre les contrôles sur place de l'Autorité aux succursales ou aux filiales d'entreprises d'assurance
+soumises à son contrôle qui sont situées sur le territoire de compétence de l'autorité cocontractante et, réciproquement, de
+permettre à cette autorité de participer à des contrôles sur place de succursales ou de filiales françaises d'entreprises
+d'assurance soumises à son contrôle. A la demande de cette autorité, l'Autorité de contrôle des assurances effectue les
+contrôles sur place de succursales ou filiales françaises d'entreprises d'assurance soumises au contrôle de cette autorité
+étrangère ou, le cas échéant, conjointement avec elle. Seule l'Autorité de contrôle des assurances peut prononcer des
+sanctions à l'égard de la succursale ou de la filiale contrôlée en France. L'assistance demandée par une autorité étrangère à
+l'Autorité de contrôle des assurances et des mutuelles est refusée par celle-ci lorsque l'exécution de la demande est de
+nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques essentiels ou à l'ordre public français
+ou lorsqu'une procédure pénale quelconque a déjà été engagée en France sur la base des mêmes faits et contre les mêmes
+personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une décision définitive pour les mêmes faits. Lorsque les
+autorités d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+souhaitent vérifier des informations utiles à l'exercice de leur surveillance concernant une entreprise située en France et
+qui est une entreprise apparentée d'une entreprise d'assurance soumise à leur surveillance complémentaire, l'Autorité de
+contrôle des assurances doit répondre à leur demande soit en procédant elle-même à cette vérification, soit en permettant à
+des représentants de ces autorités d'y procéder. Lorsqu'elle ne procède pas elle-même à la vérification, l'autorité qui a
+présenté la demande peut, si elle le souhaite, y être associée.
 
 **Liens relatifs à cet article**
 
@@ -11560,7 +11661,6 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 	  - Loi n°68-678 1968-07-26
 	  - Code pénal - art. 226-13 (M)
 	  - Code pénal - art. 226-14 (M)
-	  - Code des assurances 20
 
 	**Codifié par**:
 
@@ -11568,12 +11668,12 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 4 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article L310-22
 
-Lorsque la commission relève des faits de nature à justifier des poursuites pénales, elle transmet le dossier avec un avis
+Lorsque l'Autorité relève des faits de nature à justifier des poursuites pénales, elle transmet le dossier avec un avis
 motivé au procureur de la République territorialement compétent, sans préjudice des sanctions qu'elle peut prononcer en
 application de l'article L. 310-18 ou de l'article L. 310-18-1. Si la gravité des faits relevés le justifie, la transmission
 a lieu avant établissement du rapport contradictoire mentionné à l'article L. 310-16.
@@ -11591,13 +11691,17 @@ a lieu avant établissement du rapport contradictoire mentionné à l'article L.
 
 	**Modifié par**:
 
-	  - Loi n°99-532 1999-06-25 art. 91 4° JORF 29 juin 1999
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-16 (M)
-	  - Code des assurances - art. L310-18 (M)
-	  - Code des assurances - art. L310-18-1 (M)
+	  - Code des assurances - art. L310-16
+	  - Code des assurances - art. L310-18
+	  - Code des assurances - art. L310-18-1
 
 	**Cité par**:
 
@@ -11606,8 +11710,8 @@ a lieu avant établissement du rapport contradictoire mentionné à l'article L.
 
 ###### Article L310-23
 
-Lorsque la commission relève des pratiques anticoncurrentielles au sens des articles L. 420-1 et L. 420-2 du code de
-commerce, elle en informe le ministre chargé de l'économie et des finances.
+Lorsque l'Autorité relève des pratiques anticoncurrentielles au sens des articles L. 420-1 et L. 420-2 du code de commerce,
+elle en informe le ministre chargé de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
@@ -11615,31 +11719,35 @@ commerce, elle en informe le ministre chargé de l'économie et des finances.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3
 
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
+
 	**Cite**:
 
-	  - Code de commerce. - art. L420-1 (M)
-	  - Code de commerce. - art. L420-2 (M)
+	  - Code de commerce - art. L420-1
+	  - Code de commerce - art. L420-2
 
 
 ###### Article L310-25
 
 Le redressement ou la liquidation judiciaires institués par la loi n° 85-98 du 25 janvier 1985 précitée (1) ne peut être
-ouvert à l'égard d'une entreprise visée aux articles L. 310-1 ou L. 310-1-1 qu'à la requête de la commission de contrôle des
-assurances ; le tribunal peut également se saisir d'office ou être saisi par le procureur de la République d'une demande
-d'ouverture de cette procédure après avis conforme de la commission de contrôle des assurances. Les dispositions de l'article
-L. 326-4 sont applicables à la procédure de redressement judiciaire.
+ouvert à l'égard d'une entreprise visée aux articles L. 310-1 ou L. 310-1-1 qu'à la requête de l'Autorité de contrôle des
+assurances et des mutuelles ; le tribunal peut également se saisir d'office ou être saisi par le procureur de la République
+d'une demande d'ouverture de cette procédure après avis conforme de l'Autorité de contrôle des assurances. Les dispositions
+de l'article L. 326-4 sont applicables à la procédure de redressement judiciaire.
 
 Le président du tribunal ne peut être saisi d'une demande d'ouverture du règlement amiable institué par les articles L. 611-3
-à L. 611-6 du code de commerce à l'égard d'une entreprise susmentionnée, qu'après avis conforme de la commission de contrôle
-des assurances.
+à L. 611-6 du code de commerce à l'égard d'une entreprise susmentionnée, qu'après avis conforme de l'Autorité de contrôle des
+assurances.
 
 **Nota:**
 
@@ -11650,18 +11758,6 @@ des assurances.
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°85-98 1985-01-25
-	  - Code de commerce L611-3 à L611-6
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L326-4 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19 art. 6 XIX JORF 22 avril 2001
 
 	**Cité par**:
 
@@ -11674,6 +11770,10 @@ des assurances.
 	  - Code des assurances - art. L432-4 (V)
 	  - Code des assurances - art. R310-23 (VD)
 	  - Code des assurances - art. R322-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ##### Section IV : Sanctions.
@@ -11746,12 +11846,12 @@ contrats en cas de liquidation d'une entreprise d'assurance.
 Le fait, pour tout dirigeant d'une société de groupe d'assurance ou d'une société de groupe mixte d'assurance définie à
 l'article L. 322-1-2, d'une compagnie financière holding mixte définie à l'article L. 334-2 ou d'une entreprise soumise au
 contrôle de l'Etat en vertu de l'article L. 310-1 ou L. 310-1-1,  après mise en demeure, de ne pas répondre aux demandes
-d'information de la commission de contrôle des assurances, ou de mettre obstacle de quelque manière que ce soit à l'exercice
-par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment des renseignements inexacts, est puni d'un
-emprisonnement de deux ans et d'une amende de 300 000 euros. Les mêmes dispositions s'appliquent aux dirigeants des personnes
-morales et aux personnes physiques que la Commission de contrôle des assurances aura décidé de soumettre à son contrôle en
-application du cinquième alinéa de l'article L. 310-12. Les entraves à l'action de la commission de contrôle exercée en
-application de l'article L. 323-1-1 sont punies des mêmes peines.
+d'information de l'Autorité de contrôle des assurances et des mutuelles, ou de mettre obstacle de quelque manière que ce soit
+à l'exercice par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment des renseignements inexacts, est puni
+d'un emprisonnement de deux ans et d'une amende de 300 000 euros. Les mêmes dispositions s'appliquent aux dirigeants des
+personnes morales et aux personnes physiques que l'Autorité de contrôle des assurances et des mutuelles aura décidé de
+soumettre à son contrôle en application du quatrième alinéa de l'article L. 310-12. Les entraves à l'action de l'Autorité de
+contrôle exercée en application de l'article L. 323-1-1 sont punies des mêmes peines.
 
 Le fait, pour les mêmes personnes, de faire des déclarations mensongères ou de procéder à des dissimulations frauduleuses
 dans tout document produit au ministre chargé de l'économie et des finances est puni des mêmes peines.
@@ -11763,32 +11863,16 @@ Les personnes morales peuvent également être déclarées responsables pénalem
 121-2 du code pénal, des infractions définies au présent article et encourent, dans ce cas, la peine d'amende, suivant les
 modalités prévues par l'article 131-38 du code pénal.
 
-**Nota:**
-
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Cite**:
-
-	  - Ordonnance 2004-1201 2004-11-12
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-12 (M)
-	  - Code des assurances - art. L322-1-2 (M)
-	  - Code des assurances - art. L323-1-1 (M)
-	  - Code des assurances - art. L334-2 (M)
-	  - Code des assurances L322-1-2, L334-2, L310-1, L323-1-1, L310-12, 20
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 4 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -12018,9 +12102,10 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 ###### Article L321-2
 
-Le Comité des entreprises d'assurance informe la Commission des communautés européennes de toute décision d'agrément d'une
-entreprise contrôlée par une entreprise dont le siège social est établi dans un Etat non partie à l'accord sur l'Espace
-économique européen. Le contrôle s'entend au sens des articles L. 233-3 et L. 233-16 du code de commerce.
+Le Comité des entreprises d'assurance informe la Commission européenne et les autorités compétentes mentionnées au 11° de
+l'article L. 334-2 de toute décision d'agrément d'une entreprise contrôlée par une entreprise dont le siège social est établi
+dans un Etat non partie à l'accord sur l'Espace économique européen. Le contrôle s'entend au sens des articles L. 233-3 et L.
+233-16 du code de commerce.
 
 Sur demande de l'autorité compétente des communautés européennes fondée sur ce qu'il a été constaté que les entreprises
 d'assurance ayant leur siège social dans un Etat membre des communautés n'ont pas accès au marché d'un Etat non partie à
@@ -12047,8 +12132,7 @@ et notamment ne donne pas droit à l'entreprise concernée d'y effectuer des op�
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 29 II 2°, 3° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -12065,11 +12149,6 @@ et notamment ne donne pas droit à l'entreprise concernée d'y effectuer des op�
 	  - Code des assurances - art. R321-4 (VD)
 	  - Code des assurances - art. R321-5-3 (VD)
 	  - Code des assurances - art. R342-22 (Ab)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L233-16 (M)
-	  - Code de commerce. - art. L233-3 (M)
 
 	**Anciens textes**:
 
@@ -12269,16 +12348,15 @@ définies à l'article L. 322-2 ;
 - la répartition de son capital et la qualité des actionnaires ou, pour les sociétés mentionnées à l'article L. 322-26-1, les
 modalités de constitution du fonds d'établissement.
 
-Le Comité des entreprises d'assurance refuse l'agrément, après avis de la Commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance, lorsque l'exercice de la mission de surveillance de l'entreprise est susceptible
-d'être entravé, soit par l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise requérante et
-d'autres personnes physiques ou morales, soit par l'existence de dispositions législatives, réglementaires ou administratives
-d'un Etat qui n'est pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de ces
-personnes.
+Le Comité des entreprises d'assurance refuse l'agrément, après avis de l'Autorité de contrôle des assurances et des
+mutuelles, lorsque l'exercice de la mission de surveillance de l'entreprise est susceptible d'être entravé, soit par
+l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise requérante et d'autres personnes
+physiques ou morales, soit par l'existence de dispositions législatives, réglementaires ou administratives d'un Etat qui
+n'est pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de ces personnes.
 
 La liste des documents à produire à l'appui d'une demande d'agrément présentée conformément aux dispositions des articles L.
 321-1, L. 321-7, L. 321-8 et L. 321-9 du code des assurances est, pour chaque type d'agrément, fixée par arrêté du ministre
-de l'économie et des finances.
+de l'économie et des finances. Cet arrêté précise également la liste des personnes mentionnées au troisième alinéa.
 
 L'octroi de l'agrément peut être subordonné au respect d'engagements souscrits par l'entreprise requérante.
 
@@ -12290,7 +12368,8 @@ L'octroi de l'agrément peut être subordonné au respect d'engagements souscrit
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -12331,12 +12410,11 @@ les modalités de constitution du fonds d'établissement ;
 - les moyens techniques et financiers dont la mise en oeuvre est proposée pour garantir la solvabilité de l'entreprise compte
 tenu de son programme d'activité.
 
-Le Comité des entreprises d'assurance refuse l'autorisation, après avis de la Commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance lorsque l'exercice de la mission de surveillance de l'entreprise est susceptible
-d'être entravé soit par l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise requérante et
-d'autres personnes physiques ou morales, soit par l'existence de dispositions législatives, réglementaires ou administratives
-d'un Etat qui n'est pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de ces
-personnes.
+Le Comité des entreprises d'assurance refuse l'autorisation, après avis de l'Autorité de contrôle des assurances et des
+mutuelles lorsque l'exercice de la mission de surveillance de l'entreprise est susceptible d'être entravé soit par
+l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise requérante et d'autres personnes
+physiques ou morales, soit par l'existence de dispositions législatives, réglementaires ou administratives d'un Etat qui
+n'est pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de ces personnes.
 
 La liste des documents à produire à l'appui d'une demande d'autorisation présentée conformément aux dispositions de l'article
 L. 321-1-1 est fixée par arrêté du ministre de l'économie et des finances.
@@ -12349,8 +12427,7 @@ L. 321-1-1 est fixée par arrêté du ministre de l'économie et des finances.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -12361,47 +12438,6 @@ L. 321-1-1 est fixée par arrêté du ministre de l'économie et des finances.
 	  - Code des assurances - art. L325-1 (VD)
 	  - Code des assurances - art. R321-26 (VD)
 	  - Code des assurances - art. R321-28 (VT)
-
-	**Cite**:
-
-	  - Code des assurances - art. L321-1-1 (M)
-	  - Code des assurances - art. L322-26-1 (T)
-
-
-##### Section V : Dispositions particulières applicables aux territoires d'outre-mer et à Mayotte.
-
-###### Article L321-11
-
-Les dispositions du chapitre Ier du titre II du livre III, dans la rédaction du présent code antérieure à l'entrée en vigueur
-de la loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans
-les territoires d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°91-716 1991-07-26
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
-	**Transféré par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 1 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
-
-	**Anciens textes**:
-
-	  - Code des assurances - art. L321-2-1 (T)
 
 
 #### Chapitre II : Règles de constitution et de fonctionnement
@@ -12628,101 +12664,134 @@ fonctionnement de ces sociétés de groupe d'assurance.
 
 ###### Article L322-2
 
-Nul ne peut à un titre quelconque fonder, diriger, administrer une entreprise soumise au contrôle de l'Etat en vertu de
-l'article L. 310-1, ou de l'article L. 310-1-1, ni une société de groupe d'assurance définie à l'article L. 322-1-2 ni une
-compagnie financière holding mixte définie à l'article L. 334-2 ;
+I. - Nul ne peut, à quelque titre que ce soit, diriger, gérer ou administrer une entreprise soumise au contrôle de l'Etat en
+vertu de l'article L. 310-1 ou de l'article L. 310-1-1, une société de groupe d'assurance définie à l'article L. 322-1-2, une
+compagnie financière holding mixte définie à l'article L. 334-2, ni être membre d'un organe collégial de contrôle de ces
+entreprises, sociétés ou compagnies, ni disposer du pouvoir de signer pour leur compte, s'il a fait l'objet depuis moins de
+dix ans d'une condamnation définitive :
 
-1° S'il a fait l'objet d'une condamnation :
+1° Pour crime ;
 
-a) Pour crime ;
+2° A une peine d'emprisonnement ferme ou d'au moins six mois avec sursis pour :
 
-b) Pour violation des dispositions des articles 441-1, 432-11 et 441-8, 433-2, 433-1, 433-3 du code pénal ;
+a) L'une des infractions prévues au titre Ier du livre III du code pénal et pour les délits prévus par des lois spéciales et
+punis des peines prévues pour l'escroquerie et l'abus de confiance ;
 
-c) Pour vol, escroquerie ou abus de confiance ;
+b) Recel ou l'une des infractions assimilées au recel ou voisines de celui-ci prévues à la section 2 du chapitre Ier du titre
+II du livre III du code pénal ;
 
-d) Pour un délit puni par des lois spéciales, des peines prévues aux articles 313-1 à 313-3 du code pénal ;
+c) Blanchiment ;
 
-e) Pour soustractions commises par dépositaires publics, extorsion de fonds ou valeurs, banqueroute, atteinte au crédit de
-l'Etat ou infraction à la législation sur les changes ;
+d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ;
 
-f) Par application des dispositions du livre II, titre IV du code de commerce, des articles L. 313-5 du code de la
-consommation et L. 353-1 du code monétaire et financier, aux prêts d'argent et à certaines opérations de démarchage et de
-publicité, de l'article L. 353-4 du code monétaire et financier ou de l'article 40 de la loi n° 83-1 du 3 janvier 1983 sur le
-développement des investissements et la protection de l'épargne ;
+e) Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de
+l'autorité ;
 
-g) Pour recel des choses obtenues à la suite de ces infractions ;
+f) Participation à une association de malfaiteurs ;
 
-h) Par application des dispositions des articles L. 571-3 à L. 571-9, L. 571-14 à L. 571-16 du code monétaire et financier.
+g) Trafic de stupéfiants ;
 
-i) Par application des articles 222-38, 324-1 et 324-2 du code pénal ou de l'article 415 du code des douanes.
+h) Proxénétisme ou l'une des infractions prévues par les sections 2 et 2 bis du chapitre V du titre II du livre II du code
+pénal ;
 
-2° S'il a été condamné à une peine d'emprisonnement supérieure à deux mois en application de l'article L. 163-2 du code
-monétaire et financier.
+i) L'une des infractions prévues à la section 3 du même chapitre ;
 
-3° S'il a fait l'objet d'une condamnation prononcée par une juridiction étrangère et passée en force de chose jugée,
-constituant d'après la loi française une condamnation pour l'un des crimes ou délits mentionnés au présent article ; le
-tribunal correctionnel du domicile du condamné apprécie à la requête du ministère public la régularité et la légalité de
-cette décision, et statue en chambre du conseil, l'intéressé dûment appelé, sur l'application en France de l'interdiction.
+j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de commerce ;
 
-4° Si une mesure de faillite personnelle ou une autre mesure d'interdiction prévue aux articles L. 625-1 à L. 625-10 du code
-de commerce ou, dans le régime antérieur, à l'article 108 de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire,
-la liquidation des biens, la faillite personnelle et les banqueroutes, a été prononcée à son égard ou s'il a été déclaré en
-état de faillite par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France et s'il n'a
-pas été réhabilité.
+k) Banqueroute ;
 
-5° S'il a fait l'objet d'une mesure de destitution de fonctions d'officier ministériel en vertu d'une décision judiciaire.
+l) Pratique de prêt usuraire ;
 
-Ces interdictions peuvent également être prononcées par les tribunaux à l'encontre de toute personne condamnée pour
-infractions à la législation ou à la réglementation des assurances.
+m) L'une des infractions prévues par la loi du 21 mai 1836 portant prohibition des loteries, par la loi du 15 juin 1907
+réglementant les jeux dans les casinos des stations balnéaires, thermales et climatiques et dans les casinos installés à bord
+des navires immatriculés au registre international français et par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de
+hasard ;
 
-Les personnes appelées à fonder, diriger ou administrer une entreprise ou une société mentionnée au premier alinéa doivent
-posséder l'honorabilité, la compétence ainsi que l'expérience nécessaires à leur fonction.
+n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
 
-Lorsqu'il est amené à apprécier l'honorabilité, la compétence et l'expérience de dirigeants et d'administrateurs qui exercent
-ces mêmes fonctions au sein d'entités autres que celles mentionnées au premier alinéa et appartenant au même groupe au sens
-de l'article L. 334-2, le comité des entreprises d'assurance consulte les autorités compétentes au titre de ces autres
-entités. Il communique à ces autorités les informations utiles à l'exercice de leurs missions.
+o) Fraude fiscale ;
 
-Les dispositions du présent article sont applicables au mandataire général désigné par les entreprises opérant en régime
-d'établissement.
+p) L'une des infractions prévues aux articles L. 121-6, L. 121-28, L. 122-8 à L. 122-10, L. 213-1 à L. 213-5, L. 217-1 à L.
+217-3, L. 217-6 et L. 217-10 du code de la consommation ;
+
+q) L'une des infractions prévues au code monétaire et financier ;
+
+r) L'une des infractions prévues aux articles L. 324-9, L. 324-10 et L. 362-3 du code du travail ;
+
+s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ;
+
+t) L'une des infractions à la législation ou la réglementation des assurances ;
+
+3° A la destitution des fonctions d'officier public ou ministériel.
+
+II. - L'incapacité prévue au premier alinéa s'applique à toute personne à l'égard de laquelle a été prononcée une mesure
+définitive de faillite personnelle ou une autre mesure définitive d'interdiction dans les conditions prévues par le livre VI
+du code de commerce.
+
+III. - Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du code pénal, la juridiction prononçant la
+décision qui entraîne cette incapacité peut en réduire la durée.
+
+IV. - Les personnes exerçant une fonction, une activité ou une profession mentionnée au premier alinéa du I qui font l'objet
+de l'une des condamnations prévues aux I et II doivent cesser leur activité dans un délai d'un mois à compter de la date à
+laquelle la décision de justice est devenue définitive. Ce délai peut être réduit ou supprimé par la juridiction qui a rendu
+cette décision.
+
+V. - En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
+constituant, selon la loi française, un crime ou l'un des délits mentionnés au I, le tribunal correctionnel du domicile du
+condamné déclare, à la requête du ministère public, après constatation de la régularité et de la légalité de la condamnation
+et l'intéressé ayant été dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue au
+premier alinéa du I.
+
+Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une faillite personnelle
+prononcée par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France. La demande
+d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du
+domicile du condamné.
+
+VI. - Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de
+l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation d'exercice.
+
+VII. - Les personnes appelées à conduire une entreprise, une société ou une compagnie mentionnée au premier alinéa du I au
+sens de l'article L. 321-10 doivent posséder l'honorabilité, la compétence ainsi que l'expérience nécessaires à leur
+fonction.
+
+VIII. - Lorsqu'il est amené à apprécier l'honorabilité, la compétence et l'expérience de dirigeants et d'administrateurs qui
+exercent ces mêmes fonctions au sein d'entités autres que celles mentionnées au premier alinéa et appartenant au même groupe
+au sens de l'article L. 334-2, le comité des entreprises d'assurance consulte les autorités compétentes au titre de ces
+autres entités. Il communique à ces autorités les informations utiles à l'exercice de leurs missions.
+
+IX. - Les dispositions du présent article sont applicables au mandataire général désigné par les entreprises opérant en
+régime d'établissement.
 
 **Nota:**
 
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+Loi 2006-437 2006-04-14 art. 7 VII : Les modifications induites par la présente loi entreront en vigueur dans un délais de
+six mois à compter de la publication du décret mentionné à l'article L. 133-18 du code du tourisme. Le décret 2008-884 a été
+publié le 3 septembre 2008.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°67-563 du 13 juillet 1967 - art. 108 (Ab)
-	  - Loi n°83-1 du 3 janvier 1983 - art. 40 (M)
-	  - Ordonnance 2004-1201 2004-11-12
-	  - Code de commerce L625-1 à L625-10
-	  - Code de la consommation - art. L313-5 (M)
-	  - Code pénal - art. 222-38 (M)
-	  - Code pénal - art. 324-1 (M)
-	  - Code pénal - art. 324-2 (M)
-	  - Code pénal - art. 432-11 (M)
-	  - Code pénal - art. 433-1 (M)
-	  - Code pénal - art. 433-2 (M)
-	  - Code pénal - art. 433-3 (M)
-	  - Code pénal - art. 441-1 (M)
-	  - Code pénal - art. 441-8 (M)
-	  - Code pénal 441-1, 432-11, 441-8, 433-2, 433-1, 433-3, 313-1 à 313-3, 222-38, 324-1, 324-2
-	  - Code des douanes - art. 415 (T)
-	  - Code monétaire et financier - art. L163-2 (M)
-	  - Code monétaire et financier - art. L353-4 (M)
-	  - Code monétaire et financier L353-4, L571-3 à L571-9, L571-14 à L571-16, L163-2
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L322-1-2 (M)
-	  - Code des assurances - art. L334-2 (M)
-	  - Code des assurances L310-1, L310-1-1, L322-1-2, L334-2, 20
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°83-628 1983-07-12
+	  - Code de la consommation - art. L121-28 (M)
+	  - Code de la consommation - art. L121-6 (M)
+	  - Code de la consommation - art. L217-10 (M)
+	  - Code de la consommation - art. L217-6 (V)
+	  - Code de la consommation L121-6, L121-28, L122-8 à L122-10, L213-1 à L213-5, L217-1 à L217-3, L217-6, L217-10
+	  - Code pénal - art. 132-21 (M)
+	  - Code du travail - art. L324-10 (M)
+	  - Code du travail - art. L324-9 (M)
+	  - Code du travail - art. L362-3 (M)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L322-1-2 (M)
+	  - Code des assurances - art. L334-2 (M)
+	  - Loi n°1836-05-21
+	  - Loi n°1907-06-15
 
 	**Cité par**:
 
@@ -12750,7 +12819,7 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 3 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 
 ###### Article L322-2-1
@@ -12773,18 +12842,18 @@ doit être inscrite au registre du commerce et des sociétés.
 
 II. - Nonobstant l'article L. 228-41 du code précité, l'assemblée générale des sociétaires est seule habilitée à fixer les
 caractéristiques essentielles de l'émission d'obligations, de titres participatifs ou de titres subordonnés. Elle peut
-toutefois déléguer au conseil d'administration ou au directoire, dans le cadre ainsi défini, les pouvoirs nécessaires pour en
-arrêter les modalités pratiques. Il est rendu compte par le conseil d'administration ou par le directoire à la plus prochaine
-assemblée générale de l'exercice de cette délégation. Les contrats d'émission ne peuvent en aucun cas avoir pour but de
-privilégier une catégorie de sociétaires, des personnes qui sont liées à la société par un contrat de travail, des dirigeants
-de droit ou de fait de celle-ci ou toute autre personne. Les contrats conclus en violation de cette disposition sont frappés
-de nullité absolue.
+toutefois déléguer au conseil d'administration ou au directoire,  dans le cadre ainsi défini, les pouvoirs nécessaires pour
+en arrêter les modalités pratiques. Il est rendu compte par le conseil d'administration ou par le directoire à la plus
+prochaine assemblée générale de l'exercice de cette délégation. Les contrats d'émission ne peuvent en aucun cas avoir pour
+but de privilégier une catégorie de sociétaires, des personnes qui sont liées à la société par un contrat de travail, des
+dirigeants de droit ou de fait de celle-ci ou toute autre personne. Les contrats conclus en violation de cette disposition
+sont frappés de nullité absolue.
 
 III. - En ce qui concerne la rémunération des titres participatifs, la partie variable ne peut être calculée par référence à
 un critère représentatif du volume d'activité de la société émettrice.
 
-IV. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment le contrôle exercé par la
-Commission de contrôle des assurances sur ces émissions.
+IV. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment le contrôle exercé par
+l'Autorité de contrôle des assurances et des mutuelles sur ces émissions.
 
 **Nota:**
 
@@ -12810,11 +12879,6 @@ code de commerce.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 89 () JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 1 (V)
@@ -12826,6 +12890,10 @@ code de commerce.
 	  - Code des assurances - art. R322-74 (Ab)
 	  - Code des assurances - art. R322-79 (V)
 	  - Code monétaire et financier - art. L213-33 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Nouveaux textes**:
 
@@ -12924,8 +12992,8 @@ Les dispositions du premier alinéa sont applicables aux entreprises mentionnée
 310-1-1, ainsi qu'aux succursales des entreprises étrangères mentionnées aux 3° et 4° de l'article L. 310-2. Pour ces
 dernières, le rapport de solvabilité est établi par le mandataire général représentant la société.
 
-Le rapport de solvabilité mentionné au premier alinéa est communiqué aux commissaires aux comptes et à la Commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance.
+Le rapport de solvabilité mentionné au premier alinéa est communiqué aux commissaires aux comptes et à l'Autorité de contrôle
+des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -12935,8 +13003,7 @@ contrôle des assurances, des mutuelles et des institutions de prévoyance.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 32 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -12964,61 +13031,26 @@ contrôle des assurances, des mutuelles et des institutions de prévoyance.
 	  - Code des assurances - art. L310-2 (M)
 
 
-###### Article L322-3
-
-Les dispositions de la section I du chapitre II du titre II du livre III, dans la rédaction du présent code antérieure à la
-loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans les
-territoires d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°91-716 1991-07-26
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-	  - SPEC_APPLI: Code des assurances - art. L322-2 (M)
-
-	**Modifié par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
-
-	**Cité par**:
-
-	  - Code des assurances - art. L322-3-1 (V)
-	  - Code monétaire et financier - art. L511-46 (Ab)
-
-
 ##### Section II : Sociétés anonymes d'assurance et de capitalisation.
 
 ###### Article L322-4
 
 Les prises, extensions ou cessions de participations directes ou indirectes dans les entreprises mentionnées au 1° de
-l'article L. 310-2 peuvent être soumises, afin de préserver les intérêts des assurés, à un régime de déclaration ou
-d'autorisation préalables, dans des conditions définies par décret en Conseil d'Etat. Ces dispositions s'appliquent également
-aux prises, extensions ou cessions de participations dans des sociétés de groupe d'assurance dont le siège social est situé
-en France ainsi que dans des compagnies financières holdings mixtes dont le siège social est situé en France et appartenant à
-un conglomérat financier dont la surveillance est coordonnée par la commission de contrôle dans les conditions prévues à
-l'article L. 334-9.
+l'article L. 310-2 peuvent être soumises à un régime de déclaration ou d'autorisation préalable, dans des conditions définies
+par décret en Conseil d'Etat. Ce régime vise à préserver les intérêts des assurés et à s'assurer que l'entreprise dispose
+d'une gestion saine et prudente. Ces dispositions s'appliquent également aux prises, extensions ou cessions de participations
+dans des sociétés de groupe d'assurance dont le siège social est situé en France ainsi que dans des compagnies financières
+holdings mixtes dont le siège social est situé en France et appartenant à un conglomérat financier dont la surveillance est
+coordonnée par l'Autorité de contrôle dans les conditions prévues à l'article L. 334-9.
 
 L'autorisation donnée à des opérations mentionnées au premier alinéa peut être subordonnée au respect d'engagements souscrits
 par une ou plusieurs des personnes ayant présenté une demande d'autorisation.
 
 En cas de manquement aux prescriptions édictées par le décret en Conseil d'Etat visé au premier alinéa du présent article et
 sans préjudice des dispositions de l'article L. 233-14 du code de commerce, à la demande du Comité des entreprises
-d'assurance, du procureur de la République, de la Commission de contrôle des assurances ou de tout actionnaire, le juge
-suspend, jusqu'à régularisation de la situation, l'exercice des droits de vote attachés aux actions ou parts sociales des
-entreprises visées au premier alinéa du présent article détenues irrégulièrement, directement ou indirectement.
+d'assurance, du procureur de la République, de l'Autorité de contrôle des assurances et des mutuelles ou de tout actionnaire,
+le juge suspend, jusqu'à régularisation de la situation, l'exercice des droits de vote attachés aux actions ou parts sociales
+des entreprises visées au premier alinéa du présent article détenues irrégulièrement, directement ou indirectement.
 
 Toute personne envisageant de déposer un projet d'offre publique à l'Autorité des marchés financiers en application du
 chapitre III du titre III du livre IV du code monétaire et financier, en vue d'acquérir une quantité déterminée de titres
@@ -13031,11 +13063,6 @@ sur le fondement du présent article après la décision rendue par le ministre 
 L. 430-1 et suivants du code de commerce ou celle rendue par la Commission européenne en application du règlement (CEE) n°
 4064/89 du Conseil, du 21 décembre 1989, relatif au contrôle des opérations de concentration entre entreprises.
 
-**Nota:**
-
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
-
 **Liens relatifs à cet article**
 
 	**Liens**:
@@ -13046,21 +13073,10 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	  - Décret n°76-666 1976-07-16
 
-	**Cite**:
-
-	  - Ordonnance 2004-1201 2004-11-12
-	  - Code de commerce. - art. L233-14 (M)
-	  - Code de commerce. - art. L430-1 (M)
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. L334-9 (V)
-	  - Code des assurances L310-2, L334-9, L310-1, L310-1-1, 20
-	  - Règlement 4064-89 CEE 1989-12-21 (Conseil)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 3 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -13071,10 +13087,11 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 ###### Article L322-4-1
 
-Le Comité des entreprises d'assurance informe la Commission des communautés européennes de toute prise de participation
-susceptible de conférer le contrôle d'une entreprise mentionnée à l'article L. 310-1 et visée au 1° de l'article L. 310-2 à
-une entreprise dont le siège social est situé dans un Etat non partie au traité sur l'Espace économique européen. Le contrôle
-s'entend au sens des articles L. 233-3 et L. 233-16 du code de commerce.
+Le Comité des entreprises d'assurance informe la Commission européenne et les autorités compétentes mentionnées au 11° de
+l'article L. 334-2 de toute prise de participation susceptible de conférer le contrôle d'une entreprise mentionnée à
+l'article L. 310-1 et visée au 1° de l'article L. 310-2 à une entreprise dont le siège social est situé dans un Etat non
+partie à l'accord sur l'Espace économique européen. Le contrôle s'entend au sens des articles L. 233-3 et L. 233-16 du code
+de commerce.
 
 Sur demande de l'autorité compétente des communautés européennes, dans les circonstances mentionnées au deuxième alinéa de
 l'article L. 321-2, le Comité des entreprises d'assurance s'oppose, pendant une durée de trois mois, à toute prise de
@@ -13093,16 +13110,7 @@ au traité sur l'Espace économique européen.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 29 II 2°, 3° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de commerce. - art. L233-16 (M)
-	  - Code de commerce. - art. L233-3 (M)
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-2 (M)
-	  - Code des assurances - art. L321-2 (M)
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 	**Nouveaux textes**:
 
@@ -13876,31 +13884,30 @@ de rachat ou le versement d'avances sur contrats.
 
 ###### Article L323-1-1
 
-Lorsque la situation financière d'un organisme contrôlé par la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance en vertu de l'article L. 310-12, ou que ses conditions de fonctionnement sont telles que les
-intérêts des assurés et bénéficiaires des contrats sont compromis ou susceptibles de l'être, la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance prend les mesures d'urgence nécessaires à la sauvegarde de
-l'intérêt des assurés, membres et ayants droit.
+Lorsque la situation financière d'un organisme contrôlé par l'Autorité de contrôle des assurances et des mutuelles en vertu
+de l'article L. 310-12, ou que ses conditions de fonctionnement sont telles que les intérêts des assurés et bénéficiaires des
+contrats sont compromis ou susceptibles de l'être, l'Autorité de contrôle des assurances et des mutuelles prend les mesures
+d'urgence nécessaires à la sauvegarde de l'intérêt des assurés, membres et ayants droit.
 
 Elle peut, à ce titre, mettre l'entreprise sous surveillance spéciale.
 
 Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie des actifs de l'entreprise, limiter ou
 suspendre temporairement certaines opérations, ou désigner un ou plusieurs administrateurs provisoires à qui sont transférés
 les pouvoirs nécessaires à l'administration et à la direction de l'entreprise. Cette désignation est faite soit à la demande
-des dirigeants lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs fonctions, soit à l'initiative de la
-commission lorsque la gestion de l'établissement ne peut plus être assurée dans des conditions normales, ou lorsque a été
+des dirigeants lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs fonctions, soit à l'initiative de
+l'Autorité lorsque la gestion de l'établissement ne peut plus être assurée dans des conditions normales, ou lorsque a été
 prise la sanction prévue au 4° de l'article L. 310-18.
 
-La commission de contrôle peut exiger de l'entreprise une marge de solvabilité plus importante que celle prescrite par la
-réglementation afin que l'entreprise soit rapidement en mesure de satisfaire à l'ensemble des exigences de solvabilité. Le
-niveau de cette exigence supplémentaire de marge de solvabilité est déterminé selon des modalités définies par décret en
-Conseil d'Etat.
+L'Autorité de contrôle des assurances et des mutuelles peut exiger de l'entreprise une marge de solvabilité plus importante
+que celle prescrite par la réglementation afin que l'entreprise soit rapidement en mesure de satisfaire à l'ensemble des
+exigences de solvabilité. Le niveau de cette exigence supplémentaire de marge de solvabilité est déterminé selon des
+modalités définies par décret en Conseil d'Etat.
 
-La commission de contrôle peut, par entreprise, revoir à la baisse les éléments admis à constituer la marge de solvabilité
-dans des conditions fixées par décret en Conseil d'Etat.
+L'Autorité de contrôle des assurances et des mutuelles peut, par entreprise, revoir à la baisse les éléments admis à
+constituer la marge de solvabilité dans des conditions fixées par décret en Conseil d'Etat.
 
-Les mesures mentionnées au troisième alinéa sont levées ou confirmées par la commission, après procédure contradictoire, dans
-un délai prévu par décret en Conseil d'Etat.
+Les mesures mentionnées au troisième alinéa sont levées ou confirmées par l'Autorité, après procédure contradictoire, dans un
+délai prévu par décret en Conseil d'Etat.
 
 Ce même décret précise les modalités d'application du présent article.
 
@@ -13912,8 +13919,7 @@ Ce même décret précise les modalités d'application du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 1 () JORF 10 juin 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -13938,31 +13944,6 @@ Ce même décret précise les modalités d'application du présent article.
 	  - Code des assurances - art. R323-4 (VT)
 	  - Code des assurances - art. R323-5 (VT)
 	  - Code des assurances - art. R325-10 (V)
-
-
-###### Article L323-2
-
-Les dispositions de la section I du chapitre III du titre II du livre III, dans la rédaction du présent code antérieur à la
-loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans les
-territoires d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°91-716 1991-07-26
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 1 () JORF 10 juin 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ##### Section II : Mesures d'assainissement des entreprises communautaires.
@@ -14218,48 +14199,18 @@ commerce.
 	  - Code des assurances - art. L344-1 (V)
 
 
-###### Article L324-4
-
-Les dispositions de la section I du chapitre IV du titre II du livre III, dans la rédaction du présent code applicable
-antérieurement à la loi n° 89-1014 du 31 décembre 1989 portant adaptation du code des assurances à l'ouverture du marché
-européen, sont applicables dans les territoires d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°89-1014 1989-12-31
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
-	**Modifié par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
-
-
 ##### Section II : Transfert d'office
 
 ###### Article L324-5
 
-Lorsqu'une entreprise fait l'objet d'une procédure de transfert d'office de portefeuille, la Commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance peut, si elle estime que les personnes physiques ou morales,
-autres que les mandataires et salariés d'entreprises d'assurance, par l'intermédiaire desquelles des contrats comportant la
-garantie de risques mentionnés aux articles L. 421-9 et L. 423-1 ont été présentés ou souscrits ont eu un comportement ayant
-contribué aux difficultés de cette entreprise, décider à l'issue d'une procédure contradictoire que les personnes
-susmentionnées doivent reverser au cessionnaire du portefeuille ou, à défaut, au fonds de garantie tout ou partie des
-commissions ou rémunérations de toutes natures, directes ou indirectes, encaissées à l'occasion de la présentation ou de la
-souscription de ces contrats, au cours des dix-huit mois précédant le mois au cours duquel la procédure de transfert de
-portefeuille est lancée.
+Lorsqu'une entreprise fait l'objet d'une procédure de transfert d'office de portefeuille, l'Autorité de contrôle des
+assurances et des mutuelles peut, si elle estime que les personnes physiques ou morales, autres que les mandataires et
+salariés d'entreprises d'assurance, par l'intermédiaire desquelles des contrats comportant la garantie de risques mentionnés
+aux articles L. 421-9 et L. 423-1 ont été présentés ou souscrits ont eu un comportement ayant contribué aux difficultés de
+cette entreprise, décider à l'issue d'une procédure contradictoire que les personnes susmentionnées doivent reverser au
+cessionnaire du portefeuille ou, à défaut, au fonds de garantie tout ou partie des commissions ou rémunérations de toutes
+natures, directes ou indirectes, encaissées à l'occasion de la présentation ou de la souscription de ces contrats, au cours
+des dix-huit mois précédant le mois au cours duquel la procédure de transfert de portefeuille est lancée.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
@@ -14271,8 +14222,7 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -14338,8 +14288,10 @@ de l'importance respective des fonds propres et des engagements pris envers les 
 
 Sans préjudice des dispositions de l'article L. 310-18, l'agrément administratif prévu aux articles L. 321-1, L. 321-7 et L.
 321-9 peut être retiré par le Comité des entreprises d'assurance en cas d'absence prolongée d'activité, de rupture de
-l'équilibre entre les moyens financiers de l'entreprise et son activité ou, si l'intérêt général l'exige, de modification
-substantielle de la composition du capital social ou des organes de direction.
+l'équilibre entre les moyens financiers de l'entreprise et son activité ou, si l'intérêt général l'exige, de changements
+substantiels affectant la répartition de son capital, la qualité des actionnaires ou la composition des organes de direction.
+Il peut également être retiré par le Comité des entreprises d'assurance lorsque les engagements mentionnés au dernier alinéa
+de l'article L. 321-10 ne sont plus respectés alors que la situation de l'entreprise justifie leur maintien.
 
 **Liens relatifs à cet article**
 
@@ -14349,7 +14301,7 @@ substantielle de la composition du capital social ou des organes de direction.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 29 6° JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -14382,6 +14334,7 @@ substantielle de la composition du capital social ou des organes de direction.
 
 	  - Code des assurances - art. L310-18 (M)
 	  - Code des assurances - art. L321-1 (M)
+	  - Code des assurances - art. L321-10 (M)
 	  - Code des assurances - art. L321-7 (V)
 	  - Code des assurances - art. L321-9 (M)
 
@@ -14425,25 +14378,26 @@ composition du capital social ou des organes de direction.
 
 ###### Article L326-2
 
-La décision du Comité des entreprises d'assurance ou de la commission de contrôle des assurances prononçant le retrait total
-de l'agrément administratif emporte de plein droit, à dater de sa publication, si elle concerne une entreprise française, la
-dissolution de la personne morale ou, si elle concerne une entreprise étrangère, la liquidation de l'actif et du passif du
-bilan spécial de ses opérations en France.
+La décision du Comité des entreprises d'assurance ou de la l'Autortié de contrôle des assurances et des mutuelles prononçant
+le retrait total de l'agrément administratif emporte de plein droit, à dater de sa publication, si elle concerne une
+entreprise française, la dissolution de la personne morale ou, si elle concerne une entreprise étrangère, la liquidation de
+l'actif et du passif du bilan spécial de ses opérations en France.
 
-Dans les deux cas, la liquidation judiciaire est ouverte à la requête de la commission de contrôle des assurances. Elle est
-régie par le chapitre II du titre II du livre VI du code de commerce, sous réserve des dispositions du présent chapitre.
+Dans les deux cas, la liquidation judiciaire est ouverte à la requête de l'Autorité de contrôle des assurances et des
+mutuelles. Elle est régie par le chapitre II du titre II du livre VI du code de commerce, sous réserve des dispositions du
+présent chapitre.
 
-La commission de contrôle des assurances désigne un liquidateur, chargé de la vérification des créances d'assurance, ainsi
-que de l'inventaire des actifs directement liés aux passifs, tels que les créances à l'égard des assurés, des cédantes, des
-réassureurs et des co-assureurs.
+L'Autorité de contrôle des assurances et des mutuelles désigne un liquidateur, chargé de la vérification des créances
+d'assurance, ainsi que de l'inventaire des actifs directement liés aux passifs, tels que les créances à l'égard des assurés,
+des cédantes, des réassureurs et des co-assureurs.
 
 Le tribunal compétent désigne parallèlement en tant que liquidateur, lors du jugement d'ouverture, un ou plusieurs
 mandataires de justice, qui peuvent être choisis en dehors de la liste des mandataires judiciaires au redressement et à la
 liquidation des entreprises. Ce liquidateur est chargé de l'inventaire des autres actifs et des opérations de liquidation.
 
 Le tribunal désigne par la même décision un juge-commissaire chargé de contrôler les opérations de liquidation ; ce juge est
-assisté, dans l'exercice de sa mission, par un ou plusieurs commissaires désignés par la commission de contrôle des
-assurances.
+assisté, dans l'exercice de sa mission, par un ou plusieurs commissaires désignés par l'Autorité de contrôle des assurances
+et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -14453,11 +14407,7 @@ assurances.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de commerce
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -14559,13 +14509,14 @@ droit à renonciation en application de l'article L. 132-5-1.
 
 En cas de retrait de l'agrément administratif accordé à une entreprise mentionnée au 2° et au 3° de l'article L. 310-1, tous
 les contrats souscrits par elle cessent de plein droit d'avoir effet le quarantième jour à midi, à compter de la publication
-au Journal officiel de la décision du Comité des entreprises d'assurance ou de la commission de contrôle des assurances
-prononçant le retrait. Les primes ou cotisations échues avant la date de la décision du Comité des entreprises d'assurance ou
-de la commission de contrôle des assurances prononçant le retrait d'agrément, et non payées à cette date, sont dues en
-totalité à l'entreprise, mais elles ne sont définitivement acquises à celle-ci que proportionnellement à la période garantie
-jusqu'au jour de la résiliation. Les primes ou cotisations venant à échéance entre la date de la décision du Comité des
-entreprises d'assurance ou de la commission de contrôle des assurances prononçant le retrait d'agrément et la date de
-résiliation de plein droit des contrats ne sont dues que proportionnellement à la période garantie.
+au Journal officiel de la décision du Comité des entreprises d'assurance ou de l'Autorité de contrôle des assurances et des
+mutuelles prononçant le retrait. Les primes ou cotisations échues avant la date de la décision du Comité des entreprises
+d'assurance ou de l'Autorité de contrôle des assurances et des mutuelles prononçant le retrait d'agrément, et non payées à
+cette date, sont dues en totalité à l'entreprise, mais elles ne sont définitivement acquises à celle-ci que
+proportionnellement à la période garantie jusqu'au jour de la résiliation. Les primes ou cotisations venant à échéance entre
+la date de la décision du Comité des entreprises d'assurance ou de l'Autorité de contrôle des assurances et des mutuelles
+prononçant le retrait d'agrément et la date de résiliation de plein droit des contrats ne sont dues que proportionnellement à
+la période garantie.
 
 Toutefois, en ce qui concerne les contrats d'assurance maritime, un décret fixe les conditions dans lesquelles il peut être
 dérogé aux dispositions prévues au précédent alinéa.
@@ -14578,7 +14529,7 @@ dérogé aux dispositions prévues au précédent alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -14599,24 +14550,24 @@ dérogé aux dispositions prévues au précédent alinéa.
 
 ###### Article L326-13
 
-Après la publication au Journal officiel de la décision du Comité des entreprises d'assurance ou de la Commission de contrôle
-des assurances prononçant le retrait de l'agrément administratif accordé à une entreprise mentionnée au 1° et au dernier
-alinéa de l'article L. 310-1, les contrats souscrits par l'entreprise demeurent régis par leurs conditions générales et
-particulières tant que la décision de la Commission de contrôle des assurances prévue à l'alinéa suivant n'a pas été publiée
-au Journal officiel, mais le liquidateur peut, avec l'approbation du juge-commissaire, surseoir au paiement de toutes sommes
-dues au titre des contrats. Les primes encaissées par le liquidateur sont versées à un compte spécial qui fait l'objet d'une
-liquidation distincte.
+Après la publication au Journal officiel de la décision du Comité des entreprises d'assurance ou de l'Autortié de contrôle
+des assurances et des mutuelles prononçant le retrait de l'agrément administratif accordé à une entreprise mentionnée au 1°
+et au dernier alinéa de l'article L. 310-1, les contrats souscrits par l'entreprise demeurent régis par leurs conditions
+générales et particulières tant que la décision de l'Autorité de contrôle des assurances et des mutuelles prévue à l'alinéa
+suivant n'a pas été publiée au Journal officiel, mais le liquidateur peut, avec l'approbation du juge-commissaire, surseoir
+au paiement de toutes sommes dues au titre des contrats. Les primes encaissées par le liquidateur sont versées à un compte
+spécial qui fait l'objet d'une liquidation distincte.
 
-La Commission de contrôle des assurances, à la demande du liquidateur et sur le rapport du juge-commissaire, peut fixer la
-date à laquelle les contrats cessent d'avoir effet, autoriser leur transfert en tout ou partie à une ou plusieurs
-entreprises, proroger leur échéance, décider la réduction des sommes payables en cas de vie ou de décès ainsi que des
-bénéfices attribués et des valeurs de rachat, de manière à ramener la valeur des engagements de l'entreprise au montant que
-la situation de la liquidation permet de couvrir.
+L'Autorité de contrôle des assurances et des mutuelles, à la demande du liquidateur et sur le rapport du juge-commissaire,
+peut fixer la date à laquelle les contrats cessent d'avoir effet, autoriser leur transfert en tout ou partie à une ou
+plusieurs entreprises, proroger leur échéance, décider la réduction des sommes payables en cas de vie ou de décès ainsi que
+des bénéfices attribués et des valeurs de rachat, de manière à ramener la valeur des engagements de l'entreprise au montant
+que la situation de la liquidation permet de couvrir.
 
 Le versement des primes périodiques est suspendu dix jours après la nomination du liquidateur, et jusqu'à la publication de
-la décision de la Commission de contrôle des assurances fixant la date à laquelle les contrats cessent d'avoir effet. En cas
-de transfert du portefeuille, les versements suspendus sont effectués au profit de l'entreprise cessionnaire, abattus du taux
-de réduction défini par la Commission de contrôle des assurances.
+la décision de l'Autorité de contrôle des assurances et des mutuelles fixant la date à laquelle les contrats cessent d'avoir
+effet. En cas de transfert du portefeuille, les versements suspendus sont effectués au profit de l'entreprise cessionnaire,
+abattus du taux de réduction défini par l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -14626,7 +14577,7 @@ de réduction défini par la Commission de contrôle des assurances.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -14648,11 +14599,11 @@ de réduction défini par la Commission de contrôle des assurances.
 
 ###### Article L326-14
 
-A la requête de la commission de contrôle des assurances, le tribunal peut prononcer la nullité d'une ou plusieurs opérations
-réalisées par les dirigeants d'une entreprise pourvue d'un liquidateur à la suite du retrait de l'agrément administratif, à
-charge pour la commission de contrôle des assurances, d'apporter la preuve que les personnes qui ont contracté avec
-l'entreprise savaient que l'actif était insuffisant pour garantir les créances privilégiées des assurés et que l'opération
-incriminée devait avoir pour effet de diminuer cette garantie.
+A la requête de l'Autorité de contrôle des assurances et des mutuelles, le tribunal peut prononcer la nullité d'une ou
+plusieurs opérations réalisées par les dirigeants d'une entreprise pourvue d'un liquidateur à la suite du retrait de
+l'agrément administratif, à charge pour l'Autorité de contrôle des assurances et des mutuelles, d'apporter la preuve que les
+personnes qui ont contracté avec l'entreprise savaient que l'actif était insuffisant pour garantir les créances privilégiées
+des assurés et que l'opération incriminée devait avoir pour effet de diminuer cette garantie.
 
 **Liens relatifs à cet article**
 
@@ -14660,13 +14611,9 @@ incriminée devait avoir pour effet de diminuer cette garantie.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 33 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -14676,13 +14623,13 @@ incriminée devait avoir pour effet de diminuer cette garantie.
 
 ###### Article L326-14-1
 
-Lorsqu'une entreprise a fait l'objet d'un retrait d'agrément dans le cadre des dispositions de l'article L. 421-9, la
-Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut décider, le cas échéant, que les
-personnes physiques ou morales exerçant le courtage d'assurance par l'intermédiaire desquelles des contrats ont été souscrits
-auprès de cette entreprise doivent reverser à la liquidation une part des commissions encaissées à quelque titre que ce soit,
-à l'occasion de ces contrats, dans la limite du quart des commissions perçues depuis le 1er janvier de l'année précédant
-celle au cours de laquelle l'agrément est retiré. La même disposition s'applique aux mandataires non salariés de la même
-entreprise, qui n'étaient pas tenus de réserver à celle-ci l'exclusivité de leurs apports de contrats.
+Lorsqu'une entreprise a fait l'objet d'un retrait d'agrément dans le cadre des dispositions de l'article L. 421-9, l'Autorité
+de contrôle des assurances et des mutuelles peut décider, le cas échéant, que les personnes physiques ou morales exerçant le
+courtage d'assurance par l'intermédiaire desquelles des contrats ont été souscrits auprès de cette entreprise doivent
+reverser à la liquidation une part des commissions encaissées à quelque titre que ce soit, à l'occasion de ces contrats, dans
+la limite du quart des commissions perçues depuis le 1er janvier de l'année précédant celle au cours de laquelle l'agrément
+est retiré. La même disposition s'applique aux mandataires non salariés de la même entreprise, qui n'étaient pas tenus de
+réserver à celle-ci l'exclusivité de leurs apports de contrats.
 
 **Liens relatifs à cet article**
 
@@ -14690,42 +14637,13 @@ entreprise, qui n'étaient pas tenus de réserver à celle-ci l'exclusivité de 
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
 	  - Code des assurances - art. L421-9 (M)
-
-
-###### Article L326-15
-
-Les dispositions de la section I du chapitre VI du titre II du livre III, dans la rédaction du présent code antérieure à la
-loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans les
-territoires d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°91-716 1991-07-26
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
-	**Modifié par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
 ##### Section III : Effets des procédures de liquidation des entreprises communautaires.
@@ -15073,9 +14991,8 @@ opérations d'assurance directes pour les contrats souscrits ou exécutés sur l
 Lorsque les actifs d'une entreprise d'assurance sont insuffisants pour assurer la représentation de ses engagements
 réglementés, ou lorsque la situation financière de cette entreprise est telle que les intérêts des assurés et bénéficiaires
 de contrats sont susceptibles d'être compromis à brefs délais, les immeubles faisant partie du patrimoine de l'entreprise
-peuvent être grevés d'une hypothèque inscrite à la requête de la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance. Lorsque l'entreprise fait l'objet d'un retrait d'agrément, cette hypothèque est prise de plein
-droit en date du retrait d'agrément.
+peuvent être grevés d'une hypothèque inscrite à la requête de l'Autorité de contrôle des assurances et des mutuelles. Lorsque
+l'entreprise fait l'objet d'un retrait d'agrément, cette hypothèque est prise de plein droit en date du retrait d'agrément.
 
 **Liens relatifs à cet article**
 
@@ -15085,7 +15002,7 @@ droit en date du retrait d'agrément.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -15163,41 +15080,12 @@ contrats exécutés sur le territoire de la République française.
 	  - Décret n°76-666 1976-07-16
 
 
-###### Article L327-6
-
-Les dispositions du chapitre VII du titre II du livre III, dans la rédaction du présent code antérieure à la loi n° 91-716 du
-26 juillet 1991 portant diverses dispositions d'ordre économique et financier, sont applicables dans les territoires d'outre-
-mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°91-716 1991-07-26
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
-	**Modifié par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
-
-
 #### Chapitre VIII : Sanctions.
 
 ###### Article L328-1
 
 La méconnaissance des incapacités prévues à l'article L. 322-2 est punie d'un emprisonnement de trois ans et d'une amende de
-75 000 euros.
+375 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -15205,17 +15093,13 @@ La méconnaissance des incapacités prévues à l'article L. 322-2 est punie d'u
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L322-2 (M)
+	  - Code des assurances - art. L322-2 (V)
 
 	**Cité par**:
 
@@ -15385,34 +15269,6 @@ interdictions dans les conditions prévues par l'article L. 625-10 du même code
 	  - TXT_ASSOCIE: Code des assurances - art. L326-2 (V)
 
 
-###### Article L328-16
-
-Le chapitre VIII du titre II du livre III, dans la rédaction du présent code antérieure à la loi n° 91-716 du 26 juillet 1991
-portant diverses dispositions d'ordre économique et financier, est applicable dans les territoires d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Cite**:
-
-	  - Loi n°91-716 1991-07-26
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41
-
-	**Modifié par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
-
-
 ### Titre III : Régime financier
 
 #### Chapitre Ier : Les engagements réglementés.
@@ -15426,7 +15282,16 @@ compte, dans la détermination de l'engagement de l'assuré ou du souscripteur, 
 l'intéressé et représentative des frais d'acquisition du contrat, lorsque ces frais ont été portés en charge déductible par
 l'entreprise avant la fin de l'exercice à la clôture duquel la provision est constituée.
 
+Toutefois, pour chaque contrat d'assurance sur la vie ou de capitalisation, et conformément à l'article L. 132-22-1, la
+provision mathématique ne peut être inférieure de plus de 5 % à la provision mathématique qui serait calculée sans tenir
+compte de la partie des primes mentionnée à l'alinéa précédent.
+
 Un décret fixe, en tant que de besoin, les conditions d'application du présent article.
+
+**Nota:**
+
+Loi 2005-1564 du 15 décembre 2005 art. 13 II : Les dispositions du I s'appliquent aux contrats souscrits à l'issue d'un délai
+de deux ans à compter de la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -15434,9 +15299,13 @@ Un décret fixe, en tant que de besoin, les conditions d'application du présent
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-863 1985-08-02 art. 3 JORF 15 août 1985
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 13 () JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 7
 
 	**Cité par**:
 
@@ -15444,10 +15313,24 @@ Un décret fixe, en tant que de besoin, les conditions d'application du présent
 	  - Code des assurances - art. L331-2 (Ab)
 	  - Code des assurances - art. R332-35 (VD)
 
+	**Cite**:
+
+	  - Code des assurances - art. L132-22-1 (T)
+
 
 ###### Article L331-2
 
-L'indemnité maximale, en cas de rachat, susceptible d'être retenue par l'assureur est fixée par décret.
+Pour tout contrat d'assurance sur la vie comportant une valeur de rachat ou de transfert et pour tout contrat de
+capitalisation, la valeur de rachat ou le cas échéant, de transfert est égale à la provision mathématique dans la limite du
+montant assuré en cas de décès.
+
+La valeur de rachat ou de transfert, lorsque n'est pas appliqué le mécanisme prévu à l'article L. 331-1, peut être diminuée
+d'une indemnité dont le montant maximal est fixé par décret.
+
+**Nota:**
+
+Loi 2005-1564 du 15 décembre 2005 art. 13 II : Les dispositions du I s'appliquent aux contrats souscrits à l'issue d'un délai
+de deux ans à compter de la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -15455,13 +15338,9 @@ L'indemnité maximale, en cas de rachat, susceptible d'être retenue par l'assur
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
-	**Transféré par**:
-
-	  - Loi n°94-5 du 4 janvier 1994 - art. 5 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 13 () JORF 16 décembre 2005
 
 	**Anciens textes**:
 
@@ -15472,6 +15351,10 @@ L'indemnité maximale, en cas de rachat, susceptible d'être retenue par l'assur
 	  - Code des assurances - art. L160-17 (V)
 	  - Code des assurances - art. R143-2 (M)
 	  - Code des assurances - art. R331-5 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L331-1 (M)
 
 
 ###### Article L331-3
@@ -15765,17 +15648,11 @@ Les entreprises soumises au contrôle de l'Etat en application de l'article L. 3
 filiales d'une société de groupe mixte d'assurance, font également l'objet d'une surveillance complémentaire selon les
 modalités prévues au présent article et aux articles L. 310-12 à L. 310-15.
 
-La surveillance complémentaire tient compte des entreprises qui sont apparentées aux entreprises précitées. La Commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance peut décider d'exclure une entreprise apparentée de
-la surveillance complémentaire si elle estime que cette entreprise présente un intérêt négligeable ou contraire aux objectifs
-de cette surveillance.
+La surveillance complémentaire tient compte des entreprises qui sont apparentées aux entreprises précitées. L'Autorité de
+contrôle des assurances et des mutuelles peut décider d'exclure une entreprise apparentée de la surveillance complémentaire
+si elle estime que cette entreprise présente un intérêt négligeable ou contraire aux objectifs de cette surveillance.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
-
-**Nota:**
-
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -15793,8 +15670,7 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -15809,12 +15685,6 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 	  - Code des assurances - art. L345-2 (V)
 	  - Code des assurances - art. R334-11 (V)
 	  - Code des assurances - art. R334-3 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L334-2 (M)
-	  - Code des assurances L310-1, L334-2, L310-12 à L310-15
 
 
 ##### Section III : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier
@@ -15917,23 +15787,18 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 ###### Article L334-6
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, la commission bancaire, l'Autorité
-des marchés financiers, en liaison, le cas échéant, avec les autorités de surveillance des entités réglementées des Etats
-membres ou autres Etats parties à l'accord sur l'Espace économique européen, identifient les groupes entrant dans le champ de
-la surveillance complémentaire des conglomérats financiers et échangent à cet effet toute information utile à
-l'accomplissement de leurs missions respectives.
+L'Autorité de contrôle des assurances et des mutuelles, la commission bancaire, l'Autorité des marchés financiers, en
+liaison, le cas échéant, avec les autorités de surveillance des entités réglementées des Etats membres ou autres Etats
+parties à l'accord sur l'Espace économique européen, identifient les groupes entrant dans le champ de la surveillance
+complémentaire des conglomérats financiers et échangent à cet effet toute information utile à l'accomplissement de leurs
+missions respectives.
 
-Lorsqu'un groupe a été identifié comme un conglomérat financier et que la commission de contrôle est désignée, conformément
-aux dispositions de l'article L. 334-9, comme le coordonnateur de la surveillance complémentaire, elle en informe l'entité
-tête de groupe ou, à défaut, l'entité réglementée qui affiche le total du bilan le plus élevé dans le secteur financier le
-plus important du groupe. Elle en informe également les autorités compétentes qui ont agréé les entités réglementées du
-groupe et les autorités compétentes de l'Etat membre ou de l'autre Etat partie à l'accord sur l'Espace économique européen
-dans lequel la compagnie financière holding mixte a son siège social, ainsi que la Commission européenne.
-
-**Nota:**
-
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+Lorsqu'un groupe a été identifié comme un conglomérat financier et que l'autorité de contrôle est désignée, conformément aux
+dispositions de l'article L. 334-9, comme le coordonnateur de la surveillance complémentaire, elle en informe l'entité tête
+de groupe ou, à défaut, l'entité réglementée qui affiche le total du bilan le plus élevé dans le secteur financier le plus
+important du groupe. Elle en informe également les autorités compétentes qui ont agréé les entités réglementées du groupe et
+les autorités compétentes de l'Etat membre ou de l'autre Etat partie à l'accord sur l'Espace économique européen dans lequel
+la compagnie financière holding mixte a son siège social, ainsi que la Commission européenne.
 
 **Liens relatifs à cet article**
 
@@ -15941,9 +15806,14 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 	**Cite**:
 
@@ -16078,7 +15948,7 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 ###### Article L334-10
 
-Lorsqu'elle est coordonnateur, la commission de contrôle assure, au titre de la surveillance complémentaire :
+Lorsqu'elle est coordonnateur, l'Autorité de contrôle assure, au titre de la surveillance complémentaire :
 
 1° La coordination de la collecte et de la diffusion de toute information utile dans la marche normale des affaires comme
 dans les situations d'urgence, et en particulier de toute information importante intéressant la surveillance prudentielle
@@ -16104,9 +15974,13 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 	**Cité par**:
 
@@ -16115,7 +15989,7 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	**Cite**:
 
-	  - Code des assurances - art. L334-8 (V)
+	  - Code des assurances - art. L334-8
 
 
 ###### Article L334-11
@@ -16153,11 +16027,11 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 ###### Article L334-12
 
-Afin de faciliter l'exercice de la surveillance complémentaire, la commission de contrôle conclut avec les autorités
-compétentes concernées et, en tant que de besoin, toute autre autorité compétente intéressée, des accords de coordination.
-Ces accords sont publiés au Journal officiel de la République française. Ils peuvent confier des missions supplémentaires au
-coordinateur et préciser les procédures à suivre dans le cadre de la surveillance complémentaire. Ils peuvent également
-préciser les modalités de coordination avec d'autres autorités compétentes.
+Afin de faciliter l'exercice de la surveillance complémentaire, l'Autorité de contrôle conclut avec les autorités compétentes
+concernées et, en tant que de besoin, toute autre autorité compétente intéressée, des accords de coordination. Ces accords
+sont publiés au Journal officiel de la République française. Ils peuvent confier des missions supplémentaires au coordinateur
+et préciser les procédures à suivre dans le cadre de la surveillance complémentaire. Ils peuvent également préciser les
+modalités de coordination avec d'autres autorités compétentes.
 
 **Nota:**
 
@@ -16170,9 +16044,13 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 	**Cité par**:
 
@@ -16181,7 +16059,7 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 ###### Article L334-13
 
-La commission de contrôle coopère avec les autorités compétentes chargées de la surveillance des entités réglementées
+L'Autorité de contrôle coopère avec les autorités compétentes chargées de la surveillance des entités réglementées
 appartenant à un conglomérat financier et, lorsqu'elle n'exerce pas ce rôle, avec le coordonnateur.
 
 Pour les besoins de l'exercice de leurs fonctions respectives, les autorités compétentes peuvent échanger des informations
@@ -16202,9 +16080,13 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 	**Cité par**:
 
@@ -16283,12 +16165,12 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 ###### Article L334-16
 
-Lorsque la commission de contrôle, dans l'exercice de ses fonctions de coordonnateur, constate que la solvabilité des entités
+Lorsque l'Autorité de contrôle, dans l'exercice de ses fonctions de coordonnateur, constate que la solvabilité des entités
 réglementées appartenant à un conglomérat financier risque d'être compromise, ou que les transactions entre les différentes
 entités du conglomérat ou que les concentrations de risques menacent la situation financière de ces entités réglementées, ou
 qu'une entité réglementée ne se conforme pas aux exigences de l'article L. 334-8, ou qu'une compagnie financière holding
-mixte ne respecte pas les dispositions législatives et réglementaires afférentes à son activité, la commission de contrôle
-peut prononcer, à l'encontre de cette compagnie ou de ses dirigeants :
+mixte ne respecte pas les dispositions législatives et réglementaires afférentes à son activité, l'Autorité de contrôle peut
+prononcer, à l'encontre de cette compagnie ou de ses dirigeants :
 
 1° Une ou plusieurs des sanctions prévues aux 1, 2, 4 et 4 bis de l'article L. 310-18 ;
 
@@ -16307,14 +16189,14 @@ qui est astreinte au capital minimum le plus élevé.
 Les sommes correspondantes sont versées au Trésor public et recouvrées comme des créances de l'Etat étrangères à l'impôt et
 au domaine.
 
-La commission de contrôle peut décider de reporter sa décision à l'expiration d'un délai imparti aux entités réglementées ou
-à la compagnie financière holding mixte placée à la tête du groupe pour prendre toute mesure destinée à rétablir ou renforcer
+L'Autorité de contrôle peut décider de reporter sa décision à l'expiration d'un délai imparti aux entités réglementées ou à
+la compagnie financière holding mixte placée à la tête du groupe pour prendre toute mesure destinée à rétablir ou renforcer
 leur équilibre financier ou à corriger leurs pratiques.
 
 Dans les cas visés aux alinéas précédents, les dispositions des trois derniers alinéas de l'article L. 310-18 sont
 applicables.
 
-La commission de contrôle informe de ces constatations les autorités compétentes chargées de la surveillance sectorielle des
+L'Autorité de contrôle informe de ces constatations les autorités compétentes chargées de la surveillance sectorielle des
 entités réglementées du conglomérat financier.
 
 Lorsque le coordonnateur est une autorité compétente d'un autre Etat membre ou d'un autre Etat partie à l'accord sur l'Espace
@@ -16322,7 +16204,7 @@ Lorsque le coordonnateur est une autorité compétente d'un autre Etat membre ou
 les conditions prévues à l'alinéa précédent, les sanctions prévues au présent article ou prendre les mesures prévues par son
 droit national.
 
-Les autorités compétentes sectorielles, y compris la commission de contrôle lorsqu'elle intervient en cette qualité, peuvent
+Les autorités compétentes sectorielles, y compris l'Autorité de contrôle lorsqu'elle intervient en cette qualité, peuvent
 faire usage, aux fins de la surveillance complémentaire, des pouvoirs de sanctions dont elles disposent au titre de la
 surveillance sectorielle à l'égard des entités réglementées soumises à leur contrôle.
 
@@ -16337,9 +16219,13 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 	**Cité par**:
 
@@ -16349,16 +16235,15 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-18 (M)
-	  - Code des assurances - art. L334-8 (V)
+	  - Code des assurances - art. L310-18
+	  - Code des assurances - art. L334-8
 
 
 ###### Article L334-17
 
 Lorsqu'une entité réglementée utilise son appartenance à un conglomérat financier pour se soustraire, totalement ou
-partiellement, à l'application des règles sectorielles dont elle relève, la commission de contrôle peut faire usage des
-pouvoirs prévus à la section II du chapitre unique du titre Ier du livre III ainsi qu'au chapitre III du titre II du livre
-III.
+partiellement, à l'application des règles sectorielles dont elle relève, l'Autorité de contrôle peut faire usage des pouvoirs
+prévus à la section II du chapitre unique du titre Ier du livre III ainsi qu'au chapitre III du titre II du livre III.
 
 **Nota:**
 
@@ -16371,9 +16256,13 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 	**Cité par**:
 
@@ -16384,17 +16273,17 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 Lorsque des entités réglementées appartenant à un groupe exerçant des activités à la fois dans le secteur de la banque et
 dans le secteur de l'assurance ont pour entreprise mère une société dont le siège social se situe dans un Etat non membre ni
-partie à l'accord sur l'Espace économique européen, la commission de contrôle, lorsqu'elle remplit les conditions fixées par
+partie à l'accord sur l'Espace économique européen, l'Autorité de contrôle, lorsqu'elle remplit les conditions fixées par
 l'article L. 334-9 pour être coordonnateur, vérifie, de sa propre initiative ou à la demande de l'entreprise mère ou d'une
 entité réglementée agréée dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen, que
 ces entités réglementées sont soumises, par une autorité compétente du pays tiers, à une surveillance complémentaire
-équivalente à celle prévue à la présente section. Cette autorité consulte les autorités compétentes concernées. A défaut
-d'équivalence, il est appliqué à ces entités réglementées les dispositions relatives à la surveillance complémentaire.
+équivalente à celle prévue à la présente section. L'autorité de contrôle consulte les autorités compétentes concernées. A
+défaut d'équivalence, il est appliqué à ces entités réglementées les dispositions relatives à la surveillance complémentaire.
 
 Afin d'assurer la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier dont
 l'entreprise mère a son siège social dans un Etat qui n'est pas partie à l'Espace économique européen, les autorités
 compétentes peuvent également appliquer d'autres méthodes qu'elles jugent appropriées. Ces méthodes doivent avoir été
-validées par la commission de contrôle, lorsqu'elle remplit les conditions fixées par l'article L. 334-9 pour être
+validées par l'Autorité de contrôle, lorsqu'elle remplit les conditions fixées par l'article L. 334-9 pour être
 coordonnateur, après consultation des autres autorités compétentes concernées. Les autorités compétentes peuvent notamment
 exiger la constitution d'une compagnie financière holding mixte ayant son siège social dans un Etat membre ou dans un autre
 Etat partie à l'accord sur l'Espace économique européen et appliquer les dispositions relatives à la surveillance
@@ -16412,9 +16301,14 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 1 () JORF 16 novembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 	**Cité par**:
 
@@ -16423,7 +16317,7 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	**Cite**:
 
-	  - Code des assurances - art. L334-9 (V)
+	  - Code des assurances - art. L334-9
 
 
 ###### Article L334-19
@@ -16605,10 +16499,9 @@ Commission européenne. Les entreprises qui sont incluses par intégration globa
 elle-même soumise à une obligation de consolidation en application du présent alinéa ne sont toutefois pas soumises à cette
 obligation.
 
-Lorsque la Commission de contrôle des assurances considère que les comptes consolidés d'une société de groupe d'assurance ne
+Lorsque l'Autorité de contrôle des assurances considère que les comptes consolidés d'une société de groupe d'assurance ne
 permettent pas de porter une appréciation pertinente sur le respect des règles de surveillance complémentaire posées à
-l'article L. 334-3, ladite commission dispense cette société de groupe d'assurance de l'obligation définie au précédent
-alinéa.
+l'article L. 334-3, ladite autorité dispense cette société de groupe d'assurance de l'obligation définie au précédent alinéa.
 
 Lorsque deux ou plusieurs entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L.
 310-1-1, sociétés de groupe d'assurance définies à l'article L. 322-1-2, institutions de prévoyance ou unions régies par le
@@ -16617,11 +16510,6 @@ constituent un ensemble dont la cohérence ne résulte pas de liens en capital, 
 combinés. Un décret détermine celui des organismes mentionnés au présent alinéa sur lequel pèse cette obligation. Les comptes
 combinés sont constitués par agrégation de l'ensemble des comptes des organismes concernés, établis s'il y a lieu sur une
 base consolidée, dans des conditions définies par un règlement du Comité de la réglementation comptable.
-
-**Nota:**
-
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -16662,17 +16550,7 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 1 (V) JORF 29 juillet 2005
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L322-1-2 (M)
-	  - Code des assurances - art. L334-2 (M)
-	  - Code des assurances - art. L334-3 (M)
-	  - Code des assurances L310-1, L310-1-1, L322-1-2, L334-2, L334-3, 20
-	  - Ordonnance 2004-1201 2004-XX-XX
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des Communautés européennes
@@ -16939,13 +16817,13 @@ Conseil d'Etat.
 ###### Article L351-7
 
 Lorsqu'une entreprise d'assurance opérant sur le territoire de la République française en libre prestation de services ne
-respecte pas les règles qui s'imposent à elle, la commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance enjoint à l'entreprise concernée de mettre fin à cette situation irrégulière.
+respecte pas les règles qui s'imposent à elle, l'Autorité de contrôle des assurances et des mutuelles enjoint à l'entreprise
+concernée de mettre fin à cette situation irrégulière.
 
-Si l'entreprise passe outre à l'injonction qui lui est adressée en application de l'alinéa précédent, la commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance en informe les autorités de contrôle de l'Etat
-membre de l'établissement de cette entreprise et, le cas échéant, de l'Etat de son siège social, et leur demande de prendre
-toutes mesures appropriées pour que l'entreprise mette fin à cette situation irrégulière.
+Si l'entreprise passe outre à l'injonction qui lui est adressée en application de l'alinéa précédent, l'Autorité de contrôle
+des assurances et des mutuelles en informe les autorités de contrôle de l'Etat membre de l'établissement de cette entreprise
+et, le cas échéant, de l'Etat de son siège social, et leur demande de prendre toutes mesures appropriées pour que
+l'entreprise mette fin à cette situation irrégulière.
 
 **Liens relatifs à cet article**
 
@@ -16955,7 +16833,7 @@ toutes mesures appropriées pour que l'entreprise mette fin à cette situation i
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -16969,14 +16847,14 @@ toutes mesures appropriées pour que l'entreprise mette fin à cette situation i
 
 ###### Article L351-8
 
-Si l'entreprise persiste à enfreindre les règles qui s'imposent à elles sur le territoire de la République française, la
-commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut prendre les mesures appropriées
-pour prévenir de nouvelles irrégularités et, si les circonstances l'exigent, interdire à l'entreprise de continuer de
-conclure des contrats d'assurance en libre prestation de services sur le territoire de la République française et prononcer,
-dans les conditions fixées à l'article L. 310-18, les sanctions énumérées à ce même article, à l'exception de celles qui sont
-prévues aux cinquième (4°) et septième (6°) alinéas dudit article. La commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance procède, aux frais de l'entreprise, à la publication des mesures qu'elle a ordonnées dans les
-journaux et publications qu'elle désigne et à l'affichage dans les lieux et pour la durée qu'elle indique.
+Si l'entreprise persiste à enfreindre les règles qui s'imposent à elle sur le territoire de la République française,
+l'Autorité de contrôle des assurances et des mutuelles peut prendre les mesures appropriées pour prévenir de nouvelles
+irrégularités et, si les circonstances l'exigent, interdire à l'entreprise de continuer de conclure des contrats d'assurance
+en libre prestation de services sur le territoire de la République française et prononcer, dans les conditions fixées à
+l'article L. 310-18, les sanctions énumérées à ce même article, à l'exception de celles qui sont prévues aux cinquième (4°)
+et septième (6°) alinéas dudit article. L'Autorité de contrôle des assurances et des mutuelles procède, aux frais de
+l'entreprise, à la publication des mesures qu'elle a ordonnées dans les journaux et publications qu'elle désigne et à
+l'affichage dans les lieux et pour la durée qu'elle indique.
 
 **Liens relatifs à cet article**
 
@@ -16986,7 +16864,7 @@ journaux et publications qu'elle désigne et à l'affichage dans les lieux et po
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -17000,11 +16878,11 @@ journaux et publications qu'elle désigne et à l'affichage dans les lieux et po
 
 ###### Article L351-9
 
-Lorsque la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est informée par l'autorité
-de contrôle compétente qu'une entreprise opérant en France en libre prestation de services a fait l'objet d'un plan de
-redressement ou d'un plan de financement à court terme ou d'une mesure ayant restreint ou interdit la libre disposition de
-ses actifs, elle prend les mesures de restriction ou d'interdiction concernant les actifs de cette entreprise situés sur le
-territoire de la République française propres à sauvegarder les intérêts des assurés et bénéficiaires de contrats.
+Lorsque l'Autorité de contrôle des assurances et des mutuelles est informée par l'autorité de contrôle compétente qu'une
+entreprise opérant en France en libre prestation de services a fait l'objet d'un plan de redressement ou d'un plan de
+financement à court terme ou d'une mesure ayant restreint ou interdit la libre disposition de ses actifs, elle prend les
+mesures de restriction ou d'interdiction concernant les actifs de cette entreprise situés sur le territoire de la République
+française propres à sauvegarder les intérêts des assurés et bénéficiaires de contrats.
 
 **Liens relatifs à cet article**
 
@@ -17014,15 +16892,15 @@ territoire de la République française propres à sauvegarder les intérêts de
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article L351-10
 
 Lorsqu'elle est informée du retrait de l'agrément d'une entreprise opérant en France en régime de libre prestation de
-services par l'autorité de contrôle compétente, la commission de contrôle des assurances, des mutuelles et des institutions
-de prévoyance prend les mesures appropriées pour lui interdire de poursuivre son activité et pour sauvegarder les intérêts
-des assurés et bénéficiaires de contrats.
+services par l'autorité de contrôle compétente, l'Autorité de contrôle des assurances et des mutuelles prend les mesures
+appropriées pour lui interdire de poursuivre son activité et pour sauvegarder les intérêts des assurés et bénéficiaires de
+contrats.
 
 **Liens relatifs à cet article**
 
@@ -17032,7 +16910,7 @@ des assurés et bénéficiaires de contrats.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Anciens textes**:
 
@@ -17612,16 +17490,12 @@ commercial, industriel, financier ou technique à des personnes physiques ou mor
 d'origine des entreprises peuvent exiger d'elles et de leurs succursales établies en France communication de toutes
 informations utiles à l'exercice de ce contrôle.
 
-Sous la seule réserve d'en avoir préalablement informé la Commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance, les autorités de contrôle de l'Etat d'origine des entreprises peuvent procéder, par elles-mêmes
-ou par l'intermédiaire de personnes qu'elles mandatent à cet effet, à des contrôles sur place des succursales établies sur le
-territoire de la République française des entreprises d'assurance communautaires.
+Sous la seule réserve d'en avoir préalablement informé l'Autorité de contrôle des assurances et des mutuelles, les autorités
+de contrôle de l'Etat d'origine des entreprises peuvent procéder, par elles-mêmes ou par l'intermédiaire de personnes
+qu'elles mandatent à cet effet, à des contrôles sur place des succursales établies sur le territoire de la République
+française des entreprises d'assurance communautaires.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°68-678 1968-07-26 art. 1 bis
 
 	**Codifié par**:
 
@@ -17629,18 +17503,18 @@ territoire de la République française des entreprises d'assurance communautair
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article L363-2
 
-Sur demande justifiée de l'autorité de contrôle de l'Etat d'origine des entreprises, la Commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance restreint ou interdit la libre disposition de tout ou partie de
-ceux des actifs des entreprises d'assurance communautaires qui sont localisés sur le territoire de la République française.
+Sur demande justifiée de l'autorité de contrôle de l'Etat d'origine des entreprises, l'Autorité de contrôle des assurances et
+des mutuelles restreint ou interdit la libre disposition de tout ou partie de ceux des actifs des entreprises d'assurance
+communautaires qui sont localisés sur le territoire de la République française.
 
 Lorsqu'elle est informée qu'une entreprise d'assurance communautaire opérant en France en libre prestation de services ou en
-libre établissement a fait l'objet d'un retrait d'agrément ou est en liquidation, la commission apporte son concours à
-l'autorité de contrôle de l'Etat d'origine et, à la demande de celle-ci, prend les mesures nécessaires pour protéger les
+libre établissement a fait l'objet d'un retrait d'agrément ou est en liquidation, l'Autorité de contrôle apporte son concours
+à l'autorité de contrôle de l'Etat d'origine et, à la demande de celle-ci, prend les mesures nécessaires pour protéger les
 intérêts des assurés, dans les conditions définies à l'article L. 323-1-1.
 
 **Liens relatifs à cet article**
@@ -17651,11 +17525,7 @@ intérêts des assurés, dans les conditions définies à l'article L. 323-1-1.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code des assurances - art. L323-1-1 (M)
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article L363-3
@@ -17663,9 +17533,8 @@ intérêts des assurés, dans les conditions définies à l'article L. 323-1-1.
 Toute entreprise d'assurance communautaire opérant sur le territoire de la République française en régime d'établissement ou
 en libre prestation de services doit être en mesure de communiquer à tout moment tous documents et éléments d'information lui
 permettant de justifier qu'elle respecte les obligations qui s'imposent à elle en application du présent code. Elle est tenue
-de communiquer ces documents et informations à la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance, à la demande de celle-ci. Un arrêté précise, en tant que de besoin, les modalités d'application du présent
-article.
+de communiquer ces documents et informations à l'Autorité de contrôle des assurances et des mutuelles, à la demande de celle-
+ci. Un arrêté précise, en tant que de besoin, les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -17675,21 +17544,20 @@ article.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article L363-4
 
-Lorsqu'une entreprise communautaire ne respecte pas les dispositions législatives ou réglementaires qui s'imposent à elle, la
-Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut mettre en oeuvre la procédure
-définie à l'article L. 351-7.
+Lorsqu'une entreprise communautaire ne respecte pas les dispositions législatives ou réglementaires qui s'imposent à elle,
+l'Autorité de contrôle des assurances et des mutuelles peut mettre en oeuvre la procédure définie à l'article L. 351-7.
 
-Si l'entreprise persiste à enfreindre les règles qui s'imposent à elle, la Commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance peut, si les circonstances l'exigent, prendre les mesures appropriées pour
-prévenir de nouvelles irrégularités : elle peut prononcer, dans les conditions fixées aux neuvième, dixième et onzième
-alinéas de l'article L. 310-18, les sanctions prévues aux deuxième, troisième et quatrième alinéas ainsi qu'au huitième
-alinéa de cet article ; elle peut également, dans les mêmes conditions, suspendre le mandataire général et interdire à
-l'entreprise de continuer de conclure des contrats d'assurance sur le territoire de la République française.
+Si l'entreprise persiste à enfreindre les règles qui s'imposent à elle, l'Autorité de contrôle des assurances et des
+mutuelles peut, si les circonstances l'exigent, prendre les mesures appropriées pour prévenir de nouvelles irrégularités :
+elle peut prononcer, dans les conditions fixées aux neuvième, dixième et onzième alinéas de l'article L. 310-18, les
+sanctions prévues aux deuxième, troisième et quatrième alinéas ainsi qu'au huitième alinéa de cet article ; elle peut
+également, dans les mêmes conditions, suspendre le mandataire général et interdire à l'entreprise de continuer de conclure
+des contrats d'assurance sur le territoire de la République française.
 
 En cas d'urgence, les mesures prévues au précédent alinéa peuvent être prises sans mise en oeuvre préalable de la procédure
 définie à l'article L. 351-7.
@@ -17704,7 +17572,7 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions d'a
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -17713,11 +17581,6 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions d'a
 	  - Code des assurances - art. L252-2 (V)
 	  - Code des assurances - art. L451-2 (VD)
 	  - Code des assurances - art. R363-1 (VD)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-18 (M)
-	  - Code des assurances - art. L351-7 (M)
 
 
 #### Chapitre IV : Transferts de portefeuille.
@@ -17757,7 +17620,92 @@ délai d'un mois suivant la date de cette publication.
 	  - Code des assurances - art. L324-1 (M)
 
 
+### Titre VII : Dispositions applicables à Mayotte et dans les îles Wallis et Futuna
+
+###### Article L371-1
+
+Le présent livre est applicable à Mayotte dans sa rédaction en vigueur lors de la promulgation de la loi n° 94-5 du 4 janvier
+1994 précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°94-5 1994-01-04
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L380-1 (V)
+
+
+###### Article L371-2
+
+Les articles L. 310-1 à L. 310-3, L. 310-8, L. 310-10, le chapitre Ier, la section 1 des chapitres II, III et VI, le chapitre
+VII et le chapitre VIII du titre II du présent livre sont applicables dans les îles Wallis et Futuna dans leur rédaction
+antérieure à la promulgation de la loi n° 91-716 du 26 juillet 1991 précitée. La section 1 du chapitre IV du titre II est
+applicable dans les îles Wallis et Futuna dans sa rédaction antérieure à la promulgation de la loi n° 89-1014 du 31 décembre
+1989 précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°89-1014 1989-12-31
+	  - Loi n°91-716 1991-07-26
+	  - Code des assurances - art. L310-10 (M)
+	  - Code des assurances - art. L310-8 (M)
+	  - Code des assurances L310-1 à L310-3, L310-8, L310-10
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L380-2 (V)
+
+
 ## Livre IV : Organisations et régimes particuliers d'assurance
+
+###### Article L400-1
+
+Pour l'application du présent livre, les mots : "en France", les mots : "la France", et les mots : "territoire de la
+République française" désignent la France métropolitaine et les collectivités territoriales régies par l'article 73 de la
+Constitution.
+
+Sauf pour les dispositions qui concernent la libre prestation de services et la liberté d'établissement, ces mots désignent
+également Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
 
 ### Titre Ier : Organisations générales d'assurance.
 
@@ -17911,8 +17859,7 @@ et, à défaut d'un tel avenant, à compter du 1er janvier 2004.
 
 Le Comité des entreprises d'assurance est chargé d'accorder les autorisations ou dérogations individuelles prévues par les
 dispositions législatives et réglementaires applicables aux entreprises d'assurance et aux entreprises mentionnées à
-l'article L. 310-1-1, à l'exception de celles relevant de la Commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance.
+l'article L. 310-1-1, à l'exception de celles relevant de l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -17920,9 +17867,14 @@ institutions de prévoyance.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 9
 
 	**Cite**:
 
@@ -17959,9 +17911,8 @@ les conditions fixées par l'article L. 430-10 du code de commerce.
 ###### Article L413-3
 
 Le Comité des entreprises d'assurance est composé d'un président, nommé par arrêté du ministre chargé de l'économie, du
-directeur du Trésor, du président de la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance, du secrétaire général de cette commission et de huit membres nommés par arrêté du ministre chargé de l'économie
-pour une durée de trois ans, à savoir :
+directeur du Trésor, du président de l'Autorité de contrôle des assurances et des mutuelles, du secrétaire général de cette
+autorité et de huit membres nommés par arrêté du ministre chargé de l'économie pour une durée de trois ans, à savoir :
 
 1° Un membre du Conseil d'Etat, nommé sur proposition du vice-président du Conseil d'Etat ;
 
@@ -17985,10 +17936,10 @@ Les présidents des fonds de garantie compétents en cas de défaillance d'entre
 comité sans voix délibérative pour les décisions intéressant les entreprises qui sont soumises à l'obligation d'adhésion au
 fonds qu'ils président.
 
-Le directeur du Trésor, le président de la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance, le secrétaire général de cette commission et les présidents des fonds de garantie compétents en cas de
-défaillance d'entreprises d'assurance peuvent être représentés. Des suppléants du président et des autres membres peuvent
-être nommés dans les mêmes conditions que les titulaires.
+Le directeur du Trésor, le président de l'Autorité de contrôle des assurances et des mutuelles, le secrétaire général de
+cette autorité et les présidents des fonds de garantie compétents en cas de défaillance d'entreprises d'assurance peuvent
+être représentés. Des suppléants du président et des autres membres peuvent être nommés dans les mêmes conditions que les
+titulaires.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
@@ -17998,14 +17949,9 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. L322-27 (M)
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -18656,46 +18602,44 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 ###### Article L421-9-1
 
-I. - Lorsque, à l'occasion de la procédure prévue à l'article L. 310-18, la Commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance estime qu'une des entreprises mentionnées au premier alinéa du I de l'article L.
-421-9, ou présente sur le marché des garanties de responsabilité civile automobile, n'est plus en mesure de faire face à ses
-engagements envers les personnes mentionnées au même article, elle décide de recourir au Fonds de garantie des assurances
-obligatoires de dommages.
+I. - Lorsque, à l'occasion de la procédure prévue à l'article L. 310-18, l'Autorité de contrôle des assurances et des
+mutuelles estime qu'une des entreprises mentionnées au premier alinéa du I de l'article L. 421-9, ou présente sur le marché
+des garanties de responsabilité civile automobile, n'est plus en mesure de faire face à ses engagements envers les personnes
+mentionnées au même article, elle décide de recourir au Fonds de garantie des assurances obligatoires de dommages.
 
-Avant de prendre sa décision, la commission consulte par écrit le fonds de garantie en lui indiquant qu'elle envisage de
-recourir à lui. Le fonds dispose d'un délai de quinze jours pour adresser ses observations à la commission et son
-représentant peut être reçu par celle-ci durant ce délai. A l'expiration de ce délai, ou d'un délai plus court fixé d'un
-commun accord entre le fonds de garantie et le président de la commission, la commission statue sur la saisine du fonds et
-lui notifie sa décision de recourir ou non à lui.
+Avant de prendre sa décision, l'autorité consulte par écrit le fonds de garantie en lui indiquant qu'elle envisage de
+recourir à lui. Le fonds dispose d'un délai de quinze jours pour adresser ses observations à l'autorité et son représentant
+peut être reçu par celle-ci durant ce délai. A l'expiration de ce délai, ou d'un délai plus court fixé d'un commun accord
+entre le fonds de garantie et le président de l'autorité, l'autorité statue sur la saisine du fonds et lui notifie sa
+décision de recourir ou non à lui.
 
-S'il conteste la décision de la commission, le fonds peut, dans un délai de quinze jours à compter de celle-ci, saisir le
+S'il conteste la décision de l'autorité, le fonds peut, dans un délai de quinze jours à compter de celle-ci, saisir le
 ministre chargé de l'économie. Celui-ci peut alors, dans l'intérêt des assurés et des souscripteurs, adhérents et
-bénéficiaires des contrats et dans un délai de quinze jours, demander à la commission une nouvelle délibération.
+bénéficiaires des contrats et dans un délai de quinze jours, demander à l'Autorité une nouvelle délibération.
 
-La décision de la commission de recourir au fonds de garantie est immédiatement notifiée à l'entreprise concernée à l'issue
-de la procédure décrite ci-dessus.
+La décision de l'autorité de recourir au fonds de garantie est immédiatement notifiée à l'entreprise concernée à l'issue de
+la procédure décrite ci-dessus.
 
-II. - Dès cette notification, la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance lance
-un appel d'offres en vue du transfert du portefeuille de contrats de cette entreprise dans les conditions prévues à l'article
-L. 310-18. Cet appel d'offres est communiqué au fonds de garantie.
+II. - Dès cette notification, l'Autorité de contrôle des assurances et des mutuelles lance un appel d'offres en vue du
+transfert du portefeuille de contrats de cette entreprise dans les conditions prévues à l'article L. 310-18. Cet appel
+d'offres est communiqué au fonds de garantie.
 
-III. - La commission retient la ou les offres qui lui paraissent le mieux préserver l'intérêt des assurés, souscripteurs de
+III. - L'autorité retient la ou les offres qui lui paraissent le mieux préserver l'intérêt des assurés, souscripteurs de
 contrats, adhérents et bénéficiaires de prestations.
 
-La décision de la commission qui prononce le transfert du portefeuille de contrats au profit de la ou des entreprises qu'elle
-a désignées est publiée au Journal officiel. Cette décision libère l'entreprise cédante de tout engagement envers les
-assurés, souscripteurs de contrats, adhérents et bénéficiaires de prestations, dont les contrats ont été transférés en vertu
-des dispositions du présent article.
+La décision de l'autorité qui prononce le transfert du portefeuille de contrats au profit de la ou des entreprises qu'elle a
+désignées est publiée au Journal officiel. Cette décision libère l'entreprise cédante de tout engagement envers les assurés,
+souscripteurs de contrats, adhérents et bénéficiaires de prestations, dont les contrats ont été transférés en vertu des
+dispositions du présent article.
 
-Lorsque la procédure de transfert du portefeuille n'a pas abouti, la Commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance en informe le fonds de garantie.
+Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité de contrôle des assurances et des mutuelles en
+informe le fonds de garantie.
 
 IV. - Le transfert de tout ou partie du portefeuille ou le constat de l'échec de la procédure de transfert emporte retrait,
-par la Commission de contrôle des assurances, des mutuelles et institutions de prévoyance, de tous les agréments
-administratifs de l'entreprise défaillante. Le fonds de garantie accomplit, jusqu'à la nomination du liquidateur, les actes
-nécessaires à la gestion de la partie du portefeuille de contrats qui n'a pas été transférée. L'administrateur provisoire
-nommé le cas échéant par la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut
-accomplir ces actes de gestion pour le compte du fonds de garantie.
+par l'Autorité de contrôle des assurances et des mutuelles, de tous les agréments administratifs de l'entreprise défaillante.
+Le fonds de garantie accomplit, jusqu'à la nomination du liquidateur, les actes nécessaires à la gestion de la partie du
+portefeuille de contrats qui n'a pas été transférée. L'administrateur provisoire nommé le cas échéant par l'Autorité de
+contrôle des assurances et des mutuelles peut accomplir ces actes de gestion pour le compte du fonds de garantie.
 
 **Liens relatifs à cet article**
 
@@ -18703,9 +18647,9 @@ accomplir ces actes de gestion pour le compte du fonds de garantie.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -18751,12 +18695,11 @@ peuvent, en tout état de cause, dépasser les conditions des contrats.
 
 ###### Article L421-9-3
 
-Le ministre chargé de l'économie ou son représentant ainsi que le président de la Commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance ou son représentant peuvent, à leur demande, être entendus par le fonds.
+Le ministre chargé de l'économie ou son représentant ainsi que le président de l'Autorité de contrôle des assurances et des
+mutuelles ou son représentant peuvent, à leur demande, être entendus par le fonds.
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance entend le représentant du fonds de
-garantie pour toute question concernant une entreprise d'assurance. Le fonds est également entendu, à sa demande, par la
-commission.
+L'Autorité de contrôle des assurances et des mutuelles entend le représentant du fonds de garantie pour toute question
+concernant une entreprise d'assurance. Le fonds est également entendu, à sa demande, par l'Autorité.
 
 **Liens relatifs à cet article**
 
@@ -18764,9 +18707,9 @@ commission.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article L421-9-4
@@ -18784,7 +18727,7 @@ Le fonds de garantie peut engager toute action en responsabilité à l'encontre 
 l'entreprise d'assurance dont la défaillance a entraîné son intervention aux fins d'obtenir le remboursement de tout ou
 partie des sommes versées par lui. Le fonds peut également engager une action en responsabilité à l'encontre des personnes
 mentionnées au a du 4° du II de l'article L. 421-9, aux fins d'obtenir le remboursement de tout ou partie des sommes versées
-par lui. Il en informe la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+par lui. Il en informe l'Autorité de contrôle des assurances et des mutuelles.
 
 En vue d'obtenir le remboursement de l'indemnisation des tiers victimes d'un dommage dont est responsable une personne morale
 ou une personne physique dans le cadre de ses activités professionnelles dont l'assureur a été l'objet de la procédure prévue
@@ -18800,15 +18743,15 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Loi n°2003-706 du 1 août 2003 - art. 86 (V)
 	  - Décret n°2004-176 du 17 février 2004 - art. 9 (V)
 	  - Code des assurances - art. R421-24-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -18824,7 +18767,7 @@ Les membres du conseil d'administration du fonds de garantie, ainsi que toute pe
 documents et informations détenus par le fonds de garantie, sont tenus au secret professionnel dans les conditions et sous
 les peines prévues à l'article 226-13 du code pénal. Ce secret n'est opposable ni à l'autorité judiciaire agissant dans le
 cadre d'une procédure pénale, ni aux juridictions civiles statuant sur un recours formé à l'encontre d'une décision du fonds
-de garantie, ni à la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+de garantie, ni à l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -18832,9 +18775,9 @@ de garantie, ni à la Commission de contrôle des assurances, des mutuelles et d
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -18876,75 +18819,6 @@ Ce décret ne peut être modifié qu'après avis du fonds de garantie.
 	  - Code des assurances - art. L421-1 (V)
 	  - Code des assurances - art. L421-8 (V)
 	  - Code des assurances - art. L421-9 (V)
-
-
-##### Section VIII : Dispositions particulières aux territoires d'outre-mer et à Mayotte
-
-###### Article L421-10
-
-Sont applicables à la Nouvelle-Calédonie, à la Polynésie française et à Saint-Pierre-et-Miquelon, les dispositions des
-articles L. 421-1 à L. 421-6.
-
-Les amendes prononcées à l'encontre de quiconque a sciemment contrevenu à l'obligation d'assurance instituée par la
-réglementation locale, y compris les amendes qu'une mesure de grâce aurait substituées à l'emprisonnement, sont affectées
-d'une majoration de 50 % perçue lors de leur recouvrement au profit du fonds de garantie.
-
-Les dispositions précitées entrent en vigueur dans le territoire de Wallis et Futuna, le premier jour du trimestre civil
-suivant la publication de l'arrêté rendant exécutoire la délibération édictant une obligation d'assurance de la
-responsabilité civile en matière de circulation automobile.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Loi n°2003-706 2003-08-01 art. 81 A I, XI JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
-
-	**Anciens textes**:
-
-	  - Code des assurances - art. L420-10 (T)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R421-60 (V)
-	  - Code des assurances - art. R421-62 (V)
-
-
-###### Article L421-10-1
-
-Les dispositions des articles L. 421-1 à L. 421-7, L. 421-8-1, L. 421-9, L. 421-11 à L. 421-14 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
-
-	**Cite**:
-
-	  - Code des assurances - art. L421-8-1 (M)
-	  - Code des assurances - art. L421-9 (M)
-	  - Code des assurances L421-1 à L421-7, L421-8-1, L421-9, L421-11 à L421-14
 
 
 ##### Section IX : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger.
@@ -19433,46 +19307,46 @@ adhérents.
 
 ###### Article L423-2
 
-I. - Lorsque à l'occasion de la procédure prévue à l'article L. 310-18 la Commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance estime qu'une des entreprises mentionnées à l'article L. 423-1 n'est plus en
-mesure de faire face à ses engagements envers les personnes mentionnées au même article, elle décide de recourir au fonds de
-garantie après avoir consulté par écrit le président du directoire de celui-ci.
+I. - Lorsque à l'occasion de la procédure prévue à l'article L. 310-18 l'Autorité de contrôle des assurances et des mutuelles
+estime qu'une des entreprises mentionnées à l'article L. 423-1 n'est plus en mesure de faire face à ses engagements envers
+les personnes mentionnées au même article, elle décide de recourir au fonds de garantie après avoir consulté par écrit le
+président du directoire de celui-ci.
 
-S'il conteste la décision de la commission, le président du directoire peut, dans un délai de quinze jours à compter de
-celle-ci, saisir le ministre chargé de l'économie. Celui-ci peut alors, dans l'intérêt des assurés et des souscripteurs,
-adhérents et bénéficiaires des contrats et dans un délai de quinze jours, demander à la commission une nouvelle délibération
-après avoir recueilli l'avis écrit d'un collège arbitral dont la composition est fixée par décret en Conseil d'Etat.
+S'il conteste la décision de l'autorité, le président du directoire peut, dans un délai de quinze jours à compter de celle-
+ci, saisir le ministre chargé de l'économie. Celui-ci peut alors, dans l'intérêt des assurés et des souscripteurs, adhérents
+et bénéficiaires des contrats et dans un délai de quinze jours, demander à l'autorité une nouvelle délibération après avoir
+recueilli l'avis écrit d'un collège arbitral dont la composition est fixée par décret en Conseil d'Etat.
 
-La décision de la commission de recourir au fonds de garantie est immédiatement notifiée à l'entreprise concernée. En cas de
-mise en oeuvre de la procédure décrite à l'alinéa précédent, seule la nouvelle délibération de la commission est notifiée à
+La décision de l'autorité de recourir au fonds de garantie est immédiatement notifiée à l'entreprise concernée. En cas de
+mise en oeuvre de la procédure décrite à l'alinéa précédent, seule la nouvelle délibération de l'autorité est notifiée à
 l'entreprise.
 
-II. - Dès cette notification, la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance lance
-un appel d'offres en vue du transfert du portefeuille de contrats de cette entreprise dans les conditions prévues à l'article
-L. 310-18. Cet appel d'offres est communiqué au fonds de garantie.
+II. - Dès cette notification, l'Autorité de contrôle des assurances et des mutuelles lance un appel d'offres en vue du
+transfert du portefeuille de contrats de cette entreprise dans les conditions prévues à l'article L. 310-18. Cet appel
+d'offres est communiqué au fonds de garantie.
 
-III. - La commission retient la ou les offres qui lui paraissent le mieux préserver l'intérêt des assurés, souscripteurs de
+III. - L'autorité retient la ou les offres qui lui paraissent le mieux préserver l'intérêt des assurés, souscripteurs de
 contrats, adhérents et bénéficiaires de prestations, eu égard notamment à la solvabilité des entreprises candidates et aux
 taux de réduction des engagements qu'elles proposent.
 
-La décision de la commission qui prononce le transfert du portefeuille de contrats au profit de la ou des entreprises qu'elle
-a désignées et qui mentionne, le cas échéant, le taux de réduction pour chaque type de contrats transférés est publiée au
+La décision de l'autorité qui prononce le transfert du portefeuille de contrats au profit de la ou des entreprises qu'elle a
+désignées et qui mentionne, le cas échéant, le taux de réduction pour chaque type de contrats transférés est publiée au
 Journal officiel. Cette décision libère l'entreprise cédante de tout engagement envers les assurés, souscripteurs de
 contrats, adhérents et bénéficiaires de prestations, dont les contrats ont été transférés en vertu des dispositions du
 présent article.
 
-Lorsque la procédure de transfert du portefeuille n'a pas abouti, la Commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance en informe le fonds de garantie.
+Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité de contrôle des assurances et des mutuelles en
+informe le fonds de garantie.
 
 IV. - Les engagements et les actifs transférés font l'objet d'une comptabilité distincte. Les bénéfices éventuels, dus à une
 sous-estimation des actifs ou à une surestimation des engagements dans le bilan de transfert, reviennent aux assurés,
 souscripteurs de contrats, adhérents et bénéficiaires de prestations, dont les contrats ont été transférés.
 
 V. - Le transfert de tout ou partie du portefeuille ou le constat de l'échec de la procédure de transfert emporte retrait,
-par la Commission de contrôle des assurances, de tous les agréments administratifs de l'entreprise défaillante. Le fonds de
-garantie accomplit, jusqu'à la nomination du liquidateur, les actes nécessaires à la gestion de la partie du portefeuille de
-contrats qui n'a pas été transférée. L'administrateur provisoire nommé le cas échéant par la Commission de contrôle des
-assurances peut accomplir ces actes de gestion pour le compte du fonds de garantie.
+par L'Autorité de contrôle des assurances et des mutuelles, de tous les agréments administratifs de l'entreprise défaillante.
+Le fonds de garantie accomplit, jusqu'à la nomination du liquidateur, les actes nécessaires à la gestion de la partie du
+portefeuille de contrats qui n'a pas été transférée. L'administrateur provisoire nommé le cas échéant par l'Autorité de
+contrôle des assurances et des mutuelles peut accomplir ces actes de gestion pour le compte du fonds de garantie.
 
 **Liens relatifs à cet article**
 
@@ -19482,7 +19356,7 @@ assurances peut accomplir ces actes de gestion pour le compte du fonds de garant
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -19508,7 +19382,7 @@ adhérents et bénéficiaires de prestations sont garantis par un versement, à 
 limites prévues par décret en Conseil d'Etat.
 
 Le fonds de garantie dispose d'un droit d'accès aux documents justificatifs du calcul de sa contribution, dont le montant est
-arrêté par la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+arrêté par l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -19518,7 +19392,7 @@ arrêté par la Commission de contrôle des assurances, des mutuelles et des ins
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -19556,16 +19430,14 @@ président. Les membres du directoire ne peuvent exercer en même temps des fonc
 fonds de garantie, ni recevoir de rétribution de l'une d'elles. Son président ne peut exercer ses fonctions qu'après agrément
 du ministre chargé de l'économie.
 
-Le ministre chargé de l'économie ou son représentant ainsi que le président de la Commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance ou son représentant peuvent, à leur demande, être entendus par le conseil de
-surveillance et le directoire.
+Le ministre chargé de l'économie ou son représentant ainsi que le président de l'Autorité de contrôle des assurances et des
+mutuelles ou son représentant peuvent, à leur demande, être entendus par le conseil de surveillance et le directoire.
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance entend le président du directoire
-du fonds de garantie pour toute question concernant une entreprise d'assurance pour laquelle elle envisage de mettre en
-oeuvre les dispositions du présent chapitre.
+L'Autorité de contrôle des assurances et des mutuelles entend le président du directoire du fonds de garantie pour toute
+question concernant une entreprise d'assurance pour laquelle elle envisage de mettre en oeuvre les dispositions du présent
+chapitre.
 
-Le président du directoire est également entendu, à sa demande, par la Commission de contrôle des assurances, des mutuelles
-et des institutions de prévoyance.
+Le président du directoire est également entendu, à sa demande, par l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -19575,7 +19447,7 @@ et des institutions de prévoyance.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -19592,8 +19464,7 @@ des sommes exigibles en vertu de l'exécution des traités de réassurance en co
 
 Le fonds de garantie peut engager toute action en responsabilité à l'encontre des dirigeants de droit ou de fait de
 l'entreprise d'assurance dont la défaillance a entraîné son intervention, aux fins d'obtenir le remboursement de tout ou
-partie des sommes versées par lui. Il en informe la Commission de contrôle des assurances, des mutuelles et des institutions
-de prévoyance.
+partie des sommes versées par lui. Il en informe l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -19601,13 +19472,13 @@ de prévoyance.
 
 	  - Décret n°88-260 1988-03-18
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Loi n°2003-706 du 1 août 2003 - art. 86 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article L423-6
@@ -19616,8 +19487,7 @@ Les membres du directoire et du conseil de surveillance du fonds de garantie, ai
 a accès aux documents et informations détenus par le fonds de garantie, sont tenus au secret professionnel dans les
 conditions et sous les peines prévues à l'article 226-13 du code pénal. Ce secret n'est opposable ni à l'autorité judiciaire
 agissant dans le cadre d'une procédure pénale, ni aux juridictions civiles statuant sur un recours formé à l'encontre d'une
-décision du fonds de garantie, ni à la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance.
+décision du fonds de garantie, ni à l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -19627,7 +19497,7 @@ prévoyance.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -20991,20 +20861,63 @@ lorsque le véhicule n'est pas assuré.
 	  - Code de la route. - art. L330-1 (V)
 
 
+### Titre VI : Dispositions applicables à Mayotte et dans les îles Wallis et Futuna
+
+###### Article L461-1
+
+Les articles L. 421-1 à L. 421-6, L. 421-9 et L. 421-11 à L. 421-14 sont applicables à Mayotte dans leur rédaction en vigueur
+lors de la promulgation de la loi n° 92-1441 du 31 décembre 1992 précitée.
+
+L'article L. 421-7 est applicable dans les îles Wallis et Futuna dans sa rédaction en vigueur lors de la promulgation de la
+loi n° 92-1441 du 31 décembre 1992 précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°92-1441 1992-12-31
+	  - Code des assurances - art. L421-7 (M)
+	  - Code des assurances - art. L421-9 (M)
+	  - Code des assurances L421-1 à L421-6, L421-9, L421-11 à L421-14, L421-7
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+
 ## Livre V : Intermédiaires d'assurance
 
-### Titre Ier : Intermédiation en assurance.
+###### Article L500
 
-#### Chapitre IV : Contrôle des conditions d'accès et d'exercice
+Pour l'application du présent livre, les mots : "entreprise d'assurance" désignent les entreprises mentionnées à l'article L.
+310-2 du présent code, les mutuelles ou les unions régies par le livre II du code de la mutualité, les institutions de
+prévoyance ou les unions régies par le titre III du livre IX du code de la sécurité sociale et les institutions régies par
+l'article L. 727-2 du code rural.
 
-##### Section IV : Dispositions diverses et pénalités.
+**Liens relatifs à cet article**
 
-###### Article L514
+	**Cite**:
 
-Les associations souscriptrices bénéficiant d'une dérogation aux règles de présentation d'opérations d'assurance qui se
-livrent à la présentation de produits d'assurance sont tenues de déclarer à la Commission de contrôle des assurances leur
-activité et le type de produits qu'elles présentent. Elles informent celle-ci de toute modification dans la nature de leur
-activité ainsi que de la cessation de leur activité.
+	  - Code rural L727-2
+	  - Code des assurances - art. L310-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 3 (V) JORF 16 décembre 2005
+
+
+###### Article L500-1
+
+Pour l'application du présent livre, les mots : "en France" désignent la France métropolitaine, les collectivités
+territoriales régies par l'article 73 de la Constitution et Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -21014,24 +20927,36 @@ activité ainsi que de la cessation de leur activité.
 
 	**Créé par**:
 
-	  - Loi n°99-532 du 25 juin 1999 - art. 43 () JORF 29 janvier 1999
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation
+### Titre Ier : Intermédiation en assurance.
 
-### Titre I : Présentation des opérations
-
-#### Chapitre I : Principes généraux.
+#### Chapitre Ier : Définition.
 
 ###### Article L511-1
 
-Un décret en Conseil d'Etat définit la présentation d'une opération pratiquée par les entreprises mentionnées à l'article L.
-310-1 et détermine les personnes habilitées à effectuer une telle présentation.
+I. - L'intermédiation en assurance ou en réassurance est l'activité qui consiste à présenter, proposer ou aider à conclure
+des contrats d'assurance ou de réassurance ou à réaliser d'autres travaux préparatoires à leur conclusion. N'est pas
+considérée comme de l'intermédiation en assurance ou en réassurance l'activité consistant exclusivement en la gestion,
+l'estimation et la liquidation des sinistres.
 
-Lorsque cette présentation est effectuée par une personne ainsi habilitée, l'employeur ou mandant est civilement responsable,
-dans les termes de l'article 1384 du code civil, du dommage causé par la faute, l'imprudence ou la négligence de ses employés
-ou mandataires agissant en cette qualité, lesquels sont considérés, pour l'application du présent article, comme des
-préposés, nonobstant toute convention contraire.
+Est un intermédiaire d'assurance ou de réassurance toute personne qui, contre rémunération, exerce une activité
+d'intermédiation en assurance ou en réassurance.
+
+II. - Les dispositions du second alinéa du I ne s'appliquent ni aux entreprises d'assurance et de réassurance, ni aux
+personnes physiques salariées d'une entreprise d'assurance ou de réassurance, ni aux personnes qui, pratiquant une activité
+d'intermédiation en assurance ou en réassurance, répondent à des conditions fixées par décret en Conseil d'Etat, ni aux
+personnes physiques salariées de ces personnes. Les conditions fixées par ce décret tiennent notamment à l'activité de
+l'intermédiaire, à la nature du contrat d'assurance et au montant de la prime ou de la cotisation.
+
+III. - Pour cette activité d'intermédiation, l'employeur ou mandant est civilement responsable, dans les termes de l'article
+1384 du code civil, du dommage causé par la faute, l'imprudence ou la négligence de ses employés ou mandataires agissant en
+cette qualité, lesquels sont considérés, pour l'application du présent article, comme des préposés, nonobstant toute
+convention contraire.
+
+IV. - Un décret en Conseil d'Etat précise les conditions d'application du présent article et détermine les catégories de
+personnes habilitées à exercer une activité d'intermédiation.
 
 **Nota:**
 
@@ -21044,6 +20969,10 @@ en conformité avec les dispositions de la présente loi.
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -21070,28 +20999,43 @@ en conformité avec les dispositions de la présente loi.
 	  - Code monétaire et financier - art. L612-20 (VD)
 	  - Code rural et de la pêche maritime - art. R173-59 (V)
 
-	**Cite**:
-
-	  - Code civil - art. 1384 (M)
-	  - Code des assurances - art. L310-1 (M)
-
 	**Anciens textes**:
 
 	  - Décret n°1938-06-14 art. 31 bis
 
 
-###### Article L511-2
+#### Chapitre II : Principes généraux
 
-Ne peuvent exercer la profession d'agent général ou de courtier d'assurances ou de réassurances les personnes ayant fait
-l'objet d'une condamnation pour l'une des infractions visées aux 1°, 2° et 3° de l'article L. 322-2 ou de l'une des mesures
-prévues par les 4° et 5° du même article.
+##### Section I : Obligation d'immatriculation.
 
-Les condamnations et mesures visées au précédent alinéa entraînent pour les mandataires et employés des entreprises, les
-agents généraux, les courtiers et entreprises de courtage l'interdiction de présenter des opérations d'assurance ou de
-réassurance.
+###### Article L512-1
 
-Ces interdictions peuvent également être prononcées par les tribunaux à l'encontre de toute personne condamnée pour
-infraction à la législation ou à la réglementation des assurances.
+I.-Les intermédiaires définis à l'article L. 511-1 doivent être immatriculés sur un registre unique des intermédiaires, qui
+est librement accessible au public. 
+
+Un décret en Conseil d'Etat précise les conditions d'immatriculation sur ce registre et détermine les informations qui
+doivent être rendues publiques. Il détermine également les modalités de sa tenue par un organisme doté de la personnalité
+morale et regroupant les professions de l'assurance concernées. 
+
+Un commissaire du Gouvernement est désigné auprès de cet organisme. Sa mission et les modalités de sa désignation sont fixées
+par décret en Conseil d'Etat. 
+
+L'immatriculation, renouvelable chaque année, est subordonnée au paiement préalable, auprès de l'organisme mentionné au
+deuxième alinéa, de frais d'inscription annuels fixés par arrêté du ministre chargé de l'économie, dans la limite de 250
+euros. 
+
+Ces frais d'inscription sont recouvrés par l'organisme mentionné au deuxième alinéa, qui est soumis au contrôle général
+économique et financier de l'Etat. Leur paiement intervient au moment du dépôt de la demande d'inscription ou de la demande
+de renouvellement. 
+
+Lorsque la demande d'inscription ou de renouvellement est déposée sans le paiement correspondant, l'organisme mentionné au
+deuxième alinéa adresse au redevable par courrier recommandé avec accusé de réception une lettre l'informant qu'à défaut de
+paiement dans les trente jours suivant la date de réception de cette lettre la demande d'inscription ne pourra être prise en
+compte. Dans le cas d'une demande de renouvellement, le courrier indique que l'absence de paiement entraîne la radiation du
+registre. 
+
+II.-Les dispositions du présent article ne s'appliquent pas aux personnes physiques salariées d'un intermédiaire d'assurance
+ou de réassurance.
 
 **Liens relatifs à cet article**
 
@@ -21099,38 +21043,87 @@ infraction à la législation ou à la réglementation des assurances.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances L514-1 *sanctions pénales*
-
-	**Modifié par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 41 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
 
 	**Cité par**:
 
-	  - Décret n°96-902 du 15 octobre 1996 - art. Annexe, art. 1 (V)
-	  - Code des assurances - art. L514-1 (M)
-	  - Code des assurances - art. L530-2-2 (Ab)
-	  - Code des assurances - art. R*511-4 (Ab)
-	  - Code des assurances - art. R*512-1 (M)
-	  - Code des assurances - art. R*514-13 (Ab)
-	  - Code des assurances - art. R*514-8 (Ab)
-	  - Code des assurances - art. R*515-7 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 19 (V)
+	  - Décret n°2006-1091 du 30 août 2006 - art. 4 (V)
+	  - Arrêté du 29 octobre 2009 - art. 36 (V)
+	  - Loi n°2010-1249 du 22 octobre 2010 - art. 36
+	  - Loi n°2010-1249 du 22 octobre 2010 - art. 92 (V)
+	  - Arrêté du 22 décembre 2011 - art. 1 (V)
+	  - Arrêté du 1er mars 2012 - art. 1 (VT)
+	  - Arrêté du 20 décembre 2012 - art. (V)
+	  - Arrêté du 20 décembre 2012 - art. 1 (VD)
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 75 (V)
+	  - Arrêté du 24 septembre 2014 - art. (Ab)
+	  - Arrêté du 24 septembre 2014 - art. 2 (Ab)
+	  - Arrêté du 30 septembre 2014 (V)
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Arrêté du 20 mai 2015 - art. 5 (V)
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 7
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 9
+	  - Arrêté du 9 juin 2016 (V)
+	  - Arrêté du 9 juin 2016 - art. 1 (V)
+	  - Arrêté du 9 juin 2016 - art. 5
+	  - Décret n°2016-1453 du 28 octobre 2016 - art. 4
+	  - Décret n°2016-1453 du 28 octobre 2016 - art. 5
+	  - Arrêté du 27 février 2017 (V)
+	  - Arrêté du 27 février 2017 - art. (V)
+	  - Code de procédure pénale - art. R79 (V)
+	  - Code des assurances - art. A512-1 (VD)
+	  - Code des assurances - art. A512-2 (VD)
+	  - Code des assurances - art. L310-18-1 (Ab)
+	  - Code des assurances - art. L512-2 (VD)
+	  - Code des assurances - art. L512-3 (V)
+	  - Code des assurances - art. L514-4 (V)
+	  - Code des assurances - art. L515-1 (V)
+	  - Code des assurances - art. L515-2 (V)
+	  - Code des assurances - art. L515-3 (V)
+	  - Code des assurances - art. L530-2-1 (V)
+	  - Code des assurances - art. L550-1 (V)
+	  - Code des assurances - art. R512-1 (VD)
+	  - Code des assurances - art. R512-3 (VD)
+	  - Code des assurances - art. R512-6 (VD)
+	  - Code monétaire et financier - art. L519-10 (VD)
+	  - Code monétaire et financier - art. L519-3-2 (VD)
+	  - Code monétaire et financier - art. L519-8 (VD)
+	  - Code monétaire et financier - art. L519-9 (VD)
+	  - Code monétaire et financier - art. L546-1 (V)
+	  - Code monétaire et financier - art. L547-4 (VD)
+	  - Code monétaire et financier - art. L612-41 (V)
+	  - Code monétaire et financier - art. L621-5-3 (V)
+	  - Code monétaire et financier - art. L745-11-5 (VD)
+	  - Code monétaire et financier - art. L755-11-5 (VD)
+	  - Code monétaire et financier - art. L765-11-5 (VD)
+	  - Code monétaire et financier - art. R546-1 (VD)
+	  - Code monétaire et financier - art. R548-4 (VD)
+	  - Code monétaire et financier - art. R755-9-1 (V)
 
 	**Cite**:
 
-	  - Code des assurances - art. L322-2 (M)
+	  - Code des assurances - art. L511-1 (V)
 
 
-###### Article L511-3
+###### Article L512-2
 
-Les dispositions du présent chapitre sont applicables dans les territoires d'outre-mer et à Mayotte.
+Les entreprises soumises au contrôle de l'Autorité de contrôle des assurances et des mutuelles, les autres entreprises
+mentionnées à l'article L. 310-2 ou les entreprises de réassurance, qui recourent aux services d'intermédiaires, doivent
+s'assurer que ceux-ci sont immatriculés conformément aux dispositions de l'article L. 512-1.
+
+Les entreprises qui recourent à des intermédiaires ressortissants d'un Etat membre de la Communauté européenne ou d'un autre
+Etat partie à l'accord sur l'Espace économique européen autre que la France et exerçant sur le territoire français en régime
+de libre prestation de services ou de libre établissement s'assurent auprès de l'organisme qui tient le registre prévu au I
+de l'article L. 512-1 que ceux-ci sont immatriculés conformément au droit de leur pays d'origine.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
+d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
+en conformité avec les dispositions de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -21138,28 +21131,218 @@ Les dispositions du présent chapitre sont applicables dans les territoires d'ou
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 56 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Code des assurances - art. L310-2 (M)
+	  - Code des assurances - art. L512-1 (V)
 
-	**Abrogé par**:
+
+##### Section II : Autres conditions d'accès et d'exercice.
+
+###### Article L512-3
+
+I.-Lors de leur immatriculation ou du renouvellement de celle-ci, les intermédiaires sont tenus de transmettre à l'organisme
+qui tient le registre prévu au I de l'article L. 512-1 toute information nécessaire à la vérification des conditions
+relatives à l'accès à l'activité d'intermédiaire et à son exercice. Ils sont également tenus d'informer dans les meilleurs
+délais cet organisme lorsqu'ils ne respectent plus les conditions prévues à la présente section. 
+
+II.-Le non-respect par les intermédiaires d'assurance des conditions prévues à la présente section entraîne leur radiation
+d'office du registre unique des intermédiaires par l'organisme mentionné au I de l'article L. 512-1. Cet organisme rend
+publique la radiation ainsi prononcée.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
+d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
+en conformité avec les dispositions de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L512-1 (V)
+
+
+##### Sous-section 1 : Conditions d'honorabilité
+
+###### Article L512-4
+
+Sont soumis aux dispositions prévues aux I à VI de l'article L. 322-2 les intermédiaires personnes physiques qui exercent en
+leur nom propre, les personnes qui dirigent, gèrent ou administrent des intermédiaires personnes morales, les personnes qui
+sont membres d'un organe de contrôle, disposent du pouvoir de signer pour le compte ou sont directement responsables de
+l'activité d'intermédiation au sein de ces intermédiaires, ainsi que les salariés des entreprises d'assurance qui sont
+directement responsables de l'activité d'intermédiation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-2 (VT)
+
+
+##### Sous-section 2 : Conditions de capacité professionnelle
+
+###### Article L512-5
+
+Sont déterminées par décret en Conseil d'Etat les conditions de capacité professionnelle que doivent remplir les
+intermédiaires personnes physiques qui exercent en leur nom propre, les personnes qui dirigent, gèrent ou administrent des
+intermédiaires personnes morales ou des entreprises d'assurance ou de réassurance, les personnes qui sont membres d'un organe
+de contrôle, disposent du pouvoir de signer pour le compte ou sont directement responsables de l'activité d'intermédiation au
+sein de ces intermédiaires ou entreprises, ainsi que les salariés de ces intermédiaires ou entreprises. Ce décret tient
+compte notamment de la nature de l'activité exercée par ces personnes et des produits distribués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. R514-3 (V)
+
+
+##### Sous-section 3 : Assurance de responsabilité civile
+
+###### Article L512-6
+
+Tout intermédiaire doit souscrire un contrat d'assurance le couvrant contre les conséquences pécuniaires de sa responsabilité
+civile professionnelle, sauf si cette assurance ou une garantie équivalente lui est déjà fournie par une entreprise
+d'assurance ou de réassurance ou par un intermédiaire d'assurance ou de réassurance ou par une autre entreprise pour le
+compte desquels il agit ou par lesquels il est mandaté ou si ces entreprises ou cet intermédiaire assument l'entière
+responsabilité des actes de cet intermédiaire. Dans tous les cas, les intermédiaires doivent être en mesure de justifier à
+tout moment leur situation au regard de cette obligation.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
+d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
+en conformité avec les dispositions de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L511-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R512-14 (VD)
+
+
+##### Sous-section 4 : Garantie financière
+
+###### Article L512-7
+
+Tout intermédiaire qui, même à titre occasionnel, encaisse des fonds destinés à être versés soit à une entreprise
+d'assurance, soit à des assurés, ou qui a recours à un mandataire non agent chargé de transmettre ces fonds, doit souscrire
+une garantie financière spécialement affectée au remboursement de ces fonds aux assurés, sauf si ce mandataire peut justifier
+lui-même d'une telle garantie.
+
+Cette garantie ne peut résulter que d'un engagement de caution délivré par un établissement de crédit ou par une entreprise
+d'assurance régie par le présent code.
+
+L'obligation prévue par le présent article ne s'applique pas aux versements pour lesquels l'intermédiaire a reçu d'une
+entreprise d'assurance un mandat écrit le chargeant expressément de l'encaissement des primes ou cotisations et
+éventuellement du règlement des sinistres.
+
+Dans tous les cas, les intermédiaires doivent être en mesure de justifier à tout moment leur situation au regard de cette
+obligation.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
+d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
+en conformité avec les dispositions de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. L530-2-1 (V)
+	  - Code des assurances - art. R512-15 (V)
+
+
+##### Section III : Dispositions générales.
+
+###### Article L512-8
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent chapitre et détermine les conditions de
+l'intermédiation.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
+d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
+en conformité avec les dispositions de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
 
 	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
 
 
-#### Chapitre IV : Contrôle des conditions de présentation
+#### Chapitre IV : Contrôle des conditions d'accès et d'exercice
 
 ##### Section IV : Dispositions diverses et pénalités.
 
-###### Article L514-1
+###### Article L514
 
-Les infractions aux dispositions de l'article L. 511-2 sont punies d'un emprisonnement de deux ans et d'une amende de 6 000
-euros, ou de l'une de ces deux peines seulement.
+Les associations souscriptrices bénéficiant d'une dérogation aux règles d'exercice de l'intermédiation en assurance et qui se
+livrent à cette activité sont tenues de déclarer à l'Autorité de contrôle des assurances et des mutuelles leur activité et le
+type de produits qu'elles présentent. Elles informent celle-ci de toute modification dans la nature de leur activité ainsi
+que de la cessation de leur activité.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
+d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
+en conformité avec les dispositions de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -21169,11 +21352,32 @@ euros, ou de l'une de ces deux peines seulement.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
-	**Cite**:
 
-	  - Code des assurances - art. L511-2 (M)
+###### Article L514-1
+
+Les infractions aux dispositions du chapitre II du titre Ier du livre V sont punies d'un emprisonnement de deux ans et d'une
+amende de 6 000 euros, ou de l'une de ces deux peines seulement.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
+d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
+en conformité avec les dispositions de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -21183,13 +21387,20 @@ euros, ou de l'une de ces deux peines seulement.
 ###### Article L514-2
 
 Le fait de présenter en vue de leur souscription ou de faire souscrire des contrats pour le compte d'une entreprise soumise
-au contrôle de l'Etat en application de l'article L. 310-1 et non habilitée à pratiquer les opérations correspondantes sur le
+au contrôle de l'Autorité de contrôle des assurances et des mutuelles, d'une autre entreprise mentionnée à l'article L. 310-2
+ou d'une entreprise mentionnée à l'article L. 310-1-1 et non habilitée à pratiquer les opérations correspondantes sur le
 territoire de la République française est puni d'une amende de 3 000 euros et, en cas de récidive, d'une amende de 15 000
 euros et d'un emprisonnement de six mois.
 
 L'amende prévue au présent article est prononcée pour chacun des contrats proposés ou souscrits, sans que le total des
 amendes encourues puisse excéder 6 000 euros et en cas de récidive 30 000 euros.
 
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
+d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
+en conformité avec les dispositions de la présente loi.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -21198,17 +21409,33 @@ amendes encourues puisse excéder 6 000 euros et en cas de récidive 30 000 euro
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L514-1 (M)
+	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L310-2 (M)
 
 
 ###### Article L514-4
 
-Les infractions aux dispositions des articles L. 530-1 et L. 530-2 seront punies d'un emprisonnement d'un an et d'une amende
-de 9 000 euros ou de l'une de ces deux peines seulement.
+I. - Lorsque l'autorité de contrôle a connaissance d'une infraction commise par un intermédiaire susceptible d'entraîner la
+radiation du registre mentionné au I de l'article L. 512-1, ou lorsqu'elle fait usage de son pouvoir de sanction en
+application de l'article L. 310-18-1, elle en informe l'organisme chargé de la tenue de ce registre.
+
+II. - L'organisme chargé de la tenue du registre mentionné au I de l'article L. 512-1 communique toute information qui lui
+est demandée par l'autorité agissant dans le cadre de son pouvoir de contrôle ou par le Comité des entreprises d'assurance
+agissant dans le cadre de ses missions.
+
+III. - L'organisme mentionné au I de l'article L. 512-1 communique également, à son initiative, toute information utile à
+l'Autorité de contrôle des assurances et des mutuelles.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
+d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
+en conformité avec les dispositions de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -21218,32 +21445,40 @@ de 9 000 euros ou de l'une de ces deux peines seulement.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L530-1 (Ab)
-	  - Code des assurances - art. L530-2 (Ab)
+	  - Code des assurances - art. L310-18-1 (M)
+	  - Code des assurances - art. L512-1 (V)
 
 	**Cité par**:
 
 	  - Code des assurances - art. R512-3 (VD)
 
 
-### Titre II : Dispositions spéciales aux agents généraux d'assurances
+#### Chapitre V : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services
 
-#### Chapitre unique.
+###### Article L515-1
 
-###### Article L520-1
+Tout intermédiaire immatriculé en France qui envisage d'exercer une activité pour la première fois dans un ou plusieurs Etats
+membres de la Communauté européenne ou autre Etat partie à l'accord sur l'Espace économique européen, en régime de libre
+prestation de services ou de libre établissement, en informe l'organisme qui tient le registre mentionné au I de l'article L.
+512-1.
 
-Le contrat passé entre les entreprises d'assurance et leurs agents généraux, sans détermination de durée, peut toujours
-cesser par la volonté d'une des parties contractantes.
+Dans un délai d'un mois suivant cette notification, cet organisme communique aux autorités compétentes des Etats membres
+d'accueil qui en ont manifesté le souhait l'intention de l'intermédiaire d'assurance ou de réassurance et en informe
+concomitamment l'intermédiaire concerné. 
 
-Néanmoins, la résiliation du contrat par la volonté d'un seul des contractants peut donner lieu à des dommages-intérêts qui
-seront fixés conformément à l'article 1780 du code civil.
+L'intermédiaire d'assurance ou de réassurance peut commencer son activité un mois après la date à laquelle il a été informé
+par l'organisme mentionné au premier alinéa de la communication prévue au deuxième alinéa. Toutefois, cet intermédiaire peut
+commencer son activité immédiatement si l'Etat membre d'accueil ne souhaite pas en être informé.
 
-Les parties ne peuvent renoncer à l'avance au droit éventuel de demander des dommages-intérêts en vertu des dispositions ci-
-dessus.
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
+d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
+en conformité avec les dispositions de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -21251,9 +21486,125 @@ dessus.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
 	**Cite**:
 
-	  - Code civil - art. 1780 (V)
+	  - Code des assurances - art. L512-1 (V)
+
+
+###### Article L515-2
+
+Lorsqu'un intermédiaire immatriculé dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord
+sur l'Espace économique européen souhaite exercer en libre prestation de services ou en liberté d'établissement en France,
+l'organisme compétent dans l'Etat d'origine en informe l'organisme qui tient le registre mentionné au I de l'article L.
+512-1.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
+d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
+en conformité avec les dispositions de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - Code de commerce - art. A123-68-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L512-1 (V)
+
+
+###### Article L515-3
+
+En cas de radiation du registre mentionné au I de l'article L. 512-1 d'un intermédiaire exerçant en régime de libre
+prestation de services ou de liberté d'établissement dans un ou plusieurs Etats membres de la Communauté européenne,
+l'organisme chargé de la tenue de ce registre en informe les autorités chargées de la tenue du registre dans ces Etats.
+
+**Nota:**
+
+Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
+d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
+en conformité avec les dispositions de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L512-1 (V)
+
+
+### Titre II : Informations à fournir par les intermédiaires
+
+#### Chapitre unique.
+
+###### Article L520-1
+
+I. - Avant la conclusion d'un premier contrat d'assurance, l'intermédiaire mentionné à l'article L. 511-1 doit fournir au
+souscripteur éventuel des informations relatives notamment à son identité, à son immatriculation et aux procédures de recours
+et de réclamation, ainsi que, le cas échéant, à l'existence de liens financiers avec une ou plusieurs entreprises
+d'assurance.
+
+II. - Avant la conclusion de tout contrat, l'intermédiaire doit :
+
+1° Donner des indications quant à la fourniture de ce contrat :
+
+a) S'il est soumis à une obligation contractuelle de travailler exclusivement avec une ou plusieurs entreprises d'assurance,
+l'intermédiaire l'indique au souscripteur éventuel et l'informe que peut lui être communiqué, à sa demande, le nom de ces
+entreprises d'assurance ;
+
+b) S'il n'est pas soumis à une obligation contractuelle de travailler exclusivement avec une ou plusieurs entreprises
+d'assurance, mais qu'il n'est pas en mesure de fonder son analyse sur un nombre suffisant de contrats d'assurance offerts sur
+le marché, l'intermédiaire informe le souscripteur éventuel qu'il peut lui être communiqué, à sa demande, le nom des
+entreprises d'assurance avec lesquelles il travaille ;
+
+c) S'il n'est pas soumis à une obligation contractuelle de travailler exclusivement avec une ou plusieurs entreprises
+d'assurance et qu'il se prévaut d'un conseil fondé sur une analyse objective du marché, il est tenu d'analyser un nombre
+suffisant de contrats d'assurance offerts sur le marché, de façon à pouvoir recommander, en fonction de critères
+professionnels, le contrat qui serait adapté aux besoins du souscripteur éventuel ;
+
+2° Préciser les exigences et les besoins du souscripteur éventuel ainsi que les raisons qui motivent le conseil fourni quant
+à un produit d'assurance déterminé. Ces précisions, qui reposent en particulier sur les éléments d'information communiqués
+par le souscripteur éventuel, sont adaptées à la complexité du contrat d'assurance proposé.
+
+III. - Le souscripteur est, le cas échéant, tenu informé des changements affectant l'une des informations mentionnées au I et
+au 1° du II lors du renouvellement ou de la modification du contrat.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L511-1 (M)
 
 	**Cité par**:
 
@@ -21270,15 +21621,15 @@ dessus.
 
 ###### Article L520-2
 
-Le statut des agents généraux d'assurance et ses avenants sont, après avoir été négociés et établis par les organisations
-professionnelles intéressées, approuvés par décret.
+Les obligations prévues à l'article L. 520-1 ne s'appliquent pas à la présentation d'un contrat couvrant les risques
+mentionnés à l'article L. 111-6 ou d'un traité de réassurance.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°49-317 1949-03-05
-	  - TXT_ASSOCIE: Décret n°50-1608 1950-12-28 *homologation des statuts d'agents d'assurance*
+	  - TXT_ASSOCIE: Décret n°50-1608 1950-12-28
 
 	**Codifié par**:
 
@@ -21286,166 +21637,46 @@ professionnelles intéressées, approuvés par décret.
 
 	**Modifié par**:
 
-	  - Loi n°90-1260 du 31 décembre 1990 - art. 5 () JORF 5 janvier 1991
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L111-6 (V)
+	  - Code des assurances - art. L520-1 (V)
 
 
 ### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance
 
 #### Chapitre unique.
 
-###### Article L530-1
-
-Tout courtier ou société de courtage d'assurance qui, même à titre occasionnel, se voit confier des fonds en vue d'être
-versés à des entreprises mentionnées à l'article L. 310-1 ou à des assurés est tenu à tout moment de justifier d'une garantie
-financière spécialement affectée au remboursement de ces fonds aux assurés.
-
-Cette garantie ne peut résulter que d'un engagement de caution pris par un établissement de crédit habilité à cet effet ou
-une entreprise d'assurance régie par le code des assurances.
-
-L'obligation prévue par le présent article ne s'applique pas aux versements pour lesquels le courtier a reçu d'une entreprise
-d'assurance un mandat écrit le chargeant expressément de l'encaissement des primes et accessoirement du règlement des
-sinistres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances L514-4 *sanctions*
-
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 42 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cité par**:
-
-	  - Décret n°99-776 du 8 septembre 1999 - art. 1 (Ab)
-	  - Code des assurances - art. L514-4 (M)
-	  - Code des assurances - art. L530-2-1 (M)
-	  - Code des assurances - art. L530-2-2 (Ab)
-	  - Code des assurances - art. R421-24-3 (V)
-	  - Code des assurances - art. R530-1 (Ab)
-	  - Code des assurances - art. R530-11 (Ab)
-	  - Code des assurances - art. R530-12 (Ab)
-	  - Code monétaire et financier - art. D313-26 (VD)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
-
-###### Article L530-2
-
-Tout courtier ou société de courtage d'assurance doit être en mesure de justifier à tout moment de l'existence d'un contrat
-d'assurance le couvrant contre les conséquences pécuniaires de sa responsabilité civile professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-	  - TXT_ASSOCIE: Code des assurances L514-4 *sanctions*
-
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 42 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
-
-	**Cité par**:
-
-	  - Code des assurances - art. L514-4 (M)
-	  - Code des assurances - art. L530-2-2 (Ab)
-	  - Code des assurances - art. R530-11 (Ab)
-	  - Code des assurances - art. R530-12 (Ab)
-	  - Code des assurances - art. R530-8 (Ab)
-
-
 ###### Article L530-2-1
 
-Les personnes non assurées mais ayant effectué, à un courtier ou à une société de courtage figurant à la liste mentionnée à
-l'article L. 530-2-2, des versements afférents à des contrats non régis par les dispositions de l'article L. 351-4 et faisant
+Les personnes non assurées mais ayant effectué, à un courtier ou à une société de courtage immatriculés au registre mentionné
+à l'article L. 512-1, des versements afférents à des contrats non régis par les dispositions de l'article L. 351-4 et faisant
 l'objet d'un engagement apparent de la part de l'une des entreprises mentionnées à l'article L. 310-1, seront garanties par
 ladite entreprise lorsque l'assurance de responsabilité civile du courtier ou de la société de courtage qui a reçu ces
-versements ne peut être actionnée.
+versements ne peut être actionnée. 
 
 L'assureur qui a donné sa garantie en application des dispositions de l'alinéa précédent est subrogé dans les droits et
-actions appartenant à l'assuré en vertu de celles de l'article L. 530-1.
+actions appartenant à l'assuré en vertu de celles de l'article L. 512-7.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-	**Créé par**:
-
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 42 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L351-4 (M)
-	  - Code des assurances - art. L530-1 (Ab)
-	  - Code des assurances - art. L530-2-2 (M)
-
-
-###### Article L530-2-2
-
-Le ministre chargé de l'économie veille au respect des prescriptions prévues aux articles L. 511-1 (premier alinéa), L.
-511-2, L. 530-1 et L. 530-2. La liste des courtiers et des sociétés de courtage d'assurance établis en France est tenue par
-les professions de l'assurance concernées dans des conditions fixées par décret en Conseil d'Etat.
-
-Cette liste est publiée chaque année au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet$
 
 	**Modifié par**:
 
-	  - Loi n°99-532 du 25 juin 1999 - art. 46 () JORF 29 juin 1999
-
-	**Abrogé par**:
-
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
 	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
-
-	**Cité par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 19 (V)
-	  - Code des assurances - art. L530-2-1 (M)
-	  - Code des assurances - art. R530-12 (Ab)
 
 	**Cite**:
 
-	  - Code des assurances - art. L511-1 (M)
-	  - Code des assurances - art. L511-2 (M)
-	  - Code des assurances - art. L530-1 (Ab)
-	  - Code des assurances - art. L530-2 (Ab)
+	  - Code des assurances - art. L310-1 (VT)
+	  - Code des assurances - art. L351-4 (VT)
+	  - Code des assurances - art. L512-1 (V)
+	  - Code des assurances - art. L512-7 (V)
 
 
 ###### Article L530-3
@@ -21459,13 +21690,142 @@ nécessaires pour garantir la protection des assurés.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+
+### Titre IV : Dispositions spéciales aux agents généraux d'assurance
+
+#### Chapitre unique.
+
+###### Article L540-1
+
+Le contrat passé entre les entreprises d'assurance et leurs agents généraux, sans détermination de durée, peut toujours
+cesser par la volonté d'une des parties contractantes.
+
+Néanmoins, la résiliation du contrat par la volonté d'un seul des contractants peut donner lieu à des dommages-intérêts qui
+sont fixés conformément à l'article 1780 du code civil.
+
+Les parties ne peuvent renoncer à l'avance au droit éventuel de demander des dommages-intérêts en vertu des dispositions ci-
+dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
 
 	**Créé par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 42 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code civil - art. 1780 (V)
+
+
+###### Article L540-2
+
+Le statut des agents généraux d'assurance et ses avenants sont, après avoir été négociés et établis par les organisations
+professionnelles intéressées, approuvés par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 41-00 A bis (V)
+
+
+### Titre V : Dispositions spéciales aux mandataires non agents généraux d'assurance
+
+#### Chapitre unique.
+
+###### Article L550-1
+
+Pour l'application du I de l'article L. 512-1, les mandataires non agents généraux d'assurance, exerçant leur activité au nom
+et pour le compte d'une entreprise d'assurance et sous son entière responsabilité, et ne percevant ni les primes, ni les
+sommes destinées aux clients peuvent être immatriculés sur le registre des intermédiaires par l'entreprise qui les mandate.
+Cette entreprise vérifie sous sa responsabilité qu'ils remplissent les conditions relatives à l'accès à l'activité
+d'intermédiaire et à son exercice. 
+
+Dans ce cas, l'entreprise d'assurance est tenue de communiquer à l'organisme qui tient le registre prévu au I de l'article L.
+512-1, à sa demande, toute information nécessaire à la vérification des conditions d'accès et d'exercice des mandataires non
+agents généraux d'assurance qu'elle a immatriculés. 
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L512-1 (V)
+
+
+### Titre VI : Dispositions applicables à Mayotte et dans les îles Wallis et Futuna.
+
+###### Article L561-1
+
+Le chapitre Ier du titre Ier du présent livre est applicable à Mayotte dans sa rédaction en vigueur lors de la promulgation
+de la loi n° 89-1014 du 31 décembre 1989 précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°89-1014 1989-12-31
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+
+###### Article L561-2
+
+Le chapitre Ier du titre Ier du présent livre est applicable dans les îles Wallis et Futuna dans sa rédaction en vigueur lors
+de la promulgation de la loi n° 89-1014 du 31 décembre 1989 précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°89-1014 du 31 décembre 1989 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2007-1801 du 21 décembre 2007 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L571-1 (V)
 
 
 # Partie réglementaire
@@ -22348,8 +22708,8 @@ immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal 
 
 En cours de contrat, l'assureur peut effectuer pour les contrats l'ayant prévu la substitution d'une unité de compte visée au
 2° de l'article R. 131-1 au profit d'unités de compte de nature comparable si l'unité de compte initiale ne remplit plus les
-conditions définies au 2° de l'article R. 131-3 ou si l'assureur qui en fait la demande y est autorisé par la Commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance.
+conditions définies au 2° de l'article R. 131-3 ou si l'assureur qui en fait la demande y est autorisé par l'Autorité de
+contrôle des assurances et des mutuelles.
 
 Les modalités d'application du présent article sont définies par arrêté du ministre de l'économie et des finances.
 
@@ -22361,7 +22721,7 @@ Les modalités d'application du présent article sont définies par arrêté du 
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -25574,11 +25934,11 @@ L'autorité administrative mentionnée à l'article L. 310-9, est le ministre de
 ###### Article R310-6-1
 
 Les entreprises françaises mentionnées à l'article L. 310-1 du présent code doivent, avant de soumettre à l'assemblée
-générale des modifications à leurs statuts, obtenir l'accord de la commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance qui statue dans les trois mois du dépôt de trois spécimens des projets de modification des
-résolutions portant statuts. Un exemplaire de ces documents est transmis par la commission au commissaire du Gouvernement. A
-l'expiration de ce délai, en l'absence d'observation de la commission, les modifications sont considérées comme approuvées.
-Ce délai est réduit à quarante-cinq jours pour les augmentations de capital social.
+générale des modifications à leurs statuts, obtenir l'accord de l'Autorité de contrôle des assurances et des mutuelles qui
+statue dans les trois mois du dépôt de trois spécimens des projets de modification des résolutions portant statuts. Un
+exemplaire de ces documents est transmis par l'Autorité au commissaire du Gouvernement. A l'expiration de ce délai, en
+l'absence d'observation de l'Autorité, les modifications sont considérées comme approuvées. Ce délai est réduit à quarante-
+cinq jours pour les augmentations de capital social.
 
 **Liens relatifs à cet article**
 
@@ -25588,8 +25948,7 @@ Ce délai est réduit à quarante-cinq jours pour les augmentations de capital s
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -25607,9 +25966,8 @@ Ce délai est réduit à quarante-cinq jours pour les augmentations de capital s
 ###### Article R310-7
 
 Les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1-1 sont tenues, dans le mois de leur
-constitution, de notifier cette dernière à la commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance et d'adresser à celle-ci, dans le même délai, un dossier dont la composition est fixée par arrêté du ministre
-chargé de l'économie.
+constitution, de notifier cette dernière à l'Autorité de contrôle des assurances et des mutuelles et d'adresser à celle-ci,
+dans le même délai, un dossier dont la composition est fixée par arrêté du ministre chargé de l'économie.
 
 Cette obligation s'impose également aux entreprises qui adoptent pour nouvel objet social l'exercice de l'activité de
 réassurance.
@@ -25622,8 +25980,7 @@ réassurance.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -25675,72 +26032,48 @@ Le livre III du présent code est applicable à Mayotte.
 	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 
-#### Chapitre II : Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
+#### Chapitre II : Autorité de contrôle des assurances et des mutuelles
 
 ##### Section I : Organisation et fonctionnement
 
-##### Sous-section 1 : Organisation de la commission
-
-###### Article R*310-12-1
-
-Chaque commissaire du Gouvernement dispose d'un délai de trois jours ouvrés suivant la réunion de la commission de contrôle
-pour demander une deuxième délibération.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2 (Ab)
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. R951-2 (Ab)
-
+##### Sous-section 1 : Organisation de l'Autorité
 
 ###### Article R310-11
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance se réunit sur convocation de son
-président ou à la demande de la moitié de ses membres.
+I. L'Autorité de contrôle des assurances et des mutuelles se réunit sur convocation de son président ou à la demande de la
+moitié de ses membres.
 
 Elle ne peut délibérer que si cinq au moins de ses membres sont présents, ce nombre étant porté à six en matière
 disciplinaire.
 
-II. - Il est établi un procès-verbal des séances de la commission de contrôle par un agent des services qui fait office de
+II. - Il est établi un procès-verbal des séances de l'Autorité de contrôle par un agent des services qui fait office de
 secrétaire de séance. Mention y est faite des noms des membres présents.
 
-Le procès-verbal est soumis à l'approbation de la commission.
+Le procès-verbal est soumis à l'approbation de l'Autorité.
 
 Une fois approuvé, ce procès-verbal est signé par le président et copie en est tenue à la disposition de chacun des membres
-de la commission et des commissaires du Gouvernement.
+de l'Autorité et des commissaires du Gouvernement.
 
-III. - Les membres de la commission perçoivent, pour chaque séance, une indemnité dont le montant est fixé par la commission.
-Le montant des indemnités versées annuellement à chaque membre ne doit pas dépasser un cinquième du traitement moyen afférent
-au cinquième groupe supérieur des emplois de l'Etat classés hors échelle. Le président de la commission perçoit une
-rémunération ou une indemnité du même montant, assortie d'une indemnité de fonction fixée par le ministre chargé de
-l'économie. Le montant de cette dernière indemnité est publié au Journal officiel de la République française.
+III. - Les membres de l'Autorité perçoivent, pour chaque séance, une indemnité dont le montant est fixé par l'Autorité. Le
+montant des indemnités versées annuellement à chaque membre ne doit pas dépasser un cinquième du traitement moyen afférent au
+cinquième groupe supérieur des emplois de l'Etat classés hors échelle. Le président de l'Autorité perçoit une rémunération ou
+une indemnité du même montant, assortie d'une indemnité de fonction fixée par le ministre chargé de l'économie. Le montant de
+cette dernière indemnité est publié au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
 
 	**Cité par**:
 
 	  - Arrêté du 17 septembre 2004 - art. 1 (V)
 	  - Code de la sécurité sociale. - art. R951-2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Liens**:
 
@@ -25749,10 +26082,10 @@ l'économie. Le montant de cette dernière indemnité est publié au Journal off
 
 ###### Article R310-12
 
-I. - Sur proposition de son président et à la majorité des deux tiers de ses membres, la commission de contrôle peut
-constituer une ou plusieurs commissions spécialisées mentionnées à l'article L. 310-12-1. Elle peut les créer en matière
-d'assurances de personnes, de biens et de responsabilité ainsi qu'en matière d'intermédiation et de gouvernance des
-organismes pratiquant des activités d'assurance.
+I. - Sur proposition de son président et à la majorité des deux tiers de ses membres, l'Autorité de contrôle peut constituer
+une ou plusieurs commissions spécialisées mentionnées à l'article L. 310-12-1. Elle peut les créer en matière d'assurances de
+personnes, de biens et de responsabilité ainsi qu'en matière d'intermédiation et de gouvernance des organismes pratiquant des
+activités d'assurance.
 
 Ces commissions spécialisées ne peuvent intervenir dans les matières relevant du pouvoir de sanction mentionné à l'article L.
 310-18 du présent code, à l'article L. 951-10 du code de la sécurité sociale et à l'article L. 510-11 du code de la
@@ -25763,19 +26096,19 @@ derniers exercices de l'organisme concerné est inférieur à un seuil détermin
 finances, de la sécurité sociale et de la mutualité et au moins égal à celui prévu en application de l'article L. 510-2 du
 code de la mutualité.
 
-Lorsqu'elle décide la création d'une commission spécialisée, la commission de contrôle précise :
+Lorsqu'elle décide la création d'une commission spécialisée, l'Autorité de contrôle précise :
 
 1° L'étendue de la délégation qu'elle lui donne pour prendre des décisions de portée individuelle ;
 
-2° Sa composition, chaque commission spécialisée comprenant, outre le président de la commission de contrôle, quatre membres
-au moins de cette dernière ;
+2° Sa composition, chaque commission spécialisée comprenant, outre le président de l'Autorité de contrôle, quatre membres au
+moins de cette dernière ;
 
 3° La durée pour laquelle elle l'habilite à prendre les décisions mentionnées au 1°.
 
 La décision de création d'une commission spécialisée est publiée au Journal officiel de la République française.
 
 II. - 1° La commission spécialisée compétente à l'égard des organismes régis par le livre III du code de la mutualité,
-mentionnée à l'article L. 310-12-1, comprend, outre le président de la commission de contrôle, cinq de ses membres au moins.
+mentionnée à l'article L. 310-12-1, comprend, outre le président de l'Autorité de contrôle, cinq de ses membres au moins.
 
 Elle est saisie de toute question concernant ces organismes, notamment par l'autorité administrative chargée du contrôle au
 niveau régional agissant dans le cadre des dispositions prévues à l'article L. 510-2 du code de la mutualité.
@@ -25784,7 +26117,7 @@ Par dérogation aux dispositions du I, cette commission spécialisée est habili
 régies par le livre III du code de la mutualité et selon les modalités définies aux articles R. 510-11, R. 510-12 et R.
 510-13 du même code les sanctions prévues à l'article L. 510-11 de ce code.
 
-Lorsqu'elle l'estime utile, cette commission spécialisée renvoie l'affaire devant la commission de contrôle.
+Lorsqu'elle l'estime utile, cette commission spécialisée renvoie l'affaire devant l'Autorité de contrôle.
 
 2° Lorsqu'elle se réunit en formation consultative, cette commission spécialisée peut s'adjoindre des personnalités reconnues
 pour leur expérience dans les domaines de la sécurité sociale, de la prévoyance et de la gestion de structures de soins. Elle
@@ -25792,24 +26125,28 @@ peut notamment donner des avis ou faire des recommandations sur les relations en
 et les organismes relevant de sa compétence. Réunie en formation consultative, elle ne peut prononcer de décisions de portée
 individuelle.
 
-III. - 1° Chacune des commissions spécialisées mentionnées aux I et II se réunit sur convocation du président de la
-commission de contrôle ou à la demande de la moitié de ses membres. Elle ne peut délibérer que si quatre au moins de ses
-membres sont présents.
+III. - 1° Chacune des commissions spécialisées mentionnées aux I et II se réunit sur convocation du président de l'Autorité
+de contrôle ou à la demande de la moitié de ses membres. Elle ne peut délibérer que si quatre au moins de ses membres sont
+présents.
 
 Les commissaires du Gouvernement peuvent assister aux réunions des commissions spécialisées.
 
 2° Il est établi un procès-verbal des délibérations de la commission spécialisée. Mention y est faite du nom des membres
 présents. Le procès-verbal est soumis à l'approbation de la commission spécialisée.
 
-Une fois approuvé, ce procès-verbal est signé par le président et copie en est tenue à la disposition des membres de la
-commission de contrôle et des commissaires du Gouvernement.
+Une fois approuvé, ce procès-verbal est signé par le président et copie en est tenue à la disposition des membres de
+l'Autorité de contrôle et des commissaires du Gouvernement.
 
-Le président rend compte à la plus prochaine réunion de la commission de contrôle des décisions adoptées par chaque
-commission spécialisée.
+Le président rend compte à la plus prochaine réunion de l'Autorité de contrôle des décisions adoptées par chaque commission
+spécialisée.
 
 3° Une décision d'une commission spécialisée est exécutoire sauf si l'un de ses membres ou un commissaire du Gouvernement
-demande, au cours de la séance, que la décision soit renvoyée à la Commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance.
+demande, au cours de la séance, que la décision soit renvoyée à l'Autorité de contrôle des assurances et des mutuelles.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -25819,20 +26156,57 @@ des institutions de prévoyance.
 
 	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L951-10 (M)
-	  - Code des assurances - art. L310-12-1 (M)
-	  - Code des assurances - art. L310-18 (M)
-	  - Code de la mutualité - art. L510-11 (M)
-	  - Code de la mutualité - art. L510-2 (M)
-	  - Code de la mutualité - art. L510-8 (M)
-	  - Code de la mutualité - art. L510-9 (M)
-	  - Code de la mutualité - art. R510-11 (M)
-	  - Code de la mutualité - art. R510-12 (M)
-	  - Code de la mutualité - art. R510-13 (M)
+	  - Code de la sécurité sociale. - art. L951-10
+	  - Code des assurances - art. L310-12-1
+	  - Code des assurances - art. L310-18
+	  - Code de la mutualité - art. L510-11
+	  - Code de la mutualité - art. L510-2
+	  - Code de la mutualité - art. L510-8
+	  - Code de la mutualité - art. L510-9
+	  - Code de la mutualité - art. R510-11
+	  - Code de la mutualité - art. R510-12
+	  - Code de la mutualité - art. R510-13
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2 (Ab)
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R951-2 (Ab)
+
+
+###### Article R310-12-1
+
+Chaque commissaire du Gouvernement dispose d'un délai de trois jours ouvrés suivant la réunion de l'Autorité de contrôle pour
+demander une deuxième délibération.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Liens**:
 
@@ -25848,7 +26222,7 @@ des institutions de prévoyance.
 ###### Article R310-12-2
 
 Sur proposition du secrétaire général et dans le cadre des dispositions mentionnées aux articles L. 310-12-3 et L. 310-12-4,
-la commission de contrôle délibère sur :
+l'Autorité de contrôle délibère sur :
 
 1° Le budget annuel et ses modifications en cours d'année ;
 
@@ -25871,15 +26245,24 @@ mutualité ;
 
 10° Les dons et legs.
 
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Liens**:
 
@@ -25893,14 +26276,14 @@ mutualité ;
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-12-3 (M)
-	  - Code des assurances - art. L310-12-4 (M)
+	  - Code des assurances - art. L310-12-3
+	  - Code des assurances - art. L310-12-4
 
 
 ###### Article R310-12-3
 
-Sans préjudice des compétences du président, le secrétaire général représente la commission de contrôle dans tous les actes
-de la vie civile.
+Sans préjudice des compétences du président, le secrétaire général représente l'Autorité de contrôle dans tous les actes de
+la vie civile.
 
 Il est ordonnateur des recettes et des dépenses.
 
@@ -25912,7 +26295,7 @@ Dans le cadre des règles générales fixées par la commission en vertu de l'ar
 
 3° Gérer les disponibilités et décider des placements ;
 
-4° Passer au nom de la commission tous contrats, conventions et marchés et décider des prises ou cessions à bail de biens
+4° Passer au nom de l'Autorité tous contrats, conventions et marchés et décider des prises ou cessions à bail de biens
 immobiliers ;
 
 5° Engager, gérer et licencier le personnel à l'égard duquel il exerce la compétence de l'employeur et en fixer les
@@ -25924,12 +26307,12 @@ compétence propre ;
 7° Fixer le régime des indemnités de mission et de déplacement des personnels à l'égard duquel il exerce la compétence de
 l'employeur.
 
-Dans les matières relevant de sa compétence, le secrétaire général est autorisé à transiger au nom de la commission dans les
+Dans les matières relevant de sa compétence, le secrétaire général est autorisé à transiger au nom de l'Autorité dans les
 conditions fixées par les articles 2044 à 2058 du code civil.
 
 Un secrétaire général adjoint, placé sous l'autorité du secrétaire général, est nommé parmi les membres du corps de
 l'inspection générale des affaires sociales par arrêté conjoint des ministres chargés des finances, de la sécurité sociale et
-de la mutualité pris après avis de la commission.
+de la mutualité pris après avis de l'Autorité.
 
 Le secrétaire général peut déléguer sa signature au secrétaire général adjoint en toute matière à l'exclusion des compétences
 qu'il détient, le cas échéant, en sa qualité de chef du corps des commissaires contrôleurs des assurances. Il peut également
@@ -25937,20 +26320,29 @@ déléguer sa signature à tout autre agent du secrétariat général, dans des 
 
 Le secrétaire général peut nommer un second secrétaire général adjoint.
 
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Cite**:
 
-	  - Code civil 2044 à 2058
-	  - Code des assurances R310-12-2
+	  - Code civil
+	  - Code des assurances
 
 	**Liens**:
 
@@ -25967,12 +26359,17 @@ Le secrétaire général peut nommer un second secrétaire général adjoint.
 
 L'exercice comptable débute le 1er janvier et s'achève le 31 décembre.
 
-La commission de contrôle arrête son budget chaque année avant le début de l'exercice. Le budget comporte la prévision des
-recettes attendues et des dépenses nécessitées par la commission pour l'exercice de ses missions. Il peut être modifié en
-cours d'année. Les crédits inscrits au budget n'ont pas un caractère limitatif.
+L'Autorité de contrôle arrête son budget chaque année avant le début de l'exercice. Le budget comporte la prévision des
+recettes attendues et des dépenses nécessitées par l'Autorité pour l'exercice de ses missions. Il peut être modifié en cours
+d'année. Les crédits inscrits au budget n'ont pas un caractère limitatif.
 
-Les délibérations de la commission de contrôle relatives au budget et à ses modifications sont exécutoires de plein droit à
+Les délibérations de l'Autorité de contrôle relatives au budget et à ses modifications sont exécutoires de plein droit à
 l'issue du délai dont disposent les commissaires du Gouvernement pour demander une seconde délibération.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -25986,9 +26383,13 @@ l'issue du délai dont disposent les commissaires du Gouvernement pour demander 
 	  - PILOTE_SUIVEUR: Code de la mutualité - art. R510-1-2 (Ab)
 	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. R951-2-1 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Cité par**:
 
@@ -25998,27 +26399,27 @@ l'issue du délai dont disposent les commissaires du Gouvernement pour demander 
 
 ###### Article R310-12-5
 
-I. - La commission de contrôle est dotée d'un agent comptable nommé par arrêté du ministre chargé du budget. L'agent
-comptable est responsable personnellement et pécuniairement dans les conditions de l'article 60 de la loi de finances pour
-1963 (n° 63-156 du 23 février 1963) et du décret n° 64-1022 du 29 septembre 1964 relatif à la constatation et à l'apurement
-des débets des comptables publics et assimilés.
+I. - L'Autorité de contrôle est dotée d'un agent comptable nommé par arrêté du ministre chargé du budget. L'agent comptable
+est responsable personnellement et pécuniairement dans les conditions de l'article 60 de la loi de finances pour 1963 (n°
+63-156 du 23 février 1963) et du décret n° 64-1022 du 29 septembre 1964 relatif à la constatation et à l'apurement des débets
+des comptables publics et assimilés.
 
 Il est chargé :
 
-a) De la tenue des comptabilités de la commission de contrôle ;
+a) De la tenue des comptabilités de l'Autorité de contrôle ;
 
 b) Du recouvrement de la contribution pour frais de contrôle instituée à l'article L. 310-12-4, sans préjudice des
-dispositions de l'article L. 951-1 du code de la sécurité sociale, et de toutes les autres recettes de la commission de
+dispositions de l'article L. 951-1 du code de la sécurité sociale, et de toutes les autres recettes de l'Autorité de
 contrôle ;
 
 c) Du paiement des dépenses et du maniement des fonds ainsi que des mouvements de comptes de disponibilités.
 
 Avec l'accord du secrétaire général, il peut confier sous son contrôle la comptabilité analytique et la comptabilité matière
-aux services de la commission de contrôle.
+aux services de l'Autorité de contrôle.
 
 L'agent comptable peut nommer des mandataires qui sont agréés par le secrétaire général.
 
-II. - Les comptes de la commission de contrôle sont établis selon les règles du plan comptable général. Celui-ci peut faire
+II. - Les comptes de l'Autorité de contrôle sont établis selon les règles du plan comptable général. Celui-ci peut faire
 l'objet d'adaptations proposées par le secrétaire général et approuvées par le ministre chargé du budget.
 
 Les taux d'amortissement et de dépréciation ainsi que les modalités de tenue des inventaires sont fixés par le règlement
@@ -26028,29 +26429,38 @@ L'agent comptable établit un compte financier au terme de chaque exercice. Le c
 résultat, le bilan, l'annexe, la balance générale des comptes à la clôture de l'exercice, le tableau de rapprochement des
 prévisions et des réalisations effectives et, le cas échéant, la balance des comptes spéciaux.
 
-Le compte financier est préparé par l'agent comptable et soumis par le secrétaire général à la commission de contrôle qui
-entend l'agent comptable. Le compte financier est arrêté par la commission de contrôle. Il est transmis à la Cour des comptes
-par le secrétaire général, accompagné des délibérations de la commission relatives au budget, à ses modifications et au
-compte financier, et de tous les autres documents demandés par les ministres ou par la cour dans les quatre mois qui suivent
-la clôture de l'exercice.
+Le compte financier est préparé par l'agent comptable et soumis par le secrétaire général à l'Autorité de contrôle qui entend
+l'agent comptable. Le compte financier est arrêté par l'Autorité de contrôle. Il est transmis à la Cour des comptes par le
+secrétaire général, accompagné des délibérations de l'Autorité relatives au budget, à ses modifications et au compte
+financier, et de tous les autres documents demandés par les ministres ou par la cour dans les quatre mois qui suivent la
+clôture de l'exercice.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°63-156 1963-02-23 art. 60 Finances pour 1963
-	  - Décret n°64-1022 1964-09-29
-	  - Code de la sécurité sociale. - art. L951-1 (M)
-	  - Code des assurances - art. L310-12-4 (M)
-	  - Code des assurances L310-12-4, annexe
+	  - Loi n°63-156 du 23 février 1963
+	  - Décret n°64-1022 du 29 septembre 1964
+	  - Code de la sécurité sociale. - art. L951-1
+	  - Code des assurances
+	  - Code des assurances - art. L310-12-4
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Liens**:
 
@@ -26065,54 +26475,63 @@ la clôture de l'exercice.
 
 ###### Article R310-12-6
 
-I. - L'agent comptable est tenu de faire diligence pour assurer le recouvrement de toutes les ressources de la commission de
+I. - L'agent comptable est tenu de faire diligence pour assurer le recouvrement de toutes les ressources de l'Autorité de
 contrôle. Les recettes sont recouvrées par l'agent comptable soit spontanément, soit en exécution des instructions du
 secrétaire général. A l'exception de la contribution mentionnée à l'article L. 310-12-4, dont le recouvrement relève de la
 procédure de l'état exécutoire, l'agent comptable adresse aux débiteurs les factures correspondantes et reçoit leurs
 règlements. Tous les droits acquis au cours d'un exercice doivent être pris en compte au titre de cet exercice.
 
-II. - Lorsque les créances de la commission de contrôle, autres que la contribution mentionnée à l'article L. 310-12-4, n'ont
-pu être recouvrées à l'amiable, les poursuites sont conduites conformément aux usages du commerce ou peuvent faire l'objet
+II. - Lorsque les créances de l'Autorité de contrôle, autres que la contribution mentionnée à l'article L. 310-12-4, n'ont pu
+être recouvrées à l'amiable, les poursuites sont conduites conformément aux usages du commerce ou peuvent faire l'objet
 d'états rendus exécutoires par le secrétaire général. Les états exécutoires peuvent être notifiés aux débiteurs par lettre
 recommandée avec accusé de réception. Leur recouvrement est poursuivi jusqu'à opposition devant la juridiction compétente.
 
 III. - L'agent comptable procède aux poursuites. Celles-ci peuvent, à tout moment, être suspendues sur ordre écrit du
 secrétaire général si la créance est l'objet d'un litige. Le secrétaire général suspend également les poursuites si, en
 accord avec l'agent comptable, il estime que la créance est irrécouvrable ou que l'octroi d'un délai par l'agent comptable
-est conforme à l'intérêt de la commission de contrôle.
+est conforme à l'intérêt de l'Autorité de contrôle.
 
 IV. - Le secrétaire général peut décider, après l'avis conforme de l'agent comptable :
 
-1° En cas de gêne des débiteurs, d'accorder une remise gracieuse des créances de la commission de contrôle, sauf pour la
+1° En cas de gêne des débiteurs, d'accorder une remise gracieuse des créances de l'Autorité de contrôle, sauf pour la
 contribution mentionnée à l'article L. 310-12-4 ;
 
 2° Sur demande justifiée des débiteurs, d'accorder la remise totale ou partielle des majorations de retard ou des pénalités
 appliquées à la contribution mentionnée à l'article L. 310-12-4 ;
 
-3° Une admission en non-valeur des créances de la commission de contrôle, en cas d'irrécouvrabilité avérée ou d'insolvabilité
+3° Une admission en non-valeur des créances de l'Autorité de contrôle, en cas d'irrécouvrabilité avérée ou d'insolvabilité
 des débiteurs.
 
-La commission de contrôle fixe le montant au-delà duquel l'une des remises mentionnées au 1° ou au 2° est soumise à son
+L'Autorité de contrôle fixe le montant au-delà duquel l'une des remises mentionnées au 1° ou au 2° est soumise à son
 approbation.
 
 Lorsque la remise gracieuse totale ou partielle concerne une dette de l'agent comptable, l'avis conforme prévu par l'article
 8 du décret n° 64-1022 du 29 septembre 1964 relatif à la constatation et à l'apurement des débets des comptables publics et
-assimilés est rendu par la commission de contrôle.
+assimilés est rendu par l'Autorité de contrôle.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°64-1022 du 29 septembre 1964 - art. 8 (V)
-	  - Code des assurances - art. L310-12-4 (M)
+	  - Décret n°64-1022 du 29 septembre 1964 - art. 8
+	  - Code des assurances - art. L310-12-4
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Liens**:
 
@@ -26128,7 +26547,7 @@ assimilés est rendu par la commission de contrôle.
 ###### Article R310-12-7
 
 I. - Toutes les dépenses doivent être liquidées et ordonnancées au cours de l'exercice auquel elles se rattachent. Les
-dépenses de la commission de contrôle sont réglées par l'agent comptable sur l'ordre donné par le secrétaire général ou après
+dépenses de l'Autorité de contrôle sont réglées par l'agent comptable sur l'ordre donné par le secrétaire général ou après
 avoir été acceptées par ce dernier. Les ordres de dépenses sont appuyés de pièces justificatives nécessaires, et notamment
 des factures, mémoires, marchés, baux ou conventions. L'acceptation de la dépense revêt la forme soit d'une mention datée et
 signée apposée sur le mémoire, la facture ou toute pièce en tenant lieu, soit d'un certificat séparé d'exécution de service,
@@ -26162,15 +26581,24 @@ lorsque la suspension du paiement est motivée par :
 
 Dans les cas de refus de la réquisition, l'agent comptable rend immédiatement compte au ministre chargé du budget.
 
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Liens**:
 
@@ -26185,10 +26613,14 @@ Dans les cas de refus de la réquisition, l'agent comptable rend immédiatement 
 
 ###### Article R310-12-8
 
-Des régies de recettes et de dépenses peuvent être créées auprès de la commission de contrôle par décision du secrétaire
-général sur avis conforme de l'agent comptable dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif
-aux régies de recettes et aux régies d'avance des organismes publics et celles fixées par le règlement comptable et
-financier.
+Des régies de recettes et de dépenses peuvent être créées auprès de l'Autorité de contrôle par décision du secrétaire général
+sur avis conforme de l'agent comptable dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif aux
+régies de recettes et aux régies d'avance des organismes publics et celles fixées par le règlement comptable et financier.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -26198,11 +26630,15 @@ financier.
 
 	**Cite**:
 
-	  - Décret n°92-681 1992-07-20
+	  - Décret n°92-681 du 20 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Liens**:
 
@@ -26217,10 +26653,15 @@ financier.
 
 ###### Article R310-12-9
 
-La commission de contrôle dépose ses fonds au Trésor. Elle peut également ouvrir des comptes auprès d'un établissement du
+L'Autorité de contrôle dépose ses fonds au Trésor. Elle peut également ouvrir des comptes auprès d'un établissement du
 secteur bancaire mentionné au titre Ier du livre V du code monétaire et financier. Des comptes bancaires à l'étranger peuvent
-être ouverts sur autorisation de la commission. Les fonds de la commission peuvent donner lieu à rémunération et faire
-l'objet de placements selon les conditions générales définies par elle.
+être ouverts sur autorisation de l'Autorité. Les fonds de l'Autorité peuvent donner lieu à rémunération et faire l'objet de
+placements selon les conditions générales définies par elle.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -26228,9 +26669,13 @@ l'objet de placements selon les conditions générales définies par elle.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Liens**:
 
@@ -26245,9 +26690,13 @@ l'objet de placements selon les conditions générales définies par elle.
 
 ###### Article R310-12-10
 
-Les comptes de l'agent comptable de la Commission de contrôle de assurances, des mutuelles et des institutions de prévoyance
-sont jugés directement par la Cour des comptes. Le contrôle de la gestion de l'agent comptable est également assuré par le
-receveur général des finances.
+Les comptes de l'agent comptable de l'Autorité de contrôle des assurances et des mutuelles sont jugés directement par la Cour
+des comptes. Le contrôle de la gestion de l'agent comptable est également assuré par le receveur général des finances.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -26255,9 +26704,13 @@ receveur général des finances.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Liens**:
 
@@ -26272,9 +26725,14 @@ receveur général des finances.
 
 ###### Article R310-12-11
 
-La commission de contrôle est soumise aux dispositions du titre II de la loi n° 91-3 du 3 janvier 1991 relative à la
+L'Autorité de contrôle est soumise aux dispositions du titre II de la loi n° 91-3 du 3 janvier 1991 relative à la
 transparence et à la régularité des procédures de marchés et soumettant la passation de certains contrats à des règles de
 publicité et de mise en concurrence.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -26284,33 +26742,40 @@ publicité et de mise en concurrence.
 
 	**Cite**:
 
-	  - Loi n°91-3 1991-01-03
+	  - Loi n°91-3 du 3 janvier 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 
 ##### Sous-section 3 : Personnel.
 
 ###### Article R310-12-12
 
-Les fonctionnaires mis à la disposition de la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance en application de l'article L. 310-12-1 du code des assurances sont placés dans l'une des positions prévues à
-l'article 32 de la loi n° 84-16 du 11 janvier 1984, sans que l'effectif placé en position de mise à disposition ne puisse
-dépasser 15 % de l'effectif global de la commission. La durée de mise à disposition d'un agent auprès de la commission ne
-peut dépasser trois ans.
+Les fonctionnaires mis à la disposition de l'Autorité de contrôle des assurances et des mutuelles en application de l'article
+L. 310-12-1 du code des assurances sont placés dans l'une des positions prévues à l'article 32 de la loi n° 84-16 du 11
+janvier 1984, sans que l'effectif placé en position de mise à disposition ne puisse dépasser 15 % de l'effectif global de
+l'Autorité. La durée de mise à disposition d'un agent auprès de l'autorité ne peut dépasser trois ans.
 
-Des militaires et magistrats peuvent être mis à la disposition de la commission dans les mêmes conditions, selon les
-modalités prévues par leurs statuts respectifs.
+Des militaires et magistrats peuvent être mis à la disposition de l'Autorité dans les mêmes conditions, selon les modalités
+prévues par leurs statuts respectifs.
 
-Les agents contractuels de droit public recrutés par la commission peuvent être employés pour une durée déterminée ou
+Les agents contractuels de droit public recrutés par l'Autorité peuvent être employés pour une durée déterminée ou
 indéterminée.
 
-La commission peut mettre à disposition des agents contractuels de droit public et des salariés de droit privé auprès d'un
-autre employeur public, d'un organisme communautaire ou international, ou se voir mettre à disposition du personnel par un
-autre employeur public. Ces mises à disposition font l'objet d'une convention conclue entre la commission et l'autre
-employeur.
+L'Autorité peut mettre à disposition des agents contractuels de droit public et des salariés de droit privé auprès d'un autre
+employeur public, d'un organisme communautaire ou international, ou se voir mettre à disposition du personnel par un autre
+employeur public. Ces mises à disposition font l'objet d'une convention conclue entre l'Autorité et l'autre employeur.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -26320,12 +26785,16 @@ employeur.
 
 	**Cite**:
 
-	  - Loi n°84-16 1984-01-11 art. 32
-	  - Code des assurances - art. L310-12-1 (M)
+	  - Loi n°84-16 du 11 janvier 1984
+	  - Code des assurances - art. L310-12-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 
 ##### Section II : Exercice du pouvoir de contrôle.
@@ -26335,7 +26804,7 @@ employeur.
 Les entreprises qui font l'objet du contrôle de l'Etat prévu par l'article L. 310-1 sont soumises à la surveillance de
 commissaires-contrôleurs assermentés, recrutés dans les conditions déterminées par le décret en Conseil d'Etat, qui peuvent,
 à toute époque, vérifier sur place toutes les opérations, indépendamment de toute personne exceptionnellement déléguée à cet
-effet par la commission de contrôle des assurances. Ils prêtent serment de ne pas divulguer les secrets commerciaux dont ils
+effet par l'Autorité de contrôle des assurances. Ils prêtent serment de ne pas divulguer les secrets commerciaux dont ils
 auraient connaissance dans l'exercice de leurs fonctions.
 
 Les infractions au présent code peuvent être constatées par procès-verbaux des commissaires-contrôleurs. Ces procès-verbaux
@@ -26349,7 +26818,7 @@ font foi jusqu'à preuve contraire.
 
 	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -26382,7 +26851,7 @@ ainsi que le personnel qualifié pour leur fournir les renseignements qu'ils jug
 
 	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -26397,6 +26866,11 @@ Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Walli
 finances peut, à titre exceptionnel ou permanent, déléguer à un comptable supérieur du Trésor en fonctions dans l'un de ces
 départements ou territoires les attributions dévolues aux commissaires-contrôleurs par l'article R. 310-13.
 
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -26405,54 +26879,58 @@ départements ou territoires les attributions dévolues aux commissaires-contrô
 
 	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Cite**:
 
-	  - Code des assurances R310-13
+	  - Code des assurances
 
 
 ###### Article R310-16
 
 I. - En application des dispositions de l'article L. 310-19-1 du présent code, de l'article L. 951-6-1 du code de la sécurité
-sociale et de l'article L. 510-6 du code de la mutualité, tout organisme soumis au contrôle de la Commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance doit faire connaître à cette commission le nom du ou des
-commissaires aux comptes qu'il se propose de désigner.
+sociale et de l'article L. 510-6 du code de la mutualité, tout organisme soumis au contrôle de l'Autorité de contrôle des
+assurances et des mutuelles doit faire connaître à cette Autorité le nom du ou des commissaires aux comptes qu'il se propose
+de désigner.
 
-Lorsqu'il informe la commission de contrôle de son intention de désigner comme commissaires aux comptes une société de
+Lorsqu'il informe l'Autorité de contrôle de son intention de désigner comme commissaires aux comptes une société de
 commissaires aux comptes constituée et inscrite selon les modalités prévues à l'article L. 225-218 du code de commerce,
 l'entreprise d'assurance précise le nom du commissaire aux comptes associé, actionnaire ou dirigeant, responsable de la
-mission au nom de cette société. Il informe la commission de contrôle de toute modification ultérieure de cette situation.
+mission au nom de cette société. Il informe l'Autorité de contrôle de toute modification ultérieure de cette situation.
 
-La commission de contrôle dispose d'un délai de deux mois pour faire connaître à l'entreprise d'assurance son avis sur la
-proposition de désignation du commissaire aux comptes. En l'absence de réponse dans le délai imparti, l'avis de la commission
+L'Autorité de contrôle dispose d'un délai de deux mois pour faire connaître à l'entreprise d'assurance son avis sur la
+proposition de désignation du commissaire aux comptes. En l'absence de réponse dans le délai imparti, l'avis de l'Autorité
 est réputé favorable.
 
-Si la commission de contrôle l'estime nécessaire, elle peut demander des informations complémentaires par lettre recommandée
+Si l'Autorité de contrôle l'estime nécessaire, elle peut demander des informations complémentaires par lettre recommandée
 avec demande d'avis de réception adressée soit à l'entreprise d'assurance concernée, soit au commissaire aux comptes proposé.
-Dans ce dernier cas, la commission en informe l'entreprise d'assurance concernée et fixe dans sa demande d'informations
+Dans ce dernier cas, l'Autorité en informe l'entreprise d'assurance concernée et fixe dans sa demande d'informations
 complémentaires un délai de réponse, lequel ne peut être inférieur à un mois. Le délai prévu à l'alinéa précédent est alors
 suspendu jusqu'à la réception des informations complémentaires.
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut également prendre en compte
-dans son appréciation les informations relatives au commissaire aux comptes proposé ou, le cas échéant, à la personne
-responsable de la mission, qui lui sont transmises par l'une des autorités avec lesquelles elle procède à un échange
-d'information en application de l'article L. 631-1 du code monétaire et financier.
+L'Autorité de contrôle des assurances et des mutuelles peut également prendre en compte dans son appréciation les
+informations relatives au commissaire aux comptes proposé ou, le cas échéant, à la personne responsable de la mission, qui
+lui sont transmises par l'une des autorités avec lesquelles elle procède à un échange d'information en application de
+l'article L. 631-1 du code monétaire et financier.
 
-L'avis de la commission de contrôle, s'il est défavorable ou assorti de réserves, ne peut être pris qu'après que le
-commissaire aux comptes proposé ait été invité à faire connaître ses observations. Il est notifié par lettre recommandée avec
-demande d'avis de réception à l'entreprise d'assurance concernée et au commissaire aux comptes proposé. Une copie de cette
+L'avis de l'Autorité de contrôle, s'il est défavorable ou assorti de réserves, ne peut être pris qu'après que le commissaire
+aux comptes proposé ait été invité à faire connaître ses observations. Il est notifié par lettre recommandée avec demande
+d'avis de réception à l'entreprise d'assurance concernée et au commissaire aux comptes proposé. Une copie de cette
 notification est adressée à la compagnie régionale dont est membre le commissaire aux comptes. Les dirigeants de l'entreprise
-d'assurance communiquent l'avis de la commission de contrôle à l'organe compétent pour désigner les commissaires aux comptes.
+d'assurance communiquent l'avis de l'Autorité de contrôle à l'organe compétent pour désigner les commissaires aux comptes.
 
 L'avis défavorable ou assorti de réserves est motivé. Il peut notamment être fondé sur le fait que le commissaire aux comptes
 proposé ne présente pas toutes les garanties d'expérience, de compétence ou d'indépendance nécessaires à l'exercice de ses
 fonctions compte tenu de la personne responsable de la mission ou de la nature et des caractéristiques de l'activité de
 l'entreprise d'assurance concernée.
 
-II. - Lorsque la commission de contrôle envisage de procéder, en application de l'article L. 310-19-1 du présent code, à la
+II. - Lorsque l'Autorité de contrôle envisage de procéder, en application de l'article L. 310-19-1 du présent code, à la
 désignation d'un commissaire aux comptes supplémentaire dans une entreprise d'assurance, elle en informe le représentant
-légal et les commissaires aux comptes en fonctions par lettre recommandée avec demande d'avis de réception. La commission de
+légal et les commissaires aux comptes en fonctions par lettre recommandée avec demande d'avis de réception. L'Autorité de
 contrôle met le représentant légal de l'entreprise et les commissaires aux comptes en fonctions en demeure de présenter leurs
 observations écrites, dans un délai qui ne peut être inférieur à un mois, avant de désigner un commissaire aux comptes
 supplémentaire.
@@ -26465,7 +26943,7 @@ supplémentaire.
 
 	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -26479,28 +26957,28 @@ supplémentaire.
 ###### Article R310-17
 
 I. - Toute entreprise projetant d'ouvrir une succursale ou d'exercer des activités en libre prestation de services,
-conformément aux dispositions du troisième alinéa de l'article L. 310-12, notifie son projet à la commission de contrôle,
+conformément aux dispositions du troisième alinéa de l'article L. 310-12, notifie son projet à l'Autorité de contrôle,
 accompagné des documents dont la liste est fixée par arrêté du ministre chargé de l'économie et des finances.
 
-Si la commission estime que les conditions mentionnées à ce même alinéa sont réunies, elle communique aux autorités
-compétentes de cet Etat membre un dossier dont la composition est fixée par arrêté du ministre chargé de l'économie et des
-finances. Elle avise de cette communication l'entreprise, qui peut alors commencer ses activités dans les délais et
-conditions fixés par l'arrêté susvisé.
+Si l'Autorité estime que les conditions mentionnées à ce même alinéa sont réunies, elle communique aux autorités compétentes
+de cet Etat membre un dossier dont la composition est fixée par arrêté du ministre chargé de l'économie et des finances. Elle
+avise de cette communication l'entreprise, qui peut alors commencer ses activités dans les délais et conditions fixés par
+l'arrêté susvisé.
 
-Le délai de communication des informations aux autorités de l'Etat membre court à compter de la réception, par la commission
-de contrôle, d'un dossier complet. Il est de trois mois pour une demande d'établissement d'une succursale et d'un mois pour
-une demande d'exercice en libre prestation de services.
+Le délai de communication des informations aux autorités de l'Etat membre court à compter de la réception, par l'Autorité de
+contrôle, d'un dossier complet. Il est de trois mois pour une demande d'établissement d'une succursale et d'un mois pour une
+demande d'exercice en libre prestation de services.
 
 II. - Tout projet de modification de la nature ou des conditions d'exercice des activités en liberté d'établissement ou en
 libre prestation de services autorisées conformément aux dispositions du troisième alinéa de l'article L. 310-12 est notifié
-à la commission de contrôle.
+à l'Autorité de contrôle.
 
-Si la commission estime que les conditions visées à ce même alinéa sont toujours remplies, elle communique aux autorités
+Si l'Autorité estime que les conditions visées à ce même alinéa sont toujours remplies, elle communique aux autorités
 compétentes de l'Etat membre concerné, dans le délai d'un mois suivant la notification visée à l'alinéa précédent, un dossier
 dont la composition est fixée par arrêté du ministre chargé de l'économie et des finances et avise l'entreprise concernée de
 cette communication. La modification envisagée peut intervenir dès réception de cet avis par l'entreprise.
 
-III. - Lorsque la commission de contrôle refuse de communiquer aux autorités compétentes de l'Etat membre concerné les
+III. - Lorsque l'Autorité de contrôle refuse de communiquer aux autorités compétentes de l'Etat membre concerné les
 informations visées au deuxième alinéa des I et II du présent article, elle en avise l'entreprise concernée et lui fait
 connaître, dans les délais mentionnés au troisième alinéa du I et au deuxième alinéa du II, les raisons de ce refus.
 
@@ -26512,7 +26990,7 @@ connaître, dans les délais mentionnés au troisième alinéa du I et au deuxi�
 
 	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -26532,16 +27010,21 @@ connaître, dans les délais mentionnés au troisième alinéa du I et au deuxi�
 
 ###### Article R310-18
 
-Lorsque la commission de contrôle, saisie par son secrétaire général sur le fondement d'un rapport de contrôle réalisé par
-ses services, décide de l'ouverture d'une procédure de sanction dans le cadre des articles L. 310-18, L. 310-18-1 et L.
-334-16 du présent code, de l'article L. 951-10 et L. 933-4-13 du code de la sécurité sociale ou de l'article L. 510-11 et L.
-212-7-16 du code de la mutualité, la notification des griefs est adressée, par lettre recommandée avec demande d'avis de
-réception, remise en main propre contre récépissé ou exploit d'huissier, à la personne mise en cause, accompagnée du rapport
-de contrôle.
+Lorsque l'Autorité de contrôle, saisie par son secrétaire général sur le fondement d'un rapport de contrôle réalisé par ses
+services, décide de l'ouverture d'une procédure de sanction dans le cadre des articles L. 310-18, L. 310-18-1 et L. 334-16 du
+présent code, de l'article L. 951-10 et L. 933-4-13 du code de la sécurité sociale ou de l'article L. 510-11 et L. 212-7-16
+du code de la mutualité, la notification des griefs est adressée, par lettre recommandée avec demande d'avis de réception,
+remise en main propre contre récépissé ou exploit d'huissier, à la personne mise en cause, accompagnée du rapport de
+contrôle.
 
-La personne mise en cause transmet ses observations écrites au président de la commission dans un délai de quinze jours. La
+La personne mise en cause transmet ses observations écrites au président de l'Autorité dans un délai de quinze jours. La
 notification des griefs mentionne ce délai et précise que la personne mise en cause peut prendre connaissance et copie des
-autres pièces du dossier auprès de la commission et se faire assister ou représenter par tout conseil de son choix.
+autres pièces du dossier auprès de l'Autorité et se faire assister ou représenter par tout conseil de son choix.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -26551,14 +27034,18 @@ autres pièces du dossier auprès de la commission et se faire assister ou repr�
 
 	**Modifié par**:
 
-	  - Décret n°2005-1185 du 19 septembre 2005 - art. 1 () JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-18 (M)
-	  - Code des assurances - art. L310-18-1 (M)
-	  - Code des assurances - art. L334-16 (M)
-	  - Code des assurances L310-18, L310-18-1, L334-16, L951-10, L510-11, L933-4-13, L212-7-16
+	  - Code des assurances
+	  - Code des assurances - art. L310-18
+	  - Code des assurances - art. L310-18-1
+	  - Code des assurances - art. L334-16
 
 	**Anciens textes**:
 
@@ -26567,9 +27054,14 @@ autres pièces du dossier auprès de la commission et se faire assister ou repr�
 
 ###### Article R310-18-1
 
-La commission de contrôle convoque la personne mise en cause par lettre recommandée avec demande d'avis de réception, remise
-en main propre contre récépissé ou exploit d'huissier, dans un délai qui ne peut être inférieur à huit jours à compter de
+L'Autorité de contrôle convoque la personne mise en cause par lettre recommandée avec demande d'avis de réception, remise en
+main propre contre récépissé ou exploit d'huissier, dans un délai qui ne peut être inférieur à huit jours à compter de
 l'expiration du délai mentionné à l'article R. 310-18.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -26577,13 +27069,17 @@ l'expiration du délai mentionné à l'article R. 310-18.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Cite**:
 
-	  - Code des assurances R310-18
+	  - Code des assurances
 
 
 ###### Article R310-18-2
@@ -26594,27 +27090,32 @@ susceptible de porter atteinte au secret des affaires ou à tout autre secret pr
 
 Le président assure la police de la séance.
 
-II. - Lors de la séance, un membre des services de la commission de contrôle désigné par le secrétaire général présente
-l'affaire. Les commissaires du Gouvernement, le secrétaire général et les autres membres des services de la commission
+II. - Lors de la séance, un membre des services de l'Autorité de contrôle désigné par le secrétaire général présente
+l'affaire. Les commissaires du Gouvernement, le secrétaire général et les autres membres des services de l'Autorité
 participant à la séance peuvent présenter des observations. La personne mise en cause et, le cas échéant, son conseil
 présente sa défense. Le président peut faire entendre toute personne dont il estime l'audition utile. Dans tous les cas, la
-personne mise en cause et le cas échéant son conseil doit pouvoir prendre la parole en dernier. Lorsque la commission
-s'estime insuffisamment éclairée, elle demande au secrétariat général de poursuivre ses diligences.
+personne mise en cause et le cas échéant son conseil doit pouvoir prendre la parole en dernier. Lorsque l'Autorité s'estime
+insuffisamment éclairée, elle demande au secrétariat général de poursuivre ses diligences.
 
-III. - La commission de contrôle statue en la seule présence de ses membres et d'un membre des services de la commission
-faisant office de secrétaire de séance. Les commissaires du Gouvernement, le secrétaire général et les autres membres des
-services de la commission de contrôle n'assistent pas aux délibérés.
+III. - L'Autorité de contrôle statue en la seule présence de ses membres et d'un membre des services de l'Autorité faisant
+office de secrétaire de séance. Les commissaires du Gouvernement, le secrétaire général et les autres membres des services de
+l'Autorité de contrôle n'assistent pas aux délibérés.
 
 IV. - Il est établi un procès-verbal de la séance par le secrétaire de séance. Le procès-verbal est signé par le président
-puis transmis aux membres de la commission et aux commissaires du Gouvernement.
+puis transmis aux membres de l'Autorité et aux commissaires du Gouvernement.
 
-V. - La décision, signée par le président de la commission de contrôle, est notifiée à la personne concernée par lettre
+V. - La décision, signée par le président de l'Autorité de contrôle, est notifiée à la personne concernée par lettre
 recommandée avec demande d'avis de réception, remise en main propre contre récépissé ou exploit d'huissier. Elle est
 communiquée aux commissaires du Gouvernement.
 
-VI. - Le cas échéant, la commission peut décider de mettre les frais de procédure à la charge de la personne à l'encontre de
+VI. - Le cas échéant, l'Autorité peut décider de mettre les frais de procédure à la charge de la personne à l'encontre de
 laquelle une sanction a été prononcée. La rémunération des huissiers de justice intervenant au titre du présent décret est
 tarifée comme prévu par les articles R. 181 à R. 184 du code de procédure pénale.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -26622,13 +27123,17 @@ tarifée comme prévu par les articles R. 181 à R. 184 du code de procédure p�
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Cite**:
 
-	  - Code de procédure pénale R181 à R184
+	  - Code de procédure pénale
 
 
 ###### Article R310-18-3
@@ -26637,27 +27142,41 @@ Lorsque la notification est remise par huissier de justice, celui-ci doit faire 
 délivrance de l'acte à la personne même du destinataire et lui en remettre copie. L'huissier procède ainsi qu'il est spécifié
 aux articles 555 à 563 du code de procédure pénale.
 
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Cite**:
 
-	  - Code de procédure pénale 555 à 563
+	  - Code de procédure pénale
 
 
 ###### Article R310-18-4
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est dispensée du ministère d'avocat
-devant la juridiction administrative, en demande, en défense ou encore en intervention. Les recours et les mémoires,
-lorsqu'ils ne sont pas présentés par le ministère d'un avocat, sont signés par le président de ladite commission en
-application des dispositions du seizième alinéa de l'article L. 310-12-1 du présent code.
+L'Autorité de contrôle des assurances et des mutuelles est dispensée du ministère d'avocat devant la juridiction
+administrative, en demande, en défense ou encore en intervention. Les recours et les mémoires, lorsqu'ils ne sont pas
+présentés par le ministère d'un avocat, sont signés par le président de ladite Autorité en application des dispositions du
+seizième alinéa de l'article L. 310-12-1 du présent code.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -26665,25 +27184,29 @@ application des dispositions du seizième alinéa de l'article L. 310-12-1 du pr
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-12-1 (M)
+	  - Code des assurances - art. L310-12-1
 
 
 ###### Article R310-19
 
-Lorsque la commission de contrôle décide, en application de l'article L. 310-18 du présent code, L. 951-10 du code de la
+Lorsque l'Autorité de contrôle décide, en application de l'article L. 310-18 du présent code, L. 951-10 du code de la
 sécurité sociale ou L. 510-11 du code de la mutualité, d'engager vis-à-vis d'une entreprise la procédure de transfert
 d'office de son portefeuille de contrats, bulletins ou adhésions, cette décision est portée à la connaissance de l'ensemble
 des entreprises d'assurance par un avis publié au Journal officiel. Cet avis fait courir un délai de quinze jours pendant
-lesquels les entreprises qui accepteraient de prendre en charge le portefeuille en cause doivent se faire connaître à la
-commission.
+lesquels les entreprises qui accepteraient de prendre en charge le portefeuille en cause doivent se faire connaître à
+l'Autorité.
 
-L'entreprise désignée par la commission de contrôle pour prendre en charge le portefeuille de contrats d'assurances transféré
+L'entreprise désignée par l'Autorité de contrôle pour prendre en charge le portefeuille de contrats d'assurances transféré
 est avisée de cette désignation par lettre recommandée avec demande d'avis de réception.
 
 La décision qui prononce le transfert en fixe les modalités et la date de prise d'effet.
@@ -26696,7 +27219,7 @@ La décision qui prononce le transfert en fixe les modalités et la date de pris
 
 	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -26734,7 +27257,7 @@ ministère de l'économie et des finances avant de la répercuter sur cet articl
 
 	**Modifié par**:
 
-	  - Décret n°2005-8 2005-01-05 art. 4 2° JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -27226,10 +27749,10 @@ représentées par les entreprises agréées en vertu de l'article L. 321-8 selo
 
 ###### Article R321-9
 
-La commission de contrôle des assurances, des mutuelles et des institutions de prévoyance présente dans un délai de trois
-mois ses observations à l'autorité de contrôle d'un Etat non communautaire membre de l'Espace économique européen qui lui
-transmet pour avis le programme d'activités présenté par une entreprise française sollicitant de cette autorité l'agrément
-pour pratiquer des opérations d'assurances.
+L'Autorité de contrôle des assurances et des mutuelles présente dans un délai de trois mois ses observations à l'autorité de
+contrôle d'un Etat non communautaire membre de l'Espace économique européen qui lui transmet pour avis le programme
+d'activités présenté par une entreprise française sollicitant de cette autorité l'agrément pour pratiquer des opérations
+d'assurances.
 
 **Liens relatifs à cet article**
 
@@ -27239,7 +27762,7 @@ pour pratiquer des opérations d'assurances.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Anciens textes**:
 
@@ -27459,13 +27982,11 @@ administratif cesse de plein droit d'être valable pour cette branche ou sous-br
 Si une entreprise qui a obtenu l'agrément administratif pour une branche ou sous-branche n'a pas commencé à pratiquer les
 opérations correspondantes dans le délai d'un an à dater de la publication au Journal officiel de l'arrêté d'agrément, ou si
 une entreprise ne souscrit, pendant deux exercices consécutifs, aucun contrat appartenant à une branche ou sous-branche pour
-laquelle elle est agréée, elle en fait immédiatement la déclaration à la commission de contrôle des assurances, des mutuelles
-et des institutions de prévoyance et l'agrément administratif cesse de plein droit d'être valable pour la branche ou sous-
-branche considérée.
+laquelle elle est agréée, elle en fait immédiatement la déclaration à l'Autorité de contrôle des assurances et des mutuelles
+et l'agrément administratif cesse de plein droit d'être valable pour la branche ou sous-branche considérée.
 
-Sans délai, la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance assure, dans les deux
-cas mentionnés à l'alinéa précédent, la publication au Journal officiel d'un avis constatant que l'agrément administratif a
-cessé d'être valable.
+Sans délai, l'Autorité de contrôle des assurances et des mutuelles assure, dans les deux cas mentionnés à l'alinéa précédent,
+la publication au Journal officiel d'un avis constatant que l'agrément administratif a cessé d'être valable.
 
 **Liens relatifs à cet article**
 
@@ -27475,7 +27996,7 @@ cessé d'être valable.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R*321-21
@@ -27566,12 +28087,11 @@ Ce mandataire général est assimilé à un dirigeant pour l'application de l'ar
 ###### Article R321-16
 
 Pendant les cinq exercices suivant la délivrance des agréments mentionnés aux articles L. 321-1, L. 321-7 et L. 321-9,
-l'entreprise doit présenter à la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance pour
-chaque semestre, un compte rendu d'exécution du programme d'activités mentionné à l'article L. 321-10. Si l'activité de
-l'entreprise n'est pas conforme au programme d'activités, la commission prend les mesures utiles en vue de la protection des
-intérêts des assurés. Sans préjudice de la mise en oeuvre, le cas échéant, des mesures prévues aux articles L. 310-17, L.
-310-18 et L. 323-1-1, la commission peut saisir le comité des entreprises d'assurance en vue de l'application des
-dispositions de l'article L. 325-1.
+l'entreprise doit présenter à l'Autorité de contrôle des assurances et des mutuelles pour chaque semestre, un compte rendu
+d'exécution du programme d'activités mentionné à l'article L. 321-10. Si l'activité de l'entreprise n'est pas conforme au
+programme d'activités, l'Autorité prend les mesures utiles en vue de la protection des intérêts des assurés. Sans préjudice
+de la mise en oeuvre, le cas échéant, des mesures prévues aux articles L. 310-17, L. 310-18 et L. 323-1-1, l'Autorité peut
+saisir le comité des entreprises d'assurance en vue de l'application des dispositions de l'article L. 325-1.
 
 **Liens relatifs à cet article**
 
@@ -27581,8 +28101,7 @@ dispositions de l'article L. 325-1.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -27612,8 +28131,8 @@ conduire au sens de l'article L. 321-10, au plus tard le jour de ce changement.
 
 Dans un délai de trois mois à compter de la réception de cette déclaration, le comité des entreprises d'assurance fait savoir
 à l'entreprise si ce changement est de nature à entraîner la mise en oeuvre des compétences dont il dispose aux termes de
-l'article L. 325-1. Le Comité des entreprises d'assurance transmet cette information à la Commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance.
+l'article L. 325-1. Le Comité des entreprises d'assurance transmet cette information à l'Autorité de contrôle des assurances
+et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -27623,7 +28142,7 @@ assurances, des mutuelles et des institutions de prévoyance.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1185 du 19 septembre 2005 - art. 3 () JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -27648,23 +28167,23 @@ assurances, des mutuelles et des institutions de prévoyance.
 ###### Article R321-22
 
 Une entreprise dont tous les agréments ont cessé de plein droit d'être valables ou ont fait l'objet d'arrêtés constatant leur
-caducité soumet à l'approbation de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance,
-dans un délai d'un mois à partir de la date où son dernier agrément a cessé de plein droit d'être valable ou a fait l'objet
-d'un arrêté constatant sa caducité, un programme de liquidation précisant notamment les délais prévisibles et les conditions
-financières de la liquidation, ainsi que les moyens en personnel et en matériels mis en oeuvre pour la gestion des
-engagements résiduels. Lorsque la gestion des engagements résiduels est déléguée à un tiers, le projet de contrat de
-délégation et un dossier décrivant la qualité du délégataire et de ses dirigeants, son organisation, sa situation financière
-et les moyens mis en oeuvre sont communiqués à la commission, qui peut, en application du dernier alinéa de l'article L.
-310-12, réaliser tous contrôles sur pièces et sur place du délégataire, jusqu'à liquidation intégrale des engagements.
+caducité soumet à l'approbation de l'Autorité de contrôle des assurances et des mutuelles, dans un délai d'un mois à partir
+de la date où son dernier agrément a cessé de plein droit d'être valable ou a fait l'objet d'un arrêté constatant sa
+caducité, un programme de liquidation précisant notamment les délais prévisibles et les conditions financières de la
+liquidation, ainsi que les moyens en personnel et en matériels mis en oeuvre pour la gestion des engagements résiduels.
+Lorsque la gestion des engagements résiduels est déléguée à un tiers, le projet de contrat de délégation et un dossier
+décrivant la qualité du délégataire et de ses dirigeants, son organisation, sa situation financière et les moyens mis en
+oeuvre sont communiqués à l'Autorité, qui peut, en application du dernier alinéa de l'article L. 310-12, réaliser tous
+contrôles sur pièces et sur place du délégataire, jusqu'à liquidation intégrale des engagements.
 
-Si la commission estime que le programme de liquidation présenté par l'entreprise n'est pas conforme aux intérêts des
-assurés, elle ne l'approuve pas et peut demander la présentation d'un nouveau programme, dans les délais et conditions
-qu'elle prescrit.
+Si l'Autorité estime que le programme de liquidation présenté par l'entreprise n'est pas conforme aux intérêts des assurés,
+elle ne l'approuve pas et peut demander la présentation d'un nouveau programme, dans les délais et conditions qu'elle
+prescrit.
 
 En l'absence de programme de liquidation, ou lorsque le programme présenté n'a pas été approuvé, ou lorsque l'entreprise ne
-respecte pas le programme approuvé, la commission prend, en application de l'article L. 323-1-1, toutes mesures
-conservatoires qu'elle juge nécessaires ; elle peut également faire usage des pouvoirs d'injonction et de sanction prévus aux
-articles L. 310-17 et L. 310-18.
+respecte pas le programme approuvé, l'Autorité prend, en application de l'article L. 323-1-1, toutes mesures conservatoires
+qu'elle juge nécessaires ; elle peut également faire usage des pouvoirs d'injonction et de sanction prévus aux articles L.
+310-17 et L. 310-18.
 
 **Liens relatifs à cet article**
 
@@ -27674,7 +28193,7 @@ articles L. 310-17 et L. 310-18.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -28112,9 +28631,8 @@ participation.
 II. - Les dispositions du paragraphe I s'appliquent également aux opérations de prise, d'extension ou de cession de
 participation, directes ou indirectes, dans des sociétés de groupe d'assurance définies à l'article L. 322-1-2 et dont le
 siège social est situé en France ou dans des compagnies financières holding mixtes définies au 9° de l'article L. 334-2, dont
-le siège social est situé en France et appartenant à un conglomérat financier dont la surveillance est coordonnée par la
-Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance dans les conditions prévues à
-l'article L. 334-9.
+le siège social est situé en France et appartenant à un conglomérat financier dont la surveillance est coordonnée par
+l'Autorité de contrôle des assurances et des mutuelles dans les conditions prévues à l'article L. 334-9.
 
 III. - Avant toute décision prévue au I, le Comité des entreprises d'assurance consulte les autorités compétentes mentionnées
 aux articles L. 321-1 et L. 321-1-2 lorsque les deux conditions suivantes sont remplies :
@@ -28138,7 +28656,7 @@ prorogé d'un mois.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1185 du 19 septembre 2005 - art. 4 () JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -30293,7 +30811,7 @@ Il ne peut être procédé à des répartitions d'excédents de recettes qu'apr�
 prescrites par les lois et règlements en vigueur, après amortissement intégral des dépenses d'établissement et après que les
 dispositions réglementaires concernant la marge de solvabilité et la solvabilité ajustée aient été satisfaites.
 
-La commission de contrôle des assurances peut s'opposer à une affectation d'excédents aux réserves libres.
+L'Autorité de contrôle des assurances et des mutuelles peut s'opposer à une affectation d'excédents aux réserves libres.
 
 **Liens relatifs à cet article**
 
@@ -30312,11 +30830,7 @@ La commission de contrôle des assurances peut s'opposer à une affectation d'ex
 
 	**Modifié par**:
 
-	  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R*322-43 (M)
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -30441,9 +30955,9 @@ et indiqué que le prêteur, même s'il est assuré, ne bénéficie d'aucun priv
 emprunt. Cette mention doit figurer également en caractères apparents sur les titres d'emprunts.
 
 Il est porté chaque année dans les charges de l'entreprise une somme constante destinée au paiement des intérêts et au
-remboursement des emprunts ou à la constitution de la réserve pour amortissement des emprunts. Sur autorisation de la
-commission de contrôle des assurances, il peut, pendant les cinq années suivant la date d'émission de l'emprunt, être dérogé
-à cette obligation. Celle-ci ne s'applique pas aux emprunts contractés pour la constitution et, éventuellement,
+remboursement des emprunts ou à la constitution de la réserve pour amortissement des emprunts. Sur autorisation de l'Autorité
+de contrôle des assurances et des mutuelles, il peut, pendant les cinq années suivant la date d'émission de l'emprunt, être
+dérogé à cette obligation. Celle-ci ne s'applique pas aux emprunts contractés pour la constitution et, éventuellement,
 l'alimentation du fonds social complémentaire, ni aux titres et emprunts subordonnés, pour autant qu'ils entrent dans la
 constitution de la marge de solvabilité en application des articles R. 334-3 et R. 334-11 du présent code.
 
@@ -30455,7 +30969,7 @@ constitution de la marge de solvabilité en application des articles R. 334-3 et
 
 	**Modifié par**:
 
-	  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -30473,14 +30987,14 @@ constitution de la marge de solvabilité en application des articles R. 334-3 et
 
 I. - Toute émission d'obligations, de titres participatifs ou de titres subordonnés remboursables dans les conditions et
 limites prévues à l'article L. 322-2-1 doit être autorisée par l'assemblée générale délibérant comme il est dit à l'article
-R. 322-63 et faire l'objet d'une résolution spéciale dont la teneur est préalablement soumise à l'approbation de la
-commission de contrôle des assurances. Celle-ci se prononce, en veillant à la sauvegarde des intérêts des assurés, au vu d'un
-dossier comportant une présentation détaillée des objectifs poursuivis, des caractéristiques des titres émis, des
+R. 322-63 et faire l'objet d'une résolution spéciale dont la teneur est préalablement soumise à l'approbation de l'Autorité
+de contrôle des assurances et des mutuelles. Celle-ci se prononce, en veillant à la sauvegarde des intérêts des assurés, au
+vu d'un dossier comportant une présentation détaillée des objectifs poursuivis, des caractéristiques des titres émis, des
 conséquences de l'émission sur la situation financière de l'entreprise concernée, ainsi que, le cas échéant, une description
 précise des cas de remboursement anticipé.
 
 A l'expiration d'un délai de deux mois à dater du dépôt du texte de la résolution et du dossier mentionné ci-dessus et en
-l'absence de décision expresse de la commission, l'autorisation est considérée comme accordée. En cas de décision expresse,
+l'absence de décision expresse de l'Autorité, l'autorisation est considérée comme accordée. En cas de décision expresse,
 celle-ci est communiquée à l'assemblée générale.
 
 La résolution de l'assemblée générale mentionnée au premier alinéa fixe les caractéristiques essentielles de l'émission des
@@ -30496,7 +31010,7 @@ liquidation de la société.
 L'émission doit être réalisée en une ou plusieurs fois dans le délai de quinze mois à compter de l'adoption de la résolution
 par l'assemblée générale des sociétaires.
 
-Le conseil d'administration ou le directoire rend compte à la plus prochaine assemblée générale de la mise en oeuvre de la
+Le conseil d'administration ou le directoire rend compte à la prochaine assemblée générale de la mise en oeuvre de la
 résolution.
 
 II. - Les dispositions des sections III et III bis du chapitre V du décret n° 67-236 du 23 mars 1967, à l'exception de celles
@@ -30517,8 +31031,7 @@ qui concernent exclusivement les sociétés commerciales, sont applicables aux �
 
 	**Modifié par**:
 
-	  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
-	  - Décret n°2005-7 du 3 janvier 2005 - art. 3 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -30554,10 +31067,10 @@ autorisé préalablement par l'assemblée générale délibérant comme il est d
 
 Sauf dans le cas prévu à l'article R. 322-79, tout emprunt destiné à la constitution et, éventuellement, à l'alimentation du
 fonds social complémentaire doit être autorisé par l'assemblée générale délibérant comme il est dit à l'article R. 322-63 et
-faire l'objet d'une résolution spéciale dont la teneur doit être préalablement soumise à l'approbation de la commission de
-contrôle des assurances, qui se prononce au vu de l'un des plans mentionnés à l'article R. 322-49. Ce plan doit être
-obligatoirement joint au texte de la résolution. A l'expiration d'un délai de deux mois à dater du dépôt du texte de la
-résolution et du document mentionné ci-dessus, et en l'absence de décision expresse de la commission, l'autorisation est
+faire l'objet d'une résolution spéciale dont la teneur doit être préalablement soumise à l'approbation de l'Autorité de
+contrôle des assurances et des mutuelles, qui se prononce au vu de l'un des plans mentionnés à l'article R. 322-49. Ce plan
+doit être obligatoirement joint au texte de la résolution. A l'expiration d'un délai de deux mois à dater du dépôt du texte
+de la résolution et du document mentionné ci-dessus, et en l'absence de décision expresse de l'Autorité, l'autorisation est
 considérée comme accordée. La résolution détermine quels sociétaires doivent souscrire à l'emprunt, sans que cette obligation
 puisse porter sur les sociétaires dont les contrats étaient en cours au moment où les statuts ont été modifiés. La
 participation des sociétaires déjà adhérents de la société au moment où celle-ci décide d'émettre un emprunt ne peut être
@@ -30577,7 +31090,7 @@ de l'emprunt pour fonds social complémentaire.
 
 	**Modifié par**:
 
-	  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -31328,9 +31841,9 @@ conditions définies aux articles R. 322-107 à R. 322-117 ;
 constitution des garanties prévues par la réglementation des assurances et l'exécution des engagements d'assurance pris par
 les sociétés réassurées ;
 
-3° Elles ont obtenu de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance un accord
-préalable constatant explicitement la dispense d'agrément. Cet accord se fonde sur la conformité du traité et des statuts aux
-dispositions de la présente section et sur la situation financière de l'union.
+3° Elles ont obtenu de l'Autorité de contrôle des assurances et des mutuelles un accord préalable constatant explicitement la
+dispense d'agrément. Cet accord se fonde sur la conformité du traité et des statuts aux dispositions de la présente section
+et sur la situation financière de l'union.
 
 Les opérations effectuées en application dudit traité de réassurance par une union de mutuelles qui se substitue, dans les
 conditions définies au présent article, aux sociétés qu'elle réassure, sont considérées au regard des dispositions du présent
@@ -31340,8 +31853,8 @@ Par dérogation à l'article R. 322-47, le nombre d'adhérents d'une société r
 précédent ne peut être inférieur à 7. Le nombre total d'adhérents des sociétés réassurées auprès d'une union de mutuelles
 dans les conditions de l'alinéa précédent ne peut être inférieur à 2 000.
 
-Toute modification du traité de réassurance est soumise à autorisation préalable de la commission de contrôle des assurances,
-des mutuelles et des institutions de prévoyance.
+Toute modification du traité de réassurance est soumise à autorisation préalable de l'Autorité de contrôle des assurances et
+des mutuelles.
 
 Les sociétés réassurées visées au premier alinéa du présent article sont dispensées de l'obligation de constituer un fonds
 d'établissement et une marge de solvabilité. Elles ne sont pas soumises à l'obligation de désigner un commissaire aux
@@ -31355,7 +31868,7 @@ comptes.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -31405,15 +31918,15 @@ définies à l'article R. 322-117-1.
 ###### Article R*322-117-3
 
 L'union de mutuelles qui est substituée aux sociétés réassurées dans les conditions définies à l'article R. 322-117-1 est
-tenue d'informer la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance de la conclusion,
-de l'expiration, de la résiliation ou de la modification d'un tel traité au plus tard deux mois avant la prise d'effet de ce
-traité, de sa résiliation, de son expiration ou des modifications envisagées.
+tenue d'informer l'Autorité de contrôle des assurances et des mutuelles de la conclusion, de l'expiration, de la résiliation
+ou de la modification d'un tel traité au plus tard deux mois avant la prise d'effet de ce traité, de sa résiliation, de son
+expiration ou des modifications envisagées.
 
 Les sociétés réassurées visées au premier alinéa de l'article R. 322-117-1 sont tenues, au plus tard deux mois avant la prise
 d'effet de la résiliation ou de l'expiration du traité :
 
-- soit de justifier qu'elles ont conclu un nouveau traité se substituant au traité résilié, et ayant obtenu l'accord de la
-commission de contrôle des assurances, des mutuelles et des institutions de prévoyance ;
+- soit de justifier qu'elles ont conclu un nouveau traité se substituant au traité résilié, et ayant obtenu l'accord de
+l'Autorité de contrôle des assurances et des mutuelles ;
 
 - soit de justifier qu'elles ont obtenu l'agrément administratif, conformément aux dispositions des articles R. 321-1 et
 suivants ;
@@ -31423,9 +31936,9 @@ transfert de leur portefeuille de contrats à une ou plusieurs entreprises agré
 
 Si elles ne peuvent apporter l'une des justifications prévues ci-dessus, elles sont tenues de cesser toute souscription et
 tout renouvellement de contrat à compter de la date d'effet de la résiliation ou de l'expiration du traité ; à compter de
-cette date et sur demande de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance il
-peut être mis fin à tout moment, par décision du comité des entreprises d'assurance, aux opérations des sociétés concernées ;
-la décision mettant fin aux opérations produit les mêmes effets qu'une décision de retrait d'agrément administratif.
+cette date et sur demande de l'Autorité de contrôle des assurances et des mutuelles il peut être mis fin à tout moment, par
+décision du comité des entreprises d'assurance, aux opérations des sociétés concernées ; la décision mettant fin aux
+opérations produit les mêmes effets qu'une décision de retrait d'agrément administratif.
 
 **Liens relatifs à cet article**
 
@@ -31435,8 +31948,7 @@ la décision mettant fin aux opérations produit les mêmes effets qu'une décis
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -31505,9 +32017,9 @@ concernées par le transfert.
 ###### Article R*322-117-6
 
 Lorsqu'une société visée à la présente section, antérieurement agréée conformément aux dispositions de l'article R. 321-1,
-souscrit un traité de réassurance et obtient l'accord de la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance dans les conditions prévues à l'article R. 322-117-1, le comité des entreprises d'assurance
-constate, par décision publiée au Journal officiel, la caducité de l'ensemble des agréments.
+souscrit un traité de réassurance et obtient l'accord de l'Autorité de contrôle des assurances et des mutuelles dans les
+conditions prévues à l'article R. 322-117-1, le comité des entreprises d'assurance constate, par décision publiée au Journal
+officiel, la caducité de l'ensemble des agréments.
 
 **Liens relatifs à cet article**
 
@@ -31517,8 +32029,7 @@ constate, par décision publiée au Journal officiel, la caducité de l'ensemble
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -31609,14 +32120,13 @@ réunion de l'assemblée générale, doivent être inscrites à l'ordre du jour.
 ###### Article R322-111
 
 L'union est chargée, pour le compte et à la place de la société d'assurance mutuelle réassurée, de faire, au comité des
-entreprises d'assurance, les différentes communications prescrites par l'article L. 310-8 et à la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance celles qui sont prévues à l'article R. 310-6-1, de tenir à son
-siège les livres de comptabilité, registres ou fichiers prévus par le titre IV du présent livre, de mettre à la disposition
-des commissaires-contrôleurs tous les documents mentionnés à l'article R. 310-2 et de produire les comptes et les états dont
-la publication et le dépôt auprès de la commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance sont imposés par la réglementation en vigueur. L'union doit constituer et représenter dans les conditions fixées
-par le titre III du présent livre l'intégralité des dettes, réserves et provisions afférentes aux engagements souscrits par
-la société réassurée.
+entreprises d'assurance, les différentes communications prescrites par l'article L. 310-8 et à l'Autorité de contrôle des
+assurances et des mutuelles celles qui sont prévues à l'article R. 310-6-1, de tenir à son siège les livres de comptabilité,
+registres ou fichiers prévus par le titre IV du présent livre, de mettre à la disposition des commissaires-contrôleurs tous
+les documents mentionnés à l'article R. 310-2 et de produire les comptes et les états dont la publication et le dépôt auprès
+de l'Autorité de contrôle des assurances et des mutuelles sont imposés par la réglementation en vigueur. L'union doit
+constituer et représenter dans les conditions fixées par le titre III du présent livre l'intégralité des dettes, réserves et
+provisions afférentes aux engagements souscrits par la société réassurée.
 
 Toutes les écritures comptables afférentes aux engagements pris par la société réassurée doivent apparaître dans la
 comptabilité de l'union.
@@ -31632,8 +32142,7 @@ conditions et suivant la forme fixées par arrêté du ministre de l'économie e
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -32014,10 +32523,9 @@ réassurances agricoles comptant au total au moins 300 000 adhérents.
 
 ###### Article R322-122
 
-Les sociétés ou caisses mentionnées à l'article L. 322-27 sont soumises, sous l'autorité de la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance, à la surveillance permanente des commissaires-contrôleurs
-mentionnés à l'article R. 310-17, exercée en collaboration avec les agents habilités à cet effet par le ministre de
-l'agriculture.
+Les sociétés ou caisses mentionnées à l'article L. 322-27 sont soumises, sous l'autorité de l'Autorité de contrôle des
+assurances et des mutuelles, à la surveillance permanente des commissaires-contrôleurs mentionnés à l'article R. 310-17,
+exercée en collaboration avec les agents habilités à cet effet par le ministre de l'agriculture.
 
 **Liens relatifs à cet article**
 
@@ -32027,7 +32535,7 @@ l'agriculture.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -32725,15 +33233,14 @@ Les produits et les revenus ainsi que les remboursements doivent être placés d
 
 ###### Article R322-144
 
-Pour les sociétés à forme tontinière dont la marge de solvabilité n'atteint pas le montant minimal réglementaire, la
-commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut requérir que les valeurs
-appartenant aux associations formées par lesdites sociétés soient déposées, aussitôt après leur acquisition ou, le cas
-échéant, inscrites en compte soit à la Caisse des dépôts et consignations, soit à la Banque de France, au nom de
-l'entreprise, avec désignation des associations auxquelles elles appartiennent, reproduite sur les récépissés de dépôt ou
-certificats constatant l'indisponibilité des valeurs.
+Pour les sociétés à forme tontinière dont la marge de solvabilité n'atteint pas le montant minimal réglementaire, l'Autorité
+de contrôle des assurances et des mutuelles peut requérir que les valeurs appartenant aux associations formées par lesdites
+sociétés soient déposées, aussitôt après leur acquisition ou, le cas échéant, inscrites en compte soit à la Caisse des dépôts
+et consignations, soit à la Banque de France, au nom de l'entreprise, avec désignation des associations auxquelles elles
+appartiennent, reproduite sur les récépissés de dépôt ou certificats constatant l'indisponibilité des valeurs.
 
 Ces valeurs ne peuvent être réalisées qu'à l'époque de la liquidation des associations ou en cas de remplois. Cette
-réalisation et ces remplois ne peuvent être effectués que sur visa préalable de la commission.
+réalisation et ces remplois ne peuvent être effectués que sur visa préalable de l'Autorité.
 
 Ce visa ne peut être délivré qu'au vu d'une décision du conseil d'administration de l'entreprise indiquant le nombre et la
 nature des titres à aliéner, ainsi que la nature des titres de remploi. La valeur des titres de remploi doit être au moins
@@ -32749,15 +33256,15 @@ Les titres de remploi doivent être déposés, aussitôt après leur acquisition
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R322-150
 
 A l'expiration de chaque association, une délibération du conseil d'administration de l'entreprise arrête la répartition
 entre les ayants droit. Une copie de cette délibération, certifiée par le directeur de l'entreprise et par deux membres du
-conseil d'administration spécialement désignés à cet effet par le conseil, est adressée à la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance avec un état nominatif de la répartition en double exemplaire.
+conseil d'administration spécialement désignés à cet effet par le conseil, est adressée à l'Autorité de contrôle des
+assurances et des mutuelles avec un état nominatif de la répartition en double exemplaire.
 
 **Liens relatifs à cet article**
 
@@ -32767,7 +33274,7 @@ assurances, des mutuelles et des institutions de prévoyance avec un état nomin
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -33107,14 +33614,14 @@ en voix, le dixième de l'ensemble.
 VII. - Dans le cas prévu à l'article R. 322-76, l'assemblée générale délibère dans les conditions fixées au V.
 
 VIII. - Toute décision d'emprunter doit être autorisée par l'assemblée générale délibérant dans les conditions prévues au V
-et faire l'objet d'une résolution spéciale dont la teneur est préalablement soumise à l'approbation de la commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance. Celle-ci se prononce, en veillant à la sauvegarde
-des intérêts des assurés des entreprises affiliées par convention, au vu d'un dossier comportant une présentation détaillée
-des objectifs poursuivis, des conséquences de l'emprunt sur la situation financière de la société et des entreprises
-affiliées, ainsi que, le cas échéant, une description précise des cas de remboursement anticipé.
+et faire l'objet d'une résolution spéciale dont la teneur est préalablement soumise à l'approbation de l'Autorité de contrôle
+des assurances et des mutuelles. Celle-ci se prononce, en veillant à la sauvegarde des intérêts des assurés des entreprises
+affiliées par convention, au vu d'un dossier comportant une présentation détaillée des objectifs poursuivis, des conséquences
+de l'emprunt sur la situation financière de la société et des entreprises affiliées, ainsi que, le cas échéant, une
+description précise des cas de remboursement anticipé.
 
 A l'expiration d'un délai de deux mois à compter du dépôt du texte de la résolution et du dossier mentionné ci-dessus et en
-l'absence de décision expresse de la commission, l'autorisation est considérée comme accordée. En cas de décision expresse,
+l'absence de décision expresse de l'Autorité, l'autorisation est considérée comme accordée. En cas de décision expresse,
 celle-ci est communiquée à l'assemblée générale.
 
 IX. - Les dispositions de l'article R. 322-54-3 sont applicables aux sociétés de groupe d'assurance mutuelle.
@@ -33127,7 +33634,7 @@ IX. - Les dispositions de l'article R. 322-54-3 sont applicables aux sociétés 
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33221,17 +33728,17 @@ assemblées générales de la société de groupe d'assurance et de l'entreprise
 
 ###### Article R323-1
 
-I. - Lorsque, aux termes de l'article L. 323-1-1, elle met une entreprise sous surveillance spéciale, la commission de
-contrôle des assurances désigne un commissaire contrôleur qui dispose de tous pouvoirs d'investigation au sein de
+I. - Lorsque, aux termes de l'article L. 323-1-1, elle met une entreprise sous surveillance spéciale, l'Autorité de contrôle
+des assurances et des mutuelles désigne un commissaire contrôleur qui dispose de tous pouvoirs d'investigation au sein de
 l'entreprise. Il doit être immédiatement avisé de toute décision prise par le conseil d'administration ou par la direction de
 l'entreprise. Il doit être tenu informé en permanence de l'élaboration du programme de rétablissement, du plan de
-redressement ou du plan de financement à court terme exigés par la commission, se fait rendre compte de la mise en oeuvre des
+redressement ou du plan de financement à court terme exigés par l'Autorité, se fait rendre compte de la mise en oeuvre des
 décisions et mesures qu'ils contiennent et veille à leur exécution.
 
-II. - Lorsqu'elle estime que les droits des assurés sont menacés, la commission de contrôle peut exiger que lui soit remis
-pour approbation, dans le délai d'un mois, un programme de rétablissement prévoyant toutes mesures propres à restaurer
-l'équilibre de l'entreprise. Ce programme de rétablissement doit notamment comporter, pour les trois prochains exercices
-sociaux, une description détaillée des éléments suivants et être accompagné des justificatifs s'y rapportant :
+II. - Lorsqu'elle estime que les droits des assurés sont menacés, l'Autorité de contrôle peut exiger que lui soit remis pour
+approbation, dans le délai d'un mois, un programme de rétablissement prévoyant toutes mesures propres à restaurer l'équilibre
+de l'entreprise. Ce programme de rétablissement doit notamment comporter, pour les trois prochains exercices sociaux, une
+description détaillée des éléments suivants et être accompagné des justificatifs s'y rapportant :
 
 1. Une estimation prévisionnelle des frais de gestion, notamment des frais généraux courants et des commissions ;
 
@@ -33253,7 +33760,7 @@ solvabilité ;
 
 	**Modifié par**:
 
-	  - Décret n°2005-8 du 5 janvier 2005 - art. 1 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33269,24 +33776,20 @@ solvabilité ;
 	  - Code des assurances - art. R328-1 (V)
 	  - Code des assurances - art. R364-1 (VD)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R328-1 (sanctions pénales)
-
 
 ###### Article R323-1-1
 
-I. - Après que lui a été communiqué le programme de rétablissement mentionné au II de l'article R. 323-1, la commission de
+I. - Après que lui a été communiqué le programme de rétablissement mentionné au II de l'article R. 323-1, l'autorité de
 contrôle peut exiger d'une entreprise d'assurance une marge de solvabilité renforcée, supérieure à l'exigence minimale de
 marge mentionnée soit à l'article R. 334-5 s'agissant des entreprises d'assurance de dommages, soit à l'article R. 334-13
 s'agissant des entreprises d'assurance sur la vie, soit à l'article R. 334-19 s'agissant des entreprises d'assurance mixtes.
-Le niveau de cette exigence de marge de solvabilité renforcée est déterminé par la commission de contrôle dans les conditions
+Le niveau de cette exigence de marge de solvabilité renforcée est déterminé par l'autorité de contrôle dans les conditions
 suivantes :
 
 Lorsqu'elle constate que les éléments constitutifs de la marge de solvabilité ont connu une baisse d'au moins 33 % au cours
 du dernier exercice clos par rapport à la moyenne de ces éléments constitutifs de la marge constatée au cours des quatre
 exercices précédant le dernier exercice, ou lorsqu'elle estime que les résultats du test d'exigibilité mentionné à l'article
-R. 344-4 font apparaître un risque de solvabilité, la commission de contrôle peut :
+R. 344-4 font apparaître un risque de solvabilité, l'autorité de contrôle peut :
 
 1. Soit demander à l'entreprise de satisfaire, pour l'exercice en cours, à une exigence de marge de solvabilité renforcée.
 Toutefois, le niveau total de marge de solvabilité exigé ne peut être supérieur au double de l'exigence minimale de marge
@@ -33300,7 +33803,7 @@ les actifs mentionnés à l'article R. 332-20 et non provisionné par la provisi
 
 4. Soit mettre en oeuvre de manière appropriée une combinaison des mesures précédentes.
 
-II. - Après que lui a été communiqué le programme de rétablissement mentionné au II de l'article R. 323-1, la commission de
+II. - Après que lui a été communiqué le programme de rétablissement mentionné au II de l'article R. 323-1, l'autorité de
 contrôle peut limiter la réduction de marge de solvabilité prévue au quatrième alinéa du a des articles R. 334-5, R. 334-13
 ou R. 334-19 et au quatrième alinéa du b des mêmes articles lorsque :
 
@@ -33316,7 +33819,7 @@ ou R. 334-19 et au quatrième alinéa du b des mêmes articles lorsque :
 
 	**Modifié par**:
 
-	  - Décret n°2005-8 du 5 janvier 2005 - art. 1 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33332,13 +33835,13 @@ ou R. 334-19 et au quatrième alinéa du b des mêmes articles lorsque :
 ###### Article R323-2
 
 I. - Lorsque la marge de solvabilité d'une entreprise mentionnée au 1° de l'article L. 310-2 n'atteint pas le montant
-réglementaire, la commission de contrôle des assurances, sans préjudice de la mise en oeuvre des pouvoirs dont elle dispose
-aux termes des articles L. 310-17, L. 310-18 et L. 323-1-1, exige un plan de redressement, qui doit être soumis à son
-approbation dans le délai d'un mois.
+réglementaire, l'Autorité de contrôle des assurances et des mutuelles, sans préjudice de la mise en oeuvre des pouvoirs dont
+elle dispose aux termes des articles L. 310-17, L. 310-18 et L. 323-1-1, exige un plan de redressement, qui doit être soumis
+à son approbation dans le délai d'un mois.
 
 II. - Il en est de même pour celles des entreprises mentionnées au 4° de l'article L. 310-2 qui ne font l'objet d'aucune
-vérification de solvabilité globale et pour celles qui font l'objet d'une vérification de ce type exercée par la commission
-de contrôle des assurances, lorsque leur marge de solvabilité n'atteint pas le montant réglementaire.
+vérification de solvabilité globale et pour celles qui font l'objet d'une vérification de ce type exercée par l'Autorité de
+contrôle des assurances et des mutuelles, lorsque leur marge de solvabilité n'atteint pas le montant réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -33348,7 +33851,7 @@ de contrôle des assurances, lorsque leur marge de solvabilité n'atteint pas le
 
 	**Modifié par**:
 
-	  - Décret n°2005-8 du 5 janvier 2005 - art. 1 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33369,14 +33872,14 @@ de contrôle des assurances, lorsque leur marge de solvabilité n'atteint pas le
 ###### Article R323-3
 
 I. - Lorsque la marge de solvabilité d'une entreprise mentionnée au 1° de l'article L. 310-2 n'atteint pas le fonds de
-garantie, ou si le fonds n'est pas constitué réglementairement, la commission de contrôle des assurances, sans préjudice de
-la mise en oeuvre des pouvoirs dont elle dispose aux termes des articles L. 310-17, L. 310-18 et L. 323-1-1, exige un plan de
-financement à court terme, qui doit être soumis à son approbation dans le délai d'un mois.
+garantie, ou si le fonds n'est pas constitué réglementairement, l'Autorité de contrôle des assurances et des mutuelles, sans
+préjudice de la mise en oeuvre des pouvoirs dont elle dispose aux termes des articles L. 310-17, L. 310-18 et L. 323-1-1,
+exige un plan de financement à court terme, qui doit être soumis à son approbation dans le délai d'un mois.
 
 II. - Il en est de même pour celles des entreprises mentionnées au 4° de l'article L. 310-2 qui ne font pas l'objet d'une
-vérification de solvabilité globale et pour celles qui font l'objet d'une vérification de ce type exercée par la commission
-de contrôle des assurances, lorsque la marge de solvabilité n'atteint pas le fonds de garantie ou si ce fonds n'est pas
-constitué réglementairement.
+vérification de solvabilité globale et pour celles qui font l'objet d'une vérification de ce type exercée par l'Autorité de
+contrôle des assurances et des mutuelles, lorsque la marge de solvabilité n'atteint pas le fonds de garantie ou si ce fonds
+n'est pas constitué réglementairement.
 
 **Liens relatifs à cet article**
 
@@ -33386,7 +33889,7 @@ constitué réglementairement.
 
 	**Modifié par**:
 
-	  - Décret n°2005-8 du 5 janvier 2005 - art. 1 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33403,9 +33906,9 @@ constitué réglementairement.
 
 ###### Article R323-4
 
-Lorsqu'elle met en oeuvre les mesures mentionnées au troisième alinéa de l'article L. 323-1-1, la commission de contrôle des
-assurances en avertit immédiatement l'entreprise concernée et dispose dès lors d'un délai de trois mois pour faire connaître
-sa décision de lever ou confirmer ces mêmes mesures.
+Lorsqu'elle met en oeuvre les mesures mentionnées au troisième alinéa de l'article L. 323-1-1, l'Autorité de contrôle des
+assurances et des mutuelles en avertit immédiatement l'entreprise concernée et dispose dès lors d'un délai de trois mois pour
+faire connaître sa décision de lever ou confirmer ces mêmes mesures.
 
 Pendant la période de trois mois mentionnée à l'alinéa précédent, les responsables de l'entreprise sont mis à même d'être
 entendus. Ils peuvent se faire assister ou représenter.
@@ -33418,7 +33921,7 @@ entendus. Ils peuvent se faire assister ou représenter.
 
 	**Modifié par**:
 
-	  - Décret n°2005-8 du 5 janvier 2005 - art. 1 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33437,8 +33940,8 @@ entendus. Ils peuvent se faire assister ou représenter.
 
 Lorsque, conformément aux dispositions du troisième alinéa de l'article L. 323-1-1, un administrateur provisoire est désigné
 auprès d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1, un commissaire contrôleur est désigné
-par la commission de contrôle des assurances auprès de l'entreprise et dispose des pouvoirs mentionnés au paragraphe I de
-l'article R. 323-1.
+par l'Autorité de contrôle des assurances et des mutuelles auprès de l'entreprise et dispose des pouvoirs mentionnés au
+paragraphe I de l'article R. 323-1.
 
 **Liens relatifs à cet article**
 
@@ -33448,7 +33951,7 @@ l'article R. 323-1.
 
 	**Modifié par**:
 
-	  - Décret n°2005-8 du 5 janvier 2005 - art. 1 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33464,24 +33967,24 @@ l'article R. 323-1.
 
 ###### Article R323-8
 
-Lorsque la commission de contrôle des assurances est amenée à restreindre ou interdire la libre disposition des actifs d'une
-entreprise, la commission peut prescrire par lettre recommandée à toute société ou collectivité émettrice ou dépositaire de
-refuser l'exécution de toute opération portant sur des comptes ou des titres appartenant à l'entreprise intéressée, ainsi que
-le paiement des intérêts et dividendes afférents auxdits titres ou subordonner l'exécution de ces opérations au visa
-préalable d'un commissaire contrôleur ou de toute personne qu'elle accréditera à cet effet.
+Lorsque l'Autorité de contrôle des assurances et des mutuelles est amenée à restreindre ou interdire la libre disposition des
+actifs d'une entreprise, l'Autorité peut prescrire par lettre recommandée à toute société ou collectivité émettrice ou
+dépositaire de refuser l'exécution de toute opération portant sur des comptes ou des titres appartenant à l'entreprise
+intéressée, ainsi que le paiement des intérêts et dividendes afférents auxdits titres ou subordonner l'exécution de ces
+opérations au visa préalable d'un commissaire contrôleur ou de toute personne qu'elle accréditera à cet effet.
 
-La commission peut, en outre, faire inscrire sur les immeubles de l'entreprise l'hypothèque mentionnée par l'article L.
-327-3 ; elle peut prescrire aux conservateurs des hypothèques, par lettre recommandée, de refuser la transcription de tous
-actes, l'inscription de toute hypothèque portant sur les immeubles appartenant à l'entreprise, ainsi que la radiation
-d'hypothèque consentie par un tiers au profit de l'entreprise.
+L'Autorité peut, en outre, faire inscrire sur les immeubles de l'entreprise l'hypothèque mentionnée par l'article L. 327-3 ;
+elle peut prescrire aux conservateurs des hypothèques, par lettre recommandée, de refuser la transcription de tous actes,
+l'inscription de toute hypothèque portant sur les immeubles appartenant à l'entreprise, ainsi que la radiation d'hypothèque
+consentie par un tiers au profit de l'entreprise.
 
-La commission peut exiger le dépôt à la Caisse des dépôts et consignations des grosses de prêts hypothécaires consentis par
+L'Autorité peut exiger le dépôt à la Caisse des dépôts et consignations des grosses de prêts hypothécaires consentis par
 ladite entreprise.
 
-La commission peut enfin exiger que tous les fonds, titres et valeurs détenus ou possédés par l'entreprise soient, dans des
+L'Autorité peut enfin exiger que tous les fonds, titres et valeurs détenus ou possédés par l'entreprise soient, dans des
 délais et conditions qu'elle fixera, transférés à la Banque de France pour y être déposés dans un compte bloqué. Ce compte ne
-pourra être débité sur ordre de son titulaire que sur autorisation expresse de la commission ou de toute personne désignée
-par elle, et seulement pour un montant déterminé.
+pourra être débité sur ordre de son titulaire que sur autorisation expresse de l'Autorité ou de toute personne désignée par
+elle, et seulement pour un montant déterminé.
 
 Les dirigeants de l'entreprise qui n'effectue pas le transfert mentionné à l'alinéa précédent sont passibles des sanctions
 prévues à l'article R. 328-1.
@@ -33494,7 +33997,7 @@ prévues à l'article R. 328-1.
 
 	**Modifié par**:
 
-	  - Décret n°2005-8 du 5 janvier 2005 - art. 1 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33508,7 +34011,7 @@ prévues à l'article R. 328-1.
 
 ###### Article R323-9
 
-L'autorité administrative mentionnée à l'article L. 323-1 est la commission de contrôle des assurances.
+L'autorité administrative mentionnée à l'article L. 323-1 est la l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -33518,7 +34021,7 @@ L'autorité administrative mentionnée à l'article L. 323-1 est la commission d
 
 	**Modifié par**:
 
-	  - Décret n°2005-8 du 5 janvier 2005 - art. 1 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33555,6 +34058,51 @@ révélé que la solvabilité de cette entreprise apparaît compromise ou suscep
 	  - Code des assurances R323-1 à R323-9
 
 
+##### Section II : Mesures d'assainissement des entreprises communautaires
+
+###### Article R*323-11
+
+Lorsqu'elle décide de mettre en oeuvre l'une des mesures d'assainissement définies à l'article L. 323-8, l'Autorité de
+contrôle : 
+
+1° En informe d'urgence les autorités compétentes des autres Etats membres de la Communauté européenne ou parties à l'accord
+sur l'Espace économique européen ; 
+
+2° Procède à la publication de cette décision au Journal officiel de la République française ainsi qu'au Journal officiel de
+l'Union européenne. 
+
+Cette publication précise le nom et les coordonnées des autorités compétentes pour les besoins des mesures d'assainissement.
+Elle indique également la législation qui est applicable à ces mesures d'assainissement en vertu des dispositions des
+articles L. 326-20 à L. 326-29. 
+
+Cette publication n'est pas requise lorsque les mesures d'assainissement affectent exclusivement les droits des actionnaires,
+associés ou employés d'une entreprise d'assurance considérés en tant que tels. Dans ce cas, l'Autorité de contrôle prend les
+dispositions nécessaires à une information rapide des seuls intéressés ; 
+
+3° Notifie sa décision aux créanciers connus dans les conditions définies à l'article R. 326-1. Lorsqu'un administrateur
+provisoire a été nommé, il lui appartient de procéder à cette publication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 1 () JORF 7 janvier 2005
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L323-8 (V)
+	  - Code des assurances - art. L326-20 (V)
+	  - Code des assurances - art. R326-1 (V)
+
+
 #### Chapitre IV : Transfert de portefeuille
 
 ##### Section II : Transfert d'office.
@@ -33562,15 +34110,15 @@ révélé que la solvabilité de cette entreprise apparaît compromise ou suscep
 ###### Article R*324-4
 
 Lorsqu'elle décide le transfert d'office d'un portefeuille de contrats d'assurance conclus sur le territoire d'un ou de
-plusieurs Etats membres de l'Espace économique européen, en application de l'article L. 310-18, la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance en avise les autorités compétentes de ces différents Etats.
+plusieurs Etats membres de l'Espace économique européen, en application de l'article L. 310-18, l'Autorité de contrôle des
+assurances et des mutuelles en avise les autorités compétentes de ces différents Etats.
 
-Lorsque l'entreprise cessionnaire est originaire d'un Etat membre de l'Espace économique européen, la commission de contrôle
-des assurances, des mutuelles et des institutions de prévoyance s'assure auprès des autorités compétentes de cet Etat membre
-que l'entreprise possède, compte tenu du transfert, la marge de solvabilité nécessaire.
+Lorsque l'entreprise cessionnaire est originaire d'un Etat membre de l'Espace économique européen, l'Autorité de contrôle des
+assurances et des mutuelles s'assure auprès des autorités compétentes de cet Etat membre que l'entreprise possède, compte
+tenu du transfert, la marge de solvabilité nécessaire.
 
 La décision de transfert et le nom de l'entreprise cessionnaire font l'objet d'une publication au Journal officiel, à la
-diligence de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+diligence de l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -33580,7 +34128,7 @@ diligence de la commission de contrôle des assurances, des mutuelles et des ins
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33591,11 +34139,11 @@ diligence de la commission de contrôle des assurances, des mutuelles et des ins
 	  - Code des assurances - art. R391-1 (V)
 
 
-###### Article R*324-5
+###### Article R324-5
 
-La décision de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance prévue à l'article
-L. 324-5 est prononcée après la sanction prévue au 6° de l'article L. 310-18, à l'issue du contrôle auquel la commission peut
-soumettre une personne physique ou morale conformément au quatrième alinéa de l'article L. 310-12.
+La décision de l'Autorité de contrôle des assurances et des mutuelles prévue à l'article L. 324-5 est prononcée après la
+sanction prévue au 6° de l'article L. 310-18, à l'issue du contrôle auquel l'Autorité peut soumettre une personne physique ou
+morale conformément au quatrième alinéa de l'article L. 310-12.
 
 **Liens relatifs à cet article**
 
@@ -33605,8 +34153,7 @@ soumettre une personne physique ou morale conformément au quatrième alinéa de
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33648,14 +34195,13 @@ Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace 
 ###### Article R325-4
 
 Avant de procéder au retrait d'agrément prévu à l'article L. 325-1 ou au 5° de l'article L. 310-18, dans le cas d'une
-entreprise agréée conformément aux dispositions de l'article L. 321-7, le comité des entreprises d'assurance ou la commission
-de contrôle des assurances, des mutuelles et des institutions de prévoyance, selon le cas, consulte l'autorité de contrôle de
-l'Etat où est situé le siège social de cette entreprise.
+entreprise agréée conformément aux dispositions de l'article L. 321-7, le comité des entreprises d'assurance ou l'Autorité de
+contrôle des assurances et des mutuelles, selon le cas, consulte l'autorité de contrôle de l'Etat où est situé le siège
+social de cette entreprise.
 
-Toutefois, le comité des entreprises d'assurance ou la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance, selon le cas, peut suspendre l'activité de l'entreprise sur le territoire de la République
-française avant l'issue de cette consultation. Dans ce cas, elle en informe immédiatement l'autorité de contrôle étrangère
-intéressée.
+Toutefois, le comité des entreprises d'assurance ou l'Autorité de contrôle des assurances et des mutuelles, selon le cas,
+peut suspendre l'activité de l'entreprise sur le territoire de la République française avant l'issue de cette consultation.
+Dans ce cas, elle en informe immédiatement l'autorité de contrôle étrangère intéressée.
 
 **Liens relatifs à cet article**
 
@@ -33665,8 +34211,7 @@ intéressée.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33677,10 +34222,9 @@ intéressée.
 
 ###### Article R325-5
 
-La commission de contrôle des assurances, des mutuelles et des institutions de prévoyance fait connaître ses observations à
-l'autorité de contrôle d'un Etat non communautaire membre de l'Espace économique européen qui la consulte à l'occasion du
-retrait d'un agrément précédemment accordé dans cet Etat à une entreprise française visée au 1° de l'article L. 310-2 du code
-des assurances.
+L'Autorité de contrôle des assurances et des mutuelles fait connaître ses observations à l'autorité de contrôle d'un Etat non
+communautaire membre de l'Espace économique européen qui la consulte à l'occasion du retrait d'un agrément précédemment
+accordé dans cet Etat à une entreprise française visée au 1° de l'article L. 310-2 du code des assurances.
 
 **Liens relatifs à cet article**
 
@@ -33690,7 +34234,7 @@ des assurances.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33700,9 +34244,9 @@ des assurances.
 ###### Article R325-7
 
 Si le retrait d'agrément mentionné à l'article L. 325-1 ou au 5° de l'article L. 310-18 concerne une entreprise visée au 4°
-de l'article L. 310-2 et qui fait l'objet d'une vérification de solvabilité globale exercée par la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance, l'autorité qui prononce le retrait d'agrément informe les
-autorités de contrôle des Etats membres de l'Espace économique européen sur le territoire desquels l'entreprise est agréée.
+de l'article L. 310-2 et qui fait l'objet d'une vérification de solvabilité globale exercée par l'Autorité de contrôle des
+assurances et des mutuelles, l'autorité qui prononce le retrait d'agrément informe les autorités de contrôle des Etats
+membres de l'Espace économique européen sur le territoire desquels l'entreprise est agréée.
 
 **Liens relatifs à cet article**
 
@@ -33712,7 +34256,7 @@ autorités de contrôle des Etats membres de l'Espace économique européen sur 
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33773,12 +34317,11 @@ cette entreprise.
 
 ###### Article R325-10
 
-Lorsqu'une entreprise fait l'objet d'un retrait de l'agrément administratif par le comité des entreprises d'assurance, par la
-commission de contrôle des assurances, des mutuelles et des institutions de prévoyance ou par l'autorité de contrôle d'un
-Etat de l'Espace économique européen autre que la France, la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance prend, le cas échéant, avec le concours des autorités de contrôle des Etats membres de la
-Communauté sur le territoire desquels l'entreprise opère, toutes mesures propres à sauvegarder les intérêts des assurés et
-bénéficiaires de contrats, notamment celles prévues à l'article L. 323-1-1.
+Lorsqu'une entreprise fait l'objet d'un retrait de l'agrément administratif par le comité des entreprises d'assurance, par
+l'Autorité de contrôle des assurances et des mutuelles ou par l'autorité de contrôle d'un Etat de l'Espace économique
+européen autre que la France, l'Autorité de contrôle des assurances et des mutuelles prend, le cas échéant, avec le concours
+des autorités de contrôle des Etats membres de la Communauté sur le territoire desquels l'entreprise opère, toutes mesures
+propres à sauvegarder les intérêts des assurés et bénéficiaires de contrats, notamment celles prévues à l'article L. 323-1-1.
 
 **Liens relatifs à cet article**
 
@@ -33788,8 +34331,7 @@ bénéficiaires de contrats, notamment celles prévues à l'article L. 323-1-1.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-221 du 12 mars 2004 - art. 2 () JORF 14 mars 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33856,10 +34398,10 @@ recommandée avec demande d'avis de réception ou remise contre récépissé.
 La décision de retrait de l'agrément administratif fait l'objet d'une publication au Journal officiel de la République
 française ainsi qu'au Journal officiel de l'Union européenne.
 
-Cette publication est assurée, selon le cas, par la commission de contrôle des assurances, des mutuelles et des institutions
-de prévoyance ou par le comité des entreprises d'assurance. Elle précise le nom et les coordonnées des autorités compétentes
-pour les besoins de la liquidation et, le cas échéant, du ou des liquidateurs désignés. Elle indique également la législation
-qui est applicable à cette liquidation en vertu des dispositions des articles L. 326-20 à L. 326-29.
+Cette publication est assurée, selon le cas, par l'Autorité de contrôle des assurances et des mutuelles ou par le comité des
+entreprises d'assurance. Elle précise le nom et les coordonnées des autorités compétentes pour les besoins de la liquidation
+et, le cas échéant, du ou des liquidateurs désignés. Elle indique également la législation qui est applicable à cette
+liquidation en vertu des dispositions des articles L. 326-20 à L. 326-29.
 
 **Liens relatifs à cet article**
 
@@ -33869,7 +34411,7 @@ qui est applicable à cette liquidation en vertu des dispositions des articles L
 
 	**Modifié par**:
 
-	  - Décret n°2005-8 du 5 janvier 2005 - art. 1 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -33930,10 +34472,10 @@ chargé des transports.
 
 I. - En cas de retrait de l'agrément administratif accordé à une entreprise mentionnée à l'article L. 310-1 et dans un délai
 de vingt jours à compter du lendemain du jour de la publication au Journal officiel de la République française de la décision
-du comité des entreprises d'assurance ou de la commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyances prononçant le retrait d'agrément, chaque souscripteur de contrat est avisé de ce retrait d'agrément par le
-liquidateur ou, en attendant la désignation du liquidateur, par la personne qui était investie dans l'entreprise des pouvoirs
-de direction générale ou par son représentant.
+du comité des entreprises d'assurance ou de l'Autorité de contrôle des assurances et des mutuelles prononçant le retrait
+d'agrément, chaque souscripteur de contrat est avisé de ce retrait d'agrément par le liquidateur ou, en attendant la
+désignation du liquidateur, par la personne qui était investie dans l'entreprise des pouvoirs de direction générale ou par
+son représentant.
 
 Cet avis, qui rappelle la législation applicable, est adressé par lettre recommandée au dernier domicile connu du
 souscripteur.
@@ -33961,9 +34503,9 @@ III. - Lorsque le retrait d'agrément concerne une entreprise mentionnée au 1°
 reproduit le texte des articles L. 326-9 et L. 326-13.
 
 Le cas échéant, chaque souscripteur de contrat, assuré ou bénéficiaire connu est informé, dans les mêmes conditions, des
-décisions prises par la commission de contrôle en application du deuxième alinéa de l'article L. 326-13. Lorsque la décision
-de la commission a pour effet de fixer la date à laquelle les contrats cessent d'avoir effet, cette information intervient au
-plus tard vingt jours avant la date de cessation des effets du contrat.
+décisions prises par l'Autorité de contrôle en application du deuxième alinéa de l'article L. 326-13. Lorsque la décision de
+l'Autorité a pour effet de fixer la date à laquelle les contrats cessent d'avoir effet, cette information intervient au plus
+tard vingt jours avant la date de cessation des effets du contrat.
 
 **Liens relatifs à cet article**
 
@@ -33973,7 +34515,7 @@ plus tard vingt jours avant la date de cessation des effets du contrat.
 
 	**Modifié par**:
 
-	  - Décret n°2005-8 du 5 janvier 2005 - art. 1 () JORF 7 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -34660,9 +35202,9 @@ individualisables ; elle est augmentée d'une estimation du coût des sinistres 
 La provision pour sinistres à payer doit toujours être calculée pour son montant brut, sans tenir compte des recours à
 exercer ; les recours à recevoir font l'objet d'une évaluation distincte.
 
-Par dérogation aux dispositions du deuxième alinéa du présent article, l'entreprise peut, avec l'accord de la commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance, utiliser des méthodes statistiques pour
-l'estimation des sinistres survenus au cours des deux derniers exercices.
+Par dérogation aux dispositions du deuxième alinéa du présent article, l'entreprise peut, avec l'accord de l'Autorité de
+contrôle des assurances et des mutuelles, utiliser des méthodes statistiques pour l'estimation des sinistres survenus au
+cours des deux derniers exercices.
 
 **Liens relatifs à cet article**
 
@@ -34672,17 +35214,13 @@ l'estimation des sinistres survenus au cours des deux derniers exercices.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - Code des assurances - art. R*331-19 (Ab)
 	  - Code des assurances - art. R*331-20 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
 
 
 ###### Article R331-16
@@ -34762,11 +35300,11 @@ montant résultant de l'application de la méthode réglementaire prévue à l'a
 constituer des provisions à due concurrence du coût estimé.
 
 Lorsqu'une entreprise estime le coût des sinistres non encore manifestés à un niveau inférieur au montant résultant de
-l'application de la méthode réglementaire prévue au 2° de l'article R. 331-17, la commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance, si elle considère que cette estimation repose sur des éléments d'information
-suffisants et sur une méthode statistique fiable, peut, à la demande de l'entreprise, dispenser celle-ci de l'application de
-la méthode réglementaire prévue au 2° de l'article R. 331-17 et l'autoriser à retenir sa propre estimation du coût des
-sinistres non encore manifestés.
+l'application de la méthode réglementaire prévue au 2° de l'article R. 331-17, l'Autorité de contrôle des assurances et des
+mutuelles, si elle considère que cette estimation repose sur des éléments d'information suffisants et sur une méthode
+statistique fiable, peut, à la demande de l'entreprise, dispenser celle-ci de l'application de la méthode réglementaire
+prévue au 2° de l'article R. 331-17 et l'autoriser à retenir sa propre estimation du coût des sinistres non encore
+manifestés.
 
 **Liens relatifs à cet article**
 
@@ -34776,7 +35314,7 @@ sinistres non encore manifestés.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -35055,8 +35593,7 @@ Les entreprises d'assurance doivent procéder en permanence à une évaluation d
 notamment des simulations de l'impact de la variation des taux d'intérêt et des cours boursiers sur leur actif et leur passif
 et des estimations comparées de l'exigibilité de leur passif et de la liquidité de leur actif. Les résultats de cette
 évaluation sont déterminés et présentés selon des principes généraux définis par arrêté du ministre chargé de l'économie. Ils
-sont annexés à l'état trimestriel des placements destiné à la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance.
+sont annexés à l'état trimestriel des placements destiné à l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -35068,7 +35605,7 @@ institutions de prévoyance.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R332-2
@@ -35318,7 +35855,7 @@ immobilier.
 Rapportée à la base de dispersion constituée par la différence entre le montant total des engagements réglementés mentionnés
 à l'article R. 331-1, toutes monnaies confondues, et le montant total des actifs mentionnés aux articles R. 332-3-4 à R.
 332-10, toutes monnaies confondues, la valeur au bilan de chacune des catégories d'actif énumérées ci-après ne peut excéder,
-sauf dérogation accordée cas par cas par la commission de contrôle des assurances :
+sauf dérogation accordée cas par cas par l'Autorité de contrôle des assurances et des mutuelles :
 
 1° 65 % pour l'ensemble des valeurs mentionnées du 4° au 8° de l'article R. 332-2 et des prêts mentionnés au troisième alinéa
 du 1° de l'article R. 332-13, dont 10 % au maximum pour l'ensemble formé par les actions d'entreprises étrangères d'assurance
@@ -35385,7 +35922,7 @@ au 1° du présent article.
 
 	**Modifié par**:
 
-	  - Décret n°2005-875 du 25 juillet 2005 - art. 20 () JORF 30 juillet 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -35398,7 +35935,7 @@ au 1° du présent article.
 ###### Article R332-3-1
 
 Rapportée à la base de dispersion définie à l'article R. 332-3, la valeur au bilan des actifs mentionnés ci-après ne peut
-excéder, sauf dérogation accordée cas par cas par la commission de contrôle des assurances :
+excéder, sauf dérogation accordée cas par cas par l'Autorité de contrôle des assurances et des mutuelles :
 
 1° 5 % pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un même organisme et des dépôts placés auprès de cet
 organisme, à l'exception :
@@ -35464,7 +36001,7 @@ même société mentionnée au 5° de l'article R. 332-2.
 
 	**Modifié par**:
 
-	  - Décret n°2005-875 du 25 juillet 2005 - art. 21 () JORF 30 juillet 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R332-3-2
@@ -35472,19 +36009,19 @@ même société mentionnée au 5° de l'article R. 332-2.
 1° Les provisions techniques des entreprises opérant à la fois sur le territoire français et sur le territoire monégasque
 doivent être représentées dans les conditions prévues par la réglementation française ; toutefois, les actifs admis en
 représentation desdites provisions peuvent comprendre à concurrence de 5 % du montant de celles-ci des placements mobiliers
-ou immobiliers monégasques sur autorisation donnée conjointement, pour chaque entreprise ou pour chaque cas, par la
-commission de contrôle des assurances, des mutuelles et des institutions de prévoyance de la République française et par le
-ministre d'Etat de la principauté de Monaco ;
+ou immobiliers monégasques sur autorisation donnée conjointement, pour chaque entreprise ou pour chaque cas, par l'Autorité
+de contrôle des assurances et des mutuelles de la République française et par le ministre d'Etat de la principauté de
+Monaco ;
 
-2° Pour ce qui concerne les opérations réalisées dans les départements et territoires d'outre-mer et à Mayotte, la commission
-de contrôle des assurances, des mutuelles et des institutions de prévoyance peut, sur proposition du représentant de l'Etat
-dans la collectivité concernée, consentir des dérogations aux règles de l'article R. 332-3. Elle peut de même, à titre
-exceptionnel, accorder aux entreprises des dérogations à la réglementation de contrôle ;
+2° Pour ce qui concerne les opérations réalisées dans les départements et territoires d'outre-mer et à Mayotte, l'Autorité de
+contrôle des assurances et des mutuelles peut, sur proposition du représentant de l'Etat dans la collectivité concernée,
+consentir des dérogations aux règles de l'article R. 332-3. Elle peut de même, à titre exceptionnel, accorder aux entreprises
+des dérogations à la réglementation de contrôle ;
 
 3° La limitation prévue au 2° de l'article R. 332-3 pour les actifs immobiliers est ramenée à 10 % pour la représentation des
-provisions techniques afférentes aux opérations tontinières, sauf dérogation accordée par la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance ; cette même limitation ne s'applique pas pour la représentation
-des provisions techniques afférentes aux opérations d'acquisition d'immeubles au moyen du versement de rentes viagères.
+provisions techniques afférentes aux opérations tontinières, sauf dérogation accordée par l'Autorité de contrôle des
+assurances et des mutuelles ; cette même limitation ne s'applique pas pour la représentation des provisions techniques
+afférentes aux opérations d'acquisition d'immeubles au moyen du versement de rentes viagères.
 
 **Liens relatifs à cet article**
 
@@ -35494,7 +36031,7 @@ des provisions techniques afférentes aux opérations d'acquisition d'immeubles 
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -35820,9 +36357,9 @@ l'entreprise sur les déposants.
 
 ###### Article R332-11
 
-Les entreprises ne peuvent acquérir d'immeubles grevés de droits réels représentant plus de 65 p. 100 de leur valeur, ni
-consentir de droits réels sur leurs immeubles, sauf autorisation accordée à titre exceptionnel par la commission de contrôle
-des assurances, des mutuelles et des institutions de prévoyance.
+Les entreprises ne peuvent acquérir d'immeubles grevés de droits réels représentant plus de 65 % de leur valeur, ni consentir
+de droits réels sur leurs immeubles, sauf autorisation accordée à titre exceptionnel par l'Autorité de contrôle des
+assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -35832,7 +36369,7 @@ des assurances, des mutuelles et des institutions de prévoyance.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -36082,11 +36619,11 @@ l'estimation des valeurs mentionnées au 1° de l'article R. 332-2, la fraction 
 Pour l'application des dispositions des articles R. 332-3 et R. 332-3-1, les valeurs reçues en nantissement des réassureurs
 sont assimilées à des valeurs figurant à l'actif du bilan de l'entreprise cédante.
 
-A la demande d'une entreprise, la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
-peut, par dérogation aux dispositions du premier alinéa du présent article, l'autoriser, pour une durée déterminée, à
-constituer la garantie mentionnée à l'article R. 332-3-3 dans des limites fixées par arrêté du ministre chargé de l'économie
-et des finances, par une caution ou un engagement équivalent pris par un établissement de crédit, dès lors que la nature et
-la forme de l'engagement ainsi que la qualité du garant répondent aux conditions fixées par le même arrêté.
+A la demande d'une entreprise, l'Autorité de contrôle des assurances et des mutuelles peut, par dérogation aux dispositions
+du premier alinéa du présent article, l'autoriser, pour une durée déterminée, à constituer la garantie mentionnée à l'article
+R. 332-3-3 dans des limites fixées par arrêté du ministre chargé de l'économie et des finances, par une caution ou un
+engagement équivalent pris par un établissement de crédit, dès lors que la nature et la forme de l'engagement ainsi que la
+qualité du garant répondent aux conditions fixées par le même arrêté.
 
 **Liens relatifs à cet article**
 
@@ -36104,7 +36641,7 @@ la forme de l'engagement ainsi que la qualité du garant répondent aux conditio
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -36253,10 +36790,10 @@ d'achat de ce titre ou de ce groupe de titres. Le prix d'achat s'entend hors int
 
 b) Les immeubles et les parts ou actions des sociétés immobilières ou foncières non inscrites à la cote d'une bourse de
 valeurs d'un Etat membre de l'organisation de coopération et de développement économiques sont retenus pour leur prix d'achat
-ou de revient ou, dans les conditions fixées dans chaque cas par la commission de contrôle des assurances, pour une valeur
-déterminée après expertise effectuée conformément à l'article R. 332-23. Les valeurs sont diminuées des amortissements
-pratiqués. Le prix de revient des immeubles est celui qui ressort des travaux de construction et d'amélioration, à
-l'exclusion des travaux d'entretien proprement dits ;
+ou de revient ou, dans les conditions fixées dans chaque cas par l'Autorité de contrôle des assurances et des mutuelles, pour
+une valeur déterminée après expertise effectuée conformément à l'article R. 332-23. Les valeurs sont diminuées des
+amortissements pratiqués. Le prix de revient des immeubles est celui qui ressort des travaux de construction et
+d'amélioration, à l'exclusion des travaux d'entretien proprement dits ;
 
 c) Les prêts sont évalués d'après les actes qui en font foi ;
 
@@ -36267,8 +36804,8 @@ Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués e
 constatées que lorsqu'il y a lieu de considérer qu'elles ont un caractère durable. Toutefois, les entreprises qui, au bilan
 du dernier exercice clos avant le 1er janvier 1993, constataient les dépréciations, même lorsque celles-ci n'avaient pas un
 caractère durable, peuvent continuer à faire application de cette méthode jusqu'au dernier exercice clos avant le 1er janvier
-1999 ; elles peuvent y renoncer à tout moment, en le notifiant préalablement à la commission de contrôle des assurances,
-cette renonciation étant alors définitive.
+1999 ; elles peuvent y renoncer à tout moment, en le notifiant préalablement à l'Autorité de contrôle des assurances et des
+mutuelles, cette renonciation étant alors définitive.
 
 **Liens relatifs à cet article**
 
@@ -36311,7 +36848,7 @@ cette renonciation étant alors définitive.
 
 	**Modifié par**:
 
-	  - Décret n°2005-50 du 26 janvier 2005 - art. 2 () JORF 27 janvier 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Liens**:
 
@@ -36341,15 +36878,13 @@ le dernier prix de rachat publié au jour de l'inventaire ;
 
 d) La valeur de réalisation des immeubles et des parts ou actions des sociétés immobilières ou foncières non inscrites à la
 cote d'une bourse de valeurs d'un Etat membre de l'organisation de coopération et de développement économiques est déterminée
-sur la base d'une expertise quinquennale effectuée par un expert accepté par la commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance. Entre deux expertises, la valeur fait l'objet d'une estimation annuelle,
-certifiée par un expert accepté par la commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance ;
+sur la base d'une expertise quinquennale effectuée par un expert accepté par l'Autorité de contrôle des assurances et des
+mutuelles. Entre deux expertises, la valeur fait l'objet d'une estimation annuelle, certifiée par un expert accepté par
+l'Autorité de contrôle des assurances et des mutuelles ;
 
 e) Les autres placements sont retenus pour leur valeur comptable déterminée comme il est prévu aux articles R. 332-19 et R.
 332-20 ci-dessus, sauf dans le cas où une autre valeur résulte soit d'une expertise effectuée dans les conditions prévues à
-l'article R. 332-23, soit d'un accord entre la commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance et l'entreprise.
+l'article R. 332-23, soit d'un accord entre l'Autorité de contrôle des assurances et des mutuelles et l'entreprise.
 
 Pour les titres inscrits en comptabilité hors coupon couru en application des articles R. 332-19 et R. 332-20, il y a lieu de
 déduire de l'évaluation prévue au présent article les proratas d'intérêt courus depuis la dernière échéance jusqu'à la date
@@ -36390,7 +36925,7 @@ de l'inventaire.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -36407,19 +36942,15 @@ a) Pour les instruments financiers à terme échangés sur des marchés reconnus
 
 b) Pour les instruments échangés de gré à gré, le coût de remplacement, évalué par au moins deux organismes n'appartenant pas
 à un même groupe au sens de l'article R. 332-13. Un des organismes peut être l'entreprise d'assurance elle-même, sauf
-opposition de la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance. Les organismes
-habilités à cette évaluation sont les établissements de crédit, les entreprises d'investissement ou, sur accord de la
-Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, des organismes spécialisés.
+opposition de l'Autorité de contrôle des assurances et des mutuelles. Les organismes habilités à cette évaluation sont les
+établissements de crédit, les entreprises d'investissement ou, sur accord de l'Autorité de contrôle des assurances et des
+mutuelles, des organismes spécialisés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -36435,6 +36966,10 @@ Commission de contrôle des assurances, des mutuelles et des institutions de pr�
 	  - Code des assurances - art. R332-23 (VT)
 	  - Code des assurances - art. R332-63 (M)
 	  - Code des assurances - art. R342-3 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -36503,19 +37038,18 @@ passif.
 
 ###### Article R332-23
 
-La commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut requérir la fixation par une
-expertise de la valeur de tout ou partie de l'actif des entreprises et notamment des immeubles et des parts et actions de
-sociétés immobilières leur appartenant ou sur lesquels elles ont consenti un prêt ou une ouverture de crédit hypothécaire,
-ainsi que des instruments financiers à terme utilisés par les entreprises.
+L'Autorité de contrôle des assurances et des mutuelles peut requérir la fixation par une expertise de la valeur de tout ou
+partie de l'actif des entreprises et notamment des immeubles et des parts et actions de sociétés immobilières leur
+appartenant ou sur lesquels elles ont consenti un prêt ou une ouverture de crédit hypothécaire, ainsi que des instruments
+financiers à terme utilisés par les entreprises.
 
-Cette expertise peut être également demandée à la commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance par les entreprises.
+Cette expertise peut être également demandée à l'Autorité de contrôle des assurances et des mutuelles par les entreprises.
 
 La valeur résultant de l'expertise doit figurer dans l'évaluation de la valeur de réalisation des placements prévue aux
 articles R. 332-20-1 et R. 332-20-2. Elle peut également être inscrite à l'actif du bilan dans les limites et les conditions
-fixées dans chaque cas par la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance. Elle
-constitue alors le nouveau prix d'achat mentionné à l'article R. 332-20, la différence entre cette valeur et la valeur
-comptable antérieure étant constatée en compte de résultat.
+fixées dans chaque cas par l'Autorité de contrôle des assurances et des mutuelles. Elle constitue alors le nouveau prix
+d'achat mentionné à l'article R. 332-20, la différence entre cette valeur et la valeur comptable antérieure étant constatée
+en compte de résultat.
 
 Les conditions de l'expertise sont fixées par décret et les frais en sont à la charge des entreprises.
 
@@ -36537,7 +37071,7 @@ Les conditions de l'expertise sont fixées par décret et les frais en sont à l
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -36574,28 +37108,27 @@ aux articles R. 332-25 à R. 332-29.
 
 ###### Article R332-25
 
-La commission de contrôle des assurances, des mutuelles et des institutions de prévoyance notifie à l'entreprise, par lettre
-recommandée, la liste des éléments de l'actif dont la valeur est à expertiser et le nom de l'expert qu'elle a choisi pour
-chacun d'eux.
+L'Autorité de contrôle des assurances et des mutuelles notifie à l'entreprise, par lettre recommandée, la liste des éléments
+de l'actif dont la valeur est à expertiser et le nom de l'expert qu'elle a choisi pour chacun d'eux.
 
-Dans un délai de quinze jours au plus à dater de l'envoi de cette lettre, l'entreprise fait connaître à la commission, par
-lettre recommandée, pour chacun des éléments susmentionnés, si elle accepte l'expert désigné par la commission comme expert
+Dans un délai de quinze jours au plus à dater de l'envoi de cette lettre, l'entreprise fait connaître à l'Autorité, par
+lettre recommandée, pour chacun des éléments susmentionnés, si elle accepte l'expert désigné par l'Autorité comme expert
 unique, dont la conclusion liera les deux parties, ou si elle demande une expertise contradictoire, d'abord par deux experts,
-le premier désigné par la commission, le second désigné par l'entreprise, puis, en cas de désaccord entre ces deux experts,
-par un tiers expert, dont la conclusion liera les deux parties.
+le premier désigné par l'Autorité, le second désigné par l'entreprise, puis, en cas de désaccord entre ces deux experts, par
+un tiers expert, dont la conclusion liera les deux parties.
 
 En cas d'option pour l'expertise contradictoire, l'entreprise indique dans sa réponse le nom, l'adresse et les qualités de
 son expert et joint à cette réponse une lettre de ce dernier acceptant la mission et se déclarant prêt à l'effectuer dans le
 délai ci-après fixé.
 
-Dès qu'elle a reçu la réponse mentionnée aux deux alinéas précédents, la commission invite l'expert unique ou les deux
-experts à procéder à l'expertise. Elle donne communication de cet avis à l'entreprise.
+Dès qu'elle a reçu la réponse mentionnée aux deux alinéas précédents, l'Autorité invite l'expert unique ou les deux experts à
+procéder à l'expertise. Elle donne communication de cet avis à l'entreprise.
 
 L'expert unique ou les deux experts doivent déposer leurs conclusions et les notifier aux deux parties dans un délai maximal
-de trois mois à dater de l'avis de la commission, ci-dessus prévu.
+de trois mois à dater de l'avis de l'Autorité, ci-dessus prévu.
 
 S'il y a désaccord entre les conclusions des deux experts, il est immédiatement procédé à la désignation du tiers expert,
-soit, après accord entre les parties, par la commission, soit, à défaut d'accord entre les parties, dans les quinze jours du
+soit, après accord entre les parties, par l'Autorité, soit, à défaut d'accord entre les parties, dans les quinze jours du
 dépôt des conclusions des deux experts, à la requête de la partie la plus diligente, par le président du tribunal de grande
 instance de la situation du siège social ou du siège spécial pour la France, ou, dans le cas des opérations visées par les
 articles L. 351-5 et L. 353-5, du lieu de situation des actifs immobiliers, statuant en référé sur assignation.
@@ -36610,7 +37143,7 @@ Le tiers expert doit déposer ses conclusions et les notifier aux deux parties d
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -36622,10 +37155,6 @@ Le tiers expert doit déposer ses conclusions et les notifier aux deux parties d
 	  - Code des assurances - art. L351-5 (M)
 	  - Code des assurances - art. L353-5 (M)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*332-23 (M)
-
 
 ###### Article R332-26
 
@@ -36633,11 +37162,10 @@ Si, après avoir été désigné dans les formes ci-dessus prévues, un expert s
 délais fixés, il est immédiatement procédé à une nouvelle désignation dans les mêmes formes, et les délais sont dûment
 prorogés.
 
-Toutefois, si l'expert défaillant est celui de l'entreprise, la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance peut requérir immédiatement du président du tribunal la désignation d'un expert unique, dont les
-conclusions lieront les deux parties. Elle peut formuler la même requête s'il n'a pas été répondu à sa demande d'expertise
-dans le délai prévu par l'article R. 332-25, ou si l'expert de l'entreprise n'a pas déposé son rapport dans le délai fixé par
-le même article.
+Toutefois, si l'expert défaillant est celui de l'entreprise, l'Autorité de contrôle des assurances et des mutuelles peut
+requérir immédiatement du président du tribunal la désignation d'un expert unique, dont les conclusions lieront les deux
+parties. Elle peut formuler la même requête s'il n'a pas été répondu à sa demande d'expertise dans le délai prévu par
+l'article R. 332-25, ou si l'expert de l'entreprise n'a pas déposé son rapport dans le délai fixé par le même article.
 
 **Liens relatifs à cet article**
 
@@ -36647,7 +37175,7 @@ le même article.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -36697,19 +37225,24 @@ d'immeubles, pour la visite des lieux et la connaissance des actes et documents 
 ###### Article R332-29
 
 Le ou les experts adressent à l'entreprise, avec leur rapport, l'état de leurs vacations, frais et honoraires et en remettent
-une copie au ministre de l'économie et des finances. Dans le délai de quinzaine de la réception dudit état par l'entreprise,
-celle-ci doit faire connaître au ministre ou qu'elle a effectué le paiement, ou qu'elle se propose de contester la somme
-réclamée.
+une copie à l'Autorité de contrôle des assurances et des muruelles. Dans le délai de quinzaine de la réception dudit état par
+l'entreprise, celle-ci doit faire connaître à l'Autorité ou qu'elle a effectué le paiement, ou qu'elle se propose de
+contester la somme réclamée.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1941-08-02 art. 6
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
+
+	**Modifié par**:
+
+	  - Décret n°90-982 du 5 novembre 1990 - art. 2 () JORF 6 novembre 1990
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 
 ###### Article R332-30
@@ -36801,8 +37334,8 @@ visée à l'article R. 341-6 du présent code. Le montant des frais d'acquisitio
 entre les montants de provisions mathématiques inscrites au bilan conformément à l'article L. 331-1 et le montant des
 provisions mathématiques qui seraient à inscrire si les chargements d'acquisition n'étaient pas pris en compte dans les
 engagements des assurés. Le montant de cet écart ainsi que le calcul des frais d'acquisition reportés doivent pouvoir être
-justifiés à tout moment auprès de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
-Les frais d'acquisition reportés sont admis en représentation des provisions techniques.
+justifiés à tout moment auprès de l'Autorité de contrôle des assurances et des mutuelles. Les frais d'acquisition reportés
+sont admis en représentation des provisions techniques.
 
 **Liens relatifs à cet article**
 
@@ -36822,7 +37355,7 @@ Les frais d'acquisition reportés sont admis en représentation des provisions t
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -36925,15 +37458,15 @@ dépôts et consignations ou à la Banque de France d'actifs affectés à la rep
 
 1° Des provisions techniques au 31 décembre de l'exercice précédent, telles qu'elles sont prévues aux articles R. 331-3, R.
 331-5 et R. 331-6, à l'exclusion des provisions afférentes aux opérations mentionnées aux 4 à 7, 11 et 12 de l'article R.
-321-1 et aux opérations de réassurance.
+321-1 et aux opérations de réassurance ;
 
-2° D'une majoration forfaitaire égale à 30 p. 100 de l'augmentation, constatée au cours de l'exercice précédent, des
-provisions techniques mentionnées au 1° ci-dessus. Toutefois, la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance peut, sur demande de l'entreprise accompagnée de toutes justifications utiles, accorder dispense
-totale ou partielle de l'obligation de dépôt ou d'inscription en compte afférente à cette majoration.
+2° D'une majoration forfaitaire égale à 30 % de l'augmentation, constatée au cours de l'exercice précédent, des provisions
+techniques mentionnées au 1° ci-dessus. Toutefois, l'Autorité de contrôle des assurances et des mutuelles peut, sur demande
+de l'entreprise accompagnée de toutes justifications utiles, accorder dispense totale ou partielle de l'obligation de dépôt
+ou d'inscription en compte afférente à cette majoration.
 
-Le dépôt ou l'inscription en compte de ces actifs est soumis au visa préalable de la commission de contrôle des assurances,
-des mutuelles et des institutions de prévoyance.
+Le dépôt ou l'inscription en compte de ces actifs est soumis au visa préalable de l'Autorité de contrôle des assurances et
+des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -36943,7 +37476,7 @@ des mutuelles et des institutions de prévoyance.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -36958,10 +37491,6 @@ des mutuelles et des institutions de prévoyance.
 	  - Code des assurances - art. R*331-6 (M)
 	  - Code des assurances - art. R*332-37 (M)
 	  - Code des assurances R332-37, R331-3, R331-5, R331-6, R321-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
 
 
 ###### Article R332-40
@@ -37040,8 +37569,8 @@ provisions.
 
 Les titres faisant l'objet d'un retrait ou d'un virement sont estimés au dernier cours coté précédant le jour de l'opération.
 
-Tout retrait ou virement d'actifs ne peut être effectué que sur visa préalable de la commission de contrôle des assurances,
-des mutuelles et des institutions de prévoyance.
+Tout retrait ou virement d'actifs ne peut être effectué que sur visa préalable de l'Autorité de contrôle des assurances et
+des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -37051,20 +37580,20 @@ des mutuelles et des institutions de prévoyance.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - Code des assurances - art. R332-37 (VT)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
-
 	**Cite**:
 
 	  - Code des assurances - art. R*332-38 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
 
 
 ###### Article R332-43
@@ -37098,8 +37627,8 @@ Il en est de même, en cas de remboursement des titres avec primes ou à lots, d
 
 ###### Article R332-44
 
-Le transfert à l'étranger d'éléments d'actifs détenus par une entreprise est soumis à autorisation préalable de la commission
-de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+Le transfert à l'étranger d'éléments d'actifs détenus par une entreprise est soumis à autorisation préalable de l'Autorité de
+contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -37109,7 +37638,7 @@ de contrôle des assurances, des mutuelles et des institutions de prévoyance.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Liens**:
 
@@ -37249,9 +37778,8 @@ l'entreprise.
 
 ###### Article R332-48
 
-Sauf dérogation expresse de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, une
-entreprise d'assurance ne peut utiliser d'instrument financier à terme que dans les cas prévus par les articles R. 332-45, R.
-332-46 et R. 332-47.
+Sauf dérogation expresse de l'Autorité de contrôle des assurances et des mutuelles, une entreprise d'assurance ne peut
+utiliser d'instrument financier à terme que dans les cas prévus par les articles R. 332-45, R. 332-46 et R. 332-47.
 
 Toute opération financière à terme ne respectant plus les conditions fixées à ces articles doit être dénouée dans un délai de
 trois mois, et fait l'objet d'une analyse détaillée dans le rapport prévu à l'article R. 322-2-4.
@@ -37264,7 +37792,7 @@ trois mois, et fait l'objet d'une analyse détaillée dans le rapport prévu à 
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -37332,10 +37860,10 @@ fixées par règlement du Comité de la réglementation comptable.
 
 ###### Article R332-51
 
-Sauf dérogation accordée au cas par cas par la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance, notamment au regard d'une modification globale des conditions de marché, la somme des valeurs de réalisation
-positives de l'ensemble des instruments financiers à terme conclus de gré à gré avec l'ensemble des contreparties ne peut
-excéder 10 % de la base de dispersion définie au premier alinéa de l'article R. 332-3.
+Sauf dérogation accordée au cas par cas par l'Autorité de contrôle des assurances et des mutuelles, notamment au regard d'une
+modification globale des conditions de marché, la somme des valeurs de réalisation positives de l'ensemble des instruments
+financiers à terme conclus de gré à gré avec l'ensemble des contreparties ne peut excéder 10 % de la base de dispersion
+définie au premier alinéa de l'article R. 332-3.
 
 Les valeurs de réalisation positives peuvent être compensées avec des valeurs de réalisation négatives vis-à-vis d'une même
 contrepartie s'il existe entre les parties à l'opération une convention de compensation bilatérale conforme à l'article R.
@@ -37349,7 +37877,7 @@ contrepartie s'il existe entre les parties à l'opération une convention de com
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -37363,10 +37891,10 @@ contrepartie s'il existe entre les parties à l'opération une convention de com
 
 ###### Article R332-52
 
-Sauf dérogation accordée au cas par cas par la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance, le montant des liquidités à recevoir qui proviennent d'actifs mentionnés aux 1°, 2°, 2° bis et 2° ter du A de
-l'article R. 332-2 et qui font l'objet d'opérations d'anticipation de placement dans des titres de mêmes nature ne peut
-excéder 20 % de la base de dispersion définie au premier alinéa de l'article R. 332-3.
+Sauf dérogation accordée au cas par cas par l'Autorité de contrôle des assurances et des mutuelles, le montant des liquidités
+à recevoir qui proviennent d'actifs mentionnés aux 1°, 2°, 2° bis et 2° ter du A de l'article R. 332-2 et qui font l'objet
+d'opérations d'anticipation de placement dans des titres de même nature ne peut excéder 20 % de la base de dispersion définie
+au premier alinéa de l'article R. 332-3.
 
 Dans les cas autres que prévus au premier alinéa, le montant des liquidités à recevoir faisant l'objet d'opérations
 d'anticipation de placement ne peut excéder 5 % de la base de dispersion.
@@ -37382,7 +37910,7 @@ ou ultérieurement, les limitations du présent article ne s'appliquent pas.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -37406,8 +37934,8 @@ b) Des organismes mentionnés à l'article L. 518-1 du code monétaire et financ
 c) Des établissements de crédit ou entreprises d'investissement de pays tiers assujettis à des règles prudentielles
 considérées comme équivalentes par la Commission bancaire ;
 
-d) D'entreprises d'assurance, de réassurance ou d'autres organismes, sur accord de la Commission de contrôle des assurances,
-des mutuelles et des institutions de prévoyance.
+d) D'entreprises d'assurance, de réassurance ou d'autres organismes, sur accord de l'Autorité de contrôle des assurances et
+des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -37417,7 +37945,7 @@ des mutuelles et des institutions de prévoyance.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -37532,8 +38060,8 @@ La liste des conventions-cadres qui remplissent ces conditions est déterminée 
 
 ###### Article R332-57
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut, pour apprécier les limites
-fixées à la présente section, prendre en compte les instruments financiers utilisés par les organismes :
+L'Autorité de contrôle des assurances et des mutuelles peut, pour apprécier les limites fixées à la présente section, prendre
+en compte les instruments financiers utilisés par les organismes :
 
 a) Dans lesquels, d'une part, l'entreprise a investi un montant supérieur à 0,5 % de la base de dispersion définie au premier
 alinéa de l'article R. 332-3 et dans lesquels, d'autre part, le groupe auquel appartient l'entreprise d'assurance dispose de
@@ -37553,7 +38081,7 @@ l'assureur n'assume pas le risque de placement.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -37765,6 +38293,40 @@ République française.
 	  - Code des assurances - art. R334-4 (M)
 
 
+###### Article R334-1-1
+
+Les montants en euros mentionnés aux articles R. 334-5, R. 334-7, R. 334-9, R. 334-15 et R. 334-16 sont révisés annuellement
+en fonction de l'évolution de l'indice européen des prix à la consommation publié par Eurostat pour l'ensemble des Etats
+membres.
+
+Chaque année, l'Autorité de contrôle des assurances et des mutuelles communique les nouveaux montants en euros calculés en
+fonction de l'évolution de cet indice et arrondis au multiple de 100 000 euros supérieur.
+
+Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %, ces montants ne sont pas révisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 19 () JORF 24 décembre 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. R*334-15 (M)
+	  - Code des assurances - art. R*334-16 (M)
+	  - Code des assurances - art. R*334-5 (M)
+	  - Code des assurances - art. R*334-7 (M)
+	  - Code des assurances - art. R*334-9 (M)
+
+
 ##### Section II : La marge de solvabilité des entreprises d'assurance de dommages
 
 ##### Paragraphe 1 : Constitution de la marge de solvabilité.
@@ -37803,9 +38365,8 @@ qui sont considérés comme des fonds propres pour le calcul des exigences de fo
 établissements mentionnés ci-dessus.
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
-détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de cette entité, la Commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance peut autoriser l'entreprise d'assurance à ne pas effectuer les
-déductions prévues aux a et b.
+détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de contrôle des
+assurances et des mutuelles peut autoriser l'entreprise d'assurance à ne pas effectuer les déductions prévues aux a et b.
 
 II. - La marge de solvabilité peut également être constituée par :
 
@@ -37818,13 +38379,13 @@ remboursements, qui sont fixées par arrêté du ministre chargé de l'économie
 hauteur de 50 % de l'exigence de marge de solvabilité ou de la marge de solvabilité disponible, le montant le plus faible
 étant retenu. Toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée
 n'est admise qu'à concurrence de 25 %. Tout remboursement effectué irrégulièrement peut, conformément aux dispositions de
-l'article L. 310-18, donner lieu à application de sanctions par la commission de contrôle ;
+l'article L. 310-18, donner lieu à application de sanctions par l'Autorité de contrôle ;
 
 2. Pour les entreprises adhérentes au fonds de garantie institué par l'article L. 423-1, la réserve pour fonds de garantie
 prévue à l'article R. 423-16, à hauteur de la part de cotisation versée par l'entreprise et non utilisée par le fonds.
 
-III. - Sur demande et justification de l'entreprise et avec l'accord de la commission de contrôle, la marge de solvabilité
-peut également être constituée par :
+III. - Sur demande et justification de l'entreprise et avec l'accord de l'Autorité de contrôle, la marge de solvabilité peut
+également être constituée par :
 
 1. La moitié de la fraction non versée du capital social ou de la part restant à rembourser de l'emprunt pour le fonds
 d'établissement, dès que la partie versée atteint 25 % de ce capital ou de ce fonds, à concurrence de 50 % du montant le plus
@@ -37853,7 +38414,7 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 	**Modifié par**:
 
-	  - Décret n°2005-1185 2005-09-19 art. 5 1° JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -37882,11 +38443,8 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 	  - Code de commerce. - art. L228-11 (M)
 	  - Code des assurances - art. L310-18 (M)
-	  - Code des assurances - art. L334-1 (M)
-	  - Code des assurances - art. L334-2 (M)
 	  - Code des assurances - art. L334-3 (M)
 	  - Code des assurances - art. L334-4 (V)
-	  - Code des assurances - art. L423-1 (V)
 	  - Code des assurances - art. R*332-2 (M)
 	  - Code des assurances - art. R*332-45 (T)
 	  - Code des assurances - art. R332-46 (M)
@@ -38151,10 +38709,19 @@ b) Elles ne garantissent pas les risques de responsabilité civile, sauf si ces 
 dans les conditions prévues par l'article R. 321-3, ni les risques entrant dans les branches mentionnées aux 14 et 15 de
 l'article R. 321-1 ;
 
-c) Le montant annuel de leurs cotisations émises, accessoires compris et annulations déduites, ne dépasse pas 1 million
-d'unités de compte de la Communauté économique européenne ;
+c) Le montant annuel de leurs cotisations émises, accessoires compris et annulations déduites, ne dépasse pas 5 800 000 euros
+(1) ;
 
 d) La moitié au moins de leurs cotisations sont versées par des personnes physiques.
+
+Toutefois, après notification à l'Autorité de contrôle et avec son accord, ces sociétés d'assurance mutuelle ne bénéficient
+plus des dispositions dérogatoires du présent article dès lors qu'elles satisfont aux dispositions des articles R. 334-3, R.
+334-5 et R. 334-7.
+
+**Nota:**
+
+(1) Ces montants, applicables au 1er janvier 2010, ont été modifiés conformément à l'avis pris par l'Autorité de contrôle des
+assurances et des mutuelles paru au Journal officiel du 17 décembre 2009 (ACAX0900069V).
 
 **Liens relatifs à cet article**
 
@@ -38162,26 +38729,28 @@ d) La moitié au moins de leurs cotisations sont versées par des personnes phys
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-	  - SPEC_APPLI: Code des assurances - art. R334-7 (M)
-	  - SPEC_APPLI: Code des assurances - art. R334-7-1 (Ab)
-
 	**Modifié par**:
 
-	  - Décret n°91-603 du 27 juin 1991 - art. 29 () JORF 28 juin 1991
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 10 () JORF 24 décembre 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
 	  - Code des assurances - art. R*321-3 (M)
+	  - Code des assurances - art. R*334-3 (M)
+	  - Code des assurances - art. R*334-5 (M)
 	  - Code des assurances - art. R*334-7 (M)
-	  - Code des assurances R321-1, R321-3, R334-7
+	  - Code des assurances R334-7, R321-3, R321-1, R334-3, R334-5
 
 	**Cité par**:
 
 	  - Code des assurances - art. R334-1-1 (V)
 	  - Code des assurances - art. R335-2 (VD)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des assurances - art. R334-7 (M)
+	  - SPEC_APPLI: Code des assurances - art. R334-7-1 (Ab)
 
 
 ###### Article R334-10
@@ -38226,7 +38795,7 @@ Le cautionnement initial déposé conformément à l'article R. 321-12 s'impute 
 
 ##### Paragraphe 1 : Constitution de la marge de solvabilité.
 
-###### Article R334-11
+###### Article R*334-11
 
 I. - La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, après déduction des pertes, de la part des frais
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
@@ -38256,9 +38825,8 @@ qui sont considérés comme des fonds propres pour le calcul des exigences de fo
 établissements mentionnés ci-dessus.
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
-détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de cette entité, la Commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance peut autoriser l'entreprise d'assurance à ne pas effectuer les
-déductions prévues aux a et b.
+détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de contrôle des
+assurances et des mutuelles peut autoriser l'entreprise d'assurance à ne pas effectuer les déductions prévues aux a et b.
 
 II. - La marge de solvabilité peut également être constituée par :
 
@@ -38269,13 +38837,13 @@ remboursements, qui sont fixées par arrêté du ministre chargé de l'économie
 jusqu'à concurrence de 50 % du montant le plus faible de l'exigence de marge de solvabilité ou de la marge de solvabilité.
 Toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise qu'à
 concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement peut, conformément aux dispositions de
-l'article L. 310-18, donner lieu à application de sanctions par la commission de contrôle.
+l'article L. 310-18, donner lieu à application de sanctions par l'Autorité de contrôle.
 
 2. La réserve pour fonds de garantie prévue à l'article R. 423-16, à hauteur de la part de cotisation versée par l'entreprise
 et non utilisée par le fonds.
 
-III. - Sur demande et justification de l'entreprise et avec l'accord de la commission de contrôle, la marge de solvabilité
-peut également être constituée par :
+III. - Sur demande et justification de l'entreprise et avec l'accord de l'Autorité de contrôle, la marge de solvabilité peut
+également être constituée par :
 
 1. La moitié de la fraction non versée du capital ou de la part restant à rembourser de l'emprunt pour fonds d'établissement,
 dès que la partie versée atteint 25 % de ce capital ou de ce fonds, à concurrence de 50 % du montant le plus faible de la
@@ -38334,7 +38902,7 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 	**Modifié par**:
 
-	  - Décret n°2005-1185 2005-09-19 art. 5 3° JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -38816,8 +39384,8 @@ Pour les entreprises mentionnées au 4° de l'article L. 310-2, le cautionnement
 
 Une entreprise visée au 4° de l'article L. 310-2, agréée ou demandant l'agrément pour pratiquer les opérations mentionnées
 aux 1 à 18 et 20 à 26 de l'article R. 321-1 en France et dans un ou plusieurs autres Etats membres peut demander, en motivant
-son choix, à la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance de faire l'objet en
-France de la vérification de solvabilité globale.
+son choix, à l'Autorité de contrôle des assurances et des mutuelles de faire l'objet en France de la vérification de
+solvabilité globale.
 
 L'entreprise doit justifier qu'elle informe de cette demande les autorités de contrôle des autres Etats membres dans lesquels
 elle est agréée ou demande l'agrément pour pratiquer ces opérations. Elle ne peut faire l'objet en France de la vérification
@@ -38841,9 +39409,8 @@ R. 321-1 ;
 - à 200 000 unités de compte de la Communauté économique européenne pour pratiquer les opérations mentionnées aux 20 à 26 de
 l'article R. 321-1.
 
-Ces mesures prennent effet à la date à laquelle la commission de contrôle des assurances, des mutuelles et des institutions
-de prévoyance s'engage vis-à-vis des autorités de contrôle des autres Etats membres à exercer la vérification de solvabilité
-globale.
+Ces mesures prennent effet à la date à laquelle l'Autorité de contrôle des assurances et des mutuelles s'engage vis-à-vis des
+autorités de contrôle des autres Etats membres à exercer la vérification de solvabilité globale.
 
 La vérification de solvabilité globale prend en compte les informations reçues des autorités de contrôle des autres Etats
 intéressés, membres de l'Espace économique européen.
@@ -38856,7 +39423,7 @@ intéressés, membres de l'Espace économique européen.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -38882,19 +39449,18 @@ intéressés, membres de l'Espace économique européen.
 
 ###### Article R334-23
 
-Une entreprise mentionnée à l'article précédent peut également demander, en motivant son choix, à la commission de contrôle
-des assurances, des mutuelles et des institutions de prévoyance de faire l'objet dans un autre Etat membre de la vérification
-de solvabilité globale.
+Une entreprise mentionnée à l'article précédent peut également demander, en motivant son choix, à l'Autorité de contrôle des
+assurances et des mutuelles de faire l'objet dans un autre Etat membre de la vérification de solvabilité globale.
 
-Si cette demande est acceptée, elle prend effet à la date à laquelle la commission de contrôle des assurances, des mutuelles
-et des institutions de prévoyance reçoit notification de l'engagement souscrit par l'autorité de contrôle d'un autre Etat
-membre d'assurer la vérification de solvabilité globale.
+Si cette demande est acceptée, elle prend effet à la date à laquelle l'Autorité de contrôle des assurances et des mutuelles
+reçoit notification de l'engagement souscrit par l'autorité de contrôle d'un autre Etat membre d'assurer la vérification de
+solvabilité globale.
 
 L'entreprise est alors dispensée de l'obligation de déposer en France le cautionnement prévu par l'article R. 321-12.
 
 Lorsque la vérification de solvabilité globale est exercée par l'autorité de contrôle d'un autre Etat membre de l'Espace
-économique européen, la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance lui adresse
-toutes informations utiles concernant l'activité de la succursale française de l'entreprise.
+économique européen, l'Autorité de contrôle des assurances et des mutuelles lui adresse toutes informations utiles concernant
+l'activité de la succursale française de l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -38904,7 +39470,7 @@ toutes informations utiles concernant l'activité de la succursale française de
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -38922,8 +39488,8 @@ toutes informations utiles concernant l'activité de la succursale française de
 
 ###### Article R334-24
 
-L'accord donné par la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance en vertu de
-l'article R. 334-22 ou de l'article R. 334-23 peut être retiré.
+L'accord donné par l'Autorité de contrôle des assurances et des mutuelles en vertu de l'article R. 334-22 ou de l'article R.
+334-23 peut être retiré.
 
 Lorsque l'autorité de contrôle d'un autre Etat membre de l'Espace économique européen retire un accord précédemment donné
 pour la vérification de la solvabilité globale, l'entreprise perd le bénéfice des dispositions de l'article R. 334-22 ou de
@@ -38937,7 +39503,7 @@ l'article R. 334-23.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -38956,19 +39522,19 @@ l'article R. 334-23.
 Les entreprises françaises agréées à la date du 23 juillet 1976 pour pratiquer une ou plusieurs des branches mentionnées aux
 1 à 17 de l'article R. 321-1, et dont au 31 juillet 1978 le montant annuel des primes ou cotisations émises, accessoires
 compris et annulations déduites, n'atteint pas le sextuple du montant minimal du fonds de garantie, peuvent être dispensées
-par la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance de toute obligation concernant
-le montant du fonds de garantie, jusqu'à la clôture de l'exercice au cours duquel le total annuel des primes ou cotisations
-définies comme il est dit ci-dessus dépasse le sextuple du montant minimal du fonds de garantie.
+par l'Autorité de contrôle des assurances et des mutuelles de toute obligation concernant le montant du fonds de garantie,
+jusqu'à la clôture de l'exercice au cours duquel le total annuel des primes ou cotisations définies comme il est dit ci-
+dessus dépasse le sextuple du montant minimal du fonds de garantie.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances R321-1
+	  - Code des assurances - art. R321-1 (V)
 
 
 ###### Article R334-31
@@ -38999,21 +39565,21 @@ solvabilité est au moins égale au montant réglementaire.
 Les entreprises mentionnées à l'article R. 310-10-1, agréées à la date du 4 juillet 1993 pour pratiquer sur le territoire de
 la République française une ou plusieurs des branches mentionnées à l'article R. 321-1, et qui satisfont aux dispositions
 réglementaires permanentes relatives aux provisions techniques, à la marge de solvabilité et au fonds de garantie ainsi que
-les entreprises visées au 1° de l'article L. 310-10-1, qui satisfont aux mêmes dispositions, peuvent obtenir de la commission
-de contrôle des assurances, des mutuelles et des institutions de prévoyance la suppression des mesures restrictives, telles
-qu'hypothèques, dépôts ou cautionnements, qui leur avaient été imposées en vertu de la réglementation qui leur était
-précédemment applicable.
+les entreprises visées au 1° de l'article L. 310-10-1, qui satisfont aux mêmes dispositions, peuvent obtenir de l'Autorité de
+contrôle des assurances et des mutuelles la suppression des mesures restrictives, telles qu'hypothèques, dépôts ou
+cautionnements, qui leur avaient été imposées en vertu de la réglementation qui leur était précédemment applicable.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-10-1 (M)
-	  - Code des assurances L310-10-1, R310-10-1, R321-1
+	  - Code des assurances - art. L310-10-1 (V)
+	  - Code des assurances - art. R310-10-1 (V)
+	  - Code des assurances - art. R321-1 (V)
 
 
 ###### Article R334-38
@@ -39132,7 +39698,7 @@ dispositions de l'article L. 345-2. Toutefois, lorsque ces entreprises sont des 
 de crédit, d'une entreprise d'investissement ou d'un établissement financier, elles peuvent, alternativement, présenter une
 solvabilité ajustée positive selon les modalités précisées aux articles R. 334-49 et R. 334-50.
 
-Toutefois, la commission de contrôle des assurances peut dispenser du calcul de la solvabilité ajustée une entreprise
+Toutefois, l'Autorité de contrôle des assurances peut dispenser du calcul de la solvabilité ajustée une entreprise
 d'assurance :
 
 1. S'il s'agit d'une entreprise apparentée à une autre entreprise d'assurance participante agréée en France, à une union de
@@ -39144,29 +39710,29 @@ groupement paritaire de prévoyance ou à une entreprise de réassurance qui a s
 d'assurance, union de groupe mutualiste, groupement paritaire de prévoyance ou entreprise de réassurance et cette entreprise
 d'assurance apparentée sont prises en compte dans le calcul effectué pour une autre entreprise apparentée.
 
-La commission de contrôle des assurances peut également dispenser du calcul de la solvabilité ajustée une entreprise
-d'assurance s'il s'agit d'une entreprise d'assurance apparentée soit à une entreprise d'assurance, soit à une entreprise de
-réassurance, soit à une société de groupe d'assurance qui ont leur siège social dans un Etat membre de la Communauté
-européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen lorsque ladite commission a conclu un
-accord avec l'autorité compétente de cet Etat pour lui attribuer l'exercice de la surveillance complémentaire.
+L'Autorité de contrôle des assurances peut également dispenser du calcul de la solvabilité ajustée une entreprise d'assurance
+s'il s'agit d'une entreprise d'assurance apparentée soit à une entreprise d'assurance, soit à une entreprise de réassurance,
+soit à une société de groupe d'assurance qui ont leur siège social dans un Etat membre de la Communauté européenne ou dans un
+autre Etat partie à l'accord sur l'Espace économique européen lorsque ladite Autorité a conclu un accord avec l'autorité
+compétente de cet Etat pour lui attribuer l'exercice de la surveillance complémentaire.
 
-Dans tous ces cas de dispense du calcul de la solvabilité ajustée, la commission de contrôle s'assure au préalable que les
+Dans tous ces cas de dispense du calcul de la solvabilité ajustée, l'Autorité de contrôle s'assure au préalable que les
 éléments admissibles pour la marge de solvabilité des entreprises d'assurance prises en compte dans le calcul sont répartis
 de manière adéquate entre ces entreprises.
 
-Lorsqu'elle vérifie le calcul de la solvabilité ajustée d'une entreprise d'assurance, la commission de contrôle des
-assurances peut prendre en compte l'évaluation par une autre autorité compétente de la situation de solvabilité d'une
-entreprise apparentée dont le siège est situé dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur
-l'Espace économique européen.
+Lorsqu'elle vérifie le calcul de la solvabilité ajustée d'une entreprise d'assurance, l'Autorité de contrôle des assurances
+peut prendre en compte l'évaluation par une autre autorité compétente de la situation de solvabilité d'une entreprise
+apparentée dont le siège est situé dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
+économique européen.
 
-En cas de solvabilité ajustée négative, la commission de contrôle des assurances exige de l'entreprise d'assurance concernée
+En cas de solvabilité ajustée négative, l'Autorité de contrôle des assurances exige de l'entreprise d'assurance concernée
 qu'elle prenne les mesures nécessaires au rétablissement d'une solvabilité ajustée positive.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-1185 2005-09-19 art. 5 6° 7° JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -39220,7 +39786,7 @@ une entreprise d'assurance agréée en France ;
 4. Pour une entreprise d'assurance participante dont les participations sont détenues au travers d'une société de groupe
 d'assurance, l'exigence de solvabilité de cette dernière est égale à zéro.
 
-La commission de contrôle des assurances peut prendre en compte les exigences de solvabilité et les éléments admissibles pour
+L'Autorité de contrôle des assurances peut prendre en compte les exigences de solvabilité et les éléments admissibles pour
 satisfaire ces exigences, retenus par les autorités d'un Etat non membre de la Communauté européenne ou qui n'est pas partie
 au traité sur l'Espace économique européen dans lequel une entreprise apparentée d'assurance ou de réassurance a son siège et
 dont les exigences sont considérées comme équivalentes.
@@ -39231,14 +39797,14 @@ retraitements nécessaires pour assurer la comparabilité de cette marge avec ce
 normes.
 
 Un arrêté du ministre chargé de l'économie fixe la liste de ces retraitements et précise les cas et conditions dans lesquels
-la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut dispenser une entreprise
-d'effectuer un ou plusieurs de ces retraitements.
+l'Autorité de contrôle des assurances et des mutuelles peut dispenser une entreprise d'effectuer un ou plusieurs de ces
+retraitements.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-1185 2005-09-19 art. 5 6° 8° JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -39271,8 +39837,8 @@ d'effectuer un ou plusieurs de ces retraitements.
 ###### Article R334-43
 
 Lorsque la méthode décrite à l'article R. 334-42 ne permet pas d'obtenir un résultat satisfaisant en raison des structures du
-groupe concerné, la commission de contrôle des assurances est autorisée à appliquer, à titre exceptionnel et dérogatoire,
-l'une des deux méthodes suivantes :
+groupe concerné, l'Autorité de contrôle des assurances est autorisée à appliquer, à titre exceptionnel et dérogatoire, l'une
+des deux méthodes suivantes :
 
 1. Méthode n° 1 : déduction et agrégation : La solvabilité ajustée de l'entreprise d'assurance participante est la différence
 entre :
@@ -39295,7 +39861,7 @@ de solvabilité de l'entreprise d'assurance apparentée.
 Lorsque l'entreprise apparentée est une entreprise filiale et qu'elle présente un déficit de solvabilité, ce déficit de
 solvabilité doit être pris en compte en totalité dans le calcul de la solvabilité ajustée de l'entreprise mère. Toutefois,
 dans le cas où la responsabilité de l'entreprise mère détenant une part de capital est limitée, strictement et sans
-ambiguïté, à cette part de capital, la commission de contrôle des assurances peut décider d'admettre que le déficit de
+ambiguïté, à cette part de capital, l'Autorité de contrôle des assurances peut décider d'admettre que le déficit de
 l'entreprise filiale est pris en compte sur une base proportionnelle.
 
 Pour le calcul de la solvabilité ajustée en application de ces deux méthodes, les opérations intragroupe sont éliminées d'une
@@ -39305,15 +39871,14 @@ instruments détenus sur des établissements de crédit, des entreprises d'inves
 mentionnés au I de l'article R. 334-3.
 
 Lorsque l'entreprise est une entreprise participante d'un établissement de crédit, d'une entreprise d'investissement ou d'un
-établissement financier, la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est
-également autorisée à appliquer, alternativement à ces deux méthodes, les méthodes définies aux articles R. 334-49 et R.
-334-50.
+établissement financier, l'Autorité de contrôle des assurances et des mutuelles est également autorisée à appliquer,
+alternativement à ces deux méthodes, les méthodes définies aux articles R. 334-49 et R. 334-50.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-1185 2005-09-19 art. 5 6° 9° JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -39331,36 +39896,35 @@ Lorsque l'entreprise est une entreprise participante d'un établissement de cré
 ###### Article R334-44
 
 Les entreprises d'assurance agréées en France et soumises au contrôle de l'Etat en application de l'article L. 310-1 dont
-l'entreprise mère est une société de groupe d'assurance, une compagnie financière holding mixte dont le coordonnateur est la
-Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, une entreprise soumise au contrôle de
-l'Etat en application de l'article L. 310-1-1 ou une entreprise d'assurance ou de réassurance dont le siège social est situé
-hors d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen doivent justifier
-d'une solvabilité ajustée positive selon les modalités définies aux articles R. 334-41 à R. 334-43. Dans ce but, elles
-procèdent à un calcul de la solvabilité de leur entreprise mère dans les mêmes conditions que celles permettant de déterminer
-la marge de solvabilité d'une entreprise d'assurance participante agréée en France et pratiquant les mêmes opérations.
+l'entreprise mère est une société de groupe d'assurance, une compagnie financière holding mixte dont le coordonnateur est
+l'Autorité de contrôle des assurances et des mutuelles, une entreprise soumise au contrôle de l'Etat en application de
+l'article L. 310-1-1 ou une entreprise d'assurance ou de réassurance dont le siège social est situé hors d'un Etat membre de
+la Communauté européenne ou partie à l'accord sur l'Espace économique européen doivent justifier d'une solvabilité ajustée
+positive selon les modalités définies aux articles R. 334-41 à R. 334-43. Dans ce but, elles procèdent à un calcul de la
+solvabilité de leur entreprise mère dans les mêmes conditions que celles permettant de déterminer la marge de solvabilité
+d'une entreprise d'assurance participante agréée en France et pratiquant les mêmes opérations.
 
-La commission de contrôle des assurances peut dispenser du calcul de la solvabilité ajustée une entreprise d'assurance s'il
+L'Autorité de contrôle des assurances peut dispenser du calcul de la solvabilité ajustée une entreprise d'assurance s'il
 s'agit :
 
 1. D'une entreprise apparentée à une autre entreprise d'assurance et si cette entreprise apparentée est déjà prise en compte
 dans le calcul effectué pour cette autre entreprise d'assurance ;
 
 2. D'une entreprise dont l'entreprise mère est une société de groupe d'assurance, compagnie financière holding mixte dont le
-coordonnateur est la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, entreprise
-d'assurance ou de réassurance dont le siège social est situé hors d'un Etat membre de la Communauté européenne ou partie à
-l'accord sur l'Espace économique européen et est, à la fois, commune avec une ou plusieurs autres entreprises d'assurance
-agréées en France et déjà prise en compte dans le calcul effectué pour l'une de ces autres entreprises d'assurance ;
+coordonnateur est l'Autorité de contrôle des assurances et des mutuelles, entreprise d'assurance ou de réassurance dont le
+siège social est situé hors d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen et est, à la fois, commune avec une ou plusieurs autres entreprises d'assurance agréées en France et déjà prise en
+compte dans le calcul effectué pour l'une de ces autres entreprises d'assurance ;
 
 3. D'une entreprise dont l'entreprise mère est une société de groupe d'assurance, compagnie financière holding mixte dont le
-coordonnateur est la Commision de contrôle des assurances, des mutuelles et des institutions de prévoyance, entreprise
-d'assurance ou de réassurance dont le siège social est situé dans un Etat membre de la Communauté européenne ou partie à
-l'accord sur l'Espace économique européen et est commune avec une ou plusieurs autres entreprises d'assurance agréées dans
-d'autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen dès lors que la
-commission de contrôle des assurances a conclu un accord avec une autorité compétente d'un Etat membre de la Communauté
-européenne ou partie à l'accord sur l'Espace économique européen pour attribuer à cette autorité l'exercice de la
-surveillance complémentaire.
+coordonnateur est l'Autorité de contrôle des assurances et des mutuelles, entreprise d'assurance ou de réassurance dont le
+siège social est situé dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen
+et est commune avec une ou plusieurs autres entreprises d'assurance agréées dans d'autres Etats membres de la Communauté
+européenne ou parties à l'accord sur l'Espace économique européen dès lors que l'Autorité de contrôle des assurances a conclu
+un accord avec une autorité compétente d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
+économique européen pour attribuer à cette autorité l'exercice de la surveillance complémentaire.
 
-Si la commission de contrôle des assurances estime, à partir de ce calcul de solvabilité ajustée, que la solvabilité de
+Si l'Autorité de contrôle des assurances estime, à partir de ce calcul de solvabilité ajustée, que la solvabilité de
 l'entreprise d'assurance concernée est compromise ou susceptible de l'être, elle exige de celle-ci qu'elle prenne les mesures
 nécessaires au rétablissement ou au maintien de sa solvabilité.
 
@@ -39368,7 +39932,7 @@ nécessaires au rétablissement ou au maintien de sa solvabilité.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1185 2005-09-19 art. 5 6° 10° JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -39387,23 +39951,23 @@ nécessaires au rétablissement ou au maintien de sa solvabilité.
 
 Les opérations qu'une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1 et ayant son siège social
 en France effectue avec ses entreprises apparentées, ou avec une personne physique possédant une participation dans l'une de
-ces entreprises, sont soumises au contrôle de la commission de contrôle des assurances, notamment celles qui portent sur les
-prêts, les garanties et les opérations hors bilan, les éléments admissibles pour la marge de solvabilité, les
+ces entreprises, sont soumises au contrôle de l'Autorité de contrôle des assurances et des mutuelles, notamment celles qui
+portent sur les prêts, les garanties et les opérations hors bilan, les éléments admissibles pour la marge de solvabilité, les
 investissements, les opérations de réassurance et les accords de répartition des coûts. L'entreprise déclare au moins une
 fois par an à cette commission les opérations importantes mentionnées ci-dessus. L'entreprise se dote en outre de procédures
 de gestion des risques et de dispositifs de contrôle interne visant à identifier, mesurer, encadrer et contrôler ces
 opérations. Un arrêté du ministre chargé de l'économie précise les conditions dans lesquelles ces opérations doivent être
 déclarées.
 
-Si la commission de contrôle des assurances estime, à partir de l'examen de ces déclarations, que la solvabilité de
-l'entreprise d'assurance est compromise ou susceptible de l'être, elle exige de cette entreprise qu'elle prenne les mesures
-nécessaires au rétablissement ou au maintien de sa solvabilité.
+Si l'Autorité de contrôle des assurances et des mutuelles estime, à partir de l'examen de ces déclarations, que la
+solvabilité de l'entreprise d'assurance est compromise ou susceptible de l'être, elle exige de cette entreprise qu'elle
+prenne les mesures nécessaires au rétablissement ou au maintien de sa solvabilité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-1185 2005-09-19 art. 5 6° 11° JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -39421,58 +39985,65 @@ nécessaires au rétablissement ou au maintien de sa solvabilité.
 ###### Article R334-46
 
 Lorsqu'une société acquiert, lors de sa création ou à l'occasion d'une acquisition, la qualité de société de groupe
-d'assurance et que la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est responsable
-de la surveillance prudentielle du groupe d'assurance concerné, cette société de groupe d'assurance est tenue de transmettre
-au Comité des entreprises d'assurance, dans un délai d'un mois, l'ensemble des informations nécessaires à l'appréciation de
-l'honorabilité, la compétence et l'expérience de ses dirigeants. La liste de ces informations est fixée par arrêté du
-ministre chargé de l'économie.
+d'assurance et que l'Autorité de contrôle des assurances et des mutuelles est responsable de la surveillance prudentielle du
+groupe d'assurance concerné, cette société de groupe d'assurance est tenue de transmettre au Comité des entreprises
+d'assurance, dans un délai d'un mois, l'ensemble des informations nécessaires à l'appréciation de l'honorabilité, la
+compétence et l'expérience de ses dirigeants. La liste de ces informations est fixée par arrêté du ministre chargé de
+l'économie.
 
-Le Comité des entreprises d'assurance transmet ces informations à la Commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance.
+Le Comité des entreprises d'assurance transmet ces informations à l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2005-1185 2005-09-19 art. 5 12° JORF 21 septembre 2005
 
 	**Cité par**:
 
 	  - Décret n°2005-1185 du 19 septembre 2005 - art. 6 (V)
 	  - Code des assurances - art. A321-2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
 
 ##### Section IX : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier.
 
 ###### Article R334-47
 
-La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance établit et met à jour la liste des
-compagnies financières holding mixtes dont elle assure la surveillance complémentaire.
+L'Autorité de contrôle des assurances et des mutuelles établit et met à jour la liste des compagnies financières holding
+mixtes dont elle assure la surveillance complémentaire.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1185 2005-09-19 art. 5 13° JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 
 ###### Article R334-48
 
 Lorsque, en application des articles L. 334-5 et L. 334-6, un conglomérat financier a été identifié, que l'entité placée à la
-tête du groupe est une compagnie financière holding mixte et que la Commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance est désignée comme coordonnateur, la compagnie financière holding mixte est tenue de
-transmettre au Comité des entreprises d'assurance, dans un délai d'un mois après avoir été informée de cette désignation,
-conformément à l'article L. 334-6, l'ensemble des informations nécessaires à l'appréciation de l'honorabilité, la compétence
-et l'expérience de ses dirigeants précisées par arrêté du ministre en charge de l'économie.
+tête du groupe est une compagnie financière holding mixte et que l'Autorité de contrôle des assurances et des mutuelles est
+désignée comme coordonnateur, la compagnie financière holding mixte est tenue de transmettre au Comité des entreprises
+d'assurance, dans un délai d'un mois après avoir été informée de cette désignation, conformément à l'article L. 334-6,
+l'ensemble des informations nécessaires à l'appréciation de l'honorabilité, la compétence et l'expérience de ses dirigeants
+précisées par arrêté du ministre en charge de l'économie.
 
-Le Comité des entreprises d'assurance transmet ces informations à la Commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance.
+Le Comité des entreprises d'assurance transmet ces informations à l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1185 2005-09-19 art. 5 13° JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -39523,12 +40094,11 @@ conglomérat. Cette différence doit être positive.
 
 ###### Article R334-50
 
-Lorsqu'elle est désignée comme coordonnateur, la Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance peut, après consultation des autres autorités compétentes concernées, au sens du 12° de l'article L. 334-2, et du
-conglomérat financier considéré, faire appliquer, à la place de la méthode prévue à l'article R. 334-49 pour le calcul des
-exigences complémentaires, l'une des trois méthodes suivantes, si elle lui apparaît plus pertinente au regard des impératifs
-de la surveillance complémentaire, en raison notamment de la structure du conglomérat financier considéré, ou à la demande de
-ce dernier.
+Lorsqu'elle est désignée comme coordonnateur, l'Autorité de contrôle des assurances et des mutuelles peut, après consultation
+des autres autorités compétentes concernées, au sens du 12° de l'article L. 334-2, et du conglomérat financier considéré,
+faire appliquer, à la place de la méthode prévue à l'article R. 334-49 pour le calcul des exigences complémentaires, l'une
+des trois méthodes suivantes, si elle lui apparaît plus pertinente au regard des impératifs de la surveillance
+complémentaire, en raison notamment de la structure du conglomérat financier considéré, ou à la demande de ce dernier.
 
 1° Méthode n° 1 : Déduction et agrégation.
 
@@ -39561,9 +40131,9 @@ La différence doit être positive.
 
 3° Méthode n° 3 : combinaison des trois méthodes.
 
-Lorsqu'elle est coordonnateur, la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
-peut, sous réserve des conditions mentionnées au premier alinéa, permettre au conglomérat financier de combiner deux ou trois
-des méthodes mentionnées à l'article R. 334-49 et au présent article.
+Lorsqu'elle est coordonnateur, l'Autorité de contrôle des assurances et des mutuelles peut, sous réserve des conditions
+mentionnées au premier alinéa, permettre au conglomérat financier de combiner deux ou trois des méthodes mentionnées à
+l'article R. 334-49 et au présent article.
 
 Un arrêté du ministre chargé de l'économie détermine les modalités de calcul des fonds propres et des exigences de
 solvabilité d'une entité qui doivent être retenues dans le cadre de l'application des méthodes n°s 1 à 3 mentionnées au
@@ -39571,9 +40141,9 @@ présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1185 2005-09-19 art. 5 13° JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -39589,17 +40159,17 @@ présent article.
 
 ###### Article R334-51
 
-Sans préjudice des dispositions de l'article L. 334-16, la Commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance peut, lorsqu'elle est désignée comme coordonnateur et si la situation du conglomérat financier en
-matière d'adéquation des fonds propres le justifie, demander que les exigences complémentaires soient couvertes par des
-éléments prudentiels admis à la fois par la réglementation applicable au secteur des assurances et par celle applicable au
-secteur bancaire et des services d'investissement dans les limites propres à ces réglementations sectorielles.
+Sans préjudice des dispositions de l'article L. 334-16, l'Autorité de contrôle des assurances et des mutuelles peut,
+lorsqu'elle est désignée comme coordonnateur et si la situation du conglomérat financier en matière d'adéquation des fonds
+propres le justifie, demander que les exigences complémentaires soient couvertes par des éléments prudentiels admis à la fois
+par la réglementation applicable au secteur des assurances et par celle applicable au secteur bancaire et des services
+d'investissement dans les limites propres à ces réglementations sectorielles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1185 2005-09-19 art. 5 13° JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -39732,7 +40302,7 @@ sur les opérations à venir.
 ###### Article R336-3
 
 Lorsqu'elle utilise pour la première fois des instruments financiers à terme, l'entreprise d'assurance en informe
-préalablement la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+préalablement l'Autorité de contrôle des assurances et des mutuelles.
 
 **Liens relatifs à cet article**
 
@@ -39748,7 +40318,7 @@ préalablement la Commission de contrôle des assurances, des mutuelles et des i
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -39857,9 +40427,9 @@ principes d'évaluation et de présentation des comptes annuels, tels que défin
 
 2° Aux entreprises étrangères soumises au contrôle de l'Etat en vertu de l'article L. 310-1, autres que celles dont le siège
 social se trouve dans un Etat membre de la Communauté européenne, pour leurs opérations sur le territoire de la République
-française ou, lorsqu'elles sont soumises à une vérification de solvabilité globale exercée par la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance, en vertu de la section IV du chapitre IV du titre III du présent
-livre, pour les opérations effectuées dans l'ensemble des pays auxquels s'étend cette vérification.
+française ou, lorsqu'elles sont soumises à une vérification de solvabilité globale exercée par l'Autorité de contrôle des
+assurances et des mutuelles, en vertu de la section IV du chapitre IV du titre III du présent livre, pour les opérations
+effectuées dans l'ensemble des pays auxquels s'étend cette vérification ;
 
 3° Aux entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1-1.
 
@@ -39884,7 +40454,7 @@ livre, pour les opérations effectuées dans l'ensemble des pays auxquels s'éte
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -40014,10 +40584,9 @@ l'économie, pris après avis du Conseil national de la comptabilité.
 
 ###### Article R341-4
 
-Sauf impossibilité reconnue par la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance,
-l'exercice comptable commence le 1er janvier et finit le 31 décembre de chaque année. Exceptionnellement, le premier exercice
-comptable des entreprises françaises qui commencent leurs opérations au cours d'une année civile peut être clôturé à
-l'expiration de l'année suivante.
+Sauf impossibilité reconnue par l'Autorité de contrôle des assurances et des mutuelles, l'exercice comptable commence le 1er
+janvier et finit le 31 décembre de chaque année. Exceptionnellement, le premier exercice comptable des entreprises françaises
+qui commencent leurs opérations au cours d'une année civile peut être clôturé à l'expiration de l'année suivante.
 
 **Liens relatifs à cet article**
 
@@ -40027,31 +40596,26 @@ l'expiration de l'année suivante.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
 	  - Code des assurances - art. R328-1 (M)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances R328-1 *sanctions pénales*
-
 
 ###### Article R341-5
 
-Les entreprises doivent produire chaque année à la commission de contrôle des assurances, des mutuelles et des institutions
-de prévoyance, à des dates fixées par arrêté du ministre chargé de l'économie, le compte rendu détaillé annuel de leurs
-opérations et tous états, tableaux ou documents de nature à permettre de contrôler leur situation financière, la marche de
-leurs opérations, l'encaissement des primes ou cotisations, le règlement des sinistres, l'évaluation et, pour les entreprises
-visées aux 1° et 2° de l'article R. 341-1, la représentation des provisions et des réserves. La liste et la forme des états
-compris dans le compte rendu détaillé annuel et des autres états, tableaux et documents prévus ci-dessus sont fixées par
-arrêté du ministre chargé de l'économie.
+Les entreprises doivent produire chaque année à l'Autorité de contrôle des assurances et des mutuelles, à des dates fixées
+par arrêté du ministre chargé de l'économie, le compte rendu détaillé annuel de leurs opérations et tous états, tableaux ou
+documents de nature à permettre de contrôler leur situation financière, la marche de leurs opérations, l'encaissement des
+primes ou cotisations, le règlement des sinistres, l'évaluation et, pour les entreprises visées aux 1° et 2° de l'article R.
+341-1, la représentation des provisions et des réserves. La liste et la forme des états compris dans le compte rendu détaillé
+annuel et des autres états, tableaux et documents prévus ci-dessus sont fixées par arrêté du ministre chargé de l'économie.
 
-Les entreprises doivent communiquer à la commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance, sur sa demande, tous renseignements et documents permettant d'apprécier la valeur des immeubles, prêts, titres ou
-créances figurant dans leur bilan à quelque titre que ce soit et sous quelque forme que ce soit ainsi que tous autres
-renseignements sur les opérations que la commission estime nécessaires à l'exercice du contrôle.
+Les entreprises doivent communiquer à l'Autorité de contrôle des assurances et des mutuelles, sur sa demande, tous
+renseignements et documents permettant d'apprécier la valeur des immeubles, prêts, titres ou créances figurant dans leur
+bilan à quelque titre que ce soit et sous quelque forme que ce soit ainsi que tous autres renseignements sur les opérations
+que l'Autorité estime nécessaires à l'exercice du contrôle.
 
 **Liens relatifs à cet article**
 
@@ -40091,7 +40655,7 @@ renseignements sur les opérations que la commission estime nécessaires à l'ex
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R341-7
@@ -40143,9 +40707,9 @@ clôture de l'exercice, déterminant ceux des états, tableaux et documents, men
 exercice, qui devront être délivrés par les entreprises en même temps que les comptes annuels, dans les conditions définies
 au présent article. Cet arrêté doit concerner l'ensemble des entreprises pratiquant une même catégorie d'opérations.
 
-La commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut demander que les comptes
-annuels lui soient communiqués avant d'être soumis à l'assemblée générale, à partir de la date à laquelle ils doivent être
-tenus à la disposition des commissaires aux comptes.
+L'Autorité de contrôle des assurances et des mutuelles peut demander que les comptes annuels lui soient communiqués avant
+d'être soumis à l'assemblée générale, à partir de la date à laquelle ils doivent être tenus à la disposition des commissaires
+aux comptes.
 
 **Liens relatifs à cet article**
 
@@ -40155,7 +40719,7 @@ tenus à la disposition des commissaires aux comptes.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -40257,10 +40821,10 @@ IV. - En cas de transfert de portefeuille, la valeur des actifs transférés ne 
 
 ###### Article R344-2
 
-Les entreprises mentionnées à l'article L. 321-8 doivent produire chaque année à la commission de contrôle des assurances,
-des mutuelles et des institutions de prévoyance, à une date et selon la liste fixées par arrêté du ministre chargé de
-l'économie et des finances, tous états, tableaux ou documents de nature à permettre de contrôler l'évaluation et la
-représentation des provisions techniques afférentes aux opérations pour lesquelles elles ont obtenu l'agrément.
+Les entreprises mentionnées à l'article L. 321-8 doivent produire chaque année à l'Autorité de contrôle des assurances et des
+mutuelles, à une date et selon la liste fixées par arrêté du ministre chargé de l'économie et des finances, tous états,
+tableaux ou documents de nature à permettre de contrôler l'évaluation et la représentation des provisions techniques
+afférentes aux opérations pour lesquelles elles ont obtenu l'agrément.
 
 **Liens relatifs à cet article**
 
@@ -40270,7 +40834,7 @@ représentation des provisions techniques afférentes aux opérations pour lesqu
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -40298,6 +40862,41 @@ cas échéant pour chacun de ses établissements, suivant le modèle défini par
 	**Cité par**:
 
 	  - Code des assurances - art. A341-1 (M)
+
+
+###### Article R344-4
+
+Les entreprises effectuent chaque année un test d'exigibilité destiné à évaluer leur capacité à faire face à leurs
+engagements à l'égard des assurés dans des conditions détériorées de marché. Les modalités de ce test sont fixées par arrêté
+du ministre chargé de l'économie.
+
+Les résultats de ce test sont communiqués à l'Autorité de contrôle à une date fixée par arrêté du ministre chargé de
+l'économie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-1236 du 22 décembre 2003 - art. 4 () JORF 24 décembre 2003
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 26 décembre 2003
+	  - TXT_SOURCE: Arrêté du 26 décembre 2003 - art. 1 ()
+	  - TXT_SOURCE: Arrêté du 26 décembre 2003 - art. 2 ()
+	  - TXT_SOURCE: Arrêté du 26 décembre 2003 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. A344-15 (Ab)
+	  - Code des assurances - art. Annexe A344-10 ETAT C6 bis (V)
+	  - Code des assurances - art. R323-1-1 (VT)
+	  - Code des assurances - art. R323-1-2 (VT)
+	  - Code des assurances - art. R323-10-3 (V)
 
 
 #### Chapitre V : Comptes consolidés.
@@ -40418,9 +41017,9 @@ agrégés conformément aux dispositions de l'article R. 345-2-1 aux comptes de 
 
 Lorsque l'entité désignée conformément aux dispositions du premier alinéa de l'article R. 345-1-2 est une entreprise soumise
 au contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1 ou une société de groupe d'assurance
-mentionnée à l'article L. 322-1-2, l'accord est transmis à la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance dans les quinze jours de sa signature. Il est porté dans les mêmes délais à la connaissance des
-commissaires aux comptes de toutes les entités incluses dans le périmètre de la combinaison.
+mentionnée à l'article L. 322-1-2, l'accord est transmis à l'Autorité de contrôle des assurances et des mutuelles dans les
+quinze jours de sa signature. Il est porté dans les mêmes délais à la connaissance des commissaires aux comptes de toutes les
+entités incluses dans le périmètre de la combinaison.
 
 **Liens relatifs à cet article**
 
@@ -40430,7 +41029,7 @@ commissaires aux comptes de toutes les entités incluses dans le périmètre de 
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -40444,8 +41043,8 @@ commissaires aux comptes de toutes les entités incluses dans le périmètre de 
 
 Lorsque le commissaire aux comptes d'une entreprise régie par le code des assurances constate, d'une part, l'existence
 d'éléments constitutifs d'une obligation d'établissement et de publication de comptes combinés et, d'autre part, l'absence de
-mise en oeuvre de cette obligation, il saisit la commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance conformément aux dispositions de l'article L. 310-19.
+mise en oeuvre de cette obligation, il saisit l'Autorité de contrôle des assurances et des mutuelles conformément aux
+dispositions de l'article L. 310-19.
 
 **Liens relatifs à cet article**
 
@@ -40455,7 +41054,7 @@ prévoyance conformément aux dispositions de l'article L. 310-19.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -40706,10 +41305,10 @@ dans les conditions prévues à l'article R. 321-4, en cas de non-conformité du
 
 Toute entreprise établie sur le territoire de la République française qui entend effectuer des opérations en liberté
 d'établissement ou en libre prestation de services sur le territoire d'un ou plusieurs Etats non communautaires membres de
-l'Espace économique européen est tenue d'informer au préalable la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance en indiquant l'Etat ou les Etats membres sur le territoire desquels elle envisage d'opérer en
-libre prestation de services, la nature des risques qu'elle se propose d'y couvrir, ainsi qu'un programme d'activités
-comprenant les pièces demandées au g du I de l'article R. 321-6 ou au d du I de l'article R. 321-7.
+l'Espace économique européen est tenue d'informer au préalable l'Autorité de contrôle des assurances et des mutuelles en
+indiquant l'Etat ou les Etats membres sur le territoire desquels elle envisage d'opérer en libre prestation de services, la
+nature des risques qu'elle se propose d'y couvrir, ainsi qu'un programme d'activités comprenant les pièces demandées au g du
+I de l'article R. 321-6 ou au d du I de l'article R. 321-7.
 
 **Liens relatifs à cet article**
 
@@ -40719,8 +41318,7 @@ comprenant les pièces demandées au g du I de l'article R. 321-6 ou au d du I d
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -40866,9 +41464,9 @@ l'article R. 353-2 avec les dispositions législatives ou réglementaires.
 
 Toute entreprise établie sur le territoire de la République française qui entend effectuer des opérations en liberté
 d'établissement ou en libre prestation de services sur le territoire d'un ou de plusieurs Etats non communautaires membres de
-l'Espace économique européen est tenue d'informer au préalable la Commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance en indiquant l'Etat ou les Etats membres sur le territoire desquels elle envisage d'opérer en
-libre prestation de services et la nature des engagements qu'elle se propose d'y prendre.
+l'Espace économique européen est tenue d'informer au préalable l'Autorité de contrôle des assurances et des mutuelles en
+indiquant l'Etat ou les Etats membres sur le territoire desquels elle envisage d'opérer en libre prestation de services et la
+nature des engagements qu'elle se propose d'y prendre.
 
 **Liens relatifs à cet article**
 
@@ -40878,8 +41476,7 @@ libre prestation de services et la nature des engagements qu'elle se propose d'y
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 1 () JORF 16 juillet 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R353-6
@@ -41114,53 +41711,69 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 ###### Article R411-2
 
 La composition et les règles de fonctionnement du comité consultatif de la législation et de la réglementation financières
-sont fixées à l'article 2 du décret n° 2004-850 du 23 août 2004 relatif au comité consultatif du secteur financier et au
-comité consultatif de la législation et de la réglementation financières, ci-après reproduit :
+sont fixées à l'article D. 614-2 du code monétaire et financier, ci-après reproduit : 
 
-Art. 2. - I. - Le comité consultatif de la législation et de la réglementation financières est présidé par le ministre chargé
-de l'économie ou son représentant. Le comité comprend quatorze autres membres :
+Art.D. 614-2-I.-Le comité consultatif de la législation et de la réglementation financières est présidé par le ministre
+chargé de l'économie ou son représentant. Le comité comprend quatorze autres membres : 
 
-1° Un député, désigné par le président de l'Assemblée nationale ;
+1° Un député, désigné par le président de l'Assemblée nationale ; 
 
-2° Un sénateur, désigné par le président du Sénat ;
+2° Un sénateur, désigné par le président du Sénat ; 
 
-3° Un membre du Conseil d'Etat en activité, désigné sur proposition du vice-président du Conseil d'Etat ;
+3° Un membre du Conseil d'Etat en activité, désigné sur proposition du vice-président du Conseil d'Etat ; 
 
-4° Le gouverneur de la Banque de France, président de la Commission bancaire, ou son représentant ;
+4° Le gouverneur de la Banque de France, président de la Commission bancaire, ou son représentant ; 
 
-5° Le président de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, ou son
-représentant ;
+5° Le président de l'Autorité de contrôle des assurances et des mutuelles, ou son représentant ; 
 
-6° Le directeur des affaires civiles et du sceau au ministère de la justice, ou son représentant ;
+6° Le directeur des affaires civiles et du sceau au ministère de la justice, ou son représentant ; 
 
-7° Deux représentants des établissements de crédit et des entreprises d'investissement ;
+7° Deux représentants des établissements de crédit et des entreprises d'investissement ; 
 
-8° Deux représentants des sociétés d'assurance régies par le code des assurances ;
+8° Deux représentants des sociétés d'assurance régies par le code des assurances ; 
 
 9° Un représentant des organisations syndicales représentatives au plan national du personnel des secteurs bancaire et de
-l'assurance, et des entreprises d'investissement ;
+l'assurance, et des entreprises d'investissement ; 
 
 10° Un représentant des clientèles des établissements de crédit, des entreprises d'assurance et des entreprises
-d'investissement ;
+d'investissement ; 
 
-11° Deux personnalités choisies en raison de leur compétence.
+11° Deux personnalités choisies en raison de leur compétence. 
 
 Lorsqu'il examine des prescriptions d'ordre général touchant à l'activité des prestataires des services d'investissement, le
 comité consultatif de la législation et de la réglementation financières comprend également le président de l'Autorité des
-marchés financiers ou son représentant.
+marchés financiers ou son représentant. 
 
 Les membres désignés aux 1° et 2° participent aux travaux du comité lorsque sont examinés des projets de règlement ou de
-directive communautaires ou des projets de loi.
+directive communautaires ou des projets de loi. 
 
 Les membres du comité désignés aux 1°, 2°, 3°, 7°, 8°, 9°, 10° et 11° et leur suppléants sont nommés par arrêté du ministre
-chargé de l'économie.
+chargé de l'économie. 
 
-II. - Le comité consultatif de la législation et la réglementation financières dispose d'un secrétariat général dirigé par un
+II.-Le comité consultatif de la législation et la réglementation financières dispose d'un secrétariat général dirigé par un
 secrétaire général nommé par arrêté du ministre chargé de l'économie. Le secrétaire général est assisté de deux secrétaires
-généraux adjoints nommés dans les mêmes conditions.
+généraux adjoints nommés dans les mêmes conditions. 
 
-III. - Le comité se réunit sur convocation de son président. Il ne peut délibérer que sur les questions inscrites à l'ordre
-du jour annexé à la convocation. En cas de partage égal des voix, celle du président est prépondérante.
+III.-Le comité se réunit sur convocation de son président. Il ne peut délibérer que sur les questions inscrites à l'ordre du
+jour annexé à la convocation. En cas de partage égal des voix, celle du président est prépondérante. 
+
+IV.-En cas d'urgence constatée par son président, le comité peut statuer par voie de consultation écrite. 
+
+Lorsque le comité fait usage de cette possibilité, le président recueille, dans un délai qu'il fixe mais qui ne peut être
+inférieur à deux jours ouvrés, les observations et avis des membres du comité. Toutefois, si un membre en fait la demande
+écrite dans ce délai, le président réunit le comité dans les formes et conditions prévues au III. 
+
+Pour que ses résultats puissent être pris en compte, la consultation écrite doit avoir permis de recueillir des avis de la
+moitié au moins des membres du comité dans le délai fixé par le président. Le président informe, dans les meilleurs délais,
+les membres du comité de la décision résultant de cette consultation. 
+
+Les avis rendus par voie de consultation écrite sont annexés au procès-verbal de la séance suivante. Mention y est faite du
+nom des membres ayant émis un avis et des membres n'ayant pas pris part à la consultation.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -41168,16 +41781,17 @@ du jour annexé à la convocation. En cas de partage égal des voix, celle du pr
 
 	  - Décret n°76-666 1976-07-16
 
-	**Cite**:
-
-	  - Décret n°2004-850 du 23 août 2004 - art. 2, v. init.
-
 	**Modifié par**:
 
-	  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004 rectificatif JORF 18 septembre 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
 
 	**Liens**:
 
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. D614-2
 	  - TXT_ASSOCIE: Code des assurances - art. R*431-10 (Ab)
 	  - TXT_ASSOCIE: Code des assurances - art. R*431-11 (Ab)
 	  - TXT_ASSOCIE: Code des assurances - art. R*431-12 (Ab)
@@ -42480,6 +43094,46 @@ de la garantie.
 	  - Code des assurances - art. R421-24-2 (V)
 
 
+###### Article R421-24-2
+
+Lorsque tout ou partie du portefeuille des contrats a fait l'objet d'un transfert de portefeuille au titre de l'article L.
+421-9-2, l'entreprise bénéficiaire du transfert présente au fonds de garantie une demande de versement correspondant à la
+partie des engagements du cessionnaire non couverte par l'actif transféré. Le montant de cette demande est calculé sur la
+base des engagements arrêtés à la date de publication au Journal officiel de la République française de l'arrêté prononçant
+le transfert de portefeuille et des actifs accompagnant ce transfert. L'entreprise cessionnaire présente cette demande dans
+un délai de quatre mois suivant la publication de cette décision. Elle adresse copie de celle-ci à l'autorité de contrôle.
+Dans un délai de deux mois à compter de la date de la réception de ce document, le fonds, après avoir vérifié que les
+contrats sont couverts par la garantie et contrôlé le montant garanti par contrat, notifie à l'entreprise cessionnaire le
+montant de la somme qui lui est due, compte tenu des dispositions du premier alinéa de l'article R. 421-24-1. Ce montant est
+versé à l'entreprise cessionnaire en une seule fois. A titre exceptionnel, l'autorité de contrôle peut, sur la demande du
+fonds de garantie, lui accorder un délai supplémentaire, qui ne saurait être supérieur à trois mois. 
+
+Il est ouvert entre l'entreprise cessionnaire et le fonds de garantie un compte de liquidation des engagements transférés
+dont les modalités d'organisation et de fonctionnement sont déterminées par arrêté du ministre chargé de l'économie. 
+
+Lorsque la clôture du compte de liquidation fait apparaître un résultat positif, le fonds de garantie reçoit une fraction de
+ce solde égale à la proportion des engagements qu'il a couverts par le versement prévu au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2004-176 du 17 février 2004 - art. 3 () JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L421-9-2 (V)
+	  - Code des assurances - art. R421-24-1 (V)
+
+
 ###### Article R421-24-3
 
 Sont couverts par le fonds de garantie dans les limites fixées à l'article L. 421-9 les engagements de caution octroyés par
@@ -42575,10 +43229,15 @@ euros.
 
 ##### Paragraphe 2 : Relations entre le liquidateur et le fonds de garantie
 
-###### Article R421-24-5
+###### Article R421-24-4
 
-Le liquidateur désigné par la Commission de contrôle des assurances ne peut acquiescer à une décision de justice, conclure
-une transaction ou opposer une exception au tiers lésé, qu'après avoir obtenu l'accord du fonds de garantie.
+Le liquidateur désigné par l'autorité de contrôle dans les conditions prévues à l'article L. 326-2 gère, avec l'accord du
+fonds de garantie, les dossiers relatifs à l'indemnisation des dommages couverts par une assurance dont la souscription est
+rendue obligatoire ou nés d'un accident dans lequel sont impliqués les véhicules terrestres à moteur assurés auprès de
+l'entreprise en liquidation. Il doit, sur demande du fonds, lui fournir toutes explications ou lui communiquer tous documents
+relatifs à ces dossiers. 
+
+Les frais et dépenses de toute nature afférents à cette gestion sont à la charge de la liquidation.
 
 **Liens relatifs à cet article**
 
@@ -42590,13 +43249,37 @@ une transaction ou opposer une exception au tiers lésé, qu'après avoir obtenu
 
 	  - Décret n°2004-176 du 17 février 2004 - art. 3 () JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L326-2 (V)
+
+
+###### Article R421-24-5
+
+Le liquidateur désigné par l'Autorité de contrôle des assurances ne peut acquiescer à une décision de justice, conclure une
+transaction ou opposer une exception au tiers lésé, qu'après avoir obtenu l'accord du fonds de garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
 
 ###### Article R421-24-6
 
-Dans un délai de deux mois à compter de la réception de la demande du liquidateur désigné par la commission de contrôle, le
+Dans un délai de deux mois à compter de la réception de la demande du liquidateur désigné par l'Autorité de contrôle, le
 fonds de garantie met à la disposition de ce dernier sur le compte de la liquidation des opérations d'assurances les sommes
-nécessaires au paiement des indemnités et leur montant est inscrit au passif de la liquidation. A titre exceptionnel, la
-Commission de contrôle des assurances peut, sur la demande du fonds de garantie, lui accorder un délai supplémentaire, qui ne
+nécessaires au paiement des indemnités et leur montant est inscrit au passif de la liquidation. A titre exceptionnel,
+l'Autorité de contrôle des assurances peut, sur la demande du fonds de garantie, lui accorder un délai supplémentaire, qui ne
 saurait être supérieur à trois mois.
 
 **Liens relatifs à cet article**
@@ -42605,9 +43288,9 @@ saurait être supérieur à trois mois.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-176 du 17 février 2004 - art. 3 () JORF 24 février 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ##### Paragraphe 3 : Actions en justice contre le fonds de garantie
@@ -42776,6 +43459,108 @@ les décisions ne comportant pas un engagement financier pour le fonds.
 ##### Section IV : Régime financier du fonds de garantie
 
 ##### Paragraphe 1
+
+###### Article R421-27
+
+Pour l'application des dispositions de l'article L. 421-4, les contributions prévues pour l'alimentation du fonds de garantie
+sont assises et recouvrées dans les conditions suivantes :
+
+1° La contribution des entreprises d'assurances au titre de la section "Opérations du fonds de garantie résultant de la
+défaillance d'entreprises d'assurance dommages" prévue à l'article R. 421-9 est proportionnelle aux primes ou cotisations du
+dernier exercice, accessoires et rappels compris et annulations déduites, relatives aux contrats dont la souscription est
+rendue obligatoire, à l'exception des garanties relatives à la responsabilité du transporteur maritime, fluvial et aérien, y
+compris ceux souscrits en application du règlement (CE) n° 2027/97 du Conseil du 9 octobre 1997, lorsque le risque est situé
+dans la Communauté européenne. Elle est liquidée et recouvrée par le fonds de garantie qui peut prévoir le versement
+d'acomptes.
+
+2° Lorsque le montant total des provisions inscrites au passif de la section "Opérations du fonds de garantie résultant de la
+défaillance d'entreprises d'assurance dommages" devient inférieur à 250 millions d'euros pendant une durée supérieure à six
+mois consécutifs, une contribution extraordinaire des entreprises d'assurance au titre de la section Défaillance des
+entreprises d'assurance de dommage est appelée. Son montant doit permettre de faire revenir durablement le montant total des
+provisions de la section considérée au-dessus de ce seuil. Cette contribution extraordinaire est liquidée et recouvrée par le
+fonds de garantie. Les entreprises adhérentes disposent d'un délai d'un mois pour verser au fonds leur cotisation à compter
+de la réception de l'appel du fonds. Le fonds de garantie informe l'Autorité de contrôle de tout retard de versement de plus
+d'un mois ou de tout refus de versement d'une entreprise d'assurance, afin que l'Autorité mette en oeuvre, le cas échéant,
+les procédures de sanctions prévues à l'article L. 310-18. Les cotisations versées au fonds de garantie par les entreprises
+dont l'adhésion au fonds a pris fin ne peuvent faire l'objet d'un reversement par celui-ci. La contribution extraordinaire
+est proportionnelle aux primes ou cotisations du dernier exercice, accessoires et rappels compris et annulations déduites,
+relatives aux contrats dont la souscription est rendue obligatoire, à l'exception des garanties relatives à la responsabilité
+du transporteur maritime, fluvial et aérien, y compris ceux souscrits en application du règlement (CE) n° 2027/97 du Conseil
+du 9 octobre 1997, lorsque le risque est situé dans la Communauté européenne. Elle est liquidée et recouvrée par le fonds de
+garantie.
+
+3° La contribution des entreprises d'assurance est proportionnelle aux primes ou cotisations du dernier exercice, accessoires
+et rappels compris et annulations déduites, relatives à l'assurance des véhicules terrestres à moteur et des remorques ou
+semi-remorques des véhicules lorsque le risque est situé sur le territoire de la République française. Elle est liquidée et
+recouvrée par le fonds de garantie qui peut prévoir le versement d'acomptes.
+
+4° La contribution des responsables d'accidents causés par l'utilisation des véhicules définis au 3° ci-dessus, non
+bénéficiaires d'une assurance, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des
+dommages résultant de ces accidents. Sont considérées comme bénéficiaires d'une assurance, au sens du présent article, les
+personnes dont la responsabilité civile est couverte par un contrat d'assurance dans les conditions prévues par l'article L.
+211-1. Un tel bénéfice ne leur est toutefois acquis, au sens du présent article, que pour la part excédant la franchise
+prévue éventuellement par leur contrat en application de l'article L. 121-1.
+
+En cas d'instance judiciaire, la décision doit faire apparaître si le responsable est ou non bénéficiaire d'une assurance.
+
+La contribution est liquidée et recouvrée par les services de la direction générale des impôts, selon les mêmes règles, sous
+les mêmes garanties et sous les mêmes sanctions qu'en matière de droits d'enregistrement. Elle est perçue sur la notification
+faite à la direction générale des impôts par le fonds de garantie.
+
+La contribution doit être acquittée dans le délai d'un mois à compter de la réclamation adressée par la direction générale
+des impôts.
+
+5° La contribution des assurés est assise sur toutes les primes ou cotisations nettes d'annulation qu'ils versent aux
+entreprises d'assurance pour l'assurance des risques de responsabilité civile résultant d'accidents causés par les véhicules
+définis au 3° ci-dessus. Elle est perçue par les entreprises d'assurance et recouvrée mensuellement par le fonds de garantie.
+Celui-ci peut prévoir le versement d'acomptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 29 novembre 1994
+	  - TXT_SOURCE: Arrêté du 29 novembre 1994 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 29 novembre 1994 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 29 novembre 1994 - art. 1 (V)
+	  - Arrêté du 6 novembre 1996 - art. 1 (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 159 quinquies-0 A (V)
+	  - Code des assurances - art. A421-3 (V)
+	  - Code des assurances - art. R421-16 (V)
+	  - Code des assurances - art. R421-28 (V)
+	  - Code des assurances - art. R421-38 (V)
+	  - Code des assurances - art. R421-44 (V)
+	  - Code des assurances - art. R421-61 (V)
+	  - Code des assurances - art. R421-63-1 (Ab)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 322 (P)
+
+	**Modifié par**:
+
+	  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+	  - Décret n°2004-176 du 17 février 2004 - art. 5 () JORF 24 février 2004
+	  - Décret n°2004-176 du 17 février 2004 - art. 6 () JORF 24 février 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L121-1 (V)
+	  - Code des assurances - art. L211-1 (M)
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L421-4 (M)
+	  - Code des assurances - art. R421-9 (M)
+	  - Règlement 2027-97 CE 1997-10-09 (Conseil)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. R*420-27 (T)
+
 
 ###### Article R421-28
 
@@ -44311,18 +45096,18 @@ surveillance du fonds de garantie des assurés, ou de leurs représentants.
 
 ###### Article R423-4
 
-La commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut retenir un taux de réduction
-différent par ensemble de contrats présentant les mêmes caractéristiques. Tous les contrats d'un même ensemble ont le même
-taux de réduction.
+L'Autorité de contrôle des assurances et des mutuelles peut retenir un taux de réduction différent par ensemble de contrats
+présentant les mêmes caractéristiques. Tous les contrats d'un même ensemble ont le même taux de réduction.
 
-Si la commission de contrôle décide le transfert de tout ou partie des contrats à une ou plusieurs entreprises, elle fait
-procéder, aux frais de l'entreprise défaillante, à l'évaluation des actifs de cette dernière, afin de procéder à leur
-attribution. La commission de contrôle notifie à chaque entreprise cessionnaire la liste des actifs accompagnant le transfert
-de portefeuille.
+Si l'Autorité de contrôle des assurances et des mutuelles décide le transfert de tout ou partie des contrats à une ou
+plusieurs entreprises, elle fait procéder, aux frais de l'entreprise défaillante, à l'évaluation des actifs de cette
+dernière, afin de procéder à leur attribution. L'Autorité de contrôle des assurances et des mutuelles notifie à chaque
+entreprise cessionnaire la liste des actifs accompagnant le transfert de portefeuille.
 
-Si la commission de contrôle estime que les taux de réduction proposés sont excessifs, elle peut, sur le fondement de
-l'évaluation mentionnée à l'alinéa précédent, demander aux entreprises ayant répondu à l'appel d'offres d'améliorer leur
-offre dans un délai qu'elle fixe. En l'absence de réponse satisfaisante, elle peut rejeter leur candidature.
+Si l'Autorité de contrôle des assurances et des mutuelles estime que les taux de réduction proposés sont excessifs, elle
+peut, sur le fondement de l'évaluation mentionnée à l'alinéa précédent, demander aux entreprises ayant répondu à l'appel
+d'offres d'améliorer leur offre dans un délai qu'elle fixe. En l'absence de réponse satisfaisante, elle peut rejeter leur
+candidature.
 
 Si l'entreprise défaillante pratiquait les opérations relevant du chaptire Ier du livre IV du présent code, les actifs
 affectés à ces opérations sont attribués aux cessionnaires des engagements correspondants.
@@ -44335,8 +45120,7 @@ affectés à ces opérations sont attribués aux cessionnaires des engagements c
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 ###### Article R423-5
@@ -44348,9 +45132,8 @@ date de la réception de cette demande, le fonds, après avoir vérifié que les
 contrôlé le montant garanti par contrat, notifie à l'entreprise cessionnaire le montant de la somme qui lui est due et qu'il
 lui verse en une seule fois.
 
-A titre exceptionnel, la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut, sur la
-demande du fonds de garantie, lui accorder une prolongation, qui ne saurait être supérieure à trois mois, du délai prévu à
-l'alinéa précédent.
+A titre exceptionnel, l'Autorité de contrôle des assurances et des mutuelles peut, sur la demande du fonds de garantie, lui
+accorder une prolongation, qui ne saurait être supérieure à trois mois, du délai prévu à l'alinéa précédent.
 
 Les sommes dues par le fonds de garantie et non versées portent intérêt aux taux éventuellement prévus dans les contrats
 transférés à compter de la date d'expiration du délai imparti au fonds pour en effectuer le versement.
@@ -44369,8 +45152,7 @@ article pour présenter à l'entreprise cessionnaire une demande de reversement.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -44386,9 +45168,8 @@ le fonds, après avoir vérifié que les contrats sont couverts par la garantie 
 procède à un versement en une seule fois au profit de chaque assuré, souscripteur de contrats, adhérent ou bénéficiaire de
 prestations contre la remise par celui-ci d'un récépissé du versement.
 
-A titre exceptionnel, la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut, sur la
-demande du fonds de garantie, lui accorder une prolongation, qui ne saurait être supérieure à trois mois, du délai prévu à
-l'alinéa précédent.
+A titre exceptionnel, l'Autorité de contrôle des assurances et des mutuelles peut, sur la demande du fonds de garantie, lui
+accorder une prolongation, qui ne saurait être supérieure à trois mois, du délai prévu à l'alinéa précédent.
 
 Le fonds met en oeuvre la garantie, selon la même procédure, si le liquidateur présente une demande complémentaire de
 versement en apportant la preuve que des assurés, souscripteurs de contrats, adhérents ou bénéficiaires de prestations
@@ -44409,8 +45190,7 @@ concerné une demande de reversement.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -44570,6 +45350,64 @@ Les décisions du fonds de garantie des assurés sont communiquées au ministre 
 	**Modifié par**:
 
 	  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+
+
+###### Article R423-13
+
+Sous réserve des dispositions de l'article R. 423-15, le fonds doit disposer en permanence d'un montant global de ressources
+égal à 0,05 % du total des provisions mathématiques constatées au 31 décembre de l'année précédente pour l'ensemble des
+entreprises mentionnées à l'article L. 423-1. Le montant global est constitué par les entreprises adhérentes, après déduction
+des ressources propres du fonds qui comprennent les produits financiers, pour moitié par des cotisations versées au fonds et
+pour moitié par des cotisations non versées prenant la forme de réserves pour fonds de garantie.
+
+Le fonds de garantie notifie à chaque entreprise adhérente le montant de sa cotisation annuelle qui correspond à sa quote-
+part du montant global prévu au premier alinéa. Cette quote-part est égale au pourcentage que représentent ses provisions
+techniques constatées au 31 décembre de l'année précédente, après un abattement des trois quarts pour les provisions des
+contrats en unités de compte, dans les provisions techniques de l'ensemble des entreprises adhérentes calculées avec le même
+abattement.
+
+La cotisation annuelle d'une entreprise ne peut être inférieure à 15 000 euros. Cette cotisation minimale est calculée, s'il
+y a lieu, pour l'ensemble des sociétés entrant dans le périmètre de consolidation d'un même groupe. Elle ne s'applique pas
+aux entreprises ayant moins de trois années d'activité au 1er janvier de l'année de calcul de la cotisation.
+
+Si le montant de sa cotisation de l'année est supérieur à celui de l'année précédente, chaque entreprise procède en une seule
+fois au versement au fonds et à la dotation à la réserve pour un montant égal à cette différence. Lorsque cette différence
+est négative, elle donne lieu, la même année, pour moitié à sa restitution par le fonds à l'entreprise concernée et pour
+moitié à une reprise par l'entreprise sur la réserve pour fonds de garantie.
+
+Les entreprises adhérentes disposent d'un délai de 10 jours ouvrés pour verser au fonds leur cotisation à compter de la
+réception de la notification prévue au deuxième alinéa. Le fonds de garantie informe l'autorité de contrôle de tout retard de
+versement de plus d'un mois ou de tout refus de versement d'une entreprise d'assurance, afin que l'autorité mette en oeuvre,
+le cas échéant, les procédures de sanctions prévues à l'article L. 310-18. L'autorité peut également engager une procédure de
+sanction si elle constate que l'entreprise n'a pas doté la réserve pour fonds de garantie du montant prévu.
+
+Les cotisations versées au fonds de garantie par les entreprises dont l'adhésion au fonds a pris fin ne peuvent faire l'objet
+d'un reversement par celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-261 1988-03-18
+
+	**Cité par**:
+
+	  - Décret n°99-688 du 3 août 1999 - art. 7 (V)
+	  - Code des assurances - art. R334-11 (M)
+	  - Code des assurances - art. R334-3 (M)
+	  - Code des assurances - art. R423-10 (V)
+	  - Code des assurances - art. R423-14 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L423-1 (V)
+	  - Code des assurances - art. R423-15 (M)
 
 
 ###### Article R423-14
@@ -49618,71 +50456,6 @@ par l'assureur porte, à compter de l'expiration de ce délai, intérêt au taux
 
 #### Chapitre Ier : Dispositions générales.
 
-##### Section I : Valeur de référence au contrat.
-
-###### Article A131-2
-
-La valeur visée à l'article R. 131-2 est obtenue en divisant l'actif net de la société immobilière ou foncière par le nombre
-d'actions ou de parts. L'actif net est celui qui ressort du dernier bilan après affectation du résultat et réévaluation des
-immeubles, selon la procédure définie par l'article R. 332-20 (2°).
-
-Toutefois, pour l'évaluation entre deux bilans comptables des capitaux ou de la rente garantis, il peut être indiqué dans le
-contrat que la valeur de l'unité de compte est déterminée, selon une périodicité définie contractuellement, en fonction de
-l'évolution depuis la clôture du dernier exercice de l'actif net ainsi que de la réévaluation des immeubles. La valeur de
-l'actif net doit faire l'objet d'une attestation de la part d'un commissaire aux comptes.
-
-La réévaluation doit être effectuée par immeuble, soit par une expertise effectuée par un expert accepté par la commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance, soit par actualisation de la dernière estimation,
-certifiée par un expert accepté par la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
-par application d'une règle basée sur des indices représentatifs du marché immobilier et inscrite au règlement général du
-contrat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Code des assurances - art. A331-2 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. R*332-20 (M)
-	  - Code des assurances - art. R131-2 (V)
-
-
-###### Article A131-4
-
-La substitution d'une unité de compte au profit d'unités de compte de nature comparable prévue à l'article R. 131-4 est
-autorisée par la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance au vu du rapport d'un
-expert mandaté par l'assureur. L'expert certifie la comparabilité des sociétés, au regard des critères de destination -
-habitation, bureaux, centres commerciaux - et de localisation des actifs de celles-ci.
-
-Toutefois, la commission peut également demander l'établissement d'une expertise selon les modalités fixées à l'article R.
-332-23.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code des assurances - art. R*332-23 (M)
-	  - Code des assurances - art. R131-4 (M)
-
-
 ##### Section I : Valeur de référence du contrat.
 
 ###### Article A131-1
@@ -49703,6 +50476,42 @@ prestation.
 	**Modifié par**:
 
 	  - Arrêté 1997-03-13 art. 1 JORF 16 mars 1997
+
+
+###### Article A131-2
+
+La valeur visée à l'article R. 131-2 est obtenue en divisant l'actif net de la société immobilière ou foncière par le nombre
+d'actions ou de parts. L'actif net est celui qui ressort du dernier bilan après affectation du résultat et réévaluation des
+immeubles, selon la procédure définie par l'article R. 332-20 (2°).
+
+Toutefois, pour l'évaluation entre deux bilans comptables des capitaux ou de la rente garantis, il peut être indiqué dans le
+contrat que la valeur de l'unité de compte est déterminée, selon une périodicité définie contractuellement, en fonction de
+l'évolution depuis la clôture du dernier exercice de l'actif net ainsi que de la réévaluation des immeubles. La valeur de
+l'actif net doit faire l'objet d'une attestation de la part d'un commissaire aux comptes.
+
+La réévaluation doit être effectuée par immeuble, soit par une expertise effectuée par un expert accepté par l'Autorité de
+contrôle des assurances et des mutuelles, soit par actualisation de la dernière estimation, certifiée par un expert accepté
+par l'Autorité de contrôle des assurances et des mutuelles par application d'une règle basée sur des indices représentatifs
+du marché immobilier et inscrite au règlement général du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. A331-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-20 (M)
+	  - Code des assurances - art. R131-2 (V)
 
 
 ###### Article A131-3
@@ -49736,6 +50545,32 @@ financiers sont remplacées par la référence au règlement général de l'Auto
 
 	  - Loi n°70-1300 du 31 décembre 1970 - art. 11 (Ab)
 	  - Code des assurances - art. R131-2 (V)
+
+
+###### Article A131-4
+
+La substitution d'une unité de compte au profit d'unités de compte de nature comparable prévue à l'article R. 131-4 est
+autorisée par l'Autorité de contrôle des assurances et des mutuelles au vu du rapport d'un expert mandaté par l'assureur.
+L'expert certifie la comparabilité des sociétés, au regard des critères de destination - habitation, bureaux, centres
+commerciaux - et de localisation des actifs de celles-ci.
+
+Toutefois, l'autorité peut également demander l'établissement d'une expertise selon les modalités fixées à l'article R.
+332-23.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-23 (M)
+	  - Code des assurances - art. R131-4 (M)
 
 
 #### Chapitre II : Les assurances sur la vie et les opérations de capitalisation
@@ -50528,7 +51363,7 @@ annexé.
 
 ###### Article A140-1
 
-L'information préalable de l'adhérent mentionnée au premier alinéa de l'article L. 140-6 du code des assurances est fournie
+L'information préalable de l'adhérent mentionnée au premier alinéa de l'article L. 141-6 du code des assurances est fournie
 sous la forme d'un document spécifique, distinct de tous autres documents contractuels ou précontractuels. Etabli en double
 exemplaire, il est signé et daté par l'adhérent, qui conserve l'original.
 
@@ -50541,17 +51376,21 @@ donné pouvoir au souscripteur de les accomplir. Il doit indiquer de même qui a
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Transféré par**:
 
-	  - Arrêté 1995-07-13 art. 1 JORF 20 juillet 1995 en vigueur le 1er septembre 1995
+	  - Arrêté 2006-07-26 art. 1 2° JORF 27 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 15 (V) JORF 16 décembre 2005
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A141-1 (V)
 
 	**Cite**:
 
-	  - Code des assurances - art. L140-6 (T)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. L140-6 (T)
+	  - Code des assurances - art. L141-6 (M)
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
@@ -52367,98 +53206,6 @@ d'assurance permettant de répondre aux prescriptions de l'article R. 250-2.
 
 #### Chapitre unique
 
-##### Section II : Commission de contrôle des assurances.
-
-###### Article A310-3
-
-I. - Les documents visés au premier alinéa du I de l'article R. 310-20 sont les suivants :
-
-a) La dénomination et l'adresse du siège social de l'entreprise ;
-
-b) Le nom de l'Etat membre sur le territoire duquel elle envisage d'opérer en libre prestation de services ;
-
-c) La liste des branches que l'entreprise est habilitée à pratiquer ;
-
-d) Un document précisant la nature des risques ou engagements que l'entreprise se propose de garantir en libre prestation de
-services ;
-
-e) Dans le cas où l'entreprise se proposerait de couvrir les risques définis à la branche 10 de l'article R. 321-1, à
-l'exception de la responsabilité civile du transporteur, une déclaration d'adhésion au bureau national et au fonds national
-de garantie de l'Etat membre sur le territoire duquel elle envisage d'opérer en libre prestation de services, ainsi que le
-nom et l'adresse du représentant pour la gestion des sinistres qu'elle désigne dans cet Etat membre ;
-
-f) Dans le cas où l'entreprise se proposerait de couvrir les risques définis à la branche 17 de l'article R. 321-1, l'option
-choisie parmi celles énoncées à l'article L. 322-2-3 ;
-
-g) Un dossier décrivant les moyens mis en oeuvre par l'entreprise pour les opérations qu'elle envisage de réaliser en libre
-prestation de services et ses prévisions d'activités.
-
-Les documents cités en a, c, d, e et f ci-dessus sont accompagnés de leur traduction certifiée conforme dans la langue
-officielle de l'Etat membre de libre prestation de services.
-
-II. - La notification visée au premier alinéa du II de l'article R. 310-20 comporte celles des informations visées aux a, b,
-c, d, e ou f du I du présent article qui sont affectées par le projet de modification de la nature ou des conditions
-d'exercice des activités de libre prestation de services dans l'Etat membre concerné, accompagnées de leur traduction
-certifiée conforme dans la langue officielle de l'Etat membre de libre prestation de services.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1994-08-08 art. 3 JORF 23 août 1994
-
-	**Cité par**:
-
-	  - Code des assurances - art. A310-4 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. A310-7 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L322-2-3 (V)
-	  - Code des assurances - art. R310-20 (Ab)
-	  - Code des assurances L322-2-3, R310-20, R321-1
-
-
-###### Article A310-4
-
-I. - Le dossier visé au deuxième alinéa du I de l'article R. 310-20 est composé des éléments mentionnés aux a, c, d, e et f
-de l'article A. 310-3 dans leur traduction certifiée conforme dans la langue de l'Etat membre de libre prestation de
-services, ainsi que d'une attestation de la commission de contrôle des assurances certifiant que l'entreprise dispose de la
-marge de solvabilité conformément aux dispositions des sections II ou III du chapitre IV du titre III du livre III du présent
-code.
-
-II. - Le dossier visé au deuxième alinéa du II de l'article R. 310-20 est composé des éléments mentionnés au I du présent
-article, comportant les modifications envisagées par l'entreprise relatives à la nature ou aux conditions d'exercice des
-activités en libre prestation de services, dans leur traduction certifiée conforme de l'Etat membre de libre prestation de
-services, ainsi que d'une attestation de la commission de contrôle des assurances certifiant que l'entreprise dispose
-toujours de la marge de solvabilité conformément aux dispositions des sections II ou III du chapitre IV du titre III du livre
-III du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1994-08-08 art. 3 JORF 23 août 1994
-
-	**Cite**:
-
-	  - Code des assurances - art. A310-3 (T)
-	  - Code des assurances - art. R310-20 (Ab)
-
-
-#### Chapitre unique
-
 ##### Section I : Dispositions générales.
 
 ###### Article A310-1
@@ -52565,6 +53312,133 @@ notaire délivre une attestation faisant foi de ce serment ou de cette déclarat
 
 	  - Code des assurances - art. R*322-55
 	  - Code des assurances - art. R310-7
+
+
+##### Section II : Autorité de contrôle des assurances.
+
+###### Article A310-3
+
+I. - 1° En application du premier alinéa du I de l'article R. 310-17, toute entreprise projetant d'ouvrir une succursale ou
+d'exercer des activités en libre prestation de services doit fournir, en double exemplaire, à l'Autorité de contrôle des
+assurances et des mutuelles les documents et informations suivants :
+
+a) La dénomination et l'adresse du siège social de l'entreprise ;
+
+b) Le nom de l'Etat membre sur le territoire duquel elle envisage d'opérer en liberté d'établissement ou en libre prestation
+de services ;
+
+c) Un programme relatif à l'activité envisagée comportant les pièces mentionnées au a et au point 1 du g de l'article A.
+321-1 ;
+
+d) Dans le cas où l'entreprise se proposerait de couvrir les risques définis à la branche 10 de l'article R. 321-1, à
+l'exception de la responsabilité civile du transporteur, une déclaration d'adhésion au bureau national et au fonds national
+de garantie de l'Etat membre sur le territoire duquel elle envisage d'opérer en liberté d'établissement ou en libre
+prestation de services, ainsi que, le cas échéant, le nom et l'adresse du représentant pour la gestion des sinistres qu'elle
+désigne dans cet Etat membre ;
+
+e) Dans le cas où l'entreprise se proposerait de couvrir les risques définis à la branche 17 de l'article R. 321-1, l'option
+choisie parmi celles énoncées à l'article L. 322-2-3 ;
+
+f) Un dossier décrivant les moyens mis en oeuvre par l'entreprise pour les opérations qu'elle envisage de réaliser et ses
+prévisions d'activités, sauf si l'entreprise est soumise aux dispositions des d et e du 2°.
+
+2° Les dossiers concernant des demandes d'activité sous le régime de la liberté d'établissement comportent en outre :
+
+a) L'adresse de la succursale à laquelle les autorités de l'Etat membre visé au b du 1° peuvent demander des informations en
+vue de l'exercice de leurs compétences ;
+
+b) Le nom et les pouvoirs du mandataire général ;
+
+c) Les informations concernant le mandataire général mentionnées à l'article A. 321-2 ;
+
+d) Un programme d'activité relatif à l'établissement envisagé comportant les pièces mentionnées au g (3, 4, 5) de l'article
+A. 321-1 ainsi que, pour les cinq premiers exercices comptables d'activité, les comptes de résultat prévisionnels, les
+prévisions relatives aux moyens financiers destinés à la couverture des engagements et celles relatives à la trésorerie ;
+
+e) Un programme d'activité complémentaire relatif à l'établissement envisagé comportant les pièces mentionnées au g (2 et 10)
+de l'article A. 321-1.
+
+II. - Le dossier communiqué par l'Autorité de contrôle des assurances et des mutuelles, en application du deuxième alinéa du
+I de l'article R. 310-17, aux autorités de l'Etat membre sur le territoire duquel l'entreprise envisage d'opérer en liberté
+d'établissement ou en libre prestation de services comprend :
+
+1° Une attestation de l'Autorité de contrôle des assurances et des mutuelles certifiant que l'entreprise dispose de la marge
+de solvabilité conformément aux dispositions des sections II ou III du chapitre IV du titre III du livre III du présent
+code ;
+
+2° Les éléments mentionnés aux a, c, d et e du 1° du I ainsi que, s'agissant de l'ouverture d'une succursale, les éléments
+mentionnés aux a, b, d et e du 2° du I.
+
+III. - Les documents mentionnés au I sont accompagnés de leur traduction certifiée conforme dans la langue officielle de
+l'Etat membre sur le territoire duquel elle envisage d'opérer en liberté d'établissement ou en libre prestation de services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. A310-7 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. A321-1 (Ab)
+	  - Code des assurances - art. A321-2 (M)
+	  - Code des assurances - art. L322-2-3 (V)
+	  - Code des assurances R310-17, A321-1, R321-1, L322-2-3, A321-2
+
+
+###### Article A310-4
+
+I. - L'entreprise peut commencer ses activités, en liberté d'établissement :
+
+1° Soit dès réception d'une communication de l'Autorité de contrôle des assurances et des mutuelles lui indiquant les
+conditions dans lesquelles ces mêmes autorités entendent que ces activités soient exercées sur leur territoire ;
+
+2° Soit à l'expiration d'un délai de deux mois à compter de la réception des éléments mentionnés au II de l'article A. 310-3
+par les autorités de l'Etat sur le territoire duquel elle entend exercer ses activités, la date de réception de ces éléments
+étant auparavant communiquée à l'entreprise par l'Autorité de contrôle des assurances et des mutuelles.
+
+L'entreprise peut commencer ses activités, en liberté de prestation de services, dès qu'elle a été avisée de la communication
+mentionnée au deuxième alinéa du I de l'article R. 310-17.
+
+II. - 1° Lorsqu'en application du premier alinéa du II de l'article R. 310-17, une entreprise notifie à l'Autorité de
+contrôle des assurances et des mutuelles son intention de modifier la nature où les conditions d'exercice de ses activités en
+liberté d'établissement ou en libre prestation de services, cette notification est accompagnée des documents mentionnés au I
+de l'article A. 310-3 qui sont affectés par le projet de modification.
+
+2° Le dossier mentionné au second alinéa du II de l'article R. 310-17 comporte ceux des documents mentionnés au II de
+l'article A. 310-3 qui font l'objet d'une modification, ainsi qu'une attestation de l'Autorité de contrôle des assurances et
+des mutuelles certifiant que l'entreprise dispose toujours de la marge de solvabilité conformément aux dispositions des
+sections II ou III du chapitre IV du titre III du livre III du présent code.
+
+3° L'ensemble de ces documents sont accompagnés de leur traduction certifiée conforme dans la langue officielle de l'Etat
+membre de libre prestation de services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. A310-3 (T)
+	  - Code des assurances A310-3, R310-17
 
 
 ##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.
@@ -53626,6 +54500,34 @@ avril 2007 est entaché d'illégalité.
 	  - Code des assurances L310-1, A331-3 à A331-8
 
 
+###### Article A331-6
+
+Le compte financier mentionné à l'article A. 331-4 comprend, en recettes, la part du produit net des placements calculée
+suivant les règles mentionnées à l'article A. 331-7 et, en dépenses, sur autorisation de l'Autorité de contrôle des
+assurances et des mutuelles et après justifications, la part des résultats que l'entreprise a dû affecter aux fonds propres
+pour satisfaire au montant minimal réglementaire de la marge de solvabilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-4 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A331-4 (V)
+	  - Code des assurances - art. A331-7 (V)
+	  - Code des assurances - art. A331-8 (Ab)
+
+
 ###### Article A331-7
 
 Pour l'établissement du compte défini à l'article A. 331-6, la part du résultat financier à inscrire en recettes de ce compte
@@ -54044,34 +54946,6 @@ montant des intérêts crédités aux provisions mathématiques.
 	  - Code des assurances - art. A335-6 (M)
 
 
-###### Article A331-6
-
-Le compte financier mentionné à l'article A. 331-4 comprend, en recettes, la part du produit net des placements calculée
-suivant les règles mentionnées à l'article A. 331-7 et, en dépenses, sur autorisation de la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance et après justifications, la part des résultats que l'entreprise a
-dû affecter aux fonds propres pour satisfaire au montant minimal réglementaire de la marge de solvabilité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
-	**Anciens textes**:
-
-	  - Code des assurances - art. A132-4 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. A331-4 (V)
-	  - Code des assurances - art. A331-7 (V)
-	  - Code des assurances - art. A331-8 (Ab)
-
-
 ###### Article A331-9-1
 
 Lorsqu'une catégorie de contrats est assortie d'une clause de participation aux résultats, la participation affectée
@@ -54158,106 +55032,6 @@ semestrielle, sans pouvoir dépasser 3,5 p. 100.
 	  - Code des assurances - art. A331-13 (Ab)
 
 
-##### Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours.
-
-###### Article A331-17
-
-La provision pour risques en cours est calculée dans les conditions fixées au présent article.
-
-L'entreprise calcule, contrat par contrat ou par des méthodes statistiques, séparément pour chacune des catégories définies à
-l'article A. 344-2 du présent code, le montant total des charges des sinistres rattachés à l'exercice écoulé et à l'exercice
-précédent, et des frais d'administration autres que ceux immédiatement engagés et frais d'acquisition imputables à l'exercice
-écoulé et à l'exercice précédent ; elle rapporte ce total au montant des primes brutes émises au cours de ces exercices
-corrigé de la variation, sur la même période, des primes restant à émettre, des primes à annuler et de la provision pour
-primes non acquises ; si ce rapport est supérieur à 100 p. 100, l'écart constaté par rapport à 100 p. 100 est appliqué au
-montant des provisions pour primes non acquises et, le cas échéant, des primes qui seront émises, au titre des contrats en
-cours à la date de l'inventaire, pendant la période définie au 2° bis de l'article R. 331-6 ; le montant ainsi calculé est
-inscrit en provision pour risques en cours. Pour l'application du présent alinéa, les sinistres sont rattachés :
-
-- à l'exercice de survenance pour les catégories 20 à 31 et pour les acceptations couvrant ces catégories ;
-
-- à l'exercice de souscription pour les catégories 35 à 38 et pour les acceptations couvrant ces catégories.
-
-La commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut prescrire à une entreprise de
-prendre des dispositions appropriées pour le calcul prévu au précédent alinéa ; elle peut également, si le taux calculé en
-application du précédent alinéa apparaît insuffisant en raison d'évolutions récentes et significatives de la sinistralité ou
-de la tarification, prescrire l'utilisation d'un taux plus élevé ; elle peut également, sur la base de justifications
-appropriées fournies par l'entreprise, autoriser l'utilisation d'un taux inférieur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code des assurances - art. A344-2 (M)
-	  - Code des assurances - art. R*331-6 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
-
-
-##### Paragraphe 3 : Provision pour sinistres restant à payer
-
-###### Article A331-22
-
-Les provisions techniques des prestations d'incapacité et d'invalidité sont la somme :
-
-1° Des provisions correspondant aux prestations d'incapacité de travail à verser après le 31 décembre de l'exercice au titre
-des sinistres en cours à cette date majorées des provisions dites pour rentes en attente relatives aux rentes d'invalidité
-susceptibles d'intervenir ultérieurement au titre des sinistres d'incapacité en cours au 31 décembre de l'exercice ;
-
-2° Des provisions correspondant aux prestations d'invalidité à verser après le 31 décembre de l'exercice au titre des
-sinistres d'invalidité en cours à cette date.
-
-Le calcul des provisions techniques de prestations d'incapacité de travail et d'invalidité est effectué à partir des éléments
-suivants :
-
-1° Les lois de maintien en incapacité de travail et en invalidité indiquées en annexe.
-
-Toutefois, il est possible pour une entreprise d'assurances d'utiliser une loi de maintien établie par ses soins et certifiée
-par un actuaire indépendant de cette entreprise, agréé à cet effet par l'une des associations d'actuaires reconnues par la
-commission de contrôle des assurances, des mutuelles et des institutions de prévoyance ;
-
-2° Un taux d'actualisation qui ne peut excéder 75 p. 100 du taux moyen des emprunts de l'Etat français calculé sur base
-semestrielle, sans pouvoir dépasser 4,5 p. 100.
-
-Ces dispositions ne s'appliquent pas aux prestations issues de contrats d'assurance de groupe souscrits par un établissement
-de crédit, ayant pour objet la garantie du remboursement d'un emprunt ni à celles issues de contrats d'assurance couvrant des
-risques visés au 3° du premier alinéa de l'article L. 310-1 du code des assurances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Arrêté du 24 décembre 2010 (V)
-	  - Arrêté du 24 décembre 2010 - art. 1 (V)
-	  - Code des assurances - art. A331-21 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R331-22
-
-
 ##### Section III : Provisions techniques des autres opérations d'assurance
 
 ##### Paragraphe 1 : Provision mathématique des rentes.
@@ -54311,6 +55085,50 @@ du présent code, contrat par contrat ou sur la base de méthodes statistiques.
 	**Cite**:
 
 	  - Code des assurances - art. A344-2 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
+
+
+###### Article A331-17
+
+La provision pour risques en cours est calculée dans les conditions fixées au présent article.
+
+L'entreprise calcule, contrat par contrat ou par des méthodes statistiques, séparément pour chacune des catégories définies à
+l'article A. 344-2 du présent code, le montant total des charges des sinistres rattachés à l'exercice écoulé et à l'exercice
+précédent, et des frais d'administration autres que ceux immédiatement engagés et frais d'acquisition imputables à l'exercice
+écoulé et à l'exercice précédent ; elle rapporte ce total au montant des primes brutes émises au cours de ces exercices
+corrigé de la variation, sur la même période, des primes restant à émettre, des primes à annuler et de la provision pour
+primes non acquises ; si ce rapport est supérieur à 100 %, l'écart constaté par rapport à 100 % est appliqué au montant des
+provisions pour primes non acquises et, le cas échéant, des primes qui seront émises, au titre des contrats en cours à la
+date de l'inventaire, pendant la période définie au 2° bis de l'article R. 331-6 ; le montant ainsi calculé est inscrit en
+provision pour risques en cours. Pour l'application du présent alinéa, les sinistres sont rattachés :
+
+- à l'exercice de survenance pour les catégories 20 à 31 et pour les acceptations couvrant ces catégories ;
+
+- à l'exercice de souscription pour les catégories 35 à 38 et pour les acceptations couvrant ces catégories.
+
+L'Autorité de contrôle des assurances et des mutuelles peut prescrire à une entreprise de prendre des dispositions
+appropriées pour le calcul prévu au précédent alinéa ; elle peut également, si le taux calculé en application du précédent
+alinéa apparaît insuffisant en raison d'évolutions récentes et significatives de la sinistralité ou de la tarification,
+prescrire l'utilisation d'un taux plus élevé ; elle peut également, sur la base de justifications appropriées fournies par
+l'entreprise, autoriser l'utilisation d'un taux inférieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. A344-2 (M)
+	  - Code des assurances - art. R*331-6 (M)
 
 	**Liens**:
 
@@ -54561,6 +55379,58 @@ est prescrit ci-dessus et majorées d'une estimation du montant des recours à e
 	**Cite**:
 
 	  - Code des assurances - art. R331-17 (V)
+
+
+###### Article A331-22
+
+Les provisions techniques des prestations d'incapacité et d'invalidité sont la somme :
+
+1° Des provisions correspondant aux prestations d'incapacité de travail à verser après le 31 décembre de l'exercice au titre
+des sinistres en cours à cette date majorées des provisions dites pour rentes en attente relatives aux rentes d'invalidité
+susceptibles d'intervenir ultérieurement au titre des sinistres d'incapacité en cours au 31 décembre de l'exercice ;
+
+2° Des provisions correspondant aux prestations d'invalidité à verser après le 31 décembre de l'exercice au titre des
+sinistres d'invalidité en cours à cette date.
+
+Le calcul des provisions techniques de prestations d'incapacité de travail et d'invalidité est effectué à partir des éléments
+suivants :
+
+1° Les lois de maintien en incapacité de travail et en invalidité indiquées en annexe.
+
+Toutefois, il est possible pour une entreprise d'assurances d'utiliser une loi de maintien établie par ses soins et certifiée
+par un actuaire indépendant de cette entreprise, agréé à cet effet par l'une des associations d'actuaires reconnues par
+l'Autorité de contrôle des assurances et des mutuelles ;
+
+2° Un taux d'actualisation qui ne peut excéder 75 p. 100 du taux moyen des emprunts de l'Etat français calculé sur base
+semestrielle, sans pouvoir dépasser 4,5 p. 100.
+
+Ces dispositions ne s'appliquent pas aux prestations issues de contrats d'assurance de groupe souscrits par un établissement
+de crédit, ayant pour objet la garantie du remboursement d'un emprunt ni à celles issues de contrats d'assurance couvrant des
+risques visés au 3° du premier alinéa de l'article L. 310-1 du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - Arrêté du 24 décembre 2010 (V)
+	  - Arrêté du 24 décembre 2010 - art. 1 (V)
+	  - Code des assurances - art. A331-21 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances R331-22
 
 
 ###### Article A331-24
@@ -76558,22 +77428,22 @@ envisagée, l'ensemble des dispositions législatives et réglementaires qui lui
 l'article A. 343-1, 3e alinéa, du présent code.
 
 III. - La dérogation visée au troisième alinéa de l'article R. 332-17 ne peut être accordée que dans la mesure où, de l'avis
-de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, elle ne diminue pas la qualité
-de la représentation des engagements réglementés, et notamment dans les limites fixées ci-après :
+de l'Autorité de contrôle des assurances et des mutuelles, elle ne diminue pas la qualité de la représentation des
+engagements réglementés, et notamment dans les limites fixées ci-après :
 
-- la durée, fixée initialement par la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance,
-ne peut excéder un exercice, éventuellement renouvelable dans les conditions définies par la commission ;
+- la durée, fixée initialement par l'Autorité de contrôle des assurances et des mutuelles, ne peut excéder un exercice,
+éventuellement renouvelable dans les conditions définies par l'Autorité ;
 
 - le montant total des garanties admises au titre de ladite dérogation ne peut à aucun moment excéder :
 
-- le montant maximum fixé par la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance ;
+- le montant maximum fixé par l'Autorité de contrôle des assurances et des mutuelles ;
 
 - la moitié du montant total des engagements réglementés tels que définis à l'article R. 331-1 du présent code ;
 
 - les deux tiers du montant total de la part des réassureurs dans les provisions techniques.
 
-IV. - La dérogation peut être supprimée à tout moment par la commission si celle-ci estime que les conditions l'ayant
-justifiée ne sont plus remplies.
+IV. - La dérogation peut être supprimée à tout moment par l'Autorité si celle-ci estime que les conditions l'ayant justifiée
+ne sont plus remplies.
 
 **Liens relatifs à cet article**
 
@@ -76594,7 +77464,7 @@ justifiée ne sont plus remplies.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Liens**:
 
@@ -76988,11 +77858,11 @@ Il n'est pas tenu compte des profits et charges à caractère exceptionnel.
 ###### Article A334-2
 
 Le facteur mentionné à l'article R. 334-11, par lequel le bénéfice annuel estimé peut être multiplié, représente la durée
-résiduelle moyenne des contrats corrigée comme il est dit au troisième alinéa. Ce facteur ne peut excéder six.
+résiduelle moyenne des contrats corrigée comme il est dit au troisième alinéa. Ce facteur ne peut excéder six. 
 
 La durée résiduelle moyenne, à la date du calcul de la marge de solvabilité, est déterminée comme une moyenne pondérée des
-durées résiduelles des contrats à la même date. Ce calcul s'effectue, après accord de la commission de contrôle, à partir de
-la prime annuelle (ou une prime équivalente, compte tenu de la durée du contrat) ou de la provision mathématique.
+durées résiduelles des contrats à la même date. Ce calcul s'effectue, après accord de l'autorité de contrôle, à partir de la
+prime annuelle (ou une prime équivalente, compte tenu de la durée du contrat) ou de la provision mathématique. 
 
 Cette durée résiduelle moyenne est corrigée, sur la base des statistiques afférentes aux cinq dernières années, pour tenir
 compte de l'extinction des contrats avant leur terme.
@@ -77005,16 +77875,12 @@ compte de l'extinction des contrats avant leur terme.
 
 	**Modifié par**:
 
-	  - Arrêté 2003-12-26 art. 1 JORF 31 décembre 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. R*334-11 (M)
+	  - Code des assurances - art. R334-11 (V)
 
-
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie
-
-##### Paragraphe 1 : Constitution de la marge de solvabilité.
 
 ###### Article A334-3
 
@@ -77035,14 +77901,14 @@ règlement de toutes les dettes existant à la date de la liquidation ou contrac
 
 e) Ces titres ont la capacité d'absorber les pertes, même en cas de poursuite de l'activité ;
 
-f) Les statuts prévoient qu'ils ne peuvent être modifiés qu'après que la commission de contrôle aura déclaré, après avoir
+f) Les statuts prévoient qu'ils ne peuvent être modifiés qu'après que l'autorité de contrôle aura déclaré, après avoir
 vérifié que le contrat modifié continuera de remplir les conditions fixées au présent article, ne pas s'opposer à la
 modification envisagée ;
 
 g) Si les statuts prévoient une possibilité de rachat des actions de préférence par l'entreprise émettrice ou si la
 conversion des actions de préférence en actions ordinaires se traduit par une réduction de capital, ce rachat ou cette
-conversion ne peut intervenir avant 5 ans à compter de la date d'émission et nécessite l'approbation préalable de la
-commission de contrôle
+conversion ne peut intervenir avant 5 ans à compter de la date d'émission et nécessite l'approbation préalable de l'autorité
+de contrôle
 
 II. - Les actions de préférence entrant dans la composition de la marge de solvabilité mentionnées au 1 du Il des articles R.
 334-3 et R. 334-11 doivent répondre aux conditions fixées au I du présent article, à l'exception du a, du b et du c.
@@ -77057,41 +77923,41 @@ besoins de celle-ci ;
 2° Le contrat d'émission ou d'emprunt ne comporte pas de clause prévoyant que, dans des circonstances déterminées autres que
 la liquidation de l'entreprise d'assurance débitrice, la dette devra être remboursée avant l'échéance convenue ;
 
-3° Le contrat d'émission ou d'emprunt prévoit qu'il ne pourra être modifié qu'après que la Commission de contrôle des
-assurances aura déclaré, après avoir vérifié que le contrat modifié continuera de remplir les conditions fixées au présent
-article, ne pas s'opposer à la modification envisagée ;
+3° Le contrat d'émission ou d'emprunt prévoit qu'il ne pourra être modifié qu'après que l'autorité de contrôle des assurances
+et des mutuelles aura déclaré, après avoir vérifié que le contrat modifié continuera de remplir les conditions fixées au
+présent article, ne pas s'opposer à la modification envisagée ;
 
 4° Le contrat d'émission ou d'emprunt doit prévoir une échéance de remboursement des fonds au moins égale à cinq ans ou,
 lorsque aucune échéance n'est fixée, un préavis d'au moins cinq ans pour tout remboursement.
 
 IV. - Au plus tard un an avant la date prévue pour le remboursement de tout ou partie des fonds visés au II et au III ci-
-dessus, l'entreprise d'assurance débitrice soumet à la Commission de contrôle des assurances un plan indiquant comment la
-marge de solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. Ce plan n'est pas exigé
-si la part des fonds incluse dans la marge de solvabilité est progressivement et régulièrement ramenée à zéro par
+dessus, l'entreprise d'assurance débitrice soumet à l'autorité de contrôle des assurances et des mutuelles un plan indiquant
+comment la marge de solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. Ce plan n'est
+pas exigé si la part des fonds incluse dans la marge de solvabilité est progressivement et régulièrement ramenée à zéro par
 l'entreprise d'assurance au cours des cinq dernières années au moins avant l'échéance de remboursement.
 
 V. - Les fonds provenant des emprunts et titres subordonnés à durée déterminée entrant dans la composition de la marge de
-solvabilité peuvent être remboursés par anticipation à l'initiative de l'entreprise d'assurance débitrice si la Commission de
-contrôle des assurances a préalablement autorisé un tel remboursement, après s'être assurée que la marge de solvabilité ne
-risquait pas d'être ramenée en dessous du niveau nécessaire pour garantir durablement le respect de la marge requise par la
-réglementation.
+solvabilité peuvent être remboursés par anticipation à l'initiative de l'entreprise d'assurance débitrice si l'autorité de
+contrôle des assurances et des mutuelles a préalablement autorisé un tel remboursement, après s'être assurée que la marge de
+solvabilité ne risquait pas d'être ramenée en dessous du niveau nécessaire pour garantir durablement le respect de la marge
+requise par la réglementation.
 
-Dans les mêmes conditions, la Commission de contrôle des assurances peut autoriser le remboursement des fonds provenant des
-emprunts et titres subordonnés à durée indéterminée entrant dans la composition de la marge de solvabilité sans application
-du préavis prévu au 4° du III du présent article.
+Dans les mêmes conditions, l'autorité de contrôle des assurances et des mutuelles peut autoriser le remboursement des fonds
+provenant des emprunts et titres subordonnés à durée indéterminée entrant dans la composition de la marge de solvabilité sans
+application du préavis prévu au 4° du III du présent article.
 
-Dans les cas visés au présent paragraphe, l'entreprise d'assurance débitrice soumet au moins six mois à l'avance à la
-Commission de contrôle des assurances, à l'appui de sa demande d'autorisation, un plan indiquant comment la marge de
+Dans les cas visés au présent paragraphe, l'entreprise d'assurance débitrice soumet au moins six mois à l'avance à l'autorité
+de contrôle des assurances et des mutuelles, à l'appui de sa demande d'autorisation, un plan indiquant comment la marge de
 solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. L'absence de décision notifiée à
 l'entreprise à l'expiration d'un délai de six mois vaut autorisation.
 
 Sont notamment soumis aux dispositions du présent paragraphe l'amortissement anticipé par offre publique d'achat ou d'échange
 et le rachat en bourse de titres cotés ; toutefois un émetteur peut racheter en bourse sans autorisation préalable jusqu'à 5
-% des titres émis, à condition d'informer la Commission de contrôle des assurances des rachats effectués.
+% des titres émis, à condition d'informer l'autorité de contrôle des assurances et des mutuelles des rachats effectués.
 
 VI. - Les contrats d'émission concernant des emprunts et titres à durée indéterminée qui prévoient formellement que tout
-remboursement est subordonné à autorisation préalable de la Commission de contrôle des assurances n'ont pas à prévoir le
-délai de préavis minimum visé au 4° du III du présent article.
+remboursement est subordonné à autorisation préalable de l'autorité de contrôle des assurances et des mutuelles n'ont pas à
+prévoir le délai de préavis minimum visé au 4° du III du présent article.
 
 **Liens relatifs à cet article**
 
@@ -77101,59 +77967,24 @@ délai de préavis minimum visé au 4° du III du présent article.
 
 	**Modifié par**:
 
-	  - Arrêté 2005-05-31 art. 1 JORF 1er juin 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 novembre 2008 - art. 5
 
 	**Cite**:
 
-	  - Code de commerce. - art. L232-11 (M)
-	  - Code des assurances - art. L334-1 (M)
-	  - Code des assurances - art. R*334-11 (M)
-	  - Code des assurances - art. R*334-3 (M)
+	  - Code de commerce - art. L232-11
+	  - Code des assurances - art. L334-1
+	  - Code des assurances - art. R*334-11
+	  - Code des assurances - art. R*334-3
 
 	**Cité par**:
 
 	  - Code des assurances - art. A331-4 (V)
 	  - Code des assurances - art. A331-7 (M)
 	  - Code des assurances - art. A334-4 (V)
-
-
-##### Section VIII : La surveillance complémentaire des entreprises d' assurance faisant partie d'un groupe d'assurance
-
-###### Article A334-6
-
-La déclaration des opérations mentionnées à l'article R. 334-45 est jointe au dossier mentionné à l'article A. 344-14, annexe
-II. L'entreprise soumise à surveillance complémentaire présente en outre, dès lors qu'elles ne sont ni incluses dans les
-documents décrits à l'annexe II de l'article A. 344-14 ni, le cas échéant, décrites dans l'état G 22 prévu à l'article A.
-344-14-1, les opérations, effectuées directement ou indirectement entre entreprises du groupe auquel elle appartient,
-supérieures à 5 % des fonds propres ou à 0,5 % des provisions techniques du groupe tels que calculés à la clôture de
-l'exercice précédent. Ce tableau doit isoler les opérations suivantes : les prêts, les transactions portant sur les éléments
-admissibles pour la marge de solvabilité, les investissements, l'état des cessions d'actifs internes au groupe (notamment les
-ventes d'immeubles ou de titres non cotés) et les engagements d'un montant défini reçus ou donnés hors bilan. Chacune de ces
-opérations doit être déclarée en précisant la société vendeuse, la société acheteuse, la valeur comptable dans la première,
-le prix de vente et la référence ayant permis d'établir celui-ci.
-
-Les opérations nouvelles mentionnées à cet article sont déclarées à l'issue de chaque trimestre dans les 30 jours à la
-Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
-
-En outre, dans tous les cas, les rachats ou remboursements des titres et emprunts subordonnés effectués directement ou
-indirectement entre entreprises apparentées du même groupe sont déclarés sans délai par l'entreprise soumise à surveillance
-complémentaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
-
-	**Cite**:
-
-	  - Code des assurances - art. A344-14 (M)
-	  - Code des assurances - art. A344-14-1 (M)
-	  - Code des assurances - art. R334-45 (M)
 
 
 ##### Section VIII : La surveillance complémentaire des entreprises d'assurance faisant partie d'un groupe d'assurance.
@@ -77241,7 +78072,7 @@ e) Les avantages du personnel ;
 
 f) Le périmètre de consolidation.
 
-La commission de contrôle peut dispenser une entreprise ou l'ensemble des entreprises d'assurance d'effectuer un ou plusieurs
+L'autorité de contrôle peut dispenser une entreprise ou l'ensemble des entreprises d'assurance d'effectuer un ou plusieurs
 des retraitements mentionnés à l'article R. 334-42 dès lors que ce ou ces retraitements, pris ensemble ou séparément, ont un
 impact marginal sur le calcul de la marge de solvabilité ajustée.
 
@@ -77253,11 +78084,48 @@ impact marginal sur le calcul de la marge de solvabilité ajustée.
 
 	**Modifié par**:
 
-	  - Arrêté 2005-08-02 art. 1 JORF 19 août 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
 	  - Code des assurances - art. R334-42 (M)
+
+
+###### Article A334-6
+
+La déclaration des opérations mentionnées à l'article R. 334-45 est jointe au dossier mentionné à l'article A. 344-14, annexe
+II. L'entreprise soumise à surveillance complémentaire présente en outre, dès lors qu'elles ne sont ni incluses dans les
+documents décrits à l'annexe II de l'article A. 344-14 ni, le cas échéant, décrites dans l'état G 22 prévu à l'article A.
+344-14-1, les opérations, effectuées directement ou indirectement entre entreprises du groupe auquel elle appartient,
+supérieures à 5 % des fonds propres ou à 0,5 % des provisions techniques du groupe tels que calculés à la clôture de
+l'exercice précédent. Ce tableau doit isoler les opérations suivantes : les prêts, les transactions portant sur les éléments
+admissibles pour la marge de solvabilité, les investissements, l'état des cessions d'actifs internes au groupe (notamment les
+ventes d'immeubles ou de titres non cotés) et les engagements d'un montant défini reçus ou donnés hors bilan. Chacune de ces
+opérations doit être déclarée en précisant la société vendeuse, la société acheteuse, la valeur comptable dans la première,
+le prix de vente et la référence ayant permis d'établir celui-ci.
+
+Les opérations nouvelles mentionnées à cet article sont déclarées à l'issue de chaque trimestre dans les 30 jours à
+l'Autorité de contrôle des assurances et des mutuelles.
+
+En outre, dans tous les cas, les rachats ou remboursements des titres et emprunts subordonnés effectués directement ou
+indirectement entre entreprises apparentées du même groupe sont déclarés sans délai par l'entreprise soumise à surveillance
+complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. A344-14 (M)
+	  - Code des assurances - art. A344-14-1 (M)
+	  - Code des assurances - art. R334-45 (M)
 
 
 ##### Section IX : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier.
@@ -77426,24 +78294,28 @@ montant du total de leur bilan correspondant à la part proportionnelle agrégé
 
 ###### Article A334-11
 
-Conformément au III de l'article L. 334-5, la commission de contrôle, en tant que coordonnateur, peut décider d'assujettir un
+Conformément au III de l'article L. 334-5, l'autorité de contrôle, en tant que coordonnateur, peut décider d'assujettir un
 sous-groupe d'un conglomérat financier à la surveillance complémentaire, dès lors que le conglomérat financier auquel ce
 sous-groupe appartient ne respecte pas les exigences de la surveillance complémentaire ou que la répartition de ses fonds
 propres n'est pas adaptée aux objectifs de la surveillance complémentaire.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 17
+
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L334-5 (V)
+	  - Code des assurances - art. L334-5
 
 
 ###### Article A334-12
@@ -77527,62 +78399,72 @@ sanctions et mesures exceptionnelles envisagées par les autorités compétentes
 En cas d'urgence, ou lorsque cette consultation risque de compromettre l'efficacité de la décision, une autorité compétente
 peut décider de ne pas consulter ses homologues, sous réserve de les informer sans délai de cette décision.
 
-3° La Commission de contrôle coopère étroitement avec les autres autorités compétentes en vue de rechercher l'effectivité des
+3° L'autorité de contrôle coopère étroitement avec les autres autorités compétentes en vue de rechercher l'effectivité des
 sanctions ou mesures adoptées conformément aux articles L. 334-16 et L. 334-17.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 17
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L334-13 (M)
-	  - Code des assurances - art. L334-16 (M)
-	  - Code des assurances - art. L334-17 (M)
+	  - Code des assurances - art. L334-13
+	  - Code des assurances - art. L334-16
+	  - Code des assurances - art. L334-17
 
 
 ###### Article A334-14
 
-I. - Lorsque l'entité à la tête d'un conglomérat financier, dont la commission de contrôle est le coordonnateur, a son siège
-social dans un autre Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen, la commission de
+I. - Lorsque l'entité à la tête d'un conglomérat financier, dont l'autorité de contrôle est le coordonnateur, a son siège
+social dans un autre Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen, l'autorité de
 contrôle peut inviter les autorités compétentes de cet Etat, d'une part, à demander à cette entité de leur fournir toutes
 informations utiles à l'accomplissement de sa mission de coordination, au sens de l'article L. 334-10, d'autre part, à lui
 communiquer lesdites informations.
 
-La commission de contrôle communique, à la demande d'un coordonnateur d'un autre Etat membre ou d'un autre Etat partie à
+L'autorité de contrôle communique, à la demande d'un coordonnateur d'un autre Etat membre ou d'un autre Etat partie à
 l'accord sur l'Espace économique européen, toutes informations utiles à l'accomplissement de la mission de ce coordonnateur,
 définie à l'article L. 334-11.
 
-II. - Lorsque la commission de contrôle est l'autorité en charge de la vérification mentionnée à l'article L. 334-18, elle
+II. - Lorsque l'autorité de contrôle est l'autorité en charge de la vérification mentionnée à l'article L. 334-18, elle
 consulte les autres autorités compétentes concernées. Elle consulte également, avant de prendre une décision, le comité des
 conglomérats financiers prévu à l'article 21 de la directive 2002/ 87/CE du Parlement européen et du Conseil du 16 décembre
 2002 pour tenir compte des lignes directrices élaborées par ce comité.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 17
+
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
-
-	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
-
 	**Cité par**:
 
 	  - Arrêté du 16 mai 2002 - art. 4 (V)
+	  - Code des assurances - art. Annexe art. A344-14-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L334-10 (M)
-	  - Code des assurances - art. L334-11 (V)
-	  - Code des assurances - art. L334-18 (M)
+	  - Code des assurances - art. L334-10
+	  - Code des assurances - art. L334-11
+	  - Code des assurances - art. L334-18
+	  - Directive 2002-87 CE 2002-12-16 art. 21
 
 
 ###### Article A334-15
@@ -77611,8 +78493,8 @@ conglomérat financier, et
 b) Les éléments inclus, selon des règles spécifiques, dans les fonds propres prudentiels des entités relevant du secteur
 bancaire et des services d'investissement.
 
-Aux fins de l'admission des éléments prudentiels dans les fonds propres du conglomérat financier, la commission de contrôle,
-en tant que coordonnateur, tient compte de la disponibilité et la transférabilité effectives des fonds entre les différentes
+Aux fins de l'admission des éléments prudentiels dans les fonds propres du conglomérat financier, l'autorité de contrôle, en
+tant que coordonnateur, tient compte de la disponibilité et la transférabilité effectives des fonds entre les différentes
 entités du conglomérat financier.
 
 III. - Pour l'application des méthodes 2 et 3 définies à l'article R. 334-50, les fonds propres et les exigences de
@@ -77620,14 +78502,14 @@ solvabilité d'une entité sont déterminés à partir de ses comptes annuels co
 l'article R. 334-49.
 
 Ils sont pris en compte à concurrence de la part de capital souscrit détenue, directement ou indirectement, par les entités
-du conglomérat financier ou, lorsqu'il n'y a pas de lien en capital, pour la part déterminée par la commission de contrôle,
+du conglomérat financier ou, lorsqu'il n'y a pas de lien en capital, pour la part déterminée par l'autorité de contrôle,
 après consultation des autres autorités compétentes concernées, en fonction de la responsabilité née de la relation existant
 entre l'entité et les autres entités du conglomérat financier.
 
 En outre, lorsque l'entité présente un déficit de solvabilité, ce déficit est pris en compte en totalité. Toutefois, dans le
 cas où la responsabilité de l'entreprise mère détenant une part de capital est limitée, strictement et sans ambiguïté, à
-cette part de capital, la commission de contrôle peut décider d'admettre que le déficit de l'entité est pris en compte sur
-une base proportionnelle.
+cette part de capital, l'autorité de contrôle peut décider d'admettre que le déficit de l'entité est pris en compte sur une
+base proportionnelle.
 
 Les opérations intragroupe sont éliminées d'une manière équivalente à celle prévue pour l'établissement des comptes
 consolidés ou combinés mentionnés à l'article L. 345-2.
@@ -77638,9 +78520,9 @@ consolidés ou combinés mentionnés à l'article L. 345-2.
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2005-09-19 art. 2 JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -78398,6 +79280,33 @@ Les informations suivantes doivent être portées sur un document pouvant être 
 
 ##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance.
 
+###### Article A342-8
+
+Les entreprises qui participent à des groupements de coassurance ou de coréassurance doivent établir, pour chacun de ces
+groupements, un document facilement accessible indiquant de manière détaillée le fonctionnement du groupement et le mode de
+traitement comptable des opérations effectuées par l'entreprise dans le cadre du groupement.
+
+L'entreprise doit être en mesure de justifier de toutes les écritures comptables relatives aux opérations effectuées dans le
+cadre du groupement, notamment du calcul des provisions.
+
+Toutefois, si le groupement s'engage, à l'égard de l'Autorité de contrôle des assurances et des mutuelles et à l'égard de ses
+adhérents, à tenir sa comptabilité et à évaluer les provisions techniques conformément aux règles applicables aux entreprises
+d'assurance, et à se soumettre au contrôle de l'Autorité de contrôle des assurances et des mutuelles, les chiffres transmis à
+l'entreprise par le groupement constituent une justification suffisante. L'Autorité de contrôle des assurances et des
+mutuelles peut à tout moment retirer le bénéfice de cette disposition aux entreprises adhérentes à un groupement, notamment
+lorsque celui-ci n'a pas respecté ses engagements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+
 ###### Article A342-9
 
 Lorsque l'intérêt d'une entreprise dans la répartition des affaires centralisées par un groupement de coréassurance est
@@ -78422,36 +79331,6 @@ groupement par les autres entreprises adhérentes comme acceptations en réassur
 	**Cité par**:
 
 	  - Arrêté du 11 septembre 1995 - art. 6 (V)
-
-
-##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance.
-
-###### Article A342-8
-
-Les entreprises qui participent à des groupements de coassurance ou de coréassurance doivent établir, pour chacun de ces
-groupements, un document facilement accessible indiquant de manière détaillée le fonctionnement du groupement et le mode de
-traitement comptable des opérations effectuées par l'entreprise dans le cadre du groupement.
-
-L'entreprise doit être en mesure de justifier de toutes les écritures comptables relatives aux opérations effectuées dans le
-cadre du groupement, notamment du calcul des provisions.
-
-Toutefois, si le groupement s'engage, à l'égard de la Commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance et à l'égard de ses adhérents, à tenir sa comptabilité et à évaluer les provisions techniques
-conformément aux règles applicables aux entreprises d'assurance, et à se soumettre au contrôle de la Commission de contrôle
-des assurances, des mutuelles et des institutions de prévoyance, les chiffres transmis à l'entreprise par le groupement
-constituent une justification suffisante. La Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance peut à tout moment retirer le bénéfice de cette disposition aux entreprises adhérentes à un groupement, notamment
-lorsque celui-ci n'a pas respecté ses engagements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 
 #### Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation.
@@ -80012,9 +80891,9 @@ d'assurance directe.
 
 ###### Article A344-1
 
-Les sociétés d'épargne et les entreprises tontinières peuvent, sous réserve de l'accord de la Commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance, adapter à leur situation particulière les modèles prévus pour
-les entreprises agréées pour les opérations mentionnées au 1° de l'article L. 310-1.
+Les sociétés d'épargne et les entreprises tontinières peuvent, sous réserve de l'accord de l'Autorité de contrôle des
+assurances et des mutuelles, adapter à leur situation particulière les modèles prévus pour les entreprises agréées pour les
+opérations mentionnées au 1° de l'article L. 310-1.
 
 **Liens relatifs à cet article**
 
@@ -80024,7 +80903,7 @@ les entreprises agréées pour les opérations mentionnées au 1° de l'article 
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -80217,308 +81096,6 @@ modèle d'annexe.
 	  - Code des assurances annexe, L310-1, L310-1-1, A344-2
 
 
-###### Article A344-6
-
-I. - Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 et celles soumises au contrôle de l'Etat en application de
-l'article L. 310-1-1 remettent chaque année à la commission de contrôle :
-
-1° Dans les quatre mois suivant la clôture de l'exercice, le compte rendu détaillé annuel défini à l'article A. 344-8 ci-
-après ;
-
-2° Dans les trente jours qui suivent leur approbation par l'assemblée générale, leurs comptes annuels dans les conditions
-définies à l'article A. 344-1-1 ci-après ;
-
-3° Dans les trente jours suivant leur approbation par le conseil d'administration ou le conseil de surveillance, les rapports
-mentionnés aux articles L. 322-2-4 et R. 336-1 et R. 336-5.
-
-II. - Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 et celles soumises au contrôle de l'Etat en application
-de l'article L. 310-1-1 remettent à la commission de contrôle, dans le mois suivant la fin de chaque trimestre, les états
-relatifs aux opérations réalisées au cours du trimestre définis à l'article A. 344-13.
-
-**Nota:**
-
-Arrêté 2005-06-10 art. 8 : Ces dispositions sont applicables, pour la première fois, à l'élaboration et à la remise des états
-relatifs aux comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 2005-06-10 art. 2 JORF 26 juin 2005
-
-	**Cité par**:
-
-	  - Arrêté du 28 juillet 1995 - art. 1 (V)
-	  - Arrêté du 28 juillet 1995 - art. 4 (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 159 quater A (P)
-	  - Code des assurances - art. A132-5 (T)
-	  - Code des assurances - art. A344-11 (Ab)
-	  - Code des assurances - art. A344-12 (Ab)
-	  - Code des assurances - art. A344-13 (Ab)
-	  - Code des assurances - art. A344-7 (M)
-	  - Code des assurances - art. A344-8 (V)
-	  - Code des assurances - art. R342-25 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. A344-13 (M)
-	  - TXT_SOURCE: Code des assurances - art. L310-1-1 (V)
-	  - TXT_SOURCE: Code des assurances - art. L310-2 (M)
-	  - TXT_SOURCE: Code des assurances - art. L322-2-4 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
-	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
-
-
-###### Article A344-7
-
-La Commission de contrôle des assurances détermine le nombre d'exemplaires et les supports matériels utilisés par les
-entreprises pour la fourniture des documents mentionnés à l'article A. 344-6 et A. 344-14.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 2002-05-16 art. 3 JORF 17 mai 2002
-
-	**Cité par**:
-
-	  - Arrêté du 28 juillet 1995 - art. 1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
-	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
-
-	**Cite**:
-
-	  - Code des assurances A344-6 et A344-14
-
-
-###### Article A344-14
-
-Les entreprises soumises à la surveillance complémentaire en application du premier alinéa de l'article L. 334-3 et des
-articles R. 334-40, R. 334-44 et R. 334-45 et les sociétés de groupe d'assurance fournissent chaque année à la commission de
-contrôle des assurances, avant le 30 avril, un dossier constitué conformément aux annexes 1 et 2 du présent article. Les
-entreprises mentionnées au deuxième alinéa de l'article L. 334-3 fournissent seulement les états décrits à l'annexe 2.
-
-Le dossier est certifié par le président du conseil d'administration ou le président du directoire ou le directeur général
-unique dans les sociétés anonymes, par le directeur et par le président du conseil d'administration dans les sociétés
-d'assurance mutuelles et leurs unions, par le mandataire général ou son représentant légal dans les succursales d'entreprises
-étrangères, sous la formule suivante : "Le présent document, comprenant X feuillets numérotés, est certifié, sous peine de
-l'application des sanctions prévues à l'article L. 310-28 du code des assurances, conforme aux écritures de l'entreprise et
-de ses entreprises apparentées, et aux dispositions du titre IV du livre III du même code".
-
-La commission de contrôle des assurances peut dispenser une entreprise de produire les éléments du dossier prévus à l'annexe
-1 lorsque ce dossier est fourni par une entreprise apparentée ou lorsque la commission a attribué l'exercice de la
-surveillance complémentaire à une autre autorité conformément à l'article R. 334-44.
-
-ANNEXE 1
-
-1. Renseignements généraux
-
-La raison sociale de l'entreprise consolidante ou combinante, son adresse, la date de sa constitution.
-
-Les nom, date et lieu de naissance, nationalité, domicile et profession des membres du conseil d'administration ou du conseil
-de surveillance de cette entreprise.
-
-Les nom, date et lieu de naissance, domicile, grade et fonction des personnels exerçant ces fonctions de direction au niveau
-du groupe.
-
-Les nom, adresse et date de désignation des commissaires aux comptes titulaires et suppléants de l'entreprise consolidante ou
-combinante.
-
-Le statut fiscal : bénéfice consolidé (France ou monde) ou non.
-
-Liste des entreprises consolidées ou combinées avec indication lorsqu'elles appartiennent à une activité soumise à un
-contrôle (banques, assurances, gestion financière) des autorités au contrôle auxquelles elles sont soumises ainsi que de la
-part détenue et du montant des fonds propres.
-
-L'organigramme du groupe avec les pourcentages de détention.
-
-La liste des prêts intra-groupes.
-
-2. Compte de résultat, bilans consolidés ou combinés et annexe complétés par les rapports de gestion et des commissaires aux
-comptes
-
-Lorsque l'entreprise consolidante a fait usage des facultés de dérogation prévues par le règlement CRC 2000-05 pour ne pas
-retraiter les comptes d'une entreprise, les sources d'écart sont explicitées et accompagnées d'une estimation chiffrée.
-
-Si le groupe est soumis à obligation de publication des comptes par la COB, les documents établis en application de cette
-obligation sont joints au dossier annuel.
-
-Les informations des points 3, 5 et 6 ne sont pas exigées pour les entreprises mises en équivalence.
-
-3. Etat de ventilation des principales données techniques (état G1)
-
-Ventilation par entreprises des primes émises, soldes de souscription, provisions techniques et contribution aux résultats.
-Doivent figurer dans cet état toutes les entreprises d'assurances représentant plus de 5 % des primes ou des provisions
-techniques. Les entreprises dans un même pays formant un sous-groupe peuvent être regroupées. Les données des autres
-entreprises sont regroupées en trois rubriques : France, Union européenne (hors France), reste du monde. Cette ventilation
-s'effectue séparément pour les activités vie et non-vie.
-
-4. Etat de marge ajustée (état G2)
-
-Un premier tableau établit le besoin de marge en ventilant selon le mode de consolidation et en indiquant les pourcentages
-appliqués pour les entreprises en intégration proportionnelle ou mises en équivalence :
-
-- pour les entreprises établies dans l'Union européenne, cet état récapitule les besoins de marge de chaque entreprise. S'il
-y a lieu, ce besoin de marge sera ensuite corrigé des incidences des cessions internes ;
-
-- pour les entreprises hors Union européenne sont récapitulés les besoins de fonds propres et assimilés découlant des
-législations nationales. Ces éléments seront éventuellement corrigés des incidences de la réassurance interne.
-
-En pied de tableau sont indiquées à titre informatif pour les activités hors assurances réglementées les exigences de fonds
-propres découlant des législations régissant ces activités.
-
-Un second tableau analyse la façon dont ces exigences sont satisfaites au niveau groupe :
-
-- fonds propres part du groupe ;
-
-- intérêts minoritaires et leurs affectabilité aux différentes entités ;
-
-- plus-values latentes et leur affectabilité aux différentes entités ;
-
-- autres éléments éventuels.
-
-Pour les entreprises appliquant les normes comptables internationales adoptées par règlement de la Commission européenne, un
-troisième tableau fait apparaître les retraitements mentionnnés à l'article R. 334-42. Ce tableau est accompagné d'une annexe
-décrivant les règles et principes retenus pour l'identification et le calcul de ces retraitements.
-
-5. Etat d'analyse de l'équilibre technique non-vie (état G3)
-
-Ventilation par entreprise des soldes de souscription séparant résultat de l'exercice et résultat de la liquidation sur
-exercices antérieurs. Ces données sont brutes de réassurance.
-
-6. Etat d'analyse des provisions techniques vie (état G4)
-
-Ventilation des provisions techniques par entreprise et par type d'engagement : en unités de compte sans risque de placement,
-en unités de compte avec risque de placement, en euros ou en devises.
-
-Ventilation des provisions techniques des engagements en euros ou en devises par entreprise et par taux d'intérêt utilisés
-pour leur calcul, par tranches de 0,5 % ;
-
-Ventilation des provisions techniques par entreprise et par type d'aléa viager : en cas de décès, en cas de vie, sans aléa
-viager.
-
-Les entreprises concernées sont celles dont les provisions techniques vie représentent plus de 5 % du total des provisions
-techniques vie des comptes consolidés ou combinés. Les entreprises formant un sous-groupe dans un même pays peuvent être
-considérées comme une seule entreprise. Les autres entreprises sont regroupées en trois rubriques : France, Union européenne
-(hors France), reste du monde.
-
-7. Etats d'analyse des activités hors assurances (état G5)
-
-Si celles-ci contribuent - positivement ou négativement - à plus de 5 % du résultat du groupe ou occupent plus de 5 % des
-effectifs du groupe, les données significatives de ces activités font l'objet d'une ventilation par entreprise. Les données
-qui doivent faire l'objet d'une ventilation sont celles qui sont retenues comme significatives dans les comptes consolidés.
-Notamment, au niveau du chiffre d'affaires : produit net bancaire, commissions de services financières, et au niveau du
-bilan : dépôts clientèles, crédits consentis.
-
-ANNEXE 2
-
-Chaque entreprise soumise à la surveillance complémentaire fournit les tableaux suivants relatifs au groupe considéré,
-constitué de l'ensemble des entreprises apparentées au sens de l'article L. 334-2 du code des assurances :
-
-1. Etat des cessions en réassurance internes
-
-au groupe (état G10)
-
-Tableau des primes cédées par cessionnaire.
-
-Tableau des provisions techniques à la charge de chaque cessionnaire ; ne sont déclarées que les provisions cédées
-supérieures à 0,5 % des provisions brutes de réassurance.
-
-Tableau de la charge de sinistres cédés.
-
-Tableau des résultats de ces cessions par cessionnaire récapitulant les résultats supérieurs à 5 % du résultat brut de
-réassurance.
-
-La forme de ces réassurance est précisée.
-
-2. Etat des mouvements d'actifs internes au groupe (état G11)
-
-Cet état ne concerne par les transactions réalisées à des conditions déterminées objectivement par ailleurs (titres cotés)
-sur des titres externes au groupe.
-
-Au-delà d'un montant supérieur à 5 % du minimum de marge de solvabilité de l'entreprise concernée, les ventes ou achats
-d'immeubles ou de titres à l'intérieur du groupe sont recensés, faisant apparaître l'entreprise vendeuse, l'entreprise
-acheteuse, la valeur comptable dans la première, le prix de vente et la référence ayant permis d'établir celui-ci (expertise,
-capitalisation du résultat ...).
-
-Ceci inclut les souscriptions de titres émis par une entreprise du groupe même s'ils sont destinés à être cotés.
-
-3. Recensement des accords de partage de frais généraux (G 12)
-
-Liste des GIE de moyens auxquels l'entreprise participe et indication de sa contribution aux frais de ceux-ci.
-
-Recensement des remboursements de frais ou prestations externes assurés par d'autres entreprises du groupe dès lors qu'ils
-dépassent 10 % des frais de gestion de l'entreprise.
-
-4. Recensement des risques partagés solidairement (G 13)
-
-Liste des GIE, pools et autres groupements de coassurance ou coréassurance dans lesquels l'entreprise est solidaire sans
-limites des autres membres ; montants des provisions de sinistres à payer au bilan de ces groupements.
-
-5. Recensement des opérations avec une personne physique (G 14)<rl avec="" 5="" de="" physique="" l'entreprise.=""
-opérations="" lors="" solvabilité="" nature="" du="" à="" des="" dépassent="" marge="" personne="" dès="" l'article=""
-liste="" minimum="" r.="" toute="" %="" visée="" qu'elles="" une="" 334-45="" <br="">
-
-6. Recensement des apports de fonds (G 15)
-
-Liste des apports de fonds aux autres entreprises du groupe sous toute forme, en distinguant les apports en capital, en
-éléments de marge et autres apports dès lors qu'ils dépassent 5 % du minimum de marge de solvabilité de l'entreprise.
-
-7. Recensement des engagements donnés (G 16)
-
-Liste des engagements donnés aux autres entreprises du groupe dès lors qu'ils dépassent 5 % du minimum de marge de
-solvabilité de l'entreprise.
-
-</rl>
-
-**Nota:**
-
-Arrêté 2005-06-10 art. 8 : Ces dispositions sont applicables, pour la première fois, à l'élaboration et à la remise des états
-relatifs aux comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 2005-08-02 art. 2 JORF 19 août 2005
-
-	**Cité par**:
-
-	  - Code des assurances - art. A321-1 (V)
-	  - Code des assurances - art. A322-1 (V)
-	  - Code des assurances - art. A334-5 (M)
-	  - Code des assurances - art. A334-6 (V)
-	  - Code des assurances - art. Annexe art. A344-14-1 (Ab)
-
-	**Cite**:
-
-	  - Code des assurances - art. L334-2 (M)
-	  - Code des assurances - art. L334-3 (M)
-	  - Code des assurances - art. R334-40 (M)
-	  - Code des assurances - art. R334-42 (M)
-	  - Code des assurances - art. R334-44 (M)
-	  - Code des assurances - art. R334-45 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
-
-
 ##### Section III : Etats à produire.
 
 ###### Article A344-4
@@ -80544,6 +81121,86 @@ de l'état détaillé des placements lorsque celui-ci n'est pas inclus dans l'an
 	**Cite**:
 
 	  - Code des assurances - art. R*341-8 (M)
+
+
+###### Article A344-6
+
+I. - Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 et celles soumises au contrôle de l'Etat en application de
+l'article L. 310-1-1 remettent chaque année à l'autorité de contrôle :
+
+1° Dans les quatre mois suivant la clôture de l'exercice, le compte rendu détaillé annuel défini à l'article A. 344-8 ci-
+après ;
+
+2° Dans les trente jours qui suivent leur approbation par l'assemblée générale, leurs comptes annuels dans les conditions
+définies à l'article A. 344-1-1 ci-après ;
+
+3° Dans les trente jours suivant leur approbation par le conseil d'administration ou le conseil de surveillance, et au plus
+tard le 30 juin, les rapports mentionnés aux articles L. 322-2-4 et R. 336-1 et R. 336-5.
+
+II. - Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 et celles soumises au contrôle de l'Etat en application
+de l'article L. 310-1-1 remettent à l'autorité de contrôle, dans le mois suivant la fin de chaque trimestre, les états
+relatifs aux opérations réalisées au cours du trimestre définis à l'article A. 344-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Cité par**:
+
+	  - Arrêté du 28 juillet 1995 - art. 1 (V)
+	  - Arrêté du 28 juillet 1995 - art. 4 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 159 quater A (P)
+	  - Code des assurances - art. A132-5 (T)
+	  - Code des assurances - art. A344-11 (Ab)
+	  - Code des assurances - art. A344-12 (Ab)
+	  - Code des assurances - art. A344-13 (Ab)
+	  - Code des assurances - art. A344-7 (M)
+	  - Code des assurances - art. A344-8 (V)
+	  - Code des assurances - art. R342-25 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. A344-13 (M)
+	  - TXT_SOURCE: Code des assurances - art. L310-1-1 (V)
+	  - TXT_SOURCE: Code des assurances - art. L310-2 (M)
+	  - TXT_SOURCE: Code des assurances - art. L322-2-4 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
+
+
+###### Article A344-7
+
+L'Autorité de contrôle des assurances et des mutuelles détermine le nombre d'exemplaires et les supports matériels utilisés
+par les entreprises pour la fourniture des documents mentionnés à l'article A. 344-6 et A. 344-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Cité par**:
+
+	  - Arrêté du 28 juillet 1995 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+	  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
+
+	**Cite**:
+
+	  - Code des assurances A344-6 et A344-14
 
 
 ###### Article A344-8
@@ -80805,21 +81462,24 @@ Ces états sont établis dans la forme fixée en annexe au présent article.
 	  - Code des assurances - art. A344-6 (Ab)
 
 
-###### Article A344-14-1
+###### Article A344-14
 
-Lorsqu'en application de l'article L. 334-9, la commission de contrôle est coordonnateur de la surveillance complémentaire
-des entités réglementées appartenant à un conglomérat financier, l'entité réglementée placée à la tête du conglomérat
-financier fournit chaque année à la commission de contrôle, avant le 30 avril, un dossier constitué conformément à l'annexe
-au présent article.
+Les entreprises soumises à la surveillance complémentaire en application du premier alinéa de l'article L. 334-3 et des
+articles R. 334-40, R. 334-44 et R. 334-45 et les sociétés de groupe d'assurance fournissent chaque année à l'Autorité de
+contrôle des assurances et des mutuelles, avant le 30 avril, un dossier constitué conformément aux annexes 1 et 2 du présent
+article. Les entreprises mentionnées au deuxième alinéa de l'article L. 334-3 fournissent seulement les états décrits à
+l'annexe 2.
 
-Lorsque le conglomérat financier n'a pas d'entité réglementée placée à sa tête, le dossier est transmis par la compagnie
-financière holding mixte ou par l'entité réglementée désignée par la commission de contrôle après consultation des autres
-autorités compétentes définies au 11° de l'article L. 334-2 et du conglomérat financier.
+Le dossier est certifié par le président du conseil d'administration ou le président du directoire ou le directeur général
+unique dans les sociétés anonymes, par le directeur et par le président du conseil d'administration dans les sociétés
+d'assurance mutuelles et leurs unions, par le mandataire général ou son représentant légal dans les succursales d'entreprises
+étrangères, sous la formule suivante : "Le présent document, comprenant X feuillets numérotés, est certifié, sous peine de
+l'application des sanctions prévues à l'article L. 310-28 du code des assurances, conforme aux écritures de l'entreprise et
+de ses entreprises apparentées, et aux dispositions du titre IV du livre III du même code".
 
-Le dossier est certifié par le représentant légal de l'entité transmettant le dossier, sous la formule suivante : "Le présent
-document, comprenant x feuillets numérotés, est certifié, sous peine de l'application des sanctions prévues à l'article L.
-310-28 du code des assurances, conforme aux écritures des entités appartenant au conglomérat financier, et aux dispositions
-du titre IV du livre III du même code".
+L'Autorité de contrôle des assurances et des mutuelles peut dispenser une entreprise de produire les éléments du dossier
+prévus à l'annexe 1 lorsque ce dossier est fourni par une entreprise apparentée ou lorsque l'Autorité a attribué l'exercice
+de la surveillance complémentaire à une autre autorité conformément à l'article R. 334-44.
 
 **Liens relatifs à cet article**
 
@@ -80827,9 +81487,61 @@ du titre IV du livre III du même code".
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2005-09-19 art. 3 JORF 21 septembre 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. A321-1 (V)
+	  - Code des assurances - art. A322-1 (V)
+	  - Code des assurances - art. A334-5 (M)
+	  - Code des assurances - art. A334-6 (V)
+	  - Code des assurances - art. Annexe art. A344-14-1 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-2 (M)
+	  - Code des assurances - art. L334-3 (M)
+	  - Code des assurances - art. R334-40 (M)
+	  - Code des assurances - art. R334-42 (M)
+	  - Code des assurances - art. R334-44 (M)
+	  - Code des assurances - art. R334-45 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+
+
+###### Article A344-14-1
+
+Lorsqu'en application de l'article L. 334-9, l'autorité de contrôle est coordonnateur de la surveillance complémentaire des
+entités réglementées appartenant à un conglomérat financier, l'entité réglementée placée à la tête du conglomérat financier
+fournit chaque année à l'autorité de contrôle, avant le 30 avril, un dossier constitué conformément à l'annexe au présent
+article.
+
+Lorsque le conglomérat financier n'a pas d'entité réglementée placée à sa tête, le dossier est transmis par la compagnie
+financière holding mixte ou par l'entité réglementée désignée par l'autorité de contrôle après consultation des autres
+autorités compétentes définies au 11° de l'article L. 334-2 et du conglomérat financier.
+
+Le dossier est certifié par le représentant légal de l'entité transmettant le dossier, sous la formule suivante : "Le présent
+document, comprenant x feuillets numérotés, est certifié, sous peine de l'application des sanctions prévues à l'article L.
+310-28 du code des assurances, conforme aux écritures des entités appartenant au conglomérat financier, et aux dispositions
+du titre IV du livre III du même code.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 17
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -80839,8 +81551,8 @@ du titre IV du livre III du même code".
 
 	**Cite**:
 
-	  - Code des assurances - art. L334-2 (M)
-	  - Code des assurances - art. L334-9 (V)
+	  - Code des assurances - art. L334-2
+	  - Code des assurances - art. L334-9
 
 	**Liens**:
 
@@ -88306,6 +89018,205 @@ conglomérat financier et de sa gestion des risques.
 	  - Code des assurances - art. L334-2
 	  - Code des assurances - art. R332-13
 	  - Code des assurances - art. R334-41
+
+
+###### Article Annexe I art. A344-14
+
+1. Renseignements généraux 
+
+La raison sociale de l'entreprise consolidante ou combinante, son adresse, la date de sa constitution. 
+
+Les nom, date et lieu de naissance, nationalité, domicile et profession des membres du conseil d'administration ou du conseil
+de surveillance de cette entreprise. 
+
+Les nom, date et lieu de naissance, domicile, grade et fonction des personnels exerçant ces fonctions de direction au niveau
+du groupe. 
+
+Les nom, adresse et date de désignation des commissaires aux comptes titulaires et suppléants de l'entreprise consolidante ou
+combinante. 
+
+Le statut fiscal : bénéfice consolidé (France ou monde) ou non. 
+
+Liste des entreprises consolidées ou combinées avec indication lorsqu'elles appartiennent à une activité soumise à un
+contrôle (banques, assurances, gestion financière) des autorités au contrôle auxquelles elles sont soumises ainsi que de la
+part détenue et du montant des fonds propres.
+
+L'organigramme du groupe avec les pourcentages de détention. 
+
+La liste des prêts intra-groupes. 
+
+2. Compte de résultat, bilans consolidés ou combinés et annexe complétés par les rapports de gestion et des commissaires aux
+comptes 
+
+Lorsque l'entreprise consolidante a fait usage des facultés de dérogation prévues par le règlement CRC 2000-05 pour ne pas
+retraiter les comptes d'une entreprise, les sources d'écart sont explicitées et accompagnées d'une estimation chiffrée. 
+
+Si le groupe est soumis à obligation de publication des comptes par la COB, les documents établis en application de cette
+obligation sont joints au dossier annuel. 
+
+Les informations des points 3, 5 et 6 ne sont pas exigées pour les entreprises mises en équivalence. 
+
+3. Etat de ventilation des principales données techniques (état G1) 
+
+Ventilation par entreprises des primes émises, soldes de souscription, provisions techniques et contribution aux résultats.
+Doivent figurer dans cet état toutes les entreprises d'assurances représentant plus de 5 % des primes ou des provisions
+techniques. Les entreprises dans un même pays formant un sous-groupe peuvent être regroupées. Les données des autres
+entreprises sont regroupées en trois rubriques : France, Union européenne (hors France), reste du monde. Cette ventilation
+s'effectue séparément pour les activités vie et non-vie. 
+
+4. Etat de marge ajustée (état G2) 
+
+Un premier tableau établit le besoin de marge en ventilant selon le mode de consolidation et en indiquant les pourcentages
+appliqués pour les entreprises en intégration proportionnelle ou mises en équivalence :
+
+- pour les entreprises établies dans l'Union européenne, cet état récapitule les besoins de marge de chaque entreprise.S'il y
+a lieu, ce besoin de marge sera ensuite corrigé des incidences des cessions internes ;
+
+- pour les entreprises hors Union européenne sont récapitulés les besoins de fonds propres et assimilés découlant des
+législations nationales. Ces éléments seront éventuellement corrigés des incidences de la réassurance interne. 
+
+En pied de tableau sont indiquées à titre informatif pour les activités hors assurances réglementées les exigences de fonds
+propres découlant des législations régissant ces activités. 
+
+Un second tableau analyse la façon dont ces exigences sont satisfaites au niveau groupe :
+
+- fonds propres part du groupe ;
+
+- intérêts minoritaires et leurs affectabilité aux différentes entités ;
+
+- plus-values latentes et leur affectabilité aux différentes entités ;
+
+- autres éléments éventuels. 
+
+Pour les entreprises appliquant les normes comptables internationales adoptées par règlement de la Commission européenne, un
+troisième tableau fait apparaître les retraitements mentionnnés à l'article R. 334-42. Ce tableau est accompagné d'une annexe
+décrivant les règles et principes retenus pour l'identification et le calcul de ces retraitements. 
+
+5. Etat d'analyse de l'équilibre technique non-vie (état G3) 
+
+Ventilation par entreprise des soldes de souscription séparant résultat de l'exercice et résultat de la liquidation sur
+exercices antérieurs. Ces données sont brutes de réassurance. 
+
+6. Etat d'analyse des provisions techniques vie (état G4) 
+
+Ventilation des provisions techniques par entreprise et par type d'engagement : en unités de compte sans risque de placement,
+en unités de compte avec risque de placement, en euros ou en devises. 
+
+Ventilation des provisions techniques des engagements en euros ou en devises par entreprise et par taux d'intérêt utilisés
+pour leur calcul, par tranches de 0, 5 % ; 
+
+Ventilation des provisions techniques par entreprise et par type d'aléa viager : en cas de décès, en cas de vie, sans aléa
+viager. 
+
+Les entreprises concernées sont celles dont les provisions techniques vie représentent plus de 5 % du total des provisions
+techniques vie des comptes consolidés ou combinés. Les entreprises formant un sous-groupe dans un même pays peuvent être
+considérées comme une seule entreprise. Les autres entreprises sont regroupées en trois rubriques : France, Union européenne
+(hors France), reste du monde. 
+
+7. Etats d'analyse des activités hors assurances (état G5) 
+
+Si celles-ci contribuent-positivement ou négativement-à plus de 5 % du résultat du groupe ou occupent plus de 5 % des
+effectifs du groupe, les données significatives de ces activités font l'objet d'une ventilation par entreprise. Les données
+qui doivent faire l'objet d'une ventilation sont celles qui sont retenues comme significatives dans les comptes consolidés.
+Notamment, au niveau du chiffre d'affaires : produit net bancaire, commissions de services financières, et au niveau du
+bilan : dépôts clientèles, crédits consentis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Arrêté du 28 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. R334-42
+
+
+###### Article Annexe II art. A344-14
+
+Chaque entreprise soumise à la surveillance complémentaire fournit les tableaux suivants relatifs au groupe considéré,
+constitué de l'ensemble des entreprises apparentées au sens de l'article L. 334-2 du code des assurances : 
+
+1. Etat des cessions en réassurance internes 
+
+au groupe (état G10) 
+
+Tableau des primes cédées par cessionnaire. 
+
+Tableau des provisions techniques à la charge de chaque cessionnaire ; ne sont déclarées que les provisions cédées
+supérieures à 0, 5 % des provisions brutes de réassurance. 
+
+Tableau de la charge de sinistres cédés. 
+
+Tableau des résultats de ces cessions par cessionnaire récapitulant les résultats supérieurs à 5 % du résultat brut de
+réassurance. 
+
+La forme de ces réassurance est précisée. 
+
+2. Etat des mouvements d'actifs internes au groupe (état G11) 
+
+Cet état ne concerne par les transactions réalisées à des conditions déterminées objectivement par ailleurs (titres cotés)
+sur des titres externes au groupe. 
+
+Au-delà d'un montant supérieur à 5 % du minimum de marge de solvabilité de l'entreprise concernée, les ventes ou achats
+d'immeubles ou de titres à l'intérieur du groupe sont recensés, faisant apparaître l'entreprise vendeuse, l'entreprise
+acheteuse, la valeur comptable dans la première, le prix de vente et la référence ayant permis d'établir celui-ci (expertise,
+capitalisation du résultat...). 
+
+Ceci inclut les souscriptions de titres émis par une entreprise du groupe même s'ils sont destinés à être cotés. 
+
+3. Recensement des accords de partage de frais généraux (G 12) 
+
+Liste des GIE de moyens auxquels l'entreprise participe et indication de sa contribution aux frais de ceux-ci. 
+
+Recensement des remboursements de frais ou prestations externes assurés par d'autres entreprises du groupe dès lors qu'ils
+dépassent 10 % des frais de gestion de l'entreprise. 
+
+4. Recensement des risques partagés solidairement (G 13) 
+
+Liste des GIE, pools et autres groupements de coassurance ou coréassurance dans lesquels l'entreprise est solidaire sans
+limites des autres membres ; montants des provisions de sinistres à payer au bilan de ces groupements. 
+
+5. Recensement des opérations avec une personne physique (G 14) < RL Liste des opérations de toute nature avec une personne
+physique visée à l'article R. 334-45 dès lors qu'elles dépassent 5 % du minimum de marge de solvabilité de l'entreprise. 
+
+6. Recensement des apports de fonds (G 15) 
+
+Liste des apports de fonds aux autres entreprises du groupe sous toute forme, en distinguant les apports en capital, en
+éléments de marge et autres apports dès lors qu'ils dépassent 5 % du minimum de marge de solvabilité de l'entreprise. 
+
+7. Recensement des engagements donnés (G 16) 
+
+Liste des engagements donnés aux autres entreprises du groupe dès lors qu'ils dépassent 5 % du minimum de marge de
+solvabilité de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Abrogé par**:
+
+	  - Arrêté du 28 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances
+	  - Code des assurances - art. L334-2
+	  - Code des assurances - art. R334-45
 
 
 ###### Article Annexe à l'article A344-3
@@ -103120,9 +104031,8 @@ suivants :
 
 a) La dénomination et l'adresse du siège social de l'entreprise ;
 
-b) L'adresse de la succursale en France, à laquelle la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance et le ministre chargé de l'économie et des finances peuvent demander des informations pour
-l'exercice de leurs compétences ;
+b) L'adresse de la succursale en France, à laquelle l'Autorité de contrôle des assurances et des mutuelles et le ministre
+chargé de l'économie et des finances peuvent demander des informations pour l'exercice de leurs compétences ;
 
 c) Le nom et les pouvoirs du mandataire général ;
 
@@ -103160,7 +104070,7 @@ modification, ou, si elle est postérieure, à la date à laquelle l'entreprise 
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -104311,6 +105221,42 @@ l'année du rachat.
 	  - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
 
+###### Article A441-6
+
+Chaque année, les entreprises d'assurance pratiquant les opérations définies par l'article L. 441-1 doivent communiquer à
+l'Autorité de contrôle des assurances et des mutuelles pour chacune des conventions qu'elles gèrent, la valeur de service et
+la ou les valeurs d'acquisition de l'unité de rente pour l'exercice à venir.
+
+Elles doivent également communiquer :
+
+- le montant de la provision mathématique théorique calculée au 31 décembre de l'exercice clos ;
+
+- le montant des provisions techniques mentionnées à l'article R. 441-7 à cette même date ;
+
+- le montant de la fraction des bénéfices affectée à ladite provision.
+
+La communication des renseignements ci-dessus doit intervenir au plus tard le 1er juin de chaque année.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1968-08-21 art. 6
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code des assurances - art. L441-1 (M)
+	  - Code des assurances - art. R*441-7 (M)
+
+
 ##### Section II : Règles techniques et comptables.
 
 ###### Article A441-4-1
@@ -104338,43 +105284,6 @@ les effets sur le calcul de la provision mathématique théorique résultant du 
 	**Cite**:
 
 	  - Code des assurances - art. A441-4 (M)
-
-
-###### Article A441-6
-
-Chaque année, les entreprises d'assurance pratiquant les opérations définies par l'article L. 441-1 doivent communiquer à la
-commission de contrôle des assurances, des mutuelles et des institutions de prévoyance pour chacune des conventions qu'elles
-gèrent, la valeur de service et la ou les valeurs d'acquisition de l'unité de rente pour l'exercice à venir.
-
-Elles doivent également communiquer :
-
-- le montant de la provision mathématique théorique calculée au 31 décembre de l'exercice clos ;
-
-- le montant des provisions techniques mentionnées à l'article R. 441-7 à cette même date ;
-
-- le montant de la fraction des bénéfices affectée à ladite provision ;
-
-- La communication des renseignements ci-dessus doit intervenir au plus tard le 1er juin de chaque année.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1968-08-21 art. 6
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 2004-06-14 art. 3 JORF 20 juin 2004
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code des assurances - art. L441-1 (M)
-	  - Code des assurances - art. R*441-7 (M)
 
 
 ## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation
