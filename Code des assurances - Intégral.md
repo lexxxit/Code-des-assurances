@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -995,11 +995,6 @@ déterminée par le contrat et ne peut être tenu au-delà.
 
 ###### Article L113-6
 
-L'assurance subsiste en cas de redressement ou de liquidation judiciaire de l'assuré. L'administrateur ou le débiteur
-autorisé par le juge commissaire ou le liquidateur selon le cas et l'assureur conservent le droit de résilier le contrat
-pendant un délai de trois mois à compter de la date du jugement de redressement ou de liquidation judiciaire. La portion de
-prime afférente au temps pendant lequel l'assureur ne couvre plus le risque est restituée au débiteur.
-
 En cas de liquidation judiciaire d'une entreprise mentionnée à l'article L. 310-1, les contrats qu'elle détient dans son
 portefeuille sont soumis aux dispositions des articles L. 326-12 et L. 326-13, à compter de l'arrêté ou de la décision
 prononçant le retrait de l'agrément administratif.
@@ -1010,13 +1005,9 @@ prononçant le retrait de l'agrément administratif.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 36 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 176 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -1024,9 +1015,8 @@ prononçant le retrait de l'agrément administratif.
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. L326-12 (M)
-	  - Code des assurances - art. L326-13 (M)
+	  - Code des assurances - art. L310-1 (V)
+	  - Code des assurances - art. L326-12 (V)
 
 
 ###### Article L113-8
@@ -3452,6 +3442,59 @@ plan d'épargne individuel pour la retraite " sont déclassés et ont dorénavan
 	  - Loi n°2003-775 2003-08-21 art. 108
 
 
+###### Article L132-5-3
+
+Pour les contrats d'assurance de groupe sur la vie mentionnés à l'article L. 141-1 comportant des valeurs de rachat ou de
+transfert, lorsque le lien qui unit l'adhérent au souscripteur ne rend pas obligatoire l'adhésion au contrat, la notice
+remise par le souscripteur inclut, outre les informations mentionnées au deuxième alinéa de l'article L. 141-4, celles
+contenues dans la note mentionnée à l'article L. 132-5-2. L'encadré mentionné au premier alinéa de l'article L. 132-5-2 est
+inséré en début de notice. Lors de l'adhésion, le souscripteur doit remettre à l'adhérent le modèle de lettre mentionné au
+troisième alinéa de l'article L. 132-5-2. Il communique à l'adhérent la mention visée au quatrième alinéa du même article
+ainsi que, dans les conditions définies au même article, les valeurs de rachat ou de transfert. La faculté de renonciation
+s'exerce conformément aux articles L. 132-5-1 et L. 132-5-2. 
+
+La notice doit indiquer l'objet social et les coordonnées du souscripteur. 
+
+La notice précise que les droits et obligations de l'adhérent peuvent être modifiés par des avenants auxdits contrats. Les
+modalités d'adoption de ces avenants par le souscripteur sont communiquées par ce dernier à l'adhérent. 
+
+Le souscripteur est tenu de communiquer, chaque année, à l'adhérent les informations établies par l'entreprise d'assurance et
+mentionnées à l'article L. 132-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 10 () JORF 16 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-284 du 26 mars 2008 - art. 6 (V)
+	  - Code de la sécurité sociale. - art. L932-52 (V)
+	  - Code des assurances - art. A132-4 (V)
+	  - Code des assurances - art. A132-4-1 (V)
+	  - Code des assurances - art. A132-4-2 (M)
+	  - Code des assurances - art. A132-5-1 (V)
+	  - Code des assurances - art. A132-8 (V)
+	  - Code des assurances - art. L132-27-1 (VD)
+	  - Code des assurances - art. L132-28 (VD)
+	  - Code des assurances - art. L310-9-1 (V)
+	  - Code des assurances - art. L520-1 (VD)
+	  - Code monétaire et financier - art. L611-3-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-22 (V)
+	  - Code des assurances - art. L132-5-1 (V)
+	  - Code des assurances - art. L132-5-2 (V)
+	  - Code des assurances - art. L141-1 (V)
+	  - Code des assurances - art. L141-4 (V)
+
+
 ###### Article L132-6
 
 La police d'assurance sur la vie peut être à ordre. Elle ne peut être au porteur.
@@ -3877,8 +3920,8 @@ L. 132-13, deuxième alinéa.
 
 ###### Article L132-17
 
-Les articles L. 621-112 et L. 621-114 du code de commerce concernant les droits du conjoint du débiteur en redressement
-judiciaire sont sans application en cas d'assurance sur la vie contractée par un commerçant au profit de son conjoint.
+L'article L. 624-6 du code de commerce concernant les droits du conjoint du débiteur en redressement judiciaire est sans
+application en cas d'assurance sur la vie contractée par un commerçant au profit de son conjoint.
 
 **Liens relatifs à cet article**
 
@@ -3888,19 +3931,11 @@ judiciaire sont sans application en cas d'assurance sur la vie contractée par u
 
 	**Modifié par**:
 
-	  - Loi n°85-98 1985-01-25 art. 221 III, art. 233 JORF 26 janvier 1985 en vigueur le 1er janvier 1986
-	  - Loi n°85-98 du 25 janvier 1985 - art. 221 () JORF 26 janvier 1985 en vigueur le 1er janvier 1986
-	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-112 (M)
-	  - Code de commerce. - art. L621-114 (Ab)
+	  - Code de commerce - art. L624-6 (Ab)
 
 
 ###### Article L132-18
@@ -4642,8 +4677,8 @@ Le souscripteur est tenu :
 - de remettre à l'adhérent une notice établie par l'assureur qui définit les garanties et leurs modalités d'entrée en vigueur
 ainsi que les formalités à accomplir en cas de sinistre ;
 
-- d'informer par écrit les adhérents des modifications qu'il est prévu, le cas échéant, d'apporter à leurs droits et
-obligations.
+- d'informer par écrit les adhérents des modifications apportées à leurs droits et obligations, trois mois au minimum avant
+la date prévue de leur entrée en vigueur.
 
 La preuve de la remise de la notice à l'adhérent et de l'information relative aux modifications contractuelles incombe au
 souscripteur.
@@ -4679,9 +4714,9 @@ ne sont pas soumises aux dispositions du présent article.
 	  - Code des assurances - art. R142-8 (Ab)
 	  - Code du sport. - art. L321-6 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 10 () JORF 16 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Anciens textes**:
 
@@ -13971,9 +14006,9 @@ nomination d'un administrateur provisoire ;
 2° La sanction prévue au 3° de l'article L. 310-18, le retrait partiel d'agrément prévu au 5° ou le transfert partiel de
 portefeuille prévu au 6° du même article ;
 
-3° La procédure de règlement amiable mentionnée au titre Ier du livre VI du code de commerce ;
+3° Abrogé.
 
-4° La procédure de redressement judiciaire mentionnée au titre II du livre VI du code de commerce.
+4° La procédure de redressement judiciaire mentionnée au livre VI du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -13981,9 +14016,9 @@ portefeuille prévu au 6° du même article ;
 
 	  - Décret n°76-666 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-504 du 7 juin 2004 - art. 1 () JORF 10 juin 2004
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 174 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -54792,21 +54827,25 @@ l'utilisation des tables de génération homologuées par arrêté du ministre d
 Les entreprises devront néanmoins avoir, dans un délai d'au plus huit ans, un niveau de provisionnement des rentes viagères
 supérieur ou égal à celui obtenu avec la table TV 88-90 homologuée par arrêté du 27 avril 1993.
 
+Les dispositions des alinéas précédents ne font pas obstacle au pouvoir de l'autorité mentionnée à l'article L. 310-12
+d'exiger conformément à l'article R. 331-1 qu'une entreprise d'assurance majore les provisions mathématiques mentionnées au
+premier alinéa, après examen des données d'expérience relatives à la population d'assurés.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Modifié par**:
-
-	  - Arrêté 1984-12-21 art. 6 JORF 26 décembre 1984
-	  - Arrêté 1993-03-19 art. 7 JORF 20 mars 1993 en vigueur le 1er juillet 1993
-	  - Arrêté 1993-07-28 art. 2 JORF 30 juillet 1993
-
 	**Cite**:
 
 	  - Arrêté 1993-04-27
+	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. R*331-1 (M)
+
+	**Modifié par**:
+
+	  - Arrêté 2005-12-29 art. 3 JORF 29 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -55003,12 +55042,12 @@ suivants :
 1° Une loi de survie en invalidité définie par la table TD 88-90 homologuée par l'arrêté du 27 avril 1993 réactualisant les
 tables de mortalité ;
 
-Toutefois, il est possible pour une entreprise d'assurances d'utiliser une loi de survie en invalidité établie et certifiée
-par un actuaire indépendant de cette entreprise, agréé à cet effet par l'une des associations d'actuaires reconnues par la
-commission de contrôle des assurances ;
+Toutefois, il est possible pour une entreprise d'assurances d'utiliser une loi de survie en invalidité établie par
+l'entreprise d'assurance et certifiée par un actuaire indépendant de cette entreprise, agréé à cet effet par l'une des
+associations d'actuaires reconnues par l'Autorité de contrôle des assurances et des mutuelles ;
 
-2° Un taux d'actualisation qui ne peut excéder 60 p. 100 du taux moyen des emprunts de l'Etat français calculé sur base
-semestrielle, sans pouvoir dépasser 3,5 p. 100.
+2° Un taux d'actualisation qui ne peut excéder 60 % du taux moyen des emprunts de l'Etat français calculé sur base
+semestrielle, sans pouvoir dépasser 3,5 %.
 
 **Liens relatifs à cet article**
 
@@ -55020,22 +55059,15 @@ semestrielle, sans pouvoir dépasser 3,5 p. 100.
 
 	  - Arrêté 1976-07-16
 
-	**Modifié par**:
-
-	  - Arrêté 1993-03-19 art. 2, art. 3 JORF 20 mars 1993
-	  - Arrêté 1996-05-17 art. 1 JORF 23 mai 1996
-	  - Arrêté 1996-12-20 art. 1 JORF 26 décembre 1996
-
 	**Cite**:
 
 	  - Arrêté 1993-04-27
 	  - Code des assurances - art. L310-1 (M)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Arrêté 1993-04-27 annexe (tables de mortalité TD 88-90 et TV 88-90)
-	  - SPEC_APPLI: Arrêté 1996-12-20 art. 2 (répartition sur cinq ans des bases de calcul des provisions techniques pour les entreprises d'assurances)
-	  - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
+	  - Arrêté 2005-12-29 art. 1 JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -55044,10 +55076,10 @@ semestrielle, sans pouvoir dépasser 3,5 p. 100.
 	  - Code des assurances - art. A331-11 (Ab)
 	  - Code des assurances - art. A331-13 (Ab)
 
+	**Liens**:
 
-##### Section III : Provisions techniques des autres opérations d'assurance
+	  - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
 
-##### Paragraphe 1 : Provision mathématique des rentes.
 
 ###### Article A331-12
 
@@ -78721,37 +78753,49 @@ l'entreprise et sont établis d'après les éléments suivants :
 
 2° Une des tables suivantes :
 
-- tables établies sur la base de données publiées par l'Institut national de la statistique et des études économiques, et
-homologuées par arrêté du ministre de l'économie et des finances ;
+a) Tables homologuées par arrêté du ministre de l'économie et des finances, établies par sexe, sur la base de populations
+d'assurés pour les contrats de rente viagère, et sur la base de données publiées par l'Institut national de la statistique et
+des études économiques pour les autres contrats ;
 
-- tables établies par l'entreprise d'assurance et certifiées par un actuaire indépendant de cette entreprise, agréé à cet
-effet par l'une des associations d'actuaires reconnues par la commission de contrôle des assurances.
+b) tables établies ou non par sexe par l'entreprise d'assurance et certifiées par un actuaire indépendant de cette
+entreprise, agréé à cet effet par l'une des associations d'actuaires reconnues par l'autorité mentionnée à l'article L.
+310-12.
 
-Pour les contrats de rentes viagères, le tarif déterminé en utilisant les tables visées au deuxième tiret du 2° ne peut être
-inférieur à celui qui résulterait de l'utilisation des tables visées au premier tiret du 2°.
+Les tables mentionnées au b sont établies d'après des données d'expérience de l'entreprise d'assurance, ou des données
+d'expérience démographiquement équivalentes.
 
-Pour les contrats collectifs en cas de décès résiliables annuellement, le tarif peut appliquer les tables visées au premier
-tiret du 2° avec une méthode forfaitaire si celle-ci est justifiable.
+Lorsque les tarifs sont établis d'après des tables mentionnées au a, et dès lors qu'est retenue une table unique pour tous
+les assurés, celle-ci correspond à la table appropriée conduisant au tarif le plus prudent.
+
+Pour les contrats en cas de vie autres que les contrats de rente viagère, les tables mentionnées au a sont utilisées en
+corrigeant l'âge de l'assuré conformément aux décalages d'âge ci-annexés. (Annexes non reproduites).
+
+Pour les contrats de rentes viagères, le tarif déterminé en utilisant les tables mentionnées au b ne peut être inférieur à
+celui qui résulterait de l'utilisation des tables appropriées mentionnées au a.
+
+Pour les contrats de rentes viagères immédiates et les contrats prévoyant, au choix de l'assuré, une liquidation en rente ou
+le versement d'un capital, et lorsque les tarifs pratiqués pour le calcul de la rente viagère sont établis d'après des tables
+mentionnées au a, les tables utilisées pour ce calcul sont celles appropriées intégrant les effets d'anti-sélection. Ces
+dispositions n'interdisent pas de prévoir l'utilisation des tables appropriées en vigueur à l'époque du versement de la prime
+ou de la conversion en rente.
+
+Pour les contrats collectifs en cas de décès résiliables annuellement, le tarif peut être établi d'après les tables
+mentionnées au a avec une méthode forfaitaire si celle-ci est justifiable.
+
+**Nota:**
+
+Arrêté 2005-12-20 art. 7 : Les dispositions du présent arrêté entrent en vigueur le 1er janvier 2006, à l'exception du
+dernier alinéa du paragraphe V et du paragraphe VI de l'article 2, qui entrent en vigueur le 1er juillet 2006.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrête 1984-12-21 art. 1 JORF 26 décembre 1984
-	  - Arrêté 1993-03-19 art. 9, art. 13 II JORF 20 mars 1993 en vigueur le 1er juillet 1993
-	  - Arrêté 1995-03-28 art. 5 JORF 7 avril 1995 en vigueur le 1er juin 1995
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Arrêté 1993-04-27 (table de mortalité TD 88-90 et TV 88-90)
-	  - TXT_SOURCE: Arrêté du 27 avril 1993
-	  - TXT_SOURCE: Arrêté du 27 avril 1993 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 27 avril 1993 - art. Annexe (V)
-	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
+	  - Arrêté 2005-12-29 art. 2 JORF 29 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -78781,9 +78825,17 @@ tiret du 2° avec une méthode forfaitaire si celle-ci est justifiable.
 	  - Code des assurances - art. A441-4-1 (V)
 	  - Code des assurances - art. Annexe art. A344-8 (Ab)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 27 avril 1993
+	  - TXT_SOURCE: Arrêté du 27 avril 1993 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 27 avril 1993 - art. Annexe (V)
+	  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
+
 	**Cite**:
 
 	  - Code des assurances - art. A132-1 (M)
+	  - Code des assurances - art. L310-12 (M)
 
 
 ##### Section II : Frais d'acquisition et de gestion
