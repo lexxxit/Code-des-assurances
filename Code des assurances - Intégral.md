@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-01-04
+Version Consolidée au 2006-01-24
 
 # Partie législative
 
@@ -2653,8 +2653,9 @@ conditions prévues au cinquième alinéa.
 
 ###### Article L126-1
 
-Les victimes d'actes de terrorisme commis sur le territoire national et les personnes de nationalité française victimes à
-l'étranger de ces mêmes actes, sont indemnisées dans les conditions définies aux articles L. 422-1 à L. 422-3.
+Les victimes d'actes de terrorisme commis sur le territoire national, les personnes de nationalité française victimes à
+l'étranger de ces mêmes actes ainsi que leurs ayants droit, quelle que soit leur nationalité, sont indemnisés dans les
+conditions définies aux articles L. 422-1 à L. 422-3. 
 
 La réparation peut être refusée ou son montant réduit à raison de la faute de la victime.
 
@@ -2674,21 +2675,72 @@ La réparation peut être refusée ou son montant réduit à raison de la faute 
 
 	**Modifié par**:
 
-	  - Loi n°90-589 du 6 juillet 1990 - art. 12 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
-
-	**Cite**:
-
-	  - Code des assurances L422-1 à L422-3
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 20 () JORF 24 janvier 2006
 
 
 ##### Section II : Dommages matériels.
 
 ###### Article L126-2
 
-Les contrats d'assurance de biens ne peuvent exclure la garantie de l'assureur pour les dommages résultant d'actes de
-terrorisme ou d'attentats commis sur le territoire national. Toute clause contraire est réputée non écrite.
+Les contrats d'assurance garantissant les dommages d'incendie à des biens situés sur le territoire national ainsi que les
+dommages aux corps de véhicules terrestres à moteur ouvrent droit à la garantie de l'assuré pour les dommages matériels
+directs causés aux biens assurés par un attentat ou un acte de terrorisme tel que défini par les articles 421-1 et 421-2 du
+code pénal subis sur le territoire national. 
 
-Un décret en Conseil d'Etat définit les modalités d'application du présent article.
+La réparation des dommages matériels, y compris les frais de décontamination, et la réparation des dommages immatériels
+consécutifs à ces dommages sont couvertes dans les limites de franchise et de plafond fixées au contrat au titre de la
+garantie incendie. 
+
+Lorsqu'il est nécessaire de décontaminer un bien immobilier, l'indemnisation des dommages, y compris les frais de
+décontamination, ne peut excéder la valeur vénale de l'immeuble ou le montant des capitaux assurés. 
+
+En outre, si l'assuré est couvert contre les pertes d'exploitation, cette garantie est étendue aux dommages causés par les
+attentats et les actes de terrorisme, dans les conditions prévues au contrat. 
+
+La décontamination des déblais ainsi que leur confinement ne rentrent pas dans le champ d'application de cette garantie. 
+
+Toute clause contraire est réputée non écrite. 
+
+Un décret en Conseil d'Etat détermine les dérogations ou les exclusions éventuellement applicables aux contrats concernant
+les grands risques définis à l'article L. 111-6 au regard de l'assurabilité de ces risques.
+
+**Nota:**
+
+Loi 2006-64 2006-01-23 art. 29 III : le I de l'article 29 s'applique aux contrats en cours à compter de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Cité par**:
+
+	  - Décret n°88-260 du 18 mars 1988 - art. 4 (V)
+	  - Code des assurances - art. L126-3 (V)
+	  - Code des assurances - art. R*126-1 (Ab)
+	  - Code des assurances - art. R126-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 29 (V) JORF 24 janvier 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 421-1 (V)
+	  - Code des assurances - art. L111-6 (V)
+
+
+###### Article L126-3
+
+Les entreprises d'assurance doivent insérer dans les contrats mentionnés à l'article L. 126-2 une clause étendant leur
+garantie aux dommages mentionnés audit article.
+
+**Nota:**
+
+Loi 2006-64 2006-01-23 art. 29 III : le II de l'article 29 s'applique aux contrats souscrits six mois à compter de la
+publication de la présente loi et, pour les autres contrats, lors de la conclusion du premier avenant consécutif à l'échéance
+de ce même délai.
 
 **Liens relatifs à cet article**
 
@@ -2698,14 +2750,11 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent a
 
 	**Créé par**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 1 () JORF 20 mars 1988
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 29 (V) JORF 24 janvier 2006
 
-	**Cité par**:
+	**Cite**:
 
-	  - Décret n°88-260 du 18 mars 1988 - art. 4 (V)
-	  - Code des assurances - art. L126-3 (V)
-	  - Code des assurances - art. R*126-1 (Ab)
-	  - Code des assurances - art. R126-2 (V)
+	  - Code des assurances - art. L126-2 (V)
 
 
 #### Chapitre VII : L'assurance de protection juridique.
@@ -19279,6 +19328,21 @@ procédure pénale.
 	**Créé par**:
 
 	  - Loi n°92-665 du 16 juillet 1992 - art. 36 () JORF 17 juillet 1992
+
+
+###### Article L422-6
+
+Les articles L. 422-1 à L. 422-5 sont applicables à Mayotte et dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V) JORF 24 janvier 2006
 
 
 #### Chapitre III : Le fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes.
