@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-03-14
+Version Consolidée au 2006-03-24
 
 # Partie législative
 
@@ -3818,8 +3818,8 @@ délai d'un mois pour l'informer de l'existence d'un capital ou d'une rente gara
 
 ###### Article L132-10
 
-La police d'assurance peut être donnée en gage soit par avenant, soit par endossement à titre de garantie, si elle est à
-ordre, soit par acte soumis aux formalités de l'article 2075 du Code civil.
+La police d'assurance peut être donnée en nantissement soit par avenant soit par endossement à titre de garantie, si elle est
+à ordre, soit par acte soumis aux formalités des articles 2355 à 2366 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -3827,22 +3827,21 @@ ordre, soit par acte soumis aux formalités de l'article 2075 du Code civil.
 
 	  - Décret n°76-666 1976-07-16
 
+	**Anciens textes**:
+
+	  - Loi n°1930-07-13 art. 65
+
 	**Modifié par**:
 
-	  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-	  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 51 () JORF 24 mars 2006
 
 	**Cite**:
 
-	  - Code civil - art. 2075 (M)
+	  - Code civil - art. 2355 (V)
 
 	**Cité par**:
 
 	  - Code des assurances - art. L111-2 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 65
 
 
 ###### Article L132-11
@@ -4191,8 +4190,7 @@ plan d'épargne retraite populaire ".
 Pour les contrats dont la provision mathématique est égale ou supérieure à un montant fixé par arrêté du ministre chargé de
 l'économie, l'entreprise d'assurance ou de capitalisation communique chaque année au contractant :
 
-- le montant de la valeur de rachat de son contrat ou la valeur de transfert de son plan d'épargne retraite populaire tel que
-défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée ;
+- le montant de la valeur de rachat ou, pour les contrats liés à la cessation d'activité professionnelle, de transfert ;
 
 - le cas échéant, le montant de la valeur de réduction de son contrat ;
 
@@ -4249,15 +4247,13 @@ plan d'épargne retraite populaire ".
 	  - Code des assurances - art. R132-5-4 (V)
 	  - Code général des collectivités territoriales - art. L2223-34-1 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er juillet 2004
-	  - Loi n°2003-775 2003-08-21 art. 108 XIV 1 JORF 22 août 2003 en vigueur le 1er janvier 2004
-	  - Décret n°2004-346 du 21 avril 2004 - art. 2 () JORF 22 avril 2004
-
 	**Cite**:
 
 	  - Loi n°2003-775 2003-08-21 art. 108
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 
 ###### Article L132-22-1
@@ -4313,8 +4309,8 @@ dispositions de la loi n° 85-98 du 25 janvier 1985 relative au redressement et 
 - invalidité de l'assuré correspondant au classement dans les deuxième ou troisième catégories prévues à l'article L. 341-4
 du code de la sécurité sociale.
 
-Les contrats d'assurance de groupe en cas de vie dont les prestations sont liées à la cessation d'activité professionnelle
-doivent comporter une clause de transférabilité.
+Les droits individuels résultant des contrats d'assurance de groupe en cas de vie dont les prestations sont liées à la
+cessation d'activité professionnelle sont transférables, dans des conditions fixées par décret.
 
 Pour les autres assurances sur la vie, l'assureur ne peut refuser la réduction ou le rachat lorsque 15 p. 100 des primes ou
 cotisations prévues au contrat ont  été versées. Le droit à rachat ou à réduction est acquis lorsque au moins deux primes
@@ -4330,7 +4326,9 @@ ont été payées.
 **Nota:**
 
 (1) : La loi n° 85-98 a été abrogée par l'ordonnance n° 2000-912 du 18 septembre 2000 et codifiée dans le code de commerce
-aux articles L620-1 et suivants.
+aux articles L620-1 et suivants. 
+
+La présente version de cet article est en vigueur jusqu'au 31 décembre 2009.
 
 **Liens relatifs à cet article**
 
@@ -4374,7 +4372,7 @@ aux articles L620-1 et suivants.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 11 () JORF 16 décembre 2005
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 
 ###### Article L132-24
@@ -4465,12 +4463,12 @@ l'assureur est tenu de restituer la portion de prime qu'il a reçue en trop sans
 ###### Article L132-30
 
 Les contrats comportant des opérations d'acquisition d'immeubles au moyen de la constitution de rentes viagères sont soumis
-aux dispositions du présent article.
+aux dispositions du présent article. 
 
 Les crédirentiers conservent individuellement pour le service de leurs rentes, même à l'encontre de toute convention
-contraire, le privilège de l'article 2103, 1°, du code civil sur l'immeuble cédé. S'il existe des héritiers en ligne directe
+contraire, le privilège de l'article 2374,1°, du code civil sur l'immeuble cédé. S'il existe des héritiers en ligne directe
 des crédirentiers, ces derniers ne peuvent traiter avec l'assureur qu'après y avoir été autorisés par jugement rendu en
-chambre du conseil sur simple requête.
+chambre du conseil sur simple requête. 
 
 L'estimation de la valeur actuelle, en pleine propriété, des immeubles cédés, est expressément stipulée aux contrats de
 rentes viagères et garantie sincère et véritable par un expert désigné par le tribunal de grande instance du ressort desdits
@@ -4482,18 +4480,13 @@ immeubles. L'attestation de l'expert, suivie de sa signature, figure aux contrat
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-	  - TXT_ASSOCIE: Code des assurances L132-31 *causes de nullité*
-
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 34 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 	**Cite**:
 
-	  - Code civil - art. 2103 (M)
+	  - Code civil - art. 2374 (V)
 
 	**Cité par**:
 
@@ -4502,6 +4495,10 @@ immeubles. L'attestation de l'expert, suivie de sa signature, figure aux contrat
 	  - Code des assurances - art. L193-1 (V)
 	  - Code des assurances - art. L194-1 (VD)
 	  - Code des assurances - art. L441-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances L132-31 *causes de nullité*
 
 
 ###### Article L132-31
@@ -4819,15 +4816,16 @@ ne sont pas soumises aux dispositions du présent article.
 	  - Code des assurances - art. L140-4 (T)
 
 
-#### Chapitre II.
+#### Chapitre II (en vigueur jusqu'au 1er octobre 2007).
 
 ###### Article L142-1
 
 Les entreprises d'assurance sur la vie sont autorisées à contracter, sous la forme de contrats d'assurance de groupe tels que
-définis à l'article L. 141-1, dans les conditions prévues au présent chapitre, des engagements en cas de vie ou en cas de
-décès non liés à la cessation d'activité professionnelle, à l'exception d'engagements d'assurance temporaire en cas de décès,
-qui donnent lieu à la constitution d'une provision destinée à absorber les fluctuations des actifs du contrat et sur laquelle
-chaque adhérent détient un droit individualisé sous forme de parts.
+définis à l'article L. 141-1, dans les conditions prévues au présent chapitre, des engagements relatifs à un contrat relevant
+du chapitre III du présent titre et des engagements en cas de vie ou en cas de décès non liés à la cessation d'activité
+professionnelle, à l'exception d'engagements d'assurance temporaire en cas de décès, qui donnent lieu à la constitution d'une
+provision destinée à absorber les fluctuations des actifs du contrat et sur laquelle chaque adhérent détient un droit
+individualisé sous forme de parts.
 
 **Liens relatifs à cet article**
 
@@ -4835,13 +4833,9 @@ chaque adhérent détient un droit individualisé sous forme de parts.
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2005-842 2005-07-26 art. 1 IV : Spécificité d'application
-
-	**Créé par**:
-
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -4864,42 +4858,6 @@ chaque adhérent détient un droit individualisé sous forme de parts.
 
 	  - Code des assurances - art. L141-1 (M)
 
-
-###### Article L142-4
-
-Un décret en Conseil d'Etat précise les règles techniques ainsi que les conditions d'application de présent chapitre,
-notamment les cas où, nonobstant l'article L. 132-23, les contrats sont ou non rachetables ou transférables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Créé par**:
-
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
-
-	**Cite**:
-
-	  - Code des assurances - art. L132-23 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. L142-5 (M)
-
-	**Cité par**:
-
-	  - Code des assurances - art. L144-2 (V)
-	  - Code général des impôts, CGI. - art. 38 (VT)
-	  - Code général des impôts, CGI. - art. 39 duodecies (M)
-
-
-#### Chapitre II (en vigueur jusqu'au 1er octobre 2007).
 
 ###### Article L142-2
 
@@ -4941,6 +4899,524 @@ d'assurance réaffecte des actifs du contrat à la représentation d'autres rés
 	**Créé par**:
 
 	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+
+
+###### Article L142-4
+
+Sans préjudice des droits des titulaires de créances nées de la gestion de ces opérations, aucun créancier de l'entreprise
+d'assurance, autre que les adhérents, assurés ou bénéficiaires au titre des opérations relevant du présent chapitre, ne peut
+se prévaloir d'un quelconque droit sur les biens et droits résultant de l'enregistrement comptable établi en vertu de
+l'article L. 142-2, même sur le fondement du livre VI du code de commerce, des articles 2101 et 2104 du code civil, des
+articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du code de la sécurité
+sociale ou de l'article L. 212-23 du code de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2101 (M)
+	  - Code civil - art. 2104 (M)
+	  - Code de la sécurité sociale. - art. L932-24 (M)
+	  - Code des assurances - art. L142-2 (M)
+	  - Code des assurances - art. L310-25 (M)
+	  - Code des assurances - art. L441-8 (M)
+	  - Code des assurances L310-25, L326-2 à L327-6, L441-8, L142-2
+	  - Code de la mutualité - art. L212-23 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L142-5 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L144-2 (V)
+	  - Code général des impôts, CGI. - art. 38 (VT)
+	  - Code général des impôts, CGI. - art. 39 duodecies (M)
+
+
+###### Article L142-5
+
+Un décret en Conseil d'Etat précise les règles techniques ainsi que les conditions d'application de présent chapitre,
+notamment les cas où, nonobstant l'article L. 132-23, les contrats sont ou non rachetables ou transférables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-23 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L142-4 (T)
+
+
+#### Chapitre III : Retraite professionnelle supplémentaire
+
+###### Article L143-1
+
+Le présent chapitre s'applique aux opérations pratiquées par les entreprises d'assurance dans le cadre de l'agrément
+administratif accordé pour les activités de retraite professionnelle supplémentaire. Peuvent être proposés, dans le cadre de
+cet agrément, les contrats d'assurance sur la vie dont les prestations sont liées à la cessation d'activité professionnelle
+et sont versées en supplément des prestations servies par les régimes de base et complémentaires légalement obligatoires. Ces
+contrats sont souscrits :
+
+1° Par un employeur ou un groupe d'employeurs au profit de leurs salariés ou anciens salariés, ou par un groupe professionnel
+représentatif d'employeurs au profit des salariés ou anciens salariés de ceux-ci. Ils revêtent un caractère collectif
+déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 du code de la sécurité sociale ;
+
+2° Ou par un groupement défini à l'article 41 de la loi n° 94-126 du 11 février 1994 relative à l'initiative et à
+l'entreprise individuelle ou au I de l'article 55 de la loi n° 97-1051 du 18 novembre 1997 d'orientation sur la pêche
+maritime et les cultures marines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°94-126 du 11 février 1994 - art. 41 (Ab)
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 55 (M)
+	  - Code de la sécurité sociale. - art. L911-1 (M)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Arrêté du 25 juillet 2008 - art. 4 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 154 bis (V)
+	  - Code de la sécurité sociale. - art. L242-1 (VD)
+	  - Code des assurances - art. A132-1 (V)
+	  - Code des assurances - art. A132-17 (V)
+	  - Code des assurances - art. A132-7-1 (Ab)
+	  - Code des assurances - art. A143-2 (V)
+	  - Code des assurances - art. A143-3 (V)
+	  - Code des assurances - art. A331-9-1 (V)
+	  - Code des assurances - art. A344-2 (V)
+	  - Code des assurances - art. A370-1 (V)
+	  - Code des assurances - art. A370-3 (V)
+	  - Code des assurances - art. D132-10 (V)
+	  - Code des assurances - art. D132-6 (V)
+	  - Code des assurances - art. D132-8 (V)
+	  - Code des assurances - art. D132-9 (V)
+	  - Code des assurances - art. L143-2 (VD)
+	  - Code des assurances - art. L143-3 (VT)
+	  - Code des assurances - art. L143-8 (VT)
+	  - Code des assurances - art. L143-9 (VT)
+	  - Code des assurances - art. L310-2 (V)
+	  - Code des assurances - art. L352-4 (VD)
+	  - Code des assurances - art. L370-1 (V)
+	  - Code des assurances - art. L370-2 (VD)
+	  - Code des assurances - art. L370-3 (V)
+	  - Code des assurances - art. L370-4 (V)
+	  - Code des assurances - art. R134-1 (VD)
+	  - Code des assurances - art. R142-2 (Ab)
+	  - Code des assurances - art. R142-6 (Ab)
+	  - Code des assurances - art. R143-1 (V)
+	  - Code des assurances - art. R143-2 (V)
+	  - Code des assurances - art. R310-17-1 (VD)
+	  - Code des assurances - art. R331-5-3 (VT)
+	  - Code des assurances - art. R332-62 (VT)
+	  - Code des assurances - art. R332-63-1 (V)
+	  - Code des assurances - art. R334-5-3 (T)
+	  - Code des assurances - art. R342-1 (VD)
+	  - Code des assurances - art. R342-13 (VD)
+	  - Code des assurances - art. R344-1 (VD)
+	  - Code des assurances - art. R352-28 (VD)
+	  - Code des assurances - art. R423-4 (V)
+	  - Code général des impôts, CGI. - art. 154 bis-0 A (V)
+	  - Code général des impôts, CGI. - art. 83 (V)
+	  - Code monétaire et financier - art. R561-16 (VD)
+	  - Code monétaire et financier - art. R612-20-1 (V)
+	  - Code rural - art. L741-10 (V)
+
+
+###### Article L143-2
+
+Les prestations relatives aux contrats mentionnés à l'article L. 143-1 sont payables à l'assuré à compter de la date de
+liquidation de sa pension dans un régime obligatoire d'assurance vieillesse ou à l'âge fixé en application de l'article L.
+351-1 du code de la sécurité sociale. Elles peuvent prévoir des garanties complémentaires en cas de décès de l'adhérent avant
+ou après la cessation d'activité professionnelle, ainsi qu'en cas d'invalidité et d'incapacité.
+
+Les droits individuels en cours de constitution relatifs aux contrats mentionnés à l'article L. 143-1 sont transférables vers
+un autre contrat mentionné à l'article L. 143-1, ainsi que, dans des conditions et des limites fixées par décret, vers un
+plan d'épargne retraite populaire défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
+Ces droits sont également transférables vers un contrat offrant les prestations mentionnées à l'article L. 143-1, mais
+n'ayant pas été souscrit dans le cadre de l'agrément administratif mentionné au premier alinéa de cet article. La notice
+d'information précise les modalités d'exercice de la clause de transférabilité. Toutefois, lorsque l'adhésion à ces contrats
+revêt un caractère obligatoire déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 du code de la
+sécurité sociale, les droits individuels relatifs à ces contrats ne sont transférables que lorsque le participant n'est plus
+tenu d'y adhérer.
+
+Il est institué pour chaque contrat mentionné au deuxième alinéa de l'article L. 143-1, ne relevant pas du b du 1 du I de
+l'article 163 quatervicies du code général des impôts et dont le nombre des adhérents est supérieur à un seuil fixé par un
+arrêté conjoint du ministre chargé de l'économie, du ministre chargé de la sécurité sociale et du ministre chargé de la
+mutualité, un comité de surveillance chargé de veiller à la bonne exécution du contrat et à la représentation des intérêts
+des adhérents. Ce comité est formé dans les six mois suivant le franchissement du seuil susmentionné, y compris suite à
+l'autorisation mentionnée à l'article L. 143-8. Il est composé à parts égales de représentants des salariés et des
+employeurs. Les membres du comité de surveillance sont tenus au secret professionnel à l'égard des informations présentant un
+caractère confidentiel et données comme telles par les personnes consultées dans les conditions et sous les peines prévues
+aux articles 226-13 et 226-14 du code pénal. Le comité peut entendre le ou les commissaires aux comptes mentionnés à
+l'article L. 143-6 sur les comptes prévus au deuxième alinéa de cet article. Ils sont sur cette question déliés à l'égard du
+comité de l'obligation du secret professionnel.
+
+Les deuxième et troisième alinéas ne s'appliquent ni aux contrats à prestations définies bénéficiant du régime prévu au 2° et
+au 2° 0 bis de l'article 83 du code général des impôts, ni à ceux entrant dans le champ d'application de l'article L. 137-11
+du code de la sécurité sociale. Ils ne s'appliquent pas non plus aux contrats ayant pour seul objet la prestation
+d'indemnités de départ en retraite mentionnées à l'article L. 122-14-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quatervicies, 83
+	  - Loi n°2003-775 2003-08-21 art. 108
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
+	  - Code du travail - art. L122-14-13 (M)
+	  - Code de la sécurité sociale. - art. L137-11 (M)
+	  - Code de la sécurité sociale. - art. L351-1 (M)
+	  - Code de la sécurité sociale. - art. L911-1 (M)
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L143-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A143-1 (V)
+	  - Code des assurances - art. D132-10 (V)
+	  - Code des assurances - art. D132-6 (V)
+	  - Code des assurances - art. L143-8 (VT)
+	  - Code des assurances - art. L143-9 (M)
+	  - Code des assurances - art. R143-2 (V)
+	  - Code des assurances - art. R143-3 (V)
+	  - Code des assurances - art. R143-4 (V)
+
+
+###### Article L143-3
+
+L'agrément mentionné à l'article L. 143-1 est délivré, sur demande de l'entreprise d'assurance, dans les conditions prévues à
+l'article L. 321-1. Il vaut également agrément pour les activités des entreprises d'assurance en tant qu'institution de
+retraite professionnelle dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur
+l'Espace économique européen. 
+
+Cet agrément est également délivré aux entreprises mentionnées aux articles L. 321-7 à L. 321-9, dans les conditions
+respectivement prévues à ces articles. 
+
+L'agrément ne peut être accordé qu'aux entreprises d'assurance agréées pour exercer les opérations d'assurance dépendant de
+la durée de la vie humaine, y compris les opérations collectives mentionnées à l'article L. 441-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 7 (Ab)
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code des assurances - art. L325-1 (VD)
+	  - Code des assurances - art. L370-2 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-1 (V)
+	  - Code des assurances - art. L321-1 (V)
+	  - Code des assurances - art. L321-7 (V)
+	  - Code des assurances - art. L441-1 (V)
+
+
+###### Article L143-4
+
+Nonobstant les dispositions du code de commerce relatives aux comptes sociaux, l'entreprise d'assurance établit une
+comptabilité auxiliaire d'affectation unique pour l'ensemble des opérations relevant du présent chapitre et des opérations
+mentionnées à l'article L. 310-12-7.
+
+Toutefois, les comptabilités auxiliaires d'affectation relatives à des opérations relevant du présent chapitre, mentionnées
+aux articles L. 441-8, L. 142-2 et, pour les contrats relevant du b du 1 du I de l'article 163 quatervicies du code général
+des impôts, celles mentionnées au VII de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites,
+sont établies séparément de la comptabilité auxiliaire d'affectation mentionnée à l'alinéa précédent.
+
+L'autorité de contrôle instituée à l'article L. 310-12 peut également exiger que l'entreprise d'assurance établisse
+séparément de la comptabilité mentionnée au premier alinéa une comptabilité auxiliaire d'affectation pour les opérations
+mentionnées à l'article L. 310-12-7.
+
+Les actifs de chaque contrat sont conservés par un dépositaire unique distinct de l'entreprise d'assurance, qui exerce à
+titre principal le service mentionné au 1 de l'article L. 321-2 du code monétaire et financier, et qui est agréé en France,
+dans un autre Etat membre de la Communauté européenne ou dans autre Etat partie à l'accord sur l'Espace économique européen.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quatervicies
+	  - Loi n°2003-775 2003-08-21 art. 108
+	  - Code monétaire et financier - art. L321-2 (M)
+	  - Code des assurances - art. L142-2 (M)
+	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. L310-12-7 (V)
+	  - Code des assurances - art. L441-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A132-7-1 (Ab)
+	  - Code des assurances - art. A143-2 (V)
+	  - Code des assurances - art. A342-1-3 (V)
+	  - Code des assurances - art. A342-2 (V)
+	  - Code des assurances - art. D143-5-1 (V)
+	  - Code des assurances - art. L143-5 (VT)
+	  - Code des assurances - art. L143-6 (VT)
+	  - Code des assurances - art. L143-7 (M)
+	  - Code des assurances - art. L370-2 (VD)
+	  - Code des assurances - art. R310-17-2 (V)
+	  - Code des assurances - art. R332-59 (VT)
+	  - Code des assurances - art. R332-60 (VT)
+	  - Code des assurances - art. R332-61 (VT)
+	  - Code des assurances - art. R332-63 (VT)
+	  - Code des assurances - art. R342-1 (VD)
+	  - Code des assurances - art. R342-10 (V)
+	  - Code des assurances - art. R342-12 (VD)
+	  - Code des assurances - art. R342-14 (VD)
+	  - Code des assurances - art. R352-28 (VD)
+
+
+###### Article L143-5
+
+En cas d'insuffisance de représentation des engagements faisant l'objet de la comptabilité auxiliaire d'affectation
+mentionnée aux premier, deuxième et troisième alinéas de l'article L. 143-4, et nonobstant toute procédure qui pourrait être
+engagée dans le cadre du titre Ier du livre III, l'entreprise d'assurance et le ou les souscripteurs conviennent d'un plan de
+redressement permettant de parfaire la représentation de ces engagements par affectation d'actifs représentatifs de réserves
+ou de provisions autres que ceux représentatifs de ses engagements réglementés. Lorsque la représentation des engagements du
+ou des contrats le rend possible, les actifs affectés à ce ou ces contrats ou leur contre-valeur sont réaffectés aux autres
+opérations de l'entreprise d'assurance dans des conditions convenues entre celle-ci et le ou les souscripteurs des contrats
+faisant l'objet de la comptabilité auxiliaire d'affectation. En cas de désaccord entre les parties, l'autorité de contrôle
+instituée à l'article L. 310-12 détermine le montant et le calendrier d'affectation d'actifs par l'entreprise d'assurance.
+
+L'élaboration du plan de redressement mentionné au premier alinéa tient compte de la situation particulière de l'entreprise
+d'assurance au titre de la comptabilité auxiliaire faisant l'objet dudit plan. Ce plan est tenu à la disposition des
+adhérents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-4 (M)
+	  - Code des assurances - art. L310-12 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L143-7 (M)
+	  - Code des assurances - art. L144-2 (VD)
+	  - Code des assurances - art. L370-2 (VD)
+	  - Code des assurances - art. R144-30 (V)
+	  - Code des assurances - art. R144-8 (V)
+	  - Code des assurances - art. R343-1 (VD)
+	  - Code des assurances - art. R352-28 (VD)
+
+
+###### Article L143-6
+
+La notice mentionnée à l'article L. 141-4 indique que le contrat souscrit est un contrat de retraite professionnelle
+supplémentaire relevant des dispositions du présent chapitre.
+
+L'entreprise d'assurance établit et arrête, dans les mêmes conditions que ses comptes individuels, le rapport de gestion et
+les comptes annuels relatifs à la ou aux comptabilités auxiliaires d'affectation mentionnées à l'article L. 143-4. Le ou les
+commissaires aux comptes de l'entreprise d'assurance certifient que ces comptes annuels sont réguliers et sincères. Ces
+documents sont remis à leur demande aux souscripteurs dans les six mois qui suivent la clôture de l'exercice précédent et
+sont tenus à la disposition des adhérents et bénéficiaires.
+
+Lors de la liquidation de ses droits, l'entreprise d'assurance informe chaque adhérent ou bénéficiaire, dans des conditions
+définies par arrêté du ministre chargé de l'économie, sur le montant des prestations qui lui sont dues et sur les options de
+paiement correspondantes.
+
+L'entreprise d'assurance établit et révise au moins tous les trois ans, globalement pour les opérations relevant du présent
+chapitre, un rapport indiquant sa politique de placement et les risques techniques et financiers y afférents. Ce rapport doit
+être mis à jour dans un délai de trois mois après tout changement majeur de la politique de placement. Il est remis, sur
+demande, au souscripteur. Un arrêté du ministre chargé de l'économie précise les autres informations qui, sur demande ou
+périodiquement, doivent être remises aux adhérents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A132-7-1 (Ab)
+	  - Code des assurances - art. A143-2 (V)
+	  - Code des assurances - art. L143-2 (VT)
+	  - Code des assurances - art. L370-2 (VD)
+	  - Code des assurances - art. R143-4 (V)
+	  - Code des assurances - art. R143-5 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L141-4 (M)
+	  - Code des assurances - art. L143-4 (M)
+
+
+###### Article L143-7
+
+Sans préjudice des droits des titulaires de créances nées de la gestion de ces opérations, aucun créancier de l'entreprise
+d'assurance, autre que les adhérents, assurés ou bénéficiaires au titre des opérations relevant du présent chapitre, ne peut
+se prévaloir d'un quelconque droit sur les biens et droits résultant de l'enregistrement comptable établi en vertu du premier
+alinéa de l'article L. 143-4, même sur le fondement du livre VI du code de commerce, des articles 2101 et 2104 du code civil,
+des articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du code de la sécurité
+sociale ou de l'article L. 212-23 du code de la mutualité.
+
+Sous réserve de l'article L. 143-5, les adhérents, assurés ou bénéficiaires au titre des opérations relevant du présent
+chapitre et de l'article L. 310-12-7 ne peuvent se prévaloir d'un quelconque droit sur les biens et droits résultant des
+autres opérations de l'entreprise d'assurance, même sur le fondement du livre VI du code de commerce, des articles 2101 et
+2104 du code civil, des articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du
+code de la sécurité sociale ou de l'article L. 212-23 du code de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A370-3 (V)
+	  - Code des assurances - art. L370-2 (VD)
+	  - Code général des impôts, CGI. - art. 38 (VT)
+	  - Code général des impôts, CGI. - art. 39 duodecies (V)
+
+
+###### Article L143-8
+
+La soumission au présent chapitre de tout contrat offrant les prestations mentionnées à l'article L. 143-1, mais n'ayant pas
+été souscrit dans le cadre de l'agrément administratif mentionné au premier alinéa de cet article, est autorisée par le
+Comité des entreprises d'assurance. La désignation des contrats concernés est portée à la connaissance des créanciers par un
+avis publié au Journal officiel, qui leur impartit un délai d'un mois pour présenter leurs observations.
+
+Le comité dispose pour se prononcer d'un délai de deux mois à compter de l'expiration du délai imparti à l'alinéa précédent
+aux créanciers pour présenter leurs observations. Le comité peut également demander des documents complémentaires nécessaires
+à l'appréciation de l'opération, et, dans ce cas, le délai dont il dispose pour se prononcer court à partir de la date de
+production desdits documents.
+
+Cette soumission est irréversible et opposable aux assurés, créanciers, souscripteurs et bénéficiaires du ou des contrats à
+partir de la date de publication au Journal officiel de l'autorisation mentionnée au premier alinéa du présent article.
+
+Pour l'application des dispositions du présent article, les mutuelles régies par le code de la mutualité et les institutions
+de prévoyance mentionnées à l'article L. 931-1 du code de la sécurité sociale et à l'article L. 727-2 du code rural sont
+assimilées à des entreprises d'assurance agréées conformément aux dispositions de l'article L. 321-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 38 (V)
+	  - Code de la mutualité - art. L222-10 (M)
+	  - Code de la mutualité - art. L222-4 (VD)
+	  - Code de la sécurité sociale. - art. L932-41 (VD)
+	  - Code de la sécurité sociale. - art. L932-47 (VT)
+	  - Code des assurances - art. L143-2 (VT)
+	  - Code des assurances - art. L143-9 (M)
+	  - Code des assurances - art. R332-63 (VT)
+	  - Code des assurances - art. R342-14 (VD)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L931-1 (M)
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L321-1 (M)
+	  - Code rural L727-2
+
+
+###### Article L143-9
+
+Un décret en Conseil d'Etat précise les règles techniques et de garantie applicables aux opérations mentionnées à l'article
+L. 143-1 et à l'article L. 310-12-7, ainsi que les conditions d'application des articles L. 143-1 à L. 143-8, et notamment
+les modalités de constitution et de fonctionnement du comité de surveillance mentionné à l'article L. 143-2. Il fixe les
+conditions de l'autorisation mentionnée à l'article L. 143-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Décret n°2015-46 du 22 janvier 2015 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L143-2 (M)
+	  - Code des assurances - art. L310-12-7 (V)
+	  - Code des assurances L143-1, L310-12-7, L143-1 à L143-8, L143-2
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
@@ -10189,31 +10665,34 @@ France, sont soumises au contrôle de l'Etat dans les conditions particulières 
 
 ###### Article L310-2
 
-Sous réserve des dispositions de l'article L. 310-10, les opérations d'assurance directe définies à l'article L. 310-1 ne
-peuvent être pratiquées sur le territoire de la République française que :
+I. Sous réserve des dispositions de l'article L. 310-10, les opérations d'assurance directe définies à l'article L. 310-1 ne
+peuvent être pratiquées sur le territoire de la République française que : 
 
 1° par les entreprises ayant leur siège social en France, à partir de leur siège ou de leurs succursales régulièrement
 établies dans un Etat membre des Communautés européennes, lorsqu'elles sont agréées conformément aux dispositions de
-l'article L. 321-1 ;
+l'article L. 321-1 ; 
 
 2° par les entreprises étrangères ayant leur siège social dans un Etat membre des Communautés européennes, à partir de leur
 siège ou de leurs succursales régulièrement établies dans un Etat membre des Communautés européennes, dans les conditions
-fixées par le titre VI du présent livre ;
+fixées par le titre VI du présent livre ; 
 
 3° par les entreprises étrangères mentionnées à l'article L. 310-10-1, à partir de leurs succursales régulièrement établies
-en France, lorsqu'elles sont agréées conformément aux dispositions de l'article L. 321-7 ;
+en France, lorsqu'elles sont agréées conformément aux dispositions de l'article L. 321-7 ; 
 
 4° par les entreprises étrangères autres que celles mentionnées aux 2° et 3° ci-dessus, à partir de leurs succursales
-régulièrement établies en France, lorsqu'elles satisfont aux conditions fixées par l'article L. 321-9 ;
+régulièrement établies en France, lorsqu'elles satisfont aux conditions fixées par l'article L. 321-9 ; 
 
 5° par les entreprises visées aux 1° et 2° ci-dessus, à partir de leurs succursales régulièrement établies dans les Etats
 parties à l'accord sur l'Espace économique européen non membres des Communautés européennes, dans les conditions fixées par
 le titre V du présent livre ainsi que, dans les mêmes conditions, par les entreprises mentionnées au 1° de l'article L.
 310-10-1, à partir de leur siège social ou de leurs succursales régulièrement établies dans un Etat partie à l'accord sur
-l'Espace économique européen autre que la France.
+l'Espace économique européen autre que la France. 
 
-Sont nuls les contrats souscrits en infraction au présent article. Toutefois, cette nullité n'est pas opposable, lorsqu'ils
-sont de bonne foi, aux assurés, aux souscripteurs et aux bénéficiaires.
+II.-Les opérations mentionnées à l'article L. 143-1 peuvent être pratiquées sur le territoire de la République française par
+les institutions mentionnées à l'article L. 370-1, dans les conditions fixées par le titre VII du présent livre. 
+
+III.-Sont nuls les contrats souscrits en infraction au présent article. Toutefois, cette nullité n'est pas opposable,
+lorsqu'ils sont de bonne foi, aux assurés, aux souscripteurs et aux bénéficiaires.
 
 **Liens relatifs à cet article**
 
@@ -10338,7 +10817,7 @@ sont de bonne foi, aux assurés, aux souscripteurs et aux bénéficiaires.
 
 	**Modifié par**:
 
-	  - Loi n°94-679 du 8 août 1994 - art. 1 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 	**Liens**:
 
@@ -10346,7 +10825,9 @@ sont de bonne foi, aux assurés, aux souscripteurs et aux bénéficiaires.
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. L143-1 (V)
+	  - Code des assurances - art. L310-1 (V)
+	  - Code des assurances - art. L370-1 (V)
 
 
 ###### Article L310-2-1
@@ -11221,6 +11702,69 @@ présidents des fonds de garantie sont également entendus à leur demande.
 	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 
+###### Article L310-12-7
+
+Tout organisme d'assurance, projetant de fournir des services d'institutions de retraite professionnelle sur le territoire
+d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen le
+notifie, pour chaque service impliquant une entreprise d'affiliation distincte, à l'autorité de contrôle. L'autorité, à moins
+qu'elle n'ait des raisons de penser que les structures administratives ou la situation financière de l'organisme ne sont pas
+compatibles avec les opérations proposées dans l'autre Etat, communique à l'autorité compétente de l'autre Etat les documents
+permettant l'exercice de l'activité envisagée.
+
+Lorsqu'elle est informée par l'autorité compétente de l'Etat dans lequel un organisme d'assurance propose des services
+d'institution de retraite professionnelle, que cet organisme a enfreint une disposition du droit social ou du droit du
+travail de cet Etat, l'autorité de contrôle instituée à l'article L. 310-12 prend les mesures nécessaires mentionnées à
+l'article L. 310-18 pour mettre fin à cette infraction.
+
+Pour l'application des dispositions du présent article, les mutuelles régies par le code de la mutualité et les institutions
+de prévoyance mentionnées à l'article L. 931-1 du code de la sécurité sociale et à l'article L. 727-2 du code rural sont
+assimilées à des entreprises d'assurance agréées conformément aux dispositions de l'article L. 321-1.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment les modalités du contrôle
+préalable et les délais dans lesquels l'autorité se prononce. Un arrêté du ministre chargé de l'économie précise le contenu
+de la notification mentionnée au précédent alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 12
+	  - Code de la mutualité - art. L222-6 (V)
+	  - Code de la mutualité - art. L222-9 (V)
+	  - Code de la mutualité - art. L510-3-1 (Ab)
+	  - Code de la sécurité sociale. - art. L932-43 (V)
+	  - Code de la sécurité sociale. - art. L932-46 (V)
+	  - Code de la sécurité sociale. - art. L932-48 (V)
+	  - Code de la sécurité sociale. - art. L951-2-1 (Ab)
+	  - Code des assurances - art. L143-4 (V)
+	  - Code des assurances - art. L143-9 (V)
+	  - Code des assurances - art. R310-17-1 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L931-1
+	  - Code des assurances - art. L310-12
+	  - Code des assurances - art. L310-18
+	  - Code des assurances - art. L321-1
+	  - Code rural L727-2
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. L310-14 (M)
+
+
 ###### Article L310-13
 
 Le contrôle des entreprises visées aux articles L. 310-1 et L. 310-1-1, des sociétés de groupe d'assurance et des sociétés de
@@ -11758,12 +12302,12 @@ transmission sont déterminées par décret.
 ###### Article L310-21
 
 Les membres ainsi que les agents de l'Autorité de contrôle des assurances sont tenus au secret professionnel sous les peines
-fixées par les articles 226-13 et 226-14 du code pénal. Ce secret n'est pas opposable l'autorité judiciaire agissant dans le
-cadre d'une procédure pénale.
+fixées par les articles 226-13 et 226-14 du code pénal. Ce secret n'est pas opposable à l'autorité judiciaire agissant dans
+le cadre d'une procédure pénale.
 
 L'Autorité de contrôle des assurances peut transmettre des informations aux autorités chargées de la surveillance des
-entreprises d'assurance dans d'autres pays, sous réserve de réciprocité, et à condition que ces autorités soient elles-mêmes
-soumises au secret professionnel avec les mêmes garanties qu'en France.
+entreprises d'assurance et des institutions de retraite professionnelle dans d'autres pays, sous réserve de réciprocité, et à
+condition que ces autorités soient elles-mêmes soumises au secret professionnel avec les mêmes garanties qu'en France.
 
 L'Autorité de contrôle des assurances et des mutuelles peut transmettre aux banques centrales des Etats membres ou des autres
 Etats parties à l'accord sur l'Espace économique européen, au Système européen de banques centrales, à la Banque centrale
@@ -11796,19 +12340,13 @@ présenté la demande peut, si elle le souhaite, y être associée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°68-678 1968-07-26
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
-
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 
 ###### Article L310-22
@@ -14173,6 +14711,8 @@ L'approbation rend le transfert opposable aux assurés, souscripteurs et bénéf
 partir de la date de publication au Journal officiel de la décision d'approbation mentionnée au deuxième alinéa du présent
 article. Les assurés ont la faculté de résilier le contrat dans le délai d'un mois suivant la date de cette publication.
 
+Les dispositions du présent article sont précisées par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -14233,8 +14773,7 @@ article. Les assurés ont la faculté de résilier le contrat dans le délai d'u
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 29 II 2°, 8° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 	**Cite**:
 
@@ -14426,12 +14965,12 @@ de l'importance respective des fonds propres et des engagements pris envers les 
 
 ###### Article L325-1
 
-Sans préjudice des dispositions de l'article L. 310-18, l'agrément administratif prévu aux articles L. 321-1, L. 321-7 et L.
-321-9 peut être retiré par le Comité des entreprises d'assurance en cas d'absence prolongée d'activité, de rupture de
-l'équilibre entre les moyens financiers de l'entreprise et son activité ou, si l'intérêt général l'exige, de changements
-substantiels affectant la répartition de son capital, la qualité des actionnaires ou la composition des organes de direction.
-Il peut également être retiré par le Comité des entreprises d'assurance lorsque les engagements mentionnés au dernier alinéa
-de l'article L. 321-10 ne sont plus respectés alors que la situation de l'entreprise justifie leur maintien.
+Sans préjudice des dispositions de l'article L. 310-18, l'agrément administratif prévu aux articles L. 321-1, L. 321-7, L.
+321-9 et L. 143-3 peut être retiré par le Comité des entreprises d'assurance en cas d'absence prolongée d'activité, de
+rupture de l'équilibre entre les moyens financiers de l'entreprise et son activité ou, si l'intérêt général l'exige, de
+changements substantiels affectant la répartition de son capital, la qualité des actionnaires ou la composition des organes
+de direction. Il peut également être retiré par le Comité des entreprises d'assurance lorsque les engagements mentionnés au
+dernier alinéa de l'article L. 321-10 ne sont plus respectés alors que la situation de l'entreprise justifie leur maintien.
 
 **Liens relatifs à cet article**
 
@@ -14441,7 +14980,7 @@ de l'article L. 321-10 ne sont plus respectés alors que la situation de l'entre
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -14469,14 +15008,6 @@ de l'article L. 321-10 ne sont plus respectés alors que la situation de l'entre
 	  - Code des assurances - art. R325-4 (V)
 	  - Code des assurances - art. R325-7 (V)
 	  - Code monétaire et financier - art. L612-33-2 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-18 (M)
-	  - Code des assurances - art. L321-1 (M)
-	  - Code des assurances - art. L321-10 (M)
-	  - Code des assurances - art. L321-7 (V)
-	  - Code des assurances - art. L321-9 (M)
 
 	**Liens**:
 
@@ -15083,9 +15614,9 @@ général institué au premier alinéa de l'article L. 327-2.
 L'actif mobilier des entreprises françaises soumises au contrôle de l'Etat par l'article L. 310-1 est affecté par un
 privilège général au règlement de leurs engagements envers les assurés et bénéficiaires de contrats et au remboursement par
 préférence des primes payées par les personnes ayant exercé leur droit à renonciation en application de l'article L. 132-5-1.
-Ce privilège prend rang après le 6° de l'article 2101 du code civil.
+Ce privilège prend rang après le 6° de l'article 2331 du code civil.
 
-Il en est de même de l'actif immobilier. Ce privilège prend rang après le 2° de l'article 2104 du code civil.
+Il en est de même de l'actif immobilier. Ce privilège prend rang après le 2° de l'article 2375 du code civil.
 
 Pour les entreprises étrangères mentionnées aux 3° et 4° de l'article L. 310-2, les actifs mobiliers et immobiliers
 représentant les provisions techniques et les cautionnements sont affectés par un privilège spécial au règlement de leurs
@@ -15097,24 +15628,22 @@ opérations d'assurance directes pour les contrats souscrits ou exécutés sur l
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 (champ d'application à Mayotte)
-	  - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
-	  - TXT_ASSOCIE: Code des assurances - art. L327-1 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. L327-5 (V)
-
 	**Modifié par**:
 
-	  - Loi n°99-532 1999-06-25 art. 91 9° JORF 29 juin 1999
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 	**Cite**:
 
-	  - Code civil - art. 2101 (M)
-	  - Code civil - art. 2104 (M)
+	  - Code civil - art. 2331 (V)
+	  - Code civil - art. 2375 (V)
 	  - Code des assurances - art. L132-5-1 (M)
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L310-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. L327-1 (V)
+	  - TXT_ASSOCIE: Code des assurances - art. L327-5 (V)
 
 	**Cité par**:
 
@@ -17760,9 +18289,238 @@ délai d'un mois suivant la date de cette publication.
 	  - Code des assurances - art. L324-1 (M)
 
 
-### Titre VII : Dispositions applicables à Mayotte et dans les îles Wallis et Futuna
+### Titre VII : Prestations de service fournies par une institution de retraite professionnelle établie dans un autre Etat membre de l'union européenne ou dans un autre Etat partie à l'accord sur l'espace économique européen.
 
-###### Article L371-1
+###### Article L370-1
+
+Le présent titre s'applique aux institutions de retraite professionnelle ayant leur siège social ou leur administration
+principale dans un autre Etat membre de la Communauté européenne ou dans un autre Etat Partie à l'accord sur l'Espace
+économique européen et proposant les opérations mentionnées à l'article L. 143-1 du présent code et à l'article L. 443-1-2 du
+code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Arrêté du 25 juillet 2008 - art. 4 (V)
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 3
+	  - Code de la sécurité sociale. - art. L242-1 (VD)
+	  - Code de la sécurité sociale. - art. L912-1 (V)
+	  - Code de la sécurité sociale. - art. L912-3 (V)
+	  - Code de la sécurité sociale. - art. L914-2 (V)
+	  - Code de la sécurité sociale. - art. L914-3 (V)
+	  - Code des assurances - art. A370-1 (V)
+	  - Code des assurances - art. A370-2 (V)
+	  - Code des assurances - art. L310-2 (V)
+	  - Code des assurances - art. L370-2 (VD)
+	  - Code des assurances - art. L370-3 (V)
+	  - Code des assurances - art. L370-4 (V)
+	  - Code des assurances - art. R370-4 (V)
+	  - Code des assurances - art. R370-5 (V)
+	  - Code du travail - art. L443-1-2 (AbD)
+	  - Code général des impôts, CGI. - art. 154 bis (V)
+	  - Code général des impôts, CGI. - art. 154 bis-0 A (V)
+	  - Code général des impôts, CGI. - art. 83 (V)
+	  - Code monétaire et financier - art. D411-1 (V)
+	  - Code monétaire et financier - art. D533-11 (M)
+	  - Code monétaire et financier - art. D533-13 (V)
+	  - Code monétaire et financier - art. L420-16 (VD)
+	  - Code monétaire et financier - art. L531-2 (VT)
+	  - Code monétaire et financier - art. L621-15-2 (V)
+	  - Code rural - art. L741-10 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-1 (V)
+
+
+###### Article L370-2
+
+Les institutions mentionnées à l'article L. 370-1 peuvent proposer en France les opérations définies à l'article L. 143-1 :
+elles sont alors soumises aux dispositions du chapitre III du titre IV du livre Ier du code des assurances, à l'exception de
+l'article L. 143-3, de l'article L. 143-4, de l'article L. 143-5, du deuxième alinéa de l'article L. 143-6 et du dernier
+alinéa de l'article L. 143-7, ainsi qu'au droit social, au droit du travail, aux exigences d'information et aux dispositions
+du livre Ier du code des assurances qui sont applicables aux contrats mentionnés à l'article L. 143-1. Aucun créancier de
+l'institution, autre que les adhérents, assurés ou bénéficiaires au titre des opérations définies à l'article L. 143-1, ne
+peut se prévaloir d'un quelconque droit sur les biens et droits résultant de ces opérations, dans les conditions prévues au
+premier alinéa de l'article L. 143-7.
+
+Les institutions mentionnées à l'article L. 370-1 peuvent proposer en France un plan d'épargne pour la retraite collectif
+relevant de l'article L. 443-1-2 du code du travail : elles sont alors soumises aux dispositions du chapitre III du titre IV
+du livre IV du code du travail, ainsi qu'au droit social, au droit du travail et aux exigences d'information qui sont
+applicables aux plans d'épargne pour la retraite collectifs. En particulier, les sommes ou valeurs inscrites aux comptes des
+participants auxdits plans ne peuvent servir qu'à l'acquisition des titres et parts mentionnées à l'article L. 443-3 du code
+du travail, conformément notamment au quatrième alinéa du I de l'article L. 443-1-2 dudit code. Les conseils de surveillance
+respectent les dispositions prévues à l'article L. 214-39 du code monétaire et financier et au dernier alinéa de l'article L.
+443-3 du code du travail et les transferts sont effectués, le cas échéant, conformément à l'article L. 444-9 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-39 (M)
+	  - Code du travail - art. L443-1-2 (M)
+	  - Code du travail - art. L443-3 (Ab)
+	  - Code du travail - art. L444-9 (AbD)
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L143-3 (V)
+	  - Code des assurances - art. L143-4 (M)
+	  - Code des assurances - art. L143-5 (V)
+	  - Code des assurances - art. L143-6 (V)
+	  - Code des assurances - art. L143-7 (V)
+	  - Code des assurances - art. L370-1 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A370-3 (V)
+	  - Code des assurances - art. L370-3 (V)
+	  - Code des assurances - art. L370-4 (V)
+	  - Code des assurances - art. R370-1 (V)
+	  - Code des assurances - art. R370-2 (V)
+	  - Code des assurances - art. R370-3 (V)
+	  - Code des assurances - art. R370-5 (V)
+	  - Code monétaire et financier - art. D411-1 (V)
+	  - Code monétaire et financier - art. D533-11 (M)
+	  - Code monétaire et financier - art. D533-13 (V)
+	  - Code monétaire et financier - art. L420-16 (VD)
+	  - Code monétaire et financier - art. L531-2 (VD)
+	  - Code monétaire et financier - art. L621-15-2 (V)
+
+
+###### Article L370-3
+
+Le Comité des entreprises d'assurance, informé par les autorités compétentes de l'Etat où l'institution mentionnée à
+l'article L. 370-1 a son siège social ou son administration principale de son intention de proposer un contrat mentionné à
+l'article L. 143-1 du présent code ou à l'article L. 443-1-2 du code du travail à une entreprise établie en France, indique
+dans un délai de deux mois aux autorités compétentes de cet Etat les dispositions relatives aux prestations de retraite,
+définies dans un arrêté des ministres en charge de l'économie, du travail et de la sécurité sociale, qui régissent l'activité
+de cette institution. Lorsque l'institution mentionnée à l'article L. 370-1 a l'intention de proposer des contrats relevant
+de l'article L. 443-1-2 du code du travail, le comité précité en informe le comité des établissements de crédit et des
+entreprises d'investissement.
+
+Dès que l'institution de retraite professionnelle agréée dans cet Etat a été informée des dispositions mentionnées au premier
+alinéa, et au plus tard dans un délai de deux mois après que le comité des entreprises d'assurance a été informé par les
+autorités compétentes de cet Etat, celle-ci peut fournir ses services sur le territoire de la République française,
+conformément à l'article L. 370-2.
+
+En cas de modifications majeures des dispositions mentionnées à l'alinéa précédent, le comité des entreprises d'assurance les
+indique aux autorités compétentes des Etats où sont situés les sièges sociaux ou l'administration principale des institutions
+mentionnées à l'article L. 370-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L443-1-2 (M)
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L370-1 (V)
+	  - Code des assurances - art. L370-2 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A370-1 (V)
+	  - Code des assurances - art. A370-3 (V)
+	  - Code des assurances - art. L370-4 (V)
+	  - Code des assurances - art. R370-7 (V)
+
+
+###### Article L370-4
+
+Les institutions mentionnées à l'article L. 370-1 sont soumises à la surveillance des autorités compétentes conformément aux
+dispositions législatives et réglementaires applicables aux opérations mentionnées à l'article L. 370-2, afin qu'elles
+respectent les obligations d'information et les dispositions du droit du travail et du droit social mentionnées au premier
+alinéa de l'article L. 370-3.
+
+Lorsqu'une institution, proposant sur le territoire de la République française les opérations définies à l'article L. 143-1,
+a enfreint l'une de ces dispositions, l'autorité de contrôle instituée à l'article L. 310-12, saisie par les autorités
+compétentes, notifie cette infraction sans délai à l'autorité compétente de l'Etat dans lequel est agréée l'institution et
+lui demande, en coordination avec cette autorité de contrôle, de prendre les mesures nécessaires pour mettre un terme à
+l'infraction. Si, passé un délai de deux mois après cette notification, l'infraction persiste, l'autorité de contrôle
+instituée à l'article L. 310-12 peut prononcer à l'encontre de l'institution les sanctions disciplinaires mentionnées aux 1°
+à 3° de l'article L. 310-18, ainsi que la sanction pécuniaire mentionnée au dixième alinéa de l'article L. 310-18. Pour la
+mise en oeuvre de ces procédures, les dispositions des douzième à quatorzième alinéas de l'article L. 310-18 et, le cas
+échéant, de l'article L. 310-22 s'appliquent. En outre, l'autorité de contrôle peut décider de reporter sa décision à l'issue
+d'un délai qu'elle impartit à l'institution pour prendre toute mesure de nature à mettre fin à l'infraction.
+
+L'autorité de contrôle instituée à l'article L. 310-12 peut saisir les autorités compétentes de l'Etat membre ou autre Etat
+Partie à l'accord sur l'Espace économique européen dans lequel l'institution a son siège social ou son administration
+principale afin que celles-ci statuent sur l'établissement d'une comptabilité auxiliaire d'affectation pour les opérations de
+l'institution mentionnées à l'article L. 143-1 du code des assurances et à l'article L. 443-1-2 du code du travail.
+
+L'autorité compétente de l'Etat membre ou autre Etat partie à l'accord sur l'Espace économique européen dans lequel
+l'institution a son siège social ou son administration principale peut adresser une demande à l'autorité de contrôle
+instituée à l'article L. 310-12, tendant à l'interdiction de la libre disposition d'actifs de cette institution détenus par
+un établissement habilité à exercer les activités de conservation ou d'administration d'instruments financiers en application
+de l'article L. 542-1 du code monétaire et financier et ayant son siège social en France. L'autorité de contrôle instituée à
+l'article L. 310-12, sans préjudice du troisième alinéa de l'article L. 323-1-1, saisit le président du tribunal de grande
+instance territorialement compétent, afin qu'il se prononce, en référé, sur cette interdiction, lorsque celle-ci est
+nécessaire pour prévenir ou remédier à une irrégularité, y compris en matière de provisions techniques ou de couverture de
+ces provisions, qui porterait atteinte aux intérêts des affiliés et des bénéficiaires.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment les règles de placement et de
+couverture des engagements applicables aux institutions mentionnées à l'article L. 370-1.
+
+Un arrêté du ministre chargé de l'économie détermine en outre la nature et le contenu des informations et des documents que
+les institutions mentionnées à l'article L. 370-1 sont tenues de communiquer sur demande aux autorités compétentes pour leur
+permettre d'exercer la surveillance prévue au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L542-1 (M)
+	  - Code du travail - art. L443-1-2 (M)
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L310-22 (M)
+	  - Code des assurances - art. L323-1-1 (M)
+	  - Code des assurances - art. L370-1 (V)
+	  - Code des assurances - art. L370-2 (V)
+	  - Code des assurances - art. L370-3 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A370-2 (V)
+	  - Code des assurances - art. R370-5 (V)
+	  - Code des assurances - art. R370-6 (V)
+
+
+### Titre VIII : Dispositions applicables à Mayotte et dans les îles Wallis et Futuna
+
+###### Article L380-1
 
 Le présent livre est applicable à Mayotte dans sa rédaction en vigueur lors de la promulgation de la loi n° 94-5 du 4 janvier
 1994 précitée.
@@ -17773,24 +18531,24 @@ Le présent livre est applicable à Mayotte dans sa rédaction en vigueur lors d
 
 	  - Décret n°76-666 1976-07-16
 
+	**Cité par**:
+
+	  - Décret n°91-1197 du 27 novembre 1991 - art. 282-2 (V)
+
 	**Cite**:
 
 	  - Loi n°94-5 1994-01-04
 
 	**Créé par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
-
-	**Transféré par**:
-
 	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des assurances - art. L380-1 (V)
+	  - Code des assurances - art. L371-1 (T)
 
 
-###### Article L371-2
+###### Article L380-2
 
 Les articles L. 310-1 à L. 310-3, L. 310-8, L. 310-10, le chapitre Ier, la section 1 des chapitres II, III et VI, le chapitre
 VII et le chapitre VIII du titre II du présent livre sont applicables dans les îles Wallis et Futuna dans leur rédaction
@@ -17806,23 +18564,27 @@ applicable dans les îles Wallis et Futuna dans sa rédaction antérieure à la 
 
 	**Cite**:
 
-	  - Loi n°89-1014 1989-12-31
-	  - Loi n°91-716 1991-07-26
-	  - Code des assurances - art. L310-10 (M)
-	  - Code des assurances - art. L310-8 (M)
-	  - Code des assurances L310-1 à L310-3, L310-8, L310-10
+	  - Loi n°89-1014 du 31 décembre 1989 (V)
+	  - Loi n°91-716 du 26 juillet 1991 (V)
+	  - Code des assurances - art. L310-1 (V)
+	  - Code des assurances - art. L310-10 (V)
+	  - Code des assurances - art. L310-8 (V)
 
 	**Créé par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
-
-	**Transféré par**:
-
 	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2007-1801 du 21 décembre 2007 - art. 4
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. L371-2 (T)
 
 	**Nouveaux textes**:
 
-	  - Code des assurances - art. L380-2 (V)
+	  - Code des assurances - art. L390-1 (V)
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
