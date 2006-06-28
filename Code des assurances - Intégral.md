@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-06-26
+Version Consolidée au 2006-06-29
 
 # Partie législative
 
@@ -22816,7 +22816,7 @@ L'autorité administrative mentionnée à l'article L. 111-4 est le ministre cha
 
 ###### Article R112-1
 
-Les polices d'assurance des entreprises mentionnées au 5° de l'article L. 310-1 (1) doivent indiquer :
+Les polices d'assurance relevant des branches 1 à 17 de l'article R. 321-1 doivent indiquer :
 
 - la durée des engagements réciproques des parties ;
 
@@ -22844,29 +22844,27 @@ société.
 Les polices d'assurance contre les accidents du travail doivent rappeler les dispositions légales relatives aux déclarations
 d'accidents et aux pénalités pouvant être encourues à ce sujet par les employeurs.
 
-**Nota:**
-
-Depuis la loi n° 94-5 du 4 janvier 1994, l'article L. 310-1 du code des assurances a été réécrit et le 5° a disparu.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-667 1976-07-16
 
-	**Modifié par**:
-
-	  - Décret n°90-827 du 20 septembre 1990 - art. 1 () JORF 21 septembre 1990
-
 	**Cite**:
 
+	  - Loi n°94-5 1994-01-04
 	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances R321-1, L310-1
+
+	**Modifié par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
 
 
 ###### Article R112-2
 
 Les dispositions des deux premiers alinéas de l'article L. 112-2 du code des assurances ne sont pas applicables aux contrats
-garantissant les risques définis au deuxième alinéa de l'article L. 351-4.
+garantissant les risques définis à l'article L. 111-6. 
 
 Elles ne sont pas non plus applicables aux contrats d'assurance couvrant des risques liés à la villégiature, au camping, aux
 sports d'hiver, aux vacances et aux voyages, souscrits pour trois mois au plus et non renouvelables, ni aux contrats
@@ -22879,14 +22877,14 @@ quarante-huit heures après la proposition d'assurance mentionnée au quatrième
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-827 du 20 septembre 1990 - art. 2 () JORF 21 septembre 1990
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
 
 	**Cite**:
 
-	  - Code des assurances - art. L112-2 (M)
-	  - Code des assurances - art. L351-4 (M)
+	  - Code des assurances - art. L111-6 (V)
+	  - Code des assurances - art. L112-2 (V)
 
 
 ###### Article R112-3
@@ -23783,6 +23781,177 @@ Le plafond mentionné au dernier alinéa de l'article L. 132-7 ne peut être inf
 	**Cite**:
 
 	  - Code des assurances - art. L132-7 (V)
+
+
+### Titre IV : Les assurances de groupe
+
+#### Chapitre III : Retraite professionnelle supplémentaire
+
+###### Article R143-1
+
+I.-Le présent chapitre s'applique aux opérations mentionnées à l'article L. 143-1.
+
+II.-Les tarifs pratiqués par les entreprises d'assurance sont établis d'après des tables de mortalité et des taux définis par
+arrêté du ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-1 (V)
+
+
+###### Article R143-2
+
+I. - Pour l'application de l'article L. 143-2, et sans préjudice de l'article L. 331-2, la valeur de transfert d'un adhérent
+d'un contrat d'origine ne relevant pas de l'article L. 441-1 au contrat d'accueil ne peut être inférieure à la prime unique
+qui, à la date de calcul dudit transfert, conduirait par hypothèse à disposer dans le contrat d'origine des mêmes droits
+individuels que ceux de l'adhérent demandant le transfert.
+
+Pour l'application de la règle mentionnée à l'alinéa précédent, la prime unique mentionnée au même alinéa est calculée en
+retenant les taux d'intérêt techniques et les tables utilisées lors de l'établissement du ou des tarifs pratiqués vis-à-vis
+de l'adhérent demandant le transfert, et il n'est pas tenu compte des éventuelles indemnités de transfert mentionnées à
+l'article R. 335-1, ni des éventuels prélèvements sur primes prévus au contrat.
+
+II. - Pour les contrats ne relevant pas du troisième alinéa de l'article L. 143-1, le comité de surveillance mentionné au
+troisième alinéa de l'article L. 143-2 est composé à parts égales de représentants des salariés et des employeurs.
+
+Nul ne peut être membre du comité de surveillance s'il a fait l'objet de l'une des condamnations ou mesures mentionnées aux
+1° à 3° du I de l'article L. 322-2.
+
+Le comité de surveillance élit son président par un scrutin à bulletin secret.
+
+Au titre des salariés, le comité de surveillance est composé d'au moins une personne représentant les adhérents ayant déjà
+procédé à la liquidation de leurs droits en rentes viagères, et d'au moins une personne représentant les adhérents dont
+l'adhésion n'est plus obligatoire, mais n'ayant pas transféré leurs droits, sous réserve que le nombre de personnes ainsi
+représentées appartenant à chacune de ces catégories soit supérieur à un seuil précisé par arrêté du ministre chargé de
+l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A143-1 (V)
+	  - Code des assurances - art. R370-1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L143-2 (M)
+	  - Code des assurances - art. L322-2 (M)
+	  - Code des assurances - art. L331-2 (M)
+	  - Code des assurances - art. L441-1 (M)
+	  - Code des assurances L143-2, L331-2, L441-1, R335-1, L143-1, L322-2
+
+
+###### Article R143-3
+
+Pour l'application de l'article L. 143-2, le règlement intérieur du comité détermine les possibilités pour ses membres de
+donner pouvoir, les conditions et les délais de convocation du comité ainsi que les conditions dans lesquelles ce comité
+délibère. Il prévoit en particulier que chacun de ses membres détient un droit de vote et qu'en cas d'égalité des suffrages
+le président du comité a voix prépondérante. 
+
+Le comité est réuni au moins une fois par an, sur convocation de son président ou d'au moins la moitié de ses membres.
+L'ordre du jour de la réunion est fixé par l'auteur de la convocation. Il est tenu un procès-verbal et un registre de
+présence des réunions du comité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-2 (V)
+
+
+###### Article R143-4
+
+Le comité de surveillance : 
+
+a) Emet un avis sur le rapport prévu au dernier alinéa de l'article L. 143-6, lors de son établissement et à chaque
+modification de celui-ci ; 
+
+b) Peut entendre le ou les commissaires aux comptes mentionnés à l'article L. 143-6 sur les comptes mentionnés au deuxième
+alinéa de cet article, dans les conditions prévues au même article. 
+
+Lorsque le comité de surveillance institué au niveau d'un contrat souhaite entendre le ou les commissaires aux comptes en
+application de l'article L. 143-2, les informations communiquées par ce ou ces derniers sont celles relatives à la
+comptabilité auxiliaire d'affectation dans laquelle sont enregistrées les opérations de ce contrat, et portent sur les
+comptes annuels issus de cette comptabilité même si celle-ci regroupe plusieurs contrats de retraite professionnelle
+supplémentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-2 (V)
+	  - Code des assurances - art. L143-6 (V)
+
+
+###### Article R143-5
+
+Le rapport mentionné au dernier alinéa de l'article L. 143-6 peut être intégré dans le rapport mentionné à l'article L.
+322-2-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-6 (V)
+	  - Code des assurances - art. L322-2-4 (VT)
+
+
+###### Article R143-6
+
+Les modalités techniques de mise en oeuvre du présent chapitre sont précisées par arrêté du ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
 
 
 ### Titre V : Le contrat de capitalisation.
@@ -27892,7 +28061,9 @@ demande d'exercice en libre prestation de services.
 
 II. - Tout projet de modification de la nature ou des conditions d'exercice des activités en liberté d'établissement ou en
 libre prestation de services autorisées conformément aux dispositions du troisième alinéa de l'article L. 310-12 est notifié
-à l'Autorité de contrôle.
+à l'Autorité de contrôle. Lorsque l'entreprise opère en régime de liberté d'établissement, elle communique également son
+projet de modification, de manière simultanée, aux autorités compétentes de l'Etat membre de la Communauté européenne sur le
+territoire duquel est située sa succursale.
 
 Si l'Autorité estime que les conditions visées à ce même alinéa sont toujours remplies, elle communique aux autorités
 compétentes de l'Etat membre concerné, dans le délai d'un mois suivant la notification visée à l'alinéa précédent, un dossier
@@ -27911,7 +28082,7 @@ connaître, dans les délais mentionnés au troisième alinéa du I et au deuxi�
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -27925,6 +28096,108 @@ connaître, dans les délais mentionnés au troisième alinéa du I et au deuxi�
 	**Anciens textes**:
 
 	  - Code des assurances R310-1 (2ème version)
+
+
+###### Article R310-17-1
+
+I. - Toute entreprise d'assurance disposant de l'agrément mentionné à l'article L. 413-1 et projetant de fournir des services
+d'institutions de retraite professionnelle sur le territoire d'un autre Etat membre de la Communauté européenne ou d'un autre
+Etat partie à l'accord sur l'Espace économique européen, conformément aux dispositions de l'article L. 310-12-7, notifie son
+projet à l'autorité de contrôle instituée à l'article L. 310-12, accompagné des documents dont la liste est fixée par arrêté
+du ministre chargé de l'économie.
+
+Si l'autorité de contrôle estime que les conditions mentionnées à ce même article L. 310-12-7 sont réunies, elle communique
+aux autorités compétentes de l'Etat d'accueil un dossier dont la composition est fixée par l'arrêté prévu à l'article L.
+310-12-7, et avise l'entreprise d'assurance de cette communication.
+
+Le délai de communication des informations aux autorités de 1'Etat d'accueil court à compter de la réception, par l'autorité
+de contrôle instituée à l'article L. 310-12, d'un dossier complet. Il est de trois mois.
+
+II. - Tout projet de modification substantielle de la nature ou des conditions d'exercice des activités autorisées
+conformément aux dispositions de l'article L. 310-12-7 est notifié à l'autorité de contrôle instituée à l'article L. 310-12.
+
+Si l'autorité de contrôle instituée à l'article L. 310-12 estime que les conditions mentionnées à ce même article L. 310-12-7
+sont toujours remplies, elle communique de nouveau aux autorités compétentes de l'Etat d'accueil concerné, dans le délai d'un
+mois suivant la notification mentionnée à l'alinéa précédent, un dossier dont la composition est fixée par l'arrêté prévu à
+l'article L. 310-12-7, et avise l'entreprise d'assurance de cette communication. La modification envisagée peut intervenir
+dès réception de cet avis par l'entreprise.
+
+III. - Lorsque l'autorité de contrôle instituée à l'article L. 310-12 refuse de communiquer aux autorités compétentes de
+l'Etat membre concerné le dossier mentionné aux deuxièmes alinéas des I et II du présent article, elle en avise l'entreprise
+d'assurance concernée et lui fait connaître, dans les délais mentionnés au troisième alinéa du I et au deuxième alinéa du II,
+les raisons de ce refus. Elle en avise également en tant que de besoin les autorités compétentes de l'Etat membre concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R932-5-11 (VD)
+	  - Code des assurances - art. A310-3-1 (V)
+	  - Code des assurances - art. R310-17-3 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. L310-12-7 (V)
+	  - Code des assurances - art. L413-1 (M)
+
+
+###### Article R310-17-2
+
+Lorsque l'autorité de contrôle mentionnée à l'article L. 310-12 exerce la faculté mentionnée au troisième alinéa de l'article
+L. 143-4, elle en informe l'autorité compétente de l'Etat dans lequel l'entreprise d'assurance fournit des services
+d'institution de retraite professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code de la sécurité sociale. - art. R932-5-11 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-4 (M)
+	  - Code des assurances - art. L310-12 (M)
+
+
+###### Article R310-17-3
+
+Par dérogation aux dispositions de l'avant-dernier alinéa de l'article L. 310-1, les dispositions des articles R. 310-17-1 et
+2 et de l'article R. 332-62 s'appliquent aux mutuelles et unions régies par le code de la mutualité, et aux institutions de
+prévoyance régies par le titre III du livre IX du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R332-62 (V)
+	  - Code des assurances L310-1, R332-62, R310-17-1, R310-17-2
 
 
 ##### Section III : Exercice du pouvoir de sanction.
@@ -35839,10 +36112,8 @@ sont déterminées dans les conditions fixées par arrêté du ministre de l'éc
 
 ###### Article R331-5
 
-Pour tout contrat d'assurance sur la vie comportant une valeur de rachat et pour les contrats de capitalisation, la valeur de
-rachat est égale à la provision mathématique du contrat diminuée, éventuellement, d'une indemnité qui ne peut dépasser 5 p.
-100 de cette provision mathématique. Cette indemnité doit être nulle à l'issue d'une période de dix ans à compter de la date
-d'effet du contrat.
+L'indemnité mentionnée à l'article L. 331-2 ne peut dépasser 5 % de la provision mathématique du contrat, et doit être nulle
+à l'issue d'une période de dix ans à compter de la date d'effet du contrat.
 
 Pour l'application du présent article, la provision mathématique ne tient pas compte des éventuelles garanties de fidélité
 non exigibles par l'assuré au moment du rachat. Ces garanties doivent être explicitement décrites dans le contrat et
@@ -35866,15 +36137,18 @@ clairement distinguées de la garantie qui en est l'objet principal.
 	  - Code des assurances - art. R332-2 (M)
 	  - Code des assurances - art. R332-39 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 	  - TXT_SOURCE: Code des assurances - art. A331-9 (Ab)
 	  - TXT_SOURCE: Code des assurances - art. L132-28 (M)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°94-635 du 25 juillet 1994 - art. 12 () JORF 26 juillet 1994
+	  - Code des assurances - art. L331-2 (M)
 
 
 ###### Article R331-5-1
@@ -36763,8 +37037,9 @@ immobilier.
 
 Rapportée à la base de dispersion constituée par la différence entre le montant total des engagements réglementés mentionnés
 à l'article R. 331-1, toutes monnaies confondues, et le montant total des actifs mentionnés aux articles R. 332-3-4 à R.
-332-10, toutes monnaies confondues, la valeur au bilan de chacune des catégories d'actif énumérées ci-après ne peut excéder,
-sauf dérogation accordée cas par cas par l'Autorité de contrôle des assurances et des mutuelles :
+332-10, toutes monnaies confondues, la valeur au bilan de chacune des catégories d'actif énumérées ci-après admis en
+représentation des engagements réglementés ne peut excéder, sauf dérogation accordée cas par cas par l'Autorité de contrôle
+des assurances et des mutuelles :
 
 1° 65 % pour l'ensemble des valeurs mentionnées du 4° au 8° de l'article R. 332-2 et des prêts mentionnés au troisième alinéa
 du 1° de l'article R. 332-13, dont 10 % au maximum pour l'ensemble formé par les actions d'entreprises étrangères d'assurance
@@ -36777,6 +37052,13 @@ et par les prêts mentionnés ci-dessus ;
 au 1° du présent article.
 
 4° 0,5 % pour le montant total des primes ou soultes mentionnées au second alinéa du paragraphe D de l'article R. 332-2.
+
+**Nota:**
+
+Décret 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -36824,14 +37106,14 @@ au 1° du présent article.
 	  - Code des assurances - art. R431-57 (V)
 	  - Code des assurances - art. R441-7 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2005-875 2005-07-25 art. 22 : Spécificité d'application
-	  - TXT_SOURCE: Code des assurances - art. A332-1 (Ab)
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. A332-1 (Ab)
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 	**Cite**:
 
@@ -36843,8 +37125,9 @@ au 1° du présent article.
 
 ###### Article R332-3-1
 
-Rapportée à la base de dispersion définie à l'article R. 332-3, la valeur au bilan des actifs mentionnés ci-après ne peut
-excéder, sauf dérogation accordée cas par cas par l'Autorité de contrôle des assurances et des mutuelles :
+Rapportée à la base de dispersion définie à l'article R. 332-3, la valeur au bilan des actifs mentionnés ci-après admis en
+représentation des engagements réglementés ne peut excéder, sauf dérogation accordée cas par cas par l'Autorité de contrôle
+des assurances et des mutuelles :
 
 1° 5 % pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un même organisme et des dépôts placés auprès de cet
 organisme, à l'exception :
@@ -36867,6 +37150,13 @@ alinéa du 1 de l'article R. 332-13, respectivement émises ou obtenus par une m
 
 Une entreprise ne peut affecter à la représentation de ses engagements réglementés plus de 50 % des actions émises par une
 même société mentionnée au 5° de l'article R. 332-2.
+
+**Nota:**
+
+Décret 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -36904,13 +37194,13 @@ même société mentionnée au 5° de l'article R. 332-2.
 	  - Code des assurances - art. R*332-2 (M)
 	  - Code des assurances - art. R*332-3 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2005-875 2005-07-25 art. 22 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 
 ###### Article R332-3-2
@@ -39023,9 +39313,216 @@ obligation pour l'entreprise.
 	  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
 
 
-##### Section VII : Dispositions particulières aux territoires d'outre-mer.
+##### Section VII : Règles particulières aux contrats de retraite professionnelle supplémentaire
 
 ###### Article R332-59
+
+Les dispositions de la présente section s'appliquent à chaque comptabilité mentionnée à l'article L. 143-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Modifié par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-4
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. R*332-45 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R332-64 (V)
+
+
+###### Article R332-60
+
+Rapportée à la base de dispersion définie à l'article R. 332-3 et appliquée à la comptabilité mentionnée à l'article L.
+143-4, l'ensemble des valeurs émises, prêts obtenus ou garantis et dépôts placés auprès des organismes d'un même groupe au
+sens du 7° de l'article L. 334-2 et admis en représentation des engagements réglementés ne peut dépasser 10 % de ladite base
+de dispersion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-4
+	  - Code des assurances - art. L334-2
+	  - Code des assurances - art. R332-3
+
+
+###### Article R332-61
+
+Par dérogation aux dispositions des articles R. 342-2 et R. 332-1-1, les entreprises d'assurance peuvent, à concurrence de 30
+% de leurs engagements relatifs à chaque comptabilité mentionnée à l'article L. 143-4, ne pas couvrir ceux-ci par des actifs
+congruents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-4
+	  - Code des assurances - art. R332-1-1
+	  - Code des assurances - art. R342-2
+
+
+###### Article R332-62
+
+Les provisions techniques correspondant aux opérations de l'entreprise d'assurance au titre des contrats relevant de
+l'article L. 143-1 sont celles mentionnées aux 1°, 2°, 3°, 4°, 6° et 7° de l'article R. 331-3, ainsi que celle mentionnée à
+l'article L. 142-1.
+
+Sont inscrits dans le compte mentionné au b de l'article R. 342-1 les actifs du contrat et les provisions techniques
+mentionnées aux 1°, 2°, 3°, 6° et 7° de l'article R. 331-3, ainsi que celle mentionnée à l'article L. 142-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L142-1 (M)
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. R*331-3 (M)
+	  - Code des assurances - art. R342-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*310-17-3 (M)
+
+
+###### Article R332-63
+
+L'opération mentionnée à l'article L. 143-8 obéit, nonobstant l'article R. 342-4, aux règles qui suivent :
+
+1° Pour les contrats relevant de l'article L. 441-1, de l'article L. 142-1 ou du b du 1 du I de l'article 163 quatervicies du
+code général des impôts, la soumission au chapitre III du titre IV du livre Ier n'entraîne pas de changement d'affectation
+des actifs représentant les engagements inscrits dans la comptabilité auxiliaire, laquelle relève, à compter de la
+publication de l'autorisation mentionnée à l'article L. 143-8, du deuxième alinéa de l'article L. 143-4.
+
+2° Pour les contrats autres que ceux mentionnés au précédent alinéa prévoyant que les engagements sont représentés par des
+actifs faisant l'objet d'une identification distincte pour satisfaire à des stipulations contractuelles, les actifs et les
+provisions faisant l'objet de ladite identification distincte sont inscrits dans le compte mentionné au b de l'article R.
+342-1 et relevant du premier alinéa de l'article L. 143-4.
+
+3° Pour les autres contrats, sont inscrits au compte mentionné au b de l'article R. 342-1 et relevant du premier alinéa de
+l'article L. 143-4 :
+
+a) Les actifs affectés à la représentation des provisions mathématiques relatives aux engagements exprimés en unités de
+compte du contrat, évalués comme il est dit au dernier alinéa de l'article R. 332-5, ainsi que lesdites provisions ;
+
+b) Les provisions mentionnées au 1° de l'article R. 331-3 autres que celles mentionnées au a relatives aux engagements de ce
+contrat, brutes de réassurance, ainsi que les provisions mentionnées au 7° du même article ;
+
+c) Au titre des provisions techniques mentionnées au 2° ou au 3° de l'article R. 331-3, la somme, lorsqu'elle est positive et
+dans la limite desdites provisions, respectivement des dotations annuelles auxdites provisions, nettes de reprises, prises en
+compte dans la limite des dix dernières années et intervenues depuis la souscription du contrat, pondérées par le rapport
+calculé à chaque fin d'exercice entre les provisions mathématiques du contrat et les provisions mathématiques constituées au
+titre des opérations ne relevant pas des 1° et 2° du présent article ;
+
+d) Au cas où n'est pas constituée la provision pour risque d'exigibilité au titre des opérations ne relevant pas du 1° du
+présent article des actifs dont la valeur, déterminée conformément aux articles R. 332-19 et R. 332-20, est égale à la somme
+des provisions inscrites au titre des b et c. En outre, le rapport entre la valeur desdits actifs et la valeur du total des
+actifs de l'entreprise d'assurance à l'exception de ceux mentionnés aux 1°, 2° et a du 3° du présent article, évaluées toutes
+deux conformément aux articles R. 332-20-1 et R. 332-20-2, doit être au moins égal au rapport entre la valeur desdits actifs
+et la valeur du total des actifs de l'entreprise d'assurance ne couvrant pas des engagements mentionnés aux 1°, 2° et a du 3°
+du présent article, évaluées conformément aux articles R. 332-19 et R. 332-20 ;
+
+e) Au cas où est constituée la provision pour risque d'exigibilité au titre des opérations ne relevant pas du l° du présent
+article, des actifs dont la valeur, déterminée conformément aux articles R. 332-19 et R. 332-20, est égale à la somme des
+provisions techniques inscrites au titre des b et c. En outre, le rapport entre la valeur desdits actifs et la valeur du
+total des actifs de l'entreprise d'assurance à l'exception de ceux mentionnés aux 1°, 2° et a du 3° du présent article,
+évaluées toutes deux conformément aux articles R. 332-20-1 et R. 332-20-2, doit être au moins égale au rapport entre la
+valeur desdits actifs et la valeur du total des actifs de l'entreprise d'assurance ne couvrant pas des engagements mentionnés
+aux 1°, 2° et a du 3° du présent article, évaluées conformément aux articles R. 332-19 et R. 332-20. Conformément à l'article
+R. 331-5-1 appliqué à la comptabilité auxiliaire mentionnée au premier alinéa de l'article L. 143-4, l'entreprise d'assurance
+constitue, le cas échéant, au sein de ladite comptabilité la provision mentionnée au 6° de l'article R. 331-3. L'entreprise
+calcule et effectue, le cas échéant, suite à cette opération la reprise de la provision mentionnée au 6° de l'article R.
+331-3 constituée au titre des opérations ne relevant pas du 1° du présent article ou de l'article L. 143-4.
+
+Pour les inscriptions en compte ci-dessus mentionnées, les calculs sont effectués par rapport à la date de l'autorisation
+mentionnée à l'article L. 143-8. Les actifs sont inscrits sans modification de leur valeur déterminée conformément aux
+dispositions des articles R. 332-5, R. 332-19 et R. 332-20. Toutefois, suite à la constitution de la provision mentionnée au
+6° de l'article R. 331-3 conformément au présent e, des actifs sont affectés à la comptabilité auxiliaire comme il est dit à
+l'article R. 342-4.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quatervicies
+	  - Code des assurances - art. L142-1 (M)
+	  - Code des assurances - art. L143-4 (M)
+	  - Code des assurances - art. L143-8 (V)
+	  - Code des assurances - art. L441-1 (M)
+	  - Code des assurances - art. R*331-3 (M)
+	  - Code des assurances - art. R*332-19 (M)
+	  - Code des assurances - art. R*332-20 (M)
+	  - Code des assurances - art. R*332-5 (M)
+	  - Code des assurances - art. R331-5-1 (M)
+	  - Code des assurances - art. R332-20-1 (M)
+	  - Code des assurances - art. R332-20-2 (M)
+	  - Code des assurances - art. R342-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R222-26 (VT)
+	  - Code de la sécurité sociale. - art. R932-5-4 (VT)
+	  - Code des assurances - art. R310-17-3 (V)
+
+
+##### Section VIII : Dispositions particulières aux territoires d'outre-mer.
+
+###### Article R332-64
 
 Les dispositions du présent chapitre sont applicables dans les territoires d'outre-mer et à Mayotte.
 
@@ -39037,23 +39534,11 @@ Les dispositions du présent chapitre sont applicables dans les territoires d'ou
 
 	**Créé par**:
 
-	  - Décret n°2002-970 du 4 juillet 2002 - art. 2 () JORF 11 juillet 2002
-
-	**Transféré par**:
-
 	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
 
 	**Anciens textes**:
 
-	  - Code des assurances - art. R*332-45 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. R332-64 (V)
+	  - Code des assurances - art. R332-59 (T)
 
 
 #### Chapitre III : Revenu des placements.
@@ -39487,6 +39972,43 @@ assurances et des mutuelles paru au Journal officiel du 31 octobre 2007.
 	  - Code des assurances - art. R334-7 (VD)
 	  - Code des assurances - art. R334-9 (VD)
 	  - Code des assurances - art. R335-2 (VD)
+
+
+###### Article R334-5-3
+
+Les provisions techniques correspondant aux opérations mentionnées à l'article L. 143-1 sont calculées chaque année par un
+actuaire et certifiées soit par le ou les commissaires aux comptes de l'entreprise d'assurance dans le cadre d'une mission
+distincte de la mission générale de commissariat aux comptes exercée dans cette entreprise d'assurance, soit par un autre
+actuaire, indépendant de l'entreprise d'assurance et agréé à cet effet par l'une des associations d'actuaire reconnues par
+l'autorité instituée à l'article L. 310-12. L'actuaire ou le ou les commissaires aux comptes vérifie que les provisions sont,
+dans le respect des dispositions du présent code applicables à celles-ci, constituées de façon suffisamment prudente, en
+tenant compte, le cas échéant, d'une marge adéquate pour les écarts défavorables, et que les méthodes et les bases de calcul
+des provisions techniques restent en général constantes d'un exercice à l'autre. Une modification de ces méthodes peut
+toutefois être justifiée, dans le respect du présent code, par un changement des données juridiques, démographiques ou
+économiques sur lesquelles se fondent ces hypothèses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Transféré par**:
+
+	  - Décret n°2006-976 du 1 août 2006 - art. 1 () JORF 4 août 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L310-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des assurances - art. R331-5-3 (V)
 
 
 ###### Article R334-6
@@ -39947,6 +40469,32 @@ valeurs suivantes :
 	  - Code des assurances - art. R334-19 (V)
 	  - Code des assurances - art. R334-42 (V)
 	  - Code des assurances - art. R335-2 (VD)
+
+
+###### Article R334-13-1
+
+Lorsqu'un contrat mentionné à l'article R. 342-1 prévoit que les frais de gestion ne sont pas fixés pour une période
+supérieure à cinq ans, et lorsque l'entreprise d'assurance n'assume pas un risque de placement, l'exigence minimale de marge
+de solvabilité est fixée à un montant équivalant à 25 % des dépenses de gestion nettes relatives à ces opérations pour le
+dernier exercice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. R334-13-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R342-1 (V)
 
 
 ###### Article R334-14
@@ -41692,6 +42240,325 @@ aux comptes.
 	  - TXT_ASSOCIE: Code des assurances - art. R341-1 (M)
 
 
+#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation
+
+##### Section VI : Dispositions spécifiques relatives aux comptabilités auxiliaires d'affectation
+
+###### Article R342-1
+
+La présente section s'applique aux contrats pour lesquels il est tenu une comptabilité auxiliaire d'affectation ne relevant
+pas de l'article L. 441-8 ou de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites. Il est
+établi, pour chaque comptabilité auxiliaire :
+
+a) Un compte de résultat d'affectation ;
+
+b) Un compte de bilan d'affectation, où sont inscrits les actifs du ou des contrats et ses provisions techniques ;
+
+c) Une annexe comportant un inventaire des actifs du ou des contrats et un état récapitulatif des opérations mentionnées aux
+articles R. 342-3 et R. 342-4 ;
+
+d) Un tableau des engagements reçus et donnés.
+
+Ces documents sont établis et arrêtés par l'entreprise d'assurance à chaque fin d'exercice dans les mêmes conditions que ses
+comptes individuels.
+
+Lorsque le contrat prévoit l'acquisition de droits individuels relatifs à des engagements exprimés en unités de compte, ces
+droits font l'objet d'un enregistrement comptable distinct de celui mentionné au présent article, comme il est dit à
+l'article R. 332-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Cite**:
+
+	  - Loi n°2003-775 2003-08-21 art. 108
+	  - Code des assurances - art. L441-8 (M)
+	  - Code des assurances - art. R*332-5 (M)
+	  - Code des assurances L441-8, annexe, R342-3, R342-4, R332-5
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A342-1-1 (V)
+	  - Code des assurances - art. R134-14 (V)
+	  - Code des assurances - art. R134-2 (VT)
+	  - Code des assurances - art. R134-3 (VD)
+	  - Code des assurances - art. R142-1 (Ab)
+	  - Code des assurances - art. R142-14 (V)
+	  - Code des assurances - art. R142-2 (Ab)
+	  - Code des assurances - art. R142-3 (Ab)
+	  - Code des assurances - art. R332-62 (VT)
+	  - Code des assurances - art. R332-65 (V)
+	  - Code des assurances - art. R332-66 (VD)
+	  - Code des assurances - art. R334-13-1 (V)
+	  - Code des assurances - art. R342-13 (VD)
+	  - Code des assurances - art. R342-14 (VD)
+	  - Code des assurances - art. R342-3 (VD)
+	  - Code des assurances - art. R342-4 (V)
+	  - Code des assurances - art. R342-5 (V)
+	  - Code des assurances - art. R342-7 (V)
+	  - Code des assurances - art. R342-9 (VD)
+
+
+###### Article R342-2
+
+Les dispositions du chapitre II du titre III du livre III, et notamment de l'article R. 332-1-1 et des articles R. 332-3 et
+R. 332-3-1, et du I de l'article R. 332-21 s'appliquent séparément à chaque portefeuille de titres et de placements qui fait
+l'objet d'un enregistrement comptable distinct.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 9
+
+	**Cité par**:
+
+	  - Code des assurances - art. A342-1-2 (M)
+	  - Code des assurances - art. R134-14 (V)
+	  - Code des assurances - art. R142-14 (Ab)
+	  - Code des assurances - art. R332-61 (VT)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-21
+	  - Code des assurances - art. R332-1-1
+	  - Code des assurances - art. R332-3
+	  - Code des assurances - art. R332-3-1
+
+
+###### Article R342-3
+
+Lorsque les engagements de l'entreprise d'assurance au titre d'une comptabilité auxiliaire ne sont plus représentés de
+manière au moins équivalente par les actifs de ce contrat, l'entreprise d'assurance parfait cette représentation en procédant
+à l'affectation aux engagements relatifs à cette comptabilité auxiliaire d'actifs représentatifs de ses réserves ou de ses
+provisions autres que ceux représentatifs de ses engagements réglementés. Ces actifs sont obligatoirement choisis dans les
+catégories de placements mentionnés à l'article R. 342-4.
+
+Ce changement d'affectation d'actifs emporte affectation à la comptabilité auxiliaire du produit des droits attachés à ces
+actifs, y compris les produits correspondant aux éventuels avoirs fiscaux et autres crédits d'impôts attachés à la détention
+de ces mêmes actifs. Les actifs ainsi affectés à la comptabilité auxiliaire sont inscrits au bilan mentionné à l'article R.
+342-1 pour leur valeur de réalisation déterminée conformément aux dispositions des articles R. 332-20-1 et R. 332-20-2. La
+différence entre cette valeur et la valeur comptable antérieure est, le cas échéant, constatée dans le compte de résultat de
+l'entreprise d'assurance.
+
+Lorsque le niveau de la représentation de ses engagements au titre du ou des contrats le permet, l'entreprise d'assurance
+peut réaffecter en représentation de réserves ou de provisions autres que celles relatives à ce ou ces contrats des actifs
+représentatifs des engagements du contrat choisis dans les catégories d'actifs définies au premier alinéa. Les actifs ainsi
+réaffectés sont inscrits au bilan pour leur valeur de réalisation déterminée conformément aux dispositions des articles R.
+332-20-1 et R. 332-20-2. La différence entre cette valeur et la valeur comptable antérieure inscrite dans le compte de bilan
+d'affectation est, le cas échéant, constatée dans le compte de résultat mentionné à l'article R. 342-1. La valeur de
+réalisation cumulée des actifs ainsi réaffectés, à la date de cette réaffectation, ne peut excéder la valeur de réalisation
+des actifs affectés au ou aux contrats au titre du premier alinéa à la date de cette affectation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A132-5-3 (V)
+	  - Code des assurances - art. R134-5 (V)
+	  - Code des assurances - art. R142-5 (Ab)
+	  - Code des assurances - art. R142-7 (Ab)
+	  - Code des assurances - art. R144-19 (VD)
+	  - Code des assurances - art. R342-1 (V)
+	  - Code des assurances - art. R342-5 (V)
+	  - Code des assurances - art. R343-1 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. R332-20-1 (M)
+	  - Code des assurances - art. R332-20-2 (M)
+	  - Code des assurances - art. R342-4 (Ab)
+
+
+###### Article R342-4
+
+Les placements détenus par l'entreprise d'assurance en représentation d'engagements autres que ceux relatifs aux contrats
+mentionnés à l'article R. 342-1 ne peuvent changer d'affectation pour être affectés à ces derniers qu'à condition de relever
+de l'une des catégories de placements définies aux 1°, 2°, 2° bis, 2° ter, 3°, 4°, 5°, 8° et 13° de l'article R. 332-2. Les
+mêmes dispositions s'appliquent aux placements d'un contrat qui changent d'affectation et sont affectés en représentation
+d'autres engagements de l'entreprise d'assurance, y compris ceux relatifs à d'autres contrats mentionnés à l'article R. 342-1
+ou à l'article L. 441-1.
+
+L'enregistrement comptable des opérations mentionnées au premier alinéa est identique à celui qui résulte d'une opération de
+cession d'actifs pour le portefeuille de placements d'origine et d'une opération concomitante d'acquisition d'actifs pour le
+portefeuille de placements d'accueil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L441-1 (M)
+	  - Code des assurances - art. R*332-2 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R332-63 (VT)
+	  - Code des assurances - art. R342-1 (VD)
+	  - Code des assurances - art. R342-14 (VD)
+	  - Code des assurances - art. R342-3 (VD)
+	  - Code des assurances - art. R342-5 (M)
+
+
+###### Article R342-5
+
+Les actifs de chaque contrat sont conservés par un dépositaire unique. Ce dépositaire ouvre au nom de l'entreprise
+d'assurance, pour les opérations financières liées à la gestion financière du contrat, un compte espèce et un compte de
+titres propres à chaque contrat ainsi que tout compte nécessaire à la tenue des positions sur les marchés d'instruments
+financiers à terme.
+
+Le dépositaire assure la conservation des actifs des contrats qui font l'objet d'un enregistrement comptable distinct tel que
+prévu à l'article R. 342-1, dépouille les ordres de l'entreprise d'assurance concernant les opérations sur les titres et
+placements de ce ou ces contrats, y compris ceux relatifs aux changements d'affectation de titres mentionnés aux articles R.
+342-3 et R. 342-4 et exerce les droits de souscription et d'attribution attachés aux titres et aux valeurs de ce ou de ces
+contrats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A331-4 (M)
+	  - Code des assurances - art. A342-1 (V)
+	  - Code des assurances - art. A342-1-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R342-1 (M)
+	  - Code des assurances - art. R342-3 (Ab)
+	  - Code des assurances - art. R342-4 (Ab)
+
+
+###### Article R342-6
+
+La participation aux bénéfices techniques et financiers est calculée séparément pour chaque portefeuille de titres et de
+placements qui fait l'objet d'un enregistrement comptable distinct, dans des conditions fixées par arrêté du ministre chargé
+de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A132-11 (V)
+	  - Code des assurances - art. A331-4 (V)
+	  - Code des assurances - art. R134-1 (VD)
+	  - Code des assurances - art. R134-6 (VD)
+	  - Code des assurances - art. R142-12 (Ab)
+	  - Code des assurances - art. R142-5 (Ab)
+
+
+###### Article R342-7
+
+Le produit des droits attachés aux actifs détenus en représentation des engagements de l'entreprise d'assurance relatifs à un
+contrat est intégralement pris en compte, y compris les produits correspondant aux éventuels autres crédits d'impôts attachés
+à la détention de ces mêmes actifs, dans la limite de leur récupération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+
+###### Article R342-8
+
+Dans le cadre des opérations relatives à une comptabilité auxiliaire, l'entreprise d'assurance ne peut conclure des contrats
+constituant des instruments financiers à terme au sens de l'article L. 211-1 du code monétaire et financier que dans les cas
+et les conditions prévues aux articles R. 332-45 à R. 332-58 du présent code et à condition que ces contrats aient pour seul
+objet la gestion financière de ces mêmes opérations, à l'exclusion de toute autre opération de l'entreprise d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 9
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1
+	  - Code des assurances
+
+
+###### Article R342-9
+
+L'entreprise d'assurance peut conclure des traités de réassurance portant sur les engagements qu'elle a contractés au titre
+d'un contrat mentionné à l'article R. 342-1, et à condition que ces opérations portent exclusivement sur tout ou partie de la
+différence entre le montant des prestations effectivement versées au titre de ce contrat et celui des prestations
+correspondant aux provisions mathématiques avant cession et que l'ensemble de ces opérations portent sur un engagement total
+inférieur à 10 % desdites provisions mathématiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R342-1 (M)
+
+
 #### Chapitre IV : Catégories d'assurances et états à produire.
 
 ###### Article R344-1
@@ -41701,8 +42568,9 @@ l'entreprise et de ceux des autres actifs affectables à la représentation des 
 aux dispositions de l'article R. 332-20-1. Ce pourcentage est au moins égal au résultat obtenu en divisant par cette valeur
 la somme des montants suivants :
 
-a) Actif mentionné à l'article L. 441-8, correspondant aux opérations relevant de l'article L. 441-1, évalué comme il est dit
-à l'article R. 332-20-1 ;
+a) Actifs correspondant aux opérations mentionnées à l'article L. 441-1, à l'article L. 142-1, à l'article L. 143-1, ainsi
+que celles relevant de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, évalués comme il
+est dit à l'article R. 332-20-1 ;
 
 b) Placements affectés à la représentation des contrats d'assurance sur la vie ou de capitalisation en unités de compte
 définis au deuxième alinéa de l'article L. 131-1 et évalués comme il est dit au dernier alinéa de l'article R. 332-5 ;
@@ -41718,7 +42586,7 @@ l'article R. 332-20-1, d'autre part, évaluée comme il est dit aux articles R. 
 placements appartenant à l'entreprise et de ceux des autres actifs affectables à la représentation des engagements
 réglementés, autres que ceux mentionnés aux a, b et c ci-dessus.
 
-II. - Le pourcentage mentionné au e du I du présent article est égal à 85 p. 100 du quotient A/B, avec :
+II. - Le pourcentage mentionné au e du I du présent article est égal à 85 % du quotient A/B, avec :
 
 A : montant moyen des provisions techniques brutes de réassurance constituées au titre de l'ensemble des opérations
 pratiquées par l'entreprise autres que celles qui sont mentionnées aux a et b du I du présent article ou qui sont relatives à
@@ -41745,13 +42613,23 @@ IV. - En cas de transfert de portefeuille, la valeur des actifs transférés ne 
 
 	  - Décret n°76-667 1976-07-16
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°95-1133 1995-10-23 art. 11 *champ d'application*
+	  - Loi n°2003-775 2003-08-21 art. 108
+	  - Code des assurances - art. L131-1 (M)
+	  - Code des assurances - art. L142-1 (M)
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L324-7 (M)
+	  - Code des assurances - art. L344-1 (V)
+	  - Code des assurances - art. L441-1 (M)
+	  - Code des assurances - art. R*332-19 (M)
+	  - Code des assurances - art. R*332-20 (M)
+	  - Code des assurances - art. R*332-5 (M)
+	  - Code des assurances L344-1, R332-20-1, L441-1, L142-1, L143-1, L131-1, R332-5, L324-7, R321-1, R332-19, R332-20
 
 	**Modifié par**:
 
-	  - Décret n°95-1133 du 23 octobre 1995 - art. 10 () JORF 25 octobre 1995
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -41763,18 +42641,6 @@ IV. - En cas de transfert de portefeuille, la valeur des actifs transférés ne 
 	  - Code des assurances - art. R343-1 (VD)
 	  - Code des assurances - art. R343-11 (V)
 	  - Code monétaire et financier - art. R612-31-2 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L131-1 (M)
-	  - Code des assurances - art. L324-7 (M)
-	  - Code des assurances - art. L344-1 (V)
-	  - Code des assurances - art. L441-1 (M)
-	  - Code des assurances - art. L441-8 (M)
-	  - Code des assurances - art. R*332-19 (M)
-	  - Code des assurances - art. R*332-20 (M)
-	  - Code des assurances - art. R*332-5 (M)
-	  - Code des assurances L131-1, L324-7, L344-1, L441-1, L441-8, R321-1, R332-5, R332-19, R332-20, R332-20-1
 
 
 ###### Article R344-2
@@ -42568,6 +43434,169 @@ Le présent article s'applique au mandataire général du Lloyd's de Londres.
 	**Cite**:
 
 	  - Code des assurances - art. L310-2 (M)
+
+
+### Titre VII : Prestations de services fournies par une institution de retraite professionnelle établie dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen autre que la France
+
+###### Article R370-1
+
+Les opérations mentionnées à l'article L. 370-2 sont soumises au présent titre. Les articles R. 143-2 à R. 143-5 s'appliquent
+à ces opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A370-2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L370-2 (V)
+	  - Code des assurances - art. R143-2 (V)
+
+
+###### Article R370-2
+
+Les dispositions du 1° de l'article R. 332-3-1 s'appliquent à la partie des actifs de l'institution qui correspondent aux
+opérations mentionnées à l'article L. 370-2. 
+
+En outre, l'ensemble des valeurs émises, prêts obtenus ou garantis et dépôts placés auprès des organismes d'un même groupe
+mentionné au 7° de l'article L. 334-2 ne peut dépasser 10 % de ladite partie d'actifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-2 (V)
+	  - Code des assurances - art. L370-2 (V)
+	  - Code des assurances - art. R332-3-1 (VT)
+
+
+###### Article R370-3
+
+Rapportée à la base de dispersion définie à l'article R. 332-3 et appliquée à la partie des actifs de l'institution qui
+correspondent aux opérations mentionnées à l'article L. 370-2, la valeur au bilan des actions et parts mentionnées aux 6°, 7°
+à 7° quater de l'article R. 332-2 et de toute autre valeur qui n'est pas admise aux négociations sur un marché réglementé ne
+peut dépasser 30 %.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L370-2 (V)
+	  - Code des assurances - art. R332-2 (VT)
+	  - Code des assurances - art. R332-3 (VT)
+
+
+###### Article R370-4
+
+Les institutions mentionnées à l'article L. 370-1 peuvent, à concurrence de 30 % des engagements relatifs à ces opérations,
+ne pas couvrir ceux-ci par des actifs congruents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L370-1 (V)
+
+
+###### Article R370-5
+
+Lorsqu'une institution mentionnée à l'article L. 370-1 propose des services ne relevant pas de l'article L. 370-2, l'autorité
+de contrôle instituée à l'article L. 310-12, et sans préjudice du deuxième alinéa de l'article L. 370-4, en informe sans
+délai l'autorité compétente de l'Etat dans lequel est agréée l'institution.
+
+Le présent article ne s'applique pas aux opérations mentionnées au titre VI.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. L370-1 (V)
+	  - Code des assurances - art. L370-2 (V)
+	  - Code des assurances - art. L370-4 (V)
+
+
+###### Article R370-6
+
+Lorsque l'autorité de contrôle décide de l'ouverture d'une procédure disciplinaire dans le cadre de l'article L. 370-4, elle
+en informe sans délai l'autorité compétente de l'Etat concerné. Cette procédure se déroule dans les conditions prévues à la
+section 3 du chapitre II du titre Ier du livre III.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L370-4 (V)
+
+
+###### Article R370-7
+
+Pour l'application du premier alinéa de l'article L. 370-3, un arrêté du ministre chargé de l'économie précise les
+informations transmises au comité des entreprises d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L370-3 (V)
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
@@ -46067,8 +47096,9 @@ peut, sur le fondement de l'évaluation mentionnée à l'alinéa précédent, de
 d'offres d'améliorer leur offre dans un délai qu'elle fixe. En l'absence de réponse satisfaisante, elle peut rejeter leur
 candidature.
 
-Si l'entreprise défaillante pratiquait les opérations relevant du chaptire Ier du livre IV du présent code, les actifs
-affectés à ces opérations sont attribués aux cessionnaires des engagements correspondants.
+Si l'entreprise défaillante pratiquait les opérations relevant de l'article L. 441-1, de l'article L. 142-1, de l'article L.
+143-1, ainsi que de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, les actifs affectés à
+ces opérations sont attribués aux cessionnaires des engagements correspondants.
 
 **Liens relatifs à cet article**
 
@@ -46076,9 +47106,16 @@ affectés à ces opérations sont attribués aux cessionnaires des engagements c
 
 	  - Décret n°88-261 1988-03-18
 
+	**Cite**:
+
+	  - Loi n°2003-775 2003-08-21 art. 108
+	  - Code des assurances - art. L142-1 (M)
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L441-1 (M)
+
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
 
 
 ###### Article R423-5
@@ -51651,74 +52688,7 @@ CAk correspond à la valeur de la contre-assurance garantie en cas de décès.
 	  - Arrêté 2004-11-26 art. 1 JORF 30 novembre 2004
 
 
-##### Section III : Participation aux bénéfices techniques et financiers.
-
-###### Article A132-1
-
-Les tarifs pratiqués par les entreprises pratiquant des opérations mentionnées au 1° de l'article L. 310-1 doivent être
-établis d'après un taux au plus égal à 75 p. 100 du taux moyen des emprunts de l'Etat français calculé sur une base
-semestrielle sans pouvoir dépasser, au-delà de huit ans, le plus bas des deux taux suivants : 3,5 p. 100 ou 60 p. 100 du taux
-moyen indiqué ci-dessus. Pour les contrats à primes périodiques ou à capital variable, quelle que soit leur durée, ce taux ne
-peut excéder le plus bas des deux taux suivants :
-
-3,5 p. 100 ou 60 p. 100 du taux moyen indiqué ci-dessus.
-
-En ce qui concerne les contrats libellés en devises étrangères, le taux d'intérêt technique ne sera pas supérieur à 75 p. 100
-du taux moyen des emprunts d'Etat à long terme du pays de la devise concernée calculé sur base semestrielle ou, à défaut, de
-la référence de taux à long terme pertinente pour la devise concernée et équivalente à la référence retenue pour le franc
-français.
-
-Pour les contrats au-delà de huit ans, le taux du tarif ne pourra en outre être supérieur au plafond établi par les
-réglementations en vigueur dans le pays de chaque devise concernée, pour les garanties de même durée, sans pouvoir excéder 60
-p. 100 du taux moyen visé à l'alinéa précédent. Il en est de même pour les contrats à primes périodiques.
-
-Pour ce qui est des contrats libellés en écus, le taux d'intérêt technique ne doit pas être supérieur à 75 p. 100 du taux
-moyen des emprunts de l'Etat français libellés dans cette référence monétaire et calculé sur base semestrielle. Le taux du
-tarif ne peut en outre excéder, au-delà de huit ans, le plus bas des deux taux suivants :
-
-3,5 p. 100 ou 60 p. 100 du taux moyen des emprunts de l'Etat français libellés dans cette référence monétaire, indiqué ci-
-dessus. Il en est de même pour les contrats à primes périodiques.
-
-Le taux moyen des emprunts d'Etat à retenir est le plus élevé des deux taux suivants : taux à l'émission et taux de rendement
-sur le marché secondaire.
-
-Les règles définies au présent article sont à appliquer en fonction des taux en vigueur au moment de la souscription et ne
-sont pas applicables aux opérations de prévoyance collective visées au chapitre Ier du titre IV du livre IV du code des
-assurances. Dans le cas de versements non programmés aux termes du contrat, ces règles sont à apprécier au moment de chaque
-versement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993 en vigueur le 1er juillet 1993
-	  - Arrêté 1995-03-28 art. 1 JORF 7 avril 1995 en vigueur le 1er juin 1995
-	  - Arrêté 1995-10-23 art. 5 II JORF 25 octobre 1995
-
-	**Cité par**:
-
-	  - Décret n°83-326 du 21 avril 1983 - art. 4 (V)
-	  - Arrêté du 21 avril 1983 - art. 6 (V)
-	  - Code des assurances - art. A132-1-1 (V)
-	  - Code des assurances - art. A132-10 (Ab)
-	  - Code des assurances - art. A132-12 (Ab)
-	  - Code des assurances - art. A132-18 (V)
-	  - Code des assurances - art. A132-3 (V)
-	  - Code des assurances - art. A335-1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. A331-3 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-
+##### Section III : Information du souscripteur
 
 ###### Article A132-1-1
 
@@ -51744,9 +52714,9 @@ modification.
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1998-01-02 art. 1 JORF 3 janvier 1998
+	  - Arrêté 2006-06-27 art. 1 2° JORF 29 juin 2006
 
 	**Cite**:
 
@@ -51771,10 +52741,7 @@ qui, rapporté aux provisions mathématiques, ne sera pas inférieur à un taux 
 
 	**Modifié par**:
 
-	  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
-	  - Arrêté 1993-03-19 art. 1, art. 2 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
-	  - Arrêté 1995-03-28 art. 2 JORF 7 avril 1995 en vigueur le 1er juin 1995
-	  - Arrêté 1995-10-23 art. 5 II JORF 25 octobre 1995
+	  - Arrêté 2006-06-27 art. 1 2° JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -51800,16 +52767,16 @@ qui, rapporté aux provisions mathématiques, ne sera pas inférieur à un taux 
 
 ###### Article A132-3
 
-1° Le taux minimum visé à l'article A. 132-2 peut être fixé annuellement pour l'année suivante. Il ne peut excéder alors 85
-p. 100 de la moyenne des taux de rendement des actifs de l'entreprise calculés pour les deux derniers exercices.
+1° Le taux minimum visé à l'article A. 132-2 peut être fixé annuellement pour l'année suivante. Il ne peut excéder alors 85 %
+de la moyenne des taux de rendement des actifs de l'entreprise calculés pour les deux derniers exercices.
 
 2° Ce taux minimum garanti peut également varier annuellement en fonction d'une référence fournie par un marché réglementé et
 en fonctionnement régulier de valeurs mobilières ou de titres admis en représentation des engagements réglementés des
-entreprises d'assurance. Pour les contrats libellés en francs français, la référence peut également être fournie par le taux
-des premiers livrets de caisse d'épargne français. La garantie de ce minimum ne peut être donnée que pour une période
-maximale de huit ans. La commercialisation d'un contrat assorti d'une telle garantie de taux n'est possible que si la moyenne
-des taux de rendement des actifs de l'entreprise calculés pour les deux derniers exercices est au moins égale aux quatre
-tiers du taux minimum qu'elle propose de garantir la première année.
+entreprises d'assurance. Pour les contrats libellés en euros, la référence peut également être fournie par le taux des
+premiers livrets de caisse d'épargne français. La garantie de ce minimum ne peut être donnée que pour une période maximale de
+huit ans. La commercialisation d'un contrat assorti d'une telle garantie de taux n'est possible que si la moyenne des taux de
+rendement des actifs de l'entreprise calculés pour les deux derniers exercices est au moins égale aux quatre tiers du taux
+minimum qu'elle propose de garantir la première année.
 
 3° Les dispositions visées aux alinéas précédents peuvent être appliquées séparément ou conjointement.
 
@@ -51829,12 +52796,7 @@ provision pour participation aux bénéfices.
 
 	**Modifié par**:
 
-	  - Arrêté 1983-04-21 art. 1 JORF 22 avril 1983
-	  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993 en vigueur le 1er juillet 1993
-	  - Arrêté 1995-03-28 art. 2, art. 3 JORF 7 avril 1995 en vigueur le 1er juin 1995
-	  - Arrêté 1995-07-28 art. 3 JORF 27 août 1995
-	  - Arrêté 1995-10-23 art. 5 III JORF 25 octobre 1995
+	  - Arrêté 2006-06-27 art. 1 2° JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -51856,51 +52818,6 @@ provision pour participation aux bénéfices.
 	**Cite**:
 
 	  - Code des assurances - art. A331-7 (Ab)
-
-
-###### Article A132-4
-
-La note d'information visée à l'article L. 132-5-1 du code des assurances contient les informations prévues par le modèle ci-
-annexé.
-
-(annexe non reproduite, voir au Journal officiel).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1982-07-23 art. 4 JORF 7 septembre 1982
-	  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
-	  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993 en vigueur le 1er juillet 1993
-	  - Arrêté 1995-03-28 art. 2 JORF 7 avril 1995 en vigueur le 1er juin 1995
-	  - Arrêté 1995-10-23 art. 5 IV JORF 25 octobre 1995
-
-	**Cité par**:
-
-	  - Arrêté du 22 avril 2004 - art. 17 (Ab)
-	  - Code des assurances - art. A132-4-3 (V)
-	  - Code des assurances - art. A132-4-5 (V)
-	  - Code des assurances - art. A132-5 (T)
-	  - Code des assurances - art. A132-5-1 (M)
-	  - Code des assurances - art. A132-8 (V)
-	  - Code des assurances - art. A150-3 (Ab)
-	  - Code des assurances - art. Annexe art. A344-8 (Ab)
-
-	**Anciens textes**:
-
-	  - Code des assurances - art. A132-12 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. A331-6 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L132-5-1 (M)
 
 
 ###### Article A132-4-1
@@ -51960,9 +52877,9 @@ titre de la provision mathématique relative aux seuls engagements exprimés en 
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2006-03-01 art. 1 I JORF 10 mars 2006 en vigueur le 1er mai 2006
+	  - Arrêté 2006-06-27 art. 1 2° JORF 29 juin 2006
 
 	**Cite**:
 
@@ -51987,7 +52904,7 @@ I. - Pour les contrats ne relevant pas de l'article L. 132-5-3, elle est ainsi r
 
 Le souscripteur peut renoncer au présent contrat pendant trente jours calendaires révolus à compter du "moment où le preneur
 est informé que le contrat est conclu". Cette renonciation doit être faite par lettre recommandée avec avis de réception,
-envoyée à l'adresse suivante "adresse à laquelle la lettre de renonciation do it être envoyée". Elle peut être faite suivant
+envoyée à l'adresse suivante "adresse à laquelle la lettre de renonciation doit être envoyée". Elle peut être faite suivant
 le modèle de lettre inclus dans la proposition d'assurance ou le contrat.
 
 II. - Pour les contrats relevant de l'article L. 132-5-3, la mention est ainsi rédigée :
@@ -52003,9 +52920,9 @@ faite suivant le modèle de lettre inclus dans la notice ou le bulletin d'adhés
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2006-03-01 art. 1 I JORF 10 mars 2006 en vigueur le 1er mai 2006
+	  - Arrêté 2006-06-27 art. 1 2° JORF 29 juin 2006
 
 	**Cite**:
 
@@ -52027,7 +52944,7 @@ hausse ou à la baisse dépendant en particulier de l'évolution des marchés fi
 
 	**Modifié par**:
 
-	  - Arrêté 2006-03-01 art. 1 II JORF 10 mars 2006 en vigueur le 1er mai 2006
+	  - Arrêté 2006-06-27 art. 1 2° JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -52048,9 +52965,8 @@ hausse ou à la baisse dépendant en particulier de l'évolution des marchés fi
 ###### Article A132-5-1
 
 Pour l'application de l'article A. 132-4-1 aux plans d'épargne retraite populaire prévoyant une provision technique de
-diversification, l'obligation d'information sur les valeurs de transfert mentionnée à l'article L. 132-5-3 du code des
-assurances peut être valablement remplie au b du 3° du modèle de note d'information annexé à l'article A. 132-4 du code des
-assurances comme suit.
+diversification, l'obligation d'information sur les valeurs de transfert mentionnée à l'article L. 132-5-3 peut être
+valablement remplie au b du 3° du modèle de note d'information annexé à l'article A. 132-4 comme suit.
 
 I. - Information générale sur les valeurs de transfert des contrats en euro diversifié.
 
@@ -52163,52 +53079,11 @@ temps.
 
 	**Modifié par**:
 
-	  - Arrêté 2006-03-01 art. 1 II JORF 10 mars 2006 en vigueur le 1er mai 2006
+	  - Arrêté 2006-06-27 art. 1 2° 9° JORF 29 juin 2006
 
 	**Cité par**:
 
 	  - Code des assurances - art. A132-4-4 (V)
-
-
-###### Article A132-6
-
-Lorsque l'unité de compte est une part ou une action d'OPCVM, les caractéristiques principales mentionnées à l'article L.
-132-5-1 sont :
-
-1° Présentation succincte : la dénomination de l'organisme, sa forme juridique, le nom de la société de gestion et des
-éventuels délégataires de gestion ;
-
-2° Informations concernant les placements et la gestion : la classification de l'organisme, l'objectif de gestion, la
-stratégie d'investissement, le profil de risque, la garantie ou protection éventuelle, le profil type de l'investisseur ;
-
-3° Informations sur les frais et commissions de l'organisme ;
-
-4° Lorsque plus de 10 % des actifs sont constitués par des parts ou des actions d'un autre organisme de placement collectif,
-l'indication du niveau d'investissement.
-
-Les informations concernant les caractéristiques principales mentionnées ci-dessus doivent être au moins équivalentes à
-celles mentionnées dans le prospectus simplifié visé par l'Autorité des marchés financiers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 2004-06-21 art. 2 JORF 29 juin 2004 en vigueur le 1er juillet 2004
-
-	**Cité par**:
-
-	  - Code des assurances - art. A132-4-3 (V)
-	  - Code des assurances - art. A132-7 (V)
-	  - Code des assurances - art. A132-8 (V)
-	  - Code des assurances - art. A150-3 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. L132-5-1 (M)
 
 
 ###### Article A132-7
@@ -52234,7 +53109,7 @@ suivantes :
 actifs ;
 
 2° Pour les contrats de groupe prévoyant que les engagements sont représentés par des actifs faisant l'objet d'une
-affectation comptable distincte propre au contrat, le taux de rendement de ces actifs ;
+identification distincte pour satisfaire à des stipulations contractuelles, le taux de rendement de ces actifs ;
 
 3° Dans les autres cas, le taux de rendement des placements défini au 1 de l'article A. 331-7 et le taux moyen des montants,
 y compris ceux provenant de la participation aux bénéfices, affectés aux provisions mathématiques relatives à la catégorie
@@ -52262,9 +53137,9 @@ action d'OPCVM, sont celles affectant ses caractéristiques principales, telles 
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2004-06-21 art. 3 JORF 29 juin 2004 en vigueur le 1er juillet 2004
+	  - Arrêté 2006-06-27 art. 1 1° 2° JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -52278,9 +53153,47 @@ action d'OPCVM, sont celles affectant ses caractéristiques principales, telles 
 	  - Code des assurances - art. L132-22 (M)
 
 
+###### Article A132-7-1
+
+I. - En application de l'article L. 143-6, sont remis sur demande aux adhérents d'un contrat mentionné à l'article L. 143-1,
+dans un délai qui ne peut excéder trois mois :
+
+- le rapport de gestion et les comptes annuels relatifs à la ou aux comptabilités auxiliaires d'affectation mentionnées à
+l'article L. 143-4 ;
+
+- les modalités d'exercice du transfert ;
+
+- le montant dû en cas d'exercice de la faculté de rachat lorsque survient l'un des événements visés au deuxième alinéa de
+l'article L. 132-23 ;
+
+- le niveau que les prestations de retraite doivent atteindre, le cas échéant.
+
+II. - Les assurés reçoivent chaque année des informations succinctes sur la situation de l'entreprise d'assurance.
+
+III. - Lorsque le salarié fait liquider ses droits à la retraite, l'entreprise d'assurance lui adresse, dans un délai de
+trois mois à compter de la date de la demande, une information sur ses droits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-06-27 art. 1 2° JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-23 (M)
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L143-4 (M)
+	  - Code des assurances - art. L143-6 (V)
+
+
 ###### Article A132-8
 
-I. - L'encadré mentionné à l'article L. 132- 5-2 est placé en tête de proposition d'assurance, de projet de contrat, ou de
+I. - L'encadré mentionné à l'article L. 132-5-2 est placé en tête de proposition d'assurance, de projet de contrat, ou de
 notice. Sa taille ne dépasse pas une page et il contient, de façon limitative et dans l'ordre précisé ci-dessous, les
 informations suivantes :
 
@@ -52347,20 +53260,20 @@ estime nécessaires avant de signer le contrat (ou le bulletin d'adhésion)."
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2006-03-08 art. 1 I JORF 17 mars 2006 en vigueur le 1er mai 2006
+	  - Arrêté 2006-06-27 art. 1 2° JORF 29 juin 2006
 
 	**Cité par**:
 
 	  - Code des assurances - art. A132-10 (Ab)
 	  - Code des assurances - art. A132-5-2 (V)
 	  - Code des assurances - art. A132-7 (V)
+	  - Code des assurances - art. A132-9 (T)
 
 	**Cite**:
 
 	  - Code des assurances - art. A132-6 (T)
-	  - Code des assurances - art. A132-9 (T)
 	  - Code des assurances - art. L132-5 (M)
 	  - Code des assurances - art. L132-5-2 (Ab)
 	  - Code des assurances - art. L132-5-3 (V)
@@ -52397,9 +53310,9 @@ par l'adhérent.
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2006-02-09 art. 1 JORF 21 février 2006 en vigueur le 1er mai 2006
+	  - Arrêté 2006-06-27 art. 1 2° JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -52434,7 +53347,7 @@ exercer les opérations d'assurance dépendant de la durée de la vie humaine et
 code de la sécurité sociale et agréées pour exercer les opérations d'assurance dépendant de la durée de la vie humaine.
 
 L'organisme professionnel mentionné au I qui a reçu la lettre envoyée par la personne physique ou morale en avise également
-les autres organismes professionnels mentionnés au I ou le ou les autres organismes professionnels habilités conformément à
+les autres organismes professionnels mentionnés au I et le ou les autres organismes professionnels habilités conformément à
 l'article L. 223-10-1 du code de la mutualité.
 
 III. - Pour les entreprises d'assurance mentionnées à l'article L. 310-1 agréées pour exercer les opérations d'assurance
@@ -52447,9 +53360,9 @@ compter de la réception par celles-ci des éléments nécessaires à l'identifi
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2006-02-09 art. 1 JORF 21 février 2006 en vigueur le 1er mai 2006
+	  - Arrêté 2006-06-27 art. 1 2° 8° JORF 29 juin 2006
 
 	**Cite**:
 
@@ -52459,11 +53372,41 @@ compter de la réception par celles-ci des éléments nécessaires à l'identifi
 	  - Code de la mutualité - art. L223-10-1 (V)
 
 
-###### Article A132-11
+##### Section III : Information du souscripteur
 
-Lorsqu'une catégorie de contrats est assortie d'une clause de participation aux résultats, la participation affectée
-individuellement à chaque contrat réduit ou suspendu ne peut être inférieure de plus de 25 p. 100 à celle qui serait affectée
-à un contrat en cours de paiement de primes de la même catégorie ayant la même provision mathématique.
+###### Article A132-1
+
+Les tarifs pratiqués par les entreprises pratiquant des opérations mentionnées au 1° de l'article L. 310-1, en ce compris
+celles mentionnées à l'article L. 143-1 doivent être établis d'après un taux au plus égal à 75 p. 100 du taux moyen des
+emprunts de l'Etat français calculé sur une base semestrielle sans pouvoir dépasser, au-delà de huit ans, le plus bas des
+deux taux suivants : 3,5 p. 100 ou 60 p. 100 du taux moyen indiqué ci-dessus. Pour les contrats à primes périodiques ou à
+capital variable, quelle que soit leur durée, ce taux ne peut excéder le plus bas des deux taux suivants :
+
+3,5 p. 100 ou 60 p. 100 du taux moyen indiqué ci-dessus.
+
+En ce qui concerne les contrats libellés en devises étrangères, le taux d'intérêt technique ne sera pas supérieur à 75 p. 100
+du taux moyen des emprunts d'Etat à long terme du pays de la devise concernée calculé sur base semestrielle ou, à défaut, de
+la référence de taux à long terme pertinente pour la devise concernée et équivalente à la référence retenue pour le franc
+français.
+
+Pour les contrats au-delà de huit ans, le taux du tarif ne pourra en outre être supérieur au plafond établi par les
+réglementations en vigueur dans le pays de chaque devise concernée, pour les garanties de même durée, sans pouvoir excéder 60
+p. 100 du taux moyen visé à l'alinéa précédent. Il en est de même pour les contrats à primes périodiques.
+
+Pour ce qui est des contrats libellés en écus, le taux d'intérêt technique ne doit pas être supérieur à 75 p. 100 du taux
+moyen des emprunts de l'Etat français libellés dans cette référence monétaire et calculé sur base semestrielle. Le taux du
+tarif ne peut en outre excéder, au-delà de huit ans, le plus bas des deux taux suivants :
+
+3,5 p. 100 ou 60 p. 100 du taux moyen des emprunts de l'Etat français libellés dans cette référence monétaire, indiqué ci-
+dessus. Il en est de même pour les contrats à primes périodiques.
+
+Le taux moyen des emprunts d'Etat à retenir est le plus élevé des deux taux suivants : taux à l'émission et taux de rendement
+sur le marché secondaire.
+
+Les règles définies au présent article sont à appliquer en fonction des taux en vigueur au moment de la souscription et ne
+sont pas applicables aux opérations de prévoyance collective visées au chapitre Ier du titre IV du livre IV du code des
+assurances. Dans le cas de versements non programmés aux termes du contrat, ces règles sont à apprécier au moment de chaque
+versement.
 
 **Liens relatifs à cet article**
 
@@ -52471,37 +53414,37 @@ individuellement à chaque contrat réduit ou suspendu ne peut être inférieure
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
-
-	  - Arrêté 1984-07-26 art. 1 JORF 11 octobre 1984
-
 	**Modifié par**:
 
-	  - Arrêté 1993-03-19 art. 1, art. 2 III JORF 20 mars 1993 en vigueur le 1er juillet 1993
+	  - Arrêté 2006-06-27 art. 1 2° 7° JORF 29 juin 2006
 
 	**Cité par**:
 
-	  - Décret n°2008-284 du 26 mars 2008 - art. 3 (V)
-	  - Arrêté du 17 février 2014 - art. 1 (V)
-	  - Arrêté du 13 juillet 2016 - art. 1 (V)
-	  - Code des assurances - art. A132-10 (V)
-	  - Code des assurances - art. A132-12 (V)
-	  - Code des assurances - art. A132-13 (V)
-	  - Code des assurances - art. A132-15 (V)
-	  - Code des assurances - art. A132-5-1 (V)
-	  - Code des assurances - art. A134-4 (V)
+	  - Décret n°83-326 du 21 avril 1983 - art. 4 (V)
+	  - Arrêté du 21 avril 1983 - art. 6 (V)
+	  - Code des assurances - art. A132-1-1 (V)
+	  - Code des assurances - art. A132-10 (Ab)
+	  - Code des assurances - art. A132-12 (Ab)
+	  - Code des assurances - art. A132-18 (V)
+	  - Code des assurances - art. A132-3 (V)
+	  - Code des assurances - art. A335-1 (V)
 
 	**Nouveaux textes**:
 
-	  - Code des assurances - art. A331-9-1 (T)
+	  - Code des assurances - art. A331-3 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L310-1 (M)
 
 
-###### Article A132-12
+###### Article A132-4
 
 La note d'information visée à l'article L. 132-5-1 du code des assurances contient les informations prévues par le modèle ci-
 annexé.
 
-(Annexe non reproduite, voir au Journal officiel).
+(annexe non reproduite, voir au Journal officiel).
 
 **Liens relatifs à cet article**
 
@@ -52509,13 +53452,69 @@ annexé.
 
 	  - Arrêté 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1994-06-21 art. 1 JORF 30 juin 1994
+	  - Arrêté 2006-06-27 art. 1 2° JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2004 - art. 17 (Ab)
+	  - Code des assurances - art. A132-4-3 (V)
+	  - Code des assurances - art. A132-4-5 (V)
+	  - Code des assurances - art. A132-5 (T)
+	  - Code des assurances - art. A132-5-1 (M)
+	  - Code des assurances - art. A132-8 (V)
+	  - Code des assurances - art. A150-3 (Ab)
+	  - Code des assurances - art. Annexe art. A344-8 (Ab)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-12 (T)
 
 	**Nouveaux textes**:
 
-	  - Code des assurances - art. A132-4 (V)
+	  - Code des assurances - art. A331-6 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-5-1 (M)
+
+
+###### Article A132-6
+
+Lorsque l'unité de compte est une part ou une action d'OPCVM, les caractéristiques principales mentionnées à l'article L.
+132-5-1 sont :
+
+1° Présentation succincte : la dénomination de l'organisme, sa forme juridique, le nom de la société de gestion et des
+éventuels délégataires de gestion ;
+
+2° Informations concernant les placements et la gestion : la classification de l'organisme, l'objectif de gestion, la
+stratégie d'investissement, le profil de risque, la garantie ou protection éventuelle, le profil type de l'investisseur ;
+
+3° Informations sur les frais et commissions de l'organisme ;
+
+4° Lorsque plus de 10 % des actifs sont constitués par des parts ou des actions d'un autre organisme de placement collectif,
+l'indication du niveau d'investissement.
+
+Les informations concernant les caractéristiques principales mentionnées ci-dessus doivent être au moins équivalentes à
+celles mentionnées dans le prospectus simplifié visé par l'Autorité des marchés financiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 2006-06-27 art. 1 2° JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A132-4-3 (V)
+	  - Code des assurances - art. A132-7 (V)
+	  - Code des assurances - art. A132-8 (V)
+	  - Code des assurances - art. A150-3 (M)
 
 	**Cite**:
 
@@ -52556,6 +53555,30 @@ donné pouvoir au souscripteur de les accomplir. Il doit indiquer de même qui a
 	**Cite**:
 
 	  - Code des assurances - art. L141-6 (M)
+
+
+#### Chapitre III : Contrats de retraite professionnelle supplémentaire
+
+###### Article A143-1
+
+I.-Le seuil mentionné au troisième alinéa de l'article L. 143-2 est de 5 000 adhérents. 
+
+II.-Le seuil mentionné au dernier alinéa de l'article R. 143-2 s'élève, pour chaque catégorie, à 100 adhérents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-06-27 art. 1 3° JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-2 (V)
+	  - Code des assurances - art. R143-2 (V)
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation
@@ -54561,6 +55584,48 @@ l'Etat membre sur le territoire duquel elle envisage d'opérer en liberté d'ét
 	  - Code des assurances - art. A321-2 (M)
 	  - Code des assurances - art. L322-2-3 (V)
 	  - Code des assurances R310-17, A321-1, R321-1, L322-2-3, A321-2
+
+
+###### Article A310-3-1
+
+I.-Les documents mentionnés au premier alinéa du I de l'article R. 310-17-1 sont : 
+
+a) Le nom et les coordonnées de l'entreprise d'affiliation ainsi que l'Etat membre ou l'autre Etat partie à l'Espace
+économique européen où cette entreprise d'affiliation a son siège ; 
+
+b) Les principales caractéristiques du régime de retraite supplémentaire, en ce compris les garanties offertes et les
+modalités de versement des cotisations ; 
+
+c) La liste des Etats membres dans lesquels l'organisme d'assurance fournit des services de retraite professionnelle
+supplémentaire ; 
+
+d) Le nom et les coordonnées de l'organisme d'assurance. 
+
+II.-Le dossier mentionné au deuxième alinéa du I ou au deuxième alinéa du II de l'article R. 310-17-1 est composé des
+éléments suivants : 
+
+i) Les informations mentionnées au I ; 
+
+ii) Le rappel que l'entreprise d'assurance fournit des services d'institution de retraite professionnelle, conformément à
+l'article 4 de la directive 2003/41 du 3 juin 2003 relative aux activités et à la surveillance des institutions de retraite
+professionnelle. 
+
+III.-Une traduction des documents mentionnés au I dans une des langues officielles de l'Etat où l'entreprise d'affiliation a
+son siège social est également fournie par l'entreprise d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-06-27 art. 1 4° JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R310-17-1 (V)
 
 
 ###### Article A310-4
@@ -79729,8 +80794,9 @@ les assurés, celle-ci correspond à la table appropriée conduisant au tarif le
 Pour les contrats en cas de vie autres que les contrats de rente viagère, les tables mentionnées au a sont utilisées en
 corrigeant l'âge de l'assuré conformément aux décalages d'âge ci-annexés. (Annexes non reproduites).
 
-Pour les contrats de rentes viagères, le tarif déterminé en utilisant les tables mentionnées au b ne peut être inférieur à
-celui qui résulterait de l'utilisation des tables appropriées mentionnées au a.
+Pour les contrats de rentes viagères, en ce compris celles revêtant un caractère temporaire, et à l'exception des contrats
+relevant du chapitre III du livre IV du titre Ier, le tarif déterminé en utilisant les tables mentionnées au b ne peut être
+inférieur à celui qui résulterait de l'utilisation des tables appropriées mentionnées au a.
 
 Pour les contrats de rentes viagères immédiates et les contrats prévoyant, au choix de l'assuré, une liquidation en rente ou
 le versement d'un capital, et lorsque les tarifs pratiqués pour le calcul de la rente viagère sont établis d'après des tables
@@ -79741,11 +80807,6 @@ ou de la conversion en rente.
 Pour les contrats collectifs en cas de décès résiliables annuellement, le tarif peut être établi d'après les tables
 mentionnées au a avec une méthode forfaitaire si celle-ci est justifiable.
 
-**Nota:**
-
-Arrêté 2005-12-20 art. 7 : Les dispositions du présent arrêté entrent en vigueur le 1er janvier 2006, à l'exception du
-dernier alinéa du paragraphe V et du paragraphe VI de l'article 2, qui entrent en vigueur le 1er juillet 2006.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -79754,7 +80815,7 @@ dernier alinéa du paragraphe V et du paragraphe VI de l'article 2, qui entrent 
 
 	**Modifié par**:
 
-	  - Arrêté 2005-12-29 art. 2 JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+	  - Arrêté 2006-06-27 art. 1 10° JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -80063,6 +81124,70 @@ applicables en vertu du présent code.
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (V)
+
+
+###### Article A342-1-1
+
+Les dispositions de l'article A. 333-3 s'appliquent séparément aux obligations qui font l'objet d'un enregistrement comptable
+distinct tel que prévu à l'article R. 342-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-06-27 art. 1 5° JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. A333-3 (V)
+	  - Code des assurances - art. R342-1 (V)
+
+
+###### Article A342-1-2
+
+Le dépositaire mentionné à l'article R. 342-2 assure tous encaissements et paiements, à l'exception éventuelle de ceux,
+individuels, relatifs aux sommes versées ou transférées par les participants d'un contrat ou aux prestations versées au titre
+de ce contrat qui peuvent être effectués, sur instruction de l'organisme d'assurance, par toute entité habilitée à recevoir
+et à payer des flux monétaires pour compte de tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-06-27 art. 1 5° JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R342-2 (Ab)
+
+
+###### Article A342-1-3
+
+Les dispositions de la deuxième phrase de l'article A. 331-9 ne s'appliquent pas aux comptabilités auxiliaires mentionnées à
+l'article L. 143-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-06-27 art. 1 5° JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. A331-9 (V)
+	  - Code des assurances - art. L143-4 (V)
 
 
 ##### Section II : Documents et registres comptables.
@@ -105145,6 +106270,95 @@ d'origine de la notification visée à l'alinéa précédent.
 	  - Code des assurances - art. L362-2 (V)
 	  - Code des assurances - art. L421-15 (V)
 	  - Code des assurances - art. R321-1 (V)
+
+
+### Titre VII : Prestations de services fournies par une institution de retraite professionnelle établie dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen autre que la France
+
+###### Article A370-1
+
+Les documents transmis par les autorités compétentes de l'Etat où l'institution visée à l'article L. 370-1 a son siège social
+ou son administration principale et mentionnés au premier alinéa de l'article L. 370-3 sont :
+
+a) Le nom et les coordonnées de l'entreprise d'affiliation sur le territoire de la République française ;
+
+b) Les principales caractéristiques du régime de retraite supplémentaire mentionné à l'article L. 143-1, en ce compris les
+garanties offertes et les modalités de versement des cotisations ;
+
+c) La liste des Etats membres dans lesquels l'institution fournit des services de retraite professionnelle supplémentaire ;
+
+d) Le nom, les coordonnées et le statut légal de l'institution ;
+
+e) La précision que les opérations concernées font ou non l'objet d'une comptabilité auxiliaire d'affectation.
+
+Ces documents sont transmis en langue française. Le Comité des entreprises d'assurance accuse réception de ces documents. Cet
+accusé fait courir le délai de deux mois mentionné au premier alinéa de l'article L. 370-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-06-27 art. 1 6° JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L370-1 (V)
+	  - Code des assurances - art. L370-3 (V)
+
+
+###### Article A370-2
+
+Pour l'application du dernier alinéa de l'article L. 370-4, l'autorité mentionnée à l'article L. 310-12 peut demander à
+l'institution visée à l'article L. 370-1 les documents justifiant du respect des dispositions du code des assurances qui lui
+sont applicables, et notamment des articles L. 370-1 à L. 370-4 et R. 370-1 à R. 370-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-06-27 art. 1 6° JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. L370-1 (V)
+	  - Code des assurances - art. L370-4 (V)
+	  - Code des assurances L370-4, L310-12, L370-1, L370-1 à L370-4, R370-1 à R370-8
+
+
+###### Article A370-3
+
+Pour l'application de l'article L. 370-3, les dispositions qui régissent l'activité de l'institution et qui sont indiquées
+aux autorités compétentes de l'Etat concerné sont celles, législatives et réglementaires, énumérées à l'article L. 370-2 et
+celles du titre VII du livre III. Il est également indiqué à ces autorités compétentes qu'aucun créancier de l'institution,
+autre que les adhérents, assurés ou bénéficiaires au titre des opérations définies à l'article L. 143-1, ne peut se prévaloir
+d'un quelconque droit sur les biens et droits résultant de ces opérations, dans les conditions prévues au premier alinéa de
+l'article L. 143-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-06-27 art. 1 6° JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-1 (V)
+	  - Code des assurances - art. L143-7 (V)
+	  - Code des assurances - art. L370-2 (V)
+	  - Code des assurances - art. L370-3 (V)
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
