@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-06-29
+Version Consolidée au 2006-07-01
 
 # Partie législative
 
@@ -11576,10 +11576,13 @@ résultant du présent article.
 
 ###### Article L310-12-3
 
-L'Autorité de contrôle des assurances et des mutuelles dispose de l'autonomie financière. Elle arrête son budget sur
+I. - L'Autorité de contrôle des assurances et des mutuelles dispose de l'autonomie financière. Elle arrête son budget sur
 proposition du secrétaire général.
 
 Elle perçoit le produit de la contribution établie à l'article L. 310-12-4.
+
+II. - Les biens immobiliers appartenant à l'Autorité de contrôle des assurances et des mutuelles sont soumis aux dispositions
+du code général de la propriété des personnes publiques applicables aux établissements publics de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -11589,7 +11592,12 @@ Elle perçoit le produit de la contribution établie à l'article L. 310-12-4.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 8
 
 	**Cite**:
 
