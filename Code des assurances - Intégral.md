@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2006-07-27
 
 # Partie législative
 
@@ -23793,6 +23793,695 @@ Le plafond mentionné au dernier alinéa de l'article L. 132-7 ne peut être inf
 
 ### Titre IV : Les assurances de groupe
 
+#### Chapitre II : Règles particulières aux contrats d'assurance sur la vie diversifiés
+
+##### Section I : Dispositions générales
+
+###### Article R142-1
+
+Les provisions techniques correspondant aux opérations de l'entreprise d'assurance au titre des contrats relevant de
+l'article L. 142-1 sont celles mentionnées aux 1°, 4°, 7° et 9° de l'article R. 331-3.
+
+Sont inscrits dans le compte mentionné au b de l'article R. 342-1 les actifs du contrat et les provisions techniques
+mentionnées aux 1°, 7° et 9° de l'article R. 331-3.
+
+La présente section ainsi que, conformément à l'article L. 142-2, la section 6 du chapitre II du titre IV du livre III
+s'appliquent à chacun de ces contrats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code des assurances - art. A142-3 (VT)
+	  - Code des assurances - art. R142-12 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L142-1
+	  - Code des assurances - art. L142-2
+	  - Code des assurances - art. R*331-3
+	  - Code des assurances - art. R342-1
+
+
+###### Article R142-2
+
+I. - Les cotisations versées sur un contrat relevant de l'article L. 142-1, nettes de frais, sont affectées à l'acquisition
+de droits individuels relatifs à des engagements de rentes, y compris immédiates, ou de capital exprimés en euros, et à
+l'acquisition de parts de provision de diversification.
+
+Le contrat prévoit la part des cotisations versées, nettes de frais, qui est affectée à l'acquisition de droits individuels
+relatifs à des engagements exprimés en euros.
+
+Pour les engagements exprimés en euros, le montant du capital ou de la rente garantis, payables au terme prévu par le
+contrat, est fixé par ce dernier dans la limite d'un montant déterminé selon des tables et des taux définis par arrêté du
+ministre en charge de l'économie.
+
+La provision mathématique est calculée d'après des taux d'intérêt et des tables de mortalité déterminés dans des conditions
+et limites fixées par arrêté du ministre chargé de l'économie.
+
+Le calcul s'effectue par rapport à la date d'échéance prévue à l'adhésion ou, pour les contrats de rente viagère, par rapport
+à la date prévue au contrat de liquidation des droits en rente. La part de la cotisation qui n'est pas affectée à la
+provision mathématique est portée au compte de l'adhérent en parts de provision de diversification.
+
+II. - Il est précisé à chaque adhérent en caractères très apparents dans le certificat d'adhésion le terme de l'engagement
+s'appliquant à ladite adhésion, ou la date de liquidation des droits individuels en rentes : ceux-ci peuvent être prorogés à
+l'initiative de l'adhérent par avenant à l'adhésion, mais ils ne peuvent, à l'exception des contrats mentionnés à l'article
+L. 143-1, être avancés. Le contrat détermine les conditions d'une telle prorogation ou d'une telle anticipation par avenant,
+ainsi que les modalités de celle-ci.
+
+III. - En application de l'article L. 160-3, les engagements peuvent également être exprimés en devises.
+
+IV. - Les cotisations versées au titre d'un contrat mentionné à l'article L. 141-1, nettes de frais, peuvent être affectées
+pour partie à des engagements exprimés en unités de compte et pour partie à des engagements relevant de l'article L. 142-1 :
+les engagements en unité de compte, conformément aux articles R. 332-5 et R. 342-1, font l'objet d'un enregistrement
+comptable distinct de celui mentionné à l'article L. 142-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code des assurances - art. A142-1 (VT)
+	  - Code des assurances - art. A142-4 (VT)
+	  - Code des assurances - art. A331-4 (M)
+	  - Code des assurances - art. R142-10 (Ab)
+	  - Code des assurances - art. R142-5 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L141-1
+	  - Code des assurances - art. L142-1
+	  - Code des assurances - art. L142-2
+	  - Code des assurances - art. L143-1
+	  - Code des assurances - art. L160-3
+	  - Code des assurances - art. R*332-5
+	  - Code des assurances - art. R342-1
+
+
+###### Article R142-3
+
+Les actifs du contrat sont, par dérogation aux articles R. 332-19 et R. 332-20, inscrits dans la comptabilité mentionnée à
+l'article R. 342-1 sur la base de leur valeur de réalisation déterminée conformément aux dispositions des articles R.
+332-20-1 et R. 332-20-2. La variation de valeur, d'un exercice à l'autre, de ces placements est constatée dans le compte de
+résultat du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. R*332-20
+	  - Code des assurances - art. R332-19
+	  - Code des assurances - art. R332-20-1
+	  - Code des assurances - art. R332-20-2
+	  - Code des assurances - art. R342-1
+
+	**Cité par**:
+
+	  - Code des assurances - art. R142-13 (Ab)
+
+
+###### Article R142-4
+
+Les engagements mentionnés aux 1°, 7° et 9° de l'article R. 331-3 sont à toute époque représentés par les actifs du contrat
+évalués selon les règles prévues aux articles R. 332-20-1 et R. 332-20-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. R*331-3
+	  - Code des assurances - art. R332-20-1
+	  - Code des assurances - art. R332-20-2
+
+	**Cité par**:
+
+	  - Code des assurances - art. R142-13 (Ab)
+
+
+###### Article R142-5
+
+I. - La valeur de la part de provision de diversification est égale au montant de la provision de diversification, divisé par
+le nombre des parts détenues par les adhérents.
+
+II. - Pour l'application de l'article R. 342-6, les résultats techniques et financiers d'un contrat sont répartis entre les
+adhérents de ce contrat sous forme de revalorisation des engagements exprimés en euros, par attribution de parts de provision
+de diversification ou par revalorisation de ces parts. Le contrat définit les modalités de répartition des résultats
+techniques et financiers, dans des conditions définies par arrêté du ministre en charge de l'économie.
+
+III. - Le contrat prévoit que l'entreprise d'assurance garantit une valeur minimale de la part de provision de
+diversification, exprimée en euros et non en pourcentage de la valeur de la part, et qui est calculée de façon à s'élever au
+moins, à la date de souscription du contrat par la personne morale ou le chef d'entreprise mentionnés à l'article L. 141-1, à
+5 % de la valeur de la part.
+
+Cette garantie constitue un engagement de l'entreprise d'assurance, y compris pour l'application de l'article R. 342-3.
+
+IV. - Pour l'application du II du présent article, les engagements exprimés en euros ne peuvent être revalorisés que :
+
+1° Si le montant de la provision de diversification est supérieur à une fois et demie la différence entre le montant des
+provisions mathématiques relatives aux engagements exprimés en euros qui seraient à inscrire si le taux d'actualisation
+retenu pour leur calcul était nul et le montant des provisions mathématiques calculées conformément au quatrième alinéa de
+l'article R. 142-2 ;
+
+2° Et si le montant de la provision de diversification, diminué de la garantie mentionnée au présent III, est supérieur à un
+pourcentage, fixé par arrêté du ministre chargé de l'économie, du montant des provisions mathématiques.
+
+V. - Le contrat prévoit, pour la détermination de la valeur de rachat ou de transfert, les modalités d'attribution des
+résultats techniques et financiers relatifs à la période écoulée depuis la dernière date de répartition de ces résultats
+jusqu'à la date de détermination de la valeur de rachat ou de transfert.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code des assurances - art. A142-2 (VT)
+	  - Code des assurances - art. A331-4 (V)
+	  - Code des assurances - art. R142-15 (Ab)
+	  - Code des assurances - art. R142-7 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L141-1
+	  - Code des assurances - art. R142-2
+	  - Code des assurances - art. R342-3
+	  - Code des assurances - art. R342-6
+
+
+###### Article R142-6
+
+Le contrat peut prévoir les modalités et les conditions de conversion en provisions mathématiques des parts de provision de
+diversification. A l'exception des contrats mentionnés à l'article L. 143-1, cette conversion s'effectue exclusivement à
+l'initiative de l'adhérent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code des assurances - art. A132-5-2 (M)
+	  - Code des assurances - art. R*213-2 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-1
+
+
+###### Article R142-7
+
+Une nouvelle valeur de part de la provision de diversification peut être définie, et les parts existantes sont alors
+converties en fonction de cette nouvelle valeur. La garantie mentionnée au III de l'article R. 142-5 est multipliée par le
+rapport entre le nombre de parts avant la conversion et le nouveau nombre de parts.
+
+A l'exception de la conversion mentionnée à l'alinéa précédent, la garantie mentionnée au III de l'article R. 142-5 ne peut
+être modifiée durant l'application de l'article R. 342-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code des assurances - art. A132-5-2 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. R142-5
+	  - Code des assurances - art. R342-3
+
+
+###### Article R142-8
+
+Les contrats autres que ceux mentionnés au premier ou au sixième alinéa de l'article L. 132-23 peuvent stipuler qu'ils ne
+comportent pas de possibilité de rachat durant une période qui ne peut excéder dix ans, sous réserve des événements
+mentionnés aux troisième à cinquième alinéas du même article. La notice mentionnée à l'article L. 141-4 précise alors en
+caractères très apparents que le contrat ne peut comporter de rachat durant la durée prévue au contrat.
+
+En l'absence d'une telle stipulation, les septième et huitième alinéas de l'article L. 132-23 s'appliquent. La valeur de
+rachat ou de transfert est égale au montant des droits individuels mentionnés à l'article R. 142-10, diminué, éventuellement,
+de l'indemnité mentionnée à l'article R. 331-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A132-5-2 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-23 (M)
+	  - Code des assurances - art. L141-4 (M)
+	  - Code des assurances - art. R*331-5 (M)
+	  - Code des assurances - art. R142-10 (M)
+
+
+###### Article R142-9
+
+I. - Pour les contrats offrant la possibilité d'une liquidation en rente, l'intégralité des droits individuels inscrits sur
+le compte de l'adhérent est prise en compte lors de la conversion pour la détermination du montant de la rente à servir. Le
+montant de rente est exprimé en euros et calculé d'après des tables de mortalité et un taux d'intérêt technique prévu au
+contrat, dans des conditions fixées par arrêté du ministre chargé de l'économie. Le montant porté à la provision mathématique
+de l'adhérent est calculé d'après un taux d'intérêt technique déterminé dans des conditions et limites fixées par arrêté du
+ministre chargé de l'économie. La différence entre le montant des droits individuels de cet adhérent avant leur conversion en
+rente et la provision mathématique ainsi déterminée est inscrite en parts de provision de diversification sur le compte
+individuel de l'adhérent.
+
+II. - En cas de liquidation d'une part seulement des droits individuels en rente, seule cette part est prise en compte pour
+l'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code des assurances - art. R142-10 (Ab)
+	  - Code des assurances - art. R142-12 (Ab)
+
+
+###### Article R142-10
+
+I. - Il est ouvert pour chaque adhérent, lors de son adhésion, un compte individuel où sont inscrites les cotisations versées
+et leurs dates de versement, ainsi que :
+
+1° Les provisions mathématiques relatives à des engagements en euros, calculées conformément à l'article R. 142-2 ;
+
+2° Les parts de provision de diversification, calculées conformément à l'article R. 142-2 ;
+
+3° Les provisions mathématiques relatives à des engagements exprimés en unités de compte mentionnées à l'article R. 131-1.
+
+L'adhérent peut détenir des droits au titre, d'une part, d'engagements relevant de l'article R. 142-12 et au titre, d'autre
+part d'engagements mentionnés à l'article R. 142-2 et ne relevant pas de l'article R. 142-12 : le compte individuel procède
+alors à des inscriptions séparées pour chacune des deux comptabilités auxiliaires d'affectation correspondantes.
+
+Le montant des droits individuels de chaque adhérent est la somme des provisions mathématiques et du produit des parts de
+provision de diversification de l'adhérent par la valeur de la part correspondante.
+
+Les situations de l'ensemble des comptes individuels sont arrêtées à la date de clôture de chaque exercice annuel.
+
+Après la conversion mentionnée à l'article R. 142-9, sont inscrits au compte individuel les cotisations versées, leurs dates
+de versement et les arrérages acquis à l'assuré.
+
+II. - Si la ou les premières cotisations font l'objet d'une affectation ou de prélèvements particuliers supérieurs à ceux des
+années suivantes, cette affectation ou ces prélèvements font l'objet d'une information spécifique contresignée par
+l'adhérent.
+
+III. - Toute rétrocession de commission perçue par l'entreprise d'assurance au titre de la gestion financière des actifs de
+la comptabilité auxiliaire mentionnée à l'article L. 142-2 par ses gestionnaires délégués, ou par le dépositaire des actifs
+du contrat, est intégralement acquise au contrat.
+
+Tout contrat prévoit que l'entreprise d'assurance, ses éventuels gestionnaires délégués, y compris sous la forme d'une
+entreprise de placement collectif, ne versent à des courtiers, intermédiaires ou contreparties en charge de la gestion
+financière du contrat, aucune rémunération autre que les frais d'intermédiation y afférents.
+
+IV. - Le contrat peut prévoir des garanties complémentaires à l'exclusion de garanties de fidélité mentionnées au deuxième
+alinéa de l'article R. 331-5. Dans ce cas, lorsque la prime correspondante à ces garanties n'est pas exprimée en nombre de
+parts de provision de diversification, la provision mentionnée au 1° de l'article R. 331-3 correspondant à cette garantie
+n'est pas constituée au sein de la comptabilité auxiliaire mentionnée à l'article L. 142-2.
+
+La prime correspondante est individualisée et reprise dans la notice prévue à l'article L. 141-4.
+
+V. - Le contrat précise les prélèvements de l'organisme d'assurance, leurs modalités d'établissement et de perception.
+L'entreprise peut opérer ces prélèvements :
+
+a) Sur les cotisations versées, les montants transférés ou rachetés ;
+
+b) Sur les montants résultant de conversions à l'initiative de l'adhérent entre les droits exprimés en euros et ceux exprimés
+en unités de compte ;
+
+c) Sur le montant des droits individuels des participants ;
+
+d) Sur le solde du compte de participation aux résultats, dans des conditions fixées par arrêté du ministre chargé de
+l'économie ;
+
+e) Sur les prestations versées ;
+
+f) Sur les performances de gestion financière du contrat, les prélèvements étant exprimés en pourcentage de la somme
+annuelle, lorsqu'elle est positive, des produits nets des placements et de la variation des plus ou moins-values non
+réalisées des actifs du contrat ;
+
+g) Sur une combinaison de ces éléments ; toutefois, ne peuvent être appliqués de façon combinée les prélèvements mentionnés
+au d et ceux mentionnés au f.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. A142-4 (VT)
+	  - Code des assurances - art. A331-4 (M)
+	  - Code des assurances - art. R142-8 (Ab)
+	  - Code des assurances - art. R144-28 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. L141-4 (M)
+	  - Code des assurances - art. L142-2 (M)
+	  - Code des assurances - art. R*331-3 (M)
+	  - Code des assurances - art. R*331-5 (M)
+	  - Code des assurances - art. R131-1 (M)
+	  - Code des assurances - art. R142-12 (V)
+	  - Code des assurances - art. R142-2 (V)
+	  - Code des assurances - art. R142-9 (V)
+
+
+##### Section II : Dispositions particulières applicables aux contrats ne prévoyant pas une garantie intégrale au terme
+
+###### Article R142-11
+
+Les dispositions de la présente section s'appliquent aux contrats permettant que le montant du capital garanti au terme, le
+cas échéant constitutif de la rente garantie, puisse être inférieur, à la date de versement, aux cotisations versées nettes
+de frais.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code des assurances - art. A132-5-2 (M)
+
+
+###### Article R142-12
+
+Tout contrat relevant de la présente section peut prévoir que les cotisations versées, nettes de frais, sont intégralement
+affectées à des engagements exprimés en parts de provision de diversification. L'article R. 342-6 ne s'applique pas à ces
+contrats. Sauf lorsqu'ils relèvent de l'article R. 142-9, ces contrats prévoient alors une contre-assurance égale à la
+provision de diversification.
+
+Les provisions mentionnées au premier alinéa de l'article R. 142-1 sont celles mentionnées aux 4°, 7° et 9° de l'article R.
+331-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code des assurances - art. A132-5-2 (M)
+	  - Code des assurances - art. A142-4 (VT)
+	  - Code des assurances - art. A142-5 (VT)
+	  - Code des assurances - art. A331-4 (M)
+	  - Code des assurances - art. R142-10 (Ab)
+	  - Code des assurances - art. R142-13 (Ab)
+	  - Code des assurances - art. R142-15 (Ab)
+	  - Code des assurances - art. R142-16 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. R*331-3
+	  - Code des assurances - art. R142-1 (Ab)
+	  - Code des assurances - art. R142-9 (Ab)
+	  - Code des assurances - art. R342-6
+
+
+###### Article R142-13
+
+I. - Le contrat indique la politique de placement suivie par l'entreprise d'assurance pour les actifs représentatifs des
+engagements du contrat et les risques techniques et financiers y afférents. Pour chaque catégorie d'actif, l'entreprise
+d'assurance indique les limites d'investissement exprimées en pourcentage de la valeur au bilan d'affectation que cette
+catégorie devra respecter à tout moment.
+
+Le contrat indique s'il y a lieu que la politique de placement des actifs affectés en représentation des engagements du
+contrat privilégie une spécialisation dans des secteurs géographiques ou économiques déterminés, ou une répartition
+particulière entre les catégories d'actifs.
+
+Les indications mentionnées au présent I ne peuvent être modifiées que par avenant, dans les conditions prévues à l'article
+L. 141-4.
+
+II. - L'entreprise d'assurance élabore chaque année un rapport relatif aux résultats de gestion financière et à la mise en
+oeuvre des orientations de placement de la comptabilité auxiliaire d'affectation, qui est remis au souscripteur et sur
+demande aux adhérents. Il peut valablement être inclus dans le rapport mentionné à l'article L. 322-2-4.
+
+III. - Tout contrat mentionné à l'article R. 142-12 n'offrant pas la possibilité d'une liquidation en rente peut prévoir, par
+dérogation à l'article R. 142-14, que la valeur de réalisation des actifs définie à l'article R. 142-3 se réfère à un ou
+plusieurs indices d'actions ou à une ou plusieurs valeurs de référence : dans ce cas, la provision de diversification est
+représentée par des actifs d'une sûreté et d'une négociabilité appropriées correspondant le plus étroitement possible à ceux
+sur lesquels se fonde ladite valeur de référence.
+
+L'écart-type de la différence entre l'évolution d'une part de provision de diversification, évaluée conformément à l'article
+R. 142-4, et celle de l'indice sur une période de référence ne dépasse pas un montant déterminé dans des conditions fixées
+par arrêté du ministre en charge de l'économie.
+
+L'indice respecte les conditions suivantes :
+
+1° La composition de l'indice est suffisamment diversifiée ;
+
+2° L'indice constitue un étalon représentatif du marché auquel il se réfère ;
+
+3° Le mode d'établissement et de diffusion de cet indice est satisfaisant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code des assurances - art. A142-5 (VT)
+
+	**Cite**:
+
+	  - Code des assurances - art. L141-4
+	  - Code des assurances - art. L322-2-4
+	  - Code des assurances - art. R142-12
+	  - Code des assurances - art. R142-14
+	  - Code des assurances - art. R142-3 (Ab)
+	  - Code des assurances - art. R142-4 (Ab)
+
+
+###### Article R142-14
+
+Les engagements réglementés mentionnés à l'article R. 331-1 au titre de chaque contrat sont représentés par les actifs
+mentionnés aux l° à 5° de l'article R. 131-1.
+
+La valeur au bilan d'affectation visé à l'article R. 342-1 des actifs ci-après mentionnés ne peut excéder 10 % au total :
+
+1° Parts ou actions mentionnées au 3° ou au 4° de l'article R. 131-1 ;
+
+2° Par dérogation au premier alinéa du présent article, parts ou actions d'organismes de placement collectif en valeurs
+mobilières mentionnées au 8° de l'article R. 332-2 et relevant de la sous-section 6 de la section 1 du chapitre IV du titre
+Ier du livre II du code monétaire et financier (partie réglementaire) ;
+
+3° Parts ou actions d'organismes de placement collectif en valeurs mobilières mentionnées au 8° de l'article R. 332-2,
+lorsqu'ils ne bénéficient pas d'une procédure de reconnaissance mutuelle des agréments au sens de la directive n° 85/611/CEE
+du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives
+concernant certains organismes de placement collectif en valeurs mobilières.
+
+De plus, la valeur au bilan d'affectation mentionnée à l'article R. 342-1 des parts ou actions mentionnées au 5° de l'article
+R. 131-1 ou au 9° bis de l'article R. 332-2 ne peut excéder 30 % au total.
+
+L'article R. 342-2 s'applique sous réserve des dispositions du présent article. Par dérogation à cet article R. 342-2,
+l'article R. 332-3 ne s'applique pas à la comptabilité auxiliaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R*331-1 (M)
+	  - Code des assurances - art. R*332-2 (M)
+	  - Code des assurances - art. R*332-3 (M)
+	  - Code des assurances - art. R131-1 (M)
+	  - Code des assurances - art. R342-1 (M)
+	  - Code des assurances - art. R342-2 (Ab)
+	  - Directive 85-611 CEE 1958-12-20
+
+	**Cité par**:
+
+	  - Code des assurances - art. R142-13 (Ab)
+
+
+###### Article R142-15
+
+Par dérogation au III de l'article R. 142-5 et pour les contrats relevant de l'article R. 142-12, le contrat ne peut prévoir
+une garantie minimale relative à la provision mentionnée au 9° de l'article R. 331-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. R*331-3
+	  - Code des assurances - art. R142-12
+	  - Code des assurances - art. R142-5 (Ab)
+
+
+###### Article R142-16
+
+Lorsqu'un contrat mentionné à l'article R. 142-12 prévoit l'acquisition de droits individuels relatifs à des engagements de
+rentes, ces droits ne sont plus gérés, à compter de la liquidation en rente, au sein d'une comptabilité auxiliaire relevant
+de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. R142-12 (Ab)
+
+
 #### Chapitre III : Retraite professionnelle supplémentaire
 
 ###### Article R143-1
@@ -36006,9 +36695,10 @@ Les provisions techniques correspondant aux opérations d'assurance sur la vie, 
 opérations de capitalisation sont les suivantes :
 
 1° Provision mathématique : différence entre les valeurs actuelles des engagements respectivement pris par l'assureur et par
-les assurés ;
+les assurés, à l'exception, pour les contrats mentionnés à l'article L. 142-1, des engagements relatifs à la provision de
+diversification ;
 
-2° Provision pour participation aux excédents : montant des participations aux bénéfices attribuées aux bénéficiaires de
+2° Provision pour participation aux bénéfices : montant des participations aux bénéfices attribuées aux bénéficiaires de
 contrats lorsque ces bénéfices ne sont pas payables immédiatement après la liquidation de l'exercice qui les a produits ;
 
 3° Réserve de capitalisation : réserve destinée à parer à la dépréciation des valeurs comprises dans l'actif de l'entreprise
@@ -36026,7 +36716,13 @@ au I de l'article R. 331-5-1 ;
 d'acquisition constaté en application de l'article R. 332-35 ;
 
 8° Provision pour égalisation : provision destinée à faire face aux fluctuations de sinistralité afférentes aux opérations
-d'assurance de groupe contre le risque décès.
+d'assurance de groupe contre le risque décès ;
+
+9° Provision de diversification : pour les contrats mentionnés à l'article L. 142-1, provision destinée à absorber les
+fluctuations des actifs du contrat et sur laquelle chaque adhérent détient un droit individualisé sous forme de parts. Cette
+provision est abondée par tout ou partie des cotisations versées par les adhérents et par la part des résultats du contrat
+qui n'est pas affectée sous forme de provision mathématique. Elle se réduit par imputation des pertes, par imputation de
+frais, par prélèvements au titre des prestations servies et par conversion des parts des adhérents en provision mathématique.
 
 Un engagement ne peut être provisionné qu'au titre d'une seule des catégories mentionnées au présent article.
 
@@ -36076,14 +36772,15 @@ Un engagement ne peut être provisionné qu'au titre d'une seule des catégories
 	  - Code des assurances - art. R334-13-2 (V)
 	  - Code des assurances - art. R441-7 (V)
 
-	**Modifié par**:
-
-	  - Décret n°2003-1236 du 22 décembre 2003 - art. 2 () JORF 24 décembre 2003
-
 	**Cite**:
 
+	  - Code des assurances - art. L142-1 (M)
 	  - Code des assurances - art. R331-5-1 (M)
 	  - Code des assurances - art. R332-35 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2006-921 2006-07-16 art. 2 1° JORF 27 juillet 2006
 
 
 ###### Article R331-4
@@ -37665,22 +38362,18 @@ répondant aux conditions fixées par l'article R. 332-17.
 ###### Article R332-14
 
 En application des dispositions des 3° et 8° de l'article R. 332-2, sont admissibles en représentation des engagements
-réglementés les actions des sociétés d'investissement à capital variable et les parts des fonds communs de placement des
-sous-sections 1 à 5 de la section 1 du chapitre IV du titre Ier du livre II du code monétaire et financier ; sont également
-admissibles les actions des sociétés d'investissement à capital variable et les parts des fonds communs de placement régis
-par les réglementations des Etats membres de la Communauté européenne et des autres Etats parties de l'accord sur l'Espace
-économique européen, pour autant que ces règles soient conformes à la directive communautaire du 20 décembre 1985 modifiée
-relative aux organismes de placement collectif en valeurs mobilières.
+réglementés les parts ou actions d'organismes de placement collectif en valeurs mobilières relevant des sous-sections 1 à 8
+de la section 1 du chapitre IV du titre Ier du livre II du code monétaire et financier (partie réglementaire) ; sont
+également admissibles les parts ou actions des organismes de placement collectif en valeurs mobilières régis par les
+réglementations des Etats membres de la Communauté européenne et des autres Etats parties de l'accord sur l'Espace économique
+européen, pour autant que ces règles soient conformes à la directive communautaire du 20 décembre 1985 modifiée relative aux
+organismes de placement collectif en valeurs mobilières.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Décret n°2004-221 du 12 mars 2004 - art. 3 () JORF 14 mars 2004
 
 	**Cité par**:
 
@@ -37697,7 +38390,11 @@ relative aux organismes de placement collectif en valeurs mobilières.
 
 	**Cite**:
 
-	  - Directive 85-611 CEE 1985-12-20 (Conseil)
+	  - Directive 85-611 CEE 1985-12-20
+
+	**Modifié par**:
+
+	  - Décret n°2006-921 2006-07-16 art. 2 2° JORF 27 juillet 2006
 
 
 ###### Article R332-14-1
@@ -38537,8 +39234,8 @@ affaires brutes correspondantes.
 
 Les entreprises pratiquant les opérations mentionnées au 1° de l'article L. 310-1 inscrivent à l'actif du bilan les frais
 d'acquisition à reporter en fonction de la durée de vie résiduelle des contrats. La méthode retenue est décrite dans l'annexe
-visée à l'article R. 341-6 du présent code. Le montant des frais d'acquisition ainsi reportés est au plus égal à l'écart
-entre les montants de provisions mathématiques inscrites au bilan conformément à l'article L. 331-1 et le montant des
+mentionnée au premier alinéa de l'article R. 341-3. Le montant des frais d'acquisition ainsi reportés est au plus égal à
+l'écart entre les montants de provisions mathématiques inscrites au bilan conformément à l'article L. 331-1 et le montant des
 provisions mathématiques qui seraient à inscrire si les chargements d'acquisition n'étaient pas pris en compte dans les
 engagements des assurés. Le montant de cet écart ainsi que le calcul des frais d'acquisition reportés doivent pouvoir être
 justifiés à tout moment auprès de l'Autorité de contrôle des assurances et des mutuelles. Les frais d'acquisition reportés
@@ -38560,19 +39257,19 @@ sont admis en représentation des provisions techniques.
 	  - Code des assurances - art. R331-5-1 (VT)
 	  - Code des assurances - art. R332-36 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
 	**Cite**:
 
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances - art. L331-1 (M)
-	  - Code des assurances R341-6, L310-1, L331-1
+	  - Code des assurances - art. R*341-3 (M)
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des assurances - art. R332-33 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2006-921 2006-07-16 art. 2 3° JORF 27 juillet 2006
 
 
 ##### Section V : Règles particulières à certaines entreprises étrangères.
@@ -40503,6 +41200,33 @@ dernier exercice.
 	**Cite**:
 
 	  - Code des assurances - art. R342-1 (V)
+
+
+###### Article R334-13-2
+
+Au titre de la provision de diversification visée à l'article R. 331-3, l'exigence mentionnée à l'article R. 334-13 est fixée
+à 1 % de ladite provision. Pour l'application de l'article R. 334-13-1, les frais de gestion sont pris en compte à hauteur de
+la quote-part de la provision de diversification dans les provisions constituées au titre de la comptabilité auxiliaire.
+
+Toutefois, lorsque l'entreprise d'assurance garantit une valeur minimale de provision de diversification, l'exigence minimale
+réglementaire relative à la part de la provision de diversification faisant l'objet de ladite garantie est calculée dans les
+conditions définies au 1 du e de l'article R. 334-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-921 2006-07-26 art. 2 4° JORF 27 juillet 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R*331-3 (M)
+	  - Code des assurances - art. R*334-13 (M)
+	  - Code des assurances - art. R334-13-1 (V)
 
 
 ###### Article R334-14
@@ -53094,6 +53818,116 @@ temps.
 	  - Code des assurances - art. A132-4-4 (V)
 
 
+###### Article A132-5-2
+
+I. - Pour les contrats mentionnés à l'article L. 142-1 et ne relevant pas de l'article R. 142-12, le I de l'article A.
+132-4-1 s'applique comme suit :
+
+1° Lorsque le taux technique retenu est non nul, l'explication littéraire mentionnée au 2° du I de l'article A. 132-4-1
+comporte également l'indication que le taux d'intérêt est susceptible d'évoluer au fil des ans, la provision mathématique
+pouvant donc varier à la hausse comme à la baisse en cas de fluctuation de ce taux d'intérêt. Elle comporte également la
+précision que l'entreprise d'assurance s'engage sur le nombre de parts de provision de diversification, sous réserve des
+dispositions des articles R. 142-6 et R. 142-7, et uniquement sur une valeur minimale de ces parts. Il est enfin précisé que
+cette provision est sujette à des fluctuations à la hausse comme à la baisse dépendant en particulier de l'évolution des
+marchés financiers.
+
+2° Sont indiquées, à titre d'exemple, des simulations de valeurs de rachat ou de transfert pour les huit premières années au
+moins, intégrant les frais prélevés à quelque titre que ce soit. Les simulations sont relatives à l'intégralité de la valeur
+de rachat ou de transfert et sont pratiquées à partir d'hypothèses explicites, dont le cas de la stabilité de la valeur de la
+provision de diversification, celle d'une hausse, et symétriquement d'une baisse de même amplitude de cette valeur, celle
+d'une stabilité du taux moyen des emprunts d'Etat, d'une hausse et symétriquement d'une baisse de ce même taux moyen.
+
+Les simulations peuvent ne pas tenir compte de l'impact de l'évolution du taux moyen des emprunts d'Etat sur la valeur de la
+provision de diversification. Il est alors précisé que l'évolution des taux d'intérêt est susceptible d'influer sur la
+provision mathématique comme sur la provision de diversification.
+
+L'ensemble des paramètres de calcul retenus pour ces simulations est mentionné. En particulier, il est indiqué, parmi les
+paramètres supposés constants pour la simulation, ceux qui sont susceptibles d'évoluer au cours du temps.
+
+II. - Pour les contrats mentionnés à l'article R. 142-12, le I de l'article A. 132-4-1 s'applique également. La notice
+précise en caractères très apparents que l'entreprise d'assurance ne s'engage que sur le nombre de parts de provision de
+diversification, mais pas sur leur valeur ; il est également précisé que la valeur de ces parts de provision de
+diversification, qui reflète la valeur d'actifs sous-jacents, n'est pas garantie mais est sujette à des fluctuations à la
+hausse ou à la baisse dépendant en particulier de l'évolution des marchés financiers.
+
+III. - Pour les contrats mentionnés au premier alinéa de l'article R. 142-8 ne comportant pas de valeur de rachat durant huit
+années au moins, le I de l'article A. 132-4-1 ne s'applique pas.
+
+IV. - 1° Pour l'application du a du 2° de l'article A. 132-8 aux contrats mentionnés à l'article L. 142-1 :
+
+a) Pour les contrats ne relevant pas de l'article R. 142-11, il est indiqué dans l'encadré mentionné à l'article L. 132-5-2
+que le contrat comporte une garantie en capital au terme au moins égale aux sommes versées, nettes de frais.
+
+b) Pour tous les contrats, la mention suivante est insérée dans l'encadré :
+
+"L'adhérent supporte un risque de placement relatif à la provision de diversification, qui est destinée à absorber les
+fluctuations des actifs du contrat."
+
+2° Pour l'application du 4° de l'article A. 132-8 aux contrats mentionnés au premier alinéa de l'article R. 142-8, il est
+indiqué dans l'encadré mentionné à l'article L. 132-5-2 :
+
+"Le contrat n'est pas rachetable pendant le nombre d'années durant lesquelles le contrat n'est pas rachetable."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-07-26 art. 1 1° JORF 27 juillet 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. A132-4-1 (M)
+	  - Code des assurances - art. A132-8 (T)
+	  - Code des assurances - art. L132-5-2 (Ab)
+	  - Code des assurances - art. L142-1 (M)
+	  - Code des assurances - art. R142-11 (V)
+	  - Code des assurances - art. R142-12 (V)
+	  - Code des assurances - art. R142-6 (V)
+	  - Code des assurances - art. R142-7 (V)
+	  - Code des assurances - art. R142-8 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A132-4-4 (V)
+
+
+###### Article A132-5-3
+
+I. - Pour les contrats mentionnés à l'article L. 142-1, durant la durée d'application de l'article R. 342-3, la mention d'une
+affectation d'actifs par l'entreprise d'assurance en raison d'une insuffisance de représentation des engagements figure en
+caractères très apparents dans la notice mentionnée à l'article L. 141-1.
+
+II. - Les adhérents sont avisés par écrit de la mise en application de l'article R. 342-3, dans un délai qui ne peut excéder
+un mois.
+
+III. - Par dérogation à l'article A. 132-7, l'entreprise d'assurance communique chaque année à l'adhérent le montant des
+capitaux ou des rentes garantis, le nombre de parts de provision de diversification détenues et leur valeur, le cas échéant
+le nombre d'unités de compte et leur valeur, ainsi que l'évolution annuelle de ces montants et de ces valeurs depuis son
+adhésion ou pour les cinq dernières années lorsque la date de son adhésion est antérieure de plus de cinq ans à la date de
+clôture de l'exercice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-07-26 art. 1 1° JORF 27 juillet 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. A132-7 (T)
+	  - Code des assurances - art. L141-1 (M)
+	  - Code des assurances - art. L142-1 (M)
+	  - Code des assurances - art. R342-3 (Ab)
+
+
 ###### Article A132-7
 
 I. - Le montant mentionné au premier alinéa de l'article L. 132-22 est de 2 000 euros.
@@ -53531,13 +54365,13 @@ celles mentionnées dans le prospectus simplifié visé par l'Autorité des marc
 
 ### Titre IV : Les assurances de groupe
 
-#### Chapitre unique.
+#### Chapitre Ier.
 
-###### Article A140-1
+###### Article A141-1
 
 L'information préalable de l'adhérent mentionnée au premier alinéa de l'article L. 141-6 du code des assurances est fournie
 sous la forme d'un document spécifique, distinct de tous autres documents contractuels ou précontractuels. Etabli en double
-exemplaire, il est signé et daté par l'adhérent, qui conserve l'original.
+exemplaire, il est signé et daté par l'adhérent, qui conserve l'original. 
 
 Ce document spécifique comporte la mention des actes dont l'entreprise d'assurance entend informer l'adhérent qu'elle n'a pas
 donné pouvoir au souscripteur de les accomplir. Il doit indiquer de même qui a pouvoir d'accomplir ces actes.
@@ -53548,21 +54382,201 @@ donné pouvoir au souscripteur de les accomplir. Il doit indiquer de même qui a
 
 	  - Arrêté 1976-07-16
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Arrêté 2006-07-26 art. 1 2° JORF 27 juillet 2006
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 15 (V) JORF 16 décembre 2005
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. A141-1 (V)
+	  - Code des assurances - art. A140-1 (T)
 
 	**Cite**:
 
-	  - Code des assurances - art. L141-6 (M)
+	  - Code des assurances - art. L141-6 (V)
+
+
+#### Chapitre II : Règles particulières aux contrats d'assurance sur la vie diversifiés
+
+###### Article A142-1
+
+Pour l'application de l'article R. 142-2 et du I de l'article R. 142-9 : 
+
+a) Par dérogation au 1° de l'article A. 331-1-1, les provisions mathématiques des adhérents sont calculées, pour chaque
+inventaire, d'après un taux au plus égal à 75 % du taux moyen des emprunts de l'Etat français calculé sur une base
+semestrielle, sans pouvoir dépasser, au-delà de huit ans, le plus bas des deux taux suivants : 
+
+3,5 % ou 60 % du taux moyen indiqué ci-dessus ; 
+
+b) Les tarifs sont pratiqués conformément à l'article A. 335-1 ; 
+
+c) Les provisions mathématiques peuvent être calculées d'après un taux différent de celui retenu pour l'établissement du
+tarif.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 12 septembre 2014 - art. 5
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-07-26 art. 1 2° JORF 27 juillet 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R142-2 (Ab)
+
+
+###### Article A142-2
+
+Le pourcentage prévu au IV de l'article R. 142-5 s'élève à 10 %.
+
+**Nota:**
+
+Arrêté du 12 septembre 2014 JORF du 13 septembre 2014, art. 5 : Les contrats relevant du chapitre II du titre IV du livre Ier
+du code des assurances dans sa rédaction antérieure à l'ordonnance n° 2014-696 du 26 juin 2014 peuvent demeurer régis par les
+dispositions des articles A. 142-1 et A. 132-5-2 dans leur rédaction antérieure au présent arrêté jusqu'au 31 mars 2015.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 12 septembre 2014 - art. 5
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-07-26 art. 1 2° JORF 27 juillet 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R142-5 (Ab)
+
+
+###### Article A142-3
+
+Pour l'application des articles R. 332-3 et R. 332-3-1, les engagements à prendre en compte sont ceux prévus à l'article R.
+142-1.
+
+**Nota:**
+
+Arrêté du 12 septembre 2014 JORF du 13 septembre 2014, art. 5 : Les contrats relevant du chapitre II du titre IV du livre Ier
+du code des assurances dans sa rédaction antérieure à l'ordonnance n° 2014-696 du 26 juin 2014 peuvent demeurer régis par les
+dispositions des articles A. 142-1 et A. 132-5-2 dans leur rédaction antérieure au présent arrêté jusqu'au 31 mars 2015.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 12 septembre 2014 - art. 5
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-07-26 art. 1 2° JORF 27 juillet 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R142-1
+	  - Code des assurances - art. R332-3
+	  - Code des assurances - art. R332-3-1
+
+
+###### Article A142-4
+
+I. - Pour les contrats relevant de l'article R. 142-12, l'entreprise d'assurance calcule selon une échéance au moins
+hebdomadaire le montant de la provision de diversification de chaque contrat et la valeur de la part.
+
+II. - Pour les contrats ne relevant pas de l'article R. 142-12, et chaque mois où n'est pas effectué l'arrêté du compte
+mentionné au a du II de l'article A. 331-4, l'entreprise d'assurance calcule un montant intermédiaire, égal à la différence
+entre la valeur de réalisation des actifs déterminés conformément aux dispositions des articles R. 332-20-1 et R. 332-20-2 et
+la provision mathématique arrêtée à la dernière échéance trimestrielle mentionnée au b du II de l'article A. 331-4, après
+prise en compte pour cette dernière des écarts actuariels intervenus et des prestations ou des cotisations versées depuis
+cette date.
+
+III. - La valeur de la part de provision de diversification à retenir, pour le calcul du nombre de parts de provision de
+diversification à inscrire, pour l'application de l'article R. 142-2, sur le compte individuel de l'adhérent mentionné à
+l'article R. 142-10, ou pour calculer la valeur de rachat ou de transfert de l'adhérent, est égale à la valeur de la part
+déterminée lors du prochain arrêté du compte mentionné au a du II de l'article A. 331-4, ou au prochain montant intermédiaire
+déterminé par le calcul mentionné au II du présent article si un tel calcul intervient avant l'arrêté dudit compte.
+
+IV. - Le contrat précise le délai de règlement en espèces en cas de rachat, et le délai d'inscription des droits en compte
+après versement d'une cotisation. Ce délai court, pour les contrats mentionnés à l'article R. 142-12, à compter de la date du
+dernier calcul mentionné au I, et pour les autres contrats, à compter de la date de l'arrêté du compte mentionné au a du I de
+l'article A. 331-4 ou à compter de la date du calcul du montant intermédiaire mentionné au II si celui-ci est antérieur à
+l'arrêté dudit compte. Il ne peut excéder quarante jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-07-26 art. 1 2° JORF 27 juillet 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. A331-4 (Ab)
+	  - Code des assurances - art. R142-10 (M)
+	  - Code des assurances - art. R142-12 (V)
+	  - Code des assurances - art. R142-2 (V)
+	  - Code des assurances - art. R332-20-1 (M)
+	  - Code des assurances - art. R332-20-2 (M)
+
+
+###### Article A142-5
+
+L'écart-type mentionné au III de l'article R. 142-13 est calculé conformément à la première phrase de l'article 411-35 du
+règlement général de l'Autorité des marchés financiers, repris à l'annexe de l'arrêté du 12 novembre 2004 portant
+homologation des livres II à VI de ce règlement. Pour l'application de cette phrase, il y a lieu d'entendre "le contrat
+mentionné à l'article R. 142-12" là où est mentionné "l'OPCVM", et "la valeur de réalisation" là où est mentionnée "la valeur
+liquidative". L'écart type ainsi calculé, conformément à l'instruction mentionnée dans l'article précité, ne peut dépasser la
+plus haute des deux valeurs suivantes :
+
+1 % ;
+
+5 % de la volatilité de l'indice de référence.
+
+En cas de non-respect de ces seuils, l'entreprise d'assurance doit être en mesure de justifier l'origine de ces dépassements.
+Les adhérents sont informés sans délai de ce dépassement.
+
+**Nota:**
+
+Arrêté du 12 septembre 2014 JORF du 13 septembre 2014, art. 5 : Les contrats relevant du chapitre II du titre IV du livre Ier
+du code des assurances dans sa rédaction antérieure à l'ordonnance n° 2014-696 du 26 juin 2014 peuvent demeurer régis par les
+dispositions des articles A. 142-1 et A. 132-5-2 dans leur rédaction antérieure au présent arrêté jusqu'au 31 mars 2015.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 12 septembre 2014 - art. 5
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Cite**:
+
+	  - Arrêté 2004-11-12 annexe
+	  - Code des assurances - art. R142-12
+	  - Code des assurances - art. R142-13
+
+	**Créé par**:
+
+	  - Arrêté 2006-07-26 art. 1 2° JORF 27 juillet 2006
 
 
 #### Chapitre III : Contrats de retraite professionnelle supplémentaire
@@ -56534,6 +57548,56 @@ inférieure à la provision correspondant au capital réduit.
 	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
 
 
+###### Article A331-2
+
+Si lors de l'inventaire le taux de rendement réel des actifs d'une entreprise, diminué d'un cinquième, est inférieur au
+quotient du montant total des intérêts techniques et du minimum contractuellement garanti de participations aux bénéfices
+dans les conditions définies à l'article A. 132-2 des contrats de l'entreprise par le montant moyen des provisions
+mathématiques constituées, une comparaison entre les deux montants suivants doit être effectuée :
+
+1° Les provisions mathématiques recalculées avec le taux de rendement réel des actifs de l'entreprise diminué d'un
+cinquième ;
+
+2° Les provisions mathématiques à l'inventaire.
+
+Si le premier montant est supérieur au second, une dotation égale à leur différence est affectée à la provision pour aléas
+financiers mentionnée au 5° de l'article R. 331-3. Cette provision est reprise dans les comptes de l'entreprise à
+l'inventaire suivant.
+
+Les contrats à capital variable ainsi que les opérations de prévoyance collective visées au chapitre Ier du titre IV du livre
+IV et les opérations mentionnées à l'article L. 142-1 ne sont pas concernés par ces dispositions.
+
+Le taux de rendement réel des actifs est calculé conformément à l'article A. 331-7. Il ne tient pas compte du rendement des
+actifs afférents aux contrats à capital variable, aux opérations mentionnés à l'article L. 441-1 ainsi qu'à celles
+mentionnées à l'article L. 142-1 du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 2006-07-26 art. 1 3° JORF 27 juillet 2006
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
+	**Cite**:
+
+	  - Code des assurances - art. A132-2 (M)
+	  - Code des assurances - art. A331-7 (Ab)
+	  - Code des assurances - art. L142-1 (M)
+	  - Code des assurances - art. L441-1 (M)
+	  - Code des assurances - art. R*331-3 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
+
+
 ###### Article A331-3
 
 La participation aux bénéfices techniques et financiers des entreprises pratiquant des opérations mentionnées au 1° de
@@ -56578,6 +57642,152 @@ avril 2007 est entaché d'illégalité.
 
 	  - Code des assurances - art. L310-1 (M)
 	  - Code des assurances L310-1, A331-3 à A331-8
+
+
+###### Article A331-4
+
+I - Pour les opérations de chaque entreprise mentionnées au 1° de l'article L. 310-1, le montant minimal de la participation
+aux bénéfices à attribuer au titre d'un exercice est déterminé globalement à partir d'un compte de participation aux
+résultats.
+
+Ce compte comporte, pour les contrats mentionnés à l'article A. 331-3, les éléments de dépenses et de recettes concernant les
+catégories 1, 2, 3, 4, 5, 7 et 10 de l'article A. 344-2 et figurant, à l'annexe à l'article A. 344-3, dans la ventilation de
+l'ensemble des produits et charges des opérations par catégorie (point 2.2, "Catégories 1 à 19", du modèle d'annexe), aux
+sous-totaux "A. - Solde de souscription" et "B. - Charges d'acquisition et de gestion nettes". Il comporte également en
+dépenses la participation de l'assureur aux bénéfices de la gestion technique, qui est constituée par 10 % du solde créditeur
+des éléments précédents.
+
+Il est ajouté en recette du compte de participation aux résultats une part des produits financiers. Cette part est égale à 85
+% du solde d'un compte financier comportant les éléments prévus à l'article A. 331-6. Le compte de participation aux
+résultats comporte en outre les sommes correspondant aux "solde de réassurance cédée", calculées conformément aux
+dispositions de l'article A. 331-8 et, s'il y a lieu, le solde débiteur du compte de participation aux résultats de
+l'exercice précédent.
+
+II. - a) Pour les contrats relevant de l'article R. 142-2 et ne relevant pas de l'article R. 142-12, le montant de la
+participation aux bénéfices techniques et financiers mentionnée à l'article R. 342-6 est déterminé à partir d'un compte de
+participation aux résultats spécifique relatif aux seules opérations relevant de la comptabilité auxiliaire, à l'exclusion
+des éventuels engagements exprimés en unités de compte.
+
+b) Le compte mentionné au a est établi à la date de chaque échéance, qui est au moins trimestrielle. Ce compte comporte en
+recettes :
+
+1° Le montant des primes versées et des montants transférés ;
+
+2° Les produits nets des placements ;
+
+3° La variation des plus ou moins-values latentes des actifs du contrat ;
+
+4° Les éventuelles rétrocessions de commission mentionnées à l'article R. 142-10 ;
+
+5° Les montants arbitrés entre comptabilités auxiliaires pour les contrats mentionnés au cinquième alinéa de l'article R.
+142-10 ou au IV de l'article R. 142-2 ;
+
+Il comporte en dépenses :
+
+1° Les charges des prestations versées aux adhérents et des montants transférés ;
+
+2° Les charges des provisions techniques, y compris celles résultant d'écarts actuariels des provisions mathématiques, avant
+attribution de participation aux résultats ;
+
+3° Les frais mentionnés au V de l'article R. 142-10, à l'exception de ceux mentionnés au d dudit V ;
+
+4° Le cas échéant, le solde débiteur net de déduction de l'exercice précédent ;
+
+5° Les montants arbitrés entre comptabilités auxiliaires pour les contrats mentionnés au cinquième alinéa de l'article R.
+142-10 ou au IV de l'article R. 142-2 ;
+
+Le compte de participation aux résultats comporte en outre les sommes correspondant au solde de réassurance cédée calculées
+conformément à l'article A. 331-8.
+
+Le montant de la participation aux résultats est le solde créditeur du compte de participation aux résultats défini au
+présent II.
+
+Pour l'application du d du V de l'article R. 142-10, et lorsque ne sont pas appliqués les frais mentionnés au f dudit V, ce
+montant peut être diminué d'au plus 15 % dudit solde.
+
+Lorsque ce compte présente un solde débiteur, ce solde est reporté en dépenses du compte de participation aux résultats
+arrêté à l'échéance suivante, déduction faite de la part de ce solde qui peut être compensée par reprise sur la provision de
+diversification dans la limite de la valeur minimale de cette provision mentionnée à l'article R. 142-5.
+
+c) L'attribution et la répartition entre les adhérents des résultats techniques et financiers du contrat s'effectuent par la
+revalorisation des engagements de rente ou de capital exprimés en euros ou par l'affectation à la provision de
+diversification, soit au moyen de la revalorisation de la valeur de la part ou soit au moyen de l'affectation de parts
+nouvelles aux adhérents.
+
+La revalorisation des engagements de rente ou de capital exprimés en euros est déterminée selon un taux identique pour tous
+les adhérents, net du taux retenu pour l'établissement du tarif de chaque adhérent. Elle ne peut être modulée en prenant en
+compte les différences de résultats techniques des comptes des participants dont les droits individuels ont été liquidés et
+de ceux dont les droits individuels sont en cours de constitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 2006-07-26 art. 1 4° JORF 27 juillet 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-284 du 26 mars 2008 - art. 3 (M)
+	  - Arrêté du 17 février 2014 - art. 1 (M)
+	  - Code des assurances - art. A134-4 (M)
+	  - Code des assurances - art. A142-4 (VT)
+	  - Code des assurances - art. A331-3 (V)
+	  - Code des assurances - art. A331-5 (V)
+	  - Code des assurances - art. A331-6 (V)
+	  - Code des assurances - art. A331-8 (V)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-2 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. A344-2 (M)
+	  - Code des assurances - art. A344-3 (M)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R142-10 (M)
+	  - Code des assurances - art. R142-12 (V)
+	  - Code des assurances - art. R142-2 (V)
+	  - Code des assurances - art. R142-5 (V)
+	  - Code des assurances - art. R342-6 (M)
+
+
+###### Article A331-5
+
+Le montant minimal annuel de la participation aux résultats est le solde créditeur du compte de participation aux résultats
+défini à l'article A. 331-4.
+
+Le montant minimal annuel de la participation aux bénéfices est égal au montant défini à l'alinéa précédent diminué du
+montant des intérêts crédités aux provisions mathématiques.
+
+Le présent article ne s'applique pas aux contrats mentionnés à l'article L. 142-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Modifié par**:
+
+	  - Arrêté 2006-07-26 art. 1 5° JORF 27 juillet 2006
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. A132-3 (M)
+
+	**Cite**:
+
+	  - Code des assurances - art. A331-4 (Ab)
+	  - Code des assurances - art. L142-1 (M)
+
+	**Cité par**:
+
+	  - Code des assurances - art. A335-6 (M)
 
 
 ###### Article A331-6
@@ -56892,142 +58102,6 @@ premier alinéa, après examen des données d'expérience relatives à la popula
 	**Liens**:
 
 	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
-
-
-###### Article A331-2
-
-Si lors de l'inventaire le taux de rendement réel des actifs d'une entreprise, diminué d'un cinquième, est inférieur au
-quotient du montant total des intérêts techniques et du minimum contractuellement garanti de participations aux bénéfices
-dans les conditions définies à l'article A. 132-2 des contrats de l'entreprise par le montant moyen des provisions
-mathématiques constituées, une comparaison entre les deux montants suivants doit être effectuée :
-
-1° Les provisions mathématiques recalculées avec le taux de rendement réel des actifs de l'entreprise diminué d'un
-cinquième ;
-
-2° Les provisions mathématiques à l'inventaire.
-
-Si le premier montant est supérieur au second, une dotation égale à leur différence est affectée à la provision pour aléas
-financiers mentionnée au 5° de l'article R. 331-3. Cette provision est reprise dans les comptes de l'entreprise à
-l'inventaire suivant.
-
-Les contrats à capital variable ainsi que les opérations de prévoyance collective visées au chapitre Ier du titre IV du livre
-IV du code des assurances ne sont pas concernés par ces dispositions.
-
-Le taux de rendement réel des actifs est calculé conformément à l'article A. 331-7. Il ne tient pas compte du rendement des
-actifs afférents aux contrats à capital variable et aux opérations de prévoyance collective visées au chapitre Ier du titre
-IV du livre IV du code des assurances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1993-03-19 art. 8 JORF 20 mars 1993 en vigueur le 1er juillet 1993
-	  - Arrêté 1994-08-08 art. 10 V JORF 23 août 1994
-	  - Arrêté 1995-03-28 art. 4 JORF 7 avril 1995 en vigueur le 1er juin 1995
-	  - Arrêté 1995-10-23 art. 5 I JORF 25 octobre 1995
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-
-	**Cite**:
-
-	  - Code des assurances - art. A132-2 (M)
-	  - Code des assurances - art. A331-7 (Ab)
-	  - Code des assurances - art. R*331-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
-
-
-###### Article A331-4
-
-Pour les opérations de chaque entreprise mentionnées au 1° de l'article L. 310-1, le montant minimal de la participation aux
-bénéfices à attribuer au titre d'un exercice est déterminé globalement à partir d'un compte de participation aux résultats.
-
-Ce compte comporte, pour les contrats mentionnés à l'article A. 331-3, les éléments de dépenses et de recettes concernant les
-catégories 1, 2, 3, 4, 5, 7 et 10 de l'article A. 344-2 et figurant, à l'annexe à l'article A. 344-3, dans la ventilation de
-l'ensemble des produits et charges des opérations par catégorie (point 2.2, "Catégories 1 à 19", du modèle d'annexe), aux
-sous-totaux "A. - Solde de souscription" et "B. - Charges d'acquisition et de gestion nettes". Il comporte également en
-dépenses la participation de l'assureur aux bénéfices de la gestion technique, qui est constituée par 10 p. 100 du solde
-créditeur des éléments précédents.
-
-Il est ajouté en recette du compte de participation aux résultats une part des produits financiers. Cette part est égale à 85
-% du solde d'un compte financier comportant les éléments prévus à l'article A. 331-6. Le compte de participation aux
-résultats comporte en outre les sommes correspondant aux "solde de réassurance cédée", calculées conformément aux
-dispositions de l'article A. 331-8 et, s'il y a lieu, le solde débiteur du compte de participation aux résultats de
-l'exercice précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Transféré par**:
-
-	  - Arrêté 1994-08-08 art. 10 II JORF 23 août 1994
-
-	**Modifié par**:
-
-	  - Arrêté 1995-10-23 art. 2 JORF 25 octobre 1995
-
-	**Cité par**:
-
-	  - Décret n°2008-284 du 26 mars 2008 - art. 3 (M)
-	  - Arrêté du 17 février 2014 - art. 1 (M)
-	  - Code des assurances - art. A134-4 (M)
-	  - Code des assurances - art. A142-4 (VT)
-	  - Code des assurances - art. A331-3 (V)
-	  - Code des assurances - art. A331-5 (V)
-	  - Code des assurances - art. A331-6 (V)
-	  - Code des assurances - art. A331-8 (V)
-
-	**Anciens textes**:
-
-	  - Code des assurances - art. A132-2 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. A344-2 (M)
-	  - Code des assurances - art. A344-3 (M)
-	  - Code des assurances - art. L310-1 (M)
-
-
-###### Article A331-5
-
-Le montant minimal annuel de la participation aux résultats est le solde créditeur du compte de participation aux résultats
-défini à l'article A. 331-4.
-
-Le montant minimal annuel de la participation aux bénéfices est égal au montant défini à l'alinéa précédent diminué du
-montant des intérêts crédités aux provisions mathématiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Transféré par**:
-
-	  - Arrêté 1994-08-08 art. 10 III JORF 23 août 1994
-
-	**Anciens textes**:
-
-	  - Code des assurances - art. A132-3 (M)
-
-	**Cite**:
-
-	  - Code des assurances - art. A331-4 (Ab)
-
-	**Cité par**:
-
-	  - Code des assurances - art. A335-6 (M)
 
 
 ###### Article A331-9-1
