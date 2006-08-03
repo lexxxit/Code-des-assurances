@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-07-27
+Version Consolidée au 2006-08-04
 
 # Partie législative
 
@@ -28797,7 +28797,7 @@ connaître, dans les délais mentionnés au troisième alinéa du I et au deuxi�
 
 ###### Article R310-17-1
 
-I. - Toute entreprise d'assurance disposant de l'agrément mentionné à l'article L. 413-1 et projetant de fournir des services
+I. - Toute entreprise d'assurance disposant de l'agrément mentionné à l'article L. 143-1 et projetant de fournir des services
 d'institutions de retraite professionnelle sur le territoire d'un autre Etat membre de la Communauté européenne ou d'un autre
 Etat partie à l'accord sur l'Espace économique européen, conformément aux dispositions de l'article L. 310-12-7, notifie son
 projet à l'autorité de contrôle instituée à l'article L. 310-12, accompagné des documents dont la liste est fixée par arrêté
@@ -28830,9 +28830,9 @@ les raisons de ce refus. Elle en avise également en tant que de besoin les auto
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+	  - Décret n°2006-976 du 1 août 2006 - art. 1 () JORF 4 août 2006
 
 	**Cité par**:
 
@@ -28842,9 +28842,9 @@ les raisons de ce refus. Elle en avise également en tant que de besoin les auto
 
 	**Cite**:
 
+	  - Code des assurances - art. L143-1 (M)
 	  - Code des assurances - art. L310-12 (M)
 	  - Code des assurances - art. L310-12-7 (V)
-	  - Code des assurances - art. L413-1 (M)
 
 
 ###### Article R310-17-2
@@ -28877,7 +28877,7 @@ d'institution de retraite professionnelle.
 ###### Article R310-17-3
 
 Par dérogation aux dispositions de l'avant-dernier alinéa de l'article L. 310-1, les dispositions des articles R. 310-17-1 et
-2 et de l'article R. 332-62 s'appliquent aux mutuelles et unions régies par le code de la mutualité, et aux institutions de
+2 et de l'article R. 332-63 s'appliquent aux mutuelles et unions régies par le code de la mutualité, et aux institutions de
 prévoyance régies par le titre III du livre IX du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
@@ -28886,15 +28886,15 @@ prévoyance régies par le titre III du livre IX du code de la sécurité social
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
+	  - Décret n°2006-976 du 1 août 2006 - art. 1 () JORF 4 août 2006
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. R332-62 (V)
-	  - Code des assurances L310-1, R332-62, R310-17-1, R310-17-2
+	  - Code des assurances - art. L310-1 (V)
+	  - Code des assurances - art. R310-17-1 (V)
+	  - Code des assurances - art. R332-63 (V)
 
 
 ##### Section III : Exercice du pouvoir de sanction.
@@ -36946,6 +36946,39 @@ L'autorité administrative mentionnée à l'article L. 331-4 est le ministre cha
 	  - Code des assurances - art. L331-4
 
 
+###### Article R331-5-3
+
+Les provisions techniques correspondant aux opérations mentionnées à l'article L. 143-1 sont calculées chaque année par un
+actuaire et certifiées soit par le ou les commissaires aux comptes de l'entreprise d'assurance dans le cadre d'une mission
+distincte de la mission générale de commissariat aux comptes exercée dans cette entreprise d'assurance, soit par un autre
+actuaire, indépendant de l'entreprise d'assurance et agréé à cet effet par l'une des associations d'actuaire reconnues par
+l'autorité instituée à l'article L. 310-12. L'actuaire ou le ou les commissaires aux comptes vérifie que les provisions sont,
+dans le respect des dispositions du présent code applicables à celles-ci, constituées de façon suffisamment prudente, en
+tenant compte, le cas échéant, d'une marge adéquate pour les écarts défavorables, et que les méthodes et les bases de calcul
+des provisions techniques restent en général constantes d'un exercice à l'autre. Une modification de ces méthodes peut
+toutefois être justifiée, dans le respect du présent code, par un changement des données juridiques, démographiques ou
+économiques sur lesquelles se fondent ces hypothèses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 1976-07-16
+
+	**Créé par**:
+
+	  - Décret n°2006-976 du 1 août 2006 - art. 1 () JORF 4 août 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-1 (M)
+	  - Code des assurances - art. L310-12 (M)
+
+	**Anciens textes**:
+
+	  - Code des assurances - art. R334-5-3 (T)
+
+
 ##### Section III : Provisions techniques des autres opérations d'assurance.
 
 ###### Article R331-6
@@ -40677,43 +40710,6 @@ assurances et des mutuelles paru au Journal officiel du 31 octobre 2007.
 	  - Code des assurances - art. R334-7 (VD)
 	  - Code des assurances - art. R334-9 (VD)
 	  - Code des assurances - art. R335-2 (VD)
-
-
-###### Article R334-5-3
-
-Les provisions techniques correspondant aux opérations mentionnées à l'article L. 143-1 sont calculées chaque année par un
-actuaire et certifiées soit par le ou les commissaires aux comptes de l'entreprise d'assurance dans le cadre d'une mission
-distincte de la mission générale de commissariat aux comptes exercée dans cette entreprise d'assurance, soit par un autre
-actuaire, indépendant de l'entreprise d'assurance et agréé à cet effet par l'une des associations d'actuaire reconnues par
-l'autorité instituée à l'article L. 310-12. L'actuaire ou le ou les commissaires aux comptes vérifie que les provisions sont,
-dans le respect des dispositions du présent code applicables à celles-ci, constituées de façon suffisamment prudente, en
-tenant compte, le cas échéant, d'une marge adéquate pour les écarts défavorables, et que les méthodes et les bases de calcul
-des provisions techniques restent en général constantes d'un exercice à l'autre. Une modification de ces méthodes peut
-toutefois être justifiée, dans le respect du présent code, par un changement des données juridiques, démographiques ou
-économiques sur lesquelles se fondent ces hypothèses.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 1976-07-16
-
-	**Créé par**:
-
-	  - Décret n°2006-740 du 27 juin 2006 - art. 1 () JORF 29 juin 2006
-
-	**Transféré par**:
-
-	  - Décret n°2006-976 du 1 août 2006 - art. 1 () JORF 4 août 2006
-
-	**Cite**:
-
-	  - Code des assurances - art. L143-1 (M)
-	  - Code des assurances - art. L310-12 (M)
-
-	**Nouveaux textes**:
-
-	  - Code des assurances - art. R331-5-3 (V)
 
 
 ###### Article R334-6
