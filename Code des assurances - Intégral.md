@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-09-30
+Version Consolidée au 2006-11-07
 
 # Partie législative
 
@@ -259922,294 +259922,97 @@ La communication des renseignements ci-dessus doit intervenir au plus tard le 1e
 	  - Code des assurances - art. R*441-7 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation
+## Livre V : Intermédiaires d'assurance
 
-### Titre Ier : Présentation des opérations.
+### Titre Ier : Intermédiation en assurance
 
-#### Chapitre III : Conditions de capacité professionnelle.
+#### Chapitre II : Principes généraux
 
-###### Article A513-1
+##### Section I : Obligation d'immatriculation.
 
-Sont considérées comme justifiant de la possession d'un diplôme mentionné au a de l'article R. 513-1, les personnes qui
-produisent l'un des titres suivants :
+###### Article A512-1
 
-I. - Diplômes d'assurance.
+Le dossier mentionné à l'article R. 512-4 comprend :
 
-1° Diplôme d'études supérieures spécialisées, mention assurances, autre diplôme délivré par l'Etat sanctionnant des études
-spécialisées en assurance d'un niveau égal ou supérieur à la licence en droit, licence en droit ayant comporté au moins un
-enseignement semestriel de droit des assurances, diplôme universitaire de technologie (carrières juridiques et judiciaires,
-option assurances), brevet de technicien supérieur d'assurance ;
+1° Les noms et prénoms, ou la dénomination sociale et l'adresse du demandeur ;
 
-2° Diplôme sanctionnant des études spécialisées en assurance et figurant sur la liste suivante :
+2° Lorsque le demandeur est une personne morale :
 
-Diplôme du centre des hautes études d'assurances ;
+a) L'identité des associés ou tiers qui dirigent et gèrent, ainsi que, le cas échéant, lorsque l'activité d'intermédiation en
+assurance est exercée à titre accessoire à leur activité principale, l'identité de la ou les personnes, au sein de la
+direction, auxquelles est déléguée la responsabilité de l'activité d'intermédiation ;
 
-Certificat supérieur d'études statistiques ou diplôme de statisticien de l'institut de statistique des universités de Paris,
-option assurance ou actuariat ;
+b) L'identité de la personne parmi celles mentionnées au a dont le nom est porté au registre des intermédiaires ;
 
-Admission au titre de membre de l'institut des actuaires français ;
+3° La justification de la catégorie dans laquelle l'intermédiaire demande son inscription :
 
-Diplôme d'études supérieures économiques (économie et gestion, option assurances) du conservatoire national des arts et
-métiers ;
+a) Pour les courtiers et sociétés de courtage, un extrait d'immatriculation au registre du commerce et des sociétés datant de
+moins de trois mois et mentionnant l'activité de courtage d'assurance, établi au nom de l'intéressé si l'activité de courtage
+est exercée en nom propre et au nom de la société concernée dans le cas contraire ;
 
-Diplôme d'actuaire de l'institut de science financière et d'assurances de l'université Claude-Bernard - Lyon-I ;
+b) Pour les agents généraux d'assurance, un document attestant l'existence et, le cas échéant, la durée du ou des mandats
+d'agent général d'assurance ;
 
-Admission au titre de membre de l'institut des actuaires français ;
+c) Pour les personnes mentionnées aux 3° et 4° de l'article R. 511-2, un document attestant de l'existence d'un ou plusieurs
+mandats ;
 
-Diplôme de l'institut des assurances des universités suivantes :
+4° L'indication que l'activité d'intermédiation est exercée à titre principal ou à titre accessoire et, le cas échéant, la
+nature de l'activité principale ;
 
-Aix-Marseille-III, Jean-Moulin - Lyon III, Paris-I - Panthéon-Sorbonne, François-Rabelais, à Tours ;
+5° L'attestation d'assurance de responsabilité civile professionnelle prévue à l'article R. 512-14 ou, pour les
+intermédiaires visés aux 2°, 3° et 4° de l'article R. 511-2, tout document attestant que l'entière responsabilité des actes
+de l'intermédiaire est assumée par le ou les mandants dans les conditions prévues au III de l'article L. 511-1 ;
 
-Unités de valeur délivrées par le conservatoire national des arts et métiers au titre des cours suivants :
+6° L'attestation de garantie financière prévue à l'article R. 512-15 ou, pour les intermédiaires visés aux 2° et 3° de
+l'article R. 511-2, tout document attestant d'un mandat d'encaissement des primes ou cotisations et, éventuellement, d'un
+mandat de règlement des sinistres ou, le cas échéant, une déclaration de l'intermédiaire par laquelle celui-ci atteste sur
+l'honneur ne pas encaisser de fonds ;
 
-L'assurance au point de vue économique et juridique ;
+7° Le ou les documents permettant d'attester du respect des conditions de capacité professionnelle telles que définies à la
+sous-section 2 du chapitre IV du présent titre ;
 
-Théorie mathématique des assurances ;
+8° La ou les déclarations sur l'honneur mentionnées au I de l'article R. 514-1 ;
 
-Diplôme du cycle normal ou du cycle commercial de l'école nationale d'assurances ;
-
-Certificat de scolarité de l'école supérieure d'assurances ;
-
-Brevet de technicien supérieur d'assurance.
-
-3° Brevet de technicien supérieur d'assurance.
-
-II. - Diplômes de nature juridique, économique ou commerciale.
-
-1° Diplôme d'études universitaires générales délivré dans les disciplines juridiques ou économiques, autre diplôme délivré
-par l'Etat sanctionnant des études juridiques, économiques ou commerciales d'un niveau égal ou supérieur au diplôme
-précédent, diplôme universitaire de technologie ou brevet de technicien supérieur pour les mêmes disciplines ;
-
-2° Diplômes figurant sur la liste suivante :
-
-Diplôme d'un institut d'études politiques ;
-
-Diplôme de l'école des hautes études commerciales ;
-
-Diplôme de l'école supérieure de commerce de Paris ;
-
-Diplôme de l'école des affaires de Paris ;
-
-Diplôme de l'école supérieure des sciences économiques et commerciales ;
-
-Diplôme de l'école supérieure de commerce de Lyon ;
-
-Diplôme d'une école supérieure de commerce et d'administration des entreprises ;
-
-Diplôme de l'institut commercial de l'université de Nancy-II ;
-
-Diplôme de l'institut d'études commerciales de l'université de Grenoble-II ;
-
-Diplôme de l'institut européen d'études commerciales supérieures de l'université de Strasbourg-III ;
-
-Diplôme d'études supérieures économiques du conservatoire national des arts et métiers ;
-
-Diplôme d'économiste du conservatoire national des arts et métiers ;
-
-Diplôme de l'institut supérieur des affaires ;
-
-Diplôme du centre de perfectionnement des affaires ;
-
-Diplôme de l'école des hautes études commerciales du Nord ;
-
-Diplôme de l'école supérieure des sciences commerciales d'Angers ;
-
-Autre diplôme d'ingénieur décerné par une école habilitée par la commission des titres d'ingénieur à délivrer un diplôme
-d'ingénieur dans les disciplines juridiques, économiques et commerciales ;
-
-Diplôme de l'institut du droit des affaires de l'université de Paris-II.
-
-Diplôme de statisticien économiste et diplôme de cadre de gestion statistique délivrés par l'Ecole nationale de la
-statistique et de l'administration économique (E.N.S.A.E.).
+9° Le règlement des frais d'inscription.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1966-02-23 art. 1 annexe I
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Arrêté 1980-08-28 art. 1 JORF 10 septembre 1980
-	  - Arrêté 1983-08-04 art. 1, art. 2 JORF 10 août 1983
-	  - Arrêté 1984-05-29 art. 1 JORF 13 juin 1984
-	  - Arrêté 1984-07-17 art. 1 JORF 20 juillet 1984
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2006 - art. 1, v. init.
+	  - Arrêté 2006-11-03 art. 1 JORF 7 novembre 2006
 
 	**Cité par**:
 
-	  - Code des assurances - art. A513-2 (Ab)
+	  - Code des assurances - art. A512-2 (VD)
+	  - Code des assurances - art. A512-3 (V)
 
 	**Cite**:
 
-	  - Code des assurances - art. R513-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R513-1 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R513-1 (V)
-	  - TXT_ASSOCIE: Code des assurances - art. R513-2 (M)
-
-
-###### Article A513-2
-
-Sont considérées comme justifiant de la possession d'un diplôme mentionné au a de l'article R. 513-2 les personnes qui
-produisent l'un des titres suivants :
-
-Diplôme mentionné à l'article A. 513-1 ;
-
-Brevet d'études professionnelles, professions de l'assurance, de la banque et de la bourse, option assurance ;
-
-Certificat d'aptitude professionnelle d'employé d'assurance ;
-
-Certificat de scolarité de l'institut libre des finances et des assurances ;
-
-Certificat de scolarité de l'école polytechnique d'assurance ;
-
-Certificat de fin d'études de l'école privée de législation professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1966-02-23 art. 1 annexe II
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1980-08-28 art. 2 JORF 10 septembre 1980
-	  - Arrêté 1984-05-29 art. 2 JORF 13 juin 1984
-
-	**Cite**:
-
-	  - Code des assurances - art. A513-1 (M)
-	  - Code des assurances - art. R513-2 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des assurances - art. R513-2 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R513-2 (M)
+	  - Code des assurances - art. L511-1 (M)
+	  - Code des assurances - art. R*511-2 (M)
+	  - Code des assurances - art. R*512-4 (M)
+	  - Code des assurances - art. R*514-1 (M)
+	  - Code des assurances - art. R512-14 (V)
+	  - Code des assurances - art. R512-15 (V)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation
+###### Article A512-2
 
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.
-
-###### Article A514-1
-
-Sont habilités à recevoir la liste prévue à l'article R. 514-3, les organismes professionnels suivants :
-
-1° La fédération française des sociétés d'assurances, pour les salariés et les mandataires d'entreprises mentionnées à
-l'article L. 310-1, autres que les organismes d'assurances mutuelles agricoles mentionnés à l'article 1235 du code rural et
-que les entreprises mentionnées au 2° ci-après ;
-
-2° Le groupement des sociétés d'assurances à caractère mutuel, pour les salariés et les mandataires des entreprises
-adhérentes de cet organisme, ainsi que pour les salariés et les mandataires d'entreprises mentionnées à l'article L. 310-1
-adhérentes de l'association de recherche et d'étude pour l'épargne et la retraite ;
-
-3° L'union des caisses centrales de la mutualité agricole, pour les salariés et les mandataires des organismes d'assurances
-mutuelles agricoles mentionnés à l'article 1235 du code rural ;
-
-4° La fédération française des courtiers d'assurances et de réassurances, pour les salariés et les mandataires de courtiers
-d'assurances ou de sociétés de courtage d'assurances ;
-
-5° La fédération nationale des syndicats d'agents généraux d'assurances, pour les salariés et les mandataires d'agents
-généraux d'assurances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1966-02-24 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Modifié par**:
-
-	  - Arrêté 1981-02-16 art. 1 JORF 16 février 1981
-	  - Arrêté 1989-07-24 art. 1 JORF 5 août 1989
-	  - Arrêté 1992-03-31 art. 2 JORF 1er avril 1992
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2006 - art. 1, v. init.
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1 (M)
-	  - Code des assurances - art. R*514-3 (M)
-	  - Code rural 1235
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*514-3 (M)
-	  - TXT_ASSOCIE: Code des assurances - art. R513-4 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. R513-5 (Ab)
-	  - TXT_ASSOCIE: Code des assurances - art. R514-3 (V)
-
-
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.
-
-###### Article A516-1
-
-Sont seuls habilités à délivrer l'attestation de capacité mentionnée à l'article R. 516-1 les organismes professionnels
+Le renouvellement de l'immatriculation est effectué au 1er mars de chaque année. La demande de renouvellement est adressée
+par l'intermédiaire ou le mandant au moins un mois avant l'expiration de l'immatriculation. Elle est accompagnée des éléments
 suivants :
 
-La fédération française des courtiers d'assurances et de réassurances, pour les courtiers d'assurances, les associés ou tiers
-ayant le pouvoir de gérer ou d'administrer dans une société de courtage d'assurances ainsi que pour leurs salariés et
-mandataires ;
+1° Les noms, prénoms, ou la dénomination sociale et l'adresse du demandeur ;
 
-La fédération française des sociétés d'assurances, pour les agents généraux d'assurances ;
+2° Le cas échéant, l'attestation d'assurance de responsabilité civile prévue à l'article R. 512-14 ;
 
-La fédération nationale de syndicats d'agents généraux d'assurances, pour les salariés et mandataires des agents généraux
-d'assurances.
+3° Le cas échéant, l'attestation de garantie financière prévue à l'article R. 512-15 ;
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Créé par**:
-
-	  - Arrêté 1979-09-05 art. 1 JORF 4 octobre 1979
-
-	**Modifié par**:
-
-	  - Arrêté 1995-03-22 art. 1 JORF 30 mars 1995
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2006 - art. 1, v. init.
-
-	**Cite**:
-
-	  - Code des assurances R516-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R516-1
-
-
-###### Article A516-2
-
-L'attestation de capacité mentionnée à l'article R. 516-1 est conforme aux modèles annexés au présent article et enregistrés
-au C.E.R.F.A. sous les numéros 30-0976 pour courtier et agent général d'assurances et 30-0977 pour leurs salariés ou
-mandataires.
-
-(annexe non reproduite, voir au Journal officiel).
+4° Le règlement des frais d'inscription.
 
 **Liens relatifs à cet article**
 
@@ -260219,14 +260022,112 @@ mandataires.
 
 	**Créé par**:
 
-	  - Arrêté 1979-09-05 art. 1 JORF 4 octobre 1979
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2006 - art. 1, v. init.
+	  - Arrêté 2006-11-03 art. 1 JORF 7 novembre 2006
 
 	**Cite**:
 
-	  - Code des assurances R516-1
+	  - Code des assurances - art. R512-14 (V)
+	  - Code des assurances - art. R512-15 (V)
+
+
+###### Article A512-3
+
+Le registre des intermédiaires en assurance mentionné à l'article R. 512-6 du présent code comporte les informations
+suivantes :
+
+1° Le numéro d'immatriculation de l'intermédiaire ;
+
+2° Les nom et prénom, ou la dénomination sociale, et l'adresse de l'intermédiaire ainsi que, dans le cas d'une personne
+morale, les nom et prénom de la personne mentionnée au b du 2° de l'article A. 512-1 ;
+
+3° La ou les catégories auxquelles appartient l'intermédiaire en application de l'article R. 511-2 et s'il exerce l'activité
+d'intermédiation à titre principal ou à titre accessoire à une autre activité professionnelle. Dans ce dernier cas, le
+registre indique la nature de l'activité principale exercée ;
+
+4° Lorsque l'intermédiaire d'assurance n'est pas couvert par une garantie financière parce qu'il a déclaré ne pas encaisser
+de fonds, une mention indiquant qu'il n'est pas autorisé à encaisser des fonds ;
+
+5° Le cas échéant, les Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen dans lesquels l'intermédiaire a indiqué souhaiter exercer son activité en régime de libre prestation de services ou
+de liberté d'établissement ;
+
+6° Le nom de l'autorité compétente pour le contrôle de l'intermédiaire ;
+
+7° La liste des intermédiaires habilités à exercer en France en régime de libre prestation de services et en libre
+établissement. Cette liste indique les nom et prénom, ou la dénomination sociale, l'adresse ou le numéro d'immatriculation et
+l'autorité dont ces intermédiaires dépendent pour leur immatriculation, ainsi que l'adresse du ou des établissements en
+France pour les intermédiaires exerçant en régime de libre établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-11-03 art. 1 JORF 7 novembre 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. A512-1 (V)
+	  - Code des assurances - art. R*511-2 (M)
+	  - Code des assurances - art. R*512-6 (Ab)
+
+
+##### Section II : Autres conditions d'accès et d'exercice.
+
+###### Article A512-4
+
+Le contrat d'assurance de responsabilité civile professionnelle prévue au I de l'article R. 512-14 comporte des obligations
+qui ne peuvent être inférieures à celles définies ci-dessous : 
+
+1° Le niveau minimal de la garantie du contrat d'assurance est fixé à 1 500 000 euros par sinistre et 2 000 000 euros par
+année pour un même intermédiaire ; 
+
+2° Il peut fixer une franchise par sinistre qui ne doit pas excéder 20 % du montant des indemnités dues. Cette franchise
+n'est pas opposable aux victimes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-11-03 art. 1 JORF 7 novembre 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R512-14 (V)
+
+
+###### Article A512-5
+
+Le montant de la garantie financière mentionnée à l'article R. 512-15 doit être au moins égal à la somme de 115 000 euros et
+ne peut être inférieur au double du montant moyen mensuel des fonds encaissés par l'intermédiaire, calculé sur la base des
+fonds encaissés au cours des douze derniers mois précédant le mois de la date de souscription ou de reconduction de
+l'engagement de caution. 
+
+Pour son calcul, le montant de la garantie tient compte du total des fonds encaissés par l'intermédiaire et qui lui ont été
+confiés par les assurés en vue d'être versés à des entreprises d'assurance ou par toute personne physique ou morale en vue
+d'être versés aux assurés. De ce total seront déduits les versements pour lesquels l'intermédiaire a reçu d'une entreprise
+d'assurance un mandat écrit le chargeant expressément de l'encaissement des primes et accessoirement du règlement des
+sinistres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-11-03 art. 1 JORF 7 novembre 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. R512-15 (V)
 
 
