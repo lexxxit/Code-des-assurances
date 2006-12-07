@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-11-07
+Version Consolidée au 2006-12-08
 
 # Partie législative
 
@@ -24172,7 +24172,7 @@ et leurs dates de versement, ainsi que :
 
 L'adhérent peut détenir des droits au titre, d'une part, d'engagements relevant de l'article R. 142-12 et au titre, d'autre
 part d'engagements mentionnés à l'article R. 142-2 et ne relevant pas de l'article R. 142-12 : le compte individuel procède
-alors à des inscriptions séparées pour chacune des deux comptabilités auxiliaires d'affectation correspondantes.
+alors à des inscriptions séparées pour chacune des comptabilités auxiliaires d'affectation correspondantes.
 
 Le montant des droits individuels de chaque adhérent est la somme des provisions mathématiques et du produit des parts de
 provision de diversification de l'adhérent par la valeur de la part correspondante.
@@ -24227,11 +24227,15 @@ au d et ceux mentionnés au f.
 
 	**Codifié par**:
 
-	  - Décret n°76-667 1976-07-16
+	  - Décret n°76-667 du 16 juillet 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+	  - Décret n°2006-1542 2006-12-06 art. 3 5° JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1008 du 4 septembre 2014 - art. 2
 
 	**Cité par**:
 
@@ -24242,14 +24246,14 @@ au d et ceux mentionnés au f.
 
 	**Cite**:
 
-	  - Code des assurances - art. L141-4 (M)
-	  - Code des assurances - art. L142-2 (M)
-	  - Code des assurances - art. R*331-3 (M)
-	  - Code des assurances - art. R*331-5 (M)
-	  - Code des assurances - art. R131-1 (M)
-	  - Code des assurances - art. R142-12 (V)
-	  - Code des assurances - art. R142-2 (V)
-	  - Code des assurances - art. R142-9 (V)
+	  - Code des assurances - art. L141-4
+	  - Code des assurances - art. L142-2
+	  - Code des assurances - art. R*331-3
+	  - Code des assurances - art. R*331-5
+	  - Code des assurances - art. R131-1
+	  - Code des assurances - art. R142-12
+	  - Code des assurances - art. R142-2 (Ab)
+	  - Code des assurances - art. R142-9
 
 
 ##### Section II : Dispositions particulières applicables aux contrats ne prévoyant pas une garantie intégrale au terme
@@ -24389,7 +24393,7 @@ L'indice respecte les conditions suivantes :
 ###### Article R142-14
 
 Les engagements réglementés mentionnés à l'article R. 331-1 au titre de chaque contrat sont représentés par les actifs
-mentionnés aux l° à 5° de l'article R. 131-1.
+mentionnés aux 1° à 7° de l'article R. 131-1.
 
 La valeur au bilan d'affectation visé à l'article R. 342-1 des actifs ci-après mentionnés ne peut excéder 10 % au total :
 
@@ -24404,11 +24408,18 @@ lorsqu'ils ne bénéficient pas d'une procédure de reconnaissance mutuelle des 
 du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives
 concernant certains organismes de placement collectif en valeurs mobilières.
 
-De plus, la valeur au bilan d'affectation mentionnée à l'article R. 342-1 des parts ou actions mentionnées au 5° de l'article
-R. 131-1 ou au 9° bis de l'article R. 332-2 ne peut excéder 30 % au total.
+De plus, la valeur au bilan d'affectation mentionnée à l'article R. 342-1 des parts ou actions mentionnées au 5°, au 6° ou au
+7° de l'article R. 131-1 ou au 9° bis de l'article R. 332-2 ne peut excéder 30 % au total.
 
 L'article R. 342-2 s'applique sous réserve des dispositions du présent article. Par dérogation à cet article R. 342-2,
 l'article R. 332-3 ne s'applique pas à la comptabilité auxiliaire.
+
+**Nota:**
+
+Décret 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier.
 
 **Liens relatifs à cet article**
 
@@ -24416,9 +24427,9 @@ l'article R. 332-3 ne s'applique pas à la comptabilité auxiliaire.
 
 	  - Décret n°76-667 1976-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-921 du 26 juillet 2006 - art. 1 () JORF 27 juillet 2006
+	  - Décret n°2006-1542 2006-12-06 art. 3 6° JORF 8 décembre 2006
 
 	**Cite**:
 
