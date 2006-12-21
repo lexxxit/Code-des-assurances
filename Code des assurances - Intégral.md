@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-12-08
+Version Consolidée au 2006-12-22
 
 # Partie législative
 
@@ -1367,19 +1367,24 @@ La prescription est portée à dix ans dans les contrats d'assurance sur la vie 
 distincte du souscripteur et, dans les contrats d'assurance contre les accidents atteignant les personnes, lorsque les
 bénéficiaires sont les ayants droit de l'assuré décédé.
 
+Pour les contrats d'assurance sur la vie, nonobstant les dispositions du 2°, les actions du bénéficiaire sont prescrites au
+plus tard trente ans à compter du décès de l'assuré.
+
+**Nota:**
+
+Loi 2006-1640 2006-12-21 art. 18 V : Les dispositions du présent article s'appliquent aux contrats d'assurance sur la vie en
+cours comportant des valeurs de rachat ou de transfert et n'ayant fait l'objet, à compter du décès de l'assuré ou du terme du
+contrat, d'aucune demande de prestation à la date de publication de la présente loi.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 1976-07-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
 	**Modifié par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 15 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 18 (V) JORF 22 décembre 2006
 
 	**Cité par**:
 
