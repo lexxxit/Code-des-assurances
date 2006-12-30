@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-12-30
+Version Consolidée au 2006-12-31
 
 # Partie législative
 
@@ -5686,6 +5686,327 @@ réquisition, aura fait garantir d'autres risques par l'assureur.
 	  - Code des assurances - art. L160-7 (V)
 
 
+##### Section VI : Assurances sur la vie à capital variable immobilier.
+
+###### Article L160-10
+
+Les sociétés civiles à objet strictement immobilier, autres que les sociétés civiles de placement immobilier, dont les parts
+sont intégralement détenues, directement ou indirectement, par des entreprises d'assurance au 1er janvier 2007 et dont une
+partie ou la totalité desdites parts constituent à la même date des unités de compte de contrats d'assurance sur la vie ou de
+capitalisation peuvent adopter le régime des sociétés de placement à prépondérance immobilière à capital variable prévu à la
+sous-section 2 de la section 5 du chapitre IV du titre Ier du livre II du code monétaire et financier, dans les conditions
+prévues à la présente section ainsi qu'au I de l'article L. 214-91 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-91 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L160-11 (V)
+	  - Code des assurances - art. L160-12 (V)
+	  - Code des assurances - art. L160-13 (V)
+	  - Code des assurances - art. L160-14 (V)
+	  - Code des assurances - art. L160-15 (V)
+	  - Code des assurances - art. L160-18 (V)
+	  - Code des assurances - art. L160-19 (V)
+	  - Code des assurances - art. R*160-14 (Ab)
+
+
+###### Article L160-11
+
+Pour les contrats d'assurance sur la vie et de capitalisation dont une unité de compte est constituée de parts d'une société
+mentionnée à l'article L. 160-10 ou par une société civile de placement immobilier et sous réserve des articles L. 160-14 et
+L. 160-15, l'adoption par une telle société du régime des organismes de placement collectif immobilier, dans les conditions
+définies à la présente section, entraîne substitution de cette unité de compte par l'unité de compte exprimée en parts
+d'organisme de placement collectif immobilier issue de l'adoption du nouveau régime. Cette substitution s'opère sans qu'il
+soit fait application du cinquième alinéa de l'article L. 112-3. Il en va de même, le cas échéant, des adaptations des
+dispositions des contrats, notamment celles relatives à l'éventuelle clause d'affectation au contrat d'assurance des sommes
+distribuées par la société mentionnée à l'article L. 160-10, dans la stricte mesure nécessaire exigée par l'adoption par
+ladite société du régime des sociétés de placement à prépondérance immobilière à capital variable. De telles adaptations sont
+soumises à l'autorisation préalable de l'autorité mentionnée à l'article L. 310-12 qui dispose d'un délai de deux mois pour
+se prononcer. L'autorité vérifie également, préalablement à la substitution et dans les mêmes délais, le maintien, dans le
+document d'information établi par la nouvelle société mentionné à l'article L. 214-109 du code monétaire et financier, de
+l'orientation de gestion que retenait ladite société au regard des critères de destination et de localisation des actifs
+immobiliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 67 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-109 (V)
+	  - Code des assurances - art. L112-3 (M)
+	  - Code des assurances - art. L160-10 (Ab)
+	  - Code des assurances - art. L160-14 (Ab)
+	  - Code des assurances - art. L160-15 (Ab)
+	  - Code des assurances - art. L310-12 (M)
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L711-4 (V)
+	  - Code de la sécurité sociale. - art. L861-10 (V)
+	  - Code des assurances - art. L160-16 (V)
+	  - Code des assurances - art. L160-17 (V)
+	  - Code des assurances - art. R*160-14 (Ab)
+	  - Code rural - art. L725-7 (V)
+
+
+###### Article L160-12
+
+La société mentionnée à l'article L. 160-10 se prononce sur l'adoption du régime des sociétés de placement à prépondérance
+immobilière à capital variable dans les conditions fixées par les statuts de ladite société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 67 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Code des assurances - art. L160-10 (Ab)
+	  - Code des assurances - art. R*160-14 (Ab)
+
+
+###### Article L160-13
+
+L'entreprise d'assurance informe les souscripteurs de contrats d'assurance vie et de capitalisation ne relevant pas de
+l'article L. 141-1 et comportant des unités de compte constituées de parts d'une société mentionnée à l'article L. 160-10 de
+l'intention de cette société d'adopter le régime mentionné à ce même article. Chaque souscripteur dispose d'un délai de
+trente jours pour exprimer son opposition par écrit. La société ne peut adopter le régime mentionné à ce même article en cas
+d'opposition dans ce délai d'une majorité de souscripteurs dont une part ou la totalité des droits est exprimée en des parts
+de telles sociétés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 67 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L141-1 (V)
+	  - Code des assurances - art. L160-10 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L160-15 (V)
+	  - Code des assurances - art. R*160-14 (Ab)
+
+
+###### Article L160-14
+
+Pour les contrats mentionnés à l'article L. 141-1 dont une unité de compte est constituée de parts d'une société mentionnée à
+l'article L. 160-10, l'entreprise d'assurance informe le ou les souscripteurs et les adhérents de l'intention de cette
+société d'adopter le régime mentionné à ce même article. Le ou les souscripteurs disposent d'un délai de trente jours pour
+exprimer leur opposition par écrit. La société ne peut adopter le régime mentionné à ce même article en cas d'opposition dans
+ce délai d'un ou de souscripteurs représentant une majorité des adhérents dont une part ou la totalité des droits est
+exprimée en des parts de telles sociétés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 67 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L141-1 (V)
+	  - Code des assurances - art. L160-10 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L160-11 (V)
+	  - Code des assurances - art. R*160-14 (Ab)
+
+
+###### Article L160-15
+
+La date prévue d'entrée en vigueur du régime des sociétés de placement à prépondérance immobilière à capital variable relatif
+à la société mentionnée à l'article L. 160-10 est postérieure d'au moins deux mois à l'expiration du délai de trente jours
+mentionné aux articles L. 160-13 et L. 160-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 67 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L160-10 (V)
+	  - Code des assurances - art. L160-13 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L160-11 (V)
+	  - Code des assurances - art. R*160-14 (Ab)
+	  - Code des assurances - art. R*160-16 (Ab)
+
+
+###### Article L160-16
+
+L'entreprise d'assurance communique aux souscripteurs et aux adhérents les caractéristiques principales de l'unité de compte
+résultant de la substitution mentionnée à l'article L. 160-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 67 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L160-11 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*160-14 (Ab)
+
+
+###### Article L160-17
+
+Pour les contrats d'assurance sur la vie ou de capitalisation, lorsque le souscripteur ou l'adhérent exerce sa faculté de
+rachat moins de deux mois après la substitution mentionnée à l'article L. 160-11, il ne peut lui être appliqué l'indemnité
+mentionnée au deuxième alinéa de l'article L. 331-2, nonobstant toute convention contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 67 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L160-11 (Ab)
+	  - Code des assurances - art. L331-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des assurances - art. L433-1 (Ab)
+	  - TXT_ASSOCIE: Code des assurances - art. L433-2 (Ab)
+	  - TXT_ASSOCIE: Code des assurances - art. L433-3 (Ab)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R*160-14 (Ab)
+
+
+###### Article L160-18
+
+Lorsqu'une société mentionnée à l'article L. 160-10 ou une société civile de placement immobilier adopte le régime des
+sociétés de placement à prépondérance immobilière à capital variable dans les conditions définies à la présente section,
+cette opération n'entraîne aucun frais direct ou indirect pour les souscripteurs ou adhérents de contrats d'assurance vie et
+de capitalisation dont une unité de compte est constituée de parts d'une telle société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 67 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code des assurances - art. L160-10 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L160-15 (Ab)
+	  - Code des assurances - art. R*160-13 (Ab)
+	  - Code des assurances - art. R*160-14 (Ab)
+
+
+###### Article L160-19
+
+Le présent article s'applique aux organismes de placement collectif qui ont été créés conformément à l'article L. 160-10 du
+présent code ou à l'article L. 214-84-2 du code monétaire et financier, et dont les parts ou actions constituent une unité de
+compte d'un contrat d'assurance sur la vie.
+
+Il ne peut être versé de rétrocession de commission par le dépositaire mentionné à l'article L. 214-117 du code monétaire et
+financier ou par la société mentionnée à l'article L. 214-119 du même code au bénéfice de l'entreprise d'assurance proposant
+ledit contrat ou d'une entreprise appartenant au même groupe au sens du 7° de l'article L. 334-2 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 67 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-117 (V)
+	  - Code monétaire et financier - art. L214-119 (MMN)
+	  - Code monétaire et financier - art. L214-84-2 (V)
+	  - Code des assurances - art. L160-10 (Ab)
+	  - Code des assurances - art. L334-2 (M)
+
+
+###### Article L160-20
+
+Un arrêté du ministre en charge de l'économie précise en tant que de besoin les conditions d'application de la présente
+section ainsi que les règles techniques applicables aux contrats d'assurance sur la vie à capital variable immobilier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006
+
+
 ### Titre VII : Le contrat d'assurance maritime et d'assurance fluviale et lacustre
 
 #### Chapitre Ier : Dispositions générales.
@@ -9930,6 +10251,34 @@ s'appliquent qu'aux marchés, contrats ou conventions conclus après la publicat
 	**Cite**:
 
 	  - Code des assurances - art. L310-7 (V)
+
+
+###### Article L243-9
+
+Les contrats d'assurance souscrits par les personnes assujetties à l'obligation d'assurance de responsabilité en vertu du
+présent titre peuvent, pour des travaux de construction destinés à un usage autre que l'habitation, comporter des plafonds de
+garantie.
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles les montants de garantie peuvent être plafonnés, en fonction
+notamment du montant des ouvrages, de leur nature ou de leur destination, de la qualité du maître d'ouvrage et du
+constructeur et, le cas échéant, du niveau de la couverture d'assurance des différents intervenants à une même construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 145 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-1466 du 22 décembre 2008 (V)
+	  - Code des assurances - art. Annexe I art A243-1 (V)
+	  - Code des assurances - art. Annexe III art A243-1 (V)
+	  - Code des assurances - art. R243-3 (V)
 
 
 ### Titre V : L'assurance de responsabilité civile médicale
@@ -20693,6 +21042,81 @@ l'accord conclu entre les organismes d'indemnisation créés ou agréés par les
 	**Cite**:
 
 	  - Code des assurances - art. L424-2 (V)
+
+
+#### Chapitre V : Fonds de garantie des risques liés à l'épandage agricole des boues d'épuration urbaines ou industrielles
+
+###### Article L425-1
+
+I. - Un fonds de garantie des risques liés à l'épandage agricole des boues d'épuration urbaines ou industrielles est chargé
+d'indemniser les préjudices subis par les exploitants agricoles et les propriétaires des terres agricoles et forestières dans
+les cas où ces terres, ayant reçu des épandages de boues d'épuration urbaines ou industrielles, deviendraient totalement ou
+partiellement impropres à la culture en raison de la réalisation d'un risque sanitaire ou de la survenance d'un dommage
+écologique lié à l'épandage, dès lors que, du fait de l'état des connaissances scientifiques et techniques, ce risque ou ce
+dommage ne pouvait être connu au moment de l'épandage et dans la mesure où ce risque ou ce dommage n'est pas assurable par
+les contrats d'assurance de responsabilité civile du maître d'ouvrage des systèmes de traitement collectif des eaux usées
+domestiques ou, le cas échéant, de son ou ses délégataires, de l'entreprise de vidange, ou du maître d'ouvrage des systèmes
+de traitement des eaux usées industrielles, ci-après désignés par l'expression : "producteurs de boues", ou par les contrats
+d'assurance relatifs à la production et à l'élimination des boues.
+
+La liste des branches industrielles visées par le présent article est définie par décret en Conseil d'Etat.
+
+Le fonds assure l'indemnisation des dommages constatés dans la limite d'un montant maximum, sous réserve que l'épandage ait
+été effectué dans des conditions conformes à la réglementation en vigueur.
+
+Le montant de l'indemnisation est fonction du préjudice subi et ne peut excéder, pour le propriétaire des terres, la valeur
+de celles-ci.
+
+La gestion comptable et financière du fonds est assurée par la caisse centrale de réassurance dans un compte distinct de ceux
+retraçant les autres opérations qu'elle effectue. Les frais qu'elle expose pour cette gestion sont imputés sur le fonds.
+
+La caisse est informée de tous les litiges liés à l'épandage agricole des boues d'épuration pris directement en charge par
+les assurances.
+
+II. - Le fonds mentionné au I est financé par une taxe annuelle due par les producteurs de boues et dont l'assiette est la
+quantité de matière sèche de boue produite. En outre, le fonds peut recevoir des avances de l'Etat dans la mesure où les
+dommages survenus excèdent momentanément la capacité d'indemnisation de ce dernier.
+
+Le montant de la taxe est fixé par décret en Conseil d'Etat dans la limite d'un plafond de 0,5 euros par tonne de matière
+sèche de boue produite.
+
+Les redevables procèdent à la liquidation de la taxe due au titre de l'année précédente lors du dépôt de leur déclaration de
+taxe sur la valeur ajoutée du mois de mars ou du premier trimestre de l'année civile.
+
+La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges
+que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à
+cette même taxe.
+
+III. - Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment le montant maximal que
+peuvent atteindre les ressources du fonds.
+
+**Nota:**
+
+Dans sa décision n° 2012-251 QPC du 8 juin 2012 (NOR : CSCX1225514S), le Conseil constitutionnel a déclaré, sous la réserve
+énoncée au considérant 6, l'article L. 425-1 du code des assurances conforme à la Constitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 45 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 4 septembre 2009 (V)
+	  - Arrêté du 4 septembre 2009 - art. 1 (V)
+	  - Code des assurances - art. R424-1 (V)
+	  - Code des assurances - art. R424-12 (VD)
+	  - Code des assurances - art. R424-13 (V)
+	  - Code des assurances - art. R424-2 (V)
+	  - Code des assurances - art. R424-3 (V)
+	  - Code des assurances - art. R424-4 (V)
+	  - Code général des impôts, CGI. - art. 1647 (M)
+	  - Code général des impôts, CGI. - art. 302 bis ZF (Ab)
 
 
 ### Titre III : Organismes particuliers d'assurance
