@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-01
 
 # Partie législative
 
@@ -53351,6 +53351,35 @@ faite suivant le modèle de lettre inclus dans la notice ou le bulletin d'adhés
 	  - Code des assurances - art. L132-5-3 (V)
 
 
+###### Article A132-4-3
+
+Pour les contrats d'assurance sur la vie ou de capitalisation, lorsque le souscripteur ou adhérent procède à la conversion de
+droits individuels en des droits exprimés en unités de compte qui n'avaient pas été sélectionnées lors de la souscription
+dudit contrat ou de l'adhésion à celui-ci et dont l'indication des caractéristiques principales n'avaient pas été effectuées
+lors de cette même souscription ou adhésion, lesdites caractéristiques principales sont indiquées lors de la conversion soit
+dans l'avenant, soit par remise du prospectus mentionné à l'article A. 132-6. En cas de non-remise dudit prospectus,
+l'adhérent ou souscripteur est informé de ses modalités d'obtention, ainsi que, le cas échéant, de l'adresse électronique où
+se procurer le document.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1976-07-16
+
+	**Créé par**:
+
+	  - Arrêté 2006-08-01 art. 1 3° JORF 26 août 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Arrêté du 3 octobre 2011 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. A132-6 (T)
+
+
 ###### Article A132-5
 
 Pour les contrats mentionnés au deuxième alinéa de l'article L. 131-1, il est indiqué que l'entreprise d'assurance ne
@@ -57618,13 +57647,16 @@ exercices suivant celui au titre duquel elles ont été portées à la provision
 	  - Code des assurances - art. R331-3 (V)
 
 
-##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.
-
 ###### Article A331-9-1
 
 Lorsqu'une catégorie de contrats est assortie d'une clause de participation aux résultats, la participation affectée
-individuellement à chaque contrat réduit ou suspendu ne peut être inférieure de plus de 25 p. 100 à celle qui serait affectée
-à un contrat en cours de paiement de primes de la même catégorie ayant la même provision mathématique.
+individuellement à chaque contrat réduit ou suspendu ne peut être inférieure à celle qui serait affectée à un contrat en
+cours de paiement de primes de la même catégorie ayant la même provision mathématique. 
+
+Pour les contrats mentionnés au 1° de l'article L. 143-1, qu'ils aient ou non été souscrits dans le cadre de l'agrément
+mentionné au même article, la participation affectée individuellement à chaque adhérent ayant quitté l'entreprise
+d'affiliation ne peut être inférieure à celle qui serait affectée à un adhérent dont l'adhésion demeure obligatoire et ayant
+la même provision mathématique.
 
 **Liens relatifs à cet article**
 
@@ -57632,14 +57664,21 @@ individuellement à chaque contrat réduit ou suspendu ne peut être inférieure
 
 	  - Arrêté 1976-07-16
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Arrêté 1994-08-08 art. 10 VIII JORF 23 août 1994
+	  - Arrêté 2006-08-01 art. 1 JORF 26 août 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Arrêté du 28 décembre 2015 - art. 2
 
 	**Anciens textes**:
 
-	  - Code des assurances - art. A132-11 (Ab)
 	  - Code des assurances - art. A132-11 (T)
+
+	**Cite**:
+
+	  - Code des assurances - art. L143-1 (V)
 
 
 ##### Section III : Provisions techniques des autres opérations d'assurance
