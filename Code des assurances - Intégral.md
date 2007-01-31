@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-02-01
 
 # Partie législative
 
@@ -4544,44 +4544,61 @@ garantie, même si ceux-ci leur sont transmis par la personne concernée ou avec
 aucune question relative aux tests génétiques et à leurs résultats, ni demander à une personne de se soumettre à des tests
 génétiques avant que ne soit conclu le contrat et pendant toute la durée de celui-ci ". 
 
-" Art.L. 1141-2-Une convention relative à l'assurance des personnes exposées à un risque aggravé du fait de leur état de
-santé ou d'un handicap détermine les modalités particulières d'accès à l'assurance contre les risques d'invalidité ou de
-décès en faveur de ces personnes qui ne peuvent trouver dans le cadre des pratiques habituelles de l'assurance de garantie
-des prêts à la consommation, immobiliers ou à caractère professionnel. 
+" Art.L. 1141-2-Une convention nationale relative à l'accès au crédit des personnes présentant, du fait de leur état de santé
+ou de leur handicap, un risque aggravé est conclue entre l'Etat, les organisations professionnelles représentant les
+établissements de crédit, les entreprises d'assurance, les mutuelles et les institutions de prévoyance ainsi que des
+organisations nationales représentant les malades et les usagers du système de santé agréées en vertu de l'article L. 1114-1
+ou représentant les personnes handicapées. Cette convention a pour objet :
 
-Toute personne présentant, du fait de son état de santé ou de son handicap, un risque aggravé peut se prévaloir des
-dispositions de la convention. 
+- de faciliter l'assurance des prêts demandés par les personnes présentant un risque aggravé en raison de leur état de santé
+ou d'un handicap ;
 
-Pour celles de ses dispositions qui prévoient les conditions de collecte et d'utilisation, ainsi que les garanties de
-confidentialité des données à caractère personnel de nature médicale, à l'occasion de la souscription des prêts mentionnés au
-premier alinéa, la convention fait l'objet, préalablement à sa conclusion, d'une consultation de la Commission nationale de
-l'informatique et des libertés, qui donne un avis sur sa conformité à la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés.
+- d'assurer la prise en compte complète par les établissements de crédit des garanties alternatives à l'assurance ;
 
-A défaut d'accord, ou en cas de dénonciation compromettant la mise en oeuvre ou la pérennité du dispositif conventionnel, les
-conditions de collecte et d'utilisation ainsi que les garanties de confidentialité des données à caractère personnel de
-nature médicale sont définies par décret en Conseil d'Etat, après avis de la Commission nationale de l'informatique et des
-libertés ". 
+- de définir des modalités particulières d'information des demandeurs, d'instruction de leur dossier et de médiation. 
 
-" Art.L. 1141-3-La convention est conclue entre l'Etat, des associations représentant les personnes malades ou handicapées,
-les organismes représentant les entreprises régies par le code des assurances, les établissements de crédit, les mutuelles
-régies par le code de la mutualité et les institutions régies par les dispositions du titre III du livre IX du code de la
-sécurité sociale. 
+Toute personne présentant, du fait de son état de santé ou de son handicap, un risque aggravé bénéficie de plein droit de
+cette convention ". 
 
-Un comité de suivi veille à l'application du dispositif conventionnel. Il comprend des représentants des signataires, ainsi
-que des personnes choisies en raison de leurs compétences. Le comité est présidé par une personne qualifiée, nommée par les
-ministres chargés de l'économie et de la santé ".
+" Art.L. 1141-3-La convention prévue à l'article L. 1141-2 est conclue pour une durée de trois ans. 
+
+La convention et ses avenants sont publiés au Journal officiel. 
+
+Pour celles de ses dispositions qui prévoient les conditions de collecte et d'utilisation ainsi que les garanties de
+confidentialité des données à caractère personnel de nature médicale, la convention fait l'objet, préalablement à sa
+conclusion, d'une consultation de la Commission nationale de l'informatique et des libertés, qui donne un avis sur sa
+conformité à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+A défaut d'accord, ou en cas de dénonciation, compromettant la mise en oeuvre ou la pérennité du dispositif conventionnel,
+les conditions de collecte et d'utilisation et les garanties de confidentialité des données à caractère personnel de nature
+médicale sont fixées dans les six mois par décret en Conseil d'Etat, après avis de la Commission nationale de l'informatique
+et des libertés. 
+
+Au cas où la convention ne serait pas signée par l'une des organisations professionnelles mentionnées à l'article L. 1141-2,
+un décret peut, après consultation des signataires de la convention et de l'organisation professionnelle non signataire,
+étendre son application aux entreprises et organismes représentés par l'organisation non signataire.
+
+A défaut de prorogation ou de renouvellement de la convention ou en cas de dénonciation de la convention, les dispositions
+énumérées à l'article L. 1141-2-1 sont fixées dans les six mois par décret en Conseil d'Etat. Ce décret prend effet à la date
+d'expiration de la convention ".
+
+.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 91
+	  - Loi n°2007-131 du 31 janvier 2007 - art. 1
+	  - Loi n°2007-131 du 31 janvier 2007 - art. 5 (V)
 
 	**Cité par**:
 
 	  - Décret n°2017-147 du 7 février 2017 - art. 1
 	  - Code de la santé publique - art. R1141-1 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1141-1 (V)
 
 
 ### Titre IV : Les assurances de groupe
@@ -10398,6 +10415,40 @@ dispositions des quatrième et cinquième alinéas de l'article L. 121-4.
 
 	  - Code de la santé publique - art. L1142-2 (V)
 	  - Code des assurances - art. L121-4 (V)
+
+
+###### Article L251-3
+
+Pour les contrats souscrits par une personne assujettie à l'obligation d'assurance en vertu du présent titre, et sans
+préjudice des possibilités de résiliation mentionnées aux articles L. 113-3, L. 113-4, L. 113-6 et L. 113-9, en cas de
+résiliation ou de dénonciation de la tacite reconduction à l'initiative de l'assureur, dans les conditions prévues par la
+police, le délai de prise d'effet à compter de la notification à l'assuré ne peut pas être inférieur à trois mois. 
+
+L'assuré est tenu au paiement de la partie de prime correspondant à la période pendant laquelle le risque a couru, période
+calculée jusqu'à la date d'effet de la résiliation. Le cas échéant, l'assureur doit rembourser à l'assuré, dans un délai de
+trente jours à compter de la date d'effet de la résiliation, la partie de prime correspondant à la période pendant laquelle
+le risque n'a pas couru, période calculée à compter de ladite date d'effet. A défaut de remboursement dans ces conditions,
+les sommes dues sont productives d'intérêts au taux légal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 1976-07-16
+
+	**Créé par**:
+
+	  - Loi n°2007-127 du 30 janvier 2007 - art. 22 () JORF 1er février 2007
+
+	**Cité par**:
+
+	  - Loi n°2014-201 du 24 février 2014 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L113-3 (V)
+	  - Code des assurances - art. L113-6 (V)
+	  - Code des assurances - art. L113-9 (V)
 
 
 #### Chapitre II : L'obligation d'assurer. Le bureau central de tarification.
