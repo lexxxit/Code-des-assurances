@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2007-02-01
+Version Consolidée au 2007-02-21
 
 # Partie législative
 
@@ -2819,17 +2819,10 @@ correspondante.
 	  - Code des assurances - art. R127-1 (V)
 
 
-###### Article L127-3
+###### Article L127-2-1
 
-Tout contrat d'assurance de protection juridique stipule explicitement que, lorsqu'il est fait appel à un avocat ou à toute
-autre personne qualifiée par la législation ou la réglementation en vigueur pour défendre, représenter ou servir les intérêts
-de l'assuré, dans les circonstances prévues à l'article L. 127-1, l'assuré a la liberté de le choisir.
-
-Le contrat stipule également que l'assuré a la liberté de choisir un avocat ou, s'il le préfère, une personne qualifiée pour
-l'assister, chaque fois que survient un conflit d'intérêt entre lui-même et l'assureur.
-
-Aucune clause du contrat ne doit porter atteinte, dans les limites de la garantie, au libre choix ouvert à l'assuré par les
-deux alinéas précédents.
+Est considéré comme sinistre, au sens du présent chapitre, le refus qui est opposé à une réclamation dont l'assuré est
+l'auteur ou le destinataire.
 
 **Liens relatifs à cet article**
 
@@ -2837,13 +2830,69 @@ deux alinéas précédents.
 
 	  - Décret n°88-260 1988-03-18
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+	  - Loi n°2007-210 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+
+###### Article L127-2-2
+
+Les consultations ou les actes de procédure réalisés avant la déclaration du sinistre ne peuvent justifier la déchéance de la
+garantie. Toute clause contraire est réputée non écrite.
+
+Cependant, ces consultations et ces actes ne sont pas pris en charge par l'assureur, sauf si l'assuré peut justifier d'une
+urgence à les avoir demandés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
 
 	**Créé par**:
 
-	  - Loi n°89-1014 du 31 décembre 1989 - art. 5 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+	  - Loi n°2007-210 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+
+###### Article L127-2-3
+
+L'assuré doit être assisté ou représenté par un avocat lorsque son assureur ou lui-même est informé de ce que la partie
+adverse est défendue dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°2007-210 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+
+###### Article L127-3
+
+Tout contrat d'assurance de protection juridique stipule explicitement que, lorsqu'il est fait appel à un avocat ou à toute
+autre personne qualifiée par la législation ou la réglementation en vigueur pour défendre, représenter ou servir les intérêts
+de l'assuré, dans les circonstances prévues à l'article L. 127-1, l'assuré a la liberté de le choisir. 
+
+Le contrat stipule également que l'assuré a la liberté de choisir un avocat ou, s'il le préfère, une personne qualifiée pour
+l'assister, chaque fois que survient un conflit d'intérêt entre lui-même et l'assureur. 
+
+Aucune clause du contrat ne doit porter atteinte, dans les limites de la garantie, au libre choix ouvert à l'assuré par les
+deux alinéas précédents. 
+
+L'assureur ne peut proposer le nom d'un avocat à l'assuré sans demande écrite de sa part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Modifié par**:
+
+	  - Loi n°2007-210 du 19 février 2007 - art. 2 () JORF 21 février 2007
 
 	**Cite**:
 
@@ -2916,6 +2965,22 @@ mentionnée à l'article L. 127-4.
 	  - Code des assurances - art. L127-4 (V)
 
 
+###### Article L127-5-1
+
+Les honoraires de l'avocat sont déterminés entre ce dernier et son client, sans pouvoir faire l'objet d'un accord avec
+l'assureur de protection juridique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°2007-210 du 19 février 2007 - art. 3 () JORF 21 février 2007
+
+
 ###### Article L127-6
 
 Les dispositions du présent chapitre ne s'appliquent pas :
@@ -2968,6 +3033,23 @@ fixées par l'article 226-13 du code pénal.
 	**Cite**:
 
 	  - Code pénal - art. 226-13 (V)
+
+
+###### Article L127-8
+
+Le contrat d'assurance de protection juridique stipule que toute somme obtenue en remboursement des frais et des honoraires
+exposés pour le règlement du litige bénéficie par priorité à l'assuré pour les dépenses restées à sa charge et,
+subsidiairement, à l'assureur, dans la limite des sommes qu'il a engagées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-260 1988-03-18
+
+	**Créé par**:
+
+	  - Loi n°2007-210 du 19 février 2007 - art. 4 () JORF 21 février 2007
 
 
 #### Chapitre VIII : L'assurance des risques de catastrophes technologiques
