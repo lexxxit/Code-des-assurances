@@ -4,13 +4,13 @@
 
 **Représentation des engagements privilégiés **
 
-Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 établissent, selon le modèle fixé ci-après, un état retraçant
-la représentation de leurs engagements privilégiés. 
+Les entreprises visées établissent, selon le modèle fixé ci-après, un état retraçant la représentation de leurs engagements
+privilégiés. 
 
 <table>
   <tbody>
     <tr>
-      <td width="125" rowspan="3" valign="top">
+      <td valign="top" width="125" rowspan="3">
       </td><td width="420" colspan="5">
 
 PROVISIONS TECHNIQUES 
@@ -28,7 +28,7 @@ TOTAL
 </td>
     </tr>
     <tr>
-      <td colspan="4" width="336">
+      <td width="336" colspan="4">
 
 Union européenne 
 
@@ -988,7 +988,8 @@ XXX
     <tr>
       <td width="125">
 
-Créances sur les réassureurs mentionnées à l'article R. 332-7
+Créances sur les réassureurs ayant leur siège social dans un Etat non partie à l'accord sur l'EEE mentionnées à l'article R.
+332-7
 
 </td>
       <td width="108">
@@ -1576,7 +1577,7 @@ Intérêts courus des placements mentionnés à l'article R. 332-2
     <tr>
       <td width="125">
 
-Créances garantie sur les réassureurs mentionnées à l'article R. 332-3-3
+Créances admises sur les réassureurs et véhicules de titrisation
 
 </td>
       <td width="108">
@@ -1610,6 +1611,44 @@ Créances garantie sur les réassureurs mentionnées à l'article R. 332-3-3
 
 </td>
       <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td>Autres actifs représentatifs des engagements réglementés des entreprises de réassurance</td>
+      <td>
+
+-
+
+</td>
+      <td>
+
+-
+
+</td>
+      <td>
+
+-
+
+</td>
+      <td>
+
+-
+
+</td>
+      <td>
+
+-
+
+</td>
+      <td>
+
+-
+
+</td>
+      <td>
 
 -
 
@@ -1663,7 +1702,7 @@ Total des placements et actifs assimilés
 (1) Opérations de la branche 25 de l'article R. 321-1. Les placements correspondants ne figurent au présent état que s'ils
 appartiennent à l'entreprise. 
 
-(2) Le détail de la rubrique divers » est annexé au présent état. 
+(2) Le détail de la rubrique divers est annexé au présent état. 
 
 (3) Sont notamment incluses parmi ces placements les valeurs remises par les organismes réassurés avec caution solidaire ou
 substitution.
@@ -1677,24 +1716,24 @@ substitution.
 
 	**Modifié par**:
 
-	  - Arrêté du 10 juin 2005 (V) annexe
+	  - Arrêté du 7 novembre 2008 - art. 9
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-2 (V)
-	  - Code des assurances - art. L441-1 (V)
-	  - Code des assurances - art. R*321-1 (V)
-	  - Code des assurances - art. R332-10 (V)
-	  - Code des assurances - art. R332-2 (V)
-	  - Code des assurances - art. R332-3 (V)
-	  - Code des assurances - art. R332-3-3 (V)
-	  - Code des assurances - art. R332-3-4 (V)
-	  - Code des assurances - art. R332-33 (V)
-	  - Code des assurances - art. R332-35 (V)
-	  - Code des assurances - art. R332-4 (V)
-	  - Code des assurances - art. R332-5 (V)
-	  - Code des assurances - art. R332-6 (V)
-	  - Code des assurances - art. R332-7 (V)
-	  - Code des assurances - art. R332-7-1 (V)
-	  - Code des assurances - art. R332-8 (V)
-	  - Code des assurances - art. R332-9 (V)
+	  - Code des assurances - art. L310-2
+	  - Code des assurances - art. L441-1
+	  - Code des assurances - art. R*321-1
+	  - Code des assurances - art. R*332-10
+	  - Code des assurances - art. R*332-33
+	  - Code des assurances - art. R*332-4
+	  - Code des assurances - art. R*332-5
+	  - Code des assurances - art. R*332-6
+	  - Code des assurances - art. R*332-7
+	  - Code des assurances - art. R*332-8
+	  - Code des assurances - art. R*332-9
+	  - Code des assurances - art. R332-2
+	  - Code des assurances - art. R332-3
+	  - Code des assurances - art. R332-3-3
+	  - Code des assurances - art. R332-3-4
+	  - Code des assurances - art. R332-35
+	  - Code des assurances - art. R332-7-1

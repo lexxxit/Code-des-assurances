@@ -4,11 +4,11 @@
 
 **Sinistres par année de survenance **
 
-Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L. 310-1 et les entreprises visées à l'article
-L. 310-1. 1 pratiquant des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le modèle fixé ci-
-après, un état de leurs sinistres, par année de survenance, pour chacune des catégories ou regroupements de catégories de
-contrats ou de garanties suivants, les contrats pluriannuels à prime unique ou non révisable et les affaires assimilées en
-application de l'article A. 344-10 étant exclus : 
+Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L. 310-1 et les entreprises visées à au 1° du
+III de l'article L. 310-1-1 pratiquant des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le
+modèle fixé ci-après, un état de leurs sinistres, par année de survenance, pour chacune des catégories ou regroupements de
+catégories de contrats ou de garanties suivants, les contrats pluriannuels à prime unique ou non révisable et les affaires
+assimilées en application de l'article A. 344-10 étant exclus : 
 
 a) Affaires directes souscrites en France :
 
@@ -289,7 +289,7 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td colspan="8" width="614">
+      <td width="614" colspan="8">
 
 (1) 1-2 + 3 de l'année précédente. 
 
@@ -923,7 +923,7 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td valign="top" width="614" colspan="8">
+      <td width="614" colspan="8" valign="top">
 
 (a) Pour les catégories 20 à 31, année de survenance du sinistre. Pour les catégorie 35 et 36, année de manifestation du
 sinistre. Les provisions portées aux tableaux B ou D, ainsi que les prévisions de recours portées au tableau C, ne
@@ -936,9 +936,14 @@ comprennent pas la partie constituée en application du 2° de l'article R. 331-
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté du 7 novembre 2008 - art. 9
+
 	**Cite**:
 
-	  - Code des assurances - art. A344-10 (V)
-	  - Code des assurances - art. A344-2 (V)
-	  - Code des assurances - art. L310-1 (V)
-	  - Code des assurances - art. R331-17 (V)
+	  - Code des assurances - art. A344-10
+	  - Code des assurances - art. A344-2
+	  - Code des assurances - art. L310-1
+	  - Code des assurances - art. L310-1-1
+	  - Code des assurances - art. R*331-17

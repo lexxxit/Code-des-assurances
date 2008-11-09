@@ -4,10 +4,10 @@
 
 **Sinistres et résultats par année de souscription **
 
-Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L. 310-1 et les entreprises visées à l'article
-L. 310-1-1 pratiquant des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le modèle fixé ci-
-après, un état de leurs primes, sinistres et résultats, par année de souscription des contrats, pour chacune des catégories,
-sous-catégories ou regroupements de catégories de contrats suivants : 
+Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L. 310-1 et les entreprises visées au 1° du III
+de l'article L. 310-1-1 pratiquant des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le
+modèle fixé ci-après, un état de leurs primes, sinistres et résultats, par année de souscription des contrats, pour chacune
+des catégories, sous-catégories ou regroupements de catégories de contrats suivants : 
 
 a) Affaires directes souscrites en France :
 
@@ -100,27 +100,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -128,27 +114,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -156,27 +128,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -184,27 +142,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -212,27 +156,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -240,27 +170,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -268,27 +184,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -296,27 +198,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -324,27 +212,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -352,27 +226,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -380,27 +240,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -408,27 +254,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -436,27 +268,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -464,27 +282,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -492,27 +296,13 @@ N-12 ET ANT.
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -562,27 +352,13 @@ TOTAL
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -590,27 +366,13 @@ TOTAL
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -618,27 +380,13 @@ TOTAL
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -646,27 +394,13 @@ TOTAL
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -674,27 +408,13 @@ TOTAL
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -702,27 +422,13 @@ TOTAL
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="57">
-
-</td>
-    </tr>
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
+      </td><td width="57">
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -730,27 +436,15 @@ TOTAL
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
 
 </td>
       <td width="57">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -758,27 +452,15 @@ TOTAL
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
 
 </td>
       <td width="57">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -786,29 +468,17 @@ TOTAL
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
 
 XXXXX 
 
 </td>
       <td width="57">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -816,29 +486,17 @@ XXXXX
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
 
 XXXXX 
 
 </td>
       <td width="57">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -846,29 +504,17 @@ XXXXX
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
 
 XXXXX 
 
 </td>
       <td width="57">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -876,29 +522,17 @@ XXXXX
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
 
 XXXXX 
 
 </td>
       <td width="57">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -906,29 +540,17 @@ XXXXX
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
 
 XXXXX 
 
 </td>
       <td width="57">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -936,27 +558,15 @@ XXXXX
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
 
 </td>
       <td width="57">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="209">
 
@@ -964,29 +574,17 @@ XXXXX
 
 </td>
       <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="54">
-
-</td>
-      <td width="54">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="54">
+      </td><td width="54">
 
 </td>
       <td width="57">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td width="614" colspan="8">
+      <td colspan="8" width="614">
 
 (1) Hors assurance construction, les entreprises peuvent ne remplir que les lignes 21 à 35. La colonne N-5 est alors
 remplacée par une colonne N-5 et antérieurs. 
@@ -1054,77 +652,47 @@ EX. INV.
 1. Cumul des paiements, nets de recours, au cours des exercices antérieurs (1) 
 
 </td>
-      <td valign="top" width="48">
-
-</td>
-      <td width="60" valign="top">
-
-</td>
-      <td valign="top" width="60">
-
-</td>
-      <td width="60" valign="top">
-
-</td>
-      <td width="60">
+      <td width="48" valign="top">
+      </td><td width="60" valign="top">
+      </td><td width="60" valign="top">
+      </td><td width="60" valign="top">
+      </td><td width="60">
 
 XXXXX 
 
 </td>
       <td valign="top" width="69">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="257">
 
 2. Paiements, nets de recours, au cours de l'exercice inventorié (1) 
 
 </td>
-      <td width="48" valign="top">
-
-</td>
-      <td width="60" valign="top">
-
-</td>
-      <td valign="top" width="60">
-
-</td>
-      <td valign="top" width="60">
-
-</td>
-      <td width="60">
+      <td valign="top" width="48">
+      </td><td width="60" valign="top">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+      </td><td width="60">
 
 </td>
       <td valign="top" width="69">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="257">
 
 3. Provisions pour prestations à la fin de l'exercice inventorié (1) (2) 
 
 </td>
-      <td valign="top" width="48">
-
-</td>
-      <td valign="top" width="60">
-
-</td>
-      <td valign="top" width="60">
-
-</td>
-      <td width="60" valign="top">
-
-</td>
-      <td width="60">
+      <td width="48" valign="top">
+      </td><td valign="top" width="60">
+      </td><td width="60" valign="top">
+      </td><td valign="top" width="60">
+      </td><td width="60">
 
 </td>
       <td valign="top" width="69">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="257">
 
@@ -1132,74 +700,44 @@ XXXXX
 
 </td>
       <td width="48" valign="top">
+      </td><td width="60" valign="top">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+      </td><td width="60">
 
 </td>
-      <td valign="top" width="60">
-
-</td>
-      <td valign="top" width="60">
-
-</td>
-      <td width="60" valign="top">
-
-</td>
-      <td width="60">
-
-</td>
-      <td valign="top" width="69">
-
-</td>
-    </tr>
+      <td width="69" valign="top">
+    </td></tr>
     <tr>
       <td width="257">
 
 5. Cumul des participations aux bénéfices incorporées aux prestations payées ou provisionnées 
 
 </td>
-      <td width="48" valign="top">
-
-</td>
-      <td width="60" valign="top">
-
-</td>
-      <td width="60" valign="top">
-
-</td>
-      <td valign="top" width="60">
-
-</td>
-      <td width="60">
+      <td valign="top" width="48">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+      </td><td width="60">
 
 </td>
       <td valign="top" width="69">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="257">
 
 6. Primes acquises à l'année 
 
 </td>
-      <td width="48" valign="top">
+      <td valign="top" width="48">
+      </td><td width="60" valign="top">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+      </td><td width="60">
 
 </td>
-      <td width="60" valign="top">
-
-</td>
-      <td width="60" valign="top">
-
-</td>
-      <td width="60" valign="top">
-
-</td>
-      <td width="60">
-
-</td>
-      <td width="69" valign="top">
-
-</td>
-    </tr>
+      <td valign="top" width="69">
+    </td></tr>
     <tr>
       <td width="257">
 
@@ -1207,26 +745,16 @@ XXXXX
 
 </td>
       <td valign="top" width="48">
-
-</td>
-      <td valign="top" width="60">
-
-</td>
-      <td width="60" valign="top">
-
-</td>
-      <td width="60" valign="top">
-
-</td>
-      <td width="60">
+      </td><td width="60" valign="top">
+      </td><td valign="top" width="60">
+      </td><td width="60" valign="top">
+      </td><td width="60">
 
 </td>
       <td valign="top" width="69">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td width="614" colspan="7">
+      <td colspan="7" width="614">
 
 (1) Frais de gestion inclus. 
 
@@ -1242,8 +770,14 @@ pour risques croissants et provisions pour sinistres à payer, nettes de prévis
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté du 7 novembre 2008 - art. 9
+
 	**Cite**:
 
-	  - Code des assurances - art. A344-10 (V)
-	  - Code des assurances - art. L310-1-1 (V)
-	  - Code des assurances - art. R331-17 (V)
+	  - Code des assurances - art. A344-10
+	  - Code des assurances - art. A344-2
+	  - Code des assurances - art. L310-1
+	  - Code des assurances - art. L310-1-1
+	  - Code des assurances - art. R*331-17
