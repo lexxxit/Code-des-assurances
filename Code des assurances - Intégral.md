@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-01 00:00:01 +0100
 
 # Partie législative
 
@@ -14712,8 +14712,6 @@ l'Espace économique européen ou y exercer leur activité.
 	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 
-##### Section II : Agrément administratif des entreprises d'assurance non communautaires dont le siège social est situé dans un Etat partie à l'accord sur l'Espace économique européen
-
 ##### Section II : Agrément administratif des entreprises ayant leur siège social dans la Confédération helvétique
 
 ###### Article L321-7
@@ -16980,7 +16978,7 @@ décision est susceptible de recours devant le Conseil d'Etat.
 	  - Code de commerce - art. L229-4
 
 
-#### Chapitre III : Mesures d'assainissement des entreprises communautaires
+#### Chapitre III : Mesures de sauvegarde et d'assainissement
 
 ##### Section II
 
@@ -17022,10 +17020,6 @@ au 6° du même article ;
 	  - Code monétaire et financier - art. L612-33
 	  - Code monétaire et financier - art. L612-39
 
-
-#### Chapitre III : Mesures de sauvegarde et d'assainissement
-
-##### Section II
 
 #### Chapitre IV : Transfert de portefeuille
 
@@ -17670,8 +17664,6 @@ réserver à celle-ci l'exclusivité de leurs apports de contrats.
 
 	  - Code des assurances - art. L421-9 (VT)
 
-
-##### Section III : Effets des procédures de liquidation des entreprises communautaires.
 
 ##### Section III : Effets des procédures de liquidation des entreprises dont le siège social est situé sur le territoire d'un Etat membre de l'Union européenne autre que la France.
 
@@ -40802,7 +40794,147 @@ mandataire général mentionné à l'article R. 329-2.
 	  - Code des assurances - art. R329-2 (VD)
 
 
-### Titre III : Régime financier.
+### Titre III : Régime prudentiel applicable aux entreprises ne relevant pas du régime dit "Solvabilité II".
+
+#### Chapitre Ier : Les engagements réglementés
+
+###### Article R331-1
+
+Pour les entreprises mentionnées à l'article L. 310-3-2, les éléments mentionnés à l'article R. 343-1 constituent des
+engagements réglementés pour l'application des dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cité par**:
+
+	  - Code des assurances - art. A331-1-2 (V)
+	  - Code des assurances - art. A331-2 (M)
+	  - Code des assurances - art. A332-1 (V)
+	  - Code des assurances - art. R*322-141 (M)
+	  - Code des assurances - art. R*332-13 (M)
+	  - Code des assurances - art. R142-14 (Ab)
+	  - Code des assurances - art. R328-1 (VD)
+	  - Code des assurances - art. R331-1-1 (VT)
+	  - Code des assurances - art. R331-6 (VT)
+	  - Code des assurances - art. R332-1 (V)
+	  - Code des assurances - art. R332-10 (V)
+	  - Code des assurances - art. R332-2 (V)
+	  - Code des assurances - art. R332-3 (VD)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-3-2 (V)
+	  - Code des assurances - art. R343-1 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code des assurances - art. R*331-10 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-11 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-12 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-13 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-14 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-16 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*331-17 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-19 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-20 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-21 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-22 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-24 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-25 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-26 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*331-27 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-28 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
+	  - TXT_SOURCE: Code des assurances - art. R*331-5 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R*331-8 (T)
+	  - TXT_SOURCE: Code des assurances - art. R*331-9 (Ab)
+	  - TXT_SOURCE: Code des assurances - art. R331-15 (M)
+	  - TXT_SOURCE: Code des assurances - art. R331-7 (M)
+
+
+###### Article R331-2
+
+Les dispositions du présent chapitre sont applicables dans les territoires des Terres australes et antarctiques françaises et
+dans les îles de Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Modifié par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+
+###### Article R331-3
+
+Le cinquième alinéa de l'article R. 343-5 et l'article R. 343-6 ne s'appliquent aux entreprises mentionnées à l'article L.
+310-3-2 que dans le cas où ces entreprises satisfont, avant dotation à la provision pour risque d'exigibilité, à la
+représentation de leurs engagements réglementés et à la couverture de l'exigence minimale de marge de solvabilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-667 du 16 juillet 1976
+
+	**Cité par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 14 (V)
+	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
+	  - Arrêté du 26 décembre 1997 - art. 1 (V)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 27 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 31 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 33 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
+	  - Arrêté du 22 avril 2004 - art. 11 (Ab)
+	  - Arrêté du 22 avril 2004 - art. 19 (Ab)
+	  - Décret n°2008-284 du 26 mars 2008 - art. 3 (M)
+	  - Arrêté du 23 décembre 2008 (V)
+	  - Code des assurances - art. A132-10 (M)
+	  - Code des assurances - art. A132-7 (T)
+	  - Code des assurances - art. A331-1-1 (V)
+	  - Code des assurances - art. A331-2 (V)
+	  - Code des assurances - art. A331-4 (V)
+	  - Code des assurances - art. A331-9 (V)
+	  - Code des assurances - art. A332-7 (M)
+	  - Code des assurances - art. R134-1 (V)
+	  - Code des assurances - art. R134-2 (V)
+	  - Code des assurances - art. R134-4 (VD)
+	  - Code des assurances - art. R134-6 (VD)
+	  - Code des assurances - art. R142-1 (Ab)
+	  - Code des assurances - art. R142-10 (Ab)
+	  - Code des assurances - art. R142-12 (Ab)
+	  - Code des assurances - art. R142-15 (Ab)
+	  - Code des assurances - art. R142-4 (Ab)
+	  - Code des assurances - art. R150-20 (Ab)
+	  - Code des assurances - art. R332-2 (M)
+	  - Code des assurances - art. R332-20 (M)
+	  - Code des assurances - art. R332-39 (VT)
+	  - Code des assurances - art. R332-62 (VT)
+	  - Code des assurances - art. R332-63 (VT)
+	  - Code des assurances - art. R333-1 (VT)
+	  - Code des assurances - art. R334-13 (VD)
+	  - Code des assurances - art. R334-13-2 (V)
+	  - Code des assurances - art. R441-7 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-3-2 (V)
+	  - Code des assurances - art. R343-5 (V)
+	  - Code des assurances - art. R343-6 (V)
+
 
 #### Chapitre II : Réglementation des placements et autres éléments d'actif
 
@@ -43512,7 +43644,7 @@ annuellement.
 	  - Code de la mutualité - art. R212-9 (V)
 
 
-##### Section IV : La marge de solvabilité des entreprises mixtes définies à l'article L. 341-1
+##### Section IV : La marge de solvabilité des entreprises mixtes exerçant à la fois les opérations mentionnées aux 1° et 2° de l'article L. 310-1
 
 ##### Paragraphe 1 : Constitution de la marge de solvabilité.
 
@@ -43650,14 +43782,6 @@ par les éléments mentionnés au a de l'article R. 334-17.
 	  - Code des assurances - art. R334-20 (VT)
 
 
-##### Section IV : La marge de solvabilité des entreprises mixtes exerçant à la fois les opérations mentionnées aux 1° et 2° de l'article L. 310-1
-
-##### Paragraphe 1 : Constitution de la marge de solvabilité.
-
-##### Paragraphe 2 : Exigence minimale de marge de solvabilité
-
-##### Paragraphe 3 : Le fonds de garantie.
-
 ##### Section VII : Dispositions transitoires relatives à la marge de solvabilité.
 
 ###### Article R334-30
@@ -43739,7 +43863,184 @@ Calédonie, de la Polynésie française, des Terres australes et antarctiques fr
 	  - Décret n°2008-1549 du 31 décembre 2008 - art. 4
 
 
-#### Chapitre VI : Contrôle interne
+#### Chapitre V : Mesures de sauvegarde relatives aux entreprises d'assurance
+
+###### Article R335-1
+
+Lorsque l'Autorité de contrôle prudentiel et de résolution exige d'une entreprise d'assurance un programme de rétablissement
+en application de l'article L. 612-32 du code monétaire et financier, celui-ci doit notamment comporter, pour les trois
+prochains exercices sociaux, une description détaillée des éléments suivants et être accompagné des justificatifs s'y
+rapportant : 
+
+1° Une estimation prévisionnelle des frais de gestion, notamment des frais généraux courants et des commissions ; 
+
+2° Un plan détaillant les prévisions de recettes et de dépenses, tant pour les affaires directes que pour les acceptations et
+les cessions en réassurance ; 
+
+3° Un bilan prévisionnel ; 
+
+4° Une estimation des ressources financières devant servir à la couverture des engagements et de l'exigence de marge de
+solvabilité ; 
+
+5° La politique générale en matière de réassurance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L612-32 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R143-2 (V)
+	  - Code des assurances - art. R328-1 (VD)
+	  - Code des assurances - art. R335-2 (VD)
+
+
+###### Article R335-2
+
+I.-Au vu du programme de rétablissement mentionné à l'article R. 335-1 ou à défaut de communication de ce programme dans le
+délai d'un mois après la demande, l'Autorité de contrôle prudentiel et de résolution peut exiger d'une entreprise d'assurance
+une marge de solvabilité renforcée, supérieure à l'exigence minimale de marge mentionnée, selon les cas, à l'article R.
+334-5, à l'article R. 334-13 ou à l'article R. 334-19. Toutefois, le niveau total de marge de solvabilité exigé ne peut être
+supérieur au double de l'exigence minimale de marge mentionnée aux articles R. 334-5 ou R. 334-13. L'Autorité peut également
+mettre en œuvre les mesures mentionnées à l'article R. 334-2, dans les conditions prévues par cet article. 
+
+II.-L'Autorité de contrôle prudentiel et de résolution peut limiter la réduction de la marge de solvabilité prévue aux
+quatrièmes alinéas des a et b des articles R. 334-5, R. 334-13 ou R. 334-19 lorsque : 
+
+1° Le contenu ou la qualité du programme de réassurance a subi des modifications sensibles depuis le dernier exercice ; 
+
+2° Ou lorsque le programme de réassurance ne prévoit aucun transfert de risques ou un transfert insignifiant. 
+
+III.-Lorsqu'elle constate que les éléments constitutifs de la marge de solvabilité d'une entreprise d'assurance ont connu une
+baisse d'au moins 33 % au cours du dernier exercice clos par rapport à la moyenne de ces éléments constitutifs de la marge
+constatée au cours des quatre exercices précédant le dernier exercice, ou lorsqu'elle estime que les résultats du test
+d'exigibilité mentionné à l'article R. 336-7 font apparaître un risque de solvabilité, l'Autorité de contrôle prudentiel et
+de résolution peut : 
+
+1° Soit demander à l'entreprise de déduire des éléments constitutifs de la marge de solvabilité tout ou partie du montant de
+la moins-value latente nette globale constatée sur les placements mentionnés à l'article R. 343-9 ; 
+
+2° Soit demander à l'entreprise de déduire tout ou partie du montant de la moins-value latente nette globale constatée sur
+les actifs mentionnés à l'article R. 343-10 et non provisionné par la provision pour risque d'exigibilité ; 
+
+3° Soit mettre en œuvre de manière appropriée une combinaison des mesures précédentes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. R334-10 (VT)
+	  - Code des assurances - art. R334-13 (VD)
+	  - Code des assurances - art. R334-19 (VD)
+	  - Code des assurances - art. R334-2 (VT)
+	  - Code des assurances - art. R334-5 (VD)
+	  - Code des assurances - art. R334-9 (VD)
+	  - Code des assurances - art. R335-1 (VD)
+
+
+###### Article R335-3
+
+Lorsqu'elle estime que les résultats du test d'exigibilité mentionné à l'article R. 336-7 font apparaître un risque de
+solvabilité, l'Autorité de contrôle prudentiel et de résolution peut déduire des éléments constitutifs de la marge le report
+de charge constitué en vertu de l'article R. 343-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. R336-7 (VD)
+	  - Code des assurances - art. R343-6 (VD)
+
+
+###### Article R335-4
+
+Lorsque la marge de solvabilité d'une entreprise mentionnée à l'article L. 310-3-2 n'atteint pas le montant réglementaire,
+l'Autorité de contrôle prudentiel et de résolution, sans préjudice de la mise en œuvre des pouvoirs dont elle dispose aux
+termes des sections 6 et 7 du chapitre II du titre Ier du livre VI du code monétaire et financier, exige un plan de
+redressement, qui doit être soumis à son approbation dans le délai d'un mois. 
+
+L'Autorité de contrôle prudentiel et de résolution désigne un contrôleur qui doit être tenu informé en permanence par
+l'entreprise de l'élaboration du plan de redressement. L'entreprise rend compte de la mise en œuvre des décisions et mesures
+contenues dans le plan à ce contrôleur, qui veille à son exécution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-3-2 (VD)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R328-1 (VD)
+
+
+###### Article R335-5
+
+Lorsque la marge de solvabilité d'une entreprise mentionnée à l'article L. 310-3-2 n'atteint pas le fonds de garantie, ou si
+le fonds n'est pas constitué réglementairement, l'Autorité de contrôle prudentiel et de résolution, sans préjudice de la mise
+en œuvre des pouvoirs dont elle dispose aux termes des sections 6 et 7 du chapitre II du titre 1er du livre VI du code
+monétaire et financier, exige un plan de financement à court terme, qui doit être soumis à son approbation dans le délai d'un
+mois. 
+
+L'Autorité de contrôle prudentiel et de résolution désigne un contrôleur qui doit être tenu informé en permanence par
+l'entreprise de l'élaboration du plan de financement à court terme. L'entreprise rend compte de la mise en œuvre des
+décisions et mesures contenues dans le plan à ce contrôleur, qui veille à son exécution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-3-2 (VD)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R328-1 (VD)
+
+
+###### Article R335-6
+
+Lorsque l'Autorité de contrôle prudentiel et de résolution suspend, restreint ou interdit temporairement la libre disposition
+de tout ou partie des actifs d'une entreprise d'assurance, en application de l'article L. 612-33 du code monétaire et
+financier, elle peut en outre faire inscrire sur les immeubles de cette entreprise l'hypothèque mentionnée aux articles L.
+327-3 du présent code, L. 212-24 du code de la mutualité et L. 931-23 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L612-33 (M)
+	  - Code de la sécurité sociale. - art. L931-23 (V)
+	  - Code des assurances - art. L327-3 (V)
+	  - Code de la mutualité - art. R212-24 (VT)
+
+
+#### Chapitre VI : Contrôle interne et états à produire par les entreprises
 
 ##### Section I : Dispositions générales
 
@@ -44011,333 +44312,6 @@ soldes des comptes utilisés par l'entreprise doivent s'y raccorder, par voie di
 	  - Code des assurances - art. R336-6 (VD)
 
 
-### Titre III : Régime prudentiel applicable aux entreprises ne relevant pas du régime dit "Solvabilité II".
-
-#### Chapitre Ier : Les engagements réglementés
-
-###### Article R331-1
-
-Pour les entreprises mentionnées à l'article L. 310-3-2, les éléments mentionnés à l'article R. 343-1 constituent des
-engagements réglementés pour l'application des dispositions du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 8
-
-	**Cité par**:
-
-	  - Code des assurances - art. A331-1-2 (V)
-	  - Code des assurances - art. A331-2 (M)
-	  - Code des assurances - art. A332-1 (V)
-	  - Code des assurances - art. R*322-141 (M)
-	  - Code des assurances - art. R*332-13 (M)
-	  - Code des assurances - art. R142-14 (Ab)
-	  - Code des assurances - art. R328-1 (VD)
-	  - Code des assurances - art. R331-1-1 (VT)
-	  - Code des assurances - art. R331-6 (VT)
-	  - Code des assurances - art. R332-1 (V)
-	  - Code des assurances - art. R332-10 (V)
-	  - Code des assurances - art. R332-2 (V)
-	  - Code des assurances - art. R332-3 (VD)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-3-2 (V)
-	  - Code des assurances - art. R343-1 (VD)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances - art. R*331-10 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-11 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-12 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-13 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-14 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-16 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*331-17 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-19 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-20 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-21 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-22 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-24 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-25 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-26 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*331-27 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-28 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
-	  - TXT_SOURCE: Code des assurances - art. R*331-5 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R*331-8 (T)
-	  - TXT_SOURCE: Code des assurances - art. R*331-9 (Ab)
-	  - TXT_SOURCE: Code des assurances - art. R331-15 (M)
-	  - TXT_SOURCE: Code des assurances - art. R331-7 (M)
-
-
-###### Article R331-2
-
-Les dispositions du présent chapitre sont applicables dans les territoires des Terres australes et antarctiques françaises et
-dans les îles de Wallis et Futuna.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 du 16 juillet 1976
-
-	**Modifié par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 8
-
-
-###### Article R331-3
-
-Le cinquième alinéa de l'article R. 343-5 et l'article R. 343-6 ne s'appliquent aux entreprises mentionnées à l'article L.
-310-3-2 que dans le cas où ces entreprises satisfont, avant dotation à la provision pour risque d'exigibilité, à la
-représentation de leurs engagements réglementés et à la couverture de l'exigence minimale de marge de solvabilité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-667 du 16 juillet 1976
-
-	**Cité par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 14 (V)
-	  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
-	  - Arrêté du 26 décembre 1997 - art. 1 (V)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 27 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 31 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 33 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
-	  - Arrêté du 22 avril 2004 - art. 11 (Ab)
-	  - Arrêté du 22 avril 2004 - art. 19 (Ab)
-	  - Décret n°2008-284 du 26 mars 2008 - art. 3 (M)
-	  - Arrêté du 23 décembre 2008 (V)
-	  - Code des assurances - art. A132-10 (M)
-	  - Code des assurances - art. A132-7 (T)
-	  - Code des assurances - art. A331-1-1 (V)
-	  - Code des assurances - art. A331-2 (V)
-	  - Code des assurances - art. A331-4 (V)
-	  - Code des assurances - art. A331-9 (V)
-	  - Code des assurances - art. A332-7 (M)
-	  - Code des assurances - art. R134-1 (V)
-	  - Code des assurances - art. R134-2 (V)
-	  - Code des assurances - art. R134-4 (VD)
-	  - Code des assurances - art. R134-6 (VD)
-	  - Code des assurances - art. R142-1 (Ab)
-	  - Code des assurances - art. R142-10 (Ab)
-	  - Code des assurances - art. R142-12 (Ab)
-	  - Code des assurances - art. R142-15 (Ab)
-	  - Code des assurances - art. R142-4 (Ab)
-	  - Code des assurances - art. R150-20 (Ab)
-	  - Code des assurances - art. R332-2 (M)
-	  - Code des assurances - art. R332-20 (M)
-	  - Code des assurances - art. R332-39 (VT)
-	  - Code des assurances - art. R332-62 (VT)
-	  - Code des assurances - art. R332-63 (VT)
-	  - Code des assurances - art. R333-1 (VT)
-	  - Code des assurances - art. R334-13 (VD)
-	  - Code des assurances - art. R334-13-2 (V)
-	  - Code des assurances - art. R441-7 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 8
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-3-2 (V)
-	  - Code des assurances - art. R343-5 (V)
-	  - Code des assurances - art. R343-6 (V)
-
-
-#### Chapitre II : Réglementation des placements et autres éléments d'actif
-
-#### Chapitre IV : Solvabilité des entreprises
-
-#### Chapitre V : Mesures de sauvegarde relatives aux entreprises d'assurance
-
-###### Article R335-1
-
-Lorsque l'Autorité de contrôle prudentiel et de résolution exige d'une entreprise d'assurance un programme de rétablissement
-en application de l'article L. 612-32 du code monétaire et financier, celui-ci doit notamment comporter, pour les trois
-prochains exercices sociaux, une description détaillée des éléments suivants et être accompagné des justificatifs s'y
-rapportant : 
-
-1° Une estimation prévisionnelle des frais de gestion, notamment des frais généraux courants et des commissions ; 
-
-2° Un plan détaillant les prévisions de recettes et de dépenses, tant pour les affaires directes que pour les acceptations et
-les cessions en réassurance ; 
-
-3° Un bilan prévisionnel ; 
-
-4° Une estimation des ressources financières devant servir à la couverture des engagements et de l'exigence de marge de
-solvabilité ; 
-
-5° La politique générale en matière de réassurance.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 8
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-32 (V)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R143-2 (V)
-	  - Code des assurances - art. R328-1 (VD)
-	  - Code des assurances - art. R335-2 (VD)
-
-
-###### Article R335-2
-
-I.-Au vu du programme de rétablissement mentionné à l'article R. 335-1 ou à défaut de communication de ce programme dans le
-délai d'un mois après la demande, l'Autorité de contrôle prudentiel et de résolution peut exiger d'une entreprise d'assurance
-une marge de solvabilité renforcée, supérieure à l'exigence minimale de marge mentionnée, selon les cas, à l'article R.
-334-5, à l'article R. 334-13 ou à l'article R. 334-19. Toutefois, le niveau total de marge de solvabilité exigé ne peut être
-supérieur au double de l'exigence minimale de marge mentionnée aux articles R. 334-5 ou R. 334-13. L'Autorité peut également
-mettre en œuvre les mesures mentionnées à l'article R. 334-2, dans les conditions prévues par cet article. 
-
-II.-L'Autorité de contrôle prudentiel et de résolution peut limiter la réduction de la marge de solvabilité prévue aux
-quatrièmes alinéas des a et b des articles R. 334-5, R. 334-13 ou R. 334-19 lorsque : 
-
-1° Le contenu ou la qualité du programme de réassurance a subi des modifications sensibles depuis le dernier exercice ; 
-
-2° Ou lorsque le programme de réassurance ne prévoit aucun transfert de risques ou un transfert insignifiant. 
-
-III.-Lorsqu'elle constate que les éléments constitutifs de la marge de solvabilité d'une entreprise d'assurance ont connu une
-baisse d'au moins 33 % au cours du dernier exercice clos par rapport à la moyenne de ces éléments constitutifs de la marge
-constatée au cours des quatre exercices précédant le dernier exercice, ou lorsqu'elle estime que les résultats du test
-d'exigibilité mentionné à l'article R. 336-7 font apparaître un risque de solvabilité, l'Autorité de contrôle prudentiel et
-de résolution peut : 
-
-1° Soit demander à l'entreprise de déduire des éléments constitutifs de la marge de solvabilité tout ou partie du montant de
-la moins-value latente nette globale constatée sur les placements mentionnés à l'article R. 343-9 ; 
-
-2° Soit demander à l'entreprise de déduire tout ou partie du montant de la moins-value latente nette globale constatée sur
-les actifs mentionnés à l'article R. 343-10 et non provisionné par la provision pour risque d'exigibilité ; 
-
-3° Soit mettre en œuvre de manière appropriée une combinaison des mesures précédentes.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 8
-
-	**Cite**:
-
-	  - Code des assurances - art. R334-10 (VT)
-	  - Code des assurances - art. R334-13 (VD)
-	  - Code des assurances - art. R334-19 (VD)
-	  - Code des assurances - art. R334-2 (VT)
-	  - Code des assurances - art. R334-5 (VD)
-	  - Code des assurances - art. R334-9 (VD)
-	  - Code des assurances - art. R335-1 (VD)
-
-
-###### Article R335-3
-
-Lorsqu'elle estime que les résultats du test d'exigibilité mentionné à l'article R. 336-7 font apparaître un risque de
-solvabilité, l'Autorité de contrôle prudentiel et de résolution peut déduire des éléments constitutifs de la marge le report
-de charge constitué en vertu de l'article R. 343-6.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 8
-
-	**Cite**:
-
-	  - Code des assurances - art. R336-7 (VD)
-	  - Code des assurances - art. R343-6 (VD)
-
-
-###### Article R335-4
-
-Lorsque la marge de solvabilité d'une entreprise mentionnée à l'article L. 310-3-2 n'atteint pas le montant réglementaire,
-l'Autorité de contrôle prudentiel et de résolution, sans préjudice de la mise en œuvre des pouvoirs dont elle dispose aux
-termes des sections 6 et 7 du chapitre II du titre Ier du livre VI du code monétaire et financier, exige un plan de
-redressement, qui doit être soumis à son approbation dans le délai d'un mois. 
-
-L'Autorité de contrôle prudentiel et de résolution désigne un contrôleur qui doit être tenu informé en permanence par
-l'entreprise de l'élaboration du plan de redressement. L'entreprise rend compte de la mise en œuvre des décisions et mesures
-contenues dans le plan à ce contrôleur, qui veille à son exécution.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 8
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-3-2 (VD)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R328-1 (VD)
-
-
-###### Article R335-5
-
-Lorsque la marge de solvabilité d'une entreprise mentionnée à l'article L. 310-3-2 n'atteint pas le fonds de garantie, ou si
-le fonds n'est pas constitué réglementairement, l'Autorité de contrôle prudentiel et de résolution, sans préjudice de la mise
-en œuvre des pouvoirs dont elle dispose aux termes des sections 6 et 7 du chapitre II du titre 1er du livre VI du code
-monétaire et financier, exige un plan de financement à court terme, qui doit être soumis à son approbation dans le délai d'un
-mois. 
-
-L'Autorité de contrôle prudentiel et de résolution désigne un contrôleur qui doit être tenu informé en permanence par
-l'entreprise de l'élaboration du plan de financement à court terme. L'entreprise rend compte de la mise en œuvre des
-décisions et mesures contenues dans le plan à ce contrôleur, qui veille à son exécution.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 8
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-3-2 (VD)
-
-	**Cité par**:
-
-	  - Code des assurances - art. R328-1 (VD)
-
-
-###### Article R335-6
-
-Lorsque l'Autorité de contrôle prudentiel et de résolution suspend, restreint ou interdit temporairement la libre disposition
-de tout ou partie des actifs d'une entreprise d'assurance, en application de l'article L. 612-33 du code monétaire et
-financier, elle peut en outre faire inscrire sur les immeubles de cette entreprise l'hypothèque mentionnée aux articles L.
-327-3 du présent code, L. 212-24 du code de la mutualité et L. 931-23 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 8
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-33 (M)
-	  - Code de la sécurité sociale. - art. L931-23 (V)
-	  - Code des assurances - art. L327-3 (V)
-	  - Code de la mutualité - art. R212-24 (VT)
-
-
-#### Chapitre VI : Contrôle interne et états à produire par les entreprises
-
-##### Section I : Dispositions générales
-
 ### Titre IV : Dispositions comptables et statistiques
 
 #### Chapitre Ier : Principes généraux.
@@ -44508,7 +44482,7 @@ le rapport mentionné au premier alinéa peut être intégré dans le rapport me
 	  - Code de la mutualité - art. L211-11
 
 
-#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation
+#### Chapitre II : Dispositions comptables particulières
 
 ##### Section VI : Dispositions spécifiques relatives aux comptabilités auxiliaires d'affectation
 
@@ -44774,10 +44748,6 @@ mathématiques.
 	  - Code des assurances - art. R342-1
 	  - Code des assurances - art. R343-3 (VD)
 
-
-#### Chapitre II : Dispositions comptables particulières
-
-##### Section VI : Dispositions spécifiques relatives aux comptabilités auxiliaires d'affectation
 
 ##### Section VII : Règles particulières aux contrats de retraite professionnelle supplémentaire 
 
@@ -46603,46 +46573,6 @@ La Banque de France peut utiliser ces données agrégées pour l'exercice de ses
 	  - Décret n°2015-1431 du 5 novembre 2015 - art. 1
 
 
-#### Chapitre V : Comptes consolidés.
-
-##### Section I : Méthode de consolidation et méthode d'élaboration des comptes combinés
-
-###### Article R345-4
-
-Les modes et méthodes d'évaluation ainsi que les règles de conversion applicables aux éléments exprimés en monnaie étrangère
-sont ceux qui sont fixés pour les entreprises d'assurance par le présent livre, sous réserve des adaptations nécessaires aux
-comptes consolidés ou combinés fixées par un règlement de l'Autorité des normes comptables.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
-
-
-##### Section II : Présentation des comptes consolidés ou combinés
-
-###### Article R345-7
-
-Le bilan, le compte de résultat et l'annexe consolidés ou combinés comprennent les postes des modèles mentionnés à l'article
-R. 341-3, sous réserve des adaptations nécessaires aux comptes consolidés ou combinés fixées par un règlement de l'Autorité
-des normes comptables.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. R341-3 (V)
-
-
 #### Chapitre V : Comptes consolidés et combinés
 
 ###### Article R345-1
@@ -46810,7 +46740,41 @@ du code monétaire et financier.
 
 ##### Section I : Méthode de consolidation et méthode d'élaboration des comptes combinés
 
+###### Article R345-4
+
+Les modes et méthodes d'évaluation ainsi que les règles de conversion applicables aux éléments exprimés en monnaie étrangère
+sont ceux qui sont fixés pour les entreprises d'assurance par le présent livre, sous réserve des adaptations nécessaires aux
+comptes consolidés ou combinés fixées par un règlement de l'Autorité des normes comptables.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
+
+
 ##### Section II : Présentation des comptes consolidés ou combinés
+
+###### Article R345-7
+
+Le bilan, le compte de résultat et l'annexe consolidés ou combinés comprennent les postes des modèles mentionnés à l'article
+R. 341-3, sous réserve des adaptations nécessaires aux comptes consolidés ou combinés fixées par un règlement de l'Autorité
+des normes comptables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. R341-3 (V)
+
 
 ### Titre V : Régime prudentiel applicable aux entreprises relevant du régime dit “ Solvabilité II ”
 
@@ -67408,7 +67372,7 @@ ne peut être supérieur à 10 % de la cotisation annuelle.
 	  - Arrêté 1976-07-16
 
 
-### Titre III : Régime financier.
+### Titre III : Régime prudentiel applicable aux entreprises ne relevant pas du régime dit "Solvabilité 2"
 
 #### Chapitre II : Réglementation des placements et autres éléments d'actif
 
@@ -67837,12 +67801,6 @@ prévoir le délai de préavis minimum visé au 4° du III du présent article.
 	  - Code des assurances - art. R334-11 (V)
 	  - Code des assurances - art. R334-3 (V)
 
-
-### Titre III : Régime prudentiel applicable aux entreprises ne relevant pas du régime dit "Solvabilité 2"
-
-#### Chapitre II : Réglementation des placements et autres éléments d'actif
-
-#### Chapitre IV : Solvabilité des entreprises
 
 ### Titre IV : Dispositions comptables et statistiques
 
@@ -68743,14 +68701,20 @@ La somme mentionnée au premier alinéa de l'article R. 341-8 est fixée à 0,76
 
 En application du L. 355-3, lorsque des événements prédéfinis se produisent, pouvant conduire, ou ayant déjà conduit, à des
 changements importants notamment sur leurs activités et leurs résultats, leur système de gouvernance, leur profil de risque,
-ou leur solvabilité et situation financière, les entreprises d'assurance et de réassurance doivent communiquer à l'Autorité
-de contrôle prudentiel et de résolution les informations nécessaires aux fins de contrôle.
+ou leur solvabilité et situation financière, les entreprises d'assurance et de réassurance et les entreprises visées au I de
+l'article L. 356-21 doivent communiquer à l'Autorité de contrôle prudentiel et de résolution la survenance d'un tel événement
+et les informations nécessaires aux fins de contrôle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 7 mai 2015 - art. 2
+	  - Arrêté du 28 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. L355-3 (V)
+	  - Code des assurances - art. L356-21 (V)
 
 
 #### Chapitre VI : Exigences spécifiques aux groupes
@@ -68796,8 +68760,7 @@ a) La dénomination et l'adresse du siège social de l'entreprise ;
 b) L'adresse de la succursale en France, à laquelle l'Autorité de contrôle prudentiel et de résolution et le ministre chargé
 de l'économie et des finances peuvent demander des informations pour l'exercice de leurs compétences ; 
 
-c) Le nom et les pouvoirs du mandataire général et les informations concernant le mandataire général mentionnées à l'article
-A. 321-2 ; 
+c) Le nom et les pouvoirs du mandataire général ; 
 
 d) Un programme d'activité ; 
 
@@ -68830,7 +68793,7 @@ modification, ou, si elle est postérieure, à la date à laquelle l'entreprise 
 
 	**Modifié par**:
 
-	  - Arrêté du 7 mai 2015 - art. 2
+	  - Arrêté du 28 décembre 2015 - art. 2
 
 	**Cite**:
 
