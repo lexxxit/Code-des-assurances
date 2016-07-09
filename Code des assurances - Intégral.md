@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-07-10
 
 # Partie législative
 
@@ -63779,21 +63779,19 @@ d'information clé pour l'investisseur.
 
 ###### Article A132-7
 
-I. ― Le montant mentionné au premier alinéa de l'article L. 132-22 est de 2 000 euros. 
-
-II. ― Pour l'application du septième alinéa de l'article L. 132-22, les informations suivantes sont communiquées à l'assuré :
+I. ― Pour l'application du septième alinéa de l'article L. 132-22, les informations suivantes sont communiquées à l'assuré : 
 
 ― le taux d'intérêt garanti par le contrat et le taux d'intérêt correspondant au montant affecté aux provisions mathématiques
-du contrat provenant de la participation aux bénéfices ou des reprises de provision pour participation aux bénéfices ;
+du contrat provenant de la participation aux bénéfices ou des reprises de provision pour participation aux bénéfices ; 
 
-― le taux des frais prélevés par l'entreprise ;
+― le taux des frais prélevés par l'entreprise ; 
 
-― le taux des taxes et prélèvements sociaux ;
+― le taux des taxes et prélèvements sociaux ; 
 
 ― le taux d'intérêt servi à l'assuré, net de frais et, le cas échéant, des taxes et des prélèvements sociaux prélevés lors de
 l'inscription des intérêts au contrat. 
 
-III. ― Pour l'application du huitième alinéa de l'article L. 132-22, les informations communiquées à l'assuré sont les
+II. ― Pour l'application du huitième alinéa de l'article L. 132-22, les informations communiquées à l'assuré sont les
 suivantes : 
 
 1° Pour les contrats auxquels des actifs sont affectés en vertu de dispositions législatives, le taux de rendement de ces
@@ -63802,20 +63800,20 @@ actifs ;
 2° Pour les contrats de groupe prévoyant que les engagements sont représentés par des actifs faisant l'objet d'une
 identification distincte pour satisfaire à des stipulations contractuelles, le taux de rendement de ces actifs ; 
 
-3° Dans les autres cas, le taux de rendement des placements défini au 1 de l'article A. 132-14  et le taux moyen des
-montants, y compris ceux provenant de la participation aux bénéfices, affectés aux provisions mathématiques relatives à la
-catégorie d'opérations mentionnée à l'article A. 344-2, dont relève le contrat. 
+3° Dans les autres cas, le taux de rendement des placements défini au 1 de l'article A. 132-14 et le taux moyen des montants,
+y compris ceux provenant de la participation aux bénéfices, affectés aux provisions mathématiques relatives à la catégorie
+d'opérations mentionnée à l'article A. 344-2, dont relève le contrat. 
 
-IV. ― Pour l'application du neuvième alinéa de l'article L. 132-22, l'information annuelle du souscripteur ou, en cas de
-contrat de groupe, de l'adhérent comporte :
+III. ― Pour l'application du neuvième alinéa de l'article L. 132-22, l'information annuelle du souscripteur ou, en cas de
+contrat de groupe, de l'adhérent comporte : 
 
-― la valeur des unités de compte sélectionnées ;
+― la valeur des unités de compte sélectionnées ; 
 
-― les frais prélevés par l'entreprise d'assurance au titre de chaque unité de compte ;
+― les frais prélevés par l'entreprise d'assurance au titre de chaque unité de compte ; 
 
-― le total des frais supportés par l'unité de compte, au cours du dernier exercice connu ;
+― le total des frais supportés par l'unité de compte, au cours du dernier exercice connu ; 
 
-― pour les unités de compte qui en comportent, les valeurs des indicateurs de référence ;
+― pour les unités de compte qui en comportent, les valeurs des indicateurs de référence ; 
 
 ― le cas échéant, le produit des droits attachés à la détention de l'unité de compte conservé par l'entreprise d'assurance. 
 
@@ -63823,7 +63821,7 @@ Les modifications significatives affectant chaque unité de compte sélectionné
 action d'organisme de placement collectif, sont celles affectant ses caractéristiques principales, telles que définies à
 l'article A. 132-6. 
 
-V. ― 1° Pour l'application du douzième alinéa de l'article L. 132-22, l'estimation du montant de la rente viagère qui serait
+IV. ― 1° Pour l'application du douzième alinéa de l'article L. 132-22, l'estimation du montant de la rente viagère qui serait
 versée à l'adhérent au titre des droits exprimés en euros peut être présentée distinctement de l'estimation établie à partir
 des droits exprimés en unités de comptes, qui elle-même peut être présentée distinctement de celle établie à partir des
 droits exprimés en parts de provision de diversification. 
@@ -63858,15 +63856,16 @@ compter duquel vous pouvez liquider votre retraite obligatoire à taux plein. "
 
 	**Modifié par**:
 
-	  - Arrêté du 28 décembre 2015 - art. 3
+	  - Arrêté du 24 juin 2016 - art. 3
 
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L161-17-2
+	  - Code des assurances - art. A132-14 (V)
 	  - Code des assurances - art. A132-6
 	  - Code des assurances - art. A132-8
-	  - Code des assurances - art. A331-7
-	  - Code des assurances - art. L132-22
+	  - Code des assurances - art. A344-2 (V)
+	  - Code des assurances - art. L132-22 (V)
 
 	**Cité par**:
 
@@ -64155,6 +64154,163 @@ irrévocable la faculté d'opter pour cette remise de titres, parts ou actions.
 	  - Code des assurances - art. L131-1
 
 
+###### Article A132-9-4
+
+I.-Le bilan d'application des articles L. 132-9-2 et L. 132-9-3 prévu à l'article L. 132-9-3-1 est publié annuellement sur le
+site internet de l'entreprise d'assurance ou sur tout support durable dans un délai de 90 jours ouvrables à compter du 1er
+janvier de chaque année. La description des démarches réalisées, dont les moyens mis en œuvre, au cours de l'année passée en
+matière de traitement des contrats d'assurance vie non réglés comprend les informations suivantes, arrêtées au 31 décembre de
+l'année précédente, désignée comme l'année N : 
+
+1° Nombre de contrats ayant donné lieu à instruction (en cours au-delà d'une période de six mois après connaissance du décès
+ou échéance du contrat) et recherche des bénéficiaires au cours de l'année N ; 
+
+2° Nombre d'assurés centenaires non décédés, y compris ceux pour lesquels il existe une présomption de décès et montant
+annuel (toutes provisions techniques confondues) des contrats de cette catégorie d'assurés centenaires non décédés en année
+N ; 
+
+3° Nombre de contrats classés " sans suite " par l'entreprise d'assurance (contrats pour lesquels un ou plusieurs
+bénéficiaires n'ont pas pu être retrouvés ou réglés malgré les démarches de recherche de l'assureur) et montant annuel
+concerné en année N. 
+
+Ces informations prennent la forme du tableau 1 défini en annexe. 
+
+II.-Le bilan d'application prévu mentionné au premier alinéa comprend également les informations suivantes (toutes provisions
+techniques confondues), arrêtées au 31 décembre de l'année précédente : 
+
+1° Montant annuel et nombre de contrats dont l'assuré a été identifié comme décédé dans le cadre du dispositif prévu à
+l'article L. 132-9-2 pour les cinq années précédentes ; 
+
+2° Montant annuel et nombre de contrats réglés au titre des contrats dont l'assuré a été identifié comme décédé dans le cadre
+du dispositif prévu à l'article L. 132-9-2 pour les cinq années précédentes ; 
+
+3° Nombre d'assurés identifiés comme décédés et nombre de contrats concernés ayant un assuré identifié comme décédé dans le
+cadre du dispositif prévu à l'article L. 132-9-3 pour les cinq années précédentes ; 
+
+4° Montant annuel des capitaux à régler au titre des contrats identifiés comme dénoués par décès (provisions affectées au
+versement du capital et celles affectées aux capitaux constitutifs de rente, avec, le cas échéant, revalorisation post mortem
+prévue par l'article L. 132-5) dans le cadre du dispositif prévu à l'article L. 132-9-3 pour les cinq années précédentes ; 
+
+5° Montant annuel des capitaux réglés au titre des contrats identifiés comme dénoués par décès dans le cadre du dispositif
+prévu à l'article L. 132-9-3 pour les cinq années précédentes. 
+
+Ces informations prennent la forme du tableau 2 défini en annexe
+
+**Nota:**
+
+Conformément à l'article 4 de l'arrêté du 24 juin 2016 :  I. - Les dispositions applicables aux informations relatives aux
+cinq années précédentes prévues au 1° à 5 ° du II de l'article A132-9-4 entrent en vigueur progressivement avec un plein
+effet à compter des bilans fournis en 2021.
+
+II. - Les bilans établis avant 2021 relatifs aux informations mentionnées au I comportent, au fur et à mesure de leur
+disponibilité, les données afférentes à toutes les années écoulées depuis 2016, incluant cette dernière année. Le premier
+bilan publié en au titre de 2016 ne porte que sur les efforts d'apurement de contrats non réglés de cette année. Chaque bilan
+publié à compter de 2017 est enrichi annuellement des données afférentes à l'année précédente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-9-2 (V)
+	  - Code des assurances - art. L132-9-3-1 (V)
+
+
+###### Article A132-9-5
+
+Le rapport annuel prévu à l'article L. 132-9-3-1 comprend les informations suivantes (toutes provisions techniques
+confondues, exprimées sous la forme d'une provision mathématique théorique pour les régimes à points), arrêtées au 31
+décembre de l'année précédente : 
+
+1° Montant des capitaux décès non réglés des contrats d'assurance-vie hors contrats collectifs à adhésion obligatoire
+souscrits dans le cadre de l'entreprise depuis plus d'un an à compter de la date de connaissance du décès et nombre de
+contrats concernés en année N et N-1 ; 
+
+2° Montant des capitaux des contrats d'assurance vie hors contrats collectifs à adhésion obligatoire souscrits dans le cadre
+de l'entreprise dont l'échéance a été atteinte depuis plus de six mois et nombre de contrats concernés en année N et N-1 ; 
+
+3° Montant des capitaux des bons et contrats de capitalisation nominatifs échus depuis plus de 6 mois et nombre de contrats
+concernés en année N et N-1 ; 
+
+4° Montant des capitaux des bons et contrats de capitalisation au porteur échus depuis plus de 6 mois et nombre de contrats
+concernés en année N et N-1 ; 
+
+5° Montant des capitaux décès des contrats collectifs à adhésion obligatoire souscrits dans le cadre de l'entreprise non
+réglés depuis plus d'un an à compter de la connaissance du décès et nombre de contrats d'adhérents concernés en année N et
+N-1 ; 
+
+6° Montant des prestations des contrats collectifs à adhésion obligatoire souscrits dans le cadre de l'entreprise dont le
+capital ou la rente n'a pas été demandé lorsque l'assuré a atteint l'âge de 62 ans et nombre de contrats d'adhérents
+concernés en année N et N-1 ; 
+
+7° Montant des prestations des contrats collectifs à adhésion obligatoire souscrits dans le cadre de l'entreprise dont le
+capital ou la rente n'a pas été demandé lorsque l'assuré a atteint l'âge de 65 ans et nombre de contrats d'adhérents
+concernés en année N et N-1 ; 
+
+8° Montant des prestations des contrats collectifs à adhésion facultative dont le capital ou la rente n'a pas été demandé
+lorsque l'assuré a atteint l'âge de 62 ans et nombre de contrats d'adhérents concernés en année N et N-1 ; 
+
+9° Montant des prestations des contrats collectifs à adhésion facultative dont le capital ou la rente n'a pas été demandé
+lorsque l'assuré a atteint l'âge de 65 ans et nombre de contrats d'adhérents concernés en année N et N-1. 
+
+Ces informations sont adressées annuellement par les entreprises d'assurance à l'Autorité de contrôle prudentiel et de
+résolution et au ministre chargé de l'économie, dans les 90 jours ouvrables qui suivent leur demande. Elles prennent la forme
+d'un tableau défini en annexe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-9-3-1 (V)
+
+
+###### Article A132-9-6
+
+Le bilan publié par les organismes professionnels prévu à l'article L. 132-9-4 comprend les informations suivantes arrêtées
+au 31 décembre de l'année précédente : 
+
+1° Nombre de demandes par des bénéficiaires potentiels d'un contrat d'assurance-vie dans le cadre du dispositif prévu à
+l'article L. 132-9-2 ; 
+
+2° Montant annuel (toutes provisions techniques confondues) et nombre de contrats dont l'assuré a été identifié comme décédé
+dans le cadre du dispositif prévu à l'article L. 132-9-2 ; 
+
+3° Montant annuel des capitaux (toutes provisions techniques confondues) et nombre des contrats réglés au titre des contrats
+dont l'assuré a été identifié comme décédé dans le cadre du dispositif prévu à l'article L. 132-9-2 ; 
+
+4° Nombre d'assurés identifiés comme décédés et nombre de contrats ayant un assuré identifié comme décédé dans le cadre du
+dispositif prévu à l'article L. 132-9-3 ; 
+
+5° Montant annuel (toutes provisions techniques confondues) des capitaux réglés au titre des contrats identifiés dans l'année
+comme dénoués par décès dans le cadre du dispositif prévu à l'article L. 132-9-3 et nombre de contrats réglés ; 
+
+6° Montant annuel (toutes provisions techniques confondues) des capitaux à régler au titre des contrats identifiés dans
+l'année comme dénoués par décès dans le cadre du dispositif prévu à l'article L. 132-9-3 et nombre de contrats à régler. 
+
+Ce bilan est publié par les organismes professionnels mentionnés à l'article L. 132-9-3 sur le site internet de l'organisme
+professionnel ou sur tout support durable dans un délai de 120 jours ouvrables à compter du 1er janvier de chaque année. Il
+prend la forme d'un tableau défini en annexe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-9-2 (V)
+	  - Code des assurances - art. L132-9-3 (V)
+	  - Code des assurances - art. L132-9-4 (V)
+
+
 ###### Article Annexe art. A132-4
 
 Entreprise contractante 
@@ -64258,6 +64414,870 @@ qui permet au souscripteur d'accéder facilement à ces informations.
 	**Modifié par**:
 
 	  - Arrêté du 7 mai 2015 - art. 1
+
+
+###### Article Annexe à l'article A132-9-4
+
+Tableau 1 : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+      </th><th>
+
+NOMBRE DE CONTRATS 
+
+ayant donné lieu 
+
+à instruction/ recherche 
+
+par l'entreprise d'assurance 
+
+</th>
+      <th>
+
+NOMBRE D'ASSURÉS 
+
+centenaires 
+
+non décédés, y compris 
+
+ceux pour lesquels 
+
+il existe une 
+
+présomption de décès 
+
+</th>
+      <th>
+
+MONTANT ANNUEL 
+
+(toutes provisions 
+
+techniques confondues) 
+
+des contrats des assurés 
+
+centenaires non décédés 
+
+</th>
+      <th>
+
+NOMBRE 
+
+de contrats classés 
+
+sans suite     
+
+par l'entreprise 
+
+d'assurance 
+
+</th>
+      <th>
+
+MONTANT ANNUEL 
+
+des contrats classés 
+
+sans suite  
+
+par l'entreprise 
+
+d'assurance 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Année N 
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+  </tbody>
+</table>
+
+Tableau 2 : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+ANNÉE 
+
+</th>
+      <th>
+
+MONTANT ANNUEL 
+
+et nombre de contrats dont l'assuré a été identifié comme décédé (article L. 132-9-2) 
+
+</th>
+      <th>
+
+NOMBRE DE CONTRATS 
+
+réglés et montant annuel 
+
+(article L. 132-9-2) 
+
+</th>
+      <th>
+
+NOMBRE DE DÉCÈS CONFIRMÉS 
+
+d'assurés/ nombre de contrats concernés/ montant des capitaux à régler (capitaux décès et capitaux constitutifs de rente) 
+
+à la suite des consultations au titre de l'article L. 132-9-3 
+
+</th>
+      <th>
+
+MONTANT DE CAPITAUX 
+
+intégralement réglés dans l'année aux bénéficiaires/ nombre de contrats intégralement réglés aux bénéficiaires 
+
+à la suite des consultations au titre de l'article L. 132-9-3 
+
+</th>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+N 
+
+</td>
+      <td>
+
+Montant en euros et nombre de contrats 
+
+</td>
+      <td valign="middle">
+
+Nombre de contrats et montant en euros 
+
+</td>
+      <td>
+
+Nombre de décès confirmés, nombre de contrats et montant en euros 
+
+</td>
+      <td>
+
+Montant en euros et nombre de contrats 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+N-1 
+
+</td>
+      <td>
+
+Montant en euros et nombre de contrats 
+
+</td>
+      <td valign="middle">
+
+Nombre de contrats et montant en euros 
+
+</td>
+      <td>
+
+Nombre de décès confirmés, nombre de contrats et montant en euros 
+
+</td>
+      <td>
+
+Montant en euros et nombre de contrats 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+N-2 
+
+</td>
+      <td>
+
+Montant en euros et nombre de contrats 
+
+</td>
+      <td valign="middle">
+
+Nombre de contrats et montant en euros 
+
+</td>
+      <td>
+
+Nombre de décès confirmés, nombre de contrats et montant en euros 
+
+</td>
+      <td>
+
+Montant en euros et nombre de contrats 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+N-3 
+
+</td>
+      <td>
+
+Montant en euros et nombre de contrats 
+
+</td>
+      <td valign="middle">
+
+Nombre de contrats et montant en euros 
+
+</td>
+      <td>
+
+Nombre de décès confirmés, nombre de contrats et montant en euros 
+
+</td>
+      <td>
+
+Montant en euros et nombre de contrats 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+N-4 
+
+</td>
+      <td>
+
+Montant en euros et nombre de contrats 
+
+</td>
+      <td valign="middle">
+
+Nombre de contrats et montant en euros 
+
+</td>
+      <td>
+
+Nombre de décès confirmés, nombre de contrats et montant en euros 
+
+</td>
+      <td>
+
+Montant en euros et nombre de contrats 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+N-5 
+
+</td>
+      <td>
+
+Montant en euros et nombre de contrats 
+
+</td>
+      <td valign="middle">
+
+Nombre de contrats et montants en euros 
+
+</td>
+      <td>
+
+Nombre de décès confirmés, nombre de contrats et montant en euros 
+
+</td>
+      <td>
+
+Montant en euros et nombre de contrats 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 juin 2016 - art. 1
+
+
+###### Article Annexe à l'article A132-9-5
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+        </th><th>
+
+SITUATION 
+
+au 31 décembre N 
+
+Montant global 
+
+exprimé en millions d'euros (M €) 
+
+</th>
+        <th>
+
+SITUATION 
+
+au 31 décembre N 
+
+exprimé en nombre de contrats concernés 
+
+</th>
+        <th colspan="2">
+
+MONTANT GLOBAL 
+
+réglé aux bénéficiaires ou transférés à la CDC au 31 décembre N sur le stock identifié au 31 décembre N-1 en millions d'euros
+et en pourcentage 
+
+</th>
+        <th colspan="2">
+
+NOMBRE TOTAL 
+
+de contrats réglés aux bénéficiaires ou transférés à la CDC au 31 décembre N sur le stock de contrats identifié au 31
+décembre N-1 en nombre de contrats et en pourcentage 
+
+</th>
+      </tr>
+      <tr>
+        <td>
+
+Capitaux décès non réglés des contrats d'assurance-vie 
+
+Hors contrats collectifs à adhésion obligatoire souscrits dans le cadre de l'entreprise 
+
+</td>
+        <td align="left">
+        </td><td align="left">
+        </td><td colspan="2" align="left">
+        </td><td align="left" colspan="2">
+      </td></tr>
+      <tr>
+        <td>
+
+Montant total des capitaux décès non réglés depuis plus d'un an à compter de la connaissance du décès 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Capitaux termes des contrats d'assurance vie 
+
+Hors contrats collectifs à adhésion obligatoire souscrits par une entreprise 
+
+</td>
+        <td align="left">
+        </td><td align="left">
+        </td><td colspan="2" align="left">
+        </td><td align="left" colspan="2">
+      </td></tr>
+      <tr>
+        <td>
+
+Montant total des capitaux échus/ prestations non réglées depuis plus de 6 mois à compter de l'arrivée du terme 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Bons et contrats de capitalisation 
+
+</td>
+        <td align="left">
+        </td><td align="left">
+        </td><td colspan="2" align="left">
+        </td><td colspan="2" align="left">
+      </td></tr>
+      <tr>
+        <td>
+
+Montant total des capitaux échus non réglés depuis plus de six mois à compter de l'arrivée du terme (nominatifs) 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Montant total des capitaux échus non réglés depuis plus de six mois à compter de l'arrivée du terme (au porteur) 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Contrats collectifs à adhésion obligatoire souscrits par une entreprise 
+
+</td>
+        <td align="left">
+        </td><td align="left">
+        </td><td align="left" colspan="2">
+        </td><td align="left" colspan="2">
+      </td></tr>
+      <tr>
+        <td>
+
+Capitaux décès non réglés depuis plus d'un an à compter de la connaissance du décès 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 62 ans 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 65 ans 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Contrats collectifs à adhésion facultative 
+
+</td>
+        <td align="left">
+        </td><td align="left">
+        </td><td colspan="2" align="left">
+        </td><td align="left" colspan="2">
+      </td></tr>
+      <tr>
+        <td>
+
+Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 62 ans 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 65 ans 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+M € 
+
+</td>
+        <td align="left">
+
+% 
+
+</td>
+        <td align="left">
+
+Contrats 
+
+</td>
+        <td align="left">
+
+% </td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 juin 2016 - art. 1
+
+
+###### Article Annexe à l'article A132-9-6
+
+<table>
+    <tbody>
+      <tr>
+        <th>ANNÉE 
+
+</th>
+        <th>
+
+NOMBRE 
+
+de demandes par les bénéficiaires potentiels qui ont permis à l'assureur de connaître le décès 
+
+(article L. 132-9-2) 
+
+</th>
+        <th>
+
+MONTANT 
+
+global et nombre de contrats dont l'assuré a été identifié comme décédé 
+
+(article L. 132-9-2) 
+
+</th>
+        <th>
+
+MONTANT 
+
+des capitaux réglés/ nombre de contrats réglés 
+
+(article L. 132-9-2) 
+
+</th>
+        <th>
+
+NOMBRE 
+
+d'assurés identifiés comme décédés et nombre de contrats ayant un assuré identifié comme décédé 
+
+à la suite des consultations au titre de l'article L. 132-9-3
+
+</th>
+        <th>
+
+MONTANT 
+
+des capitaux à régler dans l'année/ nombre de contrats à régler 
+
+à la suite des consultations au titre de l'article L. 132-9-3 
+
+</th>
+        <th>
+
+MONTANT DES CAPITAUX 
+
+réglés/ nombre contrats réglés 
+
+à la suite des consultations au titre de l'article L. 132-9-3 
+
+</th>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+N 
+
+</td>
+        <td valign="middle" align="center">
+
+Nombre de demandes 
+
+</td>
+        <td align="center">
+
+Montant en euros et nombre de contrats 
+
+</td>
+        <td align="center">
+
+Montant en euros et nombre de contrats 
+
+</td>
+        <td align="center" valign="middle">
+
+Nombre de décès confirmés d'assurés et nombre de contrats 
+
+</td>
+        <td align="center">
+
+Montant en euros et nombre de contrats 
+
+</td>
+        <td align="center">
+
+Montant en euros et nombre de contrats
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-9-2 (V)
+	  - Code des assurances - art. L132-9-3 (V)
 
 
 ##### Section V : Participation aux bénéfices techniques et financiers 
