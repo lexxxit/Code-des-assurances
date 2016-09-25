@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-08-10
+Version Consolidée au 2016-09-26
 
 # Partie législative
 
@@ -59655,7 +59655,7 @@ risques commerciaux, politiques, monétaires, catastrophiques, ainsi que certain
 échanges internationaux, sont, en application de la loi du 5 juillet 1949 relative à diverses dispositions d'ordre économique
 et financier, garantis et gérés, pour le compte de l'Etat et sous son contrôle, par la société anonyme dénommée Compagnie
 française d'assurance pour le commerce extérieur (Coface) dans les conditions fixées par les articles R. 442-2 à R.
-442-10-5. 
+442-10-10. 
 
 La Compagnie française d'assurance pour le commerce extérieur (COFACE) peut également délivrer, pour le compte de l'Etat et
 sous son contrôle, les garanties mentionnées au I de l'article 84 de la loi n° 2012-1510 du 29 décembre 2012 de finances
@@ -59667,7 +59667,6 @@ rectificative pour 2012, dans les conditions fixées aux articles R. 442-2 à R.
 
 	  - Loi n°49-874 du 5 juillet 1949
 	  - Loi n°2012-1510 du 29 décembre 2012 - art. 84
-	  - Code des assurances - art. L432-2
 	  - Code des assurances - art. R442-8-7
 
 	**Cité par**:
@@ -59677,12 +59676,21 @@ rectificative pour 2012, dans les conditions fixées aux articles R. 442-2 à R.
 	  - Arrêté du 21 avril 2009 - art. 6 (Ab)
 	  - Arrêté du 8 octobre 2009 (V)
 	  - Arrêté du 11 décembre 2015 - art. 6 (V)
+	  - Code des assurances - art. R442-10-5 (Ab)
 	  - Code des assurances - art. R442-2 (VT)
 	  - Code des assurances - art. R442-8-5 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°2013-425 du 24 mai 2013 - art. 1
+	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 2
 
 
 ###### Article R442-2
@@ -59951,7 +59959,7 @@ peut être accordée.
 ###### Article R442-8-1
 
 La garantie des risques peut porter sur les catégories d'opérations définies aux articles R. 442-8-2 à R. 442-8-12 ci-après
-et au profit soit des fournisseurs, soit des établissements de crédit ou des sociétés de financement concernés.
+et au profit soit des fournisseurs, soit des bénéficiaires prévus au a bis du 1° de l'article L. 432-2.
 
 **Liens relatifs à cet article**
 
@@ -59961,10 +59969,11 @@ et au profit soit des fournisseurs, soit des établissements de crédit ou des s
 
 	**Modifié par**:
 
-	  - Décret n°2015-1453 du 9 novembre 2015 - art. 2
+	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
 
 	**Cite**:
 
+	  - Code des assurances - art. L432-2 (VD)
 	  - Code des assurances - art. R442-8-2
 
 
@@ -60498,7 +60507,133 @@ l'appréciation de la commission des garanties et du crédit au commerce extéri
 	  - Code des assurances - art. R442-1 (Ab)
 
 
+##### Paragraphe 5 : Opérations d'achat par des entreprises françaises auprès de fournisseurs français en concurrence avec une entreprise étrangère bénéficiant d'un soutien public à l'exportation 
+
+
+
+###### Article R442-10-6
+
+La garantie prévue au a ter du 1° de l'article L. 432-2 peut être accordée aux entreprises françaises fournisseurs et aux
+bénéficiaires prévus au a bis du même article dans les conditions prévues aux articles R. 442-10-7 à R. 442-10-10.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des assurances - art. L432-2
+	  - Code des assurances - art. R442-10-7 (V)
+
+
+###### Article R442-10-7
+
+La garantie porte sur les risques politiques, catastrophiques ou de non-paiement. 
+
+Le risque politique est réalisé lorsque le débiteur ne s'est pas acquitté de sa dette, pour autant que le non-paiement ne
+soit pas dû à l'inexécution des clauses et conditions du contrat et provienne de l'une des causes suivantes : 
+
+a) Guerre civile ou étrangère, révolution, émeute ou autres faits analogues ; 
+
+b) Acte ou décision d'un Gouvernement étranger ou d'une autorité administrative étrangère faisant obstacle à l'exécution du
+contrat ; 
+
+c) Acte ou décision des autorités administratives françaises faisant obstacle à l'exécution du contrat. 
+
+Le risque catastrophique est réalisé lorsque le débiteur est empêché de tenir ses engagements par suite d'un cataclysme tel
+que cyclone, inondation, raz de marée, tremblement de terre, éruption volcanique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code des assurances - art. R442-10-6 (V)
+
+
+###### Article R442-10-8
+
+L'octroi de la garantie est subordonné au respect par l'entreprise française acheteuse de l'ensemble des critères suivants : 
+
+1° Elle présente, sur au moins l'un des deux exercices précédant l'émission de la garantie de l'Etat, un ratio minimal de
+fonds propres sur engagements financiers fixé à 13,33 % ou un ratio minimal de couverture des charges d'intérêts, calculé sur
+la base de l'excédent brut d'exploitation, fixé à 1. Elle présente également des fonds propres, tels qu'ils sont inscrits
+dans ses comptes, supérieurs ou égaux à la moitié du capital social. 
+
+Les fonds propres, charges d'intérêts et excédent brut d'exploitation de l'entreprise sont déterminés conformément à la
+définition du plan comptable général. Lorsque les fonds propres ne sont pas limités aux capitaux propres, la prise en compte
+des autres fonds propres doit être validée par un commissaire aux comptes. 
+
+Les engagements financiers de l'entreprise sont définis par la somme, nette des disponibilités, quasi-disponibilités et des
+valeurs mobilières de placement, des dettes financières figurant au bilan et des garanties financières figurant hors bilan
+accordées par un établissement de crédit, une entreprise d'assurance ou de réassurance ou un autre établissement garant pour
+le compte de l'entreprise ; 
+
+2° Elle n'est pas soumise à une procédure de sauvegarde, de redressement ou de liquidation judiciaire prévue par les titres
+II à IV du livre VI du code de commerce et ne remplit pas les conditions pour l'être si l'un de ses créanciers en faisait la
+demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
+
+
+###### Article R442-10-9
+
+La garantie est soumise aux conditions suivantes : 
+
+1° Elle ne peut être accordée que sur présentation du plan de financement de l'acquisition d'un navire ou engin spatial
+civil, pour laquelle l'entreprise mentionnée à l'article R. 442-10-8 certifie avoir reçu une offre étrangère bénéficiant d'un
+soutien public à l'exportation ; 
+
+2° Elle ne peut pas couvrir plus de 80 % des montants dus aux bénéficiaires de la garantie ou, lorsque le bénéficiaire de la
+garantie est un fournisseur français, 80 % de la perte subie sur les sommes qu'il justifie avoir payées pour l'exécution de
+son contrat ; 
+
+3° Sa durée ne peut dépasser celle des engagements financiers consentis par l'entreprise mentionnée à l'article R. 442-10-8
+aux bénéficiaires de la garantie ; 
+
+4° Son octroi donne lieu à une rémunération conforme aux prix de marché compte tenu de la santé financière de l'entreprise
+mentionnée à l'article R. 442-10-8, des sûretés offertes et de la durée de la garantie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des assurances - art. R442-8-10 (V)
+
+
+###### Article R442-10-10
+
+Un rapport d'évaluation des garanties octroyées en vertu du a ter du 1° de l'article L. 432-2 est remis chaque année au
+ministre chargé de l'économie par l'organisme chargé de la gestion du régime, en vue de s'assurer de l'équilibre financier du
+régime de garantie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des assurances - art. L432-2
+
+
 ##### Paragraphe 5 : Dispositions communes.
+
+##### Paragraphe 6 : Dispositions communes.
 
 ###### Article R442-11
 
