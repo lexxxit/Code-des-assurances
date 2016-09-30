@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-09-26
+Version Consolidée au 2016-10-01
 
 # Partie législative
 
@@ -1646,21 +1646,21 @@ qu'il supporte une déduction fixée d'avance sur l'indemnité du sinistre.
 ###### Article L121-2
 
 L'assureur est garant des pertes et dommages causés par des personnes dont l'assuré est civilement responsable en vertu de
-l'article 1384 du code civil, quelles que soient la nature et la gravité des fautes de ces personnes.
+l'article 1242 du code civil, quelles que soient la nature et la gravité des fautes de ces personnes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
 
 	**Cite**:
 
-	  - Code civil - art. 1384 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 13
+	  - Code civil - art. 1242 (VT)
 
 
 ###### Article L121-3
@@ -1954,12 +1954,12 @@ de l'assuré, sauf le cas de malveillance commise par une de ces personnes.
 
 Les indemnités dues par suite d'assurance contre l'incendie, contre la grêle, contre la mortalité du bétail, ou les autres
 risques, sont attribuées sans qu'il y ait besoin de délégation expresse, aux créanciers privilégiés ou hypothécaires, suivant
-leur rang.
+leur rang. 
 
-Néanmoins, les paiements faits de bonne foi avant opposition sont valables.
+Néanmoins, les paiements faits de bonne foi avant opposition sont valables. 
 
 Il en est de même des indemnités dues en cas de sinistre par le locataire ou par le voisin, par application des articles 1733
-et 1382 du code civil.
+et 1240 du code civil. 
 
 En cas d'assurance du risque locatif ou du recours du voisin, l'assureur ne peut payer à un autre que le propriétaire de
 l'objet loué, le voisin ou le tiers subrogé à leurs droits, tout ou partie de la somme due, tant que lesdits propriétaire,
@@ -1969,16 +1969,16 @@ voisin ou tiers subrogé n'ont pas été désintéressés des conséquences du s
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
 
 	**Cite**:
 
-	  - Code civil - art. 1382 (V)
+	  - Code civil - art. 1240 (VT)
 	  - Code civil - art. 1733 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-07-13 art. 37
 
 
 ###### Article L121-14
@@ -4380,14 +4380,12 @@ Sous réserve des dispositions des articles L. 263-0 A et L. 273 A du livre des 
 code général des collectivités territoriales et du II de l'article 128 de la loi n° 2004-1485 du 30 décembre 2004 de finances
 rectificative pour 2004, le capital ou la rente garantis au profit d'un bénéficiaire déterminé ne peuvent être réclamés par
 les créanciers du contractant. Ces derniers ont seulement droit au remboursement des primes, dans le cas indiqué par
-l'article L. 132-13, deuxième alinéa, en vertu soit de l'article 1167 du code civil, soit des articles L. 621-107 et L.
+l'article L. 132-13, deuxième alinéa, en vertu soit de l'article 1341-2 du code civil, soit des articles L. 621-107 et L.
 621-108 du code de commerce.
 
 **Nota:**
 
-Loi n° 2013-1117 du 6 décembre 2013, article 41 V : Les présentes dispositions s'appliquent aux avis à tiers détenteur,
-saisies à tiers détenteur, oppositions à tiers détenteur et oppositions administratives notifiés à compter du 8 décembre
-2013.
+
 
 **Liens relatifs à cet article**
 
@@ -4398,15 +4396,15 @@ saisies à tiers détenteur, oppositions à tiers détenteur et oppositions admi
 	**Cite**:
 
 	  - Loi n°2004-1485 du 30 décembre 2004 - art. 128
-	  - Code de commerce - art. L621-107 (T)
+	  - Code de commerce - art. L621-107
 	  - Livre des procédures fiscales - art. L263-0 A
 	  - Livre des procédures fiscales - art. L273 A
-	  - Code général des collectivités territoriales - art. L1617-5 (V)
-	  - Code civil - art. 1167 (V)
+	  - Code général des collectivités territoriales - art. L1617-5
+	  - Code civil - art. 1341-2 (VD)
 
 	**Modifié par**:
 
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 41 (V)
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
 
 
 ###### Article L132-15
@@ -24923,18 +24921,18 @@ mutuelles régionales d'assurance maladie et maternité des travailleurs non sal
 Les entreprises d'assurance habilitées à pratiquer les opérations de caution ayant fourni un cautionnement, un aval ou une
 garantie, que ces derniers soient d'origine légale, réglementaire ou conventionnelle, disposent de plein droit et dans tous
 les cas d'un recours contre le client donneur d'ordre de l'engagement, ses coobligés et les personnes qui se sont portées
-caution et, pour les paiements effectués au titre de leur engagement, de la subrogation dans les droits du créancier prévue
-au 3° de l'article 1251 du code civil.
+caution et, pour les paiements effectués au titre de leur engagement, de la subrogation dans les droits du créancier prévue à
+l'article 1346 du code civil.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 26
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
 
 	**Cite**:
 
-	  - Code civil - art. 1251
+	  - Code civil - art. 1346 (VT)
 
 
 ### Titre V : Organisme d'information
@@ -25154,43 +25152,33 @@ Miquelon.
 
 ###### Article L511-1
 
-I. - L'intermédiation en assurance ou en réassurance est l'activité qui consiste à présenter, proposer ou aider à conclure
-des contrats d'assurance ou de réassurance ou à réaliser d'autres travaux préparatoires à leur conclusion. N'est pas
-considérée comme de l'intermédiation en assurance ou en réassurance l'activité consistant exclusivement en la gestion,
-l'estimation et la liquidation des sinistres.
+I.-L'intermédiation en assurance ou en réassurance est l'activité qui consiste à présenter, proposer ou aider à conclure des
+contrats d'assurance ou de réassurance ou à réaliser d'autres travaux préparatoires à leur conclusion. N'est pas considérée
+comme de l'intermédiation en assurance ou en réassurance l'activité consistant exclusivement en la gestion, l'estimation et
+la liquidation des sinistres. 
 
 Est un intermédiaire d'assurance ou de réassurance toute personne qui, contre rémunération, exerce une activité
-d'intermédiation en assurance ou en réassurance.
+d'intermédiation en assurance ou en réassurance. 
 
-II. - Les dispositions du second alinéa du I ne s'appliquent ni aux entreprises d'assurance et de réassurance, ni aux
-personnes physiques salariées d'une entreprise d'assurance ou de réassurance, ni aux personnes qui, pratiquant une activité
+II.-Les dispositions du second alinéa du I ne s'appliquent ni aux entreprises d'assurance et de réassurance, ni aux personnes
+physiques salariées d'une entreprise d'assurance ou de réassurance, ni aux personnes qui, pratiquant une activité
 d'intermédiation en assurance ou en réassurance, répondent à des conditions fixées par décret en Conseil d'Etat, ni aux
 personnes physiques salariées de ces personnes. Les conditions fixées par ce décret tiennent notamment à l'activité de
-l'intermédiaire, à la nature du contrat d'assurance et au montant de la prime ou de la cotisation.
+l'intermédiaire, à la nature du contrat d'assurance et au montant de la prime ou de la cotisation. 
 
-III. - Pour cette activité d'intermédiation, l'employeur ou mandant est civilement responsable, dans les termes de l'article
-1384 du code civil, du dommage causé par la faute, l'imprudence ou la négligence de ses employés ou mandataires agissant en
+III.-Pour cette activité d'intermédiation, l'employeur ou mandant est civilement responsable, dans les termes de l'article
+1242 du code civil, du dommage causé par la faute, l'imprudence ou la négligence de ses employés ou mandataires agissant en
 cette qualité, lesquels sont considérés, pour l'application du présent article, comme des préposés, nonobstant toute
-convention contraire.
+convention contraire. 
 
-IV. - Un décret en Conseil d'Etat précise les conditions d'application du présent article et détermine les catégories de
+IV.-Un décret en Conseil d'Etat précise les conditions d'application du présent article et détermine les catégories de
 personnes habilitées à exercer une activité d'intermédiation.
-
-**Nota:**
-
-Loi 2005-1564 2005-12-15 art. 19 : Les intermédiaires d'assurance ou de réassurance mentionnés à l'article L511-1 disposent
-d'un délai de trois mois à compter de la date de mise en place du registre mentionné au I de l'article L512-1 pour se mettre
-en conformité avec les dispositions de la présente loi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 1 () JORF 16 décembre 2005
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Cité par**:
 
@@ -25217,9 +25205,13 @@ en conformité avec les dispositions de la présente loi.
 	  - Code monétaire et financier - art. L612-20 (VD)
 	  - Code rural et de la pêche maritime - art. R173-59 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°1938-06-14 art. 31 bis
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
+
+	**Cite**:
+
+	  - Code civil - art. 1242 (VT)
 
 
 #### Chapitre II : Principes généraux
@@ -60630,8 +60622,6 @@ régime de garantie.
 
 	  - Code des assurances - art. L432-2
 
-
-##### Paragraphe 5 : Dispositions communes.
 
 ##### Paragraphe 6 : Dispositions communes.
 
