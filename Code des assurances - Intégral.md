@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-12-25
+Version Consolidée au 2016-12-31
 
 # Partie législative
 
@@ -24380,19 +24380,28 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 ###### Article L432-1
 
-Le Gouvernement est autorisé à prendre, par décret en Conseil d'Etat rendu après avis du Comité consultatif de la législation
-et de la réglementation financières, toutes mesures ayant pour objet l'amélioration des conditions de crédit et d'assurance-
-crédit nécessaires au développement du commerce extérieur de la France. Il peut notamment, à cet effet, provoquer la création
-d'établissements nouveaux spécialisés dans le crédit à l'exportation ou à l'importation, et proposer au Parlement la
-modification des statuts ou la réorganisation des établissements existants et de tous organismes administratifs ou
-subventionnés par l'Etat ayant pour objet l'assurance du crédit à l'exportation ou à l'importation ainsi que le soutien des
-intérêts stratégiques de l'économie française à l'étranger.
+Dans les conditions fixées au présent chapitre, le ministre chargé de l'économie est autorisé à accorder la garantie de
+l'Etat, pour les opérations concourant au développement du commerce extérieur de la France, aux entreprises françaises
+exportatrices ou importatrices ou investissant à l'étranger ou, dans des conditions précisées par décret, pour des opérations
+de construction navale ou de construction d'engins spatiaux civils, à des entreprises françaises en concurrence avec une
+personne étrangère bénéficiant d'un soutien public, ou au bénéfice des établissements de crédit, aux sociétés de financement,
+aux entreprises d'assurance et de réassurance, aux mutuelles et institutions de prévoyance, de droit français ou étranger,
+ainsi qu'aux organismes mentionnés à l'article L. 214-1 du code monétaire et financier. 
+
+Le ministre chargé de l'économie est également autorisé, dans les mêmes conditions, à accorder la garantie de l'Etat pour les
+opérations de gestion des opérations et garanties de couverture du risque monétaire de l'organisme mentionné au premier
+alinéa de l'article L. 432-2 du présent code.
+
+**Nota:**
+
+Loi n° 2015-1786 du 29 décembre 2015, article 103 VI : le présent article entre en vigueur à une date fixée par décret, et au
+plus tard le 31 décembre 2016.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 121
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 103 (V)
 
 	**Cité par**:
 
@@ -24401,20 +24410,26 @@ intérêts stratégiques de l'économie française à l'étranger.
 	  - Arrêté du 16 février 2017 - art. 2 (V)
 	  - Code des assurances - art. R442-5 (VD)
 
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-1
+
 
 ###### Article L432-2
 
-La garantie de l'Etat peut être accordée en totalité ou en partie :
+Un organisme est chargé par l'Etat de gérer et délivrer sous son contrôle, pour son compte et en son nom les garanties
+publiques pour le commerce extérieur prévues à l'article L. 432-1. 
 
-1° A la Compagnie française du commerce extérieur:
+Ces garanties peuvent être accordées : 
 
-a) Pour ses opérations d'assurance des risques commerciaux, politiques, monétaires, catastrophiques et de certains risques
-dits extraordinaires, afférents à des opérations de nature à contribuer au développement du commerce extérieur de la France
-ou présentant un intérêt stratégique pour l'économie française à l'étranger ; 
+1° : a) Pour des opérations d'assurance des risques commerciaux, politiques, monétaires et catastrophiques, afférents à des
+opérations de nature à contribuer au développement du commerce extérieur de la France ou présentant un intérêt stratégique
+pour l'économie française à l'étranger ; 
 
-a bis) Pour ses opérations d'assurance couvrant le risque de non-paiement des sommes dues par des entreprises à des
-établissements de crédit, des sociétés de financement ou des entreprises d'assurance dans le cadre d'opérations de commerce
-extérieur dans des conditions prévues par décret ;
+a bis) Pour des opérations d'assurance couvrant le risque de non-paiement des sommes dues par des entreprises à des
+établissements de crédit, des sociétés de financement, des entreprises d'assurance et de réassurance, des mutuelles et
+institutions de prévoyance, de droit français ou étranger, ou des organismes mentionnés à l'article L. 214-1 du code
+monétaire et financier, dans le cadre d'opérations de commerce extérieur dans des conditions prévues par décret ;
 
 a ter) Pour ses opérations d'assurance couvrant les risques mentionnés au a et au a bis afférents à des opérations de
 financement de l'acquisition par des entreprises françaises de navires ou d'engins spatiaux civils produits en France par des
@@ -24423,7 +24438,7 @@ des conditions d'octroi et sous réserve du respect de critères définis par d�
 
 b) Abrogé ;
 
-c) Pour les opérations de gestion des droits et obligations afférents aux opérations et garanties mentionnées au a ;
+c) Abrogé ;
 
 d) Dans des conditions fixées par décret, pour des investissements à réaliser ou déjà réalisés par des entreprises françaises
 dans des pays étrangers lorsque ces investissements présentent un intérêt pour le développement de l'économie française et
@@ -24432,7 +24447,7 @@ de pays étrangers qui ne sont pas liés au Trésor français par un compte d'op
 la conclusion préalable d'un accord sur la protection des investissements. En cas de mise en jeu de la garantie, l'Etat peut
 prélever le montant correspondant à ladite garantie sur les crédits d'aide à verser au pays concerné ;
 
-e) Pour ses opérations de réassurance des entreprises habilitées à pratiquer en France des opérations d'assurance-crédit, au
+e) Pour des opérations de réassurance des entreprises habilitées à pratiquer en France des opérations d'assurance-crédit, au
 titre des opérations d'assurance des risques commerciaux à l'exportation d'une durée de paiement inférieure à deux ans que
 celles-ci réalisent vers des pays autres que les pays de l'Union européenne et les pays à haut revenu de l'Organisation de
 coopération et de développement économiques (OCDE), tels qu'ils sont définis à l'article 11 de l'Arrangement de l'OCDE sur
@@ -24440,12 +24455,11 @@ les crédits à l'exportation bénéficiant d'un soutien public, du 1er octobre 
 par le règlement (UE) n° 1233/2011 du Parlement européen et du Conseil du 16 novembre 2011, relatif à l'application de
 certaines lignes directrices pour les crédits à l'exportation bénéficiant d'un soutien public et abrogeant les décisions du
 Conseil 2001/76/ CE et 2001/77/ CE, et dans la limite globale d'un milliard d'euros. L'octroi de cette garantie est
-subordonné à la constatation d'une défaillance du marché de l'assurance-crédit. La Compagnie française d'assurance pour le
-commerce extérieur (COFACE) n'est financièrement exposée au titre de ces opérations que pour autant que l'assureur-crédit,
-cosignataire du traité de réassurance, conserve une exposition au risque sur les entreprises bénéficiant du financement
-faisant l'objet de l'assurance-crédit. Un décret en Conseil d'Etat fixe les modalités d'application du présent e, notamment
-celles ayant trait à la constatation de la défaillance du marché ainsi que la part minimale de risque que l'assureur-crédit
-cosignataire du traité de réassurance conserve à sa charge. 
+subordonné à la constatation d'une défaillance du marché de l'assurance-crédit. L'Etat n'est financièrement exposé au titre
+de ces opérations que pour autant que l'assureur-crédit, cosignataire du traité de réassurance, conserve une exposition au
+risque sur les entreprises bénéficiant du financement faisant l'objet de l'assurance-crédit. Un décret en Conseil d'Etat fixe
+les modalités d'application du présent e, notamment celles ayant trait à la constatation de la défaillance du marché ainsi
+que la part minimale de risque que l'assureur-crédit cosignataire du traité de réassurance conserve à sa charge. 
 
 2° Aux exportateurs pour les opérations prévues à l'article 53 de la loi n° 48-1516 du 26 septembre 1948, fixant l'évaluation
 des voies et moyens du budget général pour l'exercice 1948 et relative à diverses dispositions d'ordre financier.
@@ -24454,6 +24468,11 @@ La garantie de l'Etat peut être également accordée aux exportateurs pour les 
 contrats conclus avec eux par le ministre de l'économie et des finances, d'une partie des pertes pouvant résulter des
 dépenses qu'ils engagent pour prospecter certains marchés étrangers, faire de la publicité et constituer des stocks en vue de
 développer les exportations à destination de ces marchés.
+
+**Nota:**
+
+Aux termes du VI de l'article 103 de la loi n° 2015-1786 du 29 décembre 2015, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 31 décembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -24499,16 +24518,37 @@ développer les exportations à destination de ces marchés.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 102
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 103 (V)
 
 
 ###### Article L432-3
 
 La garantie de l'Etat est accordée après avis de la commission des garanties et du crédit au commerce extérieur, instituée
-par l'article 15 de la loi n° 49-874 du 5 juillet 1949, à l'exception de celle portant sur les opérations de gestion
-mentionnées au 1° de l'article L. 432-2 pour lesquelles elle est accordée par arrêté du ministre chargé de l'économie.
+par l'article 15 de la loi n° 49-874 du 5 juillet 1949, dans des conditions précisées par décret. 
+
+Les dirigeants, les mandataires sociaux et les membres du conseil d'administration, du conseil de surveillance ou de l'organe
+délibérant en tenant lieu de la personne morale susceptible de détenir l'organisme mentionné au premier alinéa de l'article
+L. 432-2 ne peuvent pas intervenir dans le processus d'octroi des garanties publiques régi par le premier alinéa du présent
+article. Cette interdiction s'applique également aux dirigeants, aux mandataires sociaux et aux membres du conseil
+d'administration, du conseil de surveillance ou de l'organe délibérant en tenant lieu des filiales détenues, au sens de
+l'article L. 233-1 du code de commerce, par la personne morale précitée, à l'exclusion du directeur général de l'organisme
+mentionné au premier alinéa de l'article L. 432-2 du présent code. 
+
+L'organisme mentionné au premier alinéa de l'article L. 432-2 met en œuvre les mesures nécessaires à la protection du secret
+de la défense nationale et des autres secrets dont il est dépositaire au titre des missions qui lui sont confiées par l'Etat
+et en contrôle l'application.
+
+**Nota:**
+
+Loi n° 2015-1786 du 29 décembre 2015, article 103 VI : le présent article entre en vigueur à une date fixée par décret, et au
+plus tard le 31 décembre 2016.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°49-874 du 5 juillet 1949 - art. 15 (V)
+	  - Code de commerce - art. L233-1 (V)
 
 	**Liens**:
 
@@ -24516,11 +24556,7 @@ mentionnées au 1° de l'article L. 432-2 pour lesquelles elle est accordée par
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi - art. 37 () JORF 30 décembre 1997
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Cité par**:
 
@@ -24529,24 +24565,36 @@ mentionnées au 1° de l'article L. 432-2 pour lesquelles elle est accordée par
 	  - Code des assurances - art. R*432-3 (Ab)
 	  - Code des assurances - art. R442-2 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des assurances - art. L432-2 (VT)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 103 (V)
 
 
 ###### Article L432-4
 
-La Compagnie française d'assurance pour le commerce extérieur établit, pour les opérations qu'elle effectue avec la garantie
-de l'Etat en application des articles L. 432-2 et L. 432-5, un enregistrement comptable distinct. Une convention entre l'Etat
-et la Compagnie française d'assurance pour le commerce extérieur précise les modalités selon lesquelles cet enregistrement
-est effectué ainsi que les conditions dans lesquelles il est contrôlé et certifié par un ou plusieurs commissaires aux
-comptes. 
+L'organisme mentionné au premier alinéa de l'article L. 432-2 établit, pour les opérations qu'il effectue avec la garantie de
+l'Etat en application des articles L. 432-2 et L. 432-5, un enregistrement comptable distinct. Une convention entre l'Etat et
+l'organisme mentionné au premier alinéa de l'article L. 432-2 précise les objectifs fixés par l'Etat à l'organisme, les
+conditions de mise en œuvre des garanties publiques à l'exportation au nom, pour le compte et sous le contrôle de l'Etat, les
+modalités selon lesquelles cet enregistrement est effectué ainsi que les conditions dans lesquelles il est contrôlé et
+certifié par un ou plusieurs commissaires aux comptes. 
 
-Sans préjudice des droits des titulaires de créances nées des opérations effectuées avec la garantie de l'Etat, aucun
-créancier de la Compagnie française d'assurance pour le commerce extérieur autre que l'Etat ne peut se prévaloir d'un droit
-quelconque sur les biens et droits ressortant de l'enregistrement établi en application de l'alinéa précédent, même sur le
-fondement du livre VI, titre II du code de commerce, des articles L. 611-1 à L. 612-4 du code de commerce, ou des articles L.
-310-25 et L. 326-2 à L. 327-6 du présent code.
+La convention mentionnée au premier alinéa du présent article emporte mandat à l'organisme mentionné au premier alinéa de
+l'article L. 432-2 d'assurer l'encaissement de recettes, le paiement de dépenses, dont les indemnisations de sinistres, et
+toutes opérations de maniement des fonds issus de son activité assurée au nom et pour le compte de l'Etat, qui demeure le
+titulaire des droits et obligations nés au titre de ces opérations. En particulier, les actifs figurant dans l'enregistrement
+comptable prévu au premier alinéa du présent article demeurent la propriété insaisissable de l'Etat. 
+
+Dans les cas où l'Etat est directement ou indirectement actionnaire de l'organisme mentionné au premier alinéa de l'article
+L. 432-2, l'article L. 225-38 du code de commerce ne s'applique pas aux conventions conclues avec cet organisme.
+
+L'organisme mentionné au premier alinéa de l'article L. 432-2 du présent code ne requiert pas l'obtention de l'agrément
+administratif mentionné à l'article L. 321-1.
+
+**Nota:**
+
+Loi n° 2015-1786 du 29 décembre 2015, article 103 VI : le présent article entre en vigueur à une date fixée par décret, et au
+plus tard le 31 décembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -24554,9 +24602,9 @@ fondement du livre VI, titre II du code de commerce, des articles L. 611-1 à L.
 
 	  - Décret n°76-666 du 16 juillet 1976
 
-	**Liens**:
+	**Modifié par**:
 
-	  - PERIME: Loi n°2012-1510 du 29 décembre 2012 - art. 84 (VT)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 103 (M)
 
 	**Cité par**:
 
@@ -24566,28 +24614,87 @@ fondement du livre VI, titre II du code de commerce, des articles L. 611-1 à L.
 
 	**Cite**:
 
-	  - Code de commerce - art. L611-1 (V)
-	  - Code des assurances - art. L310-25 (V)
-	  - Code des assurances - art. L326-2 (V)
-	  - Code des assurances - art. L432-2 (VT)
-	  - Code des assurances - art. L432-5 (V)
+	  - Code de commerce - art. L225-38
 
 
-###### Article L432-5
+###### Article L432-4-1
 
-La garantie de l'Etat peut également être accordée à la Compagnie française pour le commerce extérieur (COFACE) dans les
-conditions fixées à l'article 84 de la loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012.
+Le président de l'organisme mentionné au premier alinéa de l'article L. 432-2 délègue l'ensemble de ses prérogatives de
+gestion opérationnelle de l'organisme précité au directeur général de cet organisme. Celui-ci est nommé, après avis du
+président de l'organisme précité, ou, le cas échéant, révoqué par le ministre chargé de l'économie. 
+
+Le ministre chargé de l'économie désigne, auprès de l'organisme mentionné au premier alinéa de l'article L. 432-2, un
+représentant chargé de veiller à la mise en œuvre de la garantie de l'Etat ainsi qu'à l'exercice des responsabilités qui sont
+confiées par l'Etat à cet organisme. Ce représentant est chargé du contrôle de l'exécution de la convention prévue au premier
+alinéa de l'article L. 432-4. Il peut prendre connaissance, à tout moment, de la comptabilité de l'organisme mentionné au
+premier alinéa de l'article L. 432-2 ainsi que de tout document ou information nécessaire à l'exécution de sa mission. Il
+peut adresser des observations et recommandations au directeur général, qui lui fait connaître, dans un délai de quinze jours
+à compter de leur réception, les suites qui leur ont été données.
+
+**Nota:**
+
+Loi n° 2015-1786 du 29 décembre 2015, article 103 VI : le présent article entre en vigueur à une date fixée par décret, et au
+plus tard le 31 décembre 2016.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 84 (VT)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 103 (V)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R442-4 (VD)
+	  - Code des assurances - art. R442-5 (VD)
+
+
+###### Article L432-4-2
+
+A l'occasion de la présentation du projet de loi de finances de l'année, le Gouvernement transmet aux commissions permanentes
+chargées des finances de l'Assemblée nationale et du Sénat un rapport sur les opérations effectuées pour le compte de l'Etat
+par l'organisme mentionné au premier alinéa de l'article L. 432-2.
+
+**Nota:**
+
+Loi n° 2015-1786 du 29 décembre 2015, article 103 VI : le présent article entre en vigueur à une date fixée par décret, et au
+plus tard le 31 décembre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 103 (V)
+
+
+###### Article L432-5
+
+L'organisme mentionné au premier alinéa de l'article L. 432-2 gère et délivre également, sous le contrôle, pour le compte et
+au nom de l'Etat, les garanties prévues à l'article 84 de la loi n° 2012-1510 du 29 décembre 2012 de finances rectificative
+pour 2012.
+
+**Nota:**
+
+Loi n° 2015-1786 du 29 décembre 2015, article 103 VI : le présent article entre en vigueur à une date fixée par décret, et au
+plus tard le 31 décembre 2016.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 84
+
+	**Modifié par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 103 (V)
 
 	**Cité par**:
 
 	  - Code des assurances - art. L432-4 (V)
 
+
+#### Chapitre II : Garanties publiques pour le commerce extérieur
+
+##### Section I : Dispositions générales.
 
 ### Titre IV : Régimes particuliers d'assurance
 
@@ -59792,69 +59899,21 @@ Pour les années comprises dans la période du 1er janvier 1978 au 31 décembre 
 	  - Code des assurances - art. D441-22 (V)
 
 
-#### Chapitre II : Autres régimes particuliers d'assurance
+#### Chapitre II : Garanties publiques pour le commerce extérieur
 
-##### Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux
-
-##### Paragraphe 1 : Dispositions générales.
-
-###### Article R442-1
-
-Dans l'intérêt du commerce extérieur de la France ou en présence d'un intérêt stratégique pour l'économie française, les
-risques commerciaux, politiques, monétaires, catastrophiques, ainsi que certains risques dits extraordinaires, liés aux
-échanges internationaux, sont, en application de la loi du 5 juillet 1949 relative à diverses dispositions d'ordre économique
-et financier, garantis et gérés, pour le compte de l'Etat et sous son contrôle, par la société anonyme dénommée Compagnie
-française d'assurance pour le commerce extérieur (Coface) dans les conditions fixées par les articles R. 442-2 à R.
-442-10-10. 
-
-La Compagnie française d'assurance pour le commerce extérieur (COFACE) peut également délivrer, pour le compte de l'Etat et
-sous son contrôle, les garanties mentionnées au I de l'article 84 de la loi n° 2012-1510 du 29 décembre 2012 de finances
-rectificative pour 2012, dans les conditions fixées aux articles R. 442-2 à R. 442-7-2 et R. 442-8-7.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°49-874 du 5 juillet 1949
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 84
-	  - Code des assurances - art. R442-8-7
-
-	**Cité par**:
-
-	  - Arrêté du 15 novembre 2004 - art. 7 (Ab)
-	  - Arrêté du 16 novembre 2004 - art. 12 (Ab)
-	  - Arrêté du 21 avril 2009 - art. 6 (Ab)
-	  - Arrêté du 8 octobre 2009 (V)
-	  - Arrêté du 11 décembre 2015 - art. 6 (V)
-	  - Code des assurances - art. R442-10-5 (Ab)
-	  - Code des assurances - art. R442-2 (VT)
-	  - Code des assurances - art. R442-8-5 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1701 du 12 décembre 2016 - art. 2
-
+##### Section I : Dispositions générales.
 
 ###### Article R442-2
 
-Les garanties relatives aux risques mentionnés à l'article R. 442-1 sont accordées par décision du ministre chargé de
-l'économie, prise après avis de la commission des garanties et du crédit au commerce extérieur visée à l'article L. 432-3 du
-présent code. 
+Les garanties relatives aux risques mentionnés à l'article L. 432-2 sont accordées par décision du ministre chargé de
+l'économie, prise après avis de la commission des garanties et du crédit au commerce extérieur mentionnée à l'article L.
+432-3. 
 
-La société Compagnie française d'assurance pour le commerce extérieur (COFACE) délivre les polices d'assurance qui couvrent
-les risques définis à l'article R. 442-1 ; pour l'établissement des conditions des polices relatives, notamment, aux
-obligations des assurés, à la perception des primes, aux faits générateurs de sinistres, aux délais de règlement des
-indemnités, à la répartition des sommes récupérées sur créances sinistrées, et l'exécution de ces polices, la société
-Compagnie française d'assurance pour le commerce extérieur (COFACE) se conforme aux décisions du ministre chargé de
-l'économie prises après avis de la commission des garanties et du crédit au commerce extérieur.
+L'organisme mentionné à l'article L. 432-2 délivre les polices d'assurance qui couvrent les risques mentionnés au même
+article ; pour l'établissement des conditions des polices relatives, notamment, aux obligations des assurés, à la perception
+des primes, aux faits générateurs de sinistres, aux délais de règlement des indemnités, à la répartition des sommes
+récupérées sur créances sinistrées, et l'exécution de ces polices, cet organisme se conforme aux décisions du ministre chargé
+de l'économie prises après avis de la commission des garanties et du crédit au commerce extérieur.
 
 **Liens relatifs à cet article**
 
@@ -59867,153 +59926,103 @@ l'économie prises après avis de la commission des garanties et du crédit au c
 	  - Décret n°2014-636 du 19 juin 2014 (V)
 	  - Code des assurances - art. R442-1 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2014-636 du 19 juin 2014 - art. 1
-
-	**Cite**:
-
-	  - Code des assurances - art. L432-3 (V)
-
-
-###### Article R442-3
-
-La société Compagnie française d'assurance pour le commerce extérieur (COFACE) est soumise au contrôle budgétaire de l'Etat,
-dans les conditions prévues par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
-publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 du 16 juillet 1976
-
-	**Cite**:
-
-	  - Décret n°2012-1246 du 7 novembre 2012
-
-	**Cité par**:
-
-	  - Décret n°2014-636 du 19 juin 2014 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2014-636 du 19 juin 2014 - art. 1
-
 	**Liens**:
 
 	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2016-1701 du 12 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. L432-2 (VD)
+	  - Code des assurances - art. L432-3
 
 
 ###### Article R442-4
 
-Le ministre chargé de l'économie désigne auprès de la société Compagnie française d'assurance pour le commerce extérieur
-(COFACE) et de la société COFACE SA exerçant son activité par l'intermédiaire de sa filiale unique, la société COFACE, pour
-exercer les fonctions de commissaire du Gouvernement, un fonctionnaire de son département chargé de veiller à la mise en
-œuvre de la garantie de l'Etat ainsi qu'à l'exercice des responsabilités qui sont confiées par l'Etat à la société COFACE.
+Le représentant du ministre chargé de l'économie mentionné à l'article L. 432-4-1 est nommé par arrêté de ce ministre.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°2014-636 du 19 juin 2014 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2014-636 du 19 juin 2014 - art. 2
-
-
-###### Article R442-5
-
-La société Compagnie française d'assurance pour le commerce extérieur (COFACE) et la société COFACE SA transmettent au
-commissaire du Gouvernement copie des documents et informations transmis aux membres de leur conseil d'administration, et ce
-dans les mêmes délais. 
-
-La société COFACE porte notamment à la connaissance du commissaire du Gouvernement, préalablement aux réunions du conseil
-d'administration dont l'ordre du jour comprend la désignation du président du conseil d'administration de la société, la
-nomination du directeur général ou celle du directeur général délégué, s'il en existe un, ayant dans ses compétences la
-gestion des activités pour le compte de l'Etat, l'ensemble des informations qu'elle détient sur les personnes pressenties.
-Elle porte également à la connaissance du commissaire du Gouvernement, préalablement aux réunions de l'assemblée générale des
-actionnaires dont l'ordre du jour comprend la désignation d'administrateurs, l'ensemble des informations qu'elle détient sur
-les personnes pressenties. Ces informations sont transmises au plus tard cinq jours francs avant la réunion du conseil
-d'administration ou de l'assemblée générale des actionnaires. 
-
-Le commissaire du Gouvernement peut prendre connaissance, à tout moment, de la comptabilité de la société COFACE, ainsi que
-de tout document ou information nécessaire à l'exécution de sa mission.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2014-636 du 19 juin 2014 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2014-636 du 19 juin 2014 - art. 3
-
-
-###### Article R442-5-1
-
-Dans un délai de trente jours à compter du jour où il en a été informé, le commissaire du Gouvernement peut s'opposer à une
-décision du conseil d'administration de la société Compagnie française d'assurance pour le commerce extérieur (COFACE) dans
-les cas suivants : 
-
-a) Lorsque cette décision est relative à la garantie de l'Etat ; 
-
-b) Lorsqu'elle est de nature à compromettre l'exercice des responsabilités confiées par l'Etat à la société ; 
-
-c) Ou lorsqu'elle est de nature, eu égard aux secrets de la défense nationale dont est dépositaire la société dans l'exercice
-des responsabilités que lui a confiées l'Etat ou aux garanties portant sur les opérations mentionnées au 3° du I de l'article
-R. 442-8-2, à porter atteinte aux intérêts du pays en matière de défense nationale ou de sécurité d'approvisionnement en
-ressources énergétiques et en matières premières. 
-
-La société COFACE peut, dans un délai de huit jours à compter de la notification de l'opposition du commissaire du
-Gouvernement, former un recours devant le ministre chargé de l'économie, qui dispose d'un délai de dix jours pour se
-prononcer.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-636 du 19 juin 2014 - art. 3
-
-	**Cite**:
-
-	  - Code des assurances - art. R442-8-2 (V)
-
-
-###### Article R442-5-2
-
-Dans un délai de trente jours à compter du jour où il en a été informé, le commissaire du Gouvernement peut s'opposer à une
-décision du conseil d'administration de la société COFACE SA dans les cas suivants : 
-
-a) Lorsque cette décision est de nature à compromettre l'exercice des responsabilités confiées par l'Etat à la société
-COFACE ; 
-
-b) Ou lorsqu'elle est de nature, eu égard aux secrets de la défense nationale dont est dépositaire la société COFACE dans
-l'exercice des responsabilités que lui a confiées l'Etat ou aux garanties portant sur les opérations mentionnées au 3° du I
-de l'article R. 442-8-2, à porter atteinte aux intérêts du pays en matière de défense nationale ou de sécurité
-d'approvisionnement en ressources énergétiques et en matières premières. 
-
-La société COFACE SA peut, dans un délai de huit jours à compter de la notification de l'opposition du commissaire du
-Gouvernement, former un recours devant le ministre chargé de l'économie, qui dispose d'un délai de dix jours pour se
-prononcer.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-636 du 19 juin 2014 - art. 3
 
 	**Liens**:
 
 	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
-	**Abrogé par**:
+	**Modifié par**:
+
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. L432-4-1 (VD)
+
+
+###### Article R442-5
+
+Le représentant du ministre chargé de l'économie mentionné à l'article L. 432-4-1 peut s'opposer aux décisions du directeur
+général de l'organisme mentionné à l'article L. 432-2 dans les cas suivants : 
+
+a) Lorsqu'elles sont de nature à modifier substantiellement les relations de l'organisme avec l'Etat ou avec les
+bénéficiaires mentionnés à l'article L. 432-1 ; 
+
+b) Lorsqu'elles sont de nature à compromettre l'exercice des missions confiées par l'Etat à l'organisme ; 
+
+c) Ou lorsqu'elles sont de nature, eu égard aux secrets de la défense nationale dont est dépositaire l'organisme dans
+l'exercice des responsabilités que lui a confiées l'Etat ou aux garanties portant sur les opérations mentionnées au 3° du I
+de l'article R. 442-8-2, à porter atteinte aux intérêts du pays en matière de défense nationale ou de sécurité
+d'approvisionnement en ressources énergétiques et en matières premières. 
+
+Sans préjudice de l'application des dispositions du second alinéa de l'article L. 432-4-1, ces décisions font l'objet d'une
+information préalable du représentant du ministre chargé de l'économie. 
+
+Le représentant du ministre chargé de l'économie dispose d'un délai de dix jours pour s'opposer à ces décisions. L'organisme
+mentionné à l'article L. 432-2 peut, dans un délai de huit jours à compter de la notification de l'opposition du représentant
+du ministre, former un recours devant le ministre chargé de l'économie, qui dispose alors d'un délai de dix jours pour se
+prononcer. 
+
+Les décisions auxquelles le représentant du ministre chargé de l'économie a fait opposition ne deviennent exécutoires qu'en
+cas de levée de cette opposition par le ministre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2014-636 du 19 juin 2014 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. L432-1 (VD)
+	  - Code des assurances - art. L432-2 (VD)
+	  - Code des assurances - art. L432-4-1 (VD)
+	  - Code des assurances - art. R442-8-2 (VD)
+
+
+###### Article R442-5-1
+
+Le représentant du ministre chargé de l'économie veille à ce que l'organisme dispose des moyens nécessaires à l'exécution de
+sa mission.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
+	**Modifié par**:
 
 	  - Décret n°2016-1701 du 12 décembre 2016 - art. 2
 
@@ -60024,19 +60033,8 @@ prononcer.
 
 ###### Article R442-6
 
-Le franchissement par une personne, agissant seule ou de concert, du seuil de 10 % du capital social ou des droits de vote de
-la société Compagnie française d'assurance pour le commerce extérieur (COFACE) ou de la société COFACE SA fait l'objet d'une
-délibération de leur conseil d'administration. Cette délibération est notifiée au ministre chargé de l'économie. 
-
-Dans un délai de trente jours à compter du jour où il en a été informé, le ministre peut s'opposer à ce franchissement
-lorsqu'il est de nature, eu égard aux secrets de la défense nationale dont est dépositaire la société COFACE dans l'exercice
-des responsabilités que lui a confiées l'Etat ou aux garanties portant sur les opérations mentionnées au 3° du I de l'article
-R. 442-8-2, à porter atteinte aux intérêts du pays en matière de défense nationale ou de sécurité d'approvisionnement en
-ressources énergétiques et en matières premières. 
-
-Lorsque des prises de participation ont été effectuées en méconnaissance du premier alinéa ou en cas d'opposition du ministre
-chargé de l'économie en vertu du deuxième alinéa, le ou les détenteurs des participations concernées ne peuvent pas exercer
-le droit de vote correspondant et doivent céder ces titres dans un délai de trois mois.
+Le directeur général de l'organisme mentionné à l'article L. 432-2 est nommé par arrêté du ministre chargé de l'économie. Son
+mandat est d'une durée de 36 mois renouvelable.
 
 **Liens relatifs à cet article**
 
@@ -60048,44 +60046,48 @@ le droit de vote correspondant et doivent céder ces titres dans un délai de tr
 
 	  - Décret n°2014-636 du 19 juin 2014 (V)
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
 	**Modifié par**:
 
-	  - Décret n°2014-636 du 19 juin 2014 - art. 4
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code des assurances - art. R442-8-2 (V)
+	  - Code des assurances - art. L432-2 (VD)
 
 
 ###### Article R442-7-1
 
-La garantie délivrée pour le compte de l'Etat ne porte en aucun cas sur les risques qui, en application de la législation en
-vigueur et compte tenu des usages courants du marché de l'assurance, peuvent être couverts par des sociétés, groupements ou
-organismes quelconque habilités à pratiquer en France l'assurance contre les risques ordinaires ou de guerre.
+La garantie de l'Etat ne porte en aucun cas sur les risques qui, en application de la législation en vigueur et compte tenu
+des usages courants du marché de l'assurance, peuvent être couverts par des sociétés, groupements ou organismes quelconque
+habilités à pratiquer en France l'assurance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 2
 
 
 ###### Article R442-7-2
 
-Les demandes de garanties sont adressées à la société Compagnie française d'assurance pour le commerce extérieur (COFACE) qui
-les instruit et les soumet à la commission des garanties et du crédit au commerce extérieur ; le ministre chargé de
-l'économie, après avis de la commission, octroie ou refuse la garantie.
+Les demandes de garanties sont adressées à l'organisme mentionné à l'article L. 432-2 qui les instruit et les soumet à la
+commission des garanties et du crédit au commerce extérieur ; le ministre chargé de l'économie, après avis de la commission,
+octroie ou refuse la garantie. 
 
 Le ministre chargé de l'économie détermine, après avis de la commission des garanties et du crédit au commerce extérieur,
-quelles affaires doivent être soumises à la commission par la société avant la délivrance de la garantie et celles dont il
+quelles affaires doivent être soumises à la commission par l'organisme avant la délivrance de la garantie et celles dont il
 doit lui être seulement rendu compte. Pour ces dernières, il fixe le cadre général des conditions dans lesquelles la garantie
 peut être accordée.
 
@@ -60099,12 +60101,37 @@ peut être accordée.
 
 	  - Décret n°2014-636 du 19 juin 2014 (V)
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
 	**Modifié par**:
 
-	  - Décret n°2014-636 du 19 juin 2014 - art. 1
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. L432-2 (VD)
 
 
-##### Paragraphe 2 : Opérations d'exportation ou présentant un intérêt stratégique pour l'économie française
+###### Article R442-7-3
+
+La convention mentionnée à l'article L. 432-4 précise les conditions de mise en œuvre du mandat prévu au même article,
+notamment celles relatives à la rémunération de l'organisme mentionné à l'article L. 432-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. L432-2 (VD)
+	  - Code des assurances - art. L432-4 (VD)
+
+
+##### Section II : Opérations d'exportation ou présentant un intérêt stratégique pour l'économie française
 
 ###### Article R442-8-1
 
@@ -60117,13 +60144,13 @@ et au profit soit des fournisseurs, soit des bénéficiaires prévus au a bis du
 
 	  - Décret n°76-666 du 16 juillet 1976
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code des assurances - art. L432-2 (VD)
+	  - Code des assurances - art. L432-2
 	  - Code des assurances - art. R442-8-2
 
 
@@ -60145,21 +60172,35 @@ pour faire face aux besoins des entreprises, des ménages et des entités publiq
 
 II. - Le risque politique est réalisé :
 
-1° Pour les opérations prévues au 1° du I, lorsque le débiteur ne s'est pas acquitté de sa dette et que le non-paiement n'est
-pas dû à l'inexécution des clauses et conditions du contrat ;
+1° Pour les opérations prévues au 1° du I, lorsque le débiteur ne s'est pas acquitté de sa dette ou que l'exécution du
+contrat a été interrompue ;
 
-2° Pour les opérations prévues au 2° et au 3° du I, lorsque le débiteur ne s'est pas acquitté de sa dette, pour autant que le
-non-paiement ne soit pas dû à l'inexécution des clauses et conditions du contrat et provienne de l'une des causes suivantes :
+2° Pour les opérations prévues au 2° et au 3° du I, lorsque le débiteur ne s'est pas acquitté de sa dette ou que l'exécution
+du contrat a été interrompue, pour autant que le non-paiement provienne de l'une des causes suivantes :
 
-a) Guerre civile ou étrangère, révolution, émeute ou autres faits analogues survenus dans le pays de résidence du débiteur ;
+a) Guerre civile ou étrangère, révolution, émeute ou autres faits analogues survenus hors de France ;
 
-b) Moratoire édicté par les autorités administratives de ce pays.
+b) Moratoire édicté par les autorités administratives du pays de résidence du débiteur ;
+
+c) Acte ou décision d'un Gouvernement étranger ou d'une autorité administrative étrangère faisant obstacle à l'exécution du
+contrat ; 
+
+d) Acte ou décision des autorités administratives françaises faisant obstacle à l'exécution du contrat ; 
+
+3° Nonobstant les dispositions des 1° et 2° ci-dessus, le risque politique ne sera pas couvert par la garantie de l'Etat dès
+lors que le non-paiement ou l'interruption du contrat sont dus à l'inexécution par le bénéficiaire de la garantie des clauses
+et conditions du contrat d'exportation ou du contrat de prêt, à l'exception des cas où l'inexécution par le bénéficiaire
+provient des cas mentionnés au 2° ci-dessus.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
 	**Modifié par**:
 
-	  - Décret n°2009-1202 du 8 octobre 2009 - art. 3
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 3
 
 	**Cité par**:
 
@@ -60181,15 +60222,11 @@ débiteur.
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-
-	**Créé par**:
-
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 
 ###### Article R442-8-4
@@ -60203,92 +60240,27 @@ Le risque de change est réalisé lorsque le cours de la monnaie étrangère pr�
 de la créance garantie, inférieur au cours sur la base duquel la garantie est accordée. Ce risque ne peut être garanti que
 s'il n'existe pas d'autre moyen de le couvrir dans des conditions équivalentes.
 
+La garantie de l'Etat portant sur les opérations de gestion des opérations et garanties de couverture des risques monétaires
+est accordée après avis de la commission des garanties et du crédit au commerce extérieur par arrêté du ministre chargé de
+l'économie.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 3
 
 	**Cité par**:
 
 	  - Arrêté du 16 février 2017 - art. 2 (V)
-
-
-###### Article R442-8-5
-
-Le caractère extraordinaire d'un risque, au sens de l'article R. 442-1 ci-dessus, est laissé, dans chaque cas d'espèce, à
-l'appréciation de la commission des garanties et du crédit au commerce extérieur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 du 16 juillet 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
-
-	**Créé par**:
-
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1701 du 12 décembre 2016 - art. 3
-
-	**Cite**:
-
-	  - Code des assurances - art. R442-1
-
-
-###### Article R442-8-6
-
-En cas de versement d'une indemnité au titre d'un risque commercial ordinaire : 
-
-1° Si la police délivrée par la société couvre, en même temps que le risque commercial ordinaire, d'autres risques pris en
-charge avec la garantie de l'Etat, tels qu'énumérés aux articles R. 442-8-2 à R. 442-8-5, les montants à récupérer
-éventuellement par la société sur le débiteur défaillant peuvent être couverts contre ces autres risques avec la garantie de
-l'Etat, moyennant le versement d'une nouvelle prime, calculée sur les mêmes bases que celles qui sont prévues par la police
-initiale ; 
-
-2° Si la police délivrée par la société ne couvre aucun risque susceptible d'être pris en charge avec la garantie de l'Etat,
-la société peut demander à la commission des garanties et du crédit au commerce extérieur de l'autoriser à bénéficier de la
-garantie de l'Etat sur le montant des récupérations à effectuer sur le débiteur défaillant, au titre des risques mentionnés
-aux articles R. 442-8-2 à R. 442-8-5, moyennant le versement par la société d'une prime spéciale dont le taux et le
-pourcentage de garantie sont fixés par la commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 du 16 juillet 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
-
-	**Créé par**:
-
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1701 du 12 décembre 2016 - art. 3
-
-	**Cite**:
-
-	  - Code des assurances - art. R442-8-2
 
 
 ###### Article R442-8-7
@@ -60301,8 +60273,8 @@ transfert de leur bénéfice au profit des cessionnaires des créances qu'elles 
 commission, adapter ces conditions et ces modalités au cas par cas et exclure certains risques du champ d'application des
 garanties y afférentes. 
 
-Lorsqu'il est fait application des dispositions du présent article, le ministre chargé de l'économie peut autoriser la
-société à : 
+Lorsqu'il est fait application des dispositions du présent article, le ministre chargé de l'économie peut autoriser
+l'organisme mentionné à l'article L. 432-2 à : 
 
 1° Procéder à une instruction conjointe des demandes de garantie avec un ou des assureurs crédit intervenant dans les mêmes
 opérations pour le compte d'Etats étrangers ; 
@@ -60315,16 +60287,21 @@ demandes de garanties portant sur des opérations dans le cadre desquelles elle 
 
 	**Cite**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 84 (V)
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 84
+	  - Code des assurances - art. L432-2 (VD)
 
 	**Cité par**:
 
 	  - Décret n°2013-425 du 24 mai 2013 (V)
 	  - Code des assurances - art. R442-1 (Ab)
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
 	**Modifié par**:
 
-	  - Décret n°2013-693 du 30 juillet 2013 - art. 1
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 3
 
 
 ###### Article R442-8-8
@@ -60339,9 +60316,9 @@ consenties pour le financement ou le préfinancement d'opérations d'exportation
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 7
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 
 ###### Article R442-8-9
@@ -60356,9 +60333,9 @@ informations agrégées communiquées au ministre chargé de l'économie par la 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1453 du 9 novembre 2015 - art. 1
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 	**Cite**:
 
@@ -60372,10 +60349,9 @@ informations agrégées communiquées au ministre chargé de l'économie par la 
 
 ###### Article R442-8-10
 
-La garantie de l'Etat mentionnée à l'article R. 442-8-9 est accordée à la Compagnie française d'assurance pour le commerce
-extérieur (Coface) au titre de la couverture par cette dernière en application du e du 1° de l'article L. 432-2 des
-entreprises habilitées à pratiquer en France des opérations d'assurance-crédit pour les garanties accordées par celles-ci à
-des entreprises sous les deux formes suivantes : 
+La garantie de l'Etat mentionnée à l'article R. 442-8-9 est accordée au titre de la couverture en application du e du 1° de
+l'article L. 432-2 des entreprises habilitées à pratiquer en France des opérations d'assurance-crédit pour les garanties
+accordées par celles-ci à des entreprises sous les deux formes suivantes : 
 
 1° Octroi d'une garantie d'assurance complémentaire à une garantie primaire accordée par l'assureur-crédit. Le montant de
 cette garantie complémentaire est à tout moment au plus égal au montant de la garantie primaire accordée au même assuré sur
@@ -60386,9 +60362,13 @@ opération d'exportation lorsque ce dernier ne souhaite pas couvrir le risque as
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1453 du 9 novembre 2015 - art. 1
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 3
 
 	**Cite**:
 
@@ -60398,7 +60378,7 @@ opération d'exportation lorsque ce dernier ne souhaite pas couvrir le risque as
 
 	**Cité par**:
 
-	  - Code des assurances - art. R442-10-9 (VT)
+	  - Code des assurances - art. R442-10-9 (V)
 	  - Code des assurances - art. R442-8-12 (V)
 
 
@@ -60407,19 +60387,23 @@ opération d'exportation lorsque ce dernier ne souhaite pas couvrir le risque as
 L'exposition au risque conservée par l'assureur-crédit cosignataire du traité de réassurance prévue au e du 1° de l'article
 L. 432-2 est définie de la manière suivante : 
 
-1° Lorsqu'en application du 1° de l'article R. 442-8-10, la couverture Coface consiste en une garantie d'assurance
-complémentaire à une garantie primaire accordée par l'assureur-crédit, l'exposition au risque restant à la charge de
-l'assureur-crédit correspond à la garantie primaire ; 
+1° Lorsqu'en application du 1° de l'article R. 442-8-10, la couverture délivrée par l'organisme mentionné à l'article L.
+432-2 consiste en une garantie d'assurance complémentaire à une garantie primaire accordée par l'assureur-crédit,
+l'exposition au risque restant à la charge de l'assureur-crédit correspond à la garantie primaire ; 
 
-2° Lorsqu'en application du 2° de l'article R. 442-8-10, la couverture Coface porte sur l'intégralité du montant garanti
-d'une opération d'exportation, l'exposition au risque restant à la charge de l'assureur-crédit est égale à 5 % du montant des
-sinistres éventuellement constatés afférents à l'opération garantie.
+2° Lorsqu'en application du 2° de l'article R. 442-8-10, la couverture délivrée par l'organisme mentionné à l'article L.
+432-2 porte sur l'intégralité du montant garanti d'une opération d'exportation, l'exposition au risque restant à la charge de
+l'assureur-crédit est égale à 5 % du montant des sinistres éventuellement constatés afférents à l'opération garantie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1453 du 9 novembre 2015 - art. 1
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 3
 
 	**Cite**:
 
@@ -60432,11 +60416,11 @@ sinistres éventuellement constatés afférents à l'opération garantie.
 
 ###### Article R442-8-12
 
-La réassurance par la Coface des risques d'assurance-crédit dans les conditions visées à l'article R. 442-8-10 est
-subordonnée à la signature par la Coface et l'assureur-crédit : 
+La réassurance par l'organisme mentionné à l'article L. 432-2 des risques d'assurance-crédit dans les conditions visées à
+l'article R. 442-8-10 est subordonnée à la signature par cet organisme et l'assureur-crédit : 
 
 1° D'un traité de réassurance définissant les conditions et les modalités de délivrance et de mise en œuvre des garanties
-bénéficiant d'une couverture de la Coface, ainsi que les modalités de réassurance de ces garanties. Ce traité est conclu pour
+bénéficiant d'une couverture de l'Etat, ainsi que les modalités de réassurance de ces garanties. Ce traité est conclu pour
 une période d'un an renouvelable par tacite reconduction à l'échéance pour des périodes successives d'un an dans la limite
 d'une durée maximale de cinq ans ; 
 
@@ -60445,16 +60429,21 @@ la zone géographique sur lequel il est mis en œuvre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1453 du 9 novembre 2015 - art. 1
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 3
 
 	**Cite**:
 
+	  - Code des assurances - art. L432-2 (VD)
 	  - Code des assurances - art. R442-8-10
 
 
-##### Paragraphe 3 : Opérations d'investissement.
+##### Section III : Opérations d'investissement.
 
 ###### Article R442-9-1
 
@@ -60466,8 +60455,8 @@ Lorsque la législation du pays étranger ne prévoit pas la délivrance d'un ag
 documents délivrés par l'autorité locale compétente permettant d'établir que l'investissement sera réalisé en conformité avec
 la législation du pays concerné.
 
-L'octroi de la garantie de l'Etat est subordonné à la conclusion préalable d'un accord sur la protection des investissements,
-sous réserve des dérogations prévues par les dispositions de l'article 26 susmentionné.
+L'octroi de la garantie de l'Etat peut être subordonné à la conclusion préalable d'un accord sur la protection des
+investissements.
 
 En outre, s'agissant de la garantie des investissements déjà réalisés dans les vingt-quatre mois précédant la demande de
 prise en garantie : 
@@ -60481,9 +60470,13 @@ garantie.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
 	**Modifié par**:
 
-	  - Décret n°2009-1202 du 8 octobre 2009 - art. 4
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 4
 
 
 ###### Article R442-9-2
@@ -60498,15 +60491,11 @@ ce pays.
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-
-	**Créé par**:
-
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 
 ###### Article R442-9-3
@@ -60519,37 +60508,33 @@ investissement.
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-
-	**Créé par**:
-
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 
-##### Paragraphe 4 : Opérations d'importation.
+##### Section IV : Opérations d'importation.
 
 ###### Article R442-10-1
 
-La garantie des risques inhérents aux opérations d'importation couvre les pertes pouvant être subies par l'importateur sur
-les sommes qu'il justifie avoir payées pour la stricte exécution de son contrat.
+La garantie des risques politiques, catastrophiques et de change inhérents aux opérations d'importation couvre les pertes
+pouvant être subies par l'importateur sur les sommes qu'il justifie avoir payées pour la stricte exécution de son contrat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 5
 
 
 ###### Article R442-10-2
@@ -60574,15 +60559,11 @@ supplémentaires non récupérables sur le vendeur.
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-
-	**Créé par**:
-
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 
 ###### Article R442-10-3
@@ -60595,15 +60576,11 @@ tremblement de terre ou éruption volcanique, survenu dans le pays expéditeur o
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-
-	**Créé par**:
-
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 
 ###### Article R442-10-4
@@ -60617,49 +60594,14 @@ Ce risque ne peut être garanti que s'il n'existe pas d'autre moyen de le couvri
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-
-	**Créé par**:
-
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
-
-
-###### Article R442-10-5
-
-Le caractère extraordinaire d'un risque au sens de l'article R. 442-1 ci-dessus est laissé, dans chaque cas d'espèce, à
-l'appréciation de la commission des garanties et du crédit au commerce extérieur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
 	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
-	**Créé par**:
 
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1701 du 12 décembre 2016 - art. 5
-
-	**Cite**:
-
-	  - Code des assurances - art. R442-1 (Ab)
-
-
-##### Paragraphe 5 : Opérations d'achat par des entreprises françaises auprès de fournisseurs français en concurrence avec une entreprise étrangère bénéficiant d'un soutien public à l'exportation 
-
-
+##### Section V : Opérations d'achat par des entreprises françaises auprès de fournisseurs français en concurrence avec une entreprise étrangère bénéficiant d'un soutien public à l'exportation
 
 ###### Article R442-10-6
 
@@ -60668,14 +60610,14 @@ bénéficiaires prévus au a bis du même article dans les conditions prévues a
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 	**Cite**:
 
 	  - Code des assurances - art. L432-2
-	  - Code des assurances - art. R442-10-7 (V)
+	  - Code des assurances - art. R442-10-7
 
 
 ###### Article R442-10-7
@@ -60687,19 +60629,25 @@ soit pas dû à l'inexécution des clauses et conditions du contrat et provienne
 
 a) Guerre civile ou étrangère, révolution, émeute ou autres faits analogues ; 
 
-b) Acte ou décision d'un Gouvernement étranger ou d'une autorité administrative étrangère faisant obstacle à l'exécution du
+b) Moratoire édicté par les autorités administratives du pays de résidence du débiteur ;
+
+c) Acte ou décision d'un Gouvernement étranger ou d'une autorité administrative étrangère faisant obstacle à l'exécution du
 contrat ; 
 
-c) Acte ou décision des autorités administratives françaises faisant obstacle à l'exécution du contrat. 
+d) Acte ou décision des autorités administratives françaises faisant obstacle à l'exécution du contrat. 
 
 Le risque catastrophique est réalisé lorsque le débiteur est empêché de tenir ses engagements par suite d'un cataclysme tel
 que cyclone, inondation, raz de marée, tremblement de terre, éruption volcanique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2016-1701 du 12 décembre 2016 - art. 6
 
 	**Cité par**:
 
@@ -60730,9 +60678,9 @@ demande.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 
 ###### Article R442-10-9
@@ -60755,9 +60703,9 @@ mentionnée à l'article R. 442-10-8, des sûretés offertes et de la durée de 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 	**Cite**:
 
@@ -60772,39 +60720,13 @@ régime de garantie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-1245 du 22 septembre 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 	**Cite**:
 
 	  - Code des assurances - art. L432-2
-
-
-##### Paragraphe 6 : Dispositions communes.
-
-###### Article R442-11
-
-Les mesures d'application de la présente section autres que celles qui sont prévues aux articles précédents font l'objet de
-conventions conclues entre le ministre chargé de l'économie et la société.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-
-	**Créé par**:
-
-	  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 
 ### Titre V : Organisme d'information
@@ -71273,138 +71195,55 @@ du total des provisions mentionnées au second alinéa du présent article.
 
 ##### Paragraphe 6 : Dispositions communes.
 
-###### Article A432-1
-
-Les conditions d'octroi et de fonctionnement de la garantie des risques susceptibles d'être assurés avec la garantie de
-l'Etat en exécution des dispositions réglementaires de la section II du présent chapitre sont fixées par la compagnie
-française d'assurance pour le commerce extérieur conformément à l'avis de la commission des garanties et du crédit au
-commerce extérieur et en application des dispositions de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1948-04-16 art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté du 22 décembre 2016 - art. 2
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R432-4, R432-47
-
-
-###### Article A432-2
-
-La garantie peut être accordée :
-
-Aux personnes physiques ou morales françaises ou étrangères pour les opérations d'exportation ou d'importation qu'elles
-réalisent en provenance ou à destination de la France ou des départements ou territoires d'outre-mer ainsi que pour
-l'assurance crédit des projets présentant un intérêt stratégique pour l'économie française ;
-
-Aux banques et établissements français ou étrangers pour les prêts ou crédits qu'ils consentent soit à des personnes
-étrangères physiques ou morales de droit public ou de droit privé, soit à des banques ou établissements financiers étrangers
-pour le financement d'opérations d'exportation ou connexes à des exportations ;
-
-Aux entreprises installées en France pour les investissements à l'étranger connexes à des opérations d'exportation.
-
-Aux personnes morales françaises ou étrangères agissant pour le compte de détenteurs d'obligations émises pour assurer le
-financement d'un contrat commercial d'exportation, pour garantir le paiement des sommes dues au titre de ces obligations en
-cas de défaillance de l'entité ayant procédé à leur émission.
-
-Aux entreprises d'assurance et de réassurance, aux mutuelles et aux institutions de prévoyance de droit français ou étranger,
-pour le financement d'un contrat commercial d'exportation.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 28 février 2013 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 22 décembre 2016 - art. 2
-
-
-###### Article A432-3
-
-Les droits résultant de la garantie peuvent être transférés par l'assuré à un tiers, sous réserve de l'autorisation de la
-compagnie française d'assurance pour le commerce extérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1948-04-16 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1976-07-16
-
-	**Abrogé par**:
-
-	  - Arrêté du 22 décembre 2016 - art. 2
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R432-4, R432-47
-
-
 ###### Article A432-4
 
-En cas de réalisation de l'un des risques politiques, catastrophiques, de transfert ou commerciaux extraordinaires couverts
-par la police, l'indemnité correspondante est, dans la mesure où le sinistre subsiste, versée à l'assuré six mois après
-réception par la compagnie française d'assurance pour le commerce extérieur d'une lettre recommandée l'informant de ce
-sinistre.
+En cas de réalisation de l'un des risques politiques, catastrophiques, ou de transfert couverts par la police, l'indemnité
+correspondante est, dans la mesure où le sinistre subsiste, versée à l'assuré six mois après réception par l'organisme
+mentionné à l'article L. 432-2 d'une lettre recommandée l'informant de ce sinistre. 
 
-Toutefois, ladite compagnie a la faculté, à titre exceptionnel, sous réserve de l'accord de la commission des garanties et du
+Toutefois, ledit organisme a la faculté, à titre exceptionnel, sous réserve de l'accord de la commission des garanties et du
 crédit au commerce extérieur, de régler l'indemnité dès réception de la déclaration du sinistre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté 1948-04-16 art. 4
-
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Code des assurances R432-4, R432-47
+	  - Arrêté du 22 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. L432-2 (V)
 
 
 ###### Article A432-5
 
 Le montant de toute récupération effectuée après versement d'une indemnité est, sauf dérogation spéciale prévue par la
-police, partagé entre la compagnie française d'assurance pour le commerce extérieur et l'assuré, au prorata de la part du
-risque assumée par chacun d'eux.
+police, partagé entre l'organisme mentionné à l'article L. 432-2 et l'assuré, au prorata de la part du risque assumée par
+chacun d'eux.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1948-04-16 art. 5
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Code des assurances R432-4, R432-47
+	  - Arrêté du 22 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. L432-2 (V)
 
 
 ###### Article A432-6
 
-Le risque de change ne peut être couvert que si l'emploi de la monnaie prévue au contrat est imposé, recommandé ou approuvé
-par le ministre de l'économie et des finances.
+Le risque de change ne peut être couvert que si l'emploi de la monnaie prévue au contrat est approuvé par le ministre chargé
+de l'économie.
 
 La garantie de change est accordée en fonction du cours applicable à la date fixée par la police, conformément aux
 dispositions de la réglementation des changes :
@@ -71416,17 +71255,13 @@ acheteurs, banques ou établissements financiers étrangers.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté 1948-04-16 art. 6
-
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Code des assurances R432-4, R432-47
+	  - Arrêté du 22 décembre 2016 - art. 2
 
 
 ###### Article A432-7
@@ -71434,87 +71269,71 @@ acheteurs, banques ou établissements financiers étrangers.
 En ce qui concerne la garantie du risque de change afférent à des opérations d'exportation ou à des prêts ou crédits
 consentis pour le financement d'opérations d'exportation ou connexes à des exportations, la perte ou le bénéfice pouvant
 résulter d'une différence constatée entre le cours pratiqué le jour de l'encaissement d'une créance et le cours sur la base
-duquel la garantie a été accordée est, à concurrence du pourcentage de garantie, à la charge ou au profit de la compagnie
-française d'assurance pour le commerce extérieur, sous déduction, le cas échéant, de la fraction de cette différence exclue
-de la garantie. 
+duquel la garantie a été accordée est, à concurrence du pourcentage de garantie, à la charge ou au profit de
+l'organisme mentionné à l'article L. 432-2, sous déduction, le cas échéant, de la fraction de cette différence exclue de la
+garantie. 
 
 Toutefois, l'assuré ne peut invoquer le bénéfice de la garantie que s'il justifie avoir fait diligence pour l'encaissement de
 sa créance et s'être conformé aux dispositions de la réglementation des changes applicable au rapatriement de cette créance.
 La liquidation de la perte ou du bénéfice de change doit être effectuée et donner lieu au règlement dans un délai de six mois
-au plus à partir du jour de réception de la déclaration du sinistre par la compagnie française d'assurance pour le commerce
-extérieur, s'il s'agit d'une perte, ou du jour de l'encaissement de la créance s'il s'agit d'un bénéfice. 
+au plus à partir du jour de réception de la déclaration du sinistre par         l'organisme mentionné à l'article L. 432-2,
+s'il s'agit d'une perte, ou du jour de l'encaissement de la créance s'il s'agit d'un bénéfice. 
 
 Par dérogation aux dispositions de l'alinéa 1er du présent article, la garantie du risque de change afférent à une opération
-d'exportation qui bénéficie également d'une garantie au titre du 2° de l'article L. 432-2 n'ouvre aucun droit à la compagnie
-française d'assurance pour le commerce extérieur sur le bénéfice de change résultant des hausses éventuelles du cours de la
-devise étrangère par rapport au cours initial.
+d'exportation qui bénéficie également d'une garantie au titre du 2° de l'article L. 432-2 n'ouvre aucun droit à
+l'organisme mentionné à l'article L. 432-2 sur le bénéfice de change résultant des hausses éventuelles du cours de la devise
+étrangère par rapport au cours initial.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1948-04-16 art. 7
 
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Cite**:
-
-	  - Code des assurances - art. L432-2 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code des assurances R432-4, R432-47
-
-
-###### Article A432-8
-
-Les risques politiques, catastrophiques, monétaires ou commerciaux extraordinaires afférents à des opérations d'importation
-peuvent être assurés lorsque ces opérations présentent un intérêt     stratégique pour l'économie française.
-
-**Liens relatifs à cet article**
-
 	**Modifié par**:
 
-	  - Arrêté du 8 octobre 2009 - art. 2
-
-	**Abrogé par**:
-
 	  - Arrêté du 22 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. L432-2
 
 
 ###### Article A432-9
 
 En ce qui concerne la garantie du risque de change afférent à des opérations d'importation, la perte ou le bénéfice pouvant
 résulter d'une différence constatée entre le cours d'achat des devises et le cours sur la base duquel la garantie a été
-accordée est, à concurrence du pourcentage de garantie, à la charge ou au profit de la compagnie française d'assurance pour
-le commerce extérieur, sous déduction, le cas échéant, de la fraction de cette différence exclue de la garantie.
+accordée est, à concurrence du pourcentage de garantie, à la charge ou au profit de l'organisme mentionné à l'article L.
+432-2, sous déduction, le cas échéant, de la fraction de cette différence exclue de la garantie. 
 
 Toutefois, l'assuré ne peut invoquer le bénéfice de la garantie que s'il a procédé à l'achat des devises dans le délai fixé
-par la police.
+par la police. 
 
 La liquidation de la perte ou du bénéfice doit être effectuée et donner lieu au règlement dans un délai maximal d'un mois
-compté à partir du jour de la réception par ladite compagnie de la déclaration d'achat des devises s'il s'agit d'une perte,
-ou du jour de cet achat s'il s'agit d'un bénéfice.
+compté à partir du jour de la réception par ledit organisme de la déclaration d'achat des devises s'il s'agit d'une perte, ou
+du jour de cet achat s'il s'agit d'un bénéfice. 
 
 La garantie ne peut couvrir en aucun cas les frais supplémentaires occasionnés à l'assuré par la majoration, due à la hausse
 du change, des droits, taxes ou autres charges payables en euros.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté 1948-04-16 art. 9
-
 	**Codifié par**:
 
 	  - Arrêté 1976-07-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Code des assurances R432-4, R432-47
+	  - Arrêté du 22 décembre 2016 - art. 2
 
+	**Cite**:
+
+	  - Code des assurances - art. L432-2
+
+
+#### Chapitre II : Conditions et modalités d'octroi de la garantie de l'Etat pour les opérations concourant au développement du commerce extérieur de la France
+
+##### Section III : Risques garantis.
 
 ### Titre IV : Régimes particuliers d'assurance
 
