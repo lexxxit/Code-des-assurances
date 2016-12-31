@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-12-31
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -23937,37 +23937,16 @@ retraçant les autres opérations qu'elle effectue. Les frais qu'elle expose pou
 La caisse est informée de tous les litiges liés à l'épandage agricole des boues d'épuration pris directement en charge par
 les assurances.
 
-II. - Le fonds mentionné au I est financé par une taxe annuelle due par les producteurs de boues et dont l'assiette est la
-quantité de matière sèche de boue produite. En outre, le fonds peut recevoir des avances de l'Etat dans la mesure où les
-dommages survenus excèdent momentanément la capacité d'indemnisation de ce dernier.
-
-Le montant de la taxe est fixé par décret en Conseil d'Etat dans la limite d'un plafond de 0,5 euros par tonne de matière
-sèche de boue produite.
-
-Les redevables procèdent à la liquidation de la taxe due au titre de l'année précédente lors du dépôt de leur déclaration de
-taxe sur la valeur ajoutée du mois de mars ou du premier trimestre de l'année civile.
-
-La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges
-que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à
-cette même taxe.
+II. - (abrogé). 
 
 III. - Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment le montant maximal que
 peuvent atteindre les ressources du fonds.
-
-**Nota:**
-
-Dans sa décision n° 2012-251 QPC du 8 juin 2012 (NOR : CSCX1225514S), le Conseil constitutionnel a déclaré, sous la réserve
-énoncée au considérant 6, l'article L. 425-1 du code des assurances conforme à la Constitution.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°88-260 1988-03-18
-
-	**Créé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 45 () JORF 31 décembre 2006
+	  - Décret n°88-260 du 18 mars 1988
 
 	**Cité par**:
 
@@ -23981,6 +23960,10 @@ Dans sa décision n° 2012-251 QPC du 8 juin 2012 (NOR : CSCX1225514S), le Conse
 	  - Code des assurances - art. R424-4 (V)
 	  - Code général des impôts, CGI. - art. 1647 (M)
 	  - Code général des impôts, CGI. - art. 302 bis ZF (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 83 (V)
 
 
 #### Chapitre VI : Fonds de garantie des dommages consécutifs à des actes de prévention, de diagnostic ou de soins dispensés par des professionnels de santé
@@ -24374,7 +24357,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 	  - Loi - art. 84 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
 
 
-#### Chapitre II : La Compagnie française d'assurance pour le commerce extérieur "COFACE"
+#### Chapitre II : Garanties publiques pour le commerce extérieur
 
 ##### Section I : Dispositions générales.
 
@@ -24580,10 +24563,13 @@ modalités selon lesquelles cet enregistrement est effectué ainsi que les condi
 certifié par un ou plusieurs commissaires aux comptes. 
 
 La convention mentionnée au premier alinéa du présent article emporte mandat à l'organisme mentionné au premier alinéa de
-l'article L. 432-2 d'assurer l'encaissement de recettes, le paiement de dépenses, dont les indemnisations de sinistres, et
-toutes opérations de maniement des fonds issus de son activité assurée au nom et pour le compte de l'Etat, qui demeure le
-titulaire des droits et obligations nés au titre de ces opérations. En particulier, les actifs figurant dans l'enregistrement
-comptable prévu au premier alinéa du présent article demeurent la propriété insaisissable de l'Etat. 
+l'article L. 432-2 d'assurer l'encaissement de recettes, de procéder au recouvrement amiable et au recouvrement contentieux
+et à toute action permettant d'assurer la conservation des droits de l'Etat en France et à l'étranger avec faculté de
+délégation à des tiers habilités conformément aux législations concernées, d'assurer  le paiement de dépenses, dont les
+indemnisations de sinistres, et toutes opérations de maniement des fonds issus de son activité assurée au nom et pour le
+compte de l'Etat, qui demeure le titulaire des droits et obligations nés au titre de ces opérations. En particulier, les
+actifs figurant dans l'enregistrement comptable prévu au premier alinéa du présent article demeurent la propriété
+insaisissable de l'Etat. 
 
 Dans les cas où l'Etat est directement ou indirectement actionnaire de l'organisme mentionné au premier alinéa de l'article
 L. 432-2, l'article L. 225-38 du code de commerce ne s'applique pas aux conventions conclues avec cet organisme.
@@ -24591,26 +24577,21 @@ L. 432-2, l'article L. 225-38 du code de commerce ne s'applique pas aux conventi
 L'organisme mentionné au premier alinéa de l'article L. 432-2 du présent code ne requiert pas l'obtention de l'agrément
 administratif mentionné à l'article L. 321-1.
 
-**Nota:**
-
-Loi n° 2015-1786 du 29 décembre 2015, article 103 VI : le présent article entre en vigueur à une date fixée par décret, et au
-plus tard le 31 décembre 2016.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°76-666 du 16 juillet 1976
 
-	**Modifié par**:
-
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 103 (M)
-
 	**Cité par**:
 
 	  - Décret n°2016-1091 du 11 août 2016 (VD)
 	  - Décret n°2016-1091 du 11 août 2016 - art. 1 (VD)
 	  - Code des assurances - art. R442-7-3 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 130
 
 	**Cite**:
 
@@ -24691,10 +24672,6 @@ plus tard le 31 décembre 2016.
 
 	  - Code des assurances - art. L432-4 (V)
 
-
-#### Chapitre II : Garanties publiques pour le commerce extérieur
-
-##### Section I : Dispositions générales.
 
 ### Titre IV : Régimes particuliers d'assurance
 
@@ -25131,24 +25108,28 @@ conditions fixées à cet effet par le code rural et de la pêche maritime.
 	  - Code des assurances - art. L310-1 (VT)
 
 
-##### Section IV : Régime obligatoire d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.
+##### Section IV : Régime obligatoire d'assurance maladie et maternité des travailleurs   indépendants non agricoles.
 
 ###### Article L442-6
 
 Comme il résulte de l'article L. 611-3 du code de la sécurité sociale, les entreprises mentionnées à l'article L. 310-1
 peuvent être habilitées pour assurer l'encaissement des cotisations et le service des prestations pour le compte des caisses
-mutuelles régionales d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.
+mutuelles régionales d'assurance maladie et maternité des travailleurs   indépendants non agricoles.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Modifié par**:
+
+	  - Loi n°2016-1827 du 23 décembre 2016 - art. 50 (V)
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L611-3 (V)
-	  - Code des assurances - art. L310-1 (VT)
+	  - Code de la sécurité sociale. - art. L611-3
+	  - Code des assurances - art. L310-1
 
 
 #### Chapitre III :  Dispositions relatives aux engagements de caution
@@ -71189,7 +71170,7 @@ du total des provisions mentionnées au second alinéa du présent article.
 	  - Arrêté du 28 décembre 2015 - art. 3
 
 
-#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)
+#### Chapitre II : Conditions et modalités d'octroi de la garantie de l'Etat pour les opérations concourant au développement du commerce extérieur de la France
 
 ##### Section III : Risques garantis.
 
@@ -71330,10 +71311,6 @@ du change, des droits, taxes ou autres charges payables en euros.
 
 	  - Code des assurances - art. L432-2
 
-
-#### Chapitre II : Conditions et modalités d'octroi de la garantie de l'Etat pour les opérations concourant au développement du commerce extérieur de la France
-
-##### Section III : Risques garantis.
 
 ### Titre IV : Régimes particuliers d'assurance
 
