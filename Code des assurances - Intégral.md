@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-02-23
+Version Consolidée au 2017-03-09
 
 # Partie législative
 
@@ -40269,56 +40269,23 @@ provisoire a été nommé, il lui appartient de procéder à cette publication.
 
 ##### Section II : Transfert d'office.
 
-###### Article R324-4
-
-Lorsqu'elle décide le transfert d'office d'un portefeuille de contrats d'assurance conclus sur le territoire d'un ou de
-plusieurs Etats membres de l'Espace économique européen, en application du 8° de l'article L. 612-33 du code monétaire et
-financier, l'Autorité de contrôle en avise les autorités compétentes de ces différents Etats. 
-
-Lorsque l'entreprise cessionnaire est originaire d'un Etat membre de l'Espace économique européen, l'Autorité de contrôle
-prudentiel et de résolution s'assure auprès des autorités compétentes de cet Etat membre que l'entreprise possède, compte
-tenu du transfert,    les fonds propres éligibles nécessaires pour la couverture de son capital de solvabilité requis et son
-minimum de capital requis. 
-
-La décision de transfert et le nom de l'entreprise cessionnaire font l'objet d'une publication au Journal officiel, à la
-diligence de l'Autorité de contrôle prudentiel et de résolution.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 7
-
-	**Abrogé par**:
-
-	  - Décret n°2017-293 du 6 mars 2017 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-33
-
-	**Cité par**:
-
-	  - Code des assurances - art. R391-1 (V)
-
-
 ###### Article R324-5
 
 La décision de l'Autorité de contrôle prudentiel et de résolution prévue à l'article L. 324-5 est prononcée après la mesure
-prévue au 8° de l'article L. 612-33 du code monétaire et financier, à l'issue du contrôle auquel l'Autorité peut soumettre
+prévue au 14° de l'article L. 612-33 du code monétaire et financier, à l'issue du contrôle auquel l'Autorité peut soumettre
 une personne physique ou morale conformément aux 1 et 2 du II de l'article L. 612-2 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 7
+	  - Décret n°2017-293 du 6 mars 2017 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L612-2 (V)
-	  - Code monétaire et financier - art. L612-33 (V)
-	  - Code des assurances - art. L324-5 (V)
+	  - Code monétaire et financier - art. L612-2
+	  - Code monétaire et financier - art. L612-33
+	  - Code des assurances - art. L324-5
 
 	**Cité par**:
 
