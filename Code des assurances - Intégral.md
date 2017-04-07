@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-03-09
+Version Consolidée au 2017-04-08
 
 # Partie législative
 
@@ -5264,14 +5264,15 @@ distribution.
 
 ###### Article L132-29
 
-Les entreprises d'assurance sur la vie ou de capitalisation font participer les assurés aux bénéfices techniques et
-financiers qu'elles réalisent, dans les conditions fixées par arrêté du ministre chargé de l'économie.
+Les entreprises d'assurance sur la vie ou de capitalisation et les fonds de retraite professionnelle supplémentaire font
+participer les assurés aux bénéfices techniques et financiers qu'ils réalisent, dans les conditions fixées par arrêté du
+ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 6
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cité par**:
 
@@ -5803,15 +5804,16 @@ par l'assemblée générale et peuvent, sur demande, obtenir communication de so
 
 ###### Article L143-1
 
-Le présent chapitre s'applique aux opérations pratiquées par les entreprises d'assurance dans le cadre de l'agrément
-administratif accordé pour les activités de retraite professionnelle supplémentaire. Peuvent être proposés, dans le cadre de
-cet agrément, les contrats d'assurance sur la vie dont les prestations sont liées à la cessation d'activité professionnelle
-et sont versées en supplément des prestations servies par les régimes de base et complémentaires légalement obligatoires. Ces
-contrats sont souscrits : 
+Le présent chapitre s'applique aux opérations pratiquées par les fonds de retraite professionnelle supplémentaire dans le
+cadre de leur agrément administratif et par les entreprises d'assurance dans le cadre de l'agrément administratif accordé
+pour les activités de retraite professionnelle supplémentaire. Peuvent être proposés, dans le cadre de cet agrément, les
+contrats ayant pour objet la fourniture de prestations de retraite liées à une activité professionnelle, versées en
+supplément des prestations servies par les régimes de base et complémentaires légalement obligatoires ou attribuées par
+référence à la perspective d'atteindre la retraite. Ces contrats sont souscrits :
 
 1° Par un employeur ou un groupe d'employeurs au profit de leurs salariés ou anciens salariés, ou par un groupe professionnel
 représentatif d'employeurs au profit des salariés ou anciens salariés de ceux-ci. Ils revêtent un caractère collectif
-déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 du code de la sécurité sociale ; 
+déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 du code de la sécurité sociale ;
 
 2° Ou par une association mentionnée à l'article L. 144-1.
 
@@ -5819,11 +5821,7 @@ déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
-
-	**Modifié par**:
-
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 1er octobre 2007
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Cité par**:
 
@@ -5848,7 +5846,7 @@ déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911
 	  - Code des assurances - art. L143-8 (VT)
 	  - Code des assurances - art. L143-9 (VT)
 	  - Code des assurances - art. L310-2 (V)
-	  - Code des assurances - art. L352-4 (VD)
+	  - Code des assurances - art. L352-4 (VT)
 	  - Code des assurances - art. L370-1 (V)
 	  - Code des assurances - art. L370-2 (VD)
 	  - Code des assurances - art. L370-3 (V)
@@ -5874,67 +5872,76 @@ déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911
 	  - Code monétaire et financier - art. R612-20-1 (V)
 	  - Code rural - art. L741-10 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
+
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L911-1 (V)
-	  - Code des assurances - art. L144-1 (V)
+	  - Code de la sécurité sociale. - art. L911-1
+	  - Code des assurances - art. L144-1
 
 
 ###### Article L143-2
 
-Les prestations relatives aux contrats mentionnés à l'article L. 143-1 sont payables à l'assuré à compter de la date de
-liquidation de sa pension dans un régime obligatoire d'assurance vieillesse ou à l'âge fixé en application de l'article L.
-351-1 du code de la sécurité sociale. Elles peuvent prévoir des garanties complémentaires en cas de décès de l'adhérent avant
-ou après la cessation d'activité professionnelle, ainsi qu'en cas d'invalidité et d'incapacité. 
+Les prestations relatives aux contrats mentionnés à l'article L. 143-1 peuvent prévoir des garanties complémentaires en cas
+de décès de l'adhérent avant ou après la cessation d'activité professionnelle, ainsi qu'en cas d'invalidité et d'incapacité.
 
 Les droits individuels en cours de constitution relatifs aux contrats mentionnés à l'article L. 143-1 sont transférables vers
 un autre contrat mentionné à l'article L. 143-1, ainsi que, dans des conditions et des limites fixées par décret, vers un
 plan d'épargne retraite populaire défini à l'article L. 144-2. Ces droits sont également transférables vers un contrat
 offrant les prestations mentionnées à l'article L. 143-1, mais n'ayant pas été souscrit dans le cadre de l'agrément
-administratif mentionné au premier alinéa de cet article. La notice d'information précise les modalités d'exercice de la
-clause de transférabilité. Toutefois, lorsque l'adhésion à ces contrats revêt un caractère obligatoire déterminé dans le
-cadre d'une des procédures mentionnées à l'article L. 911-1 du code de la sécurité sociale, les droits individuels relatifs à
-ces contrats ne sont transférables que lorsque le participant n'est plus tenu d'y adhérer. 
+administratif mentionné au premier alinéa de cet article et réciproquement. La notice d'information précise les modalités
+d'exercice de la clause de transférabilité. Toutefois, lorsque l'adhésion à ces contrats revêt un caractère obligatoire
+déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 du code de la sécurité sociale, les droits
+individuels relatifs à ces contrats ne sont transférables que lorsque le participant n'est plus tenu d'y adhérer.
 
-Il est institué pour chaque contrat mentionné au deuxième alinéa de l'article L. 143-1, ne relevant pas du b du 1 du I de
-l'article 163 quatervicies du code général des impôts et dont le nombre des adhérents est supérieur à un seuil fixé par un
-arrêté conjoint du ministre chargé de l'économie, du ministre chargé de la sécurité sociale et du ministre chargé de la
-mutualité, un comité de surveillance chargé de veiller à la bonne exécution du contrat et à la représentation des intérêts
-des adhérents. Ce comité est formé dans les six mois suivant le franchissement du seuil susmentionné, y compris suite à
-l'autorisation mentionnée à l'article L. 143-8. Il est composé à parts égales de représentants des salariés et des
-employeurs. Les membres du comité de surveillance sont tenus au secret professionnel à l'égard des informations présentant un
-caractère confidentiel et données comme telles par les personnes consultées dans les conditions et sous les peines prévues
-aux articles 226-13 et 226-14 du code pénal. Le comité peut entendre le ou les commissaires aux comptes mentionnés à
-l'article L. 143-6 sur les comptes prévus au deuxième alinéa de cet article. Ils sont sur cette question déliés à l'égard du
-comité de l'obligation du secret professionnel. 
+Il est institué, pour chaque contrat mentionné au 1° de l'article L. 143-1 dont le nombre des adhérents est supérieur à un
+seuil fixé par arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité, un comité de
+surveillance chargé de veiller à la bonne exécution du contrat et à la représentation des intérêts des adhérents. Ce comité
+est formé dans les six mois suivant le franchissement du seuil mentionné à la première phrase. Il est composé à parts égales
+de représentants des salariés et des employeurs. Les membres du comité de surveillance sont tenus au secret professionnel à
+l'égard des informations présentant un caractère confidentiel et données comme telles par les personnes consultées dans les
+conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal. Le comité peut entendre le ou les
+commissaires aux comptes compétents, qui sont déliés de l'obligation du secret professionnel à l'égard du comité en ce qui
+concerne les comptes concernés. Lorsque, pour un même fonds de retraite professionnelle supplémentaire ou une même entreprise
+d'assurance, un même souscripteur a souscrit plusieurs contrats pour lesquels doit être instauré un comité de surveillance,
+les comités de surveillance de ces contrats peuvent être regroupés au sein d'un unique comité chargé de veiller à la bonne
+exécution de l'ensemble des contrats concernés et à la représentation des intérêts des adhérents de l'ensemble de ces
+contrats.
+
+Par dérogation à l'alinéa précédent, les missions du comité de surveillance peuvent être confiées à une autre instance qui se
+substitue à lui, à condition que cette instance soit représentative, à parts égales, des salariés et des employeurs du
+contrat concerné et sous réserve que les membres de cette instance soient tenus aux mêmes obligations de secret professionnel
+que celles prévues pour les membres d'un comité de surveillance
 
 Les deuxième et troisième alinéas ne s'appliquent ni aux contrats à prestations définies bénéficiant du régime prévu au 2° et
 au 2° 0 bis de l'article 83 du code général des impôts, ni à ceux entrant dans le champ d'application de l'article L. 137-11
 du code de la sécurité sociale. Ils ne s'appliquent pas non plus aux contrats ayant pour seul objet la prestation
-d'indemnités de départ en retraite mentionnées à l'article L. 122-14-13 du code du travail.
+d'indemnités de départ en retraite mentionnées à l'article L. 1237-9 du code du travail.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 1er octobre 2007
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 163 quatervicies (V)
-	  - Code général des impôts, CGI. - art. 83 (VT)
-	  - Code pénal - art. 226-13 (V)
-	  - Code du travail - art. L122-14-13 (Ab)
-	  - Code de la sécurité sociale. - art. L137-11 (V)
-	  - Code de la sécurité sociale. - art. L351-1 (V)
-	  - Code de la sécurité sociale. - art. L911-1 (V)
-	  - Code des assurances - art. L143-1 (V)
-	  - Code des assurances - art. L143-6 (V)
-	  - Code des assurances - art. L144-2 (V)
+	  - Code général des impôts, CGI. - art. 163 quatervicies
+	  - Code général des impôts, CGI. - art. 83
+	  - Code pénal - art. 226-13
+	  - Code du travail - art. L122-14-13
+	  - Code de la sécurité sociale. - art. L137-11
+	  - Code de la sécurité sociale. - art. L351-1
+	  - Code de la sécurité sociale. - art. L911-1
+	  - Code des assurances - art. L143-1
+	  - Code des assurances - art. L143-6
+	  - Code des assurances - art. L144-2
 
 	**Cité par**:
 
@@ -5942,10 +5949,51 @@ d'indemnités de départ en retraite mentionnées à l'article L. 122-14-13 du c
 	  - Code des assurances - art. D132-10 (V)
 	  - Code des assurances - art. D132-6 (V)
 	  - Code des assurances - art. L143-8 (VT)
-	  - Code des assurances - art. L143-9 (M)
+	  - Code des assurances - art. L143-9 (VT)
 	  - Code des assurances - art. R143-2 (V)
 	  - Code des assurances - art. R143-3 (V)
 	  - Code des assurances - art. R143-4 (V)
+
+
+###### Article L143-2-1
+
+Les actifs de chaque contrat relevant du présent chapitre et faisant l'objet d'une comptabilité auxiliaire d'affectation sont
+conservés par un ou plusieurs dépositaires distincts du fonds de retraite professionnelle supplémentaire ou de l'entreprise
+d'assurance, qui exercent à titre principal le service mentionné au 1° de l'article L. 321-2 du code monétaire et financier
+et sont agréés en France ou dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
+européen.
+
+Les autres actifs du fonds de retraite professionnelle supplémentaire sont également conservés par un ou plusieurs
+dépositaires distincts du fonds, dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
+
+
+###### Article L143-2-2
+
+La notice mentionnée à l'article L. 141-4 indique que le contrat souscrit est un contrat de retraite professionnelle
+supplémentaire relevant du présent chapitre.
+
+Lors de la liquidation de ses droits, le fonds de retraite professionnelle supplémentaire ou l'entreprise d'assurance informe
+chaque adhérent et bénéficiaire, dans des conditions définies par arrêté du ministre chargé de l'économie, du montant des
+prestations qui lui sont dues et des options de paiement correspondantes.
+
+Le fonds de retraite professionnelle supplémentaire ou l'entreprise d'assurance établit et révise au moins tous les trois
+ans, globalement pour les opérations relevant du présent chapitre, un rapport indiquant sa politique de placement et les
+risques techniques et financiers correspondants. Ce rapport est mis à jour dans un délai de trois mois après tout changement
+majeur de la politique de placement. Il est mis à disposition du souscripteur, de l'adhérent et du bénéficiaire. Un arrêté du
+ministre chargé de l'économie précise le contenu du rapport et les autres informations qui, sur demande ou périodiquement,
+doivent être remises aux adhérents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 
 ###### Article L143-3
@@ -5994,35 +6042,31 @@ la durée de la vie humaine, y compris les opérations collectives mentionnées 
 
 Nonobstant les dispositions du code de commerce relatives aux comptes sociaux, l'entreprise d'assurance établit une
 comptabilité auxiliaire d'affectation pour les opérations relevant du présent chapitre et des opérations mentionnées à
-l'article L. 310-14. Cette disposition peut s'appliquer individuellement à un contrat selon des conditions fixées par
-décret. 
+l'article L. 310-14. Cette disposition peut s'appliquer individuellement à un contrat selon des conditions fixées par décret.
 
 Les comptabilités auxiliaires d'affectation relatives à des opérations relevant du présent chapitre, mentionnées aux articles
-L. 441-8, L. 134-2 et, pour les contrats relevant du b du 1 du I de l'article 163 quatervicies du code général des impôts,
-celles mentionnées au VII de l'article L. 144-2, sont établies séparément de la comptabilité auxiliaire d'affectation
-mentionnée à l'alinéa précédent. 
+L. 441-8, L. 134-2 et au VII de l'article L. 144-2, sont établies séparément de la comptabilité auxiliaire d'affectation
+mentionnée à l'alinéa précédent.
 
 L'autorité de contrôle instituée à l'article L. 612-1 du code monétaire et financier peut également exiger que l'entreprise
 d'assurance établisse séparément de la comptabilité mentionnée au premier alinéa une comptabilité auxiliaire d'affectation
-pour les opérations mentionnées à l'article L. 310-14. 
-
-Les actifs de chaque contrat sont conservés par un dépositaire unique distinct de l'entreprise d'assurance, qui exerce à
-titre principal le service mentionné au 1 de l'article L. 321-2 du code monétaire et financier, et qui est agréé en France,
-dans un autre Etat membre de la Communauté européenne ou dans autre Etat partie à l'accord sur l'Espace économique européen.
+pour les opérations mentionnées à l'article L. 310-14.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 5
+
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-696 du 26 juin 2014 - art. 1
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 163 quatervicies
-	  - Code monétaire et financier - art. L321-2
 	  - Code monétaire et financier - art. L612-1 (V)
 	  - Code des assurances - art. L134-2
-	  - Code des assurances - art. L144-2
+	  - Code des assurances - art. L144-2 (VD)
 	  - Code des assurances - art. L310-14
 	  - Code des assurances - art. L441-8
 
@@ -6035,7 +6079,7 @@ dans un autre Etat membre de la Communauté européenne ou dans autre Etat parti
 	  - Code des assurances - art. D143-5-1 (V)
 	  - Code des assurances - art. L143-5 (VT)
 	  - Code des assurances - art. L143-6 (VT)
-	  - Code des assurances - art. L143-7 (M)
+	  - Code des assurances - art. L143-7 (VT)
 	  - Code des assurances - art. L370-2 (VD)
 	  - Code des assurances - art. R310-17-2 (V)
 	  - Code des assurances - art. R332-59 (VT)
@@ -6094,24 +6138,11 @@ adhérents.
 
 ###### Article L143-6
 
-La notice mentionnée à l'article L. 141-4 indique que le contrat souscrit est un contrat de retraite professionnelle
-supplémentaire relevant des dispositions du présent chapitre. 
-
 L'entreprise d'assurance établit et arrête, dans les mêmes conditions que ses comptes individuels, le rapport de gestion et
 les comptes annuels relatifs à la ou aux comptabilités auxiliaires d'affectation mentionnées à l'article L. 143-4. Le ou les
 commissaires aux comptes de l'entreprise d'assurance certifient que ces comptes annuels sont réguliers et sincères. Ces
 documents sont remis à leur demande aux souscripteurs dans les six mois qui suivent la clôture de l'exercice précédent et
-sont tenus à la disposition des adhérents et bénéficiaires. 
-
-Lors de la liquidation de ses droits, l'entreprise d'assurance informe chaque adhérent ou bénéficiaire, dans des conditions
-définies par arrêté du ministre chargé de l'économie, sur le montant des prestations qui lui sont dues et sur les options de
-paiement correspondantes. 
-
-L'entreprise d'assurance établit et révise au moins tous les trois ans, globalement pour les opérations relevant du présent
-chapitre, un rapport indiquant sa politique de placement et les risques techniques et financiers y afférents. Ce rapport doit
-être mis à jour dans un délai de trois mois après tout changement majeur de la politique de placement. Il est remis, sur
-demande, au souscripteur, à l'adhérent et au bénéficiaire. Un arrêté du ministre chargé de l'économie précise les autres
-informations qui, sur demande ou périodiquement, doivent être remises aux adhérents.
+sont tenus à la disposition des adhérents et bénéficiaires.
 
 **Liens relatifs à cet article**
 
@@ -6119,9 +6150,13 @@ informations qui, sur demande ou périodiquement, doivent être remises aux adh�
 
 	  - Décret n°76-666 du 16 juillet 1976
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 5
+
 	**Modifié par**:
 
-	  - Loi n°2014-1662 du 30 décembre 2014 - art. 16
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cité par**:
 
@@ -6134,8 +6169,7 @@ informations qui, sur demande ou périodiquement, doivent être remises aux adh�
 
 	**Cite**:
 
-	  - Code des assurances - art. L141-4 (V)
-	  - Code des assurances - art. L143-4 (V)
+	  - Code des assurances - art. L143-4
 
 
 ###### Article L143-7
@@ -6145,26 +6179,29 @@ d'assurance, autre que les adhérents, assurés ou bénéficiaires au titre des 
 se prévaloir d'un quelconque droit sur les biens et droits résultant de l'enregistrement comptable établi en vertu du premier
 alinéa de l'article L. 143-4, même sur le fondement du livre VI du code de commerce, des articles 2101 et 2104 du code civil,
 des articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du code de la sécurité
-sociale ou de l'article L. 212-23 du code de la mutualité. 
+sociale ou de l'article L. 212-23 du code de la mutualité.
 
-Sous réserve de l'article L. 143-5, les adhérents, assurés ou bénéficiaires au titre des opérations relevant du présent
+Sous réserve de  l'article L. 143-5, les adhérents, assurés ou bénéficiaires au titre des opérations relevant du présent
 chapitre et de l'article L. 310-14 ne peuvent se prévaloir d'un quelconque droit sur les biens et droits résultant des autres
-opérations de l'entreprise d'assurance, même sur le fondement du livre VI du code de commerce, des articles 2101 et 2104 du
+opérations de l'entreprise d'assurance, même sur le fondement du livre VI du code de commerce, des articles 2331 et 2375 du
 code civil, des articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du code de
 la sécurité sociale ou de l'article L. 212-23 du code de la mutualité.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 5
+
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 7
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code civil - art. 2101
 	  - Code de la sécurité sociale. - art. L932-24
-	  - Code des assurances - art. L143-4 (V)
-	  - Code des assurances - art. L143-5
+	  - Code des assurances - art. L143-4 (VT)
+	  - Code des assurances - art. L143-5 (VT)
 	  - Code des assurances - art. L310-25
 	  - Code de la mutualité - art. L212-23
 
@@ -6178,32 +6215,29 @@ la sécurité sociale ou de l'article L. 212-23 du code de la mutualité.
 
 ###### Article L143-8
 
-La soumission au présent chapitre de tout contrat offrant les prestations mentionnées à l'article L. 143-1, mais n'ayant pas
-été souscrit dans le cadre de l'agrément administratif mentionné au premier alinéa de cet article, est autorisée par
-l'Autorité de contrôle prudentiel et de résolution. La désignation des contrats concernés est portée à la connaissance des
-créanciers par un avis publié au Journal officiel, qui leur impartit un délai d'un mois pour présenter leurs observations. 
+La soumission au présent chapitre, par des entreprises d'assurance, de tout contrat offrant les prestations mentionnées à
+l'article L. 143-1, mais n'ayant pas été souscrit dans le cadre de l'agrément administratif mentionné au premier alinéa de
+cet article, est autorisée par l'Autorité de contrôle prudentiel et de résolution. La désignation des contrats concernés est
+portée à la connaissance des créanciers par un avis publié au Journal officiel, qui leur impartit un délai d'un mois pour
+présenter leurs observations.
 
 L'Autorité dispose pour se prononcer d'un délai de deux mois à compter de l'expiration du délai imparti à l'alinéa précédent
 aux créanciers pour présenter leurs observations. L'Autorité peut également demander des documents complémentaires
-nécessaires à l'appréciation de l'opération, et, dans ce cas, le délai dont il dispose pour se prononcer court à partir de la
-date de production desdits documents. 
+nécessaires à l'appréciation de l'opération, et, dans ce cas, le délai dont elle dispose pour se prononcer court à partir de
+la date de production desdits documents.
 
 Cette soumission est opposable aux assurés, créanciers, souscripteurs et bénéficiaires du ou des contrats à partir de la date
 de publication au Journal officiel de l'autorisation mentionnée au premier alinéa. A l'initiative du souscripteur, un contrat
 peut ne plus relever des dispositions relevant de l'agrément administratif visé au premier alinéa de l'article L. 143-1 ;
 cette opération intervient après accord du comité de surveillance mentionné à l'article L. 143-2, lorsqu'il est institué et
 requiert l'approbation de l'Autorité de contrôle prudentiel et de résolution qui dispose pour se prononcer d'un délai de deux
-mois à compter du dépôt de la demande par l'entreprise d'assurance opérant dans le cadre de cet agrément. 
+mois à compter du dépôt de la demande par l'entreprise d'assurance opérant dans le cadre de cet agrément.
 
 Pour l'application des dispositions du présent article, les mutuelles régies par le code de la mutualité et les institutions
 de prévoyance mentionnées à l'article L. 931-1 du code de la sécurité sociale et à l'article L. 727-2 du code rural et de la
 pêche maritime sont assimilées à des entreprises d'assurance agréées conformément aux dispositions de l'article L. 321-1.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 	**Cité par**:
 
@@ -6214,9 +6248,17 @@ pêche maritime sont assimilées à des entreprises d'assurance agréées confor
 	  - Code de la sécurité sociale. - art. L932-41 (VD)
 	  - Code de la sécurité sociale. - art. L932-47 (VT)
 	  - Code des assurances - art. L143-2 (VT)
-	  - Code des assurances - art. L143-9 (M)
+	  - Code des assurances - art. L143-9 (VT)
 	  - Code des assurances - art. R332-63 (VT)
 	  - Code des assurances - art. R342-14 (VD)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 5
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
@@ -6228,27 +6270,28 @@ pêche maritime sont assimilées à des entreprises d'assurance agréées confor
 
 ###### Article L143-9
 
-Un décret en Conseil d'Etat précise les règles techniques et de garantie applicables aux opérations mentionnées à l'article
-L. 143-1 et à l'article L. 310-14, ainsi que les conditions d'application des articles L. 143-1 à L. 143-8, et notamment les
-modalités de constitution et de fonctionnement du comité de surveillance mentionné à l'article L. 143-2. Il fixe les
-conditions de l'autorisation mentionnée à l'article L. 143-8.
+Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre, notamment les règles techniques et de
+garantie applicables aux opérations mentionnées à l'article L. 143-1, les modalités de constitution et de fonctionnement du
+comité de surveillance mentionné à l'article L. 143-2 et les possibilités d'inclusion du rapport mentionné à l'article L.
+143-2-2 dans le rapport sur la solvabilité et la situation financière de l'entreprise d'assurance ou du fonds de retraite
+professionnelle supplémentaire concerné ainsi que les modalités de sa mise à disposition.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 7
 
 	**Cité par**:
 
 	  - Décret n°2015-46 du 22 janvier 2015 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
+
 	**Cite**:
 
-	  - Code des assurances - art. L143-1 (V)
-	  - Code des assurances - art. L143-2 (V)
-	  - Code des assurances - art. L143-8 (V)
-	  - Code des assurances - art. L310-14 (V)
+	  - Code des assurances - art. L143-1
+	  - Code des assurances - art. L143-2 (VT)
+	  - Code des assurances - art. L143-8 (VT)
+	  - Code des assurances - art. L310-14
 
 
 #### Chapitre IV : Contrats de prévoyance et de retraite supplémentaire souscrits par des associations
@@ -12627,22 +12670,24 @@ entre cette autorité et les entreprises établies dans ces territoires ne sont 
 ###### Article L310-1
 
 Le contrôle de l'Etat s'exerce dans l'intérêt des assurés, souscripteurs et bénéficiaires de contrats d'assurance et de
-capitalisation. Sont soumises à ce contrôle : 
+capitalisation. Sont soumises à ce contrôle :
 
 1° les entreprises qui sous forme d'assurance directe contractent des engagements dont l'exécution dépend de la durée de la
 vie humaine, s'engagent à verser un capital en cas de mariage ou de naissance d'enfants, ou font appel à l'épargne en vue de
-la capitalisation et contractent à cet effet des engagements déterminés ; 
+la capitalisation et contractent à cet effet des engagements déterminés ;
 
 2° les entreprises qui sous forme d'assurance directe couvrent les risques de dommages corporels liés aux accidents et à la
-maladie ; 
+maladie ;
 
 3° les entreprises qui sous forme d'assurance directe couvrent d'autres risques y compris ceux liés à une activité
-d'assistance. 
+d'assistance.
 
-Les mutuelles et unions régies par le code la mutualité, les institutions de prévoyance et unions régies par le titre 3 du
-livre 9 du code de la sécurité sociale et par le II de l'article L. 727-2 du code rural et de la pêche maritime ne sont pas
-soumises aux dispositions du présent code, sous réserve des  dispositions de ce dernier auxquelles renvoient le code de la
-mutualité et le code de la sécurité sociale. 
+Les mutuelles et unions régies par le code la mutualité, y compris les mutuelles et unions de retraite professionnelle
+supplémentaire mentionnées à l'article L. 214-1 de ce code, les institutions de prévoyance et unions régies par le titre III
+du livre IX du code de la sécurité sociale et par le II de l'article L. 727-2 du code rural et de la pêche maritime et les
+institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du code de la sécurité sociale ne
+sont pas soumises aux dispositions du présent code, sous réserve des dispositions de ce dernier auxquelles renvoient le code
+de la mutualité et le code de la sécurité sociale.
 
 Sont également soumises au contrôle de l'Etat les entreprises agréées à la date du 1er janvier 1993 qui font appel à
 l'épargne en vue de la capitalisation sans souscrire d'engagements déterminés.
@@ -12743,7 +12788,7 @@ l'épargne en vue de la capitalisation sans souscrire d'engagements déterminés
 	  - Code des assurances - art. L310-19 (Ab)
 	  - Code des assurances - art. L310-2 (V)
 	  - Code des assurances - art. L310-2-2 (V)
-	  - Code des assurances - art. L310-25 (VD)
+	  - Code des assurances - art. L310-25 (V)
 	  - Code des assurances - art. L310-27 (V)
 	  - Code des assurances - art. L310-28 (V)
 	  - Code des assurances - art. L310-3 (VD)
@@ -12803,7 +12848,7 @@ l'épargne en vue de la capitalisation sans souscrire d'engagements déterminés
 	  - Code des assurances - art. L413-3 (V)
 	  - Code des assurances - art. L421-2 (V)
 	  - Code des assurances - art. L421-9 (VD)
-	  - Code des assurances - art. L423-1 (VD)
+	  - Code des assurances - art. L423-1 (V)
 	  - Code des assurances - art. L433-1 (Ab)
 	  - Code des assurances - art. L441-1 (VD)
 	  - Code des assurances - art. L442-3 (V)
@@ -12913,7 +12958,7 @@ l'épargne en vue de la capitalisation sans souscrire d'engagements déterminés
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 2
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
@@ -13174,8 +13219,8 @@ d'assurance au sens du livre Ier, ni une opération d'assurance au sens de l'art
 
 ###### Article L310-2
 
-I.-Sous réserve des dispositions de l'article L. 310-10, les opérations d'assurance directe définies à l'article L. 310-1 ne
-peuvent être pratiquées sur le territoire de la République française que : 
+I. – Sous réserve des dispositions de l'article L. 310-10, les opérations d'assurance directe définies à l'article L. 310-1
+ne peuvent être pratiquées sur le territoire de la République française que :
 
 1° par les entreprises ayant leur siège social en France, à partir de leur siège ou de leurs succursales régulièrement
 établies dans un Etat membre de l'Union européenne, lorsqu'elles sont agréées conformément aux dispositions de l'article L.
@@ -13183,18 +13228,19 @@ peuvent être pratiquées sur le territoire de la République française que :
 
 2° par les entreprises étrangères ayant leur siège social dans un Etat membre de l'Union européenne, à partir de leur siège
 ou de leurs succursales régulièrement établies dans un Etat membre des Communautés européennes, dans les conditions fixées
-par le titre VI du présent livre ; 
+par le titre VI du présent livre ;
 
 3° par les entreprises étrangères mentionnées à l'article L. 310-10-1, à partir de leurs succursales régulièrement établies
-en France, lorsqu'elles sont agréées conformément aux dispositions de l'article L. 321-7 ; 
+en France, lorsqu'elles sont agréées conformément aux dispositions de l'article L. 321-7 ;
 
 4° par les entreprises étrangères autres que celles mentionnées aux 2° et 3° ci-dessus, à partir de leurs succursales
-régulièrement établies en France, lorsqu'elles satisfont aux conditions fixées par l'article L. 329-1. 
+régulièrement établies en France, lorsqu'elles satisfont aux conditions fixées par l'article L. 329-1.
 
-II.-Les opérations mentionnées à l'article L. 143-1 peuvent être pratiquées sur le territoire de la République française par
-les institutions mentionnées à l'article L. 370-1, dans les conditions fixées par le titre VII du présent livre. 
+II. – Sans préjudice de l'article L. 143-1, les opérations mentionnées à cet article peuvent également être pratiquées sur le
+territoire de la République française par les institutions mentionnées à l'article L. 370-1, dans les conditions fixées par
+le titre VII du présent livre.
 
-III.-Sont nuls les contrats souscrits en infraction au présent article. Toutefois, cette nullité n'est pas opposable,
+III. – Sont nuls les contrats souscrits en infraction au présent article. Toutefois, cette nullité n'est pas opposable,
 lorsqu'ils sont de bonne foi, aux assurés, aux souscripteurs et aux bénéficiaires.
 
 **Liens relatifs à cet article**
@@ -13320,7 +13366,7 @@ lorsqu'ils sont de bonne foi, aux assurés, aux souscripteurs et aux bénéficia
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 2
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Liens**:
 
@@ -13664,6 +13710,24 @@ exercices annuels suivants.
 	  - Code des assurances - art. L321-10-3 (VD)
 
 
+###### Article L310-3-3
+
+Les fonds de retraite professionnelle supplémentaire ne sont pas des entreprises relevant du régime dit “ Solvabilité II ”
+définies à l'article L. 310-3-1, ni des entreprises ne relevant pas du régime dit “ Solvabilité II ” définies à l'article L.
+310-3-2.
+
+Sous réserve des dispositions auxquelles renvoie le titre VIII du présent livre, les titres III et V du présent livre ne sont
+pas applicables aux fonds de retraite professionnelle supplémentaire.
+
+Les fonds de retraite professionnelle supplémentaire sont soumis au contrôle de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
+
+
 ###### Article L310-4
 
 Pour les opérations mentionnées aux 2° et 3° de l'article L. 310-1, est regardé comme Etat de situation de risque : 
@@ -13780,10 +13844,10 @@ l'article L. 310-1 ou des opérations de réassurance que si elle satisfait aux 
 ###### Article L310-7
 
 Un décret en Conseil d'Etat détermine les conditions de constitution des entreprises soumises au contrôle de l'Etat en vertu
-de l'article L. 310-1 et du 1° du III de l'article L. 310-1-1. Il précise les conditions dans lesquelles sont applicables
-auxdites entreprises les dispositions des articles L. 210-1 et suivants du code de commerce et des lois régissant les
-sociétés anonymes. Des dispositions particulières tiennent compte du caractère non commercial des sociétés d'assurance
-mutuelles. 
+de l'article L. 310-1 et du 1° du III de l'article L. 310-1-1 et des fonds de retraite professionnelle supplémentaire. Il
+précise les conditions dans lesquelles sont applicables à ces entreprises et fonds les dispositions des articles L. 210-1 et
+suivants du code de commerce et des lois régissant les sociétés anonymes. Des dispositions particulières tiennent compte du
+caractère non commercial des sociétés d'assurance mutuelles.
 
 Le même décret fixe les obligations auxquelles les entreprises françaises et étrangères sont astreintes, les garanties
 qu'elles doivent présenter, les réserves et provisions techniques qu'elles doivent constituer, les règles générales de leur
@@ -13807,7 +13871,7 @@ fonctionnement, de leur contrôle interne et de l'exercice du contrôle de l'Eta
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-108 du 30 janvier 2009 - art. 1
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
@@ -14079,8 +14143,8 @@ du livre VI du code monétaire et financier.
 ###### Article L310-12-1
 
 L'Autorité de contrôle prudentiel et de résolution veille à ce que les modalités de constitution et le fonctionnement des
-organes délibérants et des organes dirigeants des personnes mentionnées aux 1° à 3° et au 5° du B du I de l'article L. 612-2
-du code monétaire et financier soient conformes aux dispositions qui les régissent.
+organes délibérants et des organes dirigeants des personnes mentionnées aux 1° à 3°, 5° et 9° à 11° du B du B du I de
+l'article L. 612-2 du code monétaire et financier soient conformes aux dispositions qui les régissent.
 
 **Liens relatifs à cet article**
 
@@ -14095,7 +14159,7 @@ du code monétaire et financier soient conformes aux dispositions qui les régis
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
@@ -14209,12 +14273,12 @@ règlement n° 1094/2010 du Parlement européen et du Conseil du 24 novembre 201
 L'Autorité de contrôle prudentiel et de résolution peut exiger la modification ou décider le retrait de tout document
 contraire aux dispositions législatives et réglementaires, à l'exception des documents à caractère contractuel ou
 publicitaire pour les entreprises mentionnées au 1° du III de l'article L. 310-1-1. Dans ce cas, elle statue dans les
-conditions prévues à l'article L. 612-35 du code monétaire et financier. 
+conditions prévues à l'article L. 612-35 du code monétaire et financier.
 
-Elle vérifie que les publications auxquelles sont astreintes les entreprises mentionnées à l'article L. 310-1 et au 1° du III
-de l'article L. 310-1-1 et les sociétés de groupe d'assurance sont régulièrement effectuées. Elle peut ordonner aux
-entreprises concernées de procéder à des publications rectificatives dans le cas où des inexactitudes ou des omissions
-auraient été relevées.
+Elle vérifie que les publications auxquelles sont astreints les entreprises mentionnées à l'article L. 310-1 et au 1° du III
+de l'article L. 310-1-1 et les sociétés de groupe d'assurance ainsi que les fonds de retraite professionnelle supplémentaire
+sont régulièrement effectuées. Elle peut ordonner aux entreprises et fonds concernés de procéder à des publications
+rectificatives dans le cas où des inexactitudes ou des omissions auraient été relevées.
 
 **Liens relatifs à cet article**
 
@@ -14224,12 +14288,12 @@ auraient été relevées.
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L612-35
-	  - Code des assurances - art. L310-1 (V)
+	  - Code des assurances - art. L310-1
 	  - Code des assurances - art. L310-1-1
 
 
@@ -15236,30 +15300,38 @@ sur le même territoire que leur siège social.
 
 ###### Article L322-1-2
 
-Dans le présent code : 
+Dans le présent code :
 
 1° L'expression : " sociétés de groupe d'assurance " désigne les entreprises mères au sens de l'article L. 356-1 qui ne sont
 pas des compagnies financières holding mixtes au sens de l'article L. 517-4 du code monétaire et financier et dont l'activité
 principale consiste à prendre et à gérer des participations au sens du 10° de l'article L. 310-3 dans des entreprises
-soumises au contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1, ou dans des entreprises
-d'assurance ou de réassurance dont le siège social est situé hors de France, ou à nouer et à gérer des relations financières
-fortes et durables avec des mutuelles ou unions régies par le livre II du code de la mutualité, des institutions de
-prévoyance ou unions régies par le titre III du livre IX du code de la sécurité sociale, des sociétés d'assurance mutuelle
-régies par le code des assurances, ou des entreprises d'assurance ou de réassurance à forme mutuelle ou coopérative ou à
-gestion paritaire ayant leur siège social dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord
-sur l'Espace économique européen. L'un au moins de ces organismes est une entreprise soumise au contrôle de l'Etat en
-application de l'article L. 310-1 ou de l'article L. 310-1-1 et ayant son siège social en France ; 
+soumises au contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1 dans des entreprises
+d'assurance ou de réassurance dont le siège social est situé hors de France, ou dans des fonds de retraite professionnelle
+supplémentaire constitués sous forme de société anonyme, ou à nouer et à gérer des relations financières fortes et durables
+avec des mutuelles ou unions régies par le livre II du code de la mutualité, des mutuelles ou unions de retraite
+professionnelle supplémentaire mentionnées à l'article L. 214-1 du même code, des institutions de prévoyance ou unions régies
+par le titre III du livre IX du code de la sécurité sociale, des institutions de retraite professionnelle supplémentaire
+mentionnées à l'article L. 942-1 du même code, des sociétés d'assurance mutuelle, des fonds de retraite professionnelle
+supplémentaire constitués sous forme de société d'assurance mutuelle , ou des entreprises d'assurance ou de réassurance à
+forme mutuelle ou coopérative ou à gestion paritaire ayant leur siège social dans un Etat membre de l'Union européenne ou
+dans un autre Etat partie à l'accord sur l'Espace économique européen. L'un au moins de ces organismes est une entreprise
+soumise au contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1 et ayant son siège social en
+France ;
 
 2° L'expression : " sociétés de groupe mixtes d'assurance " désigne les entreprises mères au sens du 1° de l'article L. 356-1
-d'au moins une entreprise mentionnée à l'article L. 310-1 ou à l'article L. 310-1-1, ou une mutuelle ou union régie par le
-livre II du code de la mutualité ou une institution de prévoyance ou union régie par le titre 3 du livre 9 du code de la
-sécurité sociale, autres que les entreprises mentionnées à l'article L 310-1 ou à l'article L 310-1-1, les mutuelles ou
-unions régies par le livre II du code de la mutualité, les institutions de prévoyance ou unions régies par le titre 3 du
-livre 9 du code de la sécurité sociale, les entreprises d'assurance ou de réassurance dont le siège social est situé hors de
-France, les sociétés de groupe d'assurance définies au 1°, les unions mutualistes de groupe définies à l'article L. 111-4-2
-du code de la mutualité et les sociétés de groupe assurantiel de protection sociale définies à l'article L. 931-2-2 du code
-de la sécurité sociale et les compagnies financières holding mixtes définies à l'article L. 517-4 du code monétaire et
-financier.
+d'au moins une entreprise mentionnée à l'article L. 310-1 ou à l'article L. 310-1-1, ou un fonds de retraite professionnelle
+supplémentaire, ou une mutuelle ou union régie par le livre II du code de la mutualité, ou une mutuelle ou union de retraite
+professionnelle supplémentaire mentionnée à l'article L. 214-1 du même code de la mutualité, ou une institution de prévoyance
+ou union régie par le titre III du livre IX du code de la sécurité sociale, ou une institution de retraite professionnelle
+supplémentaire mentionnée à l'article L. 942-1 du code de la sécurité sociale, autres que les entreprises mentionnées à
+l'article L. 310-1 ou à l'article L. 310-1-1, les fonds de retraite professionnelle supplémentaire, les mutuelles ou unions
+régies par le livre II du code de la mutualité, les mutuelles ou unions de retraite professionnelle supplémentaire
+mentionnées à l'article L. 214-1 du même code, les institutions de prévoyance ou unions régies par le titre III du livre IX
+du code de la sécurité sociale, les institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1
+du même code, les entreprises d'assurance ou de réassurance dont le siège social est situé hors de France, les sociétés de
+groupe d'assurance définies au 1°, les unions mutualistes de groupe définies à l'article L. 111-4-2 du code de la mutualité
+et les sociétés de groupe assurantiel de protection sociale définies à l'article L. 931-2-2 du code de la sécurité sociale et
+les compagnies financières holding mixtes définies à l'article L. 517-4 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
@@ -15281,7 +15353,7 @@ financier.
 	  - Code des assurances - art. L310-19 (Ab)
 	  - Code des assurances - art. L310-28 (V)
 	  - Code des assurances - art. L322-1-3 (V)
-	  - Code des assurances - art. L322-2 (VD)
+	  - Code des assurances - art. L322-2 (V)
 	  - Code des assurances - art. L334-2 (V)
 	  - Code des assurances - art. L341-3 (VD)
 	  - Code des assurances - art. L345-1-1 (VT)
@@ -15306,50 +15378,58 @@ financier.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 3
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 7
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L517-4 (V)
+	  - Code monétaire et financier - art. L517-4
 	  - Code des assurances - art. L310-1
 	  - Code des assurances - art. L310-1-1
-	  - Code des assurances - art. L310-3 (VD)
-	  - Code des assurances - art. L356-1 (VD)
+	  - Code des assurances - art. L310-3
+	  - Code des assurances - art. L356-1
 
 
 ###### Article L322-1-3
 
 Lorsque la société de groupe d'assurance a avec une entreprise des relations financières fortes et durables qui ne résultent
-pas de participations au sens du 10° de l'article L. 310-3, ces relations sont définies par une convention d'affiliation. 
+pas de participations au sens du 10° de l'article L. 310-3, ces relations sont définies par une convention d'affiliation.
 
 Un organisme ne peut s'affilier à une société de groupe d'assurance définie à l'article L. 322-1-2, à une union mutualiste de
 groupe définie à l'article L. 111-4-2 du code de la mutualité ou à une société de groupe assurantiel de protection sociale
 définie à l'article L. 931-2-2 du code de la sécurité sociale que si ses statuts en prévoient expressément la possibilité et
 qu'il n'est pas déjà affilié à une société de groupe d'assurance, à une union mutualiste de groupe ou à une société de groupe
-assurantiel de protection sociale. 
+assurantiel de protection sociale.
 
 La société de groupe d'assurance peut décider de fonctionner sans capital social à la double condition de compter au moins
 deux entreprises affiliées et d'exercer effectivement une influence dominante au moyen d'une coordination centralisée sur les
 décisions, y compris financières, des entreprises affiliées. Si elle remplit ces conditions, la société de groupe d'assurance
-peut être dénommée " société de groupe d'assurance mutuelle ". 
+peut être dénommée " société de groupe d'assurance mutuelle ".
 
 Les entreprises affiliées à une société de groupe d'assurance mutuelle ne peuvent être que :
 
-- des mutuelles ou unions relevant du livre II du code de la mutualité ;
+– des mutuelles ou unions relevant du livre II du code de la mutualité ;
 
-- des institutions de prévoyances ou unions relevant du titre 3 du livre 9 du code de la sécurité sociale ;
+– des institutions de prévoyances ou unions relevant du titre 3 du livre 9 du code de la sécurité sociale ;
 
-- des sociétés d'assurance mutuelle relevant du code des assurances ou des entreprises d'assurance ou de réassurance à forme
+– des sociétés d'assurance mutuelle relevant du code des assurances ou des entreprises d'assurance ou de réassurance à forme
 mutuelle ou coopérative ou à gestion paritaire ayant leur siège social dans un autre Etat membre de l'Union européenne ou
 partie à l'accord sur l'Espace économique européen ;
 
-- des sociétés de groupe d'assurance mutuelle définies au présent article, des unions mutualistes de groupe définies à
+– des sociétés de groupe d'assurance mutuelle définies au présent article, des unions mutualistes de groupe définies à
 l'article L. 111-4-2 du code de la mutualité ou des sociétés de groupe assurantiel de protection sociale définies à l'article
-L. 931-2-2 du code de la sécurité sociale. 
+L. 931-2-2 du code de la sécurité sociale ;
+
+– des fonds de retraite professionnelle supplémentaire lorsqu'ils sont constitués sous forme de sociétés d'assurance
+mutuelle ;
+
+– des mutuelles ou unions de retraite professionnelle supplémentaire mentionnées à l'article L. 214-1 du code de la
+mutualité ;
+
+– des institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du code de la sécurité
+sociale.
 
 Une société de groupe d'assurance mutuelle doit compter parmi ses affiliées, soit une société d'assurance mutuelle, soit une
-société de groupe d'assurance mutuelle. 
+société de groupe d'assurance mutuelle.
 
 Les conditions de fonctionnement des sociétés de groupe d'assurance mutuelle sont fixées par décret en Conseil d'Etat.
 
@@ -15376,9 +15456,8 @@ Les conditions de fonctionnement des sociétés de groupe d'assurance mutuelle s
 	  - Code de la mutualité - art. L221-19 (V)
 	  - Code de la sécurité sociale. - art. L931-15-1 (VD)
 	  - Code de la sécurité sociale. - art. L931-2-1 (V)
-	  - Code de la sécurité sociale. - art. L931-2-2 (V)
 	  - Code des assurances - art. A322-8 (Ab)
-	  - Code des assurances - art. L322-1-5 (M)
+	  - Code des assurances - art. L322-1-5 (V)
 	  - Code des assurances - art. L322-26-8 (V)
 	  - Code des assurances - art. R322-160 (V)
 	  - Code des assurances - art. R322-165 (V)
@@ -15389,12 +15468,13 @@ Les conditions de fonctionnement des sociétés de groupe d'assurance mutuelle s
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 1
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-3 (VD)
-	  - Code des assurances - art. L322-1-2 (VD)
+	  - Code de la sécurité sociale. - art. L931-2-2 (V)
+	  - Code des assurances - art. L310-3
+	  - Code des assurances - art. L322-1-2
 
 
 ###### Article L322-1-4
@@ -15418,176 +15498,180 @@ fonctionnement de ces sociétés de groupe d'assurance.
 ###### Article L322-1-5
 
 Les sociétés d'assurance mutuelle peuvent constituer un groupement d'assurance mutuelle, doté de la personnalité morale. Les
-statuts de ce groupement peuvent en prévoir l'ouverture à des organismes relevant des catégories suivantes : 
+statuts de ce groupement peuvent en prévoir l'ouverture à des organismes relevant des catégories suivantes :
 
 1° Organismes régis par le titre 3 du livre 9 du code de la sécurité sociale ou au II de l'article L. 727-2 du code rural et
-de la pêche maritime ; 
+de la pêche maritime ;
 
 2° Mutuelles et unions régies par le livre II du code de la mutualité, unions de groupe mutualiste définies à l'article L.
-111-4-1 du code de la mutualité et unions mutualistes de groupe définies à l'article L. 111-4-2 du code de la mutualité ; 
+111-4-1 du code de la mutualité et unions mutualistes de groupe définies à l'article L. 111-4-2 du code de la mutualité ;
 
 3° Sociétés d'assurances mutuelles et unions de sociétés d'assurance mutuelles relevant du code des assurances ainsi que les
 sociétés de groupe d'assurance mutuelle et les groupements d'assurance mutuelle définis respectivement à l'article L. 322-1-3
-et à l'article L. 322-1-5 du code des assurances ; 
+et à l'article L. 322-1-5 du code des assurances ;
 
 4° Autres organismes d'assurance à forme mutuelle ou coopérative ou à gestion paritaire dont le siège est situé dans un Etat
-membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen. 
+membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ;
+
+5° Fonds de retraite professionnelle supplémentaire lorsqu'ils sont constitués sous forme de sociétés d'assurance mutuelle ;
+
+6° Mutuelles ou unions de retraite professionnelle supplémentaire mentionnées à l'article L. 214-1 du code de la mutualité ;
+
+7° Institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du code de la sécurité sociale.
 
 Pour l'application du 4°, est considérée comme entreprise d'assurance ou de réassurance à gestion paritaire toute entreprise
 d'assurance ou de réassurance dont le conseil d'administration ou l'organe assimilé prend ses décisions par la voie de
-délibérations de représentants des employeurs et de représentants des salariés. 
+délibérations de représentants des employeurs et de représentants des salariés.
 
 Le groupement d'assurance mutuelle a pour objet de faciliter et de développer, en les coordonnant, les activités de ses
 membres qui demeurent, pour chacun d'entre eux, directement responsables de la garantie de leurs engagements. En aucun cas,
-les groupements de sociétés d'assurance mutuelle ne peuvent pratiquer des opérations d'assurance ou de réassurance. 
+les groupements de sociétés d'assurance mutuelle ne peuvent pratiquer des opérations d'assurance ou de réassurance.
 
 Les personnes mentionnées du 1° au 4° ne peuvent adhérer à un groupement d'assurance mutuelle que si leurs statuts en
 prévoient expressément la possibilité. Le groupement ne peut exercer sur ses membres d'influence dominante au sens du 1° de
-l'article L. 356-1 ni établir de relations financières fortes et durables entre ses membres. 
+l'article L. 356-1 ni établir de relations financières fortes et durables entre ses membres.
 
 Un groupement d'assurance mutuelle peut être transformé en société de groupe d'assurance mutuelle au sens de l'article L.
-322-1-3 sans donner lieu à dissolution ni à création d'une personne morale nouvelle. 
+322-1-3 sans donner lieu à dissolution ni à création d'une personne morale nouvelle.
 
 Les conditions de fonctionnement du groupement d'assurance mutuelle sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 7
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
 	  - Code rural - art. L727-2
 	  - Code des assurances
 	  - Code des assurances - art. L322-1-3 (V)
-	  - Code des assurances - art. L356-1 (V)
-	  - Code de la mutualité - art. L111-4-2
+	  - Code des assurances - art. L322-1-5 (V)
+	  - Code des assurances - art. L356-1
+	  - Code de la mutualité - art. L111-4-2 (V)
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. L111-4-1 (V)
 	  - Code de la sécurité sociale. - art. L931-2-1 (V)
-	  - Code des assurances - art. L322-1-5 (M)
 	  - Code des assurances - art. L341-3 (VD)
 
 
 ###### Article L322-2
 
-I.-Nul ne peut, directement ou indirectement administrer ou diriger une entreprise soumise au contrôle de l'Etat en vertu de
-l'article L. 310-1 ou de l'article L. 310-1-1, une société de groupe d'assurance définie à l'article L. 322-1-2, une
+I. – Nul ne peut, directement ou indirectement administrer ou diriger une entreprise soumise au contrôle de l'Etat en vertu
+de l'article L. 310-1 ou de l'article L. 310-1-1, une société de groupe d'assurance définie à l'article L. 322-1-2, une
 compagnie financière holding mixte définie à l'article L. 517-4 du code monétaire et financier, ni être membre d'un organe
 collégial de contrôle de ces entreprises, sociétés ou compagnies, ni disposer du pouvoir de signer pour leur compte, ni être
 responsable d'une des fonctions clés mentionnées à l'article L. 354-1, s'il a fait l'objet depuis moins de dix ans d'une
-condamnation définitive : 
+condamnation définitive :
 
 1° Pour crime ; 
 
-2° A une peine d'emprisonnement ferme ou d'au moins six mois avec sursis pour : 
+2° A une peine d'emprisonnement ferme ou d'au moins six mois avec sursis pour :
 
 a) L'une des infractions prévues au titre Ier du livre III du code pénal et pour les délits prévus par des lois spéciales et
-punis des peines prévues pour l'escroquerie et l'abus de confiance ; 
+punis des peines prévues pour l'escroquerie et l'abus de confiance ;
 
 b) Recel ou l'une des infractions assimilées au recel ou voisines de celui-ci prévues à la section 2 du chapitre Ier du titre
-II du livre III du code pénal ; 
+II du livre III du code pénal ;
 
-c) Blanchiment ; 
+c) Blanchiment ;
 
-d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ; 
+d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ;
 
 e) Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de
-l'autorité ; 
+l'autorité ;
 
-f) Participation à une association de malfaiteurs ; 
+f) Participation à une association de malfaiteurs ;
 
-g) Trafic de stupéfiants ; 
+g) Trafic de stupéfiants ;
 
 h) Proxénétisme ou l'une des infractions prévues par les sections 2 et 2 bis du chapitre V du titre II du livre II du code
-pénal ; 
+pénal ;
 
-i) L'une des infractions prévues à la section 3 du même chapitre ; 
+i) L'une des infractions prévues à la section 3 du même chapitre ;
 
-j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de
-commerce ; 
+j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de commerce ;
 
-k) Banqueroute ; 
+k) Banqueroute ;
 
-l) Pratique de prêt usuraire ; 
+l) Pratique de prêt usuraire ;
 
 m) L'une des infractions à la législation sur les jeux de hasard, casinos et loteries, prévues par les dispositions des
-articles L. 324-1 à L. 324-10 du code de la sécurité intérieure ; 
+articles L. 324-1 à L. 324-10 du code de la sécurité intérieure ;
 
-n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ; 
+n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
 
-o) Fraude fiscale ; 
+o) Fraude fiscale ;
 
 p) L'une des infractions prévues aux articles L. 121-6, L. 121-28, L. 122-8 à L. 122-10, L. 213-1 à L. 213-5, L. 217-1 à L.
-217-3, L. 217-6 et L. 217-10 du code de la consommation ; 
+217-3, L. 217-6 et L. 217-10 du code de la consommation ;
 
-q) L'une des infractions prévues au code monétaire et financier ; 
+q) L'une des infractions prévues au code monétaire et financier ;
 
-r) L'une des infractions prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5 et L. 8224-1 du code du travail ; 
+r) L'une des infractions prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5 et L. 8224-1 du code du travail ;
 
-s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ; 
+s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ;
 
 t) L'une des infractions à la législation ou à la réglementation applicable aux entreprises régies par le code des
 assurances, aux institutions de prévoyance régies par le titre 3 du livre 9 du code de la sécurité sociale, à leurs unions,
 aux sociétés de groupe assurantiel de protection sociale et aux mutuelles, unions et fédérations régies par le code de la
-mutualité ; 
+mutualité ;
 
-3° A la destitution des fonctions d'officier public ou ministériel. 
+3° A la destitution des fonctions d'officier public ou ministériel.
 
-II.-L'incapacité prévue au premier alinéa s'applique à toute personne à l'égard de laquelle a été prononcée une mesure
+II. – L'incapacité prévue au premier alinéa s'applique à toute personne à l'égard de laquelle a été prononcée une mesure
 définitive de faillite personnelle ou une autre mesure définitive d'interdiction dans les conditions prévues par le livre VI
-du code de commerce. 
+du code de commerce.
 
-III.-Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du code pénal, la juridiction prononçant la
-décision qui entraîne cette incapacité peut en réduire la durée. 
+III. – Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du code pénal, la juridiction prononçant la
+décision qui entraîne cette incapacité peut en réduire la durée.
 
-IV.-Les personnes exerçant une fonction, une activité ou une profession mentionnée au premier alinéa du I qui font l'objet de
-l'une des condamnations prévues aux I et II doivent cesser leur activité dans un délai d'un mois à compter de la date à
+IV. – Les personnes exerçant une fonction, une activité ou une profession mentionnée au premier alinéa du I qui font l'objet
+de l'une des condamnations prévues aux I et II doivent cesser leur activité dans un délai d'un mois à compter de la date à
 laquelle la décision de justice est devenue définitive. Ce délai peut être réduit ou supprimé par la juridiction qui a rendu
-cette décision. 
+cette décision.
 
-V.-En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
+V. – En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
 constituant, selon la loi française, un crime ou l'un des délits mentionnés au I, le tribunal correctionnel du domicile du
 condamné déclare, à la requête du ministère public, après constatation de la régularité et de la légalité de la condamnation
 et l'intéressé ayant été dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue au
-premier alinéa du I. 
+premier alinéa du I.
 
 Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une faillite personnelle
 prononcée par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France. La demande
 d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du
-domicile du condamné. 
+domicile du condamné.
 
-VI.-Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de
-l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation
-d'exercice. 
+VI. – Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de
+l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation d'exercice.
 
-VII.-Les personnes appelées à diriger une entreprise, une société ou une compagnie mentionnée au premier alinéa du I ou à y
+VII. – Les personnes appelées à diriger une entreprise, une société ou une compagnie mentionnée au premier alinéa du I ou à y
 exercer une des fonctions clés mentionnées à l'article L. 354-1 doivent posséder l'honorabilité, la compétence ainsi que
-l'expérience nécessaires à leurs fonctions. 
+l'expérience nécessaires à leurs fonctions.
 
-Les membres du conseil d'administration ou du conseil de surveillance des personnes mentionnées aux 1° et 2° du B du I de
-l'article L. 612-2 du code monétaire et financier disposent de l'honorabilité, de la compétence et de l'expérience requises. 
+Les membres du conseil d'administration ou du conseil de surveillance des personnes mentionnées aux 1°, 2° et 9° du B du I de
+l'article L. 612-2 du code monétaire et financier disposent de l'honorabilité, de la compétence et de l'expérience requises.
 
 Pour apprécier la compétence des intéressés, l'Autorité de contrôle prudentiel et de résolution tient compte de leur
 formation et de leur expérience de façon proportionnée à leurs attributions, notamment l'expérience acquise en tant que
 président d'un conseil ou d'un comité. L'autorité tient compte également, dans l'appréciation portée sur chaque personne, de
 la compétence, de l'expérience et des attributions des autres membres de l'organe auquel elle appartient. Lorsque des mandats
 ont été antérieurement exercés, la compétence est présumée à raison de l'expérience acquise. Pour les nouveaux membres,
-l'autorité tient compte des formations dont ils pourront bénéficier tout au long de leur mandat. 
+l'autorité tient compte des formations dont ils pourront bénéficier tout au long de leur mandat.
 
-VIII.-Lorsque l'Autorité de contrôle prudentiel et de résolution est amenée à se prononcer sur la qualité des actionnaires
+VIII. – Lorsque l'Autorité de contrôle prudentiel et de résolution est amenée à se prononcer sur la qualité des actionnaires
 ainsi que sur l'honorabilité, la compétence et l'expérience des personnes qui dirigent effectivement l'entreprise ou qui sont
 responsables de fonctions clés au sens de l'article L. 322-3-2 et lorsque ces personnes exercent de telles fonctions auprès
 d'une autre entité du même groupe au sens de l'article L. 356-1, elle consulte les autorités compétentes de cette autre
-entité. Elle communique à ces autorités les informations utiles à l'exercice de leurs missions. 
+entité. Elle communique à ces autorités les informations utiles à l'exercice de leurs missions.
 
-IX.-Les dispositions du présent article sont applicables au mandataire général désigné par les entreprises opérant en régime
-d'établissement. 
+IX. – Les dispositions du présent article sont applicables au mandataire général désigné par les entreprises opérant en
+régime d'établissement.
 
-X.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+X. – Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -15597,7 +15681,6 @@ X.-Un décret en Conseil d'Etat précise les conditions d'application du présen
 	  - Décret n°2004-342 du 21 avril 2004 - art. 3 (Ab)
 	  - Loi n°2005-1564 du 15 décembre 2005 - art. 16 (V)
 	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 19 (V)
-	  - Code de la mutualité - art. L211-8 (VD)
 	  - Code de la mutualité - art. L211-8-1 (VD)
 	  - Code des assurances - art. A321-2 (V)
 	  - Code des assurances - art. L321-10 (V)
@@ -15618,28 +15701,28 @@ X.-Un décret en Conseil d'Etat précise les conditions d'application du présen
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 3
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
 	  - Code de la consommation - art. L121-28
 	  - Code de la consommation - art. L121-6
-	  - Code de la consommation - art. L122-8 (V)
-	  - Code de la consommation - art. L213-1 (V)
-	  - Code de la consommation - art. L217-1 (V)
+	  - Code de la consommation - art. L122-8
+	  - Code de la consommation - art. L213-1
+	  - Code de la consommation - art. L217-1
 	  - Code de la consommation - art. L217-10
 	  - Code de la consommation - art. L217-6
 	  - Code pénal - art. 132-21
 	  - Code monétaire et financier - art. L517-4
-	  - Code monétaire et financier - art. L612-2
+	  - Code monétaire et financier - art. L612-2 (V)
 	  - Code du travail - art. L8221-1
-	  - Code du travail - art. L8224-1 (V)
-	  - Code des assurances - art. L310-1 (VD)
-	  - Code des assurances - art. L310-1-1 (VD)
-	  - Code des assurances - art. L322-1-2 (VD)
-	  - Code des assurances - art. L354-1 (VD)
-	  - Code des assurances - art. L356-1 (VD)
-	  - Code de la sécurité intérieure - art. L324-1 (V)
+	  - Code du travail - art. L8224-1
+	  - Code des assurances - art. L310-1
+	  - Code des assurances - art. L310-1-1
+	  - Code des assurances - art. L322-1-2 (V)
+	  - Code des assurances - art. L354-1
+	  - Code des assurances - art. L356-1
+	  - Code de la sécurité intérieure - art. L324-1
 
 
 ###### Article L322-2-1
@@ -16419,10 +16502,10 @@ terme de délais et dans des conditions fixées par décret en Conseil d'Etat.
 ###### Article L322-26-1
 
 Les sociétés d'assurance mutuelles sont des personnes morales de droit privé ayant un objet non commercial. Elles sont
-constituées pour assurer les risques apportés par leurs sociétaires. Moyennant le paiement d'une cotisation fixe ou variable,
-elles garantissent à ces derniers le règlement intégral des engagements qu'elles contractent. Toutefois, les sociétés
-d'assurance mutuelles pratiquant les opérations d'assurance sur la vie ou de capitalisation ne peuvent recevoir de
-cotisations variables. 
+constituées pour assurer les risques apportés par leurs sociétaires ou pour proposer la fourniture d'opérations mentionnées à
+l'article L. 143-1. Moyennant le paiement d'une cotisation fixe ou variable, elles garantissent à ces derniers le règlement
+intégral des engagements qu'elles contractent. Toutefois, les sociétés d'assurance mutuelles pratiquant les opérations
+d'assurance sur la vie ou de capitalisation ne peuvent recevoir de cotisations variables.
 
 Ces sociétés fonctionnent sans capital social, dans des conditions fixées, pour l'ensemble des catégories mentionnées à
 l'article L. 322-26-4, par décret en Conseil d'Etat.
@@ -16443,17 +16526,13 @@ l'article L. 322-26-4, par décret en Conseil d'Etat.
 	  - Code des assurances - art. L322-26-7 (V)
 	  - Code des assurances - art. R322-42 (V)
 
-	**Liens**:
-
-	  - DEPLACE: Loi n°2014-856 du 31 juillet 2014 - art. 54
-
 	**Modifié par**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 57
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code des assurances - art. L322-26-4 (V)
+	  - Code des assurances - art. L322-26-4
 
 
 ###### Article L322-26-1-1
@@ -19376,18 +19455,22 @@ contradictoire prévue à l'article L. 612-35 du code monétaire et financier.
 ###### Article L352-4
 
 Pour les entreprises d'assurance exerçant les opérations mentionnées aux articles L. 143-1 et L. 310-14, l'évaluation de leur
-solvabilité s'effectue, jusqu'au 31 décembre 2019, selon des modalités fixées par un décret en Conseil d'Etat.
+solvabilité s'effectue, jusqu'au 31 décembre 2022, selon des modalités fixées par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 4
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 5
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code des assurances - art. L143-1 (V)
-	  - Code des assurances - art. L310-14 (V)
+	  - Code des assurances - art. L143-1 (VT)
+	  - Code des assurances - art. L310-14 (VT)
 
 	**Cité par**:
 
@@ -21671,6 +21754,617 @@ permettre d'exercer la surveillance prévue au premier alinéa.
 	  - Code des assurances - art. R370-6 (V)
 
 
+### Titre VIII : Fonds de retraite professionnelle supplémentaire
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article L381-1
+
+Les fonds de retraite professionnelle supplémentaire sont des personnes morales de droit privé ayant pour objet la couverture
+d'engagements de retraite professionnelle supplémentaire, telle que définie à l'article L. 143-1.
+
+Les fonds de retraite professionnelle supplémentaire limitent leur activité à la couverture d'engagements de retraite
+professionnelle supplémentaire et aux activités qui en découlent, notamment la couverture de garanties complémentaires
+mentionnées à l'article L. 143-2.
+
+Les fonds de retraite professionnelle supplémentaire peuvent se voir transférer des risques provenant d'autres fonds de
+retraite professionnelle supplémentaire, de mutuelles ou d'unions de retraite professionnelle supplémentaire mentionnées à
+l'article L. 214-1 du code de la mutualité et d'institutions de retraite professionnelle supplémentaire mentionnées à
+l'article L. 942-1 du code de la sécurité sociale, lorsque le transfert est proportionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L561-2 (VD)
+
+
+###### Article L381-2
+
+I. – Un même fonds de retraite professionnelle supplémentaire peut couvrir plusieurs contrats relatifs à des engagements de
+retraite professionnelle supplémentaire et peut, par dérogation aux dispositions du code de commerce relatives aux comptes
+sociaux, établir une ou plusieurs comptabilités auxiliaires d'affectation pour les engagements de ces contrats. Cette
+disposition peut s'appliquer individuellement à un contrat.
+
+Les comptabilités auxiliaires d'affectation relatives à des opérations du fonds de retraite professionnelle supplémentaire,
+mentionnées aux articles L. 134-2 et L. 441-8, sont établies séparément des comptabilités auxiliaires d'affectation
+mentionnées à l'alinéa précédent.
+
+II. – Sans préjudice des droits des titulaires de créances nées de la gestion de ces opérations, aucun créancier du fonds de
+retraite professionnelle supplémentaire, autre que les adhérents, membres participants, participants, assurés ou
+bénéficiaires au titre des opérations relevant de la couverture d'engagements de retraite professionnelle supplémentaire et
+faisant l'objet d'une comptabilité auxiliaire d'affectation en application du I, ne peut se prévaloir d'un quelconque droit
+sur les biens et droits résultant des enregistrements comptables établis dans le cadre de cette comptabilité auxiliaire
+d'affectation, même sur le fondement du livre VI du code de commerce, des articles 2331 et 2375 du code civil, des articles
+L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du présent code, de l'article L. 932-24 du code de la sécurité sociale ou de
+l'article L. 212-23 du code de la mutualité.
+
+III. – En cas d'insuffisance de représentation des engagements faisant l'objet d'une comptabilité auxiliaire d'affectation
+mentionnée au premier alinéa du I, et nonobstant toute procédure qui pourrait être engagée dans le cadre de la section 7 du
+chapitre V du présent titre, le fonds de retraite professionnelle supplémentaire et le ou les souscripteurs conviennent d'un
+plan de redressement permettant de parfaire la représentation de ces engagements par affectation d'actifs représentatifs de
+réserves ou de provisions autres que ceux représentatifs de ses engagements. Lorsque la représentation des engagements du ou
+des contrats le rend possible, les actifs affectés à ce ou ces contrats ou leur contre-valeur sont réaffectés aux autres
+opérations du fonds de retraite professionnelle supplémentaire dans des conditions convenues entre ce dernier et le ou les
+souscripteurs des contrats faisant l'objet de la comptabilité auxiliaire d'affectation. En cas de désaccord entre les
+parties, l'Autorité de contrôle prudentiel et de résolution détermine le montant et le calendrier d'affectation d'actifs par
+le fonds de retraite professionnelle supplémentaire.
+
+L'élaboration du plan de redressement tient compte de la situation particulière du fonds de retraite professionnelle
+supplémentaire au titre de la comptabilité auxiliaire d'affectation faisant l'objet de ce plan.
+
+Le plan de redressement est tenu à la disposition des adhérents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+###### Article L381-3
+
+Les fonds de retraite professionnelle supplémentaire doivent être constitués sous la forme d'une société anonyme ou d'une
+société d'assurance mutuelle et obéissent aux règles de constitution et de fonctionnement communes ou propres à chacune de
+ces formes juridiques, notamment celles figurant au chapitre II du titre II du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+###### Article L381-4
+
+Les dispositions des titres Ier, III, IV et VI du livre Ier et du chapitre Ier du titre IV du livre IV applicables aux
+entreprises d'assurance sur la vie ou de capitalisation sont applicables aux contrats souscrits par les fonds de retraite
+professionnelle supplémentaire. Pour l'application de ces dispositions, les fonds de retraite professionnelle supplémentaire
+sont assimilés à des entreprises d'assurance sur la vie ou de capitalisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+###### Article L381-5
+
+Les dispositions de l'article L. 310-25 et des chapitres III, VI, VII et VIII du titre II du présent livre, applicables aux
+entreprises d'assurance sur la vie ou de capitalisation, s'appliquent aux fonds de retraite professionnelle supplémentaire.
+
+Les fonds de retraite professionnelle supplémentaire constitués sous la forme d'une société anonyme sont dispensés du
+prélèvement prévu à l'article L. 232-10 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+###### Article L381-6
+
+Sous réserve d'adaptations prévues par voie réglementaire, le titre IV du présent livre est applicable aux fonds de retraite
+professionnelle supplémentaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+###### Article L381-7
+
+Sauf dispositions contraires, un décret en Conseil d'Etat précise les modalités d'application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+#### Chapitre II : Agrément
+
+##### Section 1 : Agrément administratif
+
+###### Article L382-1
+
+I. – Les fonds de retraite professionnelle supplémentaire ne peuvent commencer leurs opérations qu'après avoir obtenu un
+agrément administratif délivré par l'Autorité de contrôle prudentiel et de résolution.
+
+L'agrément est accordé sur demande du fonds, pour des opérations de retraite professionnelle supplémentaire et pour la
+couverture de garanties complémentaires mentionnées à l'article L. 143-2 qui en découlent. Le fonds ne peut pratiquer que les
+opérations pour lesquelles il a été agréé.
+
+II. – Les autorités compétentes de l'autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
+européen concerné sont consultées avant l'octroi d'un agrément à un fonds de retraite professionnelle supplémentaire qui
+est :
+
+1° Soit une filiale d'une entreprise d'assurance ou de réassurance agréée dans un autre Etat membre de l'Union européenne ou
+partie à l'accord sur l'Espace économique européen ;
+
+2° Soit une filiale de l'entreprise mère d'une entreprise d'assurance ou de réassurance agréée dans un autre Etat membre de
+l'Union européenne ou partie à l'accord sur l'Espace économique européen ;
+
+3° Soit une entreprise contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'assurance ou
+de réassurance agréée dans un autre Etat membre ou partie à l'accord sur l'Espace économique européen.
+
+L'Autorité de contrôle prudentiel et de résolution consulte également l'autorité chargée de la surveillance des
+établissements de crédit ou des entreprises d'investissement de l'Etat membre de l'Union européenne ou partie à l'accord sur
+l'Espace économique européen concerné, lorsqu'elle se prononce sur une demande d'agrément présentée par une filiale d'un
+établissement de crédit agréé ou d'une entreprise d'investissement agréée dans un autre Etat membre de l'Union européenne ou
+partie à l'accord sur l'Espace économique européen ou par une filiale de l'entreprise mère d'une entreprise d'investissement
+agréée ou d'un établissement de crédit agréé dans autre un Etat membre de l'Union européenne ou partie à l'accord sur
+l'Espace économique européen ou par une entreprise contrôlée par une personne, physique ou morale, qui contrôle également une
+entreprise d'investissement agréée ou un établissement de crédit agréé dans un autre Etat membre de l'Union européenne ou
+partie à l'accord sur l'Espace économique européen.
+
+III. – L'Autorité de contrôle prudentiel et de résolution informe la Commission européenne, l'Autorité européenne des
+assurances et des pensions professionnelles et les autorités de contrôle des autres Etats membres de l'Union européenne ou
+partie à l'accord sur l'Espace économique européen de toute décision d'agrément d'un fonds de retraite professionnelle
+supplémentaire contrôlé par une entreprise mère au sens de l'article L. 356-1, dont le siège social est établi dans un Etat
+non partie à l'accord sur l'Espace économique européen. Cette information précise la structure du groupe.
+
+**Nota:**
+
+Conformément à l'article 18 de l'ordonnance n° 2017-484 du 6 avril 2017, au cours de l'année 2017, les agréments accordés par
+l'Autorité de contrôle prudentiel et de résolution en application des articles L. 382-1 du code des assurances, L. 214-7 du
+code de la mutualité et L. 942-7 du code de la sécurité sociale et les opérations de transfert autorisées par l'Autorité dans
+les conditions prévues aux articles L. 384-1 du code des assurances, L. 214-9 du code de la mutualité et L. 942-9 du code de
+la sécurité sociale le sont dans les mêmes conditions que si ces articles avaient été applicables à compter du 1er janvier
+2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+###### Article L382-2
+
+Pour accorder l'agrément administratif prévu à l'article L. 382-1, l'Autorité de contrôle prudentiel et de résolution vérifie
+que :
+
+1° Les moyens techniques et financiers que le fonds propose de mettre en œuvre sont suffisants et adéquats au regard de son
+programme d'activité ;
+
+2° Les personnes chargées de diriger ou d'administrer le fonds possèdent l'honorabilité, la compétence et l'expérience
+nécessaires à leurs fonctions, appréciées suivant les conditions définies à l'article L. 322-2 ;
+
+3° La répartition de son capital et la qualité des actionnaires ou, pour les fonds constitués sous forme de sociétés
+d'assurance mutuelle mentionnées à l'article L. 322-26-1, les mutuelles ou unions de retraite professionnelle supplémentaire
+mentionnées à l'article L. 214-1 du code de la mutualité et les institutions de retraite professionnelle supplémentaire
+mentionnées à l'article L. 942-1 du code de la sécurité sociale, les modalités de constitution du fonds d'établissement,
+garantissent une gestion saine et prudente ;
+
+4° Le système de gouvernance est conforme à la section 4 du chapitre V du présent titre.
+
+L'octroi de l'agrément peut être subordonné au respect d'engagements souscrits par le fonds requérant.
+
+L'Autorité de contrôle prudentiel et de résolution refuse l'agrément lorsque le bon exercice de sa mission de surveillance du
+fonds est susceptible d'être entravé par l'existence de liens étroits entre le fonds requérant et d'autres personnes
+physiques ou morales. Elle refuse également l'agrément lorsque l'existence de dispositions législatives, réglementaires ou
+administratives d'un Etat qui n'est pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs
+de ces personnes, ou des difficultés tenant à l'application de ces dispositions, entravent le bon exercice de sa mission de
+surveillance.
+
+La liste des documents à produire à l'appui d'une demande d'agrément présentée conformément à l'article L. 382-1 est définie
+par l'Autorité de contrôle prudentiel et de résolution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+###### Article L382-3
+
+I. – Lorsqu'un fonds de retraite professionnelle supplémentaire renonce expressément à son agrément en s'engageant à ne plus
+souscrire de nouveaux contrats, ne fait pas usage de son agrément dans un délai d'un an à compter de la date de la
+publication au Journal officiel de la décision d'agrément ou a cessé d'exercer l'activité correspondant à son agrément
+pendant deux exercices consécutifs, il informe immédiatement l'Autorité de contrôle prudentiel et de résolution. L'Autorité
+constate sans délai la caducité de l'agrément, qui est publiée au Journal officiel.
+
+En cas de transfert par le fonds de la totalité de son portefeuille de contrats, l'Autorité de contrôle prudentiel et de
+résolution constate sans délai la caducité de son agrément, qui est publiée au Journal officiel.
+
+II. – Un fonds de retraite professionnelle supplémentaire dont la caducité de l'agrément a été constatée reste soumis au
+contrôle de l'Autorité de contrôle prudentiel et de résolution jusqu'à ce que l'ensemble des engagements résultant des
+contrats souscrits par le fonds ait été intégralement et définitivement réglé aux assurés et aux tiers bénéficiaires ou que
+la totalité de son portefeuille de contrats ait fait l'objet d'un transfert autorisé dans les conditions prévues à l'article
+L. 384-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+##### Section 2 : Ouverture d'une succursale et exercice de la libre prestation de services
+
+###### Article L382-4
+
+Tout fonds de retraite professionnelle supplémentaire projetant de fournir des services d'institution de retraite
+professionnelle sur le territoire d'un autre Etat membre de l'Union européenne le notifie, pour chaque fourniture de service
+impliquant une entreprise d'affiliation distincte, à l'Autorité de contrôle prudentiel et de résolution. L'Autorité, à moins
+qu'elle n'ait des raisons de penser que les structures administratives ou la situation financière de l'organisme ne sont pas
+compatibles avec les opérations proposées dans l'autre Etat, communique à l'autorité compétente de l'autre Etat les documents
+permettant à cette dernière d'autoriser l'exercice de l'activité envisagée.
+
+Lorsqu'elle est informée par l'autorité compétente de l'Etat dans lequel un fonds de retraite professionnelle supplémentaire
+propose des services d'institution de retraite professionnelle que cet organisme a enfreint une disposition du droit social
+ou du droit du travail de cet Etat, l'Autorité de contrôle prudentiel et de résolution prend les mesures nécessaires parmi
+celles mentionnées à l'article L. 612-33 du code monétaire et financier pour mettre fin à cette infraction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+#### Chapitre III : Retrait d'agrément
+
+###### Article L383-1
+
+Sans préjudice de l'article L. 612-39 du code monétaire et financier, l'agrément administratif prévu à l'article L. 382-1 du
+présent code peut être retiré par l'Autorité de contrôle prudentiel et de résolution en cas d'absence prolongée d'activité,
+de rupture de l'équilibre entre les moyens financiers du fonds de retraite professionnelle supplémentaire et son activité ou,
+si l'intérêt général l'exige, de changements substantiels affectant la répartition de son capital, la qualité des
+actionnaires ou la composition des organes de direction. Il peut également être retiré par l'Autorité lorsque les engagements
+mentionnés à l'article L. 382-2 ne sont plus respectés alors que la situation du fonds justifie leur maintien.
+
+L'Autorité de contrôle prudentiel et de résolution retire l'agrément accordé à un fonds de retraite professionnelle
+supplémentaire lorsque ce dernier ne dispose plus de la marge de solvabilité nécessaire à la couverture du fonds de garantie,
+si elle considère que le plan de financement présenté conformément à l'article L. 385-8 est manifestement insuffisant ou si,
+dans les trois mois qui suivent la constatation du défaut de couverture du fonds de garantie, le fonds de retraite
+professionnelle supplémentaire concerné ne se conforme pas au plan de financement approuvé par elle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+#### Chapitre IV : Transfert de portefeuille
+
+##### Section 1 : Transfert entre entreprises d'assurance et fonds de retraite professionnelle supplémentaire 
+
+###### Article L384-1
+
+Les entreprises d'assurance et leurs succursales mentionnées au 1° de l'article L. 310-2 ainsi que les succursales françaises
+d'entreprises d'assurance mentionnées au 4° du même article peuvent être autorisées, dans les conditions définies à l'article
+L. 324-1, à transférer tout ou partie de leur portefeuille de contrats offrant les prestations mentionnées à l'article L.
+143-1 à un ou plusieurs fonds de retraite professionnelle supplémentaire, mutuelles ou unions de retraite professionnelle
+supplémentaire mentionnées à l'article L. 214-1 du code de la mutualité et institutions de retraite professionnelle
+supplémentaire mentionnées à l'article L. 942-1 du code de la sécurité sociale.
+
+A compter de la date de publication au Journal officiel de l'avis prévu au deuxième alinéa de l'article L. 324-1,
+l'entreprise d'assurance concernée par cette demande de transfert, le ou les fonds de retraite professionnelle supplémentaire
+à qui le portefeuille de contrat concerné serait transféré et, pour les contrats mentionnés au 2° de l'article L. 143-1,
+l'ensemble des souscripteurs de contrats concernés par ce transfert font figurer cette demande de transfert de manière
+apparente et distincte sur leur site internet, jusqu'à la décision de l'Autorité de contrôle prudentiel et de résolution
+relative à cette demande.
+
+A compter du 1er janvier 2023, les possibilités de transfert prévues au précédent alinéa ne sont possibles que dans le cadre
+de réorganisations juridiques des groupes auxquels appartiennent les entreprises d'assurance, auprès de qui ont été souscrits
+ces contrats ou dans les cas de réorganisations juridiques des personnes morales souscriptrices de ces contrats.
+
+**Nota:**
+
+Conformément à l'article 18 de l'ordonnance n° 2017-484 du 6 avril 2017, au cours de l'année 2017, les agréments accordés par
+l'Autorité de contrôle prudentiel et de résolution en application des articles L. 382-1 du code des assurances, L. 214-7 du
+code de la mutualité et L. 942-7 du code de la sécurité sociale et les opérations de transfert autorisées par l'Autorité dans
+les conditions prévues aux articles L. 384-1 du code des assurances, L. 214-9 du code de la mutualité et L. 942-9 du code de
+la sécurité sociale le sont dans les mêmes conditions que si ces articles avaient été applicables à compter du 1er janvier
+2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+###### Article L384-2
+
+Les fonds de retraite professionnelle supplémentaire peuvent être autorisés, dans les conditions définies à l'article L.
+324-1, à transférer tout ou partie de leur portefeuille de contrats à des entreprises d'assurance et leurs succursales
+mentionnées au 1° de l'article L. 310-2 ainsi qu'à des succursales françaises d'entreprises d'assurance mentionnées au 4° du
+même article, à des mutuelles ou unions régies par le livre II du code de la mutualité ou à des institutions de prévoyance,
+uniquement dans le cadre de réorganisations juridiques des groupes auxquels appartiennent ces fonds de retraite
+professionnelle supplémentaire ou dans les cas de réorganisations juridiques des personnes morales souscriptrices de ces
+contrats, ainsi que dans le cadre d'un plan de rétablissement, d'un plan de convergence ou d'un plan de financement à court
+terme mentionnés à l'article L. 385-8 et dans le cadre de mesures conservatoires prises en application de l'article L. 612-33
+du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+##### Section 2 : Transfert entre fonds de retraite professionnelle supplémentaire 
+
+###### Article L384-3
+
+Les fonds de retraite professionnelle supplémentaire peuvent être autorisés, dans les conditions définies à l'article L.
+324-1, à transférer tout ou partie de leur portefeuille de contrats à un ou plusieurs fonds de retraite professionnelle
+supplémentaire, mutuelles ou unions de retraite professionnelle supplémentaire mentionnées à l'article L. 214-1 du code de la
+mutualité et d'institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du code de la
+sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+###### Article L384-4
+
+I. – Lorsque les opérations de fusion ou de scission mentionnées à l'article L. 236-1 du code de commerce comportent des
+transferts de portefeuille de contrats réalisés dans les conditions prévues à l'article L. 384-3 du présent code, les
+articles L. 228-65, L. 228-73, L. 236-13, L. 236-14, L. 236-15, L. 236-18 et L. 236-21 du code de commerce ne sont pas
+applicables.
+
+II. – Lorsque les opérations de fusion ou de scission ne comportent pas de transfert de portefeuille de contrats réalisé dans
+les conditions prévues à l'article L. 384-3, les fonds de retraite professionnelle supplémentaire sont tenus de fournir à
+l'Autorité de contrôle prudentiel et de résolution une déclaration accompagnée de tous documents utiles exposant les buts et
+les modalités de l'opération projetée un mois avant sa réalisation définitive. Durant ce délai, l'Autorité peut s'opposer à
+l'opération si elle juge qu'elle n'est pas conforme à l'intérêt des assurés ou des créanciers ou qu'elle a pour conséquence
+de diminuer la valeur de réalisation des placements correspondant à des engagements pris envers les assurés, déterminée
+conformément aux dispositions de l'article L. 344-1. Elle peut également demander les documents complémentaires nécessaires à
+l'appréciation de l'opération. Dans ce dernier cas, le délai d'un mois pendant lequel l'Autorité peut s'opposer à la
+poursuite de l'opération court à compter de la date de production des documents demandés et la réalisation définitive de
+l'opération ne peut intervenir avant l'expiration du même délai.
+
+Les fonds de retraite professionnelle supplémentaire constitués sous la forme de société anonyme sont en outre assujettis,
+pour les opérations de fusion ou de scission ne comportant pas de transfert de portefeuille de contrats, à l'ensemble des
+dispositions du livre II du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+##### Section 3 : Règles comptables relatives aux transferts de contrats de retraite professionnelle supplémentaire 
+
+###### Article L384-5
+
+I. – Les actifs transférés avec un portefeuille de contrats de retraite professionnelle supplémentaire par une entreprise
+d'assurance sur la vie ou de capitalisation ou un fonds de retraite professionnelle supplémentaire sont affectés à une
+section comptable distincte du bilan de l'entreprise ou du fonds cessionnaire des contrats.
+
+Pour le calcul de la participation aux bénéfices afférents à ces actifs prévue à l'article L. 132-29, il n'est pas tenu
+compte de l'importance respective des fonds propres et des engagements pris envers les assurés figurant au bilan de
+l'entreprise ou du fonds.
+
+II. – Le I ne s'applique pas aux transferts de portefeuille de contrats de retraite professionnelle supplémentaire prévus à
+l'article L. 384-1 lorsque le ou les fonds de retraite professionnelle supplémentaire cessionnaires inscrivent les
+engagements relatifs aux contrats de retraite professionnelle supplémentaire transférés dans une comptabilité auxiliaire
+d'affectation mentionnée à l'article L. 381-2.
+
+III. – Dans le cadre des opérations de transferts de portefeuille prévues aux articles L. 384-1 à L. 384-3, l'Autorité de
+contrôle prudentiel et de résolution peut, à la demande de l'entreprise ou du fonds cessionnaire des contrats, autoriser
+cette entreprise ou ce fonds à ne pas appliquer les dispositions prévues au I.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+#### Chapitre V : Règles financières et prudentielles
+
+##### Section 1 : Valorisation
+
+###### Article L385-1
+
+Aux fins de la vérification du respect des exigences prévues à la section 2 du présent chapitre, les fonds de retraite
+professionnelle supplémentaire se fondent sur les comptes établis conformément à l'article L. 381-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+##### Section 2 : Exigences de solvabilité
+
+###### Article L385-2
+
+Les fonds de retraite professionnelle supplémentaire doivent à tout moment respecter une marge de solvabilité calculée selon
+des modalités définies par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+###### Article L385-3
+
+Les fonds de retraite professionnelle supplémentaire effectuent chaque année un test de résistance destiné à évaluer leur
+capacité à faire face à leurs engagements à l'égard de leurs assurés, membres, adhérents et participants, notamment dans
+certains scénarios représentant des conditions détériorées de marché.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+##### Section 3 : Investissements 
+
+###### Article L385-4
+
+Les fonds de retraite professionnelle supplémentaire investissent l'ensemble de leurs actifs conformément au principe de la “
+personne prudente ”, dans les conditions fixées à l'article L. 353-1 et sous réserve d'adaptations précisées par voie
+réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+##### Section 4 : Système de gouvernance
+
+###### Article L385-5
+
+Le chapitre IV du titre V du présent livre s'applique aux fonds de retraite professionnelle supplémentaire, sous réserve
+d'adaptations précisées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+##### Section 5 : Informations à fournir à l'Autorité de contrôle prudentiel et de résolution
+
+###### Article L385-6
+
+I. – Les fonds de retraite professionnelle supplémentaire transmettent de manière régulière à l'Autorité de contrôle
+prudentiel et de résolution les informations nécessaires à l'exercice de son contrôle, dont notamment :
+
+– le rapport sur la solvabilité et la situation financière mentionné à l'article L. 385-7 ;
+
+– le rapport régulier au contrôleur ;
+
+– des états quantitatifs annuels et, le cas échéant, trimestriels, selon un format et des modalités définis par l'Autorité de
+contrôle prudentiel et de résolution conformément au premier alinéa de l'article L. 612-24 du code monétaire et financier ;
+
+– le rapport à l'autorité de contrôle sur l'évaluation interne des risques et de la solvabilité mentionnée au deuxième alinéa
+de l'article L. 354-2 ;
+
+– les résultats des tests de résistance mentionnés à l'article L. 385-3.
+
+II. – L'article L. 355-2 est applicable aux fonds de retraite professionnelle supplémentaire.
+
+III. – Les fonds de retraite professionnelle supplémentaire mettent en place les structures et systèmes appropriés permettant
+de répondre aux exigences énoncées aux I et II. En application de l'article L. 354-1, ils élaborent des politiques écrites
+garantissant l'adéquation permanente aux exigences du présent titre des informations qu'ils communiquent à l'Autorité de
+contrôle prudentiel et de résolution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+##### Section 6 : Informations à fournir au public 
+
+###### Article L385-7
+
+Sans préjudice des autres obligations d'information leur incombant, les fonds de retraite professionnelle supplémentaire
+publient annuellement un rapport sur leur solvabilité et leur situation financière. En cas d'événement majeur affectant
+significativement la pertinence des informations contenues dans ce rapport, les fonds publient des informations relatives à
+la nature et aux effets de cet événement.
+
+Les fonds de retraite professionnelle supplémentaire mettent en place des structures et systèmes appropriés permettant de
+répondre aux exigences énoncées à l'alinéa précédent. En application de l'article L. 354-1, ils élaborent des politiques
+écrites garantissant l'adéquation permanente aux exigences du présent chapitre des informations publiées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+##### Section 7 : Mesures de sauvegarde 
+
+###### Article L385-8
+
+Sans préjudice de la mise en œuvre des pouvoirs dont elle dispose aux termes des sections 6 et 7 du chapitre II du titre Ier
+du livre VI du code monétaire et financier, l'Autorité de contrôle prudentiel et de résolution peut exiger des fonds de
+retraite professionnelle supplémentaire un plan de rétablissement, un plan de convergence ou un plan de financement à court
+terme.
+
+Au vu des résultats des tests de résistance mentionnés à l'article L. 385-3, des mesures proposées dans le cadre du plan de
+convergence exigé par l'Autorité ainsi que de tout élément d'informations que le fonds de retraite professionnelle
+supplémentaire fournit pour étayer la pertinence de ces mesures, l'Autorité peut exiger du fonds une marge de solvabilité
+plus importante que celle prescrite par la réglementation afin que le fonds soit en mesure de satisfaire à ses engagements
+dans certains des scénarios des tests. Le niveau de cette exigence supplémentaire de marge de solvabilité et les conditions
+dans lesquelles elle peut être exigée sont déterminés par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
+##### Section 8 : Dispositions applicables aux fonds de retraite professionnelle supplémentaire appartenant à un groupe d'assurance et à un conglomérat financier
+
+###### Article L385-9
+
+Les fonds de retraite professionnelle supplémentaire appartenant à un groupe au sens de l'article L. 356-1 font l'objet d'un
+contrôle de groupe dans les conditions prévues par le chapitre VI du titre V du livre III, sans préjudice des règles
+sectorielles qui leur sont applicables.
+
+Les fonds de retraite professionnelle supplémentaire appartenant à un conglomérat financier au sens de l'article L. 517-3 du
+code monétaire et financier font l'objet d'une surveillance complémentaire dans les conditions prévues par les chapitres VII
+du titre Ier du livre V et III du titre III du livre VI du même code, sans préjudice des règles sectorielles mentionnées au
+2° de l'article L. 517-2 de ce code qui leur sont applicables.
+
+Pour l'application du premier alinéa, lorsque le fonds de retraite professionnelle supplémentaire est, au sens de l'article
+L. 356-1 du présent code, l'entreprise mère ultime du groupe auquel il appartient, le contrôle de groupe s'applique dans les
+conditions prévues au deuxième alinéa de l'article L. 356-2. A cette fin, le fonds de retraite professionnelle supplémentaire
+est assimilé, pour l'application du chapitre VI du titre V du livre III, à une entreprise d'assurance sur la vie relevant du
+régime dit “ Solvabilité II ” au sens de l'article L. 310-3-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 2
+
+
 ### Titre IX : Dispositions applicables dans les îles Wallis et Futuna
 
 ###### Article L390-1
@@ -23424,31 +24118,34 @@ est exprimé en monnaie locale, compte tenu de la contre-valeur dans cette monna
 ###### Article L423-1
 
 Les entreprises agréées en France soumises au contrôle de l'Etat en vertu de l'article L. 310-1, à l'exception de celles qui
-sont agréées pour des opérations citées au 3° du même article, adhèrent à un fonds de garantie destiné à préserver les droits
-de leurs assurés, et des souscripteurs, adhérents et bénéficiaires de leurs contrats d'assurance-vie, de capitalisation,
-couvrant des dommages corporels, ou prévus à l'article L. 441-1. 
+sont agréées pour des opérations citées au 3° du même article ainsi que les fonds de retraite professionnelle supplémentaire,
+adhèrent à un fonds de garantie destiné à préserver les droits de leurs assurés, et des souscripteurs, adhérents et
+bénéficiaires de leurs contrats d'assurance-vie, de capitalisation, couvrant des dommages corporels, ou prévus aux articles
+L. 143-1 et L. 441-1.
 
 Sont exclus de toute indemnisation par le fonds de garantie les contrats d'assurance, bons ou contrats de capitalisation et
-contrats visés à l'article L. 441-1, souscrits par les personnes suivantes : 
+contrats visés à l'article L. 441-1, souscrits par les personnes suivantes :
 
 a) Administrateurs, dirigeants, associés personnellement responsables détenteurs, directement ou indirectement, d'au moins 5
-% du capital de l'entreprise, commissaires aux comptes et assurés ayant les mêmes qualités dans d'autres sociétés du
-groupe ; 
+% du capital de l'entreprise, commissaires aux comptes et assurés ayant les mêmes qualités dans d'autres sociétés du groupe ;
 
 b) Tiers agissant pour le compte des assurés, souscripteurs de contrats, adhérents et bénéficiaires de prestations, cités au
-a ci-dessus ; 
+a ci-dessus ;
 
-c) Entreprises d'assurance relevant du présent code, institutions de prévoyance régies par le code de la sécurité sociale ou
-le code rural ainsi que les mutuelles régies par le code de la mutualité, sauf lorsqu'il s'agit de contrats souscrits au
-profit de leurs salariés ou de leurs clients ; 
+c) Entreprises d'assurance , fonds de retraite professionnelle supplémentaire, mutuelles et unions régies par le code la
+mutualité, y compris les mutuelles et unions de retraite professionnelle supplémentaire mentionnées à l'article L. 214-1 de
+ce code, institutions de prévoyance et unions régies par le titre III du livre IX du code de la sécurité sociale et par le II
+de l'article L. 727-2 du code rural et de la pêche maritime et institutions de retraite professionnelle supplémentaire
+mentionnées à l'article L. 942-1 du code de la sécurité sociale, sauf lorsqu'il s'agit de contrats souscrits au profit de
+leurs salariés ou de leurs clients ;
 
 d) Sociétés entrant dans le périmètre de consolidation défini à l'article L. 233-16 du code de commerce dont relève
-l'entreprise d'assurance, sauf s'il s'agit de contrats souscrits au profit de leurs salariés ou de leurs clients ; 
+l'entreprise d'assurance, sauf s'il s'agit de contrats souscrits au profit de leurs salariés ou de leurs clients ;
 
 e) Etablissements de crédit, sociétés de financement et personnes mentionnées à l'article L. 518-1 du code monétaire et
-financier, sauf pour les contrats souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ; 
+financier, sauf pour les contrats souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ;
 
-f) Organismes de placement collectifs ; 
+f) Organismes de placement collectifs ;
 
 g) Organismes de retraite, sauf lorsqu'il s'agit de contrats souscrits pour le compte des salariés ou retraités de leurs
 adhérents.
@@ -23478,13 +24175,13 @@ adhérents.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 19
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
 	  - Code de commerce - art. L233-16
 	  - Code monétaire et financier - art. L518-1
-	  - Code des assurances - art. L310-1
+	  - Code des assurances - art. L310-1 (V)
 	  - Code des assurances - art. L441-1
 
 
@@ -24798,36 +25495,41 @@ Ces opérations constituent des engagements dont l'exécution dépend de la dur�
 
 ###### Article L441-2
 
-I. ― Sous réserve des dispositions particulières du présent chapitre, les dispositions du livre Ier relatives aux assurances
+I. – Sous réserve des dispositions particulières du présent chapitre, les dispositions du livre Ier relatives aux assurances
 sur la vie s'appliquent aux opérations régies par le présent chapitre, à l'exception des articles L. 131-1, L. 131-2, L.
 132-5-2, L. 132-5-3, L. 132-9, L. 132-9-1, L. 132-20 à L. 132-22-1, L. 132-30 et L. 132-31, des dispositions spécifiques aux
-assurances en cas de décès et du chapitre IV du titre III. Pour l'application de ces dispositions, la référence à la
-provision mathématique est remplacée en tant que de besoin par la référence à la provision mathématique théorique. 
+assurances en cas de décès et du chapitre IV du titre III.
 
-II. ― Les opérations régies par le présent chapitre constituent des assurances de groupe au sens de l'article L. 141-1.
+II. – Les opérations régies par le présent chapitre constituent des assurances de groupe au sens de l'article L. 141-1.
 Lorsque le lien qui unit l'adhérent au souscripteur rend obligatoire l'adhésion à la convention, ces opérations sont dites à
 adhésion obligatoire. Dans les autres cas, elles sont dites à adhésion facultative. Pour ces dernières, la faculté de
-renonciation s'exerce conformément à l'article L. 132-5-1. 
+renonciation s'exerce conformément à l'article L. 132-5-1.
 
-Le contrat doit comporter des clauses tendant à définir, pour assurer la sécurité des parties et la clarté du contrat,
-l'objet du contrat et les obligations respectives des parties, selon des énonciations précisées par décret en Conseil
-d'Etat. 
+La convention doit comporter des clauses tendant à définir, pour assurer la sécurité des parties et la clarté de la
+convention, son objet et les obligations respectives des parties.
 
-III. ― Les conventions relevant du présent chapitre ne peuvent comporter de rachat, sauf dans le cas des évènements énumérés
-à l'article L. 132-23. En ce cas, la valeur de rachat ne peut être inférieure à la valeur de transfert. 
+Les conventions ainsi que toutes les informations relatives à celle-ci, y compris les communications à caractère
+publicitaire, doivent préciser, en caractères très apparents, selon un contenu exact, clair et non trompeur, si la valeur de
+service de l'unité de rente est susceptible de baisser, selon quelles modalités et dans quelles conditions.
 
-IV. ― Une modification de la valeur de service ou de la valeur d'acquisition de l'unité de rente ne constitue pas une
-modification des droits et obligations au sens de l'article L. 141-4, à la différence d'une modification des coefficients de
-surcote et de décote ou des barèmes liés à l'âge.
+Les conventions conclues à compter du 1er juillet 2017 prévoient des possibilités de baisse de la valeur de service de
+l'unité de rente et de conversion, dans des limites précisées par voie réglementaire.
 
-V. ― Les conventions régies par le présent chapitre qui sont constitutives d'un plan d'épargne retraite populaire appliquent
+III. – Les conventions relevant du présent chapitre ne peuvent comporter de rachat, sauf dans le cas des évènements énumérés
+à l'article L. 132-23. En ce cas, la valeur de rachat ne peut être inférieure à la valeur de transfert.
+
+IV. – Une modification de la valeur de service ou de la valeur d'acquisition de l'unité de rente ou une modification des
+coefficients de surcote et de décote ne constitue pas une modification des droits et obligations au sens de l'article L.
+141-4, à la différence d'une modification des barèmes liés à l'âge.
+
+V. – Les conventions régies par le présent chapitre qui sont constitutives d'un plan d'épargne retraite populaire appliquent
 les dispositions de l'article L. 144-2.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-696 du 26 juin 2014 - art. 1
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 12
 
 	**Cite**:
 
@@ -24840,7 +25542,7 @@ les dispositions de l'article L. 144-2.
 	  - Code des assurances - art. L132-9
 	  - Code des assurances - art. L141-1
 	  - Code des assurances - art. L141-4
-	  - Code des assurances - art. L144-2 (M)
+	  - Code des assurances - art. L144-2
 
 	**Cité par**:
 
@@ -24853,57 +25555,36 @@ les dispositions de l'article L. 144-2.
 
 ###### Article L441-3
 
-I. ― Pour les opérations à adhésion facultative, la notice remise par le souscripteur à l'adhérent lors de l'adhésion inclut,
-outre les informations mentionnées au deuxième alinéa de l'article L. 141-4 : 
+I. – Pour les opérations à adhésion facultative, la notice remise par le souscripteur à l'adhérent lors de l'adhésion inclut,
+outre les informations mentionnées au deuxième alinéa de l'article L. 141-4 :
 
-a) La dénomination sociale et les coordonnées du souscripteur ; 
+a) La dénomination sociale et les coordonnées du souscripteur ;
 
-b) Les stipulations essentielles de la convention ; 
+b) Les stipulations essentielles de la convention, notamment les possibilités de baisse de la valeur de service de l'unité de
+rente et de conversion de la convention qui peuvent être prévues conformément au II de l'article L. 441-2 ;
 
 c) La mention que les droits et obligations de l'adhérent peuvent être modifiés par des avenants à ladite convention ainsi
-que les modalités d'adoption de ces avenants par le souscripteur ; 
+que les modalités d'adoption de ces avenants par le souscripteur ;
 
 d) Les conditions d'exercice de la faculté de renonciation ainsi qu'un modèle de lettre destiné à faciliter l'exercice de
-cette faculté ; 
+cette faculté ;
 
 e) Les modalités de la conversion de la convention en rentes viagères selon les conditions fixées par arrêté du ministre
-chargé de l'économie. 
+chargé de l'économie.
 
 Un résumé des caractéristiques essentielles de la convention figure au début de cette notice, dans un format précisé par
 arrêté du même ministre qui en fixe également, de façon limitative, le contenu. Cet arrêté précise également l'ensemble des
-informations qui doivent figurer dans la notice, notamment les stipulations essentielles au sens du b. 
+informations qui doivent figurer dans la notice, notamment les stipulations essentielles au sens du b.
 
-II. ― Pour les opérations à adhésion facultative, le défaut de remise de la notice prévue au I du présent article entraîne de
+II. – Pour les opérations à adhésion facultative, le défaut de remise de la notice prévue au I du présent article entraîne de
 plein droit la prorogation du délai de renonciation prévu à l'article L. 132-5-1, dans les conditions prévues à l'alinéa 6 de
 l'article L. 132-5-2.
-
-III. ― Pour les opérations à adhésion facultative, lorsque les droits acquis par l'adhérent sont représentés par une
-provision mathématique théorique égale ou supérieure à un montant fixé par arrêté du ministre chargé de l'économie, le
-souscripteur est tenu de communiquer, chaque année, à l'adhérent les informations suivantes : 
-
-a) Le montant de la prime ou cotisation versée au titre de l'adhésion au cours de l'année ; 
-
-b) Les valeurs d'acquisition de l'unité de rente correspondant à la situation de l'adhérent au cours de l'année écoulée ; 
-
-c) Le montant total des droits acquis exprimés en nombre d'unité de rente ; 
-
-d) La valeur de service de l'unité de rente et l'âge à laquelle elle correspond ; 
-
-d bis) Le taux moyen de rendement des actifs ; 
-
-e) Lorsque la convention prévoit une réduction du nombre d'unités de rente en cas de cessation du paiement des primes ou
-cotisations, les conditions de cette réduction et le nombre d'unités de rente qui en résulte ; 
-
-f) Pour les opérations dont les prestations sont liées à la cessation d'activité professionnelle, le montant de la valeur de
-transfert. 
-
-Il est également indiqué que les comptes de la convention sont tenus à la disposition de l'adhérent sur simple demande.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-696 du 26 juin 2014 - art. 1
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 12
 
 	**Cité par**:
 
@@ -24921,6 +25602,40 @@ Il est également indiqué que les comptes de la convention sont tenus à la dis
 	  - Code des assurances - art. L141-4
 
 
+###### Article L441-3-1
+
+Pour l'ensemble des opérations régies par le présent chapitre, le souscripteur est tenu de communiquer chaque année à
+l'adhérent :
+
+1° Le montant de la prime ou cotisation versée au titre de l'adhésion au cours de l'année ;
+
+2° Les valeurs d'acquisition de l'unité de rente correspondant à la situation de l'adhérent au cours de l'année écoulée ;
+
+3° Le montant total des droits acquis exprimés en nombre d'unités de rente ;
+
+4° La valeur de service de l'unité de rente, l'âge à laquelle elle correspond et son évolution depuis l'année précédente,
+ainsi que les coefficients de surcote et de décote correspondant à une liquidation différée ou anticipée par rapport à l'âge
+de référence ;
+
+5° Les principales informations techniques et financières de la convention, notamment celles permettant à l'adhérent
+d'apprécier la situation financière de la convention à laquelle il a adhéré ;
+
+6° Pour les opérations dont les prestations sont liées à la cessation d'activité professionnelle, le montant de la valeur de
+transfert ;
+
+7° Lorsque la convention prévoit une réduction du nombre d'unités de rente en cas de cessation du paiement des primes ou
+cotisations, les conditions de cette réduction et le nombre d'unités de rente qui en résulte ;
+
+8° Lorsque la convention prévoit des possibilités de baisse de la valeur de service de l'unité de rente et de conversion, les
+conditions et les modalités de mise en œuvre de ces possibilités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 12
+
+
 ###### Article L441-4
 
 L'entreprise d'assurance ne peut exiger le paiement de primes ou de cotisations.  En cas de cessation du paiement de primes
@@ -24936,23 +25651,26 @@ inscrites au compte de l'adhérent dans des conditions fixées par décret.
 
 ###### Article L441-7
 
-Un décret en Conseil d'Etat détermine les règles techniques et les conditions d'application du présent chapitre.
+Un décret en Conseil d'Etat détermine les règles techniques et les conditions d'application du présent chapitre, notamment
+les modalités selon lesquelles les informations prévues par l'article L. 441-3-1 peuvent être mises à disposition des
+adhérents et la possibilité d'inclure ces informations dans les rapports prévus aux articles L. 143-2-2 et L. 385-7 pour les
+conventions constitutives d'engagements relevant du chapitre III du titre IV du livre Ier, ou dans le rapport prévu au III de
+l'article L. 144-2 pour les conventions relevant de cet article.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-	  - SPEC_APPLI: Code des assurances - art. L441-2 (M)
-	  - SPEC_APPLI: Code des assurances - art. L441-3 (M)
+	  - Décret n°76-666 du 16 juillet 1976
 
 	**Modifié par**:
 
-	  - Loi n°94-5 du 4 janvier 1994 - art. 29 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 12
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des assurances - art. L441-2 (M)
+	  - SPEC_APPLI: Code des assurances - art. L441-3 (M)
 
 	**Cité par**:
 
@@ -24998,6 +25716,50 @@ deuxième alinéas de l'article L. 327-2.
 
 	  - Code des assurances - art. L327-2
 	  - Code des assurances - art. L441-1
+
+
+##### Section IV : Dispositions transitoires.
+
+###### Article L441-10
+
+I. – Les conventions de toute nature existant au 1er juillet 2017 et pratiquant ou prévoyant des opérations mentionnées à
+l'article L. 441-1 doivent être rendues conformes aux dispositions du présent chapitre avant le 31 décembre 2017.
+
+Sans préjudice du II, la mise en conformité des conventions existantes ne peut introduire de possibilité de baisse de la
+valeur de service de l'unité de rente.
+
+Par dérogation à l'article L. 141-4, le souscripteur informe les adhérents des modifications de la convention ayant pour
+objet la mise en conformité mentionnée au premier alinéa dans le cadre de la première information annuelle prévue à l'article
+L. 441-3-1 suivant le 1er janvier 2018.
+
+II. – Les conventions de toute nature existant au 1er juillet 2017 et pratiquant ou prévoyant des opérations mentionnées à
+l'article L. 441-1 peuvent faire l'objet de modifications visant à introduire des possibilités de baisse de la valeur de
+service de l'unité de rente conformes au II de l'article L. 441-2, dans le respect de l'article L. 141-4.
+
+Lorsqu'en application de l'article L. 141-4 un adhérent dénonce son adhésion en raison des modifications apportées à la
+convention à laquelle il a adhéré, ses droits acquis, à la date prévue pour l'entrée en vigueur de ces modifications, sont
+convertis, sur la base d'une équivalence actuarielle, en une rente viagère exprimée en euros et gérés à l'extérieur de la
+comptabilité auxiliaire d'affectation constituée pour la convention, en application de l'article L. 441-8. Cette possibilité
+de dénoncer son adhésion s'applique sans préjudice des autres possibilités de transférer ses droits vers une autre convention
+ou contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°76-666 du 16 juillet 1976
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 12
+
+	**Cite**:
+
+	  - Code des assurances - art. L441-1
+
+	**Cité par**:
+
+	  - Code des assurances - art. L441-4 (V)
 
 
 #### Chapitre II : Autres régimes particuliers d'assurance
