@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-04-08
+Version Consolidée au 2017-04-28
 
 # Partie législative
 
@@ -26979,6 +26979,27 @@ risques définis au deuxième alinéa de l'article L. 111-6.
 
 	  - Code des assurances - art. L111-6 (V)
 	  - Code des assurances - art. L112-2 (V)
+
+
+###### Article R111-3
+
+Les installations d'énergies marines renouvelables mentionnées au d du 1° de l'article L. 111-6 sont les installations de
+production d'électricité à partir de sources d'énergies renouvelables telles que définies à l'article L. 211-2 du code de
+l'énergie, y compris les machines électrogènes et les autres ouvrages du producteur en aval du point de livraison au réseau
+public, situées en mer au-delà du rivage de la mer tel qu'il est défini à l'article L. 2111-4 du code général de la propriété
+des personnes publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-627 du 26 avril 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2111-4 (V)
+	  - Code des assurances - art. L111-6 (V)
+	  - Code de l'énergie - art. L211-2 (V)
 
 
 #### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.
