@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2018-06-09
 
 # Partie législative
 
@@ -36636,7 +36636,7 @@ II.-Sous réserve des dispositions de l'article L. 322-26-2, il est interdit aux
 surveillance et mandataires mutualistes de faire partie du personnel rétribué par la société d'assurance mutuelle, l'union de
 sociétés d'assurance mutuelles, la société de réassurance mutuelle ou la société de groupe d'assurance mutuelle ou de
 recevoir, à l'occasion de l'exercice de leurs fonctions, toute rémunération ou avantage autre que ceux prévus aux articles R.
-322-53 et R. 322-55-1. 
+322-53, R. 322-55-1 et R. 322-120-3. 
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas au président du conseil d'administration lorsqu'il exerce les
 fonctions de directeur général de la société d'assurance mutuelle dans le cas prévu à l'article R. 322-53-2. 
@@ -36688,6 +36688,12 @@ déléguer un administrateur ou un membre du conseil de surveillance dans les fo
 En cas d'empêchement temporaire, cette délégation est donnée pour une durée limitée. Elle est renouvelable. En cas de décès,
 elle vaut jusqu'à l'élection du nouveau président.
 
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2017-206 du 20 février 2017, ces dispositions entrent en vigueur à la prise d'effet
+de la modification des statuts mentionnée au premier alinéa du II de l'article 52 de la loi n° 2016-1691 du 9 décembre 2016
+qui doit prendre effet dans un délai de dix-huit mois à compter de la promulgation de ladite loi.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -36696,13 +36702,14 @@ elle vaut jusqu'à l'élection du nouveau président.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1357 du 13 novembre 2014 - art. 2
+	  - Décret n°2017-206 du 20 février 2017 - art. 2
 
 	**Cite**:
 
-	  - Code des assurances - art. L322-26-2 (V)
-	  - Code des assurances - art. R322-53-2 (V)
-	  - Code des assurances - art. R322-55-1 (V)
+	  - Code des assurances - art. L322-26-2
+	  - Code des assurances - art. R322-120-3 (VD)
+	  - Code des assurances - art. R322-53-2
+	  - Code des assurances - art. R322-55-1
 
 	**Cité par**:
 
@@ -39852,6 +39859,37 @@ du réseau.
 	**Cite**:
 
 	  - Code des assurances - art. L322-27-2
+
+
+###### Article R322-120-3
+
+Le nombre des administrateurs de l'organe central mentionné à l'article L. 322-27-1, qui sont, en vertu des dispositions du
+troisième alinéa de ce même article, élus par l'assemblée générale sur proposition du conseil d'administration, est d'au
+moins un quart du total des administrateurs de cet organe central, sans pouvoir excéder un tiers de ce total. 
+
+Les statuts de l'organe central peuvent prévoir la possibilité pour le conseil d'administration d'allouer à ces
+administrateurs une rémunération pour l'exercice de leur mandat, dont le montant est déterminé par ce conseil dans les
+limites fixées par l'assemblée générale.
+
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2017-206 du 20 février 2017, ces dispositions entrent en vigueur à la prise d'effet
+de la modification des statuts mentionnée au premier alinéa du II de l'article 52 de la loi n° 2016-1691 du 9 décembre 2016
+qui doit prendre effet dans un délai de dix-huit mois à compter de la promulgation de ladite loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-206 du 20 février 2017 - art. 1
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-27-1 (VT)
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-55-2 (VD)
 
 
 ###### Article R322-122
