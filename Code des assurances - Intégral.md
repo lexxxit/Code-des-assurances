@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2018-06-09
+Version Consolidée au 2018-12-31
 
 # Partie législative
 
@@ -11300,9 +11300,10 @@ III.-L'immobilisation peut être prescrite dans les conditions prévues aux arti
 
 ###### Article L211-27
 
-Les amendes prononcées pour violation de l'obligation d'assurance prévue par l'article L. 211-1, y compris les amendes qu'une
-mesure de grâce aurait substituées à l'emprisonnement, sont affectées d'une majoration de 50 % perçue, lors de leur
-recouvrement, au profit du Fonds de garantie institué par l'article L. 420-1. 
+Les amendes forfaitaires, les amendes de composition pénale et les amendes prononcées pour violation de l'obligation
+d'assurance prévue par l'article L. 211-1, y compris les amendes qu'une mesure de grâce aurait substituées à
+l'emprisonnement, sont affectées d'une majoration de 50 % perçue, lors de leur recouvrement, au profit du Fonds de garantie
+institué par l'article L. 420-1. 
 
 Si la juridiction civile est saisie d'une contestation sérieuse, portant sur l'existence ou la validité de l'assurance, la
 juridiction pénale appelée à se prononcer sur les poursuites exercées pour violation de l'obligation d'assurance sursoit à
@@ -11312,15 +11313,20 @@ Les dispositions du présent article ne sont pas applicables lorsque l'assurance
 véhicules ayant leur stationnement habituel sur le territoire d'un Etat visé à l'article L. 211-4 à l'exception de la France
 et de Monaco.
 
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 59 (V) JORF 10 mars 2004
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 	**Cité par**:
 
@@ -11333,13 +11339,12 @@ et de Monaco.
 
 	**Cite**:
 
-	  - Code des assurances - art. L211-1 (V)
-	  - Code des assurances - art. L211-4 (V)
-	  - Code des assurances - art. L420-1 (T)
+	  - Code des assurances - art. L211-1
+	  - Code des assurances - art. L211-4
+	  - Code des assurances - art. L420-1
 
 	**Anciens textes**:
 
-	  - Code des assurances - art. L211-26 (M)
 	  - Code des assurances - art. L211-26 (T)
 
 
@@ -22650,7 +22655,18 @@ V. - Le fonds de garantie peut financer, selon des modalités et dans des limite
 actions visant à réduire le nombre des accidents de la circulation et à prévenir l'absence d'assurance de responsabilité
 civile automobile. 
 
+Le fonds de garantie peut également mener directement, selon des modalités fixées par décret en Conseil d'Etat, des actions
+visant à limiter les cas de défaut d'assurance de responsabilité civile automobile. Pour mener ces actions, le fonds de
+garantie est autorisé à conserver pendant une durée de sept ans les informations communiquées par l'organisme d'information
+mentionné à l'article L. 451-1 relatives aux véhicules terrestres à moteur ne répondant pas à l'obligation d'assurance
+mentionnée à l'article L. 211-1. 
+
 VI. - Le fonds de garantie est l'organisme chargé des missions mentionnées aux articles L. 424-1 à L. 424-7.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -22713,7 +22729,7 @@ VI. - Le fonds de garantie est l'organisme chargé des missions mentionnées aux
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 78
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 	**Anciens textes**:
 
@@ -25972,47 +25988,122 @@ propriétaire ou du conducteur habituel ou du détenteur déclaré du véhicule 
 	  - Code des assurances - art. R451-1 (V)
 
 
+###### Article L451-1-1
+
+I.-L'organisme d'information mentionné à l'article L. 451-1 est chargé de la mise en place d'un fichier des véhicules
+terrestres à moteur assurés conformément au chapitre Ier du titre Ier du livre II et des véhicules de l'Etat non soumis à
+cette obligation d'assurance, en vue de permettre, à partir des immatriculations, des données techniques et de la couverture
+d'assurance responsabilité civile desdits véhicules, l'information : 
+
+1° Des personnes prévue à l'article L. 451-1 ; 
+
+2° De l'Etat dans le cadre de sa mission de contrôle de l'obligation d'assurance de responsabilité civile automobile prévue
+au chapitre Ier du titre Ier du livre II ; 
+
+3° Du fonds de garantie des assurances obligatoires de dommages dans le cadre de ses missions prévues au V de l'article L.
+421-1. 
+
+D'autres organismes peuvent interroger l'organisme d'information à des fins de sécurisation de leurs activités, dans des
+conditions fixées par décret en Conseil d'Etat. 
+
+II.-Un fichier des véhicules susceptibles de ne pas satisfaire à l'obligation d'assurance prévue au chapitre Ier du titre Ier
+du livre II est mis en place sur la base des informations figurant dans le fichier prévu au I du présent article et dans les
+conditions fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
+
+
+###### Article L451-1-2
+
+L'organisme d'information mentionné à l'article L. 451-1 communique à l'Etat, selon des modalités fixées par décret en
+Conseil d'Etat, les informations relatives à l'ensemble des véhicules terrestres à moteur susceptibles de ne pas satisfaire à
+l'obligation d'assurance prévue au chapitre Ier du titre Ier du livre II. 
+
+Lorsque l'Etat en fait la demande dans le cadre de sa mission de contrôle de l'obligation d'assurance de responsabilité
+civile automobile, l'organisme d'information lui indique, selon des modalités fixées par décret en Conseil d'Etat, si le
+véhicule contrôlé répond à l'obligation d'assurance prévue au chapitre Ier du titre Ier du livre II ou s'il bénéficie de
+l'exonération prévue à l'article L. 211-1. 
+
+Pour permettre au fonds de garantie de répondre à ses missions prévues au V de l'article L. 421-1, l'organisme d'information
+lui communique, selon des modalités fixées par décret en Conseil d'Etat, les numéros d'immatriculation des véhicules
+susceptibles de ne pas satisfaire à l'obligation d'assurance prévue au chapitre Ier du titre Ier du livre II
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
+
+
 ###### Article L451-2
 
-Toute entreprise d'assurance couvrant sur le territoire de la République française les risques de responsabilité civile
+I. - Toute entreprise d'assurance couvrant sur le territoire de la République française les risques de responsabilité civile
 résultant de l'emploi de véhicules terrestres à moteur, à l'exclusion de la responsabilité du transporteur, adhère à
 l'organisme d'information visé à l'article L. 451-1. 
 
 Toute entreprise d'assurance qui ne se conforme pas à cette obligation est considérée comme ne fonctionnant plus conformément
-à la législation en vigueur. Elle encourt, selon le cas, les sanctions prévuesaux articles L. 612-39 du code monétaire et
-financier, ou L. 363-4 du présent code. 
+à la législation en vigueur. Elle encourt, selon le cas, les sanctions prévues aux articles L. 612-39 du code monétaire et
+financier, ou L. 363-4 du présent code.
 
-Afin de permettre à l'organisme d'information de répondre aux demandes d'information prévues aux articles L. 451-1 et L.
-451-3 pendant un délai de sept ans après l'accident, les entreprises d'assurance mentionnées à l'article L. 451-1 ont
-l'obligation de lui communiquer, si l'accident est survenu pendant la période de validité du contrat : 
+Pour permettre à l'organisme d'information d'accomplir les missions prévues aux articles L. 451-1 à L. 451-1-2 et L. 451-3,
+les entreprises d'assurance mentionnées au deuxième alinéa du présent article lui communiquent, selon des modalités fixées
+par décret en Conseil d'Etat, pour tous les véhicules qu'elles assurent par un contrat de responsabilité civile automobile,
+les informations suivantes : 
 
-1° Le numéro du contrat d'assurance de responsabilité civile résultant de l'emploi de véhicules terrestres à moteur ayant
-leur stationnement habituel sur le territoire de la République française ; 
+1° La dénomination et l'adresse de l'entreprise d'assurance couvrant la responsabilité civile mentionnée à l'article L.
+211-1 ; 
 
-2° Le numéro de carte internationale d'assurance ou du contrat d'assurance frontière, si le véhicule est couvert par l'un de
-ces documents ; 
+2° Le numéro du contrat d'assurance et sa période de validité ; 
 
-3° Si la personne lésée y a un intérêt légitime, le nom et l'adresse du propriétaire ou du conducteur habituel ou du
-détenteur déclaré du véhicule. 
+3° Le numéro d'immatriculation du véhicule. 
 
-Les entreprises d'assurance sont tenues de conserver ces données, ainsi que les numéros d'immatriculation correspondants,
-pendant un délai de sept ans après l'expiration du contrat d'assurance. Cette obligation repose sur l'entreprise d'assurance
-nouvelle en cas de transfert de portefeuille. 
+II.-Pour permettre à l'organisme d'information d'accomplir les missions prévues aux articles L. 451-1 à L. 451-1-2 et L.
+451-3, l'Etat lui communique, selon des modalités fixées par décret en Conseil d'Etat, pour l'ensemble des véhicules
+dérogataires à l'obligation d'assurance prévue à l'article L. 211-1 : 
+
+1° Le numéro d'immatriculation du véhicule ; 
+
+2° Les coordonnées des autorités qui en sont responsables. 
+
+III.-L'organisme d'information est tenu de conserver les informations mentionnées aux I et II du présent article pendant un
+délai de sept ans à compter de la fin du contrat d'assurance. 
+
+Les entreprises d'assurance sont également tenues de conserver, pendant un délai de sept ans à compter de la fin du contrat
+d'assurance, le nom et l'adresse du propriétaire ou du conducteur habituel ou du détenteur déclaré du véhicule, pour
+permettre à l'organisme d'information de répondre à la demande de la personne lésée dans un accident de la circulation qui y
+a un intérêt légitime. Cette obligation repose sur l'entreprise d'assurance nouvelle en cas de transfert de portefeuille. 
 
 Les organismes immatriculant les véhicules bénéficiant de la dérogation à l'obligation d'assurance prévue à l'article L.
-211-1 sont tenus de conserver le nom et l'adresse du service gestionnaire de ces véhicules pendant un délai de sept ans après
-la fin de leur immatriculation. 
+211-1 sont tenus de conserver le nom et l'adresse du service gestionnaire de ces véhicules pendant un délai de sept ans à
+compter de la fin de leur immatriculation.
 
-Afin de permettre à l'organisme d'information de répondre aux demandes des personnes lésées dans un accident de la
-circulation mettant en cause un véhicule bénéficiant de l'exonération prévue à l'article L. 211-1, l'Etat répond aux demandes
-d'identification formulées par l'organisme d'information et lui communique les coordonnées des autorités chargées de
-l'indemnisation.
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+Conformément au II de l'article 35 de la loi n° 2016-1547 du 18 novembre 2016, les dispositions de l'article L. 451-2 dans
+leur rédaction antérieure à ladite loi, restent applicables pendant une durée fixée par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 8
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 	**Cite**:
 
@@ -26057,24 +26148,51 @@ d'indemnisation mentionné à l'article L. 424-1 et au bureau national d'assuran
 
 ###### Article L451-4
 
-Afin de répondre à la personne lésée qui a prouvé un intérêt légitime à obtenir de l'organisme d'information le nom et
+I.-Dans le cadre des missions prévues aux articles L. 451-1 à L. 451-1-2 et L. 451-3, l'organisme d'information mentionné à
+l'article L. 451-1 du présent code et les entreprises d'assurance, par son intermédiaire, ont accès, dans les conditions
+prévues à l'article L. 330-5 du code de la route, aux immatriculations et aux données techniques du fichier des pièces
+administratives et décisions prévu à l'article L. 330-1 du même code. 
+
+II.-Afin de répondre à la personne lésée qui a prouvé un intérêt légitime à obtenir de l'organisme d'information le nom et
 l'adresse du propriétaire ou du conducteur habituel ou du détenteur déclaré du véhicule impliqué dans l'accident, l'organisme
-d'information peut interroger le fichier national des immatriculations institué par l'article L. 330-1 du code de la route,
-lorsque le véhicule n'est pas assuré.
+d'information peut interroger le fichier des pièces administratives et décisions prévu à l'article L. 330-1 du code de la
+route, lorsque le véhicule n'est pas assuré.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°76-666 1976-07-16
+	  - Décret n°76-666 du 16 juillet 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 83 () JORF 2 août 2003
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 	**Cite**:
 
-	  - Code de la route. - art. L330-1 (V)
+	  - Code de la route. - art. L330-1
+
+
+###### Article L451-5
+
+Il est institué une commission de suivi, chargée de veiller au bon fonctionnement des fichiers prévus à l'article L. 451-1-1.
+Les membres de la commission sont désignés par voie réglementaire.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 
 ### Titre VII : Dispositions applicables dans les îles Wallis et Futuna
